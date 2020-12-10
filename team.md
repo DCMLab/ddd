@@ -31,7 +31,11 @@ the project team ensures the success of the project. -->
 
 ## Student assistants
 
-During the project, a number of tasks will offer opportunities for students to collaborate as assistants in the project.
+**Melinda Femminis (UNIL)**
+
+**Maik Köster (Uni Köln)**
+
+<!-- During the project, a number of tasks will offer opportunities for students to collaborate as assistants in the project.
 These include 
 
 * OCR correction
@@ -40,4 +44,4 @@ These include
 * web design
 * and programming tasks
 
-The positions will be announced soon in more detail. If you are interested, don't hesitate to [contact us](mailto:fabian.moss@epfl.ch)!
+The positions will be announced soon in more detail. If you are interested, don't hesitate to [contact us](mailto:fabian.moss@epfl.ch)! -->
