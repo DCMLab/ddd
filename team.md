@@ -29,8 +29,6 @@ the project team ensures the success of the project. -->
 
 **[Coline Métrailler (UNIL)](https://www.unil.ch/sli/home/menuinst/collaborateurtrices/metrailler-coline.html)**
 
-## Student assistants
-
 **Melinda Femminis (UNIL)**
 
 **Maik Köster (Uni Köln)**
