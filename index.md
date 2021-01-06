@@ -13,7 +13,7 @@ order: 1
 **Welcome!**
 
 This is the website for the project *Digitizing the Dualism Debate: 
-a case study in the computational analysis of historical music sources*.
+a case study in the computational analysis of historical music theory sources*.
 
 The "dualism debate", a 'hot topic' in 19th-century German music theory, 
 is concerned with the mutual relationship of major and minor triads, 
