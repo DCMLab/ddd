@@ -1,24 +1,68 @@
 Pipeline
-++++++++
+========
 
 Preprocessing
-=============
+-------------
 
-- We use Transkribus
+- select source
+- select page
 
-Page segmentation
+Page segmentation 
 -----------------
 
+- automatic page segmentation (Transkribus)
+    - if completely fails, do everything manually instead of correcting proposal
+    - draw baselines
+    - merge to paragraphs
+- manual page segmentation (incl. deletion of redundant segments)
 
-Line recognition
-----------------
+Type assignment
+---------------
 
+- element type assignment
+    - TextRegion
+    - Music 
+    - Table 
+    - Graphic 
+    - List 
+- structure type assignment (for TextRegions)
+    - paragraph
+    - paragraph-continued
+    - page-number 
+    - footnote
+    - footnote-continued
+    - header
+    - heading
+- structure type assignment (for other element types)
+    - float
+    - foat-continued
 
-Transcription
-=============
+Line segmentation
+-----------------
 
+- line segmentation (automatic)
+- merging of lines 
 
+- check again 
 
-Annotation
-==========
+Transcription 
+-------------
 
+- automatic OCR (Transkribus)
+- correction/transcription
+    - incl. application of guidelines (punctuation etc.)
+- insert **inline placeholders**
+    - $$MUSIC (Notenbeispiel inline)
+    - $$MATH  (Formel, Brüche, etc.)
+    - $$ANALYSIS (harmonische Stufensymbole, Funktionssymbole, falls sie sich nicht in Transkribus direkt transkribieren lassen)
+- textual markup (boldface, emphasis, italic...)
+
+Placeholder replacement
+-----------------------
+
+- manually insert music encoding, math expressions, etc.
+
+Annotation 
+----------
+
+- tbc
