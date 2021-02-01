@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+ <meiHead>
+  <fileDesc>
+   <titleStmt>
+    <title />
+   </titleStmt>
+   <pubStmt>
+    <respStmt>
+     <persName xml:id="persname-L20" analog="humdrum:EED" role="editor">Fabian C. Moss</persName>
+    </respStmt>
+   </pubStmt>
+  </fileDesc>
+  <encodingDesc>
+   <appInfo>
+    <application isodate="2021-01-30T08:51:09" version="3.2.0-dev-7a5d7cb">
+     <name>Verovio</name>
+     <p>Transcoded from Humdrum</p>
+    </application>
+   </appInfo>
+   <projectDesc>
+    <p>Encoded by: Fabian C. Moss</p>
+   </projectDesc>
+  </encodingDesc>
+  <workList>
+   <work>
+    <title xml:id="title-L3" analog="humdrum:OTL" type="translated" xml:lang="de">Skizze einer neuen Methode der Harmonielehre</title>
+    <composer analog="humdrum:COM" xml:id="person-L1">Riemann, Hugo</composer>
+   </work>
+  </workList>
+  <extMeta>
+   <frames xmlns="http://www.humdrum.org/ns/humxml">
+    <metaFrame n="0" token="!!!COM: Riemann, Hugo" xml:id="L1">
+     <frameInfo>
+      <startTime float="0" />
+      <frameType>reference</frameType>
+      <referenceKey>COM</referenceKey>
+      <referenceValue>Riemann, Hugo</referenceValue>
+     </frameInfo>
+    </metaFrame>
+    <metaFrame n="1" token="!!!CDT: 1880" xml:id="L2">
+     <frameInfo>
+      <startTime float="0" />
+      <frameType>reference</frameType>
+      <referenceKey>CDT</referenceKey>
+      <referenceValue>1880</referenceValue>
+     </frameInfo>
+    </metaFrame>
+    <metaFrame n="2" token="!!!OTL@DE: Skizze einer neuen Methode der Harmonielehre" xml:id="L3">
+     <frameInfo>
+      <startTime float="0" />
+      <frameType>reference</frameType>
+      <referenceKey language="DE">OTL</referenceKey>
+      <referenceValue>Skizze einer neuen Methode der Harmonielehre</referenceValue>
+     </frameInfo>
+    </metaFrame>
+    <metaFrame n="3" token="!!!ONM: 15" xml:id="L4">
+     <frameInfo>
+      <startTime float="0" />
+      <frameType>reference</frameType>
+      <referenceKey>ONM</referenceKey>
+      <referenceValue>15</referenceValue>
+     </frameInfo>
+    </metaFrame>
+    <metaFrame n="17" token="!!!ENC: Fabian C. Moss" xml:id="L18">
+     <frameInfo>
+      <startTime float="12" />
+      <frameType>reference</frameType>
+      <referenceKey>ENC</referenceKey>
+      <referenceValue>Fabian C. Moss</referenceValue>
+     </frameInfo>
+    </metaFrame>
+    <metaFrame n="18" token="!!!END: 2021/01/19" xml:id="L19">
+     <frameInfo>
+      <startTime float="12" />
+      <frameType>reference</frameType>
+      <referenceKey>END</referenceKey>
+      <referenceValue>2021/01/19</referenceValue>
+     </frameInfo>
+    </metaFrame>
+    <metaFrame n="19" token="!!!EED: Fabian C. Moss" xml:id="L20">
+     <frameInfo>
+      <startTime float="12" />
+      <frameType>reference</frameType>
+      <referenceKey>EED</referenceKey>
+      <referenceValue>Fabian C. Moss</referenceValue>
+     </frameInfo>
+    </metaFrame>
+   </frames>
+  </extMeta>
+ </meiHead>
+ <music>
+  <body>
+   <mdiv xml:id="mdiv-0000000242912649">
+    <score xml:id="score-0000001605684413">
+     <scoreDef xml:id="scoredef-0000001684501286">
+      <pgHead xml:id="pghead-0000000644782547">
+       <rend xml:id="rend-0000000065035459" halign="center" valign="middle">
+        <rend xml:id="rend-0000000410615850" fontsize="large">Skizze einer neuen Methode der Harmonielehre</rend>
+        <lb xml:id="lb-0000000451084236" /> 
+<lb xml:id="lb-0000001463451998" /> </rend>
+       <rend xml:id="rend-0000000111457739" halign="right" valign="bottom" fontsize="small">Hugo Riemann</rend>
+      </pgHead>
+      <staffGrp xml:id="staffgrp-0000001564884223" bar.thru="true" symbol="brace">
+       <staffDef xml:id="staffdef-0000001557470859" n="1" lines="5">
+        <clef xml:id="clef-L7F2" shape="G" line="2" />
+       </staffDef>
+       <staffDef xml:id="staffdef-0000000184640261" n="2" lines="5">
+        <clef xml:id="clef-L7F1" shape="F" line="4" />
+       </staffDef>
+      </staffGrp>
+     </scoreDef>
+     <section xml:id="section-L5F1">
+      <measure xml:id="measure-L1" n="1">
+       <staff xml:id="staff-0000000643837514" n="1">
+        <layer xml:id="layer-L5F2N1" n="1">
+         <chord xml:id="chord-L9F2" dur="2">
+          <note xml:id="note-L9F2S1" oct="4" pname="e" accid.ges="n" />
+          <note xml:id="note-L9F2S2" oct="5" pname="c" accid.ges="n" />
+         </chord>
+         <chord xml:id="chord-L10F2" dur="2">
+          <note xml:id="note-L10F2S1" oct="4" pname="f" accid.ges="n" />
+          <note xml:id="note-L10F2S2" oct="5" pname="c" accid.ges="n" />
+         </chord>
+        </layer>
+       </staff>
+       <staff xml:id="staff-0000001243508358" n="2">
+        <layer xml:id="layer-L5F1N1" n="1">
+         <chord xml:id="chord-L9F1" dur="2">
+          <note xml:id="note-L9F1S1" oct="3" pname="c" accid.ges="n" />
+          <note xml:id="note-L9F1S2" oct="3" pname="g" accid.ges="n" />
+         </chord>
+         <chord xml:id="chord-L10F1" dur="2">
+          <note xml:id="note-L10F1S1" oct="3" pname="f" accid.ges="n" />
+          <note xml:id="note-L10F1S2" oct="3" pname="a" accid="f" />
+         </chord>
+        </layer>
+       </staff>
+       <tie xml:id="tie-L9F2S2-L10F2S2" startid="#note-L9F2S2" endid="#note-L10F2S2" />
+      </measure>
+      <measure xml:id="measure-L11" n="2">
+       <staff xml:id="staff-L11F2N1" n="1">
+        <layer xml:id="layer-L11F2N1" n="1">
+         <chord xml:id="chord-L12F2" dur="2">
+          <note xml:id="note-L12F2S1" oct="4" pname="g" accid.ges="n" />
+          <note xml:id="note-L12F2S2" oct="5" pname="e" accid.ges="n" />
+         </chord>
+         <chord xml:id="chord-L13F2" dur="2">
+          <note xml:id="note-L13F2S1" oct="4" pname="a" accid="f" />
+          <note xml:id="note-L13F2S2" oct="5" pname="c" accid.ges="n" />
+         </chord>
+        </layer>
+       </staff>
+       <staff xml:id="staff-L11F1N1" n="2">
+        <layer xml:id="layer-L11F1N1" n="1">
+         <chord xml:id="chord-L12F1" dur="2">
+          <note xml:id="note-L12F1S1" oct="2" pname="c" accid.ges="n" />
+          <note xml:id="note-L12F1S2" oct="3" pname="c" accid.ges="n" />
+         </chord>
+         <chord xml:id="chord-L13F1" dur="2">
+          <note xml:id="note-L13F1S1" oct="3" pname="f" accid.ges="n" />
+          <note xml:id="note-L13F1S2" oct="4" pname="c" accid.ges="n" />
+         </chord>
+        </layer>
+       </staff>
+      </measure>
+      <measure xml:id="measure-L14" right="invis" n="3">
+       <staff xml:id="staff-L14F2N1" n="1">
+        <layer xml:id="layer-L14F2N1" n="1">
+         <chord xml:id="chord-L15F2" dur="2">
+          <note xml:id="note-L15F2S1" oct="4" pname="g" accid.ges="n" />
+          <note xml:id="note-L15F2S2" oct="5" pname="g" accid.ges="n" />
+         </chord>
+         <chord xml:id="chord-L16F2" dur="2">
+          <note xml:id="note-L16F2S1" oct="4" pname="a" accid="f" />
+          <note xml:id="note-L16F2S2" oct="5" pname="f" accid.ges="n" />
+         </chord>
+        </layer>
+       </staff>
+       <staff xml:id="staff-L14F1N1" n="2">
+        <layer xml:id="layer-L14F1N1" n="1">
+         <chord xml:id="chord-L15F1" dur="2">
+          <note xml:id="note-L15F1S1" oct="3" pname="e" accid.ges="n" />
+          <note xml:id="note-L15F1S2" oct="4" pname="c" accid.ges="n" />
+         </chord>
+         <chord xml:id="chord-L16F1" dur="2">
+          <note xml:id="note-L16F1S1" oct="3" pname="f" accid.ges="n" />
+          <note xml:id="note-L16F1S2" oct="4" pname="c" accid.ges="n" />
+         </chord>
+        </layer>
+       </staff>
+      </measure>
+     </section>
+    </score>
+   </mdiv>
+  </body>
+ </music>
+</mei>
