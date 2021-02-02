@@ -1,7 +1,7 @@
 Pipeline
 ========
 
-Upload document to collection
+Upload document to collection 
 -----------------------------
 
 - Open Transkribus
