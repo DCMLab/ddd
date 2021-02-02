@@ -34,16 +34,50 @@
             
   <div class="section" id="pipeline">
 <h1>Pipeline<a class="headerlink" href="#pipeline" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="preprocessing">
-<h2>Preprocessing<a class="headerlink" href="#preprocessing" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="upload-document-to-collection">
+<h2>Upload document to collection<a class="headerlink" href="#upload-document-to-collection" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Open Transkribus</p></li>
+<li><p>Switch to collection “CROSS2021 - Dualism”</p></li>
+<li><p>Click on “Document…”</p></li>
+<li><p>Select “Import document to server…”</p></li>
+<li><p>Select “Extract and upload images from pdf”</p></li>
+<li><p>Specify file location</p></li>
+<li><p>Click on “Upload”</p></li>
+<li><p>Wait until file has been processed on server (you can check by clicking on the “Jobs” icon, the cup)</p></li>
+<li><p>Double-click on document in list to open it</p></li>
+<li><p>Go to “Overview”</p></li>
+<li><p>Click on “Show Document Manager”</p></li>
+<li><p>Select pages to be deleted and click on “Delete”</p></li>
+</ul>
+</div>
+<div class="section" id="layout-analysis">
+<h2>Layout Analysis<a class="headerlink" href="#layout-analysis" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="automated">
+<h3>Automated<a class="headerlink" href="#automated" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Click on “Tools”</p></li>
+<li><p>Select Method “CITlab Advanced”</p></li>
+<li><dl class="simple">
+<dt>Keep presettings in “Configure…”</dt><dd><ul>
+<li><p>Neural Net: “Preset”</p></li>
+<li><p>Text Orientation: “Default”</p></li>
+<li><p>Use Separators: “Default”</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p>Select “Pages (XXX-XXX)” (all pages)</p></li>
+<li><p>Check “Find Text Regions”</p></li>
+<li><p>Check “Find Lines in Text Regions”</p></li>
+<li><p>Click “=&gt; Run”</p></li>
+</ul>
+</div>
+<div class="section" id="segmentation-correction-manually">
+<h3>Segmentation Correction (manually)<a class="headerlink" href="#segmentation-correction-manually" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
 <li><p>select source</p></li>
 <li><p>select page</p></li>
-</ul>
-</div>
-<div class="section" id="page-segmentation">
-<h2>Page segmentation<a class="headerlink" href="#page-segmentation" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
 <li><dl class="simple">
 <dt>automatic page segmentation (Transkribus)</dt><dd><ul>
 <li><p>if completely fails, do everything manually instead of correcting proposal</p></li>
@@ -57,7 +91,7 @@
 </ul>
 </div>
 <div class="section" id="type-assignment">
-<h2>Type assignment<a class="headerlink" href="#type-assignment" title="Permalink to this headline">¶</a></h2>
+<h3>Type assignment<a class="headerlink" href="#type-assignment" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
 <li><dl class="simple">
 <dt>element type assignment</dt><dd><ul>
@@ -92,6 +126,7 @@
 </dl>
 </li>
 </ul>
+</div>
 </div>
 <div class="section" id="line-segmentation">
 <h2>Line segmentation<a class="headerlink" href="#line-segmentation" title="Permalink to this headline">¶</a></h2>
@@ -158,9 +193,8 @@
 <p class="caption"><span class="caption-text">Contents:</span></p>
 <ul class="current">
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Pipeline</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#preprocessing">Preprocessing</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#page-segmentation">Page segmentation</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#type-assignment">Type assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#upload-document-to-collection">Upload document to collection</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#layout-analysis">Layout Analysis</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#line-segmentation">Line segmentation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#transcription">Transcription</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#placeholder-replacement">Placeholder replacement</a></li>
