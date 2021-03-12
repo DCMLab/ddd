@@ -24,7 +24,7 @@ The ```<figure>```element can be used to contain images, captions and text. <br>
 4. The ODD's graphic model is what define the ```<graphic>``` elements' behaviour. 
 
 #### Note
-- Because I am testing this site locally, the **@url** to the picture is through Github for now so it will work on other local environments: _https://raw.githubusercontent.com/DCMLab/ddd/tei-publisher/music-pictures/RIE1880-0017-01.png_
+- Because I am testing this site locally, the **@url** to the picture is through Github for now so it will work on other local environments: _https://raw.githubusercontent.com/DCMLab/ddd/tei-publisher/music-pictures/RIE1880-0017-01.png_. Enventually this will be changed.
 - The size and behaviour of images can be modified through the ODD.
 
 #### The viewer
