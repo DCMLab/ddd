@@ -1,98 +1,87 @@
 ---
 layout: post
-title:  "Images in XML"
-date:   2021-02-19 20:52 +0100
+title:  "The <graphic> element"
+date:   2021-03-11 20:52 +0100
+category: tei-publisher
 ---
 
-Embeding inline images in the text seems difficult to do directly in the xml file. 
-Here are some possible workaround.
+#### Representing graphics/images with TEI
 
-### Using the [binaryObject](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-binaryObject.html) element
-"`<binaryObject>` provides encoded binary data representing an inline graphic, audio, video or other object." <br>
-This method would not be practical, especially when there are multiple music images per page. 
-Also, I could'nt get the image to display correctly after it is encoded to Base64 and inside the `<binaryObject>` element. 
+The ```<graphic>``` element indicates the existence of a graphic or image embedded in the text. It has a **@url** attribute that specifies the URL from where the media can be obtained.
+The ```<figure>```element can be used to contain images, captions and text. <br>
+**Example:**
+```
+<figure>
+	<graphic url="https://dcmlab.github.io/ddd/music-pictures/RIE1880-0017-01.png" width="300px"/>
+	<figDesc>Riemann 1880-0017-01</figDesc>
+</figure>
+```
+**How to add a graphic to be rendered in the viewer:**
+1. Upload the image to the appropriate project's folder
+2. Embbed the image in the XML file within a ```<graphic>``` element. The ```<figure>``` element is optional but has the advantage to contain other useful elements like an image title and/or description. 
+    - the **@url** attribute should be like so: _https://dcmlab.github.io/ddd/FOLDER_NAME/FILE_NAME_
+3. It is possible to add a custon **@height** and **@width** attribute spcific to that image. The title could also be included in the @title attribute, although not directly displayed. 
+4. The ODD's graphic model is what define the ```<graphic>``` elements' behaviour. 
 
-### graphic, figure and media elements
-Tei-c.org also presents those 3 elements to anchor media to particular point in the text but when an image is embeded in the XML file this way, Tei Publisher doesn't display it at all. 
+#### Note
+- Because I am testing this site locally, the **@url** to the picture is through Github for now so it will work on other local environments: _https://raw.githubusercontent.com/DCMLab/ddd/tei-publisher/music-pictures/RIE1880-0017-01.png_
+- The size and behaviour of images can be modified through the ODD.
 
-### Alternate mode / popover
-One way to show images could be throught Tei Publisher's alternate mode, a popover that appears when hovering over or clicking on certain parts of the text. 
-Here is an example with a sample text. 
+#### The viewer
 
-<hr>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>TEI Publisher Webcomponents Example</title>
-        <script src="https://unpkg.com/@webcomponents/webcomponentsjs@2.4.3/webcomponents-loader.js"></script>
-        <script type="module" src="https://unpkg.com/@teipublisher/pb-components@latest/dist/pb-components-bundle.js"></script>
-        <script type="module" src="https://unpkg.com/@teipublisher/pb-components@latest/dist/pb-leaflet-map.js"></script>
-        <style>
-            @import url('https://fonts.googleapis.com/css?family=Oswald|Roboto&display=swap');
-            body {
-                margin: 10px 20px;
-                font-size: 16px;
-                font-family: 'Roboto', 'Noto', sans - serif;
-                line-height: 1.42857;
-                font-weight: 300;
-                color: #333333;
-                --paper-tooltip-delay-in: 200;
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes" />
+    <title>pb-view Demo</title>
+    <script src="https://unpkg.com/@webcomponents/webcomponentsjs@2.4.3/webcomponents-loader.js"></script>
+    <script type="module" src="https://unpkg.com/@teipublisher/pb-components@latest/dist/pb-components-bundle.js">
+    </script>
+    <style>
+        pb-page {
+            position: relative;
+        }
+        pb-view {
+            margin: 0 auto;
+        }
+        #view1 {
+            overflow: auto;
+            display: flex;
+            justify-content: center;
+            max-height: calc(100vh - 100px);
+        }
+        @media (min-width: 769px) {
+            pb-view {
+                max-width: 60vw;
             }
-            body {
-                /* Default theme to use unless specified via property */
-                --pb-popover-theme: "light-border";
-                --pb-popover-font-size: 14px;
-                --pb-popover-max-width: 480px;
-                --pb-popover-placement: "bottom";
-                --pb-popover-fallback-placement: "top right";
-            }
-            pb-popover, .trigger {
-                color: rgb(224, 140, 13);
-                text-decoration: underline;
-            }
-            /* Address a specific popup (popup-class="info")*/
-            .info {
-                --pb-popover-font-size: 18px;
-            }
-            .note {
-                font-style: italic;
-            }
-        </style>   
-    </head>
-    <body>
-    		<pb-page endpoint="https://teipublisher.com/exist/apps/tei-publisher">
-		    <main>  
-		        <p>Qui veniam ipsum officia consequat aute nostrud sunt proident ut incididunt amet<br>
-		            <span class="trigger" id="dolore">popover that load popover content asynchronously from remote URL</span>.</p>
-		        <p>Lorem ipsum dolor sit amet
-		            At vero eos et <strong>accusam</strong> et justo duo dolores<br> 
-		            et ea rebum, consetetur sadipscing elitr,<br>
-		            sed diam nonumy eirmod tempor invidunt ut labore et dolore<br>
-		            magna aliquyam erat, sed diam voluptua. At vero eos et accusam<br> 
-		            et justo duo dolores et ea <pb-popover theme="light">rebum<template slot="alternate">A standard text popup.</template></pb-popover>. Stet clita kasd gubergren,<br> 
-		            no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem<br>
-		            ipsum dolor sit amet, consetetur sadipscing elitr, sed diam<br>
-		            nonumy eirmod et dolore magna aliquyam<br> 
-		            erat, sed diam voluptua. At vero eos et accusam et justo duo dolores<br>
-		            et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est<br>
-		            Lorem ipsum dolor sit amet.</p>
-		        <p>Another way to do it would be
-		            <pb-popover remote="http://127.0.0.1:4000/ddd/img/riemann-sample-music.jpg" persistant="">URL to image<span slot="alternate">Loading ...</span></pb-popover>.</p>
-		        <pb-popover for="dolore" remote="http://127.0.0.1:4000/ddd/">Loading...</pb-popover>
-		    </main>
-		</pb-page>  
-    </body>
-</html>
-<hr>
-
-The first popover loads content from another URL and displays another web page in the popover:
-![First popover: web page as popover content](../img/url-page.png)
-Two problems:
-- the whole page gets "shaky" when hovering over the trigger words
-- it displays the whole page, which is distracting when we only need an image
-
-The "URL to image" popover uses an image url (local atm) to be displayed in the popover:
-![URL to image](..b/img/url-image.png)
-This option simply doesn't work. 
+        }
+        pb-navigation[direction="forward"] {
+            float: right;
+            color: green;
+        }
+        /* Color of navigation */
+        paper-fab{
+            background: lightsteelblue;
+        }
+        paper-fab:hover{
+            background: steelblue;
+        }
+        </style>
+</head>
+<body>
+    <pb-page endpoint="https://teipublisher.com/exist/apps/tei-publisher" emit="kant" class="embedded">
+        <!-- Load document -->
+        <pb-document id="doc1" path="playground/die_natur_der_harmonik.xml" odd="melinda-dodis"></pb-document>
+        <!-- Navigate to next page // not in footer not to mess with site's footer, before pb-view to be on top // -->
+        <pb-navigation direction="forward" keyboard="right">
+            <paper-fab icon="icons:chevron-right"></paper-fab>
+        </pb-navigation>
+        <!-- Navigate to previous page -->
+        <pb-navigation direction="backward" keyboard="left">
+            <paper-fab icon="icons:chevron-left"></paper-fab>
+        </pb-navigation>
+        <pb-view src="doc1" xpath="//teiHeader/fileDesc/titleStmt/title">
+            <pb-param name="header" value="short"></pb-param>
+        </pb-view>
+        <pb-view class="transcription" src="doc1" view="page"></pb-view>
+    </pb-page>
+</body>
