@@ -2,7 +2,6 @@
 layout: post
 title:  "The <graphic> element"
 date:   2021-03-11 20:52 +0100
-category: tei-publisher
 ---
 
 #### Representing graphics/images with TEI

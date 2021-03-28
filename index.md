@@ -1,19 +1,23 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
 published: true
-order: 1
+nav_order: 1
+---
+
+# Welcome !
+{: .fs-9 }
+
+This is the website for the project Digitizing the Dualism Debate: a case study in the computational analysis of historical music theory sources.
+{: .fs-6 .fw-300 }
+
+[Learn more](#digitalizing-the-dualism-debate){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Transkribus](https://readcoop.eu/transkribus/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
 ![triangles](img/triangles.jpg)
 
-**Welcome!**
-
-This is the website for the project *Digitizing the Dualism Debate: 
-a case study in the computational analysis of historical music theory sources*.
+### Digitalizing the dualism debate 
 
 The "dualism debate", a 'hot topic' in 19th-century German music theory, 
 is concerned with the mutual relationship of major and minor triads, 

@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "How to change theme"
+title:  How to change theme
 date:   2021-02-01 10:41 +0100
-category: customizing jekyll
 ---
 
 This is how to change theme on a Jekyll/Github static website. 

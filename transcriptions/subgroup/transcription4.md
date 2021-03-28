@@ -1,20 +1,10 @@
 ---
-layout: post
-title:  "Web component with .tei files"
-date:   2021-03-12 09:48 +0100
+layout: default
+title:  Transcription 4
+author: Hauptmann
+parent: Subgroup
+grand_parent: Transcriptions
 ---
-
-#### How to display TEI files with TEI-Publisher's web components
-1. Upload the file to TEI-Publisher's playground and open it. 
-2. Change the ```path``` attribute of the ```<pb-document>``` component to _playground/name_of_file.xml_
-    - if there are multiple files in one page, make sure to change ```id``` and ```src``` accordingly.
-3. Choose the ODD in the ```odd``` attribute in ```<pb-document>``` - the ODD needs to be created in the TEI-Publisher app.
-
-#### Notes
-- sometimes when charging the page, the navigation between pages doesn't appear. Reloading fixes that problem. It doesn't disappear anymore after that. 
-- the viewer's footer element conflicts with the site's footer, which is why the navigation in on top of the document.
-- [TEI-Publisher's playground area](http://localhost:8081/exist/apps/tei-publisher/index.html?tab=0&collection=playground) is accessible by anyone (login informations are give in the TEI Workshop). Each documents can be deleted by anyone with that access. Is there a better place to store our files ? 
-<br>
 
 #### The viewer
 

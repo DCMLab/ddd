@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Project funding has been granted!"
+title:  Project funding has been granted!
 date:   2020-10-02 17:54:06 +0200
-categories: project
 ---
 
 We woke up this morning with good news in our inboxes: 

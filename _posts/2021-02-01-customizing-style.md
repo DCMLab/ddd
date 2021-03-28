@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Customizing Minima's CSS"
+title:  Customizing Minima's CSS
 date:   2021-02-01 13:03 +0100
-category: customizing jekyll
 ---
 
 All themes are customizable. It is also possible to not use a theme at all and start from scratch. 
