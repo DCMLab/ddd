@@ -1,17 +1,14 @@
 ---
 layout: default
-title:  Transcription 3
-author: Hauptmann
-parent: Subgroup
+title:  Harmoniesystem
+author: Weitzmann
+parent: Weitzmann
 grand_parent: Transcriptions
 ---
-
-#### The viewer
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes" />
-    <title>pb-view Demo</title>
     <script src="https://unpkg.com/@webcomponents/webcomponentsjs@2.4.3/webcomponents-loader.js"></script>
     <script type="module" src="https://unpkg.com/@teipublisher/pb-components@latest/dist/pb-components-bundle.js">
     </script>
@@ -46,10 +43,19 @@ grand_parent: Transcriptions
         }
         </style>
 </head>
+
+## Metadata
+Author: C. F. Weitzmann  
+Title: Harmoniesystem  
+Year: 1860  
+
 <body>
     <pb-page endpoint="https://teipublisher.com/exist/apps/tei-publisher" emit="kant" class="embedded">
         <!-- Load document -->
-        <pb-document id="doc1" path="playground/die_natur_der_harmonik.xml" odd="melinda-dodis"></pb-document>
+        <pb-document id="doc1" path="playground/weitzmann-dell.xml" odd="melinda-dodis"></pb-document>
+        <pb-paginate per-page="10" range="5"></pb-paginate>
+        <!--pb-load url="templates/search-results.html"></pb-load-->
+        <pb-load url="api/search"></pb-load>
         <!-- Navigate to next page // not in footer not to mess with site's footer, before pb-view to be on top // -->
         <pb-navigation direction="forward" keyboard="right">
             <paper-fab icon="icons:chevron-right"></paper-fab>
@@ -61,6 +67,7 @@ grand_parent: Transcriptions
         <pb-view src="doc1" xpath="//teiHeader/fileDesc/titleStmt/title">
             <pb-param name="header" value="short"></pb-param>
         </pb-view>
-        <pb-view class="transcription" src="doc1" view="page"></pb-view>
+        <pb-view class="transcription" src="doc1" view="page" hightlight="true"></pb-view>
     </pb-page>
 </body>
+

@@ -1,11 +1,15 @@
 ---
 layout: default
-title:  Transcription 1
-author: Hauptmann
-parent: Transcriptions
+title:  Handbuch der Harmonielehre
+author: Riemann
+parent: Riemann
+grand_parent: Transcriptions
 ---
 
-#### The viewer
+## Metadata
+Author: Hugo Riemann  
+Title: Handbuch der Harmonielehrer  
+Year:   
 
 <head>
     <meta charset="utf-8" />

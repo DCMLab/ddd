@@ -1,12 +1,14 @@
 ---
 layout: default
-title:  Transcription 4
-author: Hauptmann
-parent: Subgroup
-grand_parent: Transcriptions
+title:  Capellen
+author: Capellen
+parent: Transcriptions
 ---
 
-#### The viewer
+## Metadata
+Author: Georg Capellen-Osnabrück  
+Title: Die Zukunft der Musiktheorie  
+Year: 1905
 
 <head>
     <meta charset="utf-8" />

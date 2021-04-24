@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Subgroup
+title: Riemann
 parent: Transcriptions
 has_children: true
 has_toc: true
 ---
 
-# Subgroup
+# Hugo Riemann
 {: .fs-9 }
 
-This page can list all transcriptions from a specific author. 
+See all texts from Hugo Riemann:
 {: .fs-6 .fw-300 }

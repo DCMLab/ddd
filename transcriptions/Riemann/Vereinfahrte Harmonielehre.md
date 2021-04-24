@@ -1,11 +1,16 @@
 ---
 layout: default
-title:  Transcription 2
-author: Hauptmann
-parent: Transcriptions
+title:  Vereinfachte Harmonielehre oder die Lehre von den tonalen Funktionen der Akkorde
+author: Riemann
+parent: Riemann
+grand_parent: Transcriptions
 ---
 
-#### The viewer
+## Metadata
+Author: Hugo Riemann  
+Title: Vereinfachte Harmonielehre oder die Lehre von den tonalen Funktionen der Akkorde
+Year: 1880  
+
 
 <head>
     <meta charset="utf-8" />
