@@ -3,6 +3,7 @@ layout: default
 title: Transcriptions
 has_children: true
 has_toc: true
+published: false
 ---
 
 # Transcriptions
