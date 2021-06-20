@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-19T15:11:49.310+01:00</Created>
+        <LastChange>2021-03-29T20:08:00.100+02:00</LastChange>
+        <TranskribusMetadata docId="614265" pageId="24399890" pageNr="28" tsid="54533794" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=EUUGBTVTDVRXUGASJJCJDBSW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JPXZBNNBQORPSUJLPRTEYSGQ" imageId="18780656"/>
+    </Metadata>
+    <Page imageFilename="Weitzmann_1860_Harmoniesystem-0028.jpg" imageWidth="1373" imageHeight="2170" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624196438350" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614090049943_1835"/>
+                <RegionRefIndexed index="1" regionRef="region_1617041265715_467"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1614090046808_1830"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1614090036193_1822"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1614090026752_1814"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614090049943_1835" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="173,217 1179,217 1179,269 173,269"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="639,241 645,241 660,251 704,250 711,243 717,242 716,205 655,203 648,211 638,211"/>
+                <Baseline points="645,239 678,240 711,237"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617041265715_467" custom="readingOrder {index:1;} structure {type:missing;}">
+            <Coords points="178,286 1172,286 1172,493 178,493"/>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614090046808_1830" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
+            <Coords points="173,560 1179,560 1179,757 173,757"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:44; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="268,620 1174,626 1186,586 268,579"/>
+                <Baseline points="274,611 319,611 364,611 409,611 455,611 500,611 545,612 590,612 636,612 681,613 726,613 771,613 817,614 862,614 907,614 952,614 998,614 1043,614 1088,614 1133,613 1179,612"/>
+                <TextEquiv>
+                    <Unicode>Quintenverwandte Dreiklänge haben jederzeit einen Ton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="183,665 1174,663 1146,619 183,628"/>
+                <Baseline points="189,656 240,655 292,655 343,655 395,655 446,654 498,655 549,655 601,655 652,655 704,655 755,655 807,655 858,656 910,656 961,656 1013,656 1064,656 1116,655 1168,655"/>
+                <TextEquiv>
+                    <Unicode>mit einander gemeinschaftlich. Dieser bildet nun die natürlichste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="180,702 1183,707 1172,664 180,669"/>
+                <Baseline points="187,697 236,697 286,697 335,697 385,697 434,697 484,697 533,698 583,698 632,698 682,698 731,698 781,698 830,698 880,698 929,698 979,698 1028,698 1078,698 1127,698 1177,698"/>
+                <TextEquiv>
+                    <Unicode>Verbindung solcher Accorde, während zwei Stimmen dabei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="178,754 1119,763 1178,753 1178,716 178,717"/>
+                <Baseline points="184,739 233,739 282,739 332,739 381,739 431,739 480,739 529,739 579,740 628,740 678,740 727,741 776,741 826,741 875,741 925,741 974,741 1023,741 1073,741 1122,741 1172,741"/>
+                <TextEquiv>
+                    <Unicode>melodisch fortschreitend in den folgenden Dreiklang übergehen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Quintenverwandte Dreiklänge haben jederzeit einen Ton
+mit einander gemeinschaftlich. Dieser bildet nun die natürlichste
+Verbindung solcher Accorde, während zwei Stimmen dabei
+melodisch fortschreitend in den folgenden Dreiklang übergehen:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614090092192_1851" custom="readingOrder {index:3;} structure {type:floating;}">
+            <Coords points="173,757 1179,757 1179,1196 173,1196"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614090036193_1822" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="173,1196 1179,1196 1179,1379 173,1379"/>
+            <TextLine id="r1l46" custom="readingOrder {index:0;}">
+                <Coords points="179,1242 1167,1243 1166,1209 1031,1197 640,1221 179,1196"/>
+                <Baseline points="185,1233 233,1233 282,1233 331,1233 380,1233 429,1233 477,1234 526,1234 575,1234 624,1234 673,1234 721,1234 770,1235 819,1235 868,1235 917,1235 965,1235 1014,1235 1063,1235 1112,1235 1161,1234"/>
+                <TextEquiv>
+                    <Unicode>Auch diese Accorde bedürfen, der hier ebenfalls auftretenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l47" custom="readingOrder {index:1;}">
+                <Coords points="171,1283 1164,1292 1164,1252 1087,1243 171,1245"/>
+                <Baseline points="177,1274 226,1275 275,1275 324,1276 373,1276 422,1276 471,1277 520,1277 569,1277 618,1277 667,1277 716,1277 765,1277 814,1277 863,1277 912,1277 961,1277 1010,1277 1059,1277 1108,1277 1158,1277"/>
+                <TextEquiv>
+                    <Unicode>Quartsextaccorde wegen, der Basirung durch eine vierte Stimme,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l48" custom="readingOrder {index:2;}">
+                <Coords points="170,1322 1173,1331 1173,1292 1124,1286 170,1293"/>
+                <Baseline points="176,1317 225,1318 275,1318 324,1319 374,1319 423,1319 473,1320 522,1320 572,1320 621,1320 671,1320 720,1320 770,1320 819,1320 869,1320 918,1320 968,1320 1017,1320 1067,1320 1116,1320 1166,1321"/>
+                <TextEquiv>
+                    <Unicode>und diese können sie, wie oben, in dem Grundtone oder in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l49" custom="readingOrder {index:3;}">
+                <Coords points="174,1370 218,1369 239,1380 330,1369 423,1378 434,1368 492,1370 493,1345 451,1325 426,1341 414,1332 398,1339 175,1329"/>
+                <Baseline points="181,1360 206,1360 231,1360 257,1360 282,1361 308,1361 333,1361 358,1362 384,1362 409,1362 435,1363 460,1363 486,1363"/>
+                <TextEquiv>
+                    <Unicode>Terze finden; z. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Auch diese Accorde bedürfen, der hier ebenfalls auftretenden&#13;
+Quartsextaccorde wegen, der Basirung durch eine vierte Stimme,&#13;
+und diese können sie, wie oben, in dem Grundtone oder in der&#13;
+Terze finden; z. B.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614090114911_1858" custom="readingOrder {index:5;} structure {type:floating;}">
+            <Coords points="173,1379 1179,1379 1179,1685 173,1685"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614090026752_1814" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="173,1685 1179,1685 1179,1925 173,1925"/>
+            <TextLine id="r1l68" custom="readingOrder {index:0;}">
+                <Coords points="242,1739 1174,1730 1134,1692 242,1692"/>
+                <Baseline points="248,1727 294,1727 340,1727 386,1727 432,1727 478,1727 524,1727 570,1728 616,1728 662,1728 708,1728 754,1728 800,1728 846,1728 892,1728 938,1728 984,1728 1030,1727 1076,1727 1122,1726 1168,1726"/>
+                <TextEquiv>
+                    <Unicode>Die verdeckten Octaven und Quinten sind auch hier, bei natür¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l69" custom="readingOrder {index:1;}">
+                <Coords points="177,1779 1169,1775 1169,1747 1066,1732 572,1756 177,1733"/>
+                <Baseline points="183,1769 234,1769 286,1770 337,1770 389,1770 440,1771 492,1771 543,1771 595,1771 646,1771 698,1771 749,1771 801,1771 852,1771 904,1770 955,1770 1007,1770 1058,1769 1110,1769 1162,1769"/>
+                <TextEquiv>
+                    <Unicode>lichster Stimmenführung, sobald der Quintenschritt des Grund¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l70" custom="readingOrder {index:2;}">
+                <Coords points="179,1820 1166,1827 1166,1779 179,1780"/>
+                <Baseline points="186,1813 234,1813 283,1813 332,1813 380,1812 429,1812 478,1813 526,1813 575,1813 624,1813 673,1813 721,1813 770,1813 819,1813 867,1814 916,1814 965,1814 1013,1814 1062,1813 1111,1813 1160,1813"/>
+                <TextEquiv>
+                    <Unicode>basses zum Quartenschritte umgekehrt wird, unvermeidlich, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l71" custom="readingOrder {index:3;}">
+                <Coords points="170,1867 561,1846 646,1874 996,1874 1174,1866 1174,1827 170,1828"/>
+                <Baseline points="176,1856 225,1856 275,1856 324,1856 374,1855 424,1855 473,1855 523,1855 572,1855 622,1855 672,1855 721,1855 771,1855 820,1855 870,1855 920,1855 969,1855 1019,1856 1068,1856 1118,1856 1168,1857"/>
+                <TextEquiv>
+                    <Unicode>eben deßhalb „erlaubt”; doch ist auch hier eine jede andere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l72" custom="readingOrder {index:4;}">
+                <Coords points="166,1912 912,1915 982,1907 982,1874 603,1874 565,1848 529,1874 166,1875"/>
+                <Baseline points="173,1898 213,1898 253,1898 293,1898 333,1898 373,1899 413,1899 454,1899 494,1899 534,1899 574,1899 614,1899 654,1899 694,1899 735,1899 775,1899 815,1899 855,1899 895,1899 935,1899 976,1899"/>
+                <TextEquiv>
+                    <Unicode>zweckdienliche Stimmenführung anzuwenden; z. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die verdeckten Octaven und Quinten sind auch hier, bei natür¬&#13;
+lichster Stimmenführung, sobald der Quintenschritt des Grund¬&#13;
+basses zum Quartenschritte umgekehrt wird, unvermeidlich, und&#13;
+eben deßhalb „erlaubt”; doch ist auch hier eine jede andere&#13;
+zweckdienliche Stimmenführung anzuwenden; z. B.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

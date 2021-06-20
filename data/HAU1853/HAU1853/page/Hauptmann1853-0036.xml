@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:31.991+01:00</Created>
+        <LastChange>2021-03-10T20:39:54.187+01:00</LastChange>
+        <TranskribusMetadata docId="598856" pageId="23846457" pageNr="27" tsid="53538661" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ZINAEAJACIIUWGALZTEWNHXQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XVFEMNQJTGERKGJCIVUDBSVT" imageId="18302923"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0036.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624196686833" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612360268873_3070"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1612360268873_3070" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="268,867 1108,867 1108,1165 268,1165"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} textStyle {offset:0; length:1;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="669,962 675,962 678,959 689,959 689,893 669,893"/>
+                <Baseline points="674,958 684,958"/>
+                <TextEquiv>
+                    <Unicode>I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="302,1138 1037,1138 976,1077 367,1076 302,1104"/>
+                <Baseline points="307,1118 343,1123 379,1128 415,1130 452,1133 488,1135 524,1136 560,1137 597,1137 633,1137 669,1136 705,1136 742,1135 778,1135 814,1134 850,1134 887,1134 923,1134 959,1135 995,1136 1032,1138"/>
+                <TextEquiv>
+                    <Unicode>HARMONIK.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>I
+HARMONIK.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

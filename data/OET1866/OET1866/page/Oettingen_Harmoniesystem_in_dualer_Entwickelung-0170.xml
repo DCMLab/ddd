@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-18T14:22:13.071+01:00</Created>
+        <LastChange>2021-05-24T15:32:35.332+02:00</LastChange>
+        <TranskribusMetadata docId="634080" pageId="24814522" pageNr="161" tsid="58267748" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=NXVGLNJEDANXKHYAJDTQGVYM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PQWWGIOIDCEKEHJOJWRVAWOM" imageId="19135921"/>
+    </Metadata>
+    <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0170.jpg" imageWidth="1502" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624195880790" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1621254703657_2387"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1621254703657_2387" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="41,139 1383,139 1383,190 41,190"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="489,169 586,166 607,179 779,170 779,137 695,140 680,125 489,137"/>
+                <Baseline points="494,159 519,161 544,164 570,165 595,165 621,165 646,165 672,165 697,164 723,163 748,162 774,161"/>
+                <TextEquiv>
+                    <Unicode>153</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>153</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1621254725583_2395" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="41,190 1383,190 1383,2333 41,2333"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:33.625+01:00</Created>
+        <LastChange>2021-03-11T15:50:07.951+01:00</LastChange>
+        <TranskribusMetadata docId="598856" pageId="23846524" pageNr="64" tsid="53587375" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=RZXUSVTGKCFGKCRFTAMBWITR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HCDINJUQGHEFSBGMSXOFXOFD" imageId="18302990"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0073.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624196692272" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612391212872_1218"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612391212872_1217"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612391206392_1213"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612391212872_1218" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="207,270 1264,270 1264,324 207,324"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="713,307 760,307 760,261 713,260"/>
+                <Baseline points="719,295 754,295"/>
+                <TextEquiv>
+                    <Unicode>54</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>54</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612391212872_1217" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="207,324 1264,324 1264,2007 207,2007"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:20; length:4;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:4;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="202,403 1264,403 1264,362 1158,356 203,356"/>
+                <Baseline points="209,388 261,388 313,387 366,387 418,387 471,387 523,387 576,388 628,388 681,388 733,388 785,388 838,388 890,389 943,389 995,389 1048,388 1100,388 1153,388 1205,388 1258,387"/>
+                <TextEquiv>
+                    <Unicode>Ebenso die Schritte F..G und G..a; in diesen Fortschreitungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:9; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="210,451 1256,458 1256,419 1135,404 210,421"/>
+                <Baseline points="217,441 268,441 320,441 371,441 423,441 475,442 526,442 578,442 630,442 681,442 733,442 785,442 836,442 888,442 940,442 991,442 1043,442 1095,443 1146,443 1198,443 1250,443"/>
+                <TextEquiv>
+                    <Unicode>wechselt C zwischen der Grundtons- und Quintbedeutung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:44; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:49; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="213,505 1270,507 1270,467 1231,459 1199,483 1175,459 213,463"/>
+                <Baseline points="219,494 271,494 323,495 375,495 427,495 480,495 532,495 584,495 636,495 688,495 741,495 793,495 845,495 897,495 949,495 1002,495 1054,495 1106,495 1158,495 1210,496 1263,496"/>
+                <TextEquiv>
+                    <Unicode>Von der sechsten zu der siebenten Stufe von a zu h, ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="204,561 1262,546 1216,516 204,523"/>
+                <Baseline points="211,549 263,549 315,548 367,548 420,548 472,548 524,548 576,548 629,548 681,548 733,548 785,548 838,548 890,548 942,549 994,549 1047,548 1099,548 1151,548 1203,548 1256,547"/>
+                <TextEquiv>
+                    <Unicode>aber, sofern diese beiden Töne als Terzen der beiden Do¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="206,611 1261,612 1261,580 1186,564 206,580"/>
+                <Baseline points="213,603 265,603 317,603 369,602 421,602 473,602 525,602 577,602 629,602 681,601 734,601 786,601 838,601 890,601 942,601 994,602 1046,602 1098,602 1150,602 1202,602 1255,602"/>
+                <TextEquiv>
+                    <Unicode>minantaccorde in der Tonart enthalten sind, ein solcher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="210,667 1268,667 1239,620 210,628"/>
+                <Baseline points="217,655 269,655 321,655 373,656 425,656 478,656 530,656 582,656 634,655 686,655 739,655 791,655 843,655 895,655 947,655 1000,655 1052,655 1104,655 1156,655 1208,655 1261,656"/>
+                <TextEquiv>
+                    <Unicode>verbindender Ton zur Vermittlung des Ueberganges nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="205,723 1264,707 1223,676 205,684"/>
+                <Baseline points="212,708 264,708 316,708 368,708 421,708 473,708 525,708 578,708 630,708 682,708 735,708 787,708 839,708 891,708 944,707 996,707 1048,707 1101,707 1153,707 1205,707 1258,707"/>
+                <TextEquiv>
+                    <Unicode>vorhanden, denn die Dreiklänge der Unter- und Oberdo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="206,772 1261,771 1261,739 206,740"/>
+                <Baseline points="212,763 264,763 316,763 368,763 420,763 472,763 524,762 576,762 628,762 680,762 733,762 785,761 837,761 889,761 941,761 993,761 1045,761 1097,761 1149,761 1201,762 1254,762"/>
+                <TextEquiv>
+                    <Unicode>minant sind getrennte, sie haben kein gemeinschaftliches</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} textStyle {offset:44; length:4;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="209,827 1261,818 1240,787 1142,780 209,780"/>
+                <Baseline points="216,816 267,816 319,816 371,816 423,815 475,815 527,815 579,815 631,815 683,815 735,815 786,815 838,815 890,815 942,815 994,815 1046,815 1098,815 1150,814 1202,814 1254,814"/>
+                <TextEquiv>
+                    <Unicode>Moment, durch dessen Umwandlung der Schritt a..h gege¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="210,876 1238,882 1267,835 1193,859 210,837"/>
+                <Baseline points="217,868 269,868 321,868 373,868 425,868 477,867 529,867 582,867 634,867 686,867 738,867 790,867 842,868 894,868 947,868 999,868 1051,868 1103,868 1155,868 1207,869 1260,869"/>
+                <TextEquiv>
+                    <Unicode>ben sein könnte. Daher zwischen diesen beiden Tönen, auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="211,940 1256,922 1201,888 211,891"/>
+                <Baseline points="218,922 269,922 321,921 372,921 424,921 476,921 527,921 579,921 630,921 682,921 734,922 785,922 837,922 888,922 940,922 992,922 1043,922 1095,922 1146,922 1198,922 1250,922"/>
+                <TextEquiv>
+                    <Unicode>jene beiden Accorde bezogen, sich eine Trennung empfin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="210,987 1268,986 1268,952 1198,939 977,939 951,965 210,945"/>
+                <Baseline points="217,975 269,975 321,975 373,975 426,975 478,975 530,975 582,975 635,975 687,975 739,975 791,975 844,975 896,975 948,975 1000,975 1053,975 1105,975 1157,976 1209,976 1262,976"/>
+                <TextEquiv>
+                    <Unicode>den lässt, die den Uebergang erschwert, denn er ist dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="205,1034 1271,1035 1234,996 205,1005"/>
+                <Baseline points="212,1027 264,1027 317,1028 369,1028 422,1028 475,1028 527,1028 580,1028 632,1028 685,1028 738,1028 790,1028 843,1028 895,1028 948,1028 1001,1028 1053,1028 1106,1028 1158,1028 1211,1028 1264,1027"/>
+                <TextEquiv>
+                    <Unicode>eben kein Uebergang zu nennen, sondern vielmehr ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="202,1093 1260,1091 1238,1043 1207,1067 202,1050"/>
+                <Baseline points="208,1078 260,1079 312,1080 364,1081 417,1081 469,1082 521,1082 573,1082 626,1082 678,1082 730,1081 782,1081 835,1081 887,1081 939,1081 991,1081 1044,1081 1096,1082 1148,1082 1200,1083 1253,1084"/>
+                <TextEquiv>
+                    <Unicode>Sprung. Die Entfernung zwischen diesen beiden Tönen, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="206,1148 1256,1137 1256,1112 1163,1100 206,1100"/>
+                <Baseline points="212,1133 263,1134 315,1134 367,1134 419,1134 471,1134 523,1134 574,1134 626,1134 678,1134 730,1134 782,1134 834,1134 886,1134 937,1134 989,1134 1041,1135 1093,1135 1145,1135 1197,1135 1249,1135"/>
+                <TextEquiv>
+                    <Unicode>ihrer Eigenschaft als Terzen des Unter- und Oberdominant¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="205,1195 1260,1188 1225,1156 205,1160"/>
+                <Baseline points="211,1187 263,1187 315,1186 367,1186 419,1186 471,1186 523,1186 576,1187 628,1187 680,1187 732,1187 784,1188 836,1188 888,1188 941,1188 993,1188 1045,1188 1097,1188 1149,1187 1201,1187 1254,1186"/>
+                <TextEquiv>
+                    <Unicode>dreiklanges, scheint eine weitere zu sein als die der bis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="213,1250 1260,1251 1260,1221 1183,1204 213,1210"/>
+                <Baseline points="220,1239 271,1239 323,1239 375,1239 426,1239 478,1239 530,1240 581,1240 633,1240 685,1241 737,1241 788,1241 840,1242 892,1242 943,1242 995,1242 1047,1242 1098,1242 1150,1242 1202,1241 1254,1241"/>
+                <TextEquiv>
+                    <Unicode>herigen Secundschritte, und doch ist sie an sich gleich der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="208,1307 1264,1306 1264,1266 1174,1260 1038,1286 955,1259 208,1260"/>
+                <Baseline points="214,1293 266,1293 318,1293 370,1293 422,1293 475,1293 527,1293 579,1293 631,1294 683,1294 736,1294 788,1294 840,1295 892,1295 944,1295 997,1295 1049,1295 1101,1295 1153,1295 1205,1294 1258,1294"/>
+                <TextEquiv>
+                    <Unicode>Entfernung zwischen der ersten und zweiten, oder vierten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="211,1355 1162,1372 1255,1322 211,1324"/>
+                <Baseline points="218,1346 269,1346 321,1346 372,1346 424,1346 475,1347 527,1347 578,1347 630,1347 681,1348 733,1348 784,1348 836,1348 887,1348 939,1348 990,1348 1042,1347 1093,1347 1145,1346 1196,1346 1248,1345"/>
+                <TextEquiv>
+                    <Unicode>und fünften Stufe, nach Bezeichnung des Schwingungsver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="210,1411 1257,1411 1257,1371 1207,1363 588,1363 557,1391 210,1364"/>
+                <Baseline points="216,1400 267,1399 319,1399 371,1399 423,1400 474,1400 526,1400 578,1400 630,1401 681,1401 733,1401 785,1401 837,1401 888,1402 940,1402 992,1402 1044,1401 1095,1401 1147,1401 1199,1400 1251,1399"/>
+                <TextEquiv>
+                    <Unicode>hältnisses = 8:9. Aber wie eben diese Zahlenverhältnisse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="205,1464 1262,1466 1238,1420 205,1421"/>
+                <Baseline points="212,1453 264,1453 316,1453 368,1454 420,1454 472,1454 524,1454 577,1454 629,1454 681,1454 733,1454 785,1455 837,1455 889,1455 942,1455 994,1455 1046,1455 1098,1455 1150,1455 1202,1455 1255,1455"/>
+                <TextEquiv>
+                    <Unicode>für die Bedeutung der Intervalle etwas Erklärendes nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;} textStyle {offset:46; length:4;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="204,1515 832,1532 1271,1514 1271,1478 204,1484"/>
+                <Baseline points="211,1507 263,1507 316,1507 368,1507 421,1507 474,1507 526,1507 579,1507 632,1507 684,1507 737,1507 790,1507 842,1507 895,1507 948,1508 1000,1508 1053,1508 1106,1508 1158,1508 1211,1508 1264,1507"/>
+                <TextEquiv>
+                    <Unicode>enthalten, und wir eben so wenig die Secunden C..D und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;} textStyle {offset:0; length:4;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:49; length:4;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="205,1571 1259,1577 1259,1536 1198,1525 865,1524 832,1550 205,1526"/>
+                <Baseline points="211,1561 263,1561 315,1561 367,1561 419,1561 471,1561 523,1561 575,1561 627,1561 679,1561 731,1561 783,1561 835,1561 887,1561 939,1562 991,1562 1043,1562 1095,1562 1147,1562 1199,1562 1252,1562"/>
+                <TextEquiv>
+                    <Unicode>F..G durch das Verhältniss 8:9, als die Secunden D..e,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;} textStyle {offset:4; length:4;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:42; length:4;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="210,1627 1268,1627 1268,1580 210,1588"/>
+                <Baseline points="217,1614 269,1614 321,1615 373,1615 426,1615 478,1615 530,1615 582,1615 635,1615 687,1615 739,1615 791,1615 844,1614 896,1614 948,1614 1000,1614 1053,1614 1105,1615 1157,1615 1209,1616 1262,1616"/>
+                <TextEquiv>
+                    <Unicode>und G..a durch das Verhältniss 9:10 sowie e..F und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;} textStyle {offset:0; length:4;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="210,1675 1160,1691 1265,1666 1223,1636 210,1635"/>
+                <Baseline points="216,1669 268,1668 320,1667 372,1667 424,1666 476,1666 528,1666 580,1667 632,1667 684,1667 737,1667 789,1668 841,1668 893,1668 945,1668 997,1668 1049,1668 1101,1668 1153,1667 1205,1667 1258,1666"/>
+                <TextEquiv>
+                    <Unicode>h..C durch 15:16 zu intoniren vermögen, sondern, gleich¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="206,1739 1268,1731 1268,1696 206,1698"/>
+                <Baseline points="213,1721 265,1721 317,1721 370,1721 422,1721 475,1721 527,1721 579,1721 632,1721 684,1721 737,1721 789,1721 841,1721 894,1721 946,1721 999,1721 1051,1721 1103,1721 1156,1721 1208,1720 1261,1720"/>
+                <TextEquiv>
+                    <Unicode>gültig gegen das Maass der grösseren oder kleineren äusseren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="207,1787 1267,1795 1267,1746 1141,1739 207,1741"/>
+                <Baseline points="214,1773 266,1774 318,1774 371,1774 423,1774 475,1774 528,1774 580,1774 632,1775 685,1775 737,1775 789,1775 842,1775 894,1775 946,1775 999,1775 1051,1775 1103,1775 1156,1775 1208,1775 1261,1775"/>
+                <TextEquiv>
+                    <Unicode>Entfernung, sie nur durch die Umwandlung der Bedeutung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="206,1842 733,1824 1088,1851 1265,1835 1265,1795 206,1804"/>
+                <Baseline points="212,1825 264,1826 316,1826 368,1827 421,1827 473,1827 525,1827 578,1827 630,1828 682,1828 735,1828 787,1827 839,1827 891,1827 944,1827 996,1827 1048,1827 1101,1827 1153,1827 1205,1827 1258,1827"/>
+                <TextEquiv>
+                    <Unicode>eines vermittelnden Gliedes bestimmt erhalten, so wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="201,1892 1264,1891 1264,1852 201,1859"/>
+                <Baseline points="207,1882 259,1882 312,1882 364,1882 417,1882 469,1881 522,1881 574,1881 627,1881 679,1881 732,1881 785,1881 837,1881 890,1881 942,1881 995,1881 1047,1881 1100,1881 1152,1881 1205,1881 1258,1881"/>
+                <TextEquiv>
+                    <Unicode>auch der Schritt von der sechsten nach der siebenten Stufe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:29;}">
+                <Coords points="201,1947 1263,1939 1237,1899 201,1908"/>
+                <Baseline points="208,1936 260,1936 312,1935 365,1935 417,1935 470,1935 522,1935 574,1935 627,1935 679,1936 732,1936 784,1936 836,1936 889,1936 941,1936 994,1936 1046,1936 1098,1935 1151,1935 1203,1934 1256,1933"/>
+                <TextEquiv>
+                    <Unicode>nur durch eine solche Vermittlung sich als eine verständ¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:30;}">
+                <Coords points="205,2003 305,1995 373,2011 425,1995 462,2011 478,1995 704,1994 686,1965 599,1957 306,1955 293,1968 205,1957"/>
+                <Baseline points="211,1988 236,1988 262,1988 287,1988 313,1988 338,1988 364,1988 390,1987 415,1987 441,1987 466,1987 492,1987 517,1987 543,1987 569,1987 594,1987 620,1988 645,1988 671,1989 697,1990"/>
+                <TextEquiv>
+                    <Unicode>liche Folge ergeben können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ebenso die Schritte F..G und G..a; in diesen Fortschreitungen&#13;
+wechselt C zwischen der Grundtons- und Quintbedeutung.&#13;
+Von der sechsten zu der siebenten Stufe von a zu h, ist&#13;
+aber, sofern diese beiden Töne als Terzen der beiden Do¬&#13;
+minantaccorde in der Tonart enthalten sind, ein solcher&#13;
+verbindender Ton zur Vermittlung des Ueberganges nicht&#13;
+vorhanden, denn die Dreiklänge der Unter- und Oberdo¬&#13;
+minant sind getrennte, sie haben kein gemeinschaftliches&#13;
+Moment, durch dessen Umwandlung der Schritt a..h gege¬&#13;
+ben sein könnte. Daher zwischen diesen beiden Tönen, auf&#13;
+jene beiden Accorde bezogen, sich eine Trennung empfin¬&#13;
+den lässt, die den Uebergang erschwert, denn er ist dann&#13;
+eben kein Uebergang zu nennen, sondern vielmehr ein&#13;
+Sprung. Die Entfernung zwischen diesen beiden Tönen, in&#13;
+ihrer Eigenschaft als Terzen des Unter- und Oberdominant¬&#13;
+dreiklanges, scheint eine weitere zu sein als die der bis¬&#13;
+herigen Secundschritte, und doch ist sie an sich gleich der&#13;
+Entfernung zwischen der ersten und zweiten, oder vierten&#13;
+und fünften Stufe, nach Bezeichnung des Schwingungsver¬&#13;
+hältnisses = 8:9. Aber wie eben diese Zahlenverhältnisse&#13;
+für die Bedeutung der Intervalle etwas Erklärendes nicht&#13;
+enthalten, und wir eben so wenig die Secunden C..D und&#13;
+F..G durch das Verhältniss 8:9, als die Secunden D..e,&#13;
+und G..a durch das Verhältniss 9:10 sowie e..F und&#13;
+h..C durch 15:16 zu intoniren vermögen, sondern, gleich¬&#13;
+gültig gegen das Maass der grösseren oder kleineren äusseren&#13;
+Entfernung, sie nur durch die Umwandlung der Bedeutung&#13;
+eines vermittelnden Gliedes bestimmt erhalten, so wird&#13;
+auch der Schritt von der sechsten nach der siebenten Stufe&#13;
+nur durch eine solche Vermittlung sich als eine verständ¬&#13;
+liche Folge ergeben können.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612391206392_1213" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
+            <Coords points="207,2007 1264,2007 1264,2162 207,2162"/>
+            <TextLine id="r1l33" custom="readingOrder {index:0;}">
+                <Coords points="290,2051 1270,2050 1240,2004 1067,2031 290,2012"/>
+                <Baseline points="296,2042 344,2041 392,2041 441,2041 489,2041 537,2041 586,2041 634,2042 682,2042 731,2042 779,2042 827,2043 876,2043 924,2043 972,2043 1021,2043 1069,2043 1117,2043 1166,2042 1214,2042 1263,2041"/>
+                <TextEquiv>
+                    <Unicode>68. Diese Vermittlung findet sich auch hier, zwar nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:1;}">
+                <Coords points="205,2107 1258,2097 1165,2060 205,2060"/>
+                <Baseline points="212,2096 264,2096 316,2095 368,2095 420,2095 472,2095 524,2095 576,2095 628,2095 680,2096 732,2096 784,2096 836,2096 888,2096 940,2096 992,2096 1044,2096 1096,2095 1148,2094 1200,2094 1252,2093"/>
+                <TextEquiv>
+                    <Unicode>in den unverbundenen Hauptaccorden, aber in den Accor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:2;}">
+                <Coords points="203,2163 1266,2156 1266,2123 1177,2116 203,2121"/>
+                <Baseline points="210,2150 262,2149 315,2149 367,2149 420,2149 472,2149 525,2149 577,2149 630,2149 682,2149 735,2150 787,2150 840,2150 892,2150 945,2150 997,2150 1050,2149 1102,2149 1155,2148 1207,2147 1260,2147"/>
+                <TextEquiv>
+                    <Unicode>den secundärer Ordnung, nämlich in den verbundenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>68. Diese Vermittlung findet sich auch hier, zwar nicht&#13;
+in den unverbundenen Hauptaccorden, aber in den Accor¬&#13;
+den secundärer Ordnung, nämlich in den verbundenen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

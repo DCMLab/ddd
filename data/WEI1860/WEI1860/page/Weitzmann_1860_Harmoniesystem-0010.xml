@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-19T15:11:48.341+01:00</Created>
+        <LastChange>2021-06-10T11:17:57.724+02:00</LastChange>
+        <TranskribusMetadata docId="614265" pageId="24399872" pageNr="10" tsid="58904303" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=LHEXEPAETCQUDZZNPOBRNWVM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TENVGRLUQKXRNMLJEFLHBZZB" imageId="18780638"/>
+    </Metadata>
+    <Page imageFilename="Weitzmann_1860_Harmoniesystem-0010.jpg" imageWidth="1403" imageHeight="2169" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624196436041" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="other" id="r1" custom="readingOrder {index:0;} structure {type:other;}">
+            <Coords points="191,369 191,2132 1174,2132 1174,369"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} textStyle {offset:0; length:22;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="398,454 519,425 903,447 968,423 969,369 399,350"/>
+                <Baseline points="413,413 440,414 467,414 494,415 521,415 548,416 575,416 602,416 629,417 656,417 683,417 710,417 737,418 764,418 791,418 818,419 845,419 872,419 899,420 926,421 954,422"/>
+                <TextEquiv>
+                    <Unicode>Gekrönte Preisschrift.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614086967544_152" custom="readingOrder {index:1;}">
+                <Coords points="177,917 235,951 405,812 582,808 685,846 812,813 854,853 944,814 1151,822 1188,805 1189,721 670,694 355,730 274,662 179,672"/>
+                <Baseline points="191,854 223,860 202,707 224,709 205,801 253,801 301,800 350,800 398,800 447,800 495,800 544,800 592,801 641,801 689,802 737,803 786,803 834,804 883,804 931,805 980,806 1028,806 1077,806 1125,807 1174,807 226,848 254,850"/>
+                <TextEquiv>
+                    <Unicode>Harmoniesystem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:2;}">
+                <Coords points="622,1052 651,1053 665,1045 699,1047 701,985 671,984 656,997 625,995"/>
+                <Baseline points="637,1034 685,1036"/>
+                <TextEquiv>
+                    <Unicode>von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;} textStyle {offset:0; length:16;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="438,1274 522,1277 550,1295 587,1278 769,1293 878,1277 879,1238 842,1223 738,1228 694,1206 674,1217 657,1205 438,1207"/>
+                <Baseline points="451,1266 476,1267 502,1268 528,1269 554,1269 580,1270 606,1270 632,1270 658,1270 683,1270 709,1270 735,1269 761,1269 787,1270 813,1270 839,1270 865,1272"/>
+                <TextEquiv>
+                    <Unicode>C. F. Weitzmann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="567,1854 609,1854 620,1846 648,1869 670,1852 727,1853 727,1811 702,1808 682,1790 646,1796 635,1790 567,1789"/>
+                <Baseline points="580,1838 606,1838 633,1837 659,1837 686,1838 713,1841"/>
+                <TextEquiv>
+                    <Unicode>Leipzig,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;} textStyle {offset:0; length:22;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="362,1908 923,1911 923,1847 811,1863 362,1852"/>
+                <Baseline points="376,1897 402,1898 429,1898 456,1899 482,1899 509,1900 536,1900 562,1900 589,1901 616,1901 643,1901 669,1901 696,1901 723,1901 749,1901 776,1901 803,1901 829,1901 856,1901 883,1901 910,1901"/>
+                <TextEquiv>
+                    <Unicode>Verlag von C. F. Kahnt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gekrönte Preisschrift.&#13;
+Harmoniesystem&#13;
+von&#13;
+C. F. Weitzmann.&#13;
+Leipzig,&#13;
+Verlag von C. F. Kahnt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

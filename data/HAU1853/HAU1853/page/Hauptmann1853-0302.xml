@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:39.880+01:00</Created>
+        <LastChange>2021-03-20T17:41:41.340+01:00</LastChange>
+        <TranskribusMetadata docId="598856" pageId="23846934" pageNr="293" tsid="54000806" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=PJVFRYCCKVFDDJWLNYDUFSBM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LDUDHZKYCVTIEYMCQDBMNNRH" imageId="18303400"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0302.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624196726257" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612732329122_4849"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612732329122_4848"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612732324525_4842"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1612732320972_4838"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1612732318225_4834"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1612732314579_4830"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1612732305370_4826"/>
+                <RegionRefIndexed index="7" regionRef="TextRegion_1612732302009_4822"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612732329122_4849" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="187,252 1250,252 1250,304 187,304"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="673,292 751,289 750,243 672,244"/>
+                <Baseline points="680,280 712,280 744,278"/>
+                <TextEquiv>
+                    <Unicode>283</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>283</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612732329122_4848" custom="readingOrder {index:1;}">
+            <Coords points="187,304 1250,304 1250,544 187,544"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:7; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:24; length:17;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="273,379 1236,379 1201,339 273,341"/>
+                <Baseline points="279,372 326,371 374,371 421,371 469,371 516,371 564,371 611,372 659,372 706,372 754,372 801,372 849,373 896,373 944,373 991,373 1039,372 1086,372 1134,371 1181,371 1229,370"/>
+                <TextEquiv>
+                    <Unicode>Zu den zweizeitigen und doppel-zweizeiti¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:0; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="186,444 1219,435 1231,397 186,404"/>
+                <Baseline points="193,428 244,427 296,426 347,425 399,425 451,424 502,424 554,424 605,425 657,425 709,425 760,425 812,426 863,426 915,426 967,426 1018,426 1070,426 1121,425 1173,424 1225,423"/>
+                <TextEquiv>
+                    <Unicode>gen Accenten der vorstehenden Darstellung bedarf es kei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="185,489 1237,499 1237,456 1183,444 185,452"/>
+                <Baseline points="191,479 245,478 300,478 355,478 409,477 464,477 519,477 573,478 628,478 683,478 737,478 792,479 847,479 901,479 956,479 1011,479 1065,479 1120,479 1175,479 1230,478"/>
+                <TextEquiv>
+                    <Unicode>ner Anmerkungen; sie sind, nach dem früher Gesagten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612732324546_4845" custom="readingOrder {index:3;}">
+                <Coords points="181,536 1157,538 1132,500 182,501"/>
+                <Baseline points="188,530 236,530 284,530 332,530 380,530 428,530 476,530 524,531 572,531 620,531 669,531 717,531 765,531 813,532 861,532 909,532 957,532 1005,532 1053,532 1101,532 1150,531"/>
+                <TextEquiv>
+                    <Unicode>in ihrer Bezeichnung durchaus von selbst verständlich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zu den zweizeitigen und doppel-zweizeiti¬
+gen Accenten der vorstehenden Darstellung bedarf es kei¬
+ner Anmerkungen; sie sind, nach dem früher Gesagten,
+in ihrer Bezeichnung durchaus von selbst verständlich.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612732324525_4842" custom="readingOrder {index:2;}">
+            <Coords points="187,544 1250,544 1250,811 187,811"/>
+            <TextLine id="r1l6" custom="readingOrder {index:0;} textStyle {offset:42; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="270,596 1235,588 1207,548 1040,571 1000,547 270,548"/>
+                <Baseline points="277,583 324,583 372,583 419,583 467,583 514,584 562,584 609,584 657,585 704,585 752,585 800,585 847,586 895,586 942,586 990,586 1037,586 1085,585 1132,585 1180,584 1228,583"/>
+                <TextEquiv>
+                    <Unicode>Die acht verschiedenen Betonungsarten des dreizei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="187,651 1242,651 1242,609 1200,605 187,604"/>
+                <Baseline points="194,637 246,637 298,637 350,637 402,637 454,637 506,637 558,637 610,637 662,637 714,637 766,638 818,638 870,638 922,638 974,638 1026,638 1078,638 1130,638 1182,638 1235,638"/>
+                <TextEquiv>
+                    <Unicode>tigen Metrums sind in ihren vier ersten Nummern den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:2;}">
+                <Coords points="182,697 1188,708 1230,667 182,671"/>
+                <Baseline points="189,690 240,690 292,690 344,690 395,690 447,690 499,690 550,690 602,690 654,691 706,691 757,691 809,691 861,691 912,691 964,691 1016,691 1067,691 1119,691 1171,691 1223,690"/>
+                <TextEquiv>
+                    <Unicode>doppel-zweizeitigen entnommen und erklären ihre Dispo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:3;}">
+                <Coords points="191,755 1228,754 1228,721 1124,707 191,714"/>
+                <Baseline points="198,743 249,743 300,743 351,743 402,743 454,743 505,744 556,744 607,744 658,744 710,745 761,745 812,745 863,745 914,745 966,746 1017,746 1068,746 1119,746 1170,745 1222,745"/>
+                <TextEquiv>
+                    <Unicode>sition in Bezug auf die höchste Betonung und den Tactan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="181,806 262,820 279,805 365,812 390,803 474,802 473,773 465,772 358,764 342,779 336,772 180,768"/>
+                <Baseline points="187,797 212,797 237,797 263,797 288,796 314,796 339,796 365,795 390,795 416,795 441,794 467,794"/>
+                <TextEquiv>
+                    <Unicode>fang aus diesen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die acht verschiedenen Betonungsarten des dreizei¬
+tigen Metrums sind in ihren vier ersten Nummern den
+doppel-zweizeitigen entnommen und erklären ihre Dispo¬
+sition in Bezug auf die höchste Betonung und den Tactan¬
+fang aus diesen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612732320972_4838" custom="readingOrder {index:3;}">
+            <Coords points="187,811 1250,811 1250,1025 187,1025"/>
+            <TextLine id="r1l11" custom="readingOrder {index:0;}">
+                <Coords points="276,860 1233,856 1209,821 1069,812 277,820"/>
+                <Baseline points="283,849 330,848 377,848 424,848 471,849 519,849 566,849 613,849 660,850 707,850 755,850 802,850 849,851 896,851 943,851 991,851 1038,851 1085,851 1132,851 1179,851 1227,850"/>
+                <TextEquiv>
+                    <Unicode>Ueber die vier letzten Accentbestimmungen dieses Me¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:1;}">
+                <Coords points="184,915 1241,902 1199,868 184,876"/>
+                <Baseline points="191,902 243,902 295,901 347,901 399,901 452,901 504,901 556,901 608,902 660,902 713,902 765,903 817,903 869,903 921,904 974,904 1026,904 1078,904 1130,904 1182,903 1235,903"/>
+                <TextEquiv>
+                    <Unicode>trums, welche aus der Folge entgegengesetzter Paare in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:2;}">
+                <Coords points="185,963 1233,963 1233,934 1103,923 185,933"/>
+                <Baseline points="192,955 243,955 295,955 347,954 399,954 450,954 502,955 554,955 606,955 657,955 709,956 761,956 813,956 864,957 916,957 968,957 1020,957 1071,957 1123,957 1175,957 1227,957"/>
+                <TextEquiv>
+                    <Unicode>nerhalb der niederen Ordnung hervorgehen, ist früher aus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:3;}">
+                <Coords points="182,1017 326,1017 336,1027 540,1018 540,985 479,972 451,983 341,984 308,971 182,973"/>
+                <Baseline points="189,1006 215,1006 241,1007 268,1007 294,1007 321,1007 347,1007 374,1007 400,1007 427,1007 453,1007 480,1007 506,1008 533,1008"/>
+                <TextEquiv>
+                    <Unicode>führlich gesprochen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ueber die vier letzten Accentbestimmungen dieses Me¬
+trums, welche aus der Folge entgegengesetzter Paare in¬
+nerhalb der niederen Ordnung hervorgehen, ist früher aus¬
+führlich gesprochen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612732318225_4834" custom="readingOrder {index:4;}">
+            <Coords points="187,1025 1250,1025 1250,1232 187,1232"/>
+            <TextLine id="r1l15" custom="readingOrder {index:0;} textStyle {offset:30; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="273,1074 1233,1066 1207,1028 273,1028"/>
+                <Baseline points="279,1060 326,1060 373,1060 421,1060 468,1060 516,1060 563,1060 610,1061 658,1061 705,1061 753,1062 800,1062 847,1062 895,1063 942,1063 990,1063 1037,1063 1084,1063 1132,1063 1179,1062 1227,1062"/>
+                <TextEquiv>
+                    <Unicode>Die 32 Accentbestimmungen des vierzeitigen Me¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:1;}">
+                <Coords points="189,1123 1233,1118 1186,1083 189,1084"/>
+                <Baseline points="196,1114 247,1114 299,1114 350,1114 402,1114 453,1114 505,1114 556,1114 608,1115 659,1115 711,1115 762,1115 814,1115 865,1116 917,1116 968,1116 1020,1116 1071,1116 1123,1116 1174,1116 1226,1116"/>
+                <TextEquiv>
+                    <Unicode>trums sind in vier Abtheilungen oder Gruppen zu fas¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:2;}">
+                <Coords points="184,1180 1244,1179 1236,1140 184,1140"/>
+                <Baseline points="191,1167 243,1167 295,1167 347,1167 400,1167 452,1167 504,1167 557,1168 609,1168 661,1168 714,1168 766,1168 818,1168 870,1169 923,1169 975,1169 1027,1169 1080,1169 1132,1169 1184,1169 1237,1169"/>
+                <TextEquiv>
+                    <Unicode>sen, deren jede acht verschieden motivirte Betonungsarten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:3;}">
+                <Coords points="187,1227 323,1226 323,1192 312,1188 259,1191 239,1187 223,1197 188,1196"/>
+                <Baseline points="194,1219 224,1219 255,1219 285,1220 316,1219"/>
+                <TextEquiv>
+                    <Unicode>enthält.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die 32 Accentbestimmungen des vierzeitigen Me¬&#13;
+trums sind in vier Abtheilungen oder Gruppen zu fas¬&#13;
+sen, deren jede acht verschieden motivirte Betonungsarten&#13;
+enthält.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612732314579_4830" custom="readingOrder {index:5;}">
+            <Coords points="187,1232 1250,1232 1250,1608 187,1608"/>
+            <TextLine id="r1l19" custom="readingOrder {index:0;} textStyle {offset:35; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="276,1281 1238,1282 1212,1243 276,1244"/>
+                <Baseline points="283,1271 330,1272 377,1272 425,1273 472,1273 520,1273 567,1274 615,1274 662,1274 710,1274 757,1274 804,1275 852,1275 899,1275 947,1275 994,1275 1042,1275 1089,1275 1137,1275 1184,1275 1232,1275"/>
+                <TextEquiv>
+                    <Unicode>Wie in dem zweizeitigen Metrum nur eine metrische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:1;}">
+                <Coords points="190,1336 1241,1330 1225,1291 190,1292"/>
+                <Baseline points="196,1326 247,1326 299,1326 351,1327 403,1327 455,1327 507,1327 559,1327 611,1328 663,1328 715,1328 766,1328 818,1328 870,1328 922,1328 974,1328 1026,1328 1078,1327 1130,1327 1182,1326 1234,1326"/>
+                <TextEquiv>
+                    <Unicode>Ordnung enthalten ist, im doppel-zweizeitigen und drei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:2;} textStyle {offset:9; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:46; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="186,1388 1191,1395 1234,1387 1234,1352 186,1355"/>
+                <Baseline points="193,1379 244,1379 296,1378 348,1378 400,1378 451,1379 503,1379 555,1379 607,1380 658,1380 710,1381 762,1381 814,1382 865,1382 917,1382 969,1382 1021,1382 1072,1381 1124,1381 1176,1380 1228,1378"/>
+                <TextEquiv>
+                    <Unicode>zeitigen zwei Ordnungen, im vierzeitigen aber drei Ord¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:3;}">
+                <Coords points="188,1443 1222,1444 1236,1399 924,1424 888,1400 188,1405"/>
+                <Baseline points="195,1432 246,1432 298,1432 350,1432 402,1432 453,1432 505,1433 557,1433 609,1433 660,1434 712,1434 764,1434 816,1434 867,1434 919,1435 971,1435 1023,1434 1074,1434 1126,1434 1178,1434 1230,1433"/>
+                <TextEquiv>
+                    <Unicode>nungen metrischer Paare combinirt sind, so haben wir die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:4;}">
+                <Coords points="194,1499 1239,1499 1239,1460 1169,1452 194,1451"/>
+                <Baseline points="200,1485 251,1485 303,1485 354,1485 406,1485 458,1486 509,1486 561,1486 613,1486 664,1487 716,1487 768,1487 819,1487 871,1488 923,1488 974,1488 1026,1487 1078,1487 1129,1487 1181,1486 1233,1486"/>
+                <TextEquiv>
+                    <Unicode>Gliederfolge in der ersten und im zweizeitigen Metrum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:5;} textStyle {offset:23; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:26; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="192,1547 1167,1563 1248,1547 1248,1510 192,1515"/>
+                <Baseline points="199,1538 251,1538 303,1538 355,1538 407,1539 459,1539 511,1539 564,1539 616,1540 668,1540 720,1540 772,1540 824,1540 876,1540 929,1540 981,1540 1033,1540 1085,1540 1137,1540 1189,1539 1242,1538"/>
+                <TextEquiv>
+                    <Unicode>alleinigen Ordnung mit A, B, in der zweiten Ordnung mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:6;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:3; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:33; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:36; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="193,1608 1072,1603 1072,1572 988,1555 817,1580 749,1556 193,1565"/>
+                <Baseline points="199,1591 242,1591 285,1592 329,1592 372,1592 415,1592 459,1592 502,1593 545,1593 589,1593 632,1593 675,1593 719,1593 762,1593 805,1593 849,1593 892,1593 935,1593 979,1593 1022,1593 1066,1594"/>
+                <TextEquiv>
+                    <Unicode>a, b, in der dritten Ordnung mit α, β, bezeichnet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wie in dem zweizeitigen Metrum nur eine metrische&#13;
+Ordnung enthalten ist, im doppel-zweizeitigen und drei¬&#13;
+zeitigen zwei Ordnungen, im vierzeitigen aber drei Ord¬&#13;
+nungen metrischer Paare combinirt sind, so haben wir die&#13;
+Gliederfolge in der ersten und im zweizeitigen Metrum&#13;
+alleinigen Ordnung mit A, B, in der zweiten Ordnung mit&#13;
+a, b, in der dritten Ordnung mit α, β, bezeichnet.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612732305370_4826" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="187,1608 1250,1608 1250,1877 187,1877"/>
+            <TextLine id="r1l26" custom="readingOrder {index:0;} textStyle {offset:18; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:21; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:27; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="272,1653 1243,1656 1243,1617 1193,1612 656,1636 627,1611 272,1611"/>
+                <Baseline points="278,1643 325,1643 373,1644 421,1645 469,1645 517,1645 565,1646 613,1646 661,1646 709,1647 757,1647 804,1647 852,1647 900,1647 948,1647 996,1647 1044,1647 1092,1647 1140,1647 1188,1647 1236,1647"/>
+                <TextEquiv>
+                    <Unicode>Die Folge ist mit A, a und α, nach der bezüglichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:1;} textStyle {offset:32; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:35; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="184,1701 1240,1697 947,1660 692,1688 184,1666"/>
+                <Baseline points="191,1698 243,1698 295,1698 347,1698 399,1699 451,1699 503,1699 556,1699 608,1699 660,1699 712,1699 764,1699 816,1699 868,1699 921,1699 973,1699 1025,1699 1077,1699 1129,1698 1181,1698 1234,1697"/>
+                <TextEquiv>
+                    <Unicode>Ordnung, als eine positive, mit B, b und β, als eine ne¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:2;} textStyle {offset:18; length:3;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:23; length:3;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="184,1770 1242,1762 1251,1722 184,1726"/>
+                <Baseline points="191,1751 243,1751 296,1751 348,1752 401,1752 454,1752 506,1752 559,1752 612,1752 664,1752 717,1752 770,1752 822,1752 875,1752 928,1752 980,1752 1033,1752 1086,1752 1138,1751 1191,1751 1244,1751"/>
+                <TextEquiv>
+                    <Unicode>gative angezeigt. a-b, α-β, bezeichnet für die zweite oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:3;} textStyle {offset:43; length:3;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:48; length:3;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="192,1813 1243,1812 1225,1772 192,1772"/>
+                <Baseline points="199,1802 250,1803 302,1804 354,1804 406,1805 458,1805 510,1805 561,1805 613,1805 665,1805 717,1805 769,1805 821,1805 873,1805 924,1805 976,1805 1028,1805 1080,1805 1132,1805 1184,1805 1236,1805"/>
+                <TextEquiv>
+                    <Unicode>dritte Ordnung die positiv-negative Folge; b-a, β-α, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:4;}">
+                <Coords points="191,1866 247,1876 262,1866 353,1875 485,1864 562,1875 591,1866 591,1835 550,1835 528,1819 464,1835 191,1836"/>
+                <Baseline points="198,1857 223,1857 249,1857 275,1857 300,1857 326,1857 352,1857 378,1857 403,1857 429,1857 455,1857 481,1857 506,1858 532,1858 558,1858 584,1858"/>
+                <TextEquiv>
+                    <Unicode>negativ-positive Folge.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Folge ist mit A, a und α, nach der bezüglichen&#13;
+Ordnung, als eine positive, mit B, b und β, als eine ne¬&#13;
+gative angezeigt. a-b, α-β, bezeichnet für die zweite oder&#13;
+dritte Ordnung die positiv-negative Folge; b-a, β-α, die&#13;
+negativ-positive Folge.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612732302009_4822" custom="readingOrder {index:7;} structure {type:paragraph-continued;}">
+            <Coords points="187,1877 1250,1877 1250,2157 187,2157"/>
+            <TextLine id="r1l31" custom="readingOrder {index:0;}">
+                <Coords points="270,1923 1244,1921 1244,1881 270,1878"/>
+                <Baseline points="277,1910 325,1910 373,1910 421,1911 469,1911 517,1911 565,1911 613,1911 661,1912 709,1912 757,1912 805,1912 853,1912 901,1912 949,1911 997,1911 1045,1911 1093,1911 1141,1911 1189,1911 1238,1910"/>
+                <TextEquiv>
+                    <Unicode>Die zweite aus acht verschieden bestimmten Betonungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:1;}">
+                <Coords points="184,1971 1236,1979 1236,1939 1153,1932 184,1931"/>
+                <Baseline points="191,1962 245,1963 300,1963 355,1964 409,1964 464,1965 519,1965 573,1965 628,1965 683,1966 737,1966 792,1966 847,1965 901,1965 956,1965 1011,1965 1065,1965 1120,1965 1175,1964 1230,1964"/>
+                <TextEquiv>
+                    <Unicode>bestehende Gruppe der vierzeitigen Accente (S. 280) kann,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:2;}">
+                <Coords points="194,2028 1181,2036 1230,2026 1231,1995 194,1993"/>
+                <Baseline points="201,2015 252,2016 303,2016 354,2017 405,2017 456,2017 507,2018 559,2018 610,2018 661,2018 712,2018 763,2018 814,2018 865,2018 917,2018 968,2018 1019,2018 1070,2018 1121,2018 1172,2017 1224,2017"/>
+                <TextEquiv>
+                    <Unicode>wie schon früher zu den hier wirkenden Formationsbedingun¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:3;}">
+                <Coords points="189,2091 1247,2075 1219,2035 189,2047"/>
+                <Baseline points="196,2070 248,2070 300,2070 352,2070 404,2070 457,2070 509,2071 561,2071 613,2071 665,2071 718,2071 770,2072 822,2072 874,2072 926,2072 979,2071 1031,2071 1083,2070 1135,2070 1187,2069 1240,2068"/>
+                <TextEquiv>
+                    <Unicode>gen bemerkt wurde, nur die Betonungen des doppel-zwei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:4;}">
+                <Coords points="184,2131 1256,2138 1236,2091 184,2098"/>
+                <Baseline points="191,2123 246,2123 302,2123 358,2123 413,2124 469,2124 525,2125 581,2125 636,2125 692,2125 748,2126 804,2126 859,2126 915,2126 971,2126 1027,2126 1082,2125 1138,2125 1194,2125 1250,2124"/>
+                <TextEquiv>
+                    <Unicode>zeitigen Metrums wiederholen; denn diese Form ermangelt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die zweite aus acht verschieden bestimmten Betonungen
+bestehende Gruppe der vierzeitigen Accente (S. 280) kann,
+wie schon früher zu den hier wirkenden Formationsbedingun¬
+gen bemerkt wurde, nur die Betonungen des doppel-zwei¬
+zeitigen Metrums wiederholen; denn diese Form ermangelt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

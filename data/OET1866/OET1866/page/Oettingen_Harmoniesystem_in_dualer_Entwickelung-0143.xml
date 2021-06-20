@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-18T14:22:12.061+01:00</Created>
+        <LastChange>2021-05-23T19:18:41.288+02:00</LastChange>
+        <TranskribusMetadata docId="634080" pageId="24814456" pageNr="134" tsid="58239480" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=YUBMZTJNAVVESCIQVTWWNMPS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OUHLWJRCWDTZJJUAOETHASKA" imageId="19135855"/>
+    </Metadata>
+    <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0143.jpg" imageWidth="1502" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624195877549" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1621186249212_1064"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1621186249212_1063"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1621186244114_1059"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1621186236415_1051"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1621186249212_1064" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="211,108 1442,108 1442,178 211,178"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="725,147 779,158 848,155 861,163 889,137 901,137 900,94 839,97 831,105 816,107 724,109"/>
+                <Baseline points="732,142 759,146 786,148 813,148 840,145 867,143 894,140"/>
+                <TextEquiv>
+                    <Unicode>126</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>126</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1621186249212_1063" custom="readingOrder {index:1;} structure {type:list;}">
+            <Coords points="211,178 1442,178 1442,896 211,896"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:5; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="575,275 664,252 1105,265 1105,219 1087,211 679,210 661,229 627,210 575,212"/>
+                <Baseline points="582,251 607,251 633,250 659,250 685,249 710,249 736,249 762,249 788,249 813,250 839,250 865,250 891,251 916,251 942,251 968,251 994,251 1019,251 1045,250 1071,250 1097,249"/>
+                <TextEquiv>
+                    <Unicode>jede tonische Tonart (c)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:40; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="374,330 1275,340 1275,282 374,292"/>
+                <Baseline points="381,318 421,318 462,318 502,318 543,318 584,318 624,318 665,318 705,318 746,318 787,318 827,318 868,318 908,318 949,318 990,319 1030,319 1071,319 1111,320 1152,321 1267,322"/>
+                <TextEquiv>
+                    <Unicode>mit der tonischen Unterdominant-Tonart (f)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;} textStyle {offset:39; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="370,386 1270,403 1270,339 370,351"/>
+                <Baseline points="378,378 418,378 458,378 498,378 538,378 578,378 618,378 658,378 698,378 738,378 778,378 818,378 858,378 898,378 938,378 978,378 1018,379 1058,379 1098,379 1138,379 1262,378"/>
+                <TextEquiv>
+                    <Unicode>mit der tonischen Oberdominant-Tonart (g)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;} textStyle {offset:36; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="482,459 1275,467 1275,401 482,419"/>
+                <Baseline points="489,448 524,447 560,447 595,447 631,446 666,446 702,446 737,446 773,446 808,446 844,447 879,447 915,447 950,447 986,447 1021,448 1057,448 1092,448 1128,448 1163,448 1268,447"/>
+                <TextEquiv>
+                    <Unicode>mit der phonischen Parallel-Tonart (e})</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;} textStyle {offset:32; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="535,523 743,540 1202,519 1228,540 1270,520 1270,467 1210,488 535,487"/>
+                <Baseline points="543,514 575,514 608,514 640,514 673,514 705,514 738,514 770,514 803,514 835,514 868,514 900,514 933,514 965,514 998,514 1030,515 1063,515 1095,516 1128,516 1160,517 1263,514"/>
+                <TextEquiv>
+                    <Unicode>mit der phonischen Leit-Tonart (h})</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;} textStyle {offset:5; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:23; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="537,629 1127,619 1127,579 1103,564 1047,585 1021,570 904,570 887,587 831,570 537,573"/>
+                <Baseline points="544,608 572,609 601,609 630,609 659,609 688,609 716,609 745,610 774,610 803,610 832,610 860,610 889,610 918,610 947,609 976,609 1004,609 1033,609 1062,609 1091,608 1120,608"/>
+                <TextEquiv>
+                    <Unicode>jede phonische Tonart (e})</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621186406768_1138" custom="readingOrder {index:6;} textStyle {offset:39; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="372,679 1220,700 1271,697 1271,627 1203,656 372,648"/>
+                <Baseline points="379,674 405,675 431,677 457,677 483,677 509,677 535,678 573,677 603,678 634,678 664,678 695,678 725,678 756,678 786,678 817,678 847,677 878,677 908,677 939,677 969,677 1000,677 1030,677 1061,677 1091,678 1122,679 1152,680 1183,681 1234,680 1264,678"/>
+                <TextEquiv>
+                    <Unicode>mit der phonischen Oberregnant-Tonart (h})</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621186402840_1132" custom="readingOrder {index:7;} textStyle {offset:40; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="370,755 1285,763 1270,708 370,715"/>
+                <Baseline points="378,745 418,745 459,746 500,746 541,746 582,746 623,746 663,746 704,745 745,745 786,745 827,745 868,745 909,745 949,745 990,745 1031,745 1072,745 1113,745 1154,746 1195,746 1237,747 1277,747"/>
+                <TextEquiv>
+                    <Unicode>mit der phonischen Unterregnant-Tonart (a})</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621186412711_1147" custom="readingOrder {index:8;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="605,817 1060,808 1275,827 1275,765 605,768"/>
+                <Baseline points="613,804 642,804 671,804 700,804 729,805 758,805 787,805 816,805 845,805 874,805 904,805 933,805 962,805 991,805 1020,806 1049,806 1078,806 1107,806 1136,806 1165,806 1195,806 1238,806 1268,806"/>
+                <TextEquiv>
+                    <Unicode>der tonischen Parallel-Tonart (c)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621186416658_1153" custom="readingOrder {index:9;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="581,875 1214,868 1246,891 1274,884 1274,827 581,838"/>
+                <Baseline points="589,865 619,865 650,865 680,865 711,865 742,865 772,865 803,865 833,865 864,865 895,865 925,865 956,865 986,865 1017,866 1048,866 1078,866 1109,865 1139,865 1170,865 1201,865 1248,876 1267,873"/>
+                <TextEquiv>
+                    <Unicode>mit der tonischen Leit-Tonart (f)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>jede tonische Tonart (c)&#13;
+mit der tonischen Unterdominant-Tonart (f)&#13;
+mit der tonischen Oberdominant-Tonart (g)&#13;
+mit der phonischen Parallel-Tonart (e})&#13;
+mit der phonischen Leit-Tonart (h})&#13;
+jede phonische Tonart (e})&#13;
+mit der phonischen Oberregnant-Tonart (h})&#13;
+mit der phonischen Unterregnant-Tonart (a})&#13;
+der tonischen Parallel-Tonart (c)&#13;
+mit der tonischen Leit-Tonart (f)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621186244114_1059" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="211,896 1442,896 1442,1082 211,1082"/>
+            <TextLine id="r1l21" custom="readingOrder {index:0;}">
+                <Coords points="212,940 1366,964 1450,913 212,900"/>
+                <Baseline points="219,939 280,940 341,940 402,940 463,941 524,941 585,941 647,941 708,941 769,941 830,941 891,941 952,942 1013,942 1075,942 1136,942 1197,942 1258,942 1319,942 1380,942 1442,942"/>
+                <TextEquiv>
+                    <Unicode>Welche von den je vier Tonarten am nächsten verwandt, ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:1;}">
+                <Coords points="204,1009 1435,1008 1435,975 1335,962 204,975"/>
+                <Baseline points="211,1002 271,1002 332,1001 393,1001 454,1001 515,1001 575,1001 636,1001 697,1001 758,1001 819,1001 879,1002 940,1002 1001,1002 1062,1002 1123,1002 1183,1002 1244,1002 1305,1002 1366,1002 1427,1002"/>
+                <TextEquiv>
+                    <Unicode>nicht in zwingender Weise zu entscheiden. Suchen wir zu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:2;}">
+                <Coords points="211,1072 1370,1075 1370,1029 211,1033"/>
+                <Baseline points="219,1060 276,1060 333,1061 390,1061 447,1062 504,1062 561,1062 619,1062 676,1062 733,1062 790,1062 847,1062 904,1062 961,1062 1019,1062 1076,1062 1133,1062 1190,1062 1247,1062 1304,1062 1362,1062"/>
+                <TextEquiv>
+                    <Unicode>nächst die Abweichungen in den Tonbestandtheilen auf:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Welche von den je vier Tonarten am nächsten verwandt, ist
+nicht in zwingender Weise zu entscheiden. Suchen wir zu¬
+nächst die Abweichungen in den Tonbestandtheilen auf:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1621186296760_1070" custom="readingOrder {index:3;} structure {type:floating;}">
+            <Coords points="211,1082 1442,1082 1442,1749 211,1749"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1621186236415_1051" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
+            <Coords points="211,1749 1442,1749 1442,2263 211,2263"/>
+            <TextLine id="r1l55" custom="readingOrder {index:0;}">
+                <Coords points="316,1802 1443,1799 1357,1755 316,1755"/>
+                <Baseline points="323,1793 378,1793 434,1793 489,1793 545,1793 601,1793 656,1793 712,1793 767,1793 823,1793 879,1793 934,1793 990,1793 1045,1793 1101,1793 1157,1794 1212,1794 1268,1794 1323,1794 1379,1795 1435,1795"/>
+                <TextEquiv>
+                    <Unicode>Diese Abweichungen werden wir später berücksichtigen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l56" custom="readingOrder {index:1;}">
+                <Coords points="206,1866 1437,1867 1397,1810 206,1816"/>
+                <Baseline points="213,1853 273,1854 334,1854 395,1855 456,1855 517,1855 577,1855 638,1855 699,1855 760,1855 821,1854 881,1854 942,1853 1003,1853 1064,1853 1125,1853 1185,1853 1246,1853 1307,1854 1368,1855 1429,1856"/>
+                <TextEquiv>
+                    <Unicode>Sie können insofern nicht entscheiden über den Grad der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l57" custom="readingOrder {index:2;}">
+                <Coords points="209,1919 1437,1931 1423,1876 209,1876"/>
+                <Baseline points="217,1910 277,1911 338,1912 398,1913 459,1914 520,1914 580,1915 641,1915 702,1914 762,1914 823,1914 884,1914 944,1913 1005,1913 1066,1913 1126,1913 1187,1913 1248,1913 1308,1914 1369,1914 1430,1915"/>
+                <TextEquiv>
+                    <Unicode>Verwandtschaft, als durch dieselben noch nicht erkannt wird,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l58" custom="readingOrder {index:3;}">
+                <Coords points="205,1979 1450,1979 1415,1931 205,1950"/>
+                <Baseline points="213,1971 274,1972 335,1972 397,1973 458,1973 520,1973 581,1973 643,1973 704,1973 766,1972 827,1972 888,1972 950,1972 1011,1972 1073,1972 1134,1972 1196,1972 1257,1972 1319,1972 1380,1973 1442,1974"/>
+                <TextEquiv>
+                    <Unicode>ob es wesentliche oder unwesentliche Klänge sind, die in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l59" custom="readingOrder {index:4;}">
+                <Coords points="216,2043 1445,2038 1406,1995 216,1996"/>
+                <Baseline points="224,2030 284,2031 345,2032 405,2032 466,2033 527,2033 587,2033 648,2033 709,2033 769,2032 830,2032 891,2032 951,2032 1012,2031 1073,2031 1133,2031 1194,2031 1255,2031 1315,2032 1376,2032 1437,2033"/>
+                <TextEquiv>
+                    <Unicode>den verwandten Tonsystemen gemeinsam vorkommen oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l60" custom="readingOrder {index:5;}">
+                <Coords points="205,2097 1441,2113 1379,2050 205,2062"/>
+                <Baseline points="213,2090 274,2091 335,2092 396,2092 457,2092 518,2092 579,2092 640,2092 701,2092 762,2092 823,2092 884,2092 945,2091 1006,2091 1067,2091 1128,2091 1189,2092 1250,2092 1311,2092 1372,2093 1434,2094"/>
+                <TextEquiv>
+                    <Unicode>fehlen. Suchen wir deshalb übersichtlich zusammenzustellen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l61" custom="readingOrder {index:6;} textStyle {offset:29; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:48; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="208,2165 1445,2171 1445,2129 1209,2106 208,2131"/>
+                <Baseline points="215,2157 276,2157 337,2158 398,2159 459,2159 520,2160 581,2160 642,2160 703,2161 764,2161 826,2161 887,2161 948,2161 1009,2161 1070,2160 1131,2160 1192,2160 1253,2160 1314,2160 1375,2161 1437,2161"/>
+                <TextEquiv>
+                    <Unicode>welche Klänge des tonischen (c) und phonischen (e}) Systemes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l62" custom="readingOrder {index:7;}">
+                <Coords points="205,2225 1441,2224 1417,2178 205,2179"/>
+                <Baseline points="213,2220 274,2220 335,2220 396,2221 457,2221 518,2221 579,2221 640,2221 701,2221 762,2221 823,2222 884,2222 945,2222 1006,2222 1067,2222 1128,2222 1189,2222 1250,2222 1311,2222 1372,2222 1433,2222"/>
+                <TextEquiv>
+                    <Unicode>in den je vier verwandten Tonarten vorkommen, und in wel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Diese Abweichungen werden wir später berücksichtigen.&#13;
+Sie können insofern nicht entscheiden über den Grad der&#13;
+Verwandtschaft, als durch dieselben noch nicht erkannt wird,&#13;
+ob es wesentliche oder unwesentliche Klänge sind, die in&#13;
+den verwandten Tonsystemen gemeinsam vorkommen oder&#13;
+fehlen. Suchen wir deshalb übersichtlich zusammenzustellen,&#13;
+welche Klänge des tonischen (c) und phonischen (e}) Systemes&#13;
+in den je vier verwandten Tonarten vorkommen, und in wel¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

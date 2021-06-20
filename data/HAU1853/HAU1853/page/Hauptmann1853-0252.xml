@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:38.675+01:00</Created>
+        <LastChange>2021-03-20T14:01:45.308+01:00</LastChange>
+        <TranskribusMetadata docId="598856" pageId="23846849" pageNr="243" tsid="53998013" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=EGUFCLRPHJRQVAFTHQZDSOPZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PHZKZKXYFGFRVMHNDCAFBAET" imageId="18303315"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0252.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624196719221" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612645818549_9207"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612645818549_9206"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1612645813141_9198"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1612645809686_9194"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612645818549_9207" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="175,255 1244,255 1244,304 175,304"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="670,289 734,290 749,278 757,277 758,249 750,249 745,243 672,243"/>
+                <Baseline points="677,279 714,279 751,281"/>
+                <TextEquiv>
+                    <Unicode>233</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>233</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612645818549_9206" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="175,304 1244,304 1244,550 175,550"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:17; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="265,378 1238,377 1238,354 1125,339 265,340"/>
+                <Baseline points="272,370 322,370 372,370 423,370 473,370 524,371 574,371 625,371 675,371 726,372 776,372 827,372 877,373 928,373 978,373 1029,373 1079,373 1130,373 1180,373 1231,373"/>
+                <TextEquiv>
+                    <Unicode>Ebenso würde das Siebentheilige nur als Zusam¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:15; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:25; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="174,433 1032,442 1242,435 1243,403 174,397"/>
+                <Baseline points="181,424 233,423 286,423 339,423 392,423 444,423 497,423 550,424 603,424 655,424 708,425 761,425 814,425 866,426 919,426 972,426 1025,427 1077,427 1130,427 1183,427 1236,427"/>
+                <TextEquiv>
+                    <Unicode>mensetzung von Drei- und Viertheiligem, oder von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:0; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:7; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:17; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="172,488 1250,487 1224,444 172,448"/>
+                <Baseline points="179,477 232,477 285,477 338,477 392,478 445,478 498,478 551,478 605,478 658,478 711,478 764,478 818,478 871,478 924,478 977,479 1031,479 1084,479 1137,479 1190,480 1244,480"/>
+                <TextEquiv>
+                    <Unicode>Zwei-, Drei- und Zweitheiligem metrisch-verständlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="181,535 1084,538 1060,499 871,492 181,507"/>
+                <Baseline points="187,530 231,530 276,531 320,531 365,531 409,532 454,532 498,532 543,532 587,532 632,532 677,532 721,532 766,532 810,533 855,533 899,533 944,533 988,533 1033,534 1078,534"/>
+                <TextEquiv>
+                    <Unicode>werden können, als 4 + 3, 3 + 4 und 2 + 3 + 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ebenso würde das Siebentheilige nur als Zusam¬&#13;
+mensetzung von Drei- und Viertheiligem, oder von&#13;
+Zwei-, Drei- und Zweitheiligem metrisch-verständlich&#13;
+werden können, als 4 + 3, 3 + 4 und 2 + 3 + 2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612645843932_9214" custom="readingOrder {index:2;} structure {type:floating;}">
+            <Coords points="175,550 1244,550 1244,968 175,968"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612645813141_9198" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="175,968 1244,968 1244,1513 175,1513"/>
+            <TextLine id="r1l21" custom="readingOrder {index:0;}">
+                <Coords points="265,1026 1236,1020 1236,985 1154,980 265,979"/>
+                <Baseline points="272,1015 319,1014 367,1013 415,1013 463,1013 511,1012 559,1012 606,1012 654,1013 702,1013 750,1013 798,1013 846,1013 894,1014 941,1014 989,1014 1037,1014 1085,1014 1133,1013 1181,1013 1229,1012"/>
+                <TextEquiv>
+                    <Unicode>Auf keine Weise werden aber solche Formationen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:1;}">
+                <Coords points="176,1075 1241,1073 1241,1042 1190,1035 176,1041"/>
+                <Baseline points="182,1069 234,1067 287,1067 339,1066 392,1066 445,1066 497,1066 550,1066 602,1066 655,1066 708,1067 760,1067 813,1067 865,1068 918,1068 971,1068 1023,1067 1076,1067 1128,1066 1181,1066 1234,1064"/>
+                <TextEquiv>
+                    <Unicode>sich, wie die zwei-, drei- und viertheilige, zu metrischer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:2;}">
+                <Coords points="179,1131 1238,1129 1238,1091 1124,1083 901,1110 832,1083 179,1091"/>
+                <Baseline points="185,1120 237,1120 289,1120 342,1120 394,1120 446,1120 499,1120 551,1120 603,1120 656,1120 708,1120 760,1120 813,1120 865,1120 917,1120 970,1120 1022,1120 1074,1120 1127,1120 1179,1119 1232,1119"/>
+                <TextEquiv>
+                    <Unicode>Einheit gestalten können; sie werden, wie sie nicht aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:3;}">
+                <Coords points="175,1186 912,1196 1230,1179 1230,1148 175,1149"/>
+                <Baseline points="182,1173 234,1172 286,1172 338,1172 390,1172 442,1172 494,1172 546,1173 598,1173 650,1173 703,1173 755,1173 807,1174 859,1174 911,1174 963,1174 1015,1173 1067,1173 1119,1172 1171,1172 1224,1171"/>
+                <TextEquiv>
+                    <Unicode>organischer Bestimmung entstanden sind, auch immer nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:4;}">
+                <Coords points="177,1236 1235,1236 1235,1201 1165,1188 177,1200"/>
+                <Baseline points="183,1228 235,1227 287,1227 339,1226 392,1226 444,1226 496,1226 548,1226 601,1226 653,1226 705,1226 757,1227 810,1227 862,1227 914,1227 966,1227 1019,1227 1071,1226 1123,1226 1175,1225 1228,1224"/>
+                <TextEquiv>
+                    <Unicode>als zusammengesetzte erscheinen. Es folgt hier dem Einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:5;}">
+                <Coords points="182,1291 1229,1300 1229,1257 1164,1244 997,1271 965,1243 876,1271 796,1244 182,1257"/>
+                <Baseline points="188,1279 239,1279 291,1279 343,1279 394,1279 446,1279 498,1280 549,1280 601,1280 653,1280 705,1280 756,1280 808,1280 860,1280 911,1280 963,1280 1015,1280 1066,1280 1118,1280 1170,1279 1222,1279"/>
+                <TextEquiv>
+                    <Unicode>nicht ein Anderes gleicher Qualität, d. h. ein Zweites,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:6;}">
+                <Coords points="172,1344 1102,1347 1221,1339 1221,1310 172,1311"/>
+                <Baseline points="179,1334 230,1334 282,1334 334,1333 386,1333 437,1333 489,1333 541,1333 593,1333 644,1333 696,1333 748,1333 800,1333 851,1333 903,1333 955,1333 1007,1333 1058,1333 1110,1333 1162,1332 1214,1332"/>
+                <TextEquiv>
+                    <Unicode>als das Erste in seinem Gegensatze; sondern eben ein an¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:7;}">
+                <Coords points="172,1394 814,1411 1230,1395 1230,1362 172,1367"/>
+                <Baseline points="179,1387 231,1387 283,1387 335,1386 387,1386 440,1386 492,1386 544,1386 596,1387 648,1387 701,1387 753,1387 805,1387 857,1387 909,1387 962,1387 1014,1387 1066,1387 1118,1386 1170,1386 1223,1385"/>
+                <TextEquiv>
+                    <Unicode>deres Erste, eine neue Bestimmung, die nur wieder einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:8;}">
+                <Coords points="178,1451 1152,1459 1230,1451 1230,1411 177,1410"/>
+                <Baseline points="184,1442 238,1441 293,1441 348,1440 402,1440 457,1440 512,1440 566,1440 621,1440 676,1440 730,1440 785,1440 840,1440 894,1441 949,1440 1004,1440 1058,1440 1113,1440 1168,1439 1223,1439"/>
+                <TextEquiv>
+                    <Unicode>Anfang, nicht aber eine Folge zu dem Vorhergegangenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:9;}">
+                <Coords points="171,1508 401,1507 402,1470 319,1467 312,1460 295,1469 255,1468 243,1460 171,1460"/>
+                <Baseline points="177,1492 204,1493 231,1494 258,1494 286,1494 313,1494 340,1494 367,1493 395,1494"/>
+                <TextEquiv>
+                    <Unicode>bilden kann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Auf keine Weise werden aber solche Formationen&#13;
+sich, wie die zwei-, drei- und viertheilige, zu metrischer&#13;
+Einheit gestalten können; sie werden, wie sie nicht aus&#13;
+organischer Bestimmung entstanden sind, auch immer nur&#13;
+als zusammengesetzte erscheinen. Es folgt hier dem Einen&#13;
+nicht ein Anderes gleicher Qualität, d. h. ein Zweites,&#13;
+als das Erste in seinem Gegensatze; sondern eben ein an¬&#13;
+deres Erste, eine neue Bestimmung, die nur wieder einen&#13;
+Anfang, nicht aber eine Folge zu dem Vorhergegangenen&#13;
+bilden kann.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612645809686_9194" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
+            <Coords points="175,1513 1244,1513 1244,2148 175,2148"/>
+            <TextLine id="r1l31" custom="readingOrder {index:0;}">
+                <Coords points="261,1555 1235,1554 1235,1520 1167,1508 823,1507 749,1534 663,1509 261,1516"/>
+                <Baseline points="268,1547 316,1547 364,1547 412,1547 460,1547 508,1547 556,1547 604,1547 652,1547 700,1546 748,1546 796,1546 844,1546 892,1546 940,1546 988,1546 1036,1546 1084,1546 1132,1546 1180,1546 1228,1546"/>
+                <TextEquiv>
+                    <Unicode>In der Accordverbindung schliesst die unmittelbare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:1;}">
+                <Coords points="176,1611 1230,1611 1216,1564 175,1572"/>
+                <Baseline points="182,1602 234,1601 286,1601 338,1601 390,1600 442,1600 494,1600 546,1599 598,1599 650,1599 702,1599 754,1599 806,1599 858,1599 910,1599 962,1599 1014,1599 1066,1599 1118,1599 1170,1599 1223,1599"/>
+                <TextEquiv>
+                    <Unicode>Aufeinanderfolge zweier Quinten sich von selbst aus. Es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:2;}">
+                <Coords points="183,1667 812,1659 871,1683 925,1654 1229,1652 1185,1619 183,1628"/>
+                <Baseline points="190,1652 241,1652 293,1653 344,1653 396,1653 448,1653 499,1653 551,1653 602,1653 654,1653 706,1652 757,1652 809,1652 860,1652 912,1652 964,1652 1015,1652 1067,1652 1118,1652 1170,1652 1222,1652"/>
+                <TextEquiv>
+                    <Unicode>würde in einer rationalen Harmonielehre keines besonde¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:3;}">
+                <Coords points="177,1714 1055,1723 1235,1714 1235,1682 177,1684"/>
+                <Baseline points="184,1704 236,1704 288,1705 340,1705 392,1705 445,1706 497,1706 549,1706 601,1706 653,1706 706,1706 758,1706 810,1706 862,1706 914,1706 967,1705 1019,1705 1071,1705 1123,1705 1175,1705 1228,1705"/>
+                <TextEquiv>
+                    <Unicode>ren Verbotes für diese Fortschreitung bedürfen, denn sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:4;}">
+                <Coords points="175,1771 1222,1763 1222,1735 1143,1725 175,1724"/>
+                <Baseline points="181,1759 232,1759 284,1759 336,1759 388,1759 439,1759 491,1759 543,1759 595,1759 646,1759 698,1759 750,1759 802,1759 853,1759 905,1759 957,1759 1009,1759 1060,1758 1112,1758 1164,1758 1216,1758"/>
+                <TextEquiv>
+                    <Unicode>kann eben unter verbundenen Dreiklängen nicht vorkom¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:5;}">
+                <Coords points="177,1826 1207,1819 1225,1792 176,1788"/>
+                <Baseline points="183,1813 234,1813 286,1812 338,1813 390,1813 441,1813 493,1813 545,1813 597,1813 648,1813 700,1813 752,1813 804,1813 855,1812 907,1812 959,1812 1011,1811 1062,1811 1114,1810 1166,1809 1218,1808"/>
+                <TextEquiv>
+                    <Unicode>men; sie bezeichnet vielmehr das unvermittelte Neben¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:6;}">
+                <Coords points="179,1876 1048,1884 1230,1875 1230,1834 179,1844"/>
+                <Baseline points="186,1866 237,1866 289,1866 341,1866 393,1866 445,1866 497,1866 549,1867 601,1867 653,1867 705,1867 756,1867 808,1867 860,1867 912,1867 964,1866 1016,1865 1068,1864 1120,1863 1172,1862 1224,1860"/>
+                <TextEquiv>
+                    <Unicode>einanderstehen zweier Dreiklänge in primärer Lage, zweier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:7;}">
+                <Coords points="168,1929 1200,1939 1226,1884 168,1900"/>
+                <Baseline points="175,1920 227,1919 279,1919 331,1919 383,1919 436,1919 488,1920 540,1920 592,1920 644,1920 697,1920 749,1921 801,1921 853,1921 905,1920 958,1920 1010,1920 1062,1919 1114,1918 1166,1917 1219,1916"/>
+                <TextEquiv>
+                    <Unicode>nebeneinanderstehender Anfänge; und eben dieser Mangel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:8;}">
+                <Coords points="172,1987 1233,1970 1109,1939 172,1948"/>
+                <Baseline points="178,1973 230,1972 282,1972 335,1972 387,1973 440,1973 492,1973 544,1973 597,1973 649,1974 702,1974 754,1974 806,1974 859,1974 911,1974 964,1974 1016,1973 1068,1972 1121,1971 1173,1971 1226,1969"/>
+                <TextEquiv>
+                    <Unicode>an Verbindung ist es, was in der Quintparallele sich an¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:9;}">
+                <Coords points="174,2036 1231,2024 1099,1995 174,2001"/>
+                <Baseline points="181,2025 233,2026 285,2026 337,2026 389,2026 441,2027 493,2027 546,2027 598,2027 650,2028 702,2028 754,2028 806,2028 858,2028 911,2028 963,2027 1015,2027 1067,2027 1119,2026 1171,2025 1224,2024"/>
+                <TextEquiv>
+                    <Unicode>stössig erweisen muss. Ebenso wird aber auch eine me¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:10;}">
+                <Coords points="168,2091 1229,2091 1229,2053 1175,2044 168,2052"/>
+                <Baseline points="175,2079 227,2080 279,2080 332,2080 384,2080 436,2081 489,2081 541,2081 593,2081 646,2081 698,2081 750,2081 803,2081 855,2081 907,2081 960,2081 1012,2081 1064,2080 1117,2080 1169,2079 1222,2079"/>
+                <TextEquiv>
+                    <Unicode>trische Formation, die zwei- und dreigliedrige Einheiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:11;}">
+                <Coords points="172,2147 1229,2139 1174,2100 172,2108"/>
+                <Baseline points="179,2133 231,2134 283,2134 335,2134 387,2135 439,2135 491,2135 544,2136 596,2136 648,2136 700,2136 752,2136 804,2136 856,2136 909,2136 961,2136 1013,2136 1065,2135 1117,2135 1169,2135 1222,2134"/>
+                <TextEquiv>
+                    <Unicode>abwechselnd nacheinander setzt, den wiederholten An¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In der Accordverbindung schliesst die unmittelbare
+Aufeinanderfolge zweier Quinten sich von selbst aus. Es
+würde in einer rationalen Harmonielehre keines besonde¬
+ren Verbotes für diese Fortschreitung bedürfen, denn sie
+kann eben unter verbundenen Dreiklängen nicht vorkom¬
+men; sie bezeichnet vielmehr das unvermittelte Neben¬
+einanderstehen zweier Dreiklänge in primärer Lage, zweier
+nebeneinanderstehender Anfänge; und eben dieser Mangel
+an Verbindung ist es, was in der Quintparallele sich an¬
+stössig erweisen muss. Ebenso wird aber auch eine me¬
+trische Formation, die zwei- und dreigliedrige Einheiten
+abwechselnd nacheinander setzt, den wiederholten An¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

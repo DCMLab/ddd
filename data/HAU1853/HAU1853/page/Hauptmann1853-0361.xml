@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:41.223+01:00</Created>
+        <LastChange>2021-03-22T16:02:23.825+01:00</LastChange>
+        <TranskribusMetadata docId="598856" pageId="23847046" pageNr="352" tsid="54050662" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HWWSOTGYPFQLTNKZSUYXMZTM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OGPDVNHSPGDPNDYSDJQBORRN" imageId="18303512"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0361.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624196734821" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612984779116_72"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612984773910_67"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612984779116_72" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="227,246 1306,246 1306,297 227,297"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="729,280 745,283 807,283 815,275 828,275 829,245 817,245 809,237 789,236 742,236 736,243 729,243"/>
+                <Baseline points="735,272 763,274 792,273 821,274"/>
+                <TextEquiv>
+                    <Unicode>342</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>342</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612984793614_76" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="227,297 1306,297 1306,1274 227,1274"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612984773910_67" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="227,1274 1306,1274 1306,2153 227,2153"/>
+            <TextLine id="r1l23" custom="readingOrder {index:0;} textStyle {offset:9; length:13;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="316,1328 1228,1346 1293,1322 1293,1296 1030,1283 933,1308 316,1294"/>
+                <Baseline points="322,1321 370,1321 418,1321 466,1322 514,1322 563,1322 611,1322 659,1322 707,1323 755,1323 804,1323 852,1323 900,1323 948,1324 996,1324 1045,1324 1093,1323 1141,1323 1189,1323 1237,1322 1286,1322"/>
+                <TextEquiv>
+                    <Unicode>158. Die tetrapodische Form, in den drei rhyth¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:1;}">
+                <Coords points="230,1387 1285,1379 1248,1339 230,1353"/>
+                <Baseline points="237,1376 289,1375 341,1375 393,1375 445,1375 497,1375 549,1375 601,1375 653,1375 705,1375 758,1375 810,1376 862,1376 914,1376 966,1376 1018,1376 1070,1376 1122,1376 1174,1376 1226,1375 1279,1375"/>
+                <TextEquiv>
+                    <Unicode>misch-ungleichzeitigen Bestimmungen combinirt, wird wie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:2;}">
+                <Coords points="229,1433 1287,1451 1287,1396 229,1405"/>
+                <Baseline points="236,1429 288,1428 340,1428 392,1428 444,1427 497,1427 549,1428 601,1428 653,1428 705,1428 758,1429 810,1429 862,1429 914,1429 966,1430 1019,1430 1071,1430 1123,1430 1175,1430 1227,1429 1280,1429"/>
+                <TextEquiv>
+                    <Unicode>der die dreifache Zahl der vorhergehenden, d. i. $$MATH</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:3;}">
+                <Coords points="224,1490 1103,1499 1291,1490 1292,1461 224,1461"/>
+                <Baseline points="231,1479 283,1479 336,1479 389,1480 441,1480 494,1480 547,1480 599,1480 652,1481 705,1481 758,1481 810,1481 863,1481 916,1481 968,1482 1021,1482 1074,1482 1126,1482 1179,1482 1232,1481 1285,1481"/>
+                <TextEquiv>
+                    <Unicode>verschiedene Gliederungsweisen ergeben. Wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:4;}">
+                <Coords points="228,1543 1287,1539 1270,1508 1095,1500 1040,1524 1006,1500 228,1512"/>
+                <Baseline points="235,1534 287,1534 339,1534 391,1534 444,1534 496,1534 548,1535 601,1535 653,1535 705,1535 758,1535 810,1535 862,1536 914,1536 967,1536 1019,1536 1071,1535 1124,1535 1176,1535 1228,1534 1281,1534"/>
+                <TextEquiv>
+                    <Unicode>aber die Tetrapodie von der Doppeldipodie, das wesent¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:5;}">
+                <Coords points="229,1595 1294,1595 1256,1556 230,1555"/>
+                <Baseline points="236,1584 288,1585 341,1585 393,1586 446,1586 499,1586 551,1587 604,1587 656,1587 709,1587 762,1587 814,1588 867,1588 919,1588 972,1588 1025,1588 1077,1588 1130,1588 1182,1588 1235,1588 1288,1589"/>
+                <TextEquiv>
+                    <Unicode>lich-Vierzeitige vom Doppelzweizeitigen eben nur in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:6;}">
+                <Coords points="233,1652 1288,1640 1118,1604 233,1612"/>
+                <Baseline points="240,1639 292,1640 344,1640 396,1640 448,1640 500,1640 552,1641 604,1641 656,1641 708,1641 760,1641 812,1641 864,1641 916,1641 968,1641 1020,1641 1072,1641 1124,1640 1176,1640 1228,1640 1281,1640"/>
+                <TextEquiv>
+                    <Unicode>Accentbestimmung, nicht in der Gliederungsgestaltung ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:7;}">
+                <Coords points="229,1699 1292,1698 1238,1659 229,1668"/>
+                <Baseline points="236,1691 288,1692 341,1692 393,1693 446,1693 498,1693 551,1694 603,1694 656,1694 708,1694 761,1694 813,1694 866,1693 918,1693 971,1693 1023,1693 1076,1693 1128,1693 1181,1694 1233,1694 1286,1694"/>
+                <TextEquiv>
+                    <Unicode>schieden ist, wie dem Doppelzweizeitigen zwar ein Ac¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:8;}">
+                <Coords points="234,1755 1288,1754 1242,1716 234,1723"/>
+                <Baseline points="241,1745 293,1745 345,1746 397,1746 449,1747 501,1747 553,1747 605,1747 657,1747 709,1747 761,1746 813,1746 865,1746 917,1746 969,1746 1021,1746 1073,1746 1125,1746 1177,1747 1229,1747 1282,1747"/>
+                <TextEquiv>
+                    <Unicode>centmoment des Vierzeitigen fehlt, das Vierzeitige aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612984826890_104" custom="readingOrder {index:9;}">
+                <Coords points="225,1811 1288,1810 1288,1769 1227,1764 975,1788 225,1764"/>
+                <Baseline points="231,1798 268,1798 305,1799 342,1799 379,1799 416,1799 453,1799 490,1800 527,1800 564,1800 601,1800 638,1800 675,1800 712,1800 749,1800 786,1799 823,1799 860,1799 897,1799 934,1799 972,1799 987,1797 1013,1798 1040,1799 1067,1799 1093,1799 1120,1799 1147,1799 1174,1799 1200,1799 1227,1799 1254,1799 1281,1799"/>
+                <TextEquiv>
+                    <Unicode>immer auch ein Doppelzweizeitiges ist, so werden diese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:10;}">
+                <Coords points="225,1859 1290,1859 1290,1820 225,1820"/>
+                <Baseline points="231,1850 283,1851 336,1851 388,1852 441,1852 494,1852 546,1852 599,1852 651,1852 704,1852 757,1852 809,1852 862,1852 914,1852 967,1852 1020,1852 1072,1852 1125,1852 1177,1852 1230,1853 1283,1853"/>
+                <TextEquiv>
+                    <Unicode>81 Formen der tetrapodisch-rhythmischen Gliederung nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:11;}">
+                <Coords points="233,1916 1289,1906 1262,1867 234,1883"/>
+                <Baseline points="240,1904 292,1904 344,1904 396,1905 448,1905 500,1905 552,1905 604,1905 656,1905 708,1905 761,1906 813,1906 865,1906 917,1906 969,1906 1021,1905 1073,1905 1125,1905 1177,1905 1229,1905 1282,1904"/>
+                <TextEquiv>
+                    <Unicode>zu verzeichnen nöthig sein: sie können nur in den Combi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:12;}">
+                <Coords points="221,1967 1287,1963 1165,1923 1086,1948 221,1933"/>
+                <Baseline points="228,1958 280,1957 333,1957 385,1957 438,1957 491,1957 543,1957 596,1957 648,1957 701,1958 754,1958 806,1958 859,1958 911,1958 964,1958 1017,1958 1069,1958 1122,1958 1174,1957 1227,1957 1280,1956"/>
+                <TextEquiv>
+                    <Unicode>nationen je zwei zweizeitiger Formen bestehen, und müs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:13;}">
+                <Coords points="221,2016 975,2035 1260,2019 1275,1984 221,1987"/>
+                <Baseline points="228,2011 280,2011 332,2011 384,2011 436,2011 488,2011 540,2011 592,2011 644,2011 696,2011 748,2011 800,2011 852,2011 904,2012 956,2012 1008,2011 1060,2011 1112,2011 1164,2011 1216,2010 1268,2010"/>
+                <TextEquiv>
+                    <Unicode>sen mithin das Neunfache der zweizeitigen neunmal ent¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:14;}">
+                <Coords points="221,2073 1295,2074 1272,2027 221,2033"/>
+                <Baseline points="227,2063 280,2063 333,2063 386,2063 439,2063 492,2063 545,2063 598,2064 651,2064 704,2064 757,2065 810,2065 863,2065 916,2065 969,2065 1022,2065 1075,2065 1128,2065 1181,2064 1234,2064 1288,2062"/>
+                <TextEquiv>
+                    <Unicode>halten, indem jede der neun zweizeitigen Formen mit sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:15;}">
+                <Coords points="231,2123 1016,2131 1024,2085 231,2093"/>
+                <Baseline points="238,2117 279,2116 320,2116 361,2116 402,2116 443,2116 484,2116 525,2116 566,2117 607,2117 648,2117 689,2117 730,2117 771,2117 812,2118 853,2118 894,2118 935,2118 976,2118 1017,2117"/>
+                <TextEquiv>
+                    <Unicode>und den acht übrigen zusammenzustellen ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>158. Die tetrapodische Form, in den drei rhyth¬&#13;
+misch-ungleichzeitigen Bestimmungen combinirt, wird wie¬&#13;
+der die dreifache Zahl der vorhergehenden, d. i. $$MATH&#13;
+verschiedene Gliederungsweisen ergeben. Wie&#13;
+aber die Tetrapodie von der Doppeldipodie, das wesent¬&#13;
+lich-Vierzeitige vom Doppelzweizeitigen eben nur in der&#13;
+Accentbestimmung, nicht in der Gliederungsgestaltung ver¬&#13;
+schieden ist, wie dem Doppelzweizeitigen zwar ein Ac¬&#13;
+centmoment des Vierzeitigen fehlt, das Vierzeitige aber&#13;
+immer auch ein Doppelzweizeitiges ist, so werden diese&#13;
+81 Formen der tetrapodisch-rhythmischen Gliederung nicht&#13;
+zu verzeichnen nöthig sein: sie können nur in den Combi¬&#13;
+nationen je zwei zweizeitiger Formen bestehen, und müs¬&#13;
+sen mithin das Neunfache der zweizeitigen neunmal ent¬&#13;
+halten, indem jede der neun zweizeitigen Formen mit sich&#13;
+und den acht übrigen zusammenzustellen ist.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

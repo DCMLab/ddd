@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-18T14:22:18.032+01:00</Created>
+        <LastChange>2021-05-29T21:54:29.432+02:00</LastChange>
+        <TranskribusMetadata docId="634080" pageId="24815048" pageNr="297" tsid="58442766" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=LHSUVVLHOKYBCJYGGXTUEDSY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NADNOXCBWOOGWFZLPPINZGDV" imageId="19136447"/>
+    </Metadata>
+    <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0306.jpg" imageWidth="1502" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624195897802" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1621437314096_5290"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1621437340974_5299"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="TextRegion_1621437314096_5290" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="47,80 1384,80 1384,154 47,154"/>
+            <TextLine id="line_1621437325474_5293" custom="readingOrder {index:0;}">
+                <Coords points="639,154 699,162 718,154 728,157 734,152 747,153 749,98 733,97 725,105 662,102 656,107 641,107"/>
+                <Baseline points="653,141 734,144"/>
+                <TextEquiv>
+                    <Unicode>287</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>287</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1621437346259_5303" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="47,154 764,154 764,2301 47,2301"/>
+        </MusicRegion>
+        <TextRegion type="paragraph" id="TextRegion_1621437340974_5299" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="764,154 1384,154 1384,2301 764,2301"/>
+            <TextLine id="line_1621437375061_5310" custom="readingOrder {index:0;} textStyle {offset:45; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:54; length:2;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="828,2125 834,158 768,181 768,2125"/>
+                <Baseline points="816,2113 816,171"/>
+                <TextEquiv>
+                    <Unicode>Im 7. Takte der ersten Zeile wird man lieber e} statt es{ nehmen wollen. Beides ist statthaft,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621437383720_5315" custom="readingOrder {index:1;} textStyle {offset:8; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:42; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:71; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="895,2278 900,158 840,232 839,2278"/>
+                <Baseline points="882,2266 877,171"/>
+                <TextEquiv>
+                    <Unicode>der Ton e} aber würde nicht nach phonisch c, sondern nach halbphonisch c führen. Auch mir klingt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621437393845_5320" custom="readingOrder {index:2;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:43; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:51; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="965,2283 965,155 913,176 899,2283"/>
+                <Baseline points="949,2271 947,168"/>
+                <TextEquiv>
+                    <Unicode>e} gefälliger, offenbar, weil halbphonisch c (oder F-moll) mir leichter verständlich oder gewohnter ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621437406250_5325" custom="readingOrder {index:3;} textStyle {offset:66; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:84; length:3;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:96; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1031,2280 1029,155 959,468 976,2280"/>
+                <Baseline points="1018,2266 1013,168"/>
+                <TextEquiv>
+                    <Unicode>Umgekehrt aber befriedigt im Spiegelbilde entschieden der zu ton. e} gehörenden Ton cis}}; denn c, zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621437418038_5330" custom="readingOrder {index:4;} textStyle {offset:12; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1097,2280 1102,160 1039,197 1041,2280"/>
+                <Baseline points="1085,2268 1082,173"/>
+                <TextEquiv>
+                    <Unicode>halbtonisch e} gehörig, führt in ein in der europäischen Musik nicht anerkanntes gemischtes Geschlecht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621437426862_5335" custom="readingOrder {index:5;} textStyle {offset:48; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:66; length:3;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1166,2278 1171,256 1121,159 1111,2279"/>
+                <Baseline points="1157,2266 1149,173"/>
+                <TextEquiv>
+                    <Unicode>Dieselben Bemerkungen beziehen sich auf den Ton b der ersten, und fis} der zweiten Zeile im 8. Takte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621437439477_5340" custom="readingOrder {index:6;} textStyle {offset:79; length:3;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:91; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1239,2275 1236,153 1176,205 1176,2275"/>
+                <Baseline points="1218,2263 1221,166"/>
+                <TextEquiv>
+                    <Unicode>Umgekehrt wiederum greifen wir im 2. Takte der letzten Zeile vielleicht lieber ais}} statt a}, nicht aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621437445116_5345" custom="readingOrder {index:7;} textStyle {offset:37; length:3;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:48; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1302,2280 1310,1270 1255,1270 1239,1460 1268,1652 1249,2280"/>
+                <Baseline points="1290,2268 1287,1283"/>
+                <TextEquiv>
+                    <Unicode>im Spiegelbilde, in der ersten Zeile ges} statt g.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Im 7. Takte der ersten Zeile wird man lieber e} statt es{ nehmen wollen. Beides ist statthaft,&#13;
+der Ton e} aber würde nicht nach phonisch c, sondern nach halbphonisch c führen. Auch mir klingt&#13;
+e} gefälliger, offenbar, weil halbphonisch c (oder F-moll) mir leichter verständlich oder gewohnter ist.&#13;
+Umgekehrt aber befriedigt im Spiegelbilde entschieden der zu ton. e} gehörenden Ton cis}}; denn c, zu&#13;
+halbtonisch e} gehörig, führt in ein in der europäischen Musik nicht anerkanntes gemischtes Geschlecht.&#13;
+Dieselben Bemerkungen beziehen sich auf den Ton b der ersten, und fis} der zweiten Zeile im 8. Takte.&#13;
+Umgekehrt wiederum greifen wir im 2. Takte der letzten Zeile vielleicht lieber ais}} statt a}, nicht aber&#13;
+im Spiegelbilde, in der ersten Zeile ges} statt g.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

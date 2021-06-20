@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:41.844+01:00</Created>
+        <LastChange>2021-03-23T15:39:35.574+01:00</LastChange>
+        <TranskribusMetadata docId="598856" pageId="23847094" pageNr="379" tsid="54098705" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=CGURDZUQEDWOCBGVJRGZJLWZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=USODOFZGWYTCGDCMMUFIIBZQ" imageId="18303560"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0388.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624196739157" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612994851006_3174"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1612994851006_3174" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="172,793 1229,793 1229,2101 172,2101"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="644,883 758,883 762,801 687,797 673,809 648,804"/>
+                <Baseline points="651,868 676,871 701,872 726,872 751,876"/>
+                <TextEquiv>
+                    <Unicode>III</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} textStyle {offset:0; length:19;fontSize:0.0; kerning:0; bold:true; letterSpaced:true;}">
+                <Coords points="165,1075 1235,1062 1208,1004 165,1003"/>
+                <Baseline points="172,1056 224,1055 277,1055 330,1054 383,1054 436,1054 489,1053 541,1053 594,1053 647,1053 700,1053 753,1053 806,1054 859,1054 911,1054 964,1054 1017,1055 1070,1055 1123,1056 1176,1056 1229,1057"/>
+                <TextEquiv>
+                    <Unicode>METRISCHE HARMONIK.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} textStyle {offset:0; length:19;fontSize:0.0; kerning:0; bold:true; letterSpaced:true;}">
+                <Coords points="223,1203 1153,1203 1169,1167 1133,1140 924,1131 223,1132"/>
+                <Baseline points="230,1189 276,1188 323,1187 369,1187 416,1186 463,1186 509,1186 556,1186 602,1186 649,1186 696,1186 742,1186 789,1187 835,1187 882,1188 929,1189 975,1189 1022,1190 1068,1191 1115,1192 1162,1193"/>
+                <TextEquiv>
+                    <Unicode>HARMONISCHE METRIK.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>III
+METRISCHE HARMONIK.
+HARMONISCHE METRIK.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
