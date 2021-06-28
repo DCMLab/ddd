@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-12-03T18:19:44.941+01:00</Created>
+        <LastChange>2021-04-22T17:07:03.376+02:00</LastChange>
+        <TranskribusMetadata docId="548806" pageId="22904491" pageNr="29" tsid="57013844" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=GRVUOMVQIPGTNNJCMWWVGBQU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XGYJZVUDHKMPDEUPXMARDQDQ" imageId="17867764"/>
+    </Metadata>
+    <Page imageFilename="Naumann1858-0029.jpg" imageWidth="9108" imageHeight="11258" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624197100262" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1611341431656_3221"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1613654484609_1630"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1613654484609_1629"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1611341417528_3212"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1611341431656_3221" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1604,848 8168,848 8168,1040 1604,1040"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="4688,1034 4764,1019 4854,1071 4896,1071 4930,1039 4980,1040 4987,681 4920,696 4904,679 4862,678 4828,711 4794,719 4761,702 4695,700"/>
+                <Baseline points="4734,924 4759,925 4785,927 4811,928 4837,927 4862,926 4888,927 4914,929 4940,930"/>
+                <TextEquiv>
+                    <Unicode>14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>14</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TableRegion id="Table_1611341480954_3231" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="1604,1040 8168,1040 8168,5729 1604,5729"/>
+            <TableCell row="0" col="0" rowSpan="2" colSpan="1" id="TableCell_1611685100374_43">
+                <Coords points="1604,1040 1604,4418 1604,5729 8168,5729 8168,4418 8168,1040"/>
+                <CornerPts>0 2 3 5</CornerPts>
+            </TableCell>
+        </TableRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1613654484609_1630" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1604,5729 8168,5729 8168,7937 1604,7937"/>
+            <TextLine id="r2l141" custom="readingOrder {index:0;}">
+                <Coords points="4706,6076 4747,6074 4782,6097 4937,6028 4981,6059 5047,6055 5034,5838 4992,5841 4966,5826 4917,5837 4890,5814 4858,5841 4823,5818 4752,5881 4694,5885"/>
+                <Baseline points="4742,6042 4768,6032 4794,6023 4821,6020 4847,6017 4874,6016 4900,6016 4926,6016 4953,6017 4979,6018 5006,6018"/>
+                <TextEquiv>
+                    <Unicode>§ 6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l142" custom="readingOrder {index:1;}">
+                <Coords points="2012,6388 7771,6389 8180,6304 8179,6029 2012,6146"/>
+                <Baseline points="2052,6312 2356,6308 2660,6306 2964,6304 3269,6304 3573,6304 3877,6304 4182,6304 4486,6304 4790,6306 5095,6306 5399,6308 5703,6308 6007,6308 6312,6306 6616,6304 6920,6301 7225,6296 7529,6291 7833,6284 8138,6276"/>
+                <TextEquiv>
+                    <Unicode>Aus vorstehender Tabelle geht nun ganz deutlich hervor, dass jede der von uns gesonderten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l143" custom="readingOrder {index:2;} textStyle {offset:20; length:13;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="1582,6597 7867,6609 8167,6308 1582,6355"/>
+                <Baseline points="1620,6542 1945,6538 2270,6534 2595,6532 2920,6530 3245,6530 3570,6528 3895,6530 4220,6530 4545,6530 4871,6530 5196,6530 5521,6530 5846,6530 6171,6530 6496,6528 6821,6524 7146,6520 7471,6516 7796,6510 8122,6502"/>
+                <TextEquiv>
+                    <Unicode>drei Tonclassen ein Quintensystem bildet, d. h. dass die relativen Schwingungszahlen der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l144" custom="readingOrder {index:3;}">
+                <Coords points="1581,6831 7691,6854 8166,6586 1581,6647"/>
+                <Baseline points="1620,6766 1945,6760 2270,6756 2595,6754 2921,6752 3246,6752 3571,6752 3897,6752 4222,6752 4547,6752 4873,6754 5198,6754 5523,6754 5848,6754 6174,6752 6499,6751 6824,6748 7150,6745 7475,6740 7800,6733 8126,6726"/>
+                <TextEquiv>
+                    <Unicode>verschiedenen Töne innerhalb einer jeden Classe sich wesentlich nur durch die ihnen zukommen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l145" custom="readingOrder {index:4;} textStyle {offset:43; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="1564,7073 7982,7063 8174,6838 1563,6831"/>
+                <Baseline points="1606,6990 1932,6986 2258,6982 2585,6980 2911,6978 3238,6976 3564,6976 3890,6976 4217,6976 4543,6976 4870,6978 5196,6978 5522,6978 5849,6978 6175,6977 6502,6976 6828,6974 7154,6970 7481,6966 7807,6960 8134,6954"/>
+                <TextEquiv>
+                    <Unicode>den Potenzen von $$MATH unterscheiden. Als reines Quintensystem wird aber nur die erste dieser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l146" custom="readingOrder {index:5;}">
+                <Coords points="1582,7290 7808,7297 8200,7271 8200,7071 1581,7073"/>
+                <Baseline points="1620,7214 1946,7210 2273,7208 2600,7206 2926,7204 3253,7202 3580,7202 3906,7202 4233,7202 4560,7200 4887,7200 5213,7200 5540,7200 5867,7200 6193,7200 6520,7198 6847,7196 7173,7194 7500,7192 7827,7189 8154,7186"/>
+                <TextEquiv>
+                    <Unicode>Classen gelten können, in welcher die Tonverhältnisse neben den accessorischen Potenzen von 2,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l147" custom="readingOrder {index:6;}">
+                <Coords points="1565,7499 7591,7532 8200,7330 1564,7282"/>
+                <Baseline points="1604,7438 1931,7434 2259,7432 2587,7430 2915,7428 3243,7428 3571,7428 3899,7426 4227,7426 4555,7428 4883,7428 5210,7428 5538,7428 5866,7426 6194,7426 6522,7424 6850,7422 7178,7420 7506,7416 7834,7412 8162,7406"/>
+                <TextEquiv>
+                    <Unicode>welche nur die Lage der Töne feststellen, lediglich Potenzen von $$MATH enthalten. Bezeichnet man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l148" custom="readingOrder {index:7;} textStyle {offset:44; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:75; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1594,7700 8204,7728 8203,7486 7936,7470 1593,7500"/>
+                <Baseline points="1636,7664 1962,7660 2288,7656 2614,7654 2941,7652 3267,7652 3593,7652 3920,7652 4246,7652 4572,7652 4899,7652 5225,7652 5551,7654 5877,7654 6204,7652 6530,7652 6856,7650 7183,7648 7509,7644 7835,7640 8162,7636"/>
+                <TextEquiv>
+                    <Unicode>die relative Schwingungszahl der Quinte mit Q und die der grossen Terz mit T, so ist allgemeiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l149" custom="readingOrder {index:8;}">
+                <Coords points="1571,7997 5435,7888 5434,7772 5058,7673 4867,7782 4507,7684 1570,7772"/>
+                <Baseline points="1616,7890 1804,7887 1993,7885 2182,7884 2371,7882 2560,7880 2748,7878 2937,7878 3126,7876 3315,7876 3504,7874 3692,7874 3881,7874 4070,7874 4259,7872 4448,7872 4636,7872 4825,7872 5014,7872 5203,7872 5392,7872"/>
+                <TextEquiv>
+                    <Unicode>Ausdruck für die relative Schwingungszahl eines Tones</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>§ 6.&#13;
+Aus vorstehender Tabelle geht nun ganz deutlich hervor, dass jede der von uns gesonderten&#13;
+drei Tonclassen ein Quintensystem bildet, d. h. dass die relativen Schwingungszahlen der&#13;
+verschiedenen Töne innerhalb einer jeden Classe sich wesentlich nur durch die ihnen zukommen¬&#13;
+den Potenzen von $$MATH unterscheiden. Als reines Quintensystem wird aber nur die erste dieser&#13;
+Classen gelten können, in welcher die Tonverhältnisse neben den accessorischen Potenzen von 2,&#13;
+welche nur die Lage der Töne feststellen, lediglich Potenzen von $$MATH enthalten. Bezeichnet man&#13;
+die relative Schwingungszahl der Quinte mit Q und die der grossen Terz mit T, so ist allgemeiner&#13;
+Ausdruck für die relative Schwingungszahl eines Tones</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1613654484609_1629" custom="readingOrder {index:3;} structure {type:list;}">
+            <Coords points="1604,7937 8168,7937 8168,8731 1604,8731"/>
+            <TextLine id="r2l150" custom="readingOrder {index:0;} textStyle {offset:5; length:3;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="3918,8160 4528,8130 5012,8199 5146,8133 5621,8186 5622,7919 5205,7975 5105,7908 4938,8015 4646,7897 4170,7994 3920,7935"/>
+                <Baseline points="3964,8100 4044,8097 4125,8094 4206,8092 4287,8092 4368,8090 4448,8090 4529,8092 4610,8092 4691,8094 4772,8095 4852,8096 4933,8098 5014,8100 5095,8100 5176,8100 5256,8102 5337,8102 5418,8100 5499,8099 5580,8096"/>
+                <TextEquiv>
+                    <Unicode>der 1ten Classe = $$MATH</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l151" custom="readingOrder {index:1;} textStyle {offset:5; length:3;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="3899,8424 4049,8374 4316,8467 4525,8376 5025,8452 5184,8378 5869,8380 5869,8129 5076,8210 4284,8133 3899,8190"/>
+                <Baseline points="3944,8328 4038,8323 4132,8319 4226,8317 4320,8316 4415,8316 4509,8316 4603,8318 4697,8319 4791,8322 4886,8324 4980,8326 5074,8328 5168,8329 5262,8330 5357,8330 5451,8328 5545,8326 5639,8322 5733,8316 5828,8308"/>
+                <TextEquiv>
+                    <Unicode>der 2ten Classe = $$MATH</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611341550403_3268" custom="readingOrder {index:2;} textStyle {offset:5; length:3;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="3897,8694 4049,8737 4305,8666 4384,8737 4618,8751 4940,8668 5371,8765 5619,8711 5603,8386 5535,8364 5211,8388 5032,8497 4954,8442 4773,8501 4567,8386 4454,8475 4150,8389 3884,8419"/>
+                <Baseline points="3938,8614 4002,8611 4067,8610 4131,8608 4196,8608 4260,8608 4325,8607 4389,8608 4454,8608 4518,8608 4583,8608 4647,8610 4712,8610 4776,8610 4841,8610 4905,8612 4970,8612 5034,8612 5099,8612 5163,8612 5228,8612 5278,8534 5304,8535 5331,8536 5357,8534 5384,8533 5410,8531 5437,8527 5463,8522 5490,8517 5516,8511 5543,8504 5570,8494"/>
+                <TextEquiv>
+                    <Unicode>der 3ten Classe = $$MATH.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der 1ten Classe = $$MATH&#13;
+der 2ten Classe = $$MATH&#13;
+der 3ten Classe = $$MATH.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1611341417528_3212" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
+            <Coords points="1604,8731 8168,8731 8168,9850 1604,9850"/>
+            <TextLine id="r2l154" custom="readingOrder {index:0;} textStyle {offset:13; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:67; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="2078,8943 8196,8957 8028,8682 2078,8735"/>
+                <Baseline points="2122,8908 2423,8906 2725,8906 3027,8906 3328,8904 3630,8904 3932,8904 4233,8904 4535,8904 4837,8904 5139,8904 5440,8904 5742,8904 6044,8902 6345,8902 6647,8902 6949,8900 7250,8898 7552,8896 7854,8894 8156,8892"/>
+                <TextEquiv>
+                    <Unicode>Der Exponent n hat für jeden Ton in allen seinen Octaven denselben bestimmten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l155" custom="readingOrder {index:1;} textStyle {offset:26; length:16;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:66; length:3;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="1594,9153 8213,9157 7962,8933 1594,8978"/>
+                <Baseline points="1632,9130 1958,9130 2285,9130 2612,9130 2939,9130 3266,9130 3592,9130 3919,9130 4246,9130 4573,9130 4900,9130 5226,9130 5553,9130 5880,9128 6207,9128 6534,9126 6860,9124 7187,9122 7514,9120 7841,9117 8168,9114"/>
+                <TextEquiv>
+                    <Unicode>Werth; er ist = 0 für den Ausgangsgrundton ($$MATH), welcher der 1ten Classe, für dessen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611341575882_3302" custom="readingOrder {index:2;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:34; length:3;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:61; length:18;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="1621,9438 7714,9474 8079,9138 1619,9162"/>
+                <Baseline points="1658,9366 1956,9363 2255,9360 2554,9358 2853,9356 3152,9354 3451,9354 3750,9352 4049,9352 4348,9352 4647,9352 4945,9352 5244,9352 5543,9352 5842,9350 6141,9350 6440,9348 6739,9346 7038,9344 7337,9341 7636,9338 7744,9280 7770,9277 7797,9274 7823,9272 7850,9270 7876,9268 7903,9267 7929,9264 7956,9260 7982,9256 8009,9249 8036,9240 7838,9396 7863,9389 7888,9382 7913,9375 7938,9368"/>
+                <TextEquiv>
+                    <Unicode>grosse Terz ($$MATH), welche der 2ten Classe, und für dessen untere grosse Terz ($$MATH),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l159" custom="readingOrder {index:3;} textStyle {offset:12; length:3;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="1601,9671 8212,9643 7952,9410 1601,9454"/>
+                <Baseline points="1646,9578 1972,9578 2298,9578 2624,9578 2950,9580 3276,9580 3602,9580 3928,9578 4254,9578 4580,9578 4906,9578 5232,9578 5558,9577 5884,9576 6210,9576 6536,9574 6862,9573 7188,9572 7514,9570 7840,9568 8166,9566"/>
+                <TextEquiv>
+                    <Unicode>welche der 3ten Classe angehört. Diese drei Töne bilden also gewissermaassen die Mittelpunkte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l160" custom="readingOrder {index:4;}">
+                <Coords points="1620,9936 7754,9954 8188,9869 8188,9644 1619,9669"/>
+                <Baseline points="1662,9812 1986,9810 2310,9808 2635,9808 2959,9806 3284,9806 3608,9804 3932,9804 4257,9804 4581,9804 4906,9804 5230,9802 5554,9802 5879,9802 6203,9801 6528,9800 6852,9798 7176,9797 7501,9794 7825,9792 8150,9790"/>
+                <TextEquiv>
+                    <Unicode>jener Quintensysteme. Der Exponent von 2 kann für denselben Ton, je nach dessen höherer oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Exponent n hat für jeden Ton in allen seinen Octaven denselben bestimmten&#13;
+Werth; er ist = 0 für den Ausgangsgrundton ($$MATH), welcher der 1ten Classe, für dessen&#13;
+grosse Terz ($$MATH), welche der 2ten Classe, und für dessen untere grosse Terz ($$MATH),&#13;
+welche der 3ten Classe angehört. Diese drei Töne bilden also gewissermaassen die Mittelpunkte&#13;
+jener Quintensysteme. Der Exponent von 2 kann für denselben Ton, je nach dessen höherer oder</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

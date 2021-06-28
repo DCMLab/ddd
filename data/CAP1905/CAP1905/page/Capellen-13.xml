@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-03T13:14:48.438+01:00</Created>
+        <LastChange>2021-06-16T10:33:11.223+02:00</LastChange>
+        <TranskribusMetadata docId="621810" pageId="24565309" pageNr="13" tsid="59272332" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=EWAVWBCMQLWNYJPEPVVLMCUS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RUIHNXQTIOFPAHPDCOUIFWPZ" imageId="18916696"/>
+    </Metadata>
+    <Page imageFilename="Capellen-13.jpg" imageWidth="721" imageHeight="1298" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624196127379" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1614853071196_1570"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1614855552507_1653"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1614853071196_1570" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="317,101 317,151 355,151 355,101"/>
+            <TextLine id="line_1614853071491_1573" custom="readingOrder {index:0;}">
+                <Coords points="312,158 325,158 329,154 337,153 344,146 360,146 360,123 312,125"/>
+                <Baseline points="317,146 355,146"/>
+                <TextEquiv>
+                    <Unicode>9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>9</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614855552507_1653" custom="readingOrder {index:1;} structure {type:list;}">
+            <Coords points="33,168 624,168 624,1064 33,1064"/>
+            <TextLine id="line_1614855616568_1679" custom="readingOrder {index:0;} textStyle {offset:35; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="74,194 631,209 632,164 74,168"/>
+                <Baseline points="81,189 102,189 114,189 139,189 165,188 190,188 216,188 241,188 267,188 292,188 318,189 343,189 369,189 394,189 420,190 445,190 471,190 496,190 522,190 547,191 573,191 598,191 624,191"/>
+                <TextEquiv>
+                    <Unicode>4. Alle Akkorde sind demgemäss auf terzweisen Bau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="32,224 52,225 69,215 73,220 80,215 94,220 101,215 169,215 169,196 156,192 87,195 73,189 43,192 32,188"/>
+                <Baseline points="38,211 69,210 100,210 131,210 162,211"/>
+                <TextEquiv>
+                    <Unicode>zurückzuführen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:18; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="77,236 622,241 622,216 486,207 77,216"/>
+                <Baseline points="84,233 110,233 137,232 163,232 190,231 216,231 243,231 269,231 296,231 322,231 349,232 376,232 402,232 429,232 455,233 482,233 508,233 535,233 561,233 588,233 615,233"/>
+                <TextEquiv>
+                    <Unicode>5. Wie die Klänge übereinander als Doppelklänge, so schliessen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:9; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="37,260 621,259 621,241 577,237 37,236"/>
+                <Baseline points="44,253 72,253 101,253 129,253 158,253 186,253 215,253 243,253 272,253 300,253 329,253 357,253 386,253 414,253 443,253 471,253 500,253 528,254 557,254 585,254 614,255"/>
+                <TextEquiv>
+                    <Unicode>sie sich nebeneinander nach demselben akustischen Prinzip zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="30,282 573,286 627,277 627,259 30,262"/>
+                <Baseline points="37,275 66,275 95,275 124,275 153,275 182,275 211,275 241,275 270,275 299,275 328,275 357,275 386,275 415,275 445,275 474,275 503,276 532,276 561,276 590,276 620,276"/>
+                <TextEquiv>
+                    <Unicode>engeren und erweiterten Tonart („Tonität” bezw. „Tonalität”) zu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} textStyle {offset:41; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="37,305 621,311 621,281 592,279 37,280"/>
+                <Baseline points="44,298 72,298 101,297 129,297 158,297 186,297 215,297 243,297 272,297 300,297 329,297 357,297 386,297 414,297 443,297 471,297 500,297 528,297 557,298 585,298 614,298"/>
+                <TextEquiv>
+                    <Unicode>sammen. Typen der Doppelklänge, also des Übereinander, sind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="34,332 627,337 627,313 580,307 34,304"/>
+                <Baseline points="41,326 71,326 101,327 132,327 162,327 193,327 223,327 254,328 284,328 315,328 345,328 376,328 406,328 437,327 467,327 498,327 528,327 559,327 589,327 620,327"/>
+                <TextEquiv>
+                    <Unicode>$$GRAPHIC. Typus der den Natur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} textStyle {offset:30; length:3;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:46; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="35,362 627,364 627,338 604,336 35,331"/>
+                <Baseline points="42,356 70,357 99,357 128,357 157,357 186,357 215,357 244,357 273,357 302,356 331,356 359,356 388,356 417,356 446,356 475,356 504,356 533,356 562,357 591,357 620,358"/>
+                <TextEquiv>
+                    <Unicode>klängen allein entsprechenden Durtonität, des Nebeneinander,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614855629114_1698" custom="readingOrder {index:8;}">
+                <Coords points="39,386 626,387 626,364 596,361 39,361"/>
+                <Baseline points="45,378 73,378 102,378 131,378 159,378 188,378 217,378 245,378 274,378 303,378 332,378 360,378 389,378 418,378 446,378 475,378 504,378 532,378 561,379 590,379 619,379 313,407 343,408 373,408 403,406"/>
+                <TextEquiv>
+                    <Unicode>ist die geschlossene Reihe: $$GRAPHIC, die auch so notiert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614855638923_1709" custom="readingOrder {index:9;}">
+                <Coords points="31,437 494,449 613,435 622,408 507,415 421,396 393,417 310,419 104,396 31,411"/>
+                <Baseline points="38,430 66,430 95,430 124,430 153,430 182,430 211,430 239,430 268,430 297,430 326,430 355,430 384,430 413,430 441,430 470,430 499,430 528,430 557,430 586,429 615,429 191,459 216,459 241,458 260,458 294,460"/>
+                <TextEquiv>
+                    <Unicode>werden kann: $$GRAPHIC. M = „Mittelklang” (alias Drei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:10;}">
+                <Coords points="26,488 615,492 623,459 190,468 119,449 81,470 26,463"/>
+                <Baseline points="33,481 62,481 91,481 120,481 149,481 178,481 207,481 237,481 266,481 295,481 324,481 353,481 382,481 411,481 441,481 470,481 499,481 528,481 557,481 586,481 616,482"/>
+                <TextEquiv>
+                    <Unicode>klang der Tonika oder tonischer Dreiklang), R = „Rechtsklang”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614855661576_1727" custom="readingOrder {index:11;}">
+                <Coords points="30,510 621,508 621,490 593,486 30,486"/>
+                <Baseline points="37,503 63,503 89,503 116,503 142,503 169,503 195,503 222,503 248,503 275,503 301,503 328,503 337,503 362,503 387,503 412,503 437,503 462,503 488,503 513,503 538,503 563,502 588,502 614,502"/>
+                <TextEquiv>
+                    <Unicode>(Dreiklang der Dominante), L = „Linksklang” (Dreiklang der Sub¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:12;}">
+                <Coords points="31,529 630,531 630,508 31,510"/>
+                <Baseline points="38,524 67,525 96,525 125,525 155,525 184,525 213,525 243,525 272,525 301,525 331,525 360,525 389,524 418,524 448,524 477,524 506,524 536,524 565,525 594,525 624,525"/>
+                <TextEquiv>
+                    <Unicode>dominante). L, M, R bilden den Bereich der engeren Tonart</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:13;}">
+                <Coords points="34,552 621,554 621,530 562,526 34,530"/>
+                <Baseline points="41,546 69,546 98,546 127,546 155,546 184,546 213,546 241,546 270,546 299,546 328,546 356,546 385,546 414,546 442,546 471,545 500,545 528,545 557,545 586,545 615,545"/>
+                <TextEquiv>
+                    <Unicode>(„Tonität”), die erweiterte Tonart („Tonalität”) ist in Teil I als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:14;}">
+                <Coords points="40,572 585,583 622,574 623,553 40,553"/>
+                <Baseline points="47,567 75,567 103,567 132,567 160,568 189,568 217,568 245,568 274,568 302,568 331,568 359,568 387,568 416,568 444,568 473,568 501,568 529,568 558,568 586,567 615,567"/>
+                <TextEquiv>
+                    <Unicode>„Klangzickzack” S. 49, 50 dargestellt (abgedruckt auch in meiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:15;}">
+                <Coords points="34,595 350,595 350,574 340,572 34,573"/>
+                <Baseline points="40,589 65,590 90,590 115,590 141,590 166,590 191,590 216,590 242,590 267,590 292,590 317,590 343,591"/>
+                <TextEquiv>
+                    <Unicode>Monographie gegen Riemann § 11).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614855690285_1760" custom="readingOrder {index:16;} textStyle {offset:33; length:14;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="80,619 618,619 627,590 80,597"/>
+                <Baseline points="87,611 112,610 138,610 164,610 190,610 216,610 242,610 267,610 293,610 319,610 345,610 371,611 397,611 422,611 448,611 474,610 500,610 526,610 552,610 578,610 588,609 620,610"/>
+                <TextEquiv>
+                    <Unicode>6. Alle Töne und Intervalle sind Klangvertreter — eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:17;}">
+                <Coords points="30,640 627,637 627,618 556,612 30,611"/>
+                <Baseline points="37,631 66,632 95,632 124,632 153,632 182,632 211,633 241,633 270,633 299,633 328,633 357,633 386,633 415,633 445,633 474,633 503,632 532,632 561,632 590,632 620,632"/>
+                <TextEquiv>
+                    <Unicode>äusserst wichtige, von H. Riemann angebahnte Lehre. Die har¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:18;}">
+                <Coords points="33,660 578,668 625,659 625,639 33,641"/>
+                <Baseline points="40,653 68,653 97,653 126,653 155,654 184,654 213,654 242,654 271,654 300,654 329,654 357,654 386,654 415,654 444,654 473,654 502,654 531,654 560,654 589,653 618,653"/>
+                <TextEquiv>
+                    <Unicode>monische Reihe $$GRAPHIC ist zugleich die Darstellung der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:19;}">
+                <Coords points="35,691 627,691 627,666 591,659 35,660"/>
+                <Baseline points="41,683 71,683 101,683 132,683 162,683 193,683 223,683 254,683 284,683 315,683 345,683 376,683 406,683 437,683 467,683 498,683 528,683 559,683 589,683 620,683"/>
+                <TextEquiv>
+                    <Unicode>C durtonleiter gemäss der Klangvertretung der Töne. Um die Ton¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:20;}">
+                <Coords points="32,713 622,714 604,688 32,689"/>
+                <Baseline points="39,705 67,705 96,705 125,705 154,705 182,705 211,705 240,705 269,705 297,705 326,705 355,705 384,705 412,705 441,705 470,705 499,705 527,705 556,705 585,705 614,705"/>
+                <TextEquiv>
+                    <Unicode>leiter zu erhalten, braucht man nur immer dem Buchstaben links</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:21;}">
+                <Coords points="37,739 622,732 622,714 572,710 37,713"/>
+                <Baseline points="44,727 72,727 101,727 129,727 158,727 186,727 215,727 243,727 272,727 300,727 329,727 358,727 386,728 415,728 443,728 472,728 500,728 529,728 557,728 586,727 615,727"/>
+                <TextEquiv>
+                    <Unicode>vom vertikalen Teilstrich den entsprechenden rechts folgen zu lassen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:22;} textStyle {offset:45; length:1;fontSize:0.0; kerning:0; subscript:true;}">
+                <Coords points="83,754 623,757 610,732 83,732"/>
+                <Baseline points="90,748 116,748 142,748 168,748 195,748 221,748 247,748 274,748 300,749 326,749 353,749 379,749 405,749 431,749 458,748 484,748 510,748 537,748 563,748 589,748 616,748"/>
+                <TextEquiv>
+                    <Unicode>7. Der Mollklang, z. B. a c e (kurz notiert A0, während ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:23;} textStyle {offset:56; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="35,775 622,778 622,757 595,752 35,747"/>
+                <Baseline points="42,769 70,769 99,770 128,770 156,770 185,770 214,770 242,770 271,770 300,770 329,770 357,770 386,770 415,770 443,770 472,770 501,770 529,770 558,770 587,770 616,770"/>
+                <TextEquiv>
+                    <Unicode>alleinstehendes A den Durklang anzeigt) ist je nach dem tonalen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:24;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="36,797 626,800 626,778 608,775 36,775"/>
+                <Baseline points="43,792 71,792 100,792 129,792 158,792 187,792 215,792 244,792 273,792 302,792 331,792 359,792 388,792 417,792 446,792 475,792 503,792 532,792 561,792 590,792 619,792"/>
+                <TextEquiv>
+                    <Unicode>Zusammenhange zu erklären als A ♮cis e, also als alterierter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:25;}">
+                <Coords points="38,822 620,820 620,797 39,798"/>
+                <Baseline points="45,813 73,813 101,813 130,813 158,813 187,813 215,813 243,813 272,813 300,813 329,813 357,814 385,814 414,814 442,814 471,814 499,814 527,814 556,814 584,813 613,813"/>
+                <TextEquiv>
+                    <Unicode>(„getrübter”) Durdreiklang mit dem Grundton a, oder aber als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:26;}">
+                <Coords points="39,848 622,855 622,822 593,819 39,827"/>
+                <Baseline points="46,843 74,844 102,844 131,844 159,844 188,844 216,844 245,843 273,843 302,843 330,843 358,843 387,843 415,843 444,843 472,843 501,843 529,844 558,844 586,844 615,844"/>
+                <TextEquiv>
+                    <Unicode>$$GRAPHIC, also als Doppelklang mit den Grundtönen a („Basis“)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614855703359_1780" custom="readingOrder {index:27;}">
+                <Coords points="36,878 622,881 622,855 595,852 36,848"/>
+                <Baseline points="43,873 68,873 94,873 120,873 145,873 171,873 197,873 222,873 248,873 274,873 299,873 325,873 351,873 368,874 395,873 422,873 450,873 477,873 505,873 532,873 560,873 587,873 615,873"/>
+                <TextEquiv>
+                    <Unicode>und e (durch diese Grundtonqualität gewinnt das c das Ubergewicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614855709854_1788" custom="readingOrder {index:28;}">
+                <Coords points="31,901 629,903 629,879 578,877 31,880"/>
+                <Baseline points="38,895 64,895 90,895 116,895 143,895 169,895 195,895 221,895 248,895 274,895 300,895 327,896 362,894 388,895 414,896 440,896 466,896 492,895 518,895 544,895 570,895 596,896 622,897"/>
+                <TextEquiv>
+                    <Unicode>über die schwächere Basisterz cis). Weiter kann der Molldreiklang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:29;}">
+                <Coords points="35,923 627,931 627,905 592,900 35,903"/>
+                <Baseline points="43,918 71,917 100,917 129,917 158,917 187,917 216,917 244,917 273,917 302,917 331,917 360,917 389,918 418,918 446,918 475,918 504,918 533,918 562,918 591,918 620,917"/>
+                <TextEquiv>
+                    <Unicode>a c e auch verstanden werden als $$GRAPHIC, also als Doppelklang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:30;}">
+                <Coords points="36,953 630,954 630,933 599,925 36,934"/>
+                <Baseline points="43,946 73,946 103,946 134,946 164,946 195,946 225,946 256,946 286,947 317,947 347,947 378,947 408,947 439,948 469,948 500,948 530,947 561,947 591,947 622,947"/>
+                <TextEquiv>
+                    <Unicode>mit den Grundtönen f und c, oder endlich als (D fis) a c e, also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:31;}">
+                <Coords points="31,974 627,980 627,955 604,951 31,953"/>
+                <Baseline points="37,968 66,968 95,968 124,968 153,968 182,968 211,968 241,968 270,968 299,968 328,969 357,969 386,969 415,969 445,969 474,969 503,969 532,968 561,968 590,968 620,968"/>
+                <TextEquiv>
+                    <Unicode>als einfacher Klang mit dem Grundton d als Fundament des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:32;} textStyle {offset:14; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="29,1001 46,998 63,1003 85,994 101,1001 118,994 163,1000 180,993 192,995 192,973 162,971 126,977 99,973 83,978 29,973"/>
+                <Baseline points="36,990 65,990 95,990 125,989 155,988 185,988"/>
+                <TextEquiv>
+                    <Unicode>Nonenakkords D9.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:33;} textStyle {offset:41; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="74,1017 608,1022 619,987 74,995"/>
+                <Baseline points="81,1012 107,1011 134,1011 160,1010 187,1010 214,1010 240,1010 267,1010 293,1010 320,1011 347,1011 373,1011 400,1011 426,1012 453,1012 480,1012 506,1012 533,1012 559,1012 586,1012 613,1011"/>
+                <TextEquiv>
+                    <Unicode>8. Dieser akustischen Duranalyse des Mollklanges ent¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:34;}">
+                <Coords points="38,1043 630,1043 630,1018 601,1016 38,1015"/>
+                <Baseline points="45,1032 75,1032 105,1032 136,1033 166,1033 197,1033 227,1033 258,1033 288,1033 319,1033 349,1033 380,1033 410,1033 441,1033 471,1034 502,1034 532,1034 563,1033 593,1033 624,1033"/>
+                <TextEquiv>
+                    <Unicode>sprechend muss die harmonische Reihe der A molltonart eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614855552855_1656" custom="readingOrder {index:35;}">
+                <Coords points="41,1068 334,1063 347,1059 347,1037 41,1043"/>
+                <Baseline points="48,1056 74,1055 101,1055 127,1055 154,1055 180,1055 207,1055 233,1055 260,1056 286,1056 313,1056 340,1055"/>
+                <TextEquiv>
+                    <Unicode>wie folgt erweiterte (tonale) sein:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4. Alle Akkorde sind demgemäss auf terzweisen Bau&#13;
+zurückzuführen.&#13;
+5. Wie die Klänge übereinander als Doppelklänge, so schliessen&#13;
+sie sich nebeneinander nach demselben akustischen Prinzip zur&#13;
+engeren und erweiterten Tonart („Tonität” bezw. „Tonalität”) zu¬&#13;
+sammen. Typen der Doppelklänge, also des Übereinander, sind&#13;
+$$GRAPHIC. Typus der den Natur¬&#13;
+klängen allein entsprechenden Durtonität, des Nebeneinander,&#13;
+ist die geschlossene Reihe: $$GRAPHIC, die auch so notiert&#13;
+werden kann: $$GRAPHIC. M = „Mittelklang” (alias Drei¬&#13;
+klang der Tonika oder tonischer Dreiklang), R = „Rechtsklang”&#13;
+(Dreiklang der Dominante), L = „Linksklang” (Dreiklang der Sub¬&#13;
+dominante). L, M, R bilden den Bereich der engeren Tonart&#13;
+(„Tonität”), die erweiterte Tonart („Tonalität”) ist in Teil I als&#13;
+„Klangzickzack” S. 49, 50 dargestellt (abgedruckt auch in meiner&#13;
+Monographie gegen Riemann § 11).&#13;
+6. Alle Töne und Intervalle sind Klangvertreter — eine&#13;
+äusserst wichtige, von H. Riemann angebahnte Lehre. Die har¬&#13;
+monische Reihe $$GRAPHIC ist zugleich die Darstellung der&#13;
+C durtonleiter gemäss der Klangvertretung der Töne. Um die Ton¬&#13;
+leiter zu erhalten, braucht man nur immer dem Buchstaben links&#13;
+vom vertikalen Teilstrich den entsprechenden rechts folgen zu lassen.&#13;
+7. Der Mollklang, z. B. a c e (kurz notiert A0, während ein&#13;
+alleinstehendes A den Durklang anzeigt) ist je nach dem tonalen&#13;
+Zusammenhange zu erklären als A ♮cis e, also als alterierter&#13;
+(„getrübter”) Durdreiklang mit dem Grundton a, oder aber als&#13;
+$$GRAPHIC, also als Doppelklang mit den Grundtönen a („Basis“)&#13;
+und e (durch diese Grundtonqualität gewinnt das c das Ubergewicht&#13;
+über die schwächere Basisterz cis). Weiter kann der Molldreiklang&#13;
+a c e auch verstanden werden als $$GRAPHIC, also als Doppelklang&#13;
+mit den Grundtönen f und c, oder endlich als (D fis) a c e, also&#13;
+als einfacher Klang mit dem Grundton d als Fundament des&#13;
+Nonenakkords D9.&#13;
+8. Dieser akustischen Duranalyse des Mollklanges ent¬&#13;
+sprechend muss die harmonische Reihe der A molltonart eine&#13;
+wie folgt erweiterte (tonale) sein:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1614855584595_1661" custom="readingOrder {index:2;} structure {type:floating;}">
+            <Coords points="33,1064 624,1064 624,1150 33,1150"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

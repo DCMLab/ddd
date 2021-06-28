@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-12-03T18:19:44.640+01:00</Created>
+        <LastChange>2021-04-21T00:07:46.375+02:00</LastChange>
+        <TranskribusMetadata docId="548806" pageId="22904453" pageNr="18" tsid="56891610" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HJDIKEYZUEWONEUSXXQRFBXW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SSATSTVOUQHNPGJLCILEXNOE" imageId="17867726"/>
+    </Metadata>
+    <Page imageFilename="Naumann1858-0018.jpg" imageWidth="9108" imageHeight="11295" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624197090384" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1611265162866_1526"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1611265162866_1526" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="4180,1015 4365,1015 4365,830 4180,830"/>
+            <TextLine id="line_1611265178337_1534" custom="readingOrder {index:0;}">
+                <Coords points="4226,1007 4294,999 4323,975 4355,975 4333,789 4313,791 4299,809 4283,811 4235,780 4199,781"/>
+                <Baseline points="4242,974 4334,963"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TableRegion id="Table_1611265216207_1553" custom="readingOrder {index:1;}">
+            <Coords points="1026,9908 7462,9908 7462,1168 1026,1168"/>
+            <TableCell row="0" col="0" type="floating" id="TableCell_1611265216640_1554" custom="structure {type:floating;}">
+                <Coords points="1026,1168 1026,9908 7462,9908 7462,1168"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+        </TableRegion>
+    </Page>
+</PcGts>

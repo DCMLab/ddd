@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:34.635+01:00</Created>
+        <LastChange>2021-03-13T09:23:53.143+01:00</LastChange>
+        <TranskribusMetadata docId="598856" pageId="23846574" pageNr="93" tsid="53648171" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=MMLPTPGNVMVKQMYZZASUXWVA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GEWPARIIOWQYCXBYIFYFYDQO" imageId="18303040"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0102.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624196695919" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612456289108_1885"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612456289108_1884"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1612456282502_1876"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1612456270989_1868"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1613337633761_4547"/>
+                <RegionRefIndexed index="8" regionRef="TextRegion_1613337629251_4542"/>
+                <RegionRefIndexed index="10" regionRef="TextRegion_1612456250021_1860"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612456289108_1885" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="149,231 1212,231 1212,289 149,289"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="649,266 704,266 704,226 692,228 649,228"/>
+                <Baseline points="655,257 697,257"/>
+                <TextEquiv>
+                    <Unicode>83</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>83</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612456289108_1884" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
+            <Coords points="149,289 1212,289 1212,523 149,523"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:10; length:5;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:21; length:5;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:41; length:5;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="152,371 1192,363 1213,324 152,328"/>
+                <Baseline points="158,353 210,352 262,351 315,350 367,350 420,350 472,349 524,349 577,349 629,349 682,350 734,350 786,350 839,350 891,351 944,351 996,351 1048,351 1101,351 1153,351 1206,351"/>
+                <TextEquiv>
+                    <Unicode>gange von C-e-G nach h-D|F der Dreiklang e-G-h der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="152,418 1219,407 1190,371 152,372"/>
+                <Baseline points="158,404 210,404 263,403 316,403 368,403 421,403 474,403 526,403 579,403 632,403 685,403 737,403 790,403 843,403 895,403 948,403 1001,403 1053,403 1106,403 1159,403 1212,403"/>
+                <TextEquiv>
+                    <Unicode>Folgevermittelnde. Auf diesem Wege müsste sich für die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="149,469 1213,460 1165,419 149,427"/>
+                <Baseline points="156,458 208,458 261,457 313,457 366,457 418,457 471,457 523,457 576,457 628,457 681,457 734,457 786,457 839,457 891,457 944,457 996,457 1049,457 1101,457 1154,457 1207,457"/>
+                <TextEquiv>
+                    <Unicode>Septimenbildung nach dem verminderten Dreiklange der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="148,520 419,524 454,515 484,523 503,512 503,483 471,476 347,485 335,476 300,484 148,476"/>
+                <Baseline points="155,508 181,510 207,511 233,511 259,512 286,511 312,511 338,511 364,510 391,509 417,509 443,508 469,508 496,507"/>
+                <TextEquiv>
+                    <Unicode>Unterdominantseite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gange von C-e-G nach h-D|F der Dreiklang e-G-h der&#13;
+Folgevermittelnde. Auf diesem Wege müsste sich für die&#13;
+Septimenbildung nach dem verminderten Dreiklange der&#13;
+Unterdominantseite</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612456310100_1890" custom="readingOrder {index:2;} structure {type:floating;}">
+            <Coords points="149,523 1212,523 1212,670 149,670"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612456282502_1876" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
+            <Coords points="149,670 1212,670 1212,782 149,782"/>
+            <TextLine id="r1l8" custom="readingOrder {index:0;} textStyle {offset:9; length:7;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="146,723 1213,717 1213,689 1023,677 146,686"/>
+                <Baseline points="152,714 204,715 257,715 310,715 362,715 415,715 468,715 520,715 573,715 626,715 679,715 731,715 784,714 837,715 889,715 942,715 995,715 1047,715 1100,715 1153,716 1206,716"/>
+                <TextEquiv>
+                    <Unicode>die Lage a-C-D-F nach dem verminderten Dreiklange der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:1;}">
+                <Coords points="150,780 488,777 488,741 454,731 404,743 347,743 326,732 306,740 260,731 240,740 151,735"/>
+                <Baseline points="157,766 184,767 211,767 238,767 265,767 292,768 319,768 346,768 373,767 400,767 427,767 454,767 481,768"/>
+                <TextEquiv>
+                    <Unicode>Oberdominantseite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die Lage a-C-D-F nach dem verminderten Dreiklange der
+Oberdominantseite</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612456326226_1897" custom="readingOrder {index:4;} structure {type:floating;}">
+            <Coords points="149,782 1212,782 1212,931 149,931"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612456270989_1868" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="149,931 1212,931 1212,1146 149,1146"/>
+            <TextLine id="r1l12" custom="readingOrder {index:0;} textStyle {offset:9; length:7;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:45; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="149,980 1209,979 1210,949 149,943"/>
+                <Baseline points="156,971 208,971 260,971 313,971 365,971 417,971 470,971 522,971 574,971 627,971 679,971 731,971 784,971 836,972 888,972 941,972 993,973 1045,973 1098,973 1150,973 1203,974"/>
+                <TextEquiv>
+                    <Unicode>die Lage D-F-G-h ergeben, indem dort der Ton a aus dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:1;} textStyle {offset:45; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="144,1035 1208,1035 1208,1004 1151,988 144,1002"/>
+                <Baseline points="151,1024 203,1024 256,1024 308,1024 361,1024 413,1024 466,1024 518,1024 571,1024 623,1024 676,1024 728,1024 781,1024 833,1024 886,1024 938,1024 991,1024 1043,1025 1096,1025 1148,1026 1201,1026"/>
+                <TextEquiv>
+                    <Unicode>substituirten a-Molldreiklange, hier der Ton h aus dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:2;}">
+                <Coords points="149,1091 1204,1091 1204,1052 1158,1044 149,1051"/>
+                <Baseline points="155,1075 207,1075 259,1076 311,1076 363,1076 415,1077 467,1077 519,1077 571,1077 623,1077 676,1077 728,1077 780,1078 832,1078 884,1078 936,1078 988,1078 1040,1078 1092,1078 1144,1078 1197,1078"/>
+                <TextEquiv>
+                    <Unicode>substituirten e-Molldreiklange die Vermittlung des letzten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:3;}">
+                <Coords points="149,1140 281,1138 307,1148 333,1139 449,1137 449,1111 428,1099 405,1108 387,1092 291,1115 261,1108 245,1092 216,1108 190,1092 149,1100"/>
+                <Baseline points="155,1130 181,1130 207,1129 233,1129 259,1129 285,1128 312,1128 338,1128 364,1129 390,1129 416,1130 443,1132"/>
+                <TextEquiv>
+                    <Unicode>Gliedes gewährt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die Lage D-F-G-h ergeben, indem dort der Ton a aus dem&#13;
+substituirten a-Molldreiklange, hier der Ton h aus dem&#13;
+substituirten e-Molldreiklange die Vermittlung des letzten&#13;
+Gliedes gewährt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1613337633761_4547" custom="readingOrder {index:6;} structure {type:paragraph-continued;}">
+            <Coords points="149,1146 1212,1146 1212,1513 149,1513"/>
+            <TextLine id="r1l16" custom="readingOrder {index:0;}">
+                <Coords points="235,1195 1201,1195 1201,1146 750,1172 687,1147 235,1151"/>
+                <Baseline points="241,1183 288,1183 336,1183 384,1183 431,1183 479,1183 527,1183 574,1183 622,1183 670,1183 718,1183 765,1183 813,1183 861,1183 908,1183 956,1183 1004,1183 1051,1183 1099,1183 1147,1183 1195,1183"/>
+                <TextEquiv>
+                    <Unicode>Auch die obige Succession, welche den dritten und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:1;}">
+                <Coords points="154,1244 1199,1235 1055,1204 154,1211"/>
+                <Baseline points="161,1235 212,1235 264,1235 315,1235 367,1235 418,1235 470,1235 521,1235 573,1236 624,1236 676,1236 728,1236 779,1236 831,1236 882,1236 934,1236 985,1236 1037,1236 1088,1236 1140,1235 1192,1235"/>
+                <TextEquiv>
+                    <Unicode>vierten Dreiklang der Reihe als Septimenaccord zusam¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:2;}">
+                <Coords points="154,1298 1206,1291 1135,1252 154,1266"/>
+                <Baseline points="160,1288 212,1288 264,1288 316,1288 368,1288 420,1288 472,1288 524,1288 576,1289 628,1289 680,1289 732,1290 784,1290 836,1290 888,1290 940,1290 992,1290 1044,1289 1096,1289 1148,1288 1200,1287"/>
+                <TextEquiv>
+                    <Unicode>menhält, wird in diesem noch einen Ton des Ausgangsdrei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:3;}">
+                <Coords points="150,1353 1190,1355 1180,1308 800,1331 503,1308 478,1332 150,1307"/>
+                <Baseline points="156,1340 207,1340 258,1340 310,1340 361,1340 413,1340 464,1341 515,1341 567,1341 618,1342 670,1342 721,1342 772,1342 824,1343 875,1343 927,1343 978,1342 1029,1342 1081,1342 1132,1341 1184,1340"/>
+                <TextEquiv>
+                    <Unicode>klanges enthalten. Man sieht aber, dass bei diesem Fort¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:4;}">
+                <Coords points="149,1411 1204,1405 1204,1372 1136,1364 149,1370"/>
+                <Baseline points="155,1394 207,1394 259,1394 311,1394 363,1394 415,1394 467,1394 519,1394 571,1394 623,1394 676,1395 728,1395 780,1395 832,1395 884,1395 936,1395 988,1395 1040,1395 1092,1395 1144,1395 1197,1394"/>
+                <TextEquiv>
+                    <Unicode>gange der erste und letzte Dreiklang in primärer Lage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:5;}">
+                <Coords points="148,1459 1206,1459 1206,1419 148,1421"/>
+                <Baseline points="154,1447 206,1447 258,1446 310,1446 363,1447 415,1447 467,1447 519,1447 572,1448 624,1448 676,1448 728,1449 781,1449 833,1449 885,1450 937,1450 990,1450 1042,1449 1094,1449 1146,1449 1199,1448"/>
+                <TextEquiv>
+                    <Unicode>nebeneinander zu stehen kommen, denn wir erhalten nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:6;}">
+                <Coords points="153,1507 579,1506 579,1476 545,1468 495,1477 473,1467 463,1478 153,1468"/>
+                <Baseline points="160,1499 185,1499 211,1499 237,1500 263,1500 288,1500 314,1500 340,1499 366,1499 391,1499 417,1499 443,1499 469,1498 494,1498 520,1498 546,1498 572,1498"/>
+                <TextEquiv>
+                    <Unicode>der Unterdominantseite:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Auch die obige Succession, welche den dritten und
+vierten Dreiklang der Reihe als Septimenaccord zusam¬
+menhält, wird in diesem noch einen Ton des Ausgangsdrei¬
+klanges enthalten. Man sieht aber, dass bei diesem Fort¬
+gange der erste und letzte Dreiklang in primärer Lage
+nebeneinander zu stehen kommen, denn wir erhalten nach
+der Unterdominantseite:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1613337655451_4551" custom="readingOrder {index:7;} structure {type:floating;}">
+            <Coords points="149,1513 1212,1513 1212,1603 149,1603"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1613337629251_4542" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="149,1603 1212,1603 1212,1656 149,1656"/>
+            <TextLine id="r1l24" custom="readingOrder {index:0;}">
+                <Coords points="142,1651 671,1651 671,1611 142,1612"/>
+                <Baseline points="149,1640 174,1639 200,1638 226,1638 252,1638 277,1638 303,1638 329,1638 355,1638 380,1638 406,1638 432,1638 458,1638 483,1639 509,1639 535,1639 561,1639 586,1639 612,1639 638,1639 664,1639"/>
+                <TextEquiv>
+                    <Unicode>nach der Oberdominantseite:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nach der Oberdominantseite:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1613337671856_4558" custom="readingOrder {index:9;} structure {type:floating;}">
+            <Coords points="149,1656 1212,1656 1212,1738 149,1738"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612456250021_1860" custom="readingOrder {index:10;} structure {type:paragraph-continued;}">
+            <Coords points="149,1738 1212,1738 1212,2111 149,2111"/>
+            <TextLine id="r1l26" custom="readingOrder {index:0;}">
+                <Coords points="233,1787 1208,1785 1208,1753 1095,1740 233,1747"/>
+                <Baseline points="240,1777 288,1778 336,1778 384,1779 432,1779 480,1779 528,1779 576,1779 624,1779 672,1779 721,1778 769,1778 817,1778 865,1778 913,1778 961,1778 1009,1778 1057,1778 1105,1778 1153,1778 1202,1778"/>
+                <TextEquiv>
+                    <Unicode>In der Anwendung auf die hier speciell verzeichneten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:1;}">
+                <Coords points="144,1842 1199,1842 1199,1802 1117,1796 144,1796"/>
+                <Baseline points="151,1828 203,1829 255,1830 307,1831 359,1831 411,1832 463,1832 515,1832 567,1832 619,1832 672,1832 724,1832 776,1831 828,1831 880,1831 932,1831 984,1830 1036,1830 1088,1830 1140,1830 1193,1830"/>
+                <TextEquiv>
+                    <Unicode>Fälle, d. h. im Uebergange aus dem tonischen Dreiklange</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:2;}">
+                <Coords points="143,1890 1110,1907 1202,1891 1202,1850 143,1862"/>
+                <Baseline points="149,1883 201,1883 253,1884 306,1884 358,1885 410,1885 463,1885 515,1885 567,1885 620,1885 672,1885 724,1885 777,1884 829,1884 881,1884 934,1884 986,1884 1038,1883 1091,1883 1143,1883 1196,1883"/>
+                <TextEquiv>
+                    <Unicode>nach dem unteren oder oberen verminderten Dreiklange, ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:3;}">
+                <Coords points="147,1946 913,1955 1184,1947 1199,1915 146,1900"/>
+                <Baseline points="153,1935 207,1936 262,1936 317,1937 371,1937 426,1938 481,1938 535,1938 590,1938 645,1938 699,1938 754,1938 809,1938 863,1937 918,1937 973,1937 1027,1936 1082,1936 1137,1935 1192,1935"/>
+                <TextEquiv>
+                    <Unicode>in diesen Fortschreitungen etwas Unrichtiges nicht zu em¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:4;}">
+                <Coords points="150,2011 322,1981 1205,2004 1205,1977 1127,1956 150,1964"/>
+                <Baseline points="156,1987 208,1988 260,1989 312,1990 364,1990 416,1991 468,1991 520,1991 572,1991 624,1991 677,1991 729,1991 781,1991 833,1990 885,1990 937,1990 989,1990 1041,1990 1093,1990 1145,1989 1198,1989"/>
+                <TextEquiv>
+                    <Unicode>pfinden; wollen wir die Formation aber allgemein setzen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:5;}">
+                <Coords points="143,2049 1160,2059 1195,2051 1195,2010 143,2020"/>
+                <Baseline points="149,2041 201,2041 253,2042 305,2042 357,2043 409,2043 461,2043 513,2043 565,2044 617,2044 669,2044 721,2044 773,2044 825,2044 877,2043 929,2043 981,2043 1033,2042 1085,2042 1137,2042 1189,2041"/>
+                <TextEquiv>
+                    <Unicode>sie auf die Septimenbildung, von den andern Dreiklängen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:6;}">
+                <Coords points="145,2106 1200,2113 1200,2079 1141,2059 588,2086 145,2066"/>
+                <Baseline points="152,2094 204,2095 256,2096 308,2097 360,2097 412,2098 464,2098 516,2098 568,2098 620,2098 673,2098 725,2098 777,2097 829,2097 881,2097 933,2097 985,2096 1037,2096 1089,2096 1141,2095 1194,2095"/>
+                <TextEquiv>
+                    <Unicode>der Tonart, als primär gesetzten, ausgehend anwenden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In der Anwendung auf die hier speciell verzeichneten
+Fälle, d. h. im Uebergange aus dem tonischen Dreiklange
+nach dem unteren oder oberen verminderten Dreiklange, ist
+in diesen Fortschreitungen etwas Unrichtiges nicht zu em¬
+pfinden; wollen wir die Formation aber allgemein setzen,
+sie auf die Septimenbildung, von den andern Dreiklängen
+der Tonart, als primär gesetzten, ausgehend anwenden,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:38.064+01:00</Created>
+        <LastChange>2021-03-17T16:14:16.952+01:00</LastChange>
+        <TranskribusMetadata docId="598856" pageId="23846797" pageNr="216" tsid="53826257" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=BGZMSZPTYYHWKLPTYTWRLVIN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UPKUOCPJLURWYBBMUPGVLKKP" imageId="18303263"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0225.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624196715268" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612641932150_6590"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612641932150_6589"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612641928858_6585"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1612641923358_6581"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612641932150_6590" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="208,242 1277,242 1277,299 208,299"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="704,269 713,269 720,276 784,275 788,271 794,271 794,239 787,239 783,235 718,236 714,240 704,240"/>
+                <Baseline points="711,268 736,269 761,268 787,268"/>
+                <TextEquiv>
+                    <Unicode>206</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>206</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612641932150_6589" custom="readingOrder {index:1;}">
+            <Coords points="208,299 1277,299 1277,746 208,746"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:47; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="207,364 1274,362 1214,324 207,335"/>
+                <Baseline points="214,359 266,360 319,360 371,361 424,361 477,361 529,361 582,362 635,362 687,362 740,362 793,362 845,362 898,362 951,361 1003,361 1056,361 1109,361 1161,361 1214,361 1267,361"/>
+                <TextEquiv>
+                    <Unicode>Sonatenform uns bekannt ist, die wesentlich im ho¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="221,427 680,402 1276,426 1276,387 1238,379 221,387"/>
+                <Baseline points="228,413 280,413 332,414 384,414 436,414 488,414 540,415 592,415 644,415 696,415 748,414 800,414 852,414 904,414 956,414 1008,415 1060,415 1112,415 1164,415 1216,416 1269,416"/>
+                <TextEquiv>
+                    <Unicode>mophonischen Satze, mit unterschiedenen Perioden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:45; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="219,475 1275,468 1065,427 1031,454 919,427 377,457 219,435"/>
+                <Baseline points="226,468 278,467 330,467 382,467 434,467 486,467 538,467 590,467 642,467 694,467 747,467 799,468 851,468 903,468 955,468 1007,468 1059,468 1111,468 1163,468 1215,467 1268,467"/>
+                <TextEquiv>
+                    <Unicode>besteht, entgegengesetzt der Fugenform, die, poly¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="210,540 1175,539 1275,531 1275,486 1194,511 1118,483 210,492"/>
+                <Baseline points="217,518 269,519 322,520 374,520 427,521 479,521 532,521 584,521 637,521 689,521 742,521 795,521 847,521 900,521 952,520 1005,521 1057,521 1110,521 1162,521 1215,522 1268,522"/>
+                <TextEquiv>
+                    <Unicode>phonisch gewebt, eine Scheidung der Perioden, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="213,580 1277,587 1277,547 1224,539 213,549"/>
+                <Baseline points="219,572 271,572 324,573 376,573 429,573 481,573 534,573 586,573 639,573 691,573 744,573 797,573 849,573 902,573 954,573 1007,573 1059,574 1112,574 1164,574 1217,575 1270,575"/>
+                <TextEquiv>
+                    <Unicode>ebenso auch eine abstracte Bestimmung der modulatorischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="208,634 1283,635 1284,604 209,597"/>
+                <Baseline points="215,625 268,625 321,625 374,625 427,625 480,626 533,626 586,626 639,626 692,626 746,626 799,626 852,626 905,627 958,627 1011,627 1064,627 1117,627 1170,627 1223,627 1277,627"/>
+                <TextEquiv>
+                    <Unicode>Folge weniger zulässt, wie überhaupt, aus hier nicht zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="216,690 1279,691 1279,653 1235,643 216,653"/>
+                <Baseline points="223,678 275,679 327,679 380,679 432,679 485,679 537,679 590,679 642,679 695,679 747,679 799,679 852,679 904,679 957,679 1009,679 1062,680 1114,680 1167,680 1219,680 1272,680"/>
+                <TextEquiv>
+                    <Unicode>erörternden Gründen, ein modulatorischer Reichthum sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="209,739 699,738 679,708 606,700 209,707"/>
+                <Baseline points="216,732 241,732 266,732 291,732 316,732 341,732 366,731 391,731 416,731 441,731 467,731 492,731 517,731 542,731 567,731 592,731 617,732 642,732 667,732 693,732"/>
+                <TextEquiv>
+                    <Unicode>in ihr nicht entfalten kann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sonatenform uns bekannt ist, die wesentlich im ho¬&#13;
+mophonischen Satze, mit unterschiedenen Perioden&#13;
+besteht, entgegengesetzt der Fugenform, die, poly¬&#13;
+phonisch gewebt, eine Scheidung der Perioden, und&#13;
+ebenso auch eine abstracte Bestimmung der modulatorischen&#13;
+Folge weniger zulässt, wie überhaupt, aus hier nicht zu&#13;
+erörternden Gründen, ein modulatorischer Reichthum sich&#13;
+in ihr nicht entfalten kann.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612641928858_6585" custom="readingOrder {index:2;}">
+            <Coords points="208,746 1277,746 1277,1228 208,1228"/>
+            <TextLine id="r1l10" custom="readingOrder {index:0;}">
+                <Coords points="304,794 1278,794 1278,754 304,749"/>
+                <Baseline points="311,784 359,784 407,784 455,784 503,785 551,785 599,785 647,785 695,785 743,785 791,785 839,785 887,785 935,785 983,785 1031,785 1079,785 1127,786 1175,786 1223,786 1272,786"/>
+                <TextEquiv>
+                    <Unicode>304. Abweichende Modulationsordnungen würden nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:1;}">
+                <Coords points="217,851 1270,851 1270,804 217,811"/>
+                <Baseline points="224,837 278,837 333,837 388,837 442,837 497,837 552,837 606,838 661,838 716,838 770,838 825,838 880,838 934,838 989,839 1044,839 1098,839 1153,839 1208,839 1263,839"/>
+                <TextEquiv>
+                    <Unicode>darin bestehen können, wenn die Haupttonart, anstatt nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:2;}">
+                <Coords points="218,900 1270,891 1270,866 1088,852 218,858"/>
+                <Baseline points="225,891 279,891 334,891 389,891 443,891 498,890 553,890 607,891 662,891 717,891 771,891 826,891 881,891 935,891 990,891 1045,891 1099,891 1154,891 1209,890 1264,890"/>
+                <TextEquiv>
+                    <Unicode>der Oberdominant überzugehen, eine der anderen Ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:3;}">
+                <Coords points="216,953 1153,963 1276,955 1276,914 216,921"/>
+                <Baseline points="222,943 274,943 326,944 379,944 431,944 484,944 536,944 588,944 641,944 693,943 746,943 798,943 850,943 903,943 955,943 1008,943 1060,944 1112,944 1165,945 1217,945 1270,946"/>
+                <TextEquiv>
+                    <Unicode>wandtschaften aufsuchte, wie wir sie früher besprochen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:4;}">
+                <Coords points="219,1011 1274,1011 1274,964 219,963"/>
+                <Baseline points="226,997 278,997 330,997 382,997 434,997 486,997 538,997 590,997 642,997 694,997 746,997 798,997 850,997 902,997 954,997 1006,997 1058,997 1110,997 1162,997 1214,997 1267,998"/>
+                <TextEquiv>
+                    <Unicode>haben, von denen nur immer die der Unterdominant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:5;} textStyle {offset:46; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="209,1060 1279,1059 1279,1028 1160,1012 209,1027"/>
+                <Baseline points="216,1050 268,1050 321,1050 374,1050 427,1050 480,1050 532,1050 585,1050 638,1050 691,1050 744,1050 796,1050 849,1050 902,1050 955,1050 1008,1050 1060,1049 1113,1049 1166,1050 1219,1050 1272,1050"/>
+                <TextEquiv>
+                    <Unicode>ausgeschlossen bleiben wird. So sehen wir bei Beethoven</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:6;}">
+                <Coords points="221,1116 1272,1106 1272,1081 1126,1068 221,1076"/>
+                <Baseline points="228,1104 279,1104 331,1103 383,1103 435,1103 487,1103 539,1103 591,1104 643,1104 695,1104 747,1104 798,1104 850,1104 902,1104 954,1104 1006,1103 1058,1103 1110,1102 1162,1102 1214,1101 1266,1100"/>
+                <TextEquiv>
+                    <Unicode>einigemal in Dursätzen den Hauptton nach einer Terz-ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:7;}">
+                <Coords points="214,1169 1283,1162 1283,1133 1232,1124 214,1132"/>
+                <Baseline points="221,1156 273,1156 326,1155 379,1155 432,1155 484,1155 537,1156 590,1156 643,1156 695,1156 748,1156 801,1156 854,1156 906,1156 959,1156 1012,1156 1065,1156 1117,1156 1170,1156 1223,1156 1276,1156"/>
+                <TextEquiv>
+                    <Unicode>wandten Dur- oder Molltonart sich wenden und den ersten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:8;}">
+                <Coords points="211,1219 821,1219 799,1180 689,1171 663,1187 457,1172 437,1192 211,1177"/>
+                <Baseline points="218,1211 247,1211 277,1210 307,1210 337,1210 367,1210 396,1210 426,1209 456,1209 486,1209 516,1209 545,1209 575,1209 605,1209 635,1209 665,1209 694,1209 724,1209 754,1209 784,1209 814,1209"/>
+                <TextEquiv>
+                    <Unicode>Abschnitt in dieser abgeschlossen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>304. Abweichende Modulationsordnungen würden nur
+darin bestehen können, wenn die Haupttonart, anstatt nach
+der Oberdominant überzugehen, eine der anderen Ver¬
+wandtschaften aufsuchte, wie wir sie früher besprochen
+haben, von denen nur immer die der Unterdominant
+ausgeschlossen bleiben wird. So sehen wir bei Beethoven
+einigemal in Dursätzen den Hauptton nach einer Terz-ver¬
+wandten Dur- oder Molltonart sich wenden und den ersten
+Abschnitt in dieser abgeschlossen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612641923358_6581" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
+            <Coords points="208,1228 1277,1228 1277,2139 208,2139"/>
+            <TextLine id="r1l19" custom="readingOrder {index:0;}">
+                <Coords points="303,1275 1274,1265 1248,1228 303,1228"/>
+                <Baseline points="309,1261 359,1261 409,1261 460,1261 510,1261 561,1261 611,1261 662,1261 712,1261 763,1262 813,1262 864,1262 914,1262 965,1262 1015,1262 1066,1262 1116,1262 1167,1262 1217,1261 1268,1261"/>
+                <TextEquiv>
+                    <Unicode>305. Die Molltonart hat ihre hauptsächliche Verwandt¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:1;}">
+                <Coords points="208,1322 1271,1323 1271,1293 1206,1277 1037,1305 861,1275 208,1292"/>
+                <Baseline points="215,1314 267,1314 320,1314 372,1314 425,1314 477,1314 530,1314 582,1314 635,1314 687,1314 740,1314 792,1314 845,1314 897,1314 950,1314 1002,1314 1055,1315 1107,1315 1160,1315 1212,1316 1265,1316"/>
+                <TextEquiv>
+                    <Unicode>schaft in der Durtonart ihrer tonischen Terz, indem diese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:2;}">
+                <Coords points="218,1378 1265,1376 1265,1342 1180,1332 218,1341"/>
+                <Baseline points="224,1368 275,1368 327,1367 379,1367 430,1367 482,1367 534,1367 585,1367 637,1367 689,1367 741,1367 792,1367 844,1367 896,1367 947,1368 999,1368 1051,1368 1102,1368 1154,1367 1206,1367 1258,1367"/>
+                <TextEquiv>
+                    <Unicode>aus der negativen Terzbedeutung in die positive Grundtons¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:3;}">
+                <Coords points="216,1427 1272,1436 1272,1394 1227,1388 216,1389"/>
+                <Baseline points="223,1421 275,1420 327,1420 379,1419 431,1419 483,1419 535,1419 588,1419 640,1420 692,1420 744,1420 796,1421 848,1421 900,1421 953,1421 1005,1421 1057,1421 1109,1421 1161,1421 1213,1420 1266,1419"/>
+                <TextEquiv>
+                    <Unicode>bedeutung übergeht, der negative Grundton die positive</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:4;}">
+                <Coords points="217,1483 1273,1483 1273,1451 1175,1436 217,1443"/>
+                <Baseline points="223,1473 275,1473 327,1473 379,1473 431,1473 483,1473 535,1473 588,1473 640,1473 692,1473 744,1473 796,1473 848,1473 900,1473 953,1473 1005,1473 1057,1473 1109,1473 1161,1473 1213,1473 1266,1473"/>
+                <TextEquiv>
+                    <Unicode>Terzbedeutung annimmt (A-Moll, C-Dur). Sie ist die am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:5;}">
+                <Coords points="212,1539 1275,1539 1275,1500 1112,1492 212,1493"/>
+                <Baseline points="219,1526 271,1526 324,1525 376,1525 429,1525 481,1525 534,1525 586,1525 639,1525 691,1526 744,1526 796,1526 849,1526 901,1526 954,1526 1006,1527 1059,1527 1111,1527 1164,1527 1216,1527 1269,1527"/>
+                <TextEquiv>
+                    <Unicode>Meisten gegensätzlich begründete und erscheint darum am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:6;}">
+                <Coords points="213,1587 1274,1587 1274,1556 1227,1547 851,1540 713,1571 687,1547 213,1548"/>
+                <Baseline points="220,1579 272,1579 324,1579 377,1579 429,1579 481,1579 534,1579 586,1579 638,1579 691,1579 743,1579 795,1579 848,1579 900,1579 952,1579 1005,1580 1057,1580 1109,1580 1162,1580 1214,1580 1267,1580"/>
+                <TextEquiv>
+                    <Unicode>Allgemeinsten angewendet. Eine fast ebenso entschieden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:7;}">
+                <Coords points="211,1650 1275,1643 1275,1607 211,1612"/>
+                <Baseline points="217,1633 269,1633 322,1633 374,1632 427,1632 480,1632 532,1632 585,1632 637,1632 690,1632 743,1632 795,1632 848,1632 900,1632 953,1632 1006,1632 1058,1632 1111,1633 1163,1633 1216,1633 1269,1634"/>
+                <TextEquiv>
+                    <Unicode>gegensätzliche Verwandtschaft findet die Molltonart auch in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:8;}">
+                <Coords points="212,1700 1275,1692 1275,1659 1231,1652 212,1656"/>
+                <Baseline points="219,1685 271,1685 324,1685 376,1685 429,1685 481,1685 534,1684 586,1684 639,1684 691,1684 744,1685 796,1685 849,1685 901,1685 954,1685 1006,1685 1059,1685 1111,1685 1164,1685 1216,1685 1269,1685"/>
+                <TextEquiv>
+                    <Unicode>der Durtonart ihrer Unterdominantterz: wenn die negative</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:9;}">
+                <Coords points="206,1747 1195,1755 1278,1747 1278,1705 206,1709"/>
+                <Baseline points="213,1738 265,1738 318,1738 371,1738 424,1738 477,1738 530,1738 583,1738 636,1738 689,1738 742,1738 794,1738 847,1738 900,1738 953,1738 1006,1738 1059,1738 1112,1738 1165,1738 1218,1738 1271,1738"/>
+                <TextEquiv>
+                    <Unicode>tonische Terz positive Quintbedeutung, die negative Quint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:10;}">
+                <Coords points="208,1811 1260,1796 1230,1755 1070,1781 1037,1755 208,1762"/>
+                <Baseline points="215,1791 269,1791 324,1791 379,1791 433,1791 488,1791 543,1791 597,1791 652,1791 707,1791 761,1791 816,1791 871,1791 925,1791 980,1791 1035,1791 1089,1791 1144,1791 1199,1790 1254,1790"/>
+                <TextEquiv>
+                    <Unicode>positive Terzbedeutung erhält (A-Moll, F-Dur). Auch die¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:11;}">
+                <Coords points="216,1859 1265,1852 1228,1812 216,1820"/>
+                <Baseline points="223,1844 274,1844 326,1843 378,1843 430,1843 482,1843 533,1843 585,1843 637,1843 689,1843 741,1843 792,1843 844,1843 896,1843 948,1843 1000,1843 1051,1843 1103,1843 1155,1843 1207,1843 1259,1844"/>
+                <TextEquiv>
+                    <Unicode>ses Verhältniss gewährt eine wohlzulässige modulatorische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612641977737_6662" custom="readingOrder {index:12;}">
+                <Coords points="214,1907 1269,1907 1269,1874 1206,1860 214,1867"/>
+                <Baseline points="220,1895 266,1895 313,1896 359,1896 406,1897 453,1897 499,1897 546,1897 592,1897 639,1898 686,1898 732,1897 779,1897 825,1897 872,1897 919,1897 965,1896 1012,1896 1058,1896 1105,1895 1152,1895 1184,1897 1210,1898 1236,1897 1262,1898"/>
+                <TextEquiv>
+                    <Unicode>Form für die erste Abtheilung eines Tonstückes; — denn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:13;}">
+                <Coords points="208,1955 1278,1963 1255,1916 208,1924"/>
+                <Baseline points="215,1949 267,1949 320,1949 373,1949 426,1949 479,1950 531,1950 584,1950 637,1950 690,1950 743,1950 795,1950 848,1950 901,1950 954,1950 1007,1950 1059,1950 1112,1950 1165,1950 1218,1950 1271,1950"/>
+                <TextEquiv>
+                    <Unicode>von dieser ersten Abtheilung kann allein hier die Rede</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:14;}">
+                <Coords points="205,2010 1023,2027 1275,2002 1206,1972 205,1982"/>
+                <Baseline points="212,2004 264,2003 317,2003 370,2002 423,2002 476,2002 528,2002 581,2003 634,2003 687,2003 740,2003 792,2003 845,2003 898,2003 951,2003 1004,2003 1056,2003 1109,2002 1162,2002 1215,2001 1268,1999"/>
+                <TextEquiv>
+                    <Unicode>sein, da nur in ihr ein bestimmteres Entgegenstehen ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:15;}">
+                <Coords points="210,2064 1272,2066 1272,2028 1096,2020 210,2028"/>
+                <Baseline points="217,2056 269,2056 321,2056 374,2056 426,2056 479,2056 531,2056 583,2056 636,2056 688,2056 741,2056 793,2056 845,2056 898,2057 950,2057 1003,2057 1055,2057 1107,2057 1160,2057 1212,2057 1265,2056"/>
+                <TextEquiv>
+                    <Unicode>wandter Tonarten und die Festsetzung einer zweiten gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:16;}">
+                <Coords points="201,2110 1271,2115 1221,2075 201,2091"/>
+                <Baseline points="208,2109 260,2109 313,2109 366,2109 419,2109 472,2109 524,2109 577,2109 630,2109 683,2109 736,2109 788,2109 841,2109 894,2109 947,2109 1000,2109 1052,2109 1105,2109 1158,2109 1211,2109 1264,2108"/>
+                <TextEquiv>
+                    <Unicode>eine erste stattfindet. Für die weitere modulatorische Führ¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>305. Die Molltonart hat ihre hauptsächliche Verwandt¬
+schaft in der Durtonart ihrer tonischen Terz, indem diese
+aus der negativen Terzbedeutung in die positive Grundtons¬
+bedeutung übergeht, der negative Grundton die positive
+Terzbedeutung annimmt (A-Moll, C-Dur). Sie ist die am
+Meisten gegensätzlich begründete und erscheint darum am
+Allgemeinsten angewendet. Eine fast ebenso entschieden
+gegensätzliche Verwandtschaft findet die Molltonart auch in
+der Durtonart ihrer Unterdominantterz: wenn die negative
+tonische Terz positive Quintbedeutung, die negative Quint
+positive Terzbedeutung erhält (A-Moll, F-Dur). Auch die¬
+ses Verhältniss gewährt eine wohlzulässige modulatorische
+Form für die erste Abtheilung eines Tonstückes; — denn
+von dieser ersten Abtheilung kann allein hier die Rede
+sein, da nur in ihr ein bestimmteres Entgegenstehen ver¬
+wandter Tonarten und die Festsetzung einer zweiten gegen
+eine erste stattfindet. Für die weitere modulatorische Führ¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

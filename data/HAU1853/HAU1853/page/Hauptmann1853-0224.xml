@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:38.041+01:00</Created>
+        <LastChange>2021-03-17T16:10:00.221+01:00</LastChange>
+        <TranskribusMetadata docId="598856" pageId="23846795" pageNr="215" tsid="53825889" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=FFJXIFCOHVTPEZLMZQWHVEFN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MPSIYATHITSRLIZQXGRWNORP" imageId="18303261"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0224.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624196715077" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612641832216_6483"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612641832216_6482"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612641830289_6478"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1612641823652_6474"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612641832216_6483" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="162,239 1220,239 1220,297 162,297"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="650,272 732,274 732,235 717,235 711,228 688,228 684,232 678,228 663,228 658,233 650,233"/>
+                <Baseline points="657,265 691,267 725,265"/>
+                <TextEquiv>
+                    <Unicode>205</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>205</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612641832216_6482" custom="readingOrder {index:1;}">
+            <Coords points="162,297 1220,297 1220,1274 162,1274"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:11; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="157,371 1219,371 1219,335 1085,324 158,330"/>
+                <Baseline points="164,359 216,359 268,359 321,359 373,358 426,358 478,358 530,358 583,358 635,358 688,358 740,359 792,359 845,359 897,359 950,360 1002,360 1054,360 1107,360 1159,361 1212,361"/>
+                <TextEquiv>
+                    <Unicode>nicht auch unterhalb der Haupttonart liegende Tonarten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:53; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="160,418 1219,420 1169,380 160,388"/>
+                <Baseline points="166,413 218,412 270,411 322,411 375,410 427,410 479,411 532,411 584,411 636,412 689,412 741,412 793,413 845,413 898,413 950,414 1002,414 1055,413 1107,413 1159,412 1212,411"/>
+                <TextEquiv>
+                    <Unicode>zu Gehör gebracht würden, wenn sich nur chromatische Er¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:34; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="156,475 1218,466 1174,435 456,428 395,454 156,427"/>
+                <Baseline points="163,465 215,465 267,465 320,465 372,465 425,465 477,465 529,466 582,466 634,466 687,466 739,466 791,466 844,466 896,466 949,466 1001,466 1053,466 1106,466 1158,466 1211,466"/>
+                <TextEquiv>
+                    <Unicode>höhungen, nicht auch chromatische Vertiefungen ein¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="157,532 1223,530 1196,484 157,484"/>
+                <Baseline points="164,517 216,517 269,518 321,518 374,518 427,519 479,519 532,519 584,519 637,519 690,519 742,519 795,519 847,519 900,519 953,519 1005,519 1058,519 1110,520 1163,520 1216,520"/>
+                <TextEquiv>
+                    <Unicode>finden sollten; denn in diesem Unterschiede wird, allgemein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="160,595 1191,580 1203,546 160,548"/>
+                <Baseline points="167,570 218,570 270,571 321,571 373,571 424,572 476,572 527,572 579,572 630,572 682,572 733,572 785,572 836,572 888,572 939,572 991,572 1042,572 1094,572 1145,573 1197,573"/>
+                <TextEquiv>
+                    <Unicode>gesetzt, das Eine und das Andere, die Ober- und die Unter¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="162,635 1217,634 1217,607 1127,596 162,597"/>
+                <Baseline points="168,623 220,624 272,624 324,624 376,624 428,624 480,624 532,624 584,625 636,625 689,625 741,625 793,625 845,625 897,625 949,626 1001,626 1053,626 1105,626 1157,626 1210,626"/>
+                <TextEquiv>
+                    <Unicode>dominantseite sich im Satze der Durtonart äussern müssen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="162,677 1221,691 1221,651 1094,643 1005,669 162,644"/>
+                <Baseline points="169,673 221,674 273,675 325,675 378,676 430,676 482,677 534,677 587,677 639,677 691,677 743,677 796,677 848,677 900,677 952,677 1005,678 1057,678 1109,679 1161,679 1214,680"/>
+                <TextEquiv>
+                    <Unicode>Wie aber der erste Theil eines Musikstückes, auch wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="158,739 1225,742 1214,700 158,699"/>
+                <Baseline points="164,729 216,729 269,729 322,730 374,730 427,730 480,730 532,730 585,730 638,730 691,730 743,730 796,730 849,730 901,730 954,731 1007,731 1059,731 1112,731 1165,732 1218,732"/>
+                <TextEquiv>
+                    <Unicode>dasselbe von grösserem Umfange ist, sich überhaupt nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="162,794 1208,794 1208,763 1039,747 162,759"/>
+                <Baseline points="169,782 220,783 272,783 323,783 375,783 427,784 478,784 530,784 581,784 633,784 685,784 736,783 788,783 839,784 891,784 943,784 994,784 1046,784 1097,785 1149,786 1201,786"/>
+                <TextEquiv>
+                    <Unicode>zu modulatorischer Mannigfaltigkeit bestimmen kann, in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="162,843 1218,851 1218,811 1096,804 162,806"/>
+                <Baseline points="168,835 220,835 272,835 324,835 376,835 428,835 480,835 533,836 585,836 637,836 689,836 741,836 793,837 845,837 898,837 950,837 1002,837 1054,838 1106,838 1158,838 1211,838"/>
+                <TextEquiv>
+                    <Unicode>dem er nur die Exposition eines Inhaltes und zwar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="164,899 1215,891 1140,859 164,866"/>
+                <Baseline points="170,888 221,888 273,888 325,889 377,889 429,889 481,889 533,889 585,889 637,890 689,890 740,890 792,890 844,890 896,890 948,891 1000,891 1052,891 1104,891 1156,890 1208,890"/>
+                <TextEquiv>
+                    <Unicode>einer Zweiheit von einem Hauptsatze und einem Neben¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="162,955 1204,955 1204,909 162,917"/>
+                <Baseline points="169,943 220,943 271,943 323,943 374,943 426,943 477,943 529,943 580,943 632,943 683,943 734,943 786,943 837,943 889,943 940,943 992,943 1043,944 1095,944 1146,945 1198,945"/>
+                <TextEquiv>
+                    <Unicode>satze, des ersten in der Tonica, des zweiten in der Domi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="159,1001 1218,1010 1218,970 1159,964 159,972"/>
+                <Baseline points="165,995 217,995 269,995 321,995 374,995 426,995 478,995 531,995 583,995 635,995 688,995 740,995 792,995 844,995 897,995 949,996 1001,996 1054,996 1106,997 1158,997 1211,998"/>
+                <TextEquiv>
+                    <Unicode>nant, darzulegen hat, so werden andere Tonarten, und so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="164,1059 1219,1051 1112,1011 855,1037 794,1011 164,1020"/>
+                <Baseline points="171,1047 223,1048 275,1048 327,1048 379,1049 431,1049 483,1049 535,1049 587,1049 639,1049 691,1049 743,1049 795,1049 847,1049 899,1049 951,1049 1003,1049 1055,1049 1107,1049 1159,1049 1212,1049"/>
+                <TextEquiv>
+                    <Unicode>eben auch die der Unterdominantseite, namentlich die Un¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="159,1113 624,1123 872,1090 1217,1122 1217,1076 1120,1068 640,1093 160,1070"/>
+                <Baseline points="166,1099 218,1100 270,1101 322,1102 374,1102 427,1102 479,1102 531,1102 583,1102 635,1102 688,1102 740,1101 792,1101 844,1101 896,1101 949,1101 1001,1101 1053,1102 1105,1102 1157,1103 1210,1105"/>
+                <TextEquiv>
+                    <Unicode>terdominanttonart selbst, erst in der weiteren Führung,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="158,1163 1225,1163 1225,1132 1042,1116 158,1132"/>
+                <Baseline points="165,1155 217,1155 270,1155 322,1154 375,1154 428,1154 480,1154 533,1154 586,1154 638,1154 691,1154 744,1154 796,1154 849,1154 902,1154 954,1154 1007,1154 1060,1155 1112,1155 1165,1155 1218,1155"/>
+                <TextEquiv>
+                    <Unicode>nachdem das Positive der tonischen Tonart durch ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="161,1219 1219,1219 1177,1172 875,1173 850,1198 783,1171 752,1195 161,1179"/>
+                <Baseline points="168,1207 220,1207 272,1207 324,1207 377,1208 429,1208 481,1208 533,1208 586,1208 638,1208 690,1208 742,1208 795,1208 847,1208 899,1208 951,1208 1004,1208 1056,1209 1108,1209 1160,1209 1213,1210"/>
+                <TextEquiv>
+                    <Unicode>Oberdominant erst festgestellt ist, ihren Platz finden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="164,1276 308,1274 308,1244 295,1237 206,1235 198,1227 186,1232 165,1228"/>
+                <Baseline points="171,1262 197,1261 223,1261 249,1261 275,1262 302,1263"/>
+                <TextEquiv>
+                    <Unicode>können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nicht auch unterhalb der Haupttonart liegende Tonarten
+zu Gehör gebracht würden, wenn sich nur chromatische Er¬
+höhungen, nicht auch chromatische Vertiefungen ein¬
+finden sollten; denn in diesem Unterschiede wird, allgemein
+gesetzt, das Eine und das Andere, die Ober- und die Unter¬
+dominantseite sich im Satze der Durtonart äussern müssen.
+Wie aber der erste Theil eines Musikstückes, auch wenn
+dasselbe von grösserem Umfange ist, sich überhaupt nicht
+zu modulatorischer Mannigfaltigkeit bestimmen kann, in¬
+dem er nur die Exposition eines Inhaltes und zwar
+einer Zweiheit von einem Hauptsatze und einem Neben¬
+satze, des ersten in der Tonica, des zweiten in der Domi¬
+nant, darzulegen hat, so werden andere Tonarten, und so
+eben auch die der Unterdominantseite, namentlich die Un¬
+terdominanttonart selbst, erst in der weiteren Führung,
+nachdem das Positive der tonischen Tonart durch ihre
+Oberdominant erst festgestellt ist, ihren Platz finden
+können.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612641830289_6478" custom="readingOrder {index:2;}">
+            <Coords points="162,1274 1220,1274 1220,1758 162,1758"/>
+            <TextLine id="line_1612641864072_6520" custom="readingOrder {index:0;}">
+                <Coords points="240,1323 908,1339 1223,1314 1070,1275 981,1301 876,1276 813,1302 777,1276 240,1285"/>
+                <Baseline points="247,1315 274,1314 302,1314 329,1314 357,1314 385,1314 412,1313 440,1313 467,1313 495,1313 523,1313 550,1313 578,1313 605,1313 633,1313 661,1313 688,1313 716,1313 743,1314 771,1314 799,1314 828,1315 853,1315 879,1315 905,1315 931,1314 957,1314 983,1314 1009,1314 1034,1314 1060,1314 1086,1314 1112,1314 1138,1314 1164,1314 1190,1314 1216,1314"/>
+                <TextEquiv>
+                    <Unicode>302. Es fällt in der allgemein gültigen, in der Nor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612641870816_6526" custom="readingOrder {index:1;}">
+                <Coords points="165,1379 1104,1388 1221,1378 1221,1340 165,1342"/>
+                <Baseline points="172,1367 204,1368 237,1368 269,1368 302,1368 334,1368 367,1367 400,1367 432,1367 465,1367 497,1366 530,1366 562,1366 595,1366 628,1366 660,1365 693,1366 725,1366 758,1366 791,1366 817,1366 843,1367 870,1367 896,1367 923,1367 949,1367 976,1367 1002,1366 1029,1366 1055,1366 1082,1366 1108,1366 1135,1366 1161,1367 1188,1368 1215,1369"/>
+                <TextEquiv>
+                    <Unicode>malform des musikalischen Baues, sofern überhaupt eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:2;}">
+                <Coords points="166,1435 1210,1422 1210,1397 1012,1388 166,1387"/>
+                <Baseline points="172,1421 223,1421 275,1420 326,1420 378,1420 430,1420 481,1420 533,1420 584,1420 636,1420 688,1420 739,1420 791,1420 842,1420 894,1420 946,1420 997,1420 1049,1420 1100,1421 1152,1421 1204,1421"/>
+                <TextEquiv>
+                    <Unicode>Mannigfaltigkeit der Tonarten darin waltet, Alles von mo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612641877593_6535" custom="readingOrder {index:3;}">
+                <Coords points="156,1481 1219,1481 1183,1436 156,1447"/>
+                <Baseline points="163,1474 194,1474 226,1473 257,1473 289,1473 320,1473 352,1473 383,1473 415,1473 446,1473 478,1473 509,1473 541,1473 572,1473 604,1473 635,1473 667,1473 698,1473 730,1472 761,1472 793,1472 816,1471 842,1471 868,1472 895,1472 921,1472 948,1473 974,1473 1000,1473 1027,1473 1053,1473 1080,1474 1106,1474 1132,1474 1159,1474 1185,1473 1212,1473"/>
+                <TextEquiv>
+                    <Unicode>dulatorisch entfernterem Bezuge, sowie namentlich das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:4;}">
+                <Coords points="160,1539 1221,1539 1221,1497 160,1499"/>
+                <Baseline points="167,1527 219,1527 271,1526 324,1526 376,1526 429,1525 481,1525 533,1525 586,1525 638,1525 691,1524 743,1524 795,1524 848,1524 900,1525 953,1525 1005,1525 1057,1526 1110,1526 1162,1527 1215,1528"/>
+                <TextEquiv>
+                    <Unicode>nach der Unterdominantseite gerichtete nur in den zweiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:5;}">
+                <Coords points="160,1588 1217,1587 1217,1555 1088,1541 160,1549"/>
+                <Baseline points="167,1579 219,1579 271,1579 323,1579 375,1579 428,1579 480,1579 532,1579 584,1578 636,1578 689,1578 741,1577 793,1577 845,1577 897,1577 950,1577 1002,1578 1054,1578 1106,1579 1158,1579 1211,1580"/>
+                <TextEquiv>
+                    <Unicode>Theil des Ganzen und zwar vor den Wiedereintritt der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:6;}">
+                <Coords points="155,1640 1218,1632 1182,1595 155,1601"/>
+                <Baseline points="162,1633 214,1632 267,1632 319,1632 372,1632 424,1632 477,1631 529,1631 582,1631 634,1631 687,1631 739,1631 792,1631 844,1631 897,1631 949,1631 1002,1631 1054,1631 1107,1631 1159,1631 1212,1631"/>
+                <TextEquiv>
+                    <Unicode>Haupttonart, in welcher sodann der Haupt- und der Ne¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:7;}">
+                <Coords points="166,1698 1118,1706 1223,1667 165,1652"/>
+                <Baseline points="172,1685 224,1685 276,1685 328,1685 380,1685 433,1685 485,1684 537,1684 589,1684 641,1684 694,1684 746,1683 798,1683 850,1683 902,1683 955,1683 1007,1684 1059,1684 1111,1684 1163,1685 1216,1685"/>
+                <TextEquiv>
+                    <Unicode>bensatz, im ersten Theile durch die Quint-Trennung aus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:8;}">
+                <Coords points="160,1747 1132,1747 1132,1714 160,1717"/>
+                <Baseline points="167,1739 214,1739 262,1739 310,1739 358,1739 406,1738 454,1738 502,1738 550,1738 598,1738 646,1738 693,1738 741,1738 789,1737 837,1737 885,1737 933,1737 981,1737 1029,1737 1077,1737 1125,1737"/>
+                <TextEquiv>
+                    <Unicode>einandergehalten, tonisch verbunden zusammentreten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>302. Es fällt in der allgemein gültigen, in der Nor¬&#13;
+malform des musikalischen Baues, sofern überhaupt eine&#13;
+Mannigfaltigkeit der Tonarten darin waltet, Alles von mo¬&#13;
+dulatorisch entfernterem Bezuge, sowie namentlich das&#13;
+nach der Unterdominantseite gerichtete nur in den zweiten&#13;
+Theil des Ganzen und zwar vor den Wiedereintritt der&#13;
+Haupttonart, in welcher sodann der Haupt- und der Ne¬&#13;
+bensatz, im ersten Theile durch die Quint-Trennung aus¬&#13;
+einandergehalten, tonisch verbunden zusammentreten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612641823652_6474" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
+            <Coords points="162,1758 1220,1758 1220,2139 162,2139"/>
+            <TextLine id="r1l32" custom="readingOrder {index:0;}">
+                <Coords points="242,1799 1224,1794 1192,1755 242,1760"/>
+                <Baseline points="249,1791 297,1791 345,1791 394,1791 442,1791 491,1791 539,1791 587,1791 636,1791 684,1791 733,1790 781,1790 829,1790 878,1790 926,1790 975,1790 1023,1789 1071,1789 1120,1789 1168,1789 1217,1788"/>
+                <TextEquiv>
+                    <Unicode>303. Wiewohl das Gesetzliche in der Modulationsord¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:1;}">
+                <Coords points="159,1858 1204,1852 1226,1818 159,1820"/>
+                <Baseline points="166,1844 218,1844 271,1844 324,1845 376,1845 429,1845 482,1845 534,1844 587,1844 640,1844 693,1844 745,1843 798,1843 851,1843 903,1843 956,1843 1009,1843 1061,1843 1114,1843 1167,1843 1220,1844"/>
+                <TextEquiv>
+                    <Unicode>nung ein ganz allgemeines ist und auf jede musikalische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:2;}">
+                <Coords points="165,1907 1221,1906 1221,1868 1164,1860 959,1885 895,1859 728,1884 695,1859 165,1867"/>
+                <Baseline points="171,1895 223,1896 275,1896 327,1897 379,1897 431,1897 483,1897 536,1897 588,1897 640,1897 692,1897 744,1897 796,1897 848,1896 901,1896 953,1896 1005,1895 1057,1895 1109,1895 1161,1894 1214,1894"/>
+                <TextEquiv>
+                    <Unicode>Form anzuwenden sein wird, so ist hier, wo von einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:3;}">
+                <Coords points="163,1962 1221,1947 1110,1915 778,1939 163,1916"/>
+                <Baseline points="170,1950 222,1950 274,1950 326,1950 378,1950 431,1950 483,1950 535,1950 587,1950 639,1950 692,1949 744,1949 796,1949 848,1949 900,1949 953,1949 1005,1948 1057,1948 1109,1947 1161,1947 1214,1946"/>
+                <TextEquiv>
+                    <Unicode>Folge von Haupt- und Nebensatz, von ihrer Quint-Trenn¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:4;}">
+                <Coords points="165,2011 1226,2009 1226,1979 1180,1971 165,1979"/>
+                <Baseline points="172,2004 224,2003 276,2003 329,2003 381,2003 434,2003 486,2003 538,2003 591,2002 643,2002 696,2002 748,2002 800,2002 853,2002 905,2002 958,2002 1010,2002 1062,2003 1115,2003 1167,2003 1220,2003"/>
+                <TextEquiv>
+                    <Unicode>ung im ersten und ihrer tonischen Vereinigung im zweiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:5;}">
+                <Coords points="165,2066 1227,2075 1227,2029 1111,2021 165,2027"/>
+                <Baseline points="172,2057 224,2057 276,2057 329,2057 381,2057 434,2057 486,2057 538,2056 591,2056 643,2056 696,2056 748,2056 800,2056 853,2056 905,2056 958,2056 1010,2056 1062,2056 1115,2056 1167,2057 1220,2057"/>
+                <TextEquiv>
+                    <Unicode>Theile die Rede ist, doch hauptsächlich diejenige Fassung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:6;}">
+                <Coords points="157,2122 1224,2123 1224,2084 157,2086"/>
+                <Baseline points="164,2112 216,2111 269,2111 322,2111 374,2110 427,2110 480,2110 532,2110 585,2110 638,2110 691,2109 743,2109 796,2109 849,2109 901,2109 954,2109 1007,2109 1059,2109 1112,2109 1165,2110 1218,2110"/>
+                <TextEquiv>
+                    <Unicode>eines Musikstückes in Betracht gezogen, wie sie als die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>303. Wiewohl das Gesetzliche in der Modulationsord¬
+nung ein ganz allgemeines ist und auf jede musikalische
+Form anzuwenden sein wird, so ist hier, wo von einer
+Folge von Haupt- und Nebensatz, von ihrer Quint-Trenn¬
+ung im ersten und ihrer tonischen Vereinigung im zweiten
+Theile die Rede ist, doch hauptsächlich diejenige Fassung
+eines Musikstückes in Betracht gezogen, wie sie als die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

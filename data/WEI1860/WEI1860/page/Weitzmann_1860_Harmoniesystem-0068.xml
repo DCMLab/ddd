@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-19T15:11:51.132+01:00</Created>
+        <LastChange>2021-03-29T20:27:16.045+02:00</LastChange>
+        <TranskribusMetadata docId="614265" pageId="24399930" pageNr="68" tsid="54541341" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=DNEWNWWICWRZNVMCJRSFPHFO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JEZAOQRSLLKGORVXBKLDYRCY" imageId="18780696"/>
+    </Metadata>
+    <Page imageFilename="Weitzmann_1860_Harmoniesystem-0068.jpg" imageWidth="1365" imageHeight="2163" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624196443323" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614168972558_2259"/>
+                <RegionRefIndexed index="2" regionRef="region_1617042424446_770"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614168996671_2270"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614168972558_2259" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="169,220 1178,220 1178,262 169,262"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="650,251 696,251 696,205 650,205"/>
+                <Baseline points="656,240 690,240"/>
+                <TextEquiv>
+                    <Unicode>53</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>53</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614168984371_2263" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="169,262 1178,262 1178,551 169,551"/>
+        </MusicRegion>
+        <TextRegion id="region_1617042424446_770" custom="readingOrder {index:2;} structure {type:missing;}">
+            <Coords points="171,578 1177,578 1177,1595 171,1595"/>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614168996671_2270" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="169,1678 1178,1678 1178,1901 169,1901"/>
+            <TextLine id="r1l18" custom="readingOrder {index:0;}">
+                <Coords points="173,1728 756,1718 793,1741 1039,1715 1159,1739 1185,1691 173,1684"/>
+                <Baseline points="179,1715 231,1716 284,1716 336,1716 389,1716 441,1716 494,1716 547,1716 599,1716 652,1716 704,1715 757,1715 809,1715 862,1715 915,1715 967,1716 1020,1716 1072,1717 1125,1718 1178,1719"/>
+                <TextEquiv>
+                    <Unicode>So läßt auch die neuere Tonkunst oft hart vor dem Schlusse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:1;}">
+                <Coords points="175,1771 1178,1763 1178,1740 972,1724 175,1733"/>
+                <Baseline points="182,1760 231,1759 281,1759 330,1759 380,1759 429,1759 479,1759 528,1759 578,1759 627,1759 677,1759 726,1759 776,1759 825,1760 875,1760 924,1760 974,1760 1023,1760 1073,1760 1122,1760 1172,1760"/>
+                <TextEquiv>
+                    <Unicode>noch einen oder mehrere der Tonart nicht eigene, sondern chro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:2;}">
+                <Coords points="173,1811 1181,1812 1181,1779 1066,1768 173,1780"/>
+                <Baseline points="179,1802 228,1801 278,1801 328,1801 378,1800 427,1800 477,1800 527,1800 577,1800 626,1800 676,1800 726,1800 776,1800 825,1801 875,1801 925,1801 975,1801 1024,1801 1074,1801 1124,1801 1174,1801"/>
+                <TextEquiv>
+                    <Unicode>matische Töne benutzende Accorde auftreten, um den Schluß¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:3;}">
+                <Coords points="174,1859 1184,1859 1184,1819 1094,1811 174,1819"/>
+                <Baseline points="180,1843 229,1843 279,1843 329,1843 379,1843 429,1842 479,1842 529,1842 579,1842 629,1842 679,1842 728,1842 778,1843 828,1843 878,1843 928,1844 978,1844 1028,1845 1078,1845 1128,1846 1178,1847"/>
+                <TextEquiv>
+                    <Unicode>accord durch die Spannung, welche der ihm vorangehende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:4;}">
+                <Coords points="166,1907 1155,1899 1155,1866 1092,1852 166,1863"/>
+                <Baseline points="172,1888 220,1888 269,1888 318,1888 367,1888 416,1888 464,1888 513,1887 562,1887 611,1888 660,1888 708,1888 757,1888 806,1888 855,1888 904,1889 952,1889 1001,1889 1050,1890 1099,1890 1148,1891"/>
+                <TextEquiv>
+                    <Unicode>zuckende Strahl erregte, desto befriedigender wirken zu lassen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>So läßt auch die neuere Tonkunst oft hart vor dem Schlusse
+noch einen oder mehrere der Tonart nicht eigene, sondern chro¬
+matische Töne benutzende Accorde auftreten, um den Schluß¬
+accord durch die Spannung, welche der ihm vorangehende
+zuckende Strahl erregte, desto befriedigender wirken zu lassen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
