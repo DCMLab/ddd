@@ -1,18 +1,8 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
+# If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: "Digitizing the Dualism Debate"
 email: fabian.moss@epfl.ch
 description: >- # this means to ignore newlines until "baseurl:"
@@ -28,7 +18,7 @@ github_username:  fabianmoss
 # Build settings
 markdown: kramdown
 
-theme: minima
+theme: just-the-docs
 
 plugins:
   - jekyll-feed
@@ -51,3 +41,34 @@ scholar:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Set path to logo to be displayed instead of title in sidebar
+# logo: "/assets/images/mus-fav.png"
+
+# Enable site search
+search_enabled: true
+
+# Search function parameters
+search:
+  heading_leve: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+  # Change color scheme (available: dark or light)
+  # color_scheme: dark
+  # Custom color scheme: to add a scheme named foo, add a file _sass/color_schemes/foo.scss
+  # Available variables are listed in the _variables.scss file
+  # Then change color_scheme here
+
+  # Aux links for the upper right navigation
+aux_links:
+  "DDD on GitHub":
+    - "//github.com/DCMLab/ddd"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"

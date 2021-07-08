@@ -2,15 +2,19 @@
 title: Sources
 layout: page
 published: true
-order: 2
+nav_order: 2
 
 ---
 
-We selected the most relevant texts pertinent to the dualism debate. This amounts to a
-corpus of 20 primary sources published between 1852 and 1931, cumulatively adding up to ca. 3,100
-pages that form the data basis for the analyses within the scope of this project.
+# Project's sources 
+{: .fs-9 }
 
-The sources considered are:
+We selected the most relevant texts pertinent to the dualism debate. This amounts to a corpus of 20 primary sources published between 1852 and 1931, cumulatively adding up to ca. 3,100 pages that form the data basis for the analyses within the scope of this project.
+{: .fs-6 .fw-300 }
+
+---
+
+### The sources considered are:
 
 1. Kraushaar, Otto (1852). *Der accordliche Gegensatz und die Begründung der Scala*.
 1. Hauptmann, Moritz (1853). *Die Natur der Harmonik und der Metrik*.

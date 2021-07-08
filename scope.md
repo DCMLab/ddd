@@ -2,9 +2,12 @@
 title: Scope
 layout: page
 published: true
-order: 1
+nav_order: 1
 
 ---
+
+# Scope of the project 
+{: .fs-9 }
 
 ## General context
 

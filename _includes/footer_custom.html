@@ -1,11 +1,11 @@
-<footer class="site-footer h-card">
+<!-- <footer class="site-footer h-card">
     <data class="u-url" href="{{ "/" | relative_url }}"></data>
   
     <div class="wrapper">
   
       <h2 class="footer-heading">{{ site.title | escape }}</h2>
   
-      <!-- <div class="footer-col-wrapper">
+      <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
           <ul class="contact-list">
             <li class="p-name">
@@ -28,7 +28,7 @@
         <div class="footer-col footer-col-3">
           <p>{{- site.description | escape -}}</p>
         </div>
-      </div> -->
+      </div> 
     
       <div class="footer-col-wrapper">
           <div class="footer-col footer-col-1">
@@ -45,8 +45,8 @@
           </div>
           <div class="footer-col footer-col-2">
             <p>
-               <img src="img/EPFL.png">
-               <img src="img/UNIL.png">
+               <img src="/ddd/img/EPFL.png">
+               <img src="/ddd/img/UNIL.png">
             </p>
           </div>
           <div class="footer-col footer-col-3">
@@ -56,5 +56,51 @@
   
     </div>
   
-  </footer>
+  </footer> -->
+
+  <style media="screen">
+
+    #footer {
+        width: 100%;
+        font-size: 12px;
+     }
+    
+    #footer div {
+        width:33%;
+        float:left;
+        padding: 5px;
+    }
+    
+    #footer img {
+      width: 80%;
+    }
+
+    #epfl {
+      margin-top: -15px;
+    }
+    </style>
+    
+     <div id="footer">
+      <div>
+        <h3 class="footer-heading">Funding</h3>
+                <p>Collaborative Research on Science and Society 
+                    <a href="https://www.epfl.ch/schools/cdh/research-2/cross-collaborative-research-on-science-and-society/cross-2021/">
+                        (CROSS)
+                    </a>
+                </p>
+                <h3 class="footer-heading">Duration</h3>
+                <p>
+                   January - December 2021
+                </p>
+      </div><div class="<img>">
+        <p>
+          <img id="epfl" src="/ddd/img/EPFL.png">
+          <img src="/ddd/img/UNIL.png">
+       </p>
+      </div><div>
+        <p>{{- site.description | escape -}}</p>
+      </div>
+       
+     </div>
+    
   
