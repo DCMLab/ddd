@@ -20,14 +20,18 @@ if __name__=="__main__":
         with open(f) as file:
             mus.append(len(re.findall("\$\$MUSIC", file.read())))
 
+    print(f"$$MUSIC: {sum(mus)}")
+
     gra = []
     for f in files:
         with open(f) as file:
             gra.append(len(re.findall("\$\$GRAPHIC", file.read())))
 
+    print(f"$$GRAPHIC: {sum(gra)}")
+
     ## Count floats
-    music_examples = sum([ docs[i].xpath("count(.//tei:zone[@rendition='Music'])", namespaces=ns) for i in range(len(files)) ]) + sum(mus)
-    graphic_examples = sum([ docs[i].xpath("count(.//tei:zone[@rendition='Graphic'])", namespaces=ns) for i in range(len(files)) ]) + sum(gra)
+    music_examples = sum([ docs[i].xpath("count(.//tei:zone[@rendition='Music'])", namespaces=ns) for i in range(len(files)) ]) #+ sum(mus)
+    graphic_examples = sum([ docs[i].xpath("count(.//tei:zone[@rendition='Graphic'])", namespaces=ns) for i in range(len(files)) ]) #+ sum(gra)
     tables = sum([ docs[i].xpath("count(.//tei:zone[@rendition='Table'])", namespaces=ns) for i in range(len(files)) ])
 
     print("Musics:  ", music_examples)
