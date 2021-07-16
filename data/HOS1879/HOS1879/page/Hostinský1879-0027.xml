@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-12-03T18:01:30.470+01:00</Created>
+        <LastChange>2021-07-16T11:49:13.590+02:00</LastChange>
+        <TranskribusMetadata docId="548790" pageId="22902405" pageNr="27" tsid="61517604" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=UNXORZJBPDVGZGAIXKTWXTWD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OXDAZBCUTLFMBJYJIYOJXRQB" imageId="17865710"/>
+    </Metadata>
+    <Page imageFilename="Hostinský1879-0027.jpg" imageWidth="1407" imageHeight="2241" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626454106783" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1626093669942_1089"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1626093669942_1088"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1626093667530_1084"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1626093664803_1080"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1626093663291_1076"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1626093659438_1072"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1626093656902_1068"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1626093669942_1089" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="137,76 1298,76 1298,130 137,130"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="687,107 708,104 712,107 738,106 746,97 758,97 757,71 748,71 736,60 717,61 703,58 697,63 686,63"/>
+                <Baseline points="694,98 722,98 750,96"/>
+                <TextEquiv>
+                    <Unicode>19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>19</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626093669942_1088" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="137,130 1298,130 1298,867 137,867"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="231,187 1299,203 1300,157 1217,146 232,146"/>
+                <Baseline points="238,179 290,180 343,180 396,180 448,181 501,181 554,181 606,181 659,181 712,181 765,181 817,181 870,181 923,181 975,182 1028,182 1081,182 1133,182 1186,183 1239,183 1292,184"/>
+                <TextEquiv>
+                    <Unicode>Dass die Tonempfindung eine continuirliche, ununterbrochene,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="145,235 1291,235 1291,200 1056,188 145,188"/>
+                <Baseline points="152,223 208,223 265,223 321,223 378,223 434,223 491,223 547,224 604,224 660,224 717,224 774,225 830,225 887,225 943,225 1000,225 1056,225 1113,225 1169,225 1226,224 1283,224"/>
+                <TextEquiv>
+                    <Unicode>die mechanische Einwirkung auf die Nervenenden aber eine stoss¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="145,275 1305,274 1284,235 145,244"/>
+                <Baseline points="153,266 210,266 267,266 324,266 382,266 439,266 496,267 553,267 611,267 668,267 725,267 782,267 840,267 897,268 954,268 1011,268 1069,267 1126,267 1183,267 1240,267 1298,267"/>
+                <TextEquiv>
+                    <Unicode>weise, also discontinuirliche ist, liesse sich wohl zur Genüge dadurch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="146,314 1295,321 1295,287 1142,275 146,284"/>
+                <Baseline points="153,308 209,308 266,308 323,308 380,309 436,309 493,309 550,309 607,309 663,310 720,310 777,310 834,310 890,310 947,310 1004,310 1061,310 1117,310 1174,310 1231,310 1288,310"/>
+                <TextEquiv>
+                    <Unicode>erklären, dass die der eigenen Stimmung der Nervenfaser ent¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="143,363 1299,360 1299,315 144,325"/>
+                <Baseline points="151,350 208,350 265,350 322,351 379,351 436,351 493,351 550,352 607,352 664,352 721,352 778,352 835,352 892,352 949,352 1006,352 1063,352 1120,352 1177,352 1234,352 1292,352"/>
+                <TextEquiv>
+                    <Unicode>sprechende Empfindung durch den neuen, eben ausgelösten Zustand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="143,403 1102,410 1293,364 143,372"/>
+                <Baseline points="150,394 206,393 263,393 320,393 377,393 434,393 490,393 547,394 604,394 661,395 718,395 774,396 831,396 888,396 945,396 1002,395 1058,394 1115,393 1172,391 1229,388 1286,385"/>
+                <TextEquiv>
+                    <Unicode>erst beseitigt, überwunden, dass gewissermassen das „Schwarz″ *)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="149,443 1303,446 1303,411 1256,404 149,405"/>
+                <Baseline points="156,434 213,434 270,435 327,435 384,435 441,435 498,436 555,436 612,436 669,437 726,437 783,437 840,437 897,437 954,437 1011,437 1068,437 1125,437 1182,437 1239,436 1296,436"/>
+                <TextEquiv>
+                    <Unicode>des Gehöres in die betreffende Tonqualität erst umgestimmt werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="143,492 1302,492 1302,453 1257,444 143,451"/>
+                <Baseline points="150,477 207,477 264,478 321,478 378,479 436,479 493,479 550,479 607,479 664,479 722,479 779,480 836,480 893,480 950,480 1008,480 1065,480 1122,480 1179,480 1236,480 1294,480"/>
+                <TextEquiv>
+                    <Unicode>muss. Bei der Resistenz, man möchte sagen: der vis inertiae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="143,532 1302,530 1302,500 1241,492 143,499"/>
+                <Baseline points="150,519 207,520 264,520 321,520 378,520 436,521 493,521 550,521 607,521 664,522 722,522 779,522 836,522 893,522 950,522 1008,522 1065,522 1122,522 1179,522 1236,521 1294,521"/>
+                <TextEquiv>
+                    <Unicode>eines jeden sinnlichen Eindrucks, der ja weder plötzlich mit seiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="143,577 1303,571 1254,531 143,539"/>
+                <Baseline points="150,563 207,563 264,563 321,563 379,563 436,563 493,563 551,563 608,564 665,564 723,564 780,564 837,564 894,565 952,565 1009,565 1066,565 1124,564 1181,564 1238,564 1296,563"/>
+                <TextEquiv>
+                    <Unicode>ganzen Intensität auftritt, noch auch plötzlich aus dieser vollen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="138,614 1302,617 1302,578 1247,572 139,577"/>
+                <Baseline points="146,605 203,605 260,605 318,605 375,605 433,605 490,605 547,605 605,606 662,606 720,606 777,607 834,607 892,607 949,607 1007,607 1064,607 1121,607 1179,607 1236,606 1294,606"/>
+                <TextEquiv>
+                    <Unicode>Intensität in ein Nichts zurücksinkt, vielmehr im Verlaufe einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1626093719541_1123" custom="readingOrder {index:11;}">
+                <Coords points="143,659 1299,659 1299,625 1199,619 144,614"/>
+                <Baseline points="151,647 177,647 204,648 231,647 257,647 284,646 311,645 337,645 364,644 391,644 417,648 443,648 469,647 495,647 521,647 547,647 573,647 600,648 626,648 652,648 678,648 704,648 730,649 756,649 783,649 809,649 835,649 861,649 887,649 913,649 940,648 957,650 982,649 1008,648 1034,648 1060,648 1085,648 1111,648 1137,649 1163,649 1188,650 1214,650 1240,650 1266,650 1292,649"/>
+                <TextEquiv>
+                    <Unicode>bestimmten — wenn auch noch so kurzen — Zeit anwächst, um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+                <Coords points="145,699 1295,698 1247,660 145,659"/>
+                <Baseline points="152,689 208,689 265,689 322,689 379,689 436,690 492,690 549,690 606,690 663,691 720,691 776,691 833,692 890,692 947,692 1004,692 1060,692 1117,692 1174,692 1231,692 1288,691"/>
+                <TextEquiv>
+                    <Unicode>dann ebenso allmählig zu verklingen, ist es gewiss denkbar, dass</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+                <Coords points="142,740 1292,737 1292,709 1119,699 142,706"/>
+                <Baseline points="149,731 205,731 262,732 319,732 376,732 432,733 489,733 546,733 603,733 659,734 716,734 773,734 830,734 886,734 943,734 1000,734 1057,733 1113,733 1170,733 1227,732 1284,732"/>
+                <TextEquiv>
+                    <Unicode>zwei Eindrücke miteinander ganz wohl zu einem Continuum ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1626093729780_1143" custom="readingOrder {index:14;}">
+                <Coords points="142,787 1300,787 1300,754 1238,742 142,748"/>
+                <Baseline points="149,774 174,774 200,774 226,774 251,774 277,774 303,774 329,774 354,774 380,774 406,775 432,775 457,775 483,775 509,775 535,775 560,775 586,775 612,775 638,775 654,775 687,775 721,775 754,776 788,776 822,776 855,776 889,776 923,776 956,776 990,776 1023,776 1057,776 1091,776 1124,776 1158,776 1192,776 1225,776 1259,776 1293,776"/>
+                <TextEquiv>
+                    <Unicode>schmelzen können, wenn sie so rasch auf einander folgen, dass</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:15;}">
+                <Coords points="141,828 1295,828 1279,787 141,787"/>
+                <Baseline points="148,815 205,815 262,815 319,815 376,815 433,816 490,816 547,816 604,816 661,817 718,817 775,817 832,817 889,817 946,818 1003,818 1060,818 1117,817 1174,817 1231,817 1288,817"/>
+                <TextEquiv>
+                    <Unicode>der erste noch nicht verschwunden ist, während der zweite bereits</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:16;}">
+                <Coords points="141,868 271,868 271,836 262,835 255,827 225,827 216,835 206,827 192,827 183,836 174,827 160,827 151,836 141,836"/>
+                <Baseline points="149,859 177,857 206,856 234,857 263,859"/>
+                <TextEquiv>
+                    <Unicode>eintritt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dass die Tonempfindung eine continuirliche, ununterbrochene,&#13;
+die mechanische Einwirkung auf die Nervenenden aber eine stoss¬&#13;
+weise, also discontinuirliche ist, liesse sich wohl zur Genüge dadurch&#13;
+erklären, dass die der eigenen Stimmung der Nervenfaser ent¬&#13;
+sprechende Empfindung durch den neuen, eben ausgelösten Zustand&#13;
+erst beseitigt, überwunden, dass gewissermassen das „Schwarz″ *)&#13;
+des Gehöres in die betreffende Tonqualität erst umgestimmt werden&#13;
+muss. Bei der Resistenz, man möchte sagen: der vis inertiae&#13;
+eines jeden sinnlichen Eindrucks, der ja weder plötzlich mit seiner&#13;
+ganzen Intensität auftritt, noch auch plötzlich aus dieser vollen&#13;
+Intensität in ein Nichts zurücksinkt, vielmehr im Verlaufe einer&#13;
+bestimmten — wenn auch noch so kurzen — Zeit anwächst, um&#13;
+dann ebenso allmählig zu verklingen, ist es gewiss denkbar, dass&#13;
+zwei Eindrücke miteinander ganz wohl zu einem Continuum ver¬&#13;
+schmelzen können, wenn sie so rasch auf einander folgen, dass&#13;
+der erste noch nicht verschwunden ist, während der zweite bereits&#13;
+eintritt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626093667530_1084" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="137,867 1298,867 1298,1184 137,1184"/>
+            <TextLine id="r1l22" custom="readingOrder {index:0;}">
+                <Coords points="225,908 1293,904 1264,868 225,868"/>
+                <Baseline points="233,900 285,900 338,900 390,900 443,900 496,900 548,900 601,901 654,901 706,901 759,902 812,902 864,902 917,902 970,902 1022,902 1075,902 1128,901 1180,901 1233,900 1286,899"/>
+                <TextEquiv>
+                    <Unicode>Nach dem bisher Gesagten wäre zu erwarten, dass einem ein¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1626093738095_1155" custom="readingOrder {index:1;}">
+                <Coords points="136,956 1295,947 1220,908 726,934 136,908"/>
+                <Baseline points="144,943 169,943 195,943 220,942 246,942 271,942 297,942 322,942 348,942 374,943 399,943 425,943 450,943 476,943 501,944 527,944 552,944 578,944 604,944 631,943 663,944 696,944 729,945 762,945 795,945 828,945 860,945 893,945 926,945 959,945 992,945 1025,945 1058,944 1090,944 1123,944 1156,944 1189,944 1222,944 1255,944 1288,944"/>
+                <TextEquiv>
+                    <Unicode>fachen objectiv gegebenen Tone auch eine absolut einfache Ton¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1626093743621_1163" custom="readingOrder {index:2;}">
+                <Coords points="146,995 1299,995 1272,956 146,963"/>
+                <Baseline points="153,986 178,985 203,985 228,984 253,984 278,984 303,984 328,984 353,984 379,985 404,985 429,985 454,985 479,986 504,986 529,986 554,986 580,986 637,985 669,986 702,986 735,987 768,987 800,987 833,988 866,988 899,988 931,988 964,987 997,987 1030,987 1062,987 1095,987 1128,987 1161,986 1193,986 1226,986 1259,986 1292,986"/>
+                <TextEquiv>
+                    <Unicode>wahrnehmung entspricht. Insoferne, als damit gemeint sein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:3;}">
+                <Coords points="138,1035 1296,1035 1261,996 138,1002"/>
+                <Baseline points="145,1028 202,1028 259,1027 316,1027 373,1027 430,1027 487,1028 545,1028 602,1028 659,1028 716,1029 773,1029 830,1029 887,1029 945,1029 1002,1029 1059,1029 1116,1029 1173,1029 1230,1028 1288,1027"/>
+                <TextEquiv>
+                    <Unicode>sollte, dass ein einfacher Ton blos ein einziges Theilchen des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:4;}">
+                <Coords points="138,1083 1297,1083 1269,1035 139,1035"/>
+                <Baseline points="145,1070 202,1070 259,1069 316,1069 374,1070 431,1070 488,1070 545,1070 603,1070 660,1071 717,1071 774,1071 832,1072 889,1072 946,1072 1003,1072 1061,1072 1118,1072 1175,1072 1232,1071 1290,1071"/>
+                <TextEquiv>
+                    <Unicode>Gehörapparates zum Mitschwingen bringt, also auch blos auf ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:5;}">
+                <Coords points="142,1124 1291,1124 1300,1089 142,1090"/>
+                <Baseline points="150,1113 207,1113 264,1112 321,1112 378,1112 435,1112 492,1112 549,1112 606,1113 663,1113 721,1113 778,1113 835,1114 892,1114 949,1114 1006,1114 1063,1114 1120,1114 1177,1114 1234,1113 1292,1113"/>
+                <TextEquiv>
+                    <Unicode>einziges Nervenende wirkt, muss man allem Anscheine nach aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:6;}">
+                <Coords points="142,1163 826,1172 826,1134 768,1124 142,1132"/>
+                <Baseline points="150,1155 183,1156 216,1156 250,1156 283,1155 317,1155 350,1155 383,1155 417,1155 450,1155 484,1155 517,1155 550,1155 584,1155 617,1155 651,1155 684,1155 717,1156 751,1157 784,1157 818,1158"/>
+                <TextEquiv>
+                    <Unicode>einem doppelten Grunde widersprechen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nach dem bisher Gesagten wäre zu erwarten, dass einem ein¬
+fachen objectiv gegebenen Tone auch eine absolut einfache Ton¬
+wahrnehmung entspricht. Insoferne, als damit gemeint sein
+sollte, dass ein einfacher Ton blos ein einziges Theilchen des
+Gehörapparates zum Mitschwingen bringt, also auch blos auf ein
+einziges Nervenende wirkt, muss man allem Anscheine nach aus
+einem doppelten Grunde widersprechen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1626093664803_1080" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="137,1184 1298,1184 1298,1295 137,1295"/>
+            <TextLine id="r1l31" custom="readingOrder {index:0;}">
+                <Coords points="346,1283 1098,1273 1098,1237 1069,1235 464,1228 440,1251 416,1228 346,1228"/>
+                <Baseline points="353,1269 389,1269 426,1268 463,1268 500,1268 537,1267 574,1267 611,1267 648,1267 685,1267 722,1268 758,1268 795,1268 832,1268 869,1268 906,1268 943,1268 980,1268 1017,1268 1054,1268 1091,1268"/>
+                <TextEquiv>
+                    <Unicode>§ 5. Erregbarkeit der Nachbarnerven.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>§ 5. Erregbarkeit der Nachbarnerven.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1626093663291_1076" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
+            <Coords points="137,1295 1298,1295 1298,1713 137,1713"/>
+            <TextLine id="r1l32" custom="readingOrder {index:0;}">
+                <Coords points="224,1354 1136,1348 1296,1339 1296,1299 223,1315"/>
+                <Baseline points="231,1335 283,1335 336,1334 389,1334 442,1333 495,1333 548,1333 601,1333 654,1333 707,1333 760,1333 812,1333 865,1333 918,1333 971,1333 1024,1333 1077,1333 1130,1333 1183,1332 1236,1331 1289,1331"/>
+                <TextEquiv>
+                    <Unicode>„Wenn die Tonhöhe des ursprünglich tönenden Körpers nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1626093759666_1197" custom="readingOrder {index:1;}">
+                <Coords points="135,1389 1293,1384 1292,1345 1236,1339 135,1356"/>
+                <Baseline points="143,1379 178,1376 214,1378 237,1376 289,1376 341,1375 394,1375 446,1375 499,1375 551,1375 603,1375 656,1375 708,1375 761,1375 813,1375 865,1376 918,1376 970,1376 1023,1375 1075,1375 1127,1375 1180,1374 1232,1373 1285,1372"/>
+                <TextEquiv>
+                    <Unicode>ganz genau der des mittönenden Körpers gleich ist, so schwingt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1626093767928_1211" custom="readingOrder {index:2;}">
+                <Coords points="137,1427 1100,1435 1296,1419 1296,1388 137,1389"/>
+                <Baseline points="144,1416 170,1416 196,1416 211,1415 264,1414 318,1414 372,1414 426,1414 480,1414 534,1414 588,1415 642,1415 696,1415 750,1415 803,1415 857,1415 911,1415 965,1415 1019,1415 1073,1415 1127,1415 1181,1414 1235,1414 1289,1413"/>
+                <TextEquiv>
+                    <Unicode>der letztere doch oft noch merklich mit, desto weniger, je grösser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:3;}">
+                <Coords points="142,1467 1158,1474 1298,1464 1298,1426 142,1427"/>
+                <Baseline points="150,1456 207,1456 264,1456 321,1456 378,1456 435,1456 492,1456 549,1456 606,1456 663,1456 720,1456 777,1456 834,1456 891,1456 948,1456 1005,1456 1062,1456 1119,1456 1176,1455 1233,1455 1291,1455"/>
+                <TextEquiv>
+                    <Unicode>die Differenz der Tonhöhe ist. In dieser Beziehung zeigen aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1626093773708_1220" custom="readingOrder {index:4;}">
+                <Coords points="134,1506 1302,1506 1192,1467 134,1469"/>
+                <Baseline points="142,1498 195,1497 249,1497 303,1497 357,1497 410,1497 464,1497 518,1497 572,1497 625,1497 679,1497 733,1498 787,1498 840,1498 894,1498 948,1498 1002,1497 1055,1497 1109,1497 1163,1496 1217,1496 1228,1497 1261,1497 1294,1497"/>
+                <TextEquiv>
+                    <Unicode>die verschiedenen tönenden Körper sehr grosse Unterschiede . . . .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:5;}">
+                <Coords points="137,1548 1299,1547 1254,1506 137,1507"/>
+                <Baseline points="145,1539 202,1539 259,1539 316,1539 374,1539 431,1539 488,1539 546,1539 603,1539 660,1538 718,1538 775,1538 832,1538 889,1538 947,1538 1004,1538 1061,1538 1119,1537 1176,1537 1233,1537 1291,1537"/>
+                <TextEquiv>
+                    <Unicode>Körper von geringer Masse, welche ihre Bewegung leicht an die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:6;}">
+                <Coords points="136,1588 1295,1596 1295,1562 1183,1547 136,1548"/>
+                <Baseline points="143,1580 200,1580 257,1580 314,1580 372,1580 429,1580 486,1580 543,1580 601,1580 658,1580 715,1580 772,1580 830,1580 887,1580 944,1580 1001,1580 1059,1580 1116,1580 1173,1579 1230,1579 1288,1579"/>
+                <TextEquiv>
+                    <Unicode>Luft abgeben und schnell austönen, wie z. B. gespannte Membranen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:7;}">
+                <Coords points="134,1634 1287,1635 1287,1597 1222,1589 134,1588"/>
+                <Baseline points="142,1621 198,1622 255,1622 312,1622 369,1622 426,1622 483,1622 540,1622 597,1622 654,1621 711,1621 767,1621 824,1621 881,1621 938,1621 995,1621 1052,1621 1109,1620 1166,1620 1223,1620 1280,1620"/>
+                <TextEquiv>
+                    <Unicode>Saiten einer Violine, sind leicht in Mitschwingung zu versetzen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:8;}">
+                <Coords points="139,1675 1256,1675 1300,1639 139,1642"/>
+                <Baseline points="147,1662 204,1663 261,1663 318,1663 376,1663 433,1663 490,1664 547,1664 605,1664 662,1664 719,1664 776,1664 834,1664 891,1664 948,1664 1005,1663 1063,1663 1120,1663 1177,1662 1234,1662 1292,1661"/>
+                <TextEquiv>
+                    <Unicode>weil auch rückwärts die Bewegung der Luft wieder leicht auf sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>„Wenn die Tonhöhe des ursprünglich tönenden Körpers nicht&#13;
+ganz genau der des mittönenden Körpers gleich ist, so schwingt&#13;
+der letztere doch oft noch merklich mit, desto weniger, je grösser&#13;
+die Differenz der Tonhöhe ist. In dieser Beziehung zeigen aber&#13;
+die verschiedenen tönenden Körper sehr grosse Unterschiede . . . .&#13;
+Körper von geringer Masse, welche ihre Bewegung leicht an die&#13;
+Luft abgeben und schnell austönen, wie z. B. gespannte Membranen,&#13;
+Saiten einer Violine, sind leicht in Mitschwingung zu versetzen,&#13;
+weil auch rückwärts die Bewegung der Luft wieder leicht auf sie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="footnote" id="TextRegion_1626093659438_1072" custom="readingOrder {index:5;} structure {type:footnote;}">
+            <Coords points="137,1713 1298,1713 1298,1943 137,1943"/>
+            <TextLine id="r1l44" custom="readingOrder {index:0;}">
+                <Coords points="136,1780 1104,1779 1297,1770 1297,1730 136,1747"/>
+                <Baseline points="143,1766 200,1766 257,1766 314,1766 372,1766 429,1766 486,1766 544,1766 601,1766 658,1766 716,1766 773,1765 830,1765 887,1765 945,1765 1002,1765 1059,1765 1117,1764 1174,1764 1231,1764 1289,1763"/>
+                <TextEquiv>
+                    <Unicode>muthet: „Wahrscheinlich hat jeder musikalische Ton seinen eigenen Antheil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:1;}">
+                <Coords points="137,1811 1288,1811 1296,1772 137,1781"/>
+                <Baseline points="144,1800 201,1800 258,1800 315,1800 373,1800 430,1800 487,1800 544,1800 602,1800 659,1800 716,1800 773,1800 831,1800 888,1800 945,1799 1002,1799 1060,1799 1117,1799 1174,1798 1231,1798 1289,1797"/>
+                <TextEquiv>
+                    <Unicode>am Organ. Ausserdem ist nicht wohl einzusehen, wie gleichzeitige Töne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:2;}">
+                <Coords points="129,1849 1262,1844 1292,1812 129,1813"/>
+                <Baseline points="137,1834 194,1834 251,1834 309,1834 366,1833 424,1833 481,1833 538,1833 596,1833 653,1833 711,1833 768,1833 825,1833 883,1833 940,1833 998,1833 1055,1832 1112,1832 1170,1832 1227,1831 1285,1831"/>
+                <TextEquiv>
+                    <Unicode>gesondert bleiben, und warum sie nicht einen dritten gemischten Ton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l47" custom="readingOrder {index:3;}">
+                <Coords points="133,1875 1273,1875 1289,1839 133,1847"/>
+                <Baseline points="141,1867 198,1867 255,1867 312,1867 369,1867 426,1867 483,1867 540,1867 597,1867 654,1867 711,1867 768,1867 825,1867 882,1867 939,1866 996,1866 1053,1866 1110,1865 1167,1864 1224,1864 1282,1863"/>
+                <TextEquiv>
+                    <Unicode>ergeben, welches die ästhetische Auffassung der Intervalle vernichten würde.”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l48" custom="readingOrder {index:4;}">
+                <Coords points="134,1908 1292,1904 1292,1875 1172,1868 134,1875"/>
+                <Baseline points="142,1901 199,1901 256,1901 313,1901 370,1901 427,1901 484,1901 542,1901 599,1901 656,1901 713,1901 770,1901 827,1901 884,1901 942,1901 999,1901 1056,1900 1113,1900 1170,1900 1227,1900 1285,1900"/>
+                <TextEquiv>
+                    <Unicode>Lehrbuch zur Psychologie § 72. Sämmtliche Werke, herausgegeben von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l49" custom="readingOrder {index:5;} textStyle {offset:3; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="137,1947 904,1940 904,1911 874,1900 794,1923 137,1908"/>
+                <Baseline points="145,1934 182,1935 220,1935 257,1935 295,1935 332,1935 370,1935 407,1935 445,1935 482,1935 520,1935 558,1935 595,1935 633,1935 670,1935 708,1934 745,1934 783,1934 820,1934 858,1934 896,1933"/>
+                <TextEquiv>
+                    <Unicode>G. Hartenstein. 1850—1852. V. Bd. S. 54.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>muthet: „Wahrscheinlich hat jeder musikalische Ton seinen eigenen Antheil&#13;
+am Organ. Ausserdem ist nicht wohl einzusehen, wie gleichzeitige Töne&#13;
+gesondert bleiben, und warum sie nicht einen dritten gemischten Ton&#13;
+ergeben, welches die ästhetische Auffassung der Intervalle vernichten würde.”&#13;
+Lehrbuch zur Psychologie § 72. Sämmtliche Werke, herausgegeben von&#13;
+G. Hartenstein. 1850—1852. V. Bd. S. 54.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="footnote" id="TextRegion_1626093656902_1068" custom="readingOrder {index:6;} structure {type:footnote;}">
+            <Coords points="137,1943 1298,1943 1298,2086 137,2086"/>
+            <TextLine id="r1l50" custom="readingOrder {index:0;} textStyle {offset:46; length:13;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="215,1962 1292,1967 1253,1931 215,1942"/>
+                <Baseline points="223,1959 276,1962 329,1964 382,1966 435,1967 488,1968 541,1969 594,1969 647,1969 700,1969 754,1969 807,1969 860,1968 913,1968 966,1967 1019,1967 1072,1966 1125,1966 1178,1965 1231,1965 1285,1965"/>
+                <TextEquiv>
+                    <Unicode>**) Vgl. Lehrbuch der Psychologie von Ph. Dr. Wilhelm Volk¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l51" custom="readingOrder {index:1;} textStyle {offset:0; length:23;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="132,2010 1293,2011 1278,1971 132,1979"/>
+                <Baseline points="139,2004 196,2003 253,2003 310,2003 368,2002 425,2002 482,2002 540,2002 597,2002 654,2002 712,2002 769,2002 826,2002 883,2002 941,2002 998,2002 1055,2002 1113,2001 1170,2001 1227,2000 1285,2000"/>
+                <TextEquiv>
+                    <Unicode>mann Ritter von Volkmar. Cöthen, Otto Schulze, 1875. I. Bd.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l52" custom="readingOrder {index:2;}">
+                <Coords points="133,2043 879,2044 867,2003 757,2025 737,2007 133,2010"/>
+                <Baseline points="141,2037 177,2037 214,2037 250,2037 287,2037 323,2037 360,2037 396,2037 433,2037 469,2037 506,2037 543,2037 579,2037 616,2036 652,2036 689,2036 725,2036 762,2036 798,2036 835,2035 872,2035"/>
+                <TextEquiv>
+                    <Unicode>S. 261. — Bezüglich des Folgenden: I. S. 227.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>**) Vgl. Lehrbuch der Psychologie von Ph. Dr. Wilhelm Volk¬
+mann Ritter von Volkmar. Cöthen, Otto Schulze, 1875. I. Bd.
+S. 261. — Bezüglich des Folgenden: I. S. 227.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

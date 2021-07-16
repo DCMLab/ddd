@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-02T17:08:33.868+02:00</Created>
+        <LastChange>2021-07-07T20:23:36.707+02:00</LastChange>
+        <TranskribusMetadata docId="721401" pageId="27762231" pageNr="62" tsid="61162448" status="NEW" userId="65770" imgUrl="https://files.transkribus.eu/Get?id=SFSSGVDCWMUDSPPXXPGHCAVU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QBGATDBGXZFXEZOCOGDEPWNS" imageId="21570554"/>
+    </Metadata>
+    <Page imageFilename="Thürlings_1877-0062.jpg" imageWidth="5958" imageHeight="9341" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626453903691" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1625591106415_4448"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1625591106415_4447"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1625591106415_4448" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="564,722 5244,722 5244,929 564,929"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2769,851 2815,859 2854,897 2897,870 2931,889 2974,857 2996,876 3021,854 3050,855 3060,686 3007,677 2995,688 2954,686 2943,673 2907,695 2779,676"/>
+                <Baseline points="2802,824 2829,822 2857,822 2884,823 2912,825 2939,828 2967,831 2994,832 3022,832"/>
+                <TextEquiv>
+                    <Unicode>51</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>51</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1625591106415_4447" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="564,929 5244,929 5244,1972 564,1972"/>
+            <TextLine id="r3l2" custom="readingOrder {index:0;}">
+                <Coords points="532,1228 5235,1256 5235,970 532,1023"/>
+                <Baseline points="564,1166 796,1168 1028,1168 1260,1168 1492,1168 1725,1168 1957,1166 2189,1166 2421,1166 2653,1164 2886,1164 3118,1162 3350,1162 3582,1162 3814,1162 4047,1164 4279,1164 4511,1166 4743,1168 4975,1171 5208,1174"/>
+                <TextEquiv>
+                    <Unicode>Poles springt jener geheimnisvolle elektrische Funke hervor,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:1;}">
+                <Coords points="555,1398 5263,1396 5076,1191 555,1217"/>
+                <Baseline points="582,1366 814,1364 1047,1364 1279,1364 1512,1364 1745,1364 1977,1364 2210,1364 2442,1364 2675,1364 2908,1364 3140,1364 3373,1364 3605,1364 3838,1366 4071,1366 4303,1366 4536,1366 4768,1368 5001,1368 5234,1368"/>
+                <TextEquiv>
+                    <Unicode>welcher in der Phantasie, in dem denkenden und fülenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:2;} textStyle {offset:41; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="536,1644 5274,1662 5274,1416 5022,1398 536,1393"/>
+                <Baseline points="566,1570 799,1568 1033,1568 1267,1568 1501,1568 1735,1568 1969,1566 2203,1567 2437,1568 2671,1568 2905,1568 3138,1568 3372,1568 3606,1570 3840,1570 4074,1570 4308,1572 4542,1572 4776,1572 5010,1574 5244,1574"/>
+                <TextEquiv>
+                    <Unicode>Menschengeiste das einheitliche Bild der Tonart und damit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:3;} textStyle {offset:30; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="535,1808 4752,1886 4752,1687 4419,1611 535,1644"/>
+                <Baseline points="564,1774 771,1774 979,1774 1187,1774 1395,1774 1603,1774 1810,1774 2018,1774 2226,1774 2434,1774 2642,1774 2849,1774 3057,1776 3265,1776 3473,1776 3681,1777 3888,1778 4096,1778 4304,1780 4512,1782 4720,1784"/>
+                <TextEquiv>
+                    <Unicode>die Urquelle des eigentlichen Kunstschönen erzeugt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Poles springt jener geheimnisvolle elektrische Funke hervor,
+welcher in der Phantasie, in dem denkenden und fülenden
+Menschengeiste das einheitliche Bild der Tonart und damit
+die Urquelle des eigentlichen Kunstschönen erzeugt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

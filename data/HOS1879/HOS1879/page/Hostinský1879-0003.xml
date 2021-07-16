@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-12-03T18:01:29.850+01:00</Created>
+        <LastChange>2021-07-15T10:57:11.846+02:00</LastChange>
+        <TranskribusMetadata docId="548790" pageId="22902342" pageNr="3" tsid="61466737" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=QVMRPCBWOFRNJBEYCAKVXURR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VPOHUNOVDVDROIFVCYCUFPZJ" imageId="17865647"/>
+    </Metadata>
+    <Page imageFilename="Hostinský1879-0003.jpg" imageWidth="1407" imageHeight="2241" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1626454103761" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1626023001914_49"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1626023001914_48"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1626022998473_44"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1626023001914_49" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="147,692 1301,692 1301,767 147,767"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="527,717 551,731 576,717 590,732 721,732 749,716 767,731 915,731 933,723 934,661 865,660 853,672 527,665"/>
+                <Baseline points="534,715 560,716 586,716 612,717 638,717 664,717 690,717 716,717 743,717 769,717 795,717 821,718 847,719 873,719 899,721 926,723"/>
+                <TextEquiv>
+                    <Unicode>VORWORT.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VORWORT.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626023001914_48" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="147,767 1301,767 1301,1846 147,1846"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="231,927 1306,922 1290,885 540,897 232,860"/>
+                <Baseline points="238,916 291,916 344,916 397,916 450,917 503,917 556,917 609,918 662,918 715,918 768,918 821,919 874,919 927,919 980,919 1033,918 1086,918 1139,917 1192,916 1245,915 1298,914"/>
+                <TextEquiv>
+                    <Unicode>Die vorliegende Schrift versucht es, den namentlich durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:3; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:23; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="142,971 1303,970 1303,931 1240,924 579,950 142,923"/>
+                <Baseline points="150,958 207,958 264,958 321,959 379,959 436,959 493,960 551,960 608,960 665,960 723,961 780,961 837,961 894,961 952,961 1009,961 1066,961 1124,960 1181,960 1238,959 1296,959"/>
+                <TextEquiv>
+                    <Unicode>H. Helmholtz und A. v. Oettingen zur Geltung gebrachten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="146,1011 1300,1010 1300,971 146,971"/>
+                <Baseline points="154,1000 210,1000 267,1001 324,1001 381,1001 438,1002 495,1002 552,1002 609,1002 666,1002 723,1002 779,1002 836,1002 893,1002 950,1002 1007,1002 1064,1002 1121,1002 1178,1001 1235,1001 1292,1001"/>
+                <TextEquiv>
+                    <Unicode>Zusammenhang zwischen der neueren akustischen Forschung und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="147,1051 1304,1050 1288,1019 1137,1011 147,1011"/>
+                <Baseline points="155,1042 212,1042 269,1042 326,1043 383,1043 440,1043 497,1044 554,1044 611,1044 668,1044 725,1045 782,1045 839,1045 896,1045 953,1044 1010,1044 1067,1044 1124,1044 1181,1043 1238,1043 1296,1042"/>
+                <TextEquiv>
+                    <Unicode>den altbewährten musikalischen Kunstregeln in der Weise auszu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="142,1096 1304,1093 1285,1051 142,1051"/>
+                <Baseline points="149,1085 206,1085 263,1085 321,1085 378,1086 435,1086 493,1086 550,1086 607,1087 665,1087 722,1087 779,1087 837,1087 894,1087 951,1087 1009,1087 1066,1087 1123,1087 1181,1086 1238,1085 1296,1084"/>
+                <TextEquiv>
+                    <Unicode>beuten, dass dadurch eine psychologisch-ästhetische Grundlage für die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} structure {type:paragraph;}">
+                <Coords points="145,1139 1304,1140 1304,1099 1240,1092 145,1098"/>
+                <Baseline points="153,1126 210,1126 267,1127 324,1127 381,1127 439,1128 496,1128 553,1128 610,1129 667,1129 725,1129 782,1129 839,1129 896,1130 953,1129 1011,1129 1068,1129 1125,1129 1182,1128 1239,1127 1297,1126"/>
+                <TextEquiv>
+                    <Unicode>Harmonielehre geschaffen würde. Im Verlaufe meiner Studien habe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="148,1180 1302,1171 1280,1139 148,1141"/>
+                <Baseline points="156,1168 212,1168 269,1169 326,1169 383,1170 440,1170 497,1171 554,1171 611,1172 668,1172 725,1172 781,1172 838,1172 895,1172 952,1172 1009,1172 1066,1171 1123,1171 1180,1170 1237,1169 1294,1168"/>
+                <TextEquiv>
+                    <Unicode>ich nämlich die Ueberzeugung gewonnen, dass das psychologisch-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="142,1220 1296,1220 1296,1178 142,1182"/>
+                <Baseline points="149,1211 206,1211 263,1211 320,1211 377,1211 434,1212 491,1212 548,1212 605,1213 662,1213 719,1213 776,1213 833,1213 890,1213 947,1213 1004,1213 1061,1213 1118,1212 1175,1211 1232,1210 1289,1209"/>
+                <TextEquiv>
+                    <Unicode>ästhetische Moment in der Behandlung der harmonischen Grund¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="148,1266 1308,1259 1271,1219 148,1227"/>
+                <Baseline points="155,1251 212,1252 269,1253 326,1253 384,1254 441,1254 498,1254 556,1255 613,1255 670,1255 728,1255 785,1255 842,1255 899,1255 957,1255 1014,1255 1071,1254 1129,1254 1186,1253 1243,1252 1301,1251"/>
+                <TextEquiv>
+                    <Unicode>probleme bisher noch nicht so betont worden ist, als es in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="147,1307 1307,1298 1272,1260 147,1267"/>
+                <Baseline points="155,1295 212,1295 269,1295 326,1296 384,1296 441,1296 498,1297 555,1297 613,1297 670,1297 727,1298 784,1298 842,1298 899,1298 956,1297 1013,1297 1071,1296 1128,1296 1185,1295 1242,1294 1300,1292"/>
+                <TextEquiv>
+                    <Unicode>That verdiente, zumal der hoch entwickelten physikalisch-physio¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;} textStyle {offset:18; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="147,1347 1087,1355 1279,1346 1295,1307 147,1308"/>
+                <Baseline points="154,1337 210,1337 267,1337 324,1337 380,1338 437,1338 494,1339 550,1339 607,1340 664,1340 721,1340 777,1340 834,1340 891,1340 947,1340 1004,1340 1061,1339 1117,1339 1174,1338 1231,1337 1288,1335"/>
+                <TextEquiv>
+                    <Unicode>logischen Theorie Helmholtz's gegenüber. Der „dualistische”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;} textStyle {offset:14; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="147,1387 1304,1386 1288,1347 148,1348"/>
+                <Baseline points="154,1378 211,1378 268,1379 325,1379 382,1380 439,1380 496,1380 553,1380 610,1381 667,1381 725,1381 782,1381 839,1381 896,1381 953,1381 1010,1380 1067,1380 1124,1380 1181,1379 1238,1379 1296,1378"/>
+                <TextEquiv>
+                    <Unicode>Standpunct v. Oettingen's musste zwar aufgegeben werden, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="142,1427 1142,1436 1303,1426 1303,1394 142,1396"/>
+                <Baseline points="150,1419 207,1419 264,1419 321,1419 379,1420 436,1420 493,1420 551,1420 608,1421 665,1421 723,1421 780,1421 837,1422 894,1422 952,1422 1009,1421 1066,1421 1124,1421 1181,1420 1238,1419 1296,1418"/>
+                <TextEquiv>
+                    <Unicode>mehr psychologische Richtung dieses Forschers konnte jedoch im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="151,1470 1307,1467 1307,1434 1195,1427 151,1427"/>
+                <Baseline points="159,1460 216,1460 273,1461 330,1461 387,1461 444,1462 501,1462 558,1462 615,1463 672,1463 729,1463 786,1463 843,1463 900,1463 957,1463 1014,1462 1071,1462 1128,1461 1185,1461 1242,1460 1300,1458"/>
+                <TextEquiv>
+                    <Unicode>Ganzen und Grossen beibehalten werden. Kritische Bemerkungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;} textStyle {offset:18; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:37; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="140,1508 1304,1516 1304,1477 1242,1468 140,1476"/>
+                <Baseline points="147,1500 204,1501 262,1501 319,1502 377,1502 434,1503 492,1503 549,1504 607,1504 664,1504 722,1504 779,1504 837,1504 894,1504 952,1504 1009,1504 1067,1504 1124,1503 1182,1503 1239,1502 1297,1502"/>
+                <TextEquiv>
+                    <Unicode>über die Theorien Helmholtz's und v. Oettingen's enthalten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="143,1555 1303,1563 1303,1523 1177,1511 711,1535 144,1508"/>
+                <Baseline points="150,1542 207,1543 264,1543 321,1544 379,1544 436,1545 493,1545 551,1545 608,1545 665,1545 723,1545 780,1545 837,1545 894,1545 952,1545 1009,1545 1066,1544 1124,1544 1181,1544 1238,1543 1296,1543"/>
+                <TextEquiv>
+                    <Unicode>hauptsächlich die §§ 9 und 10, den Versuch einer Weiterbildung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="147,1596 1305,1595 1272,1556 147,1555"/>
+                <Baseline points="154,1583 211,1584 268,1585 325,1585 382,1586 440,1586 497,1587 554,1587 611,1587 668,1587 726,1587 783,1587 840,1587 897,1587 954,1587 1012,1587 1069,1586 1126,1586 1183,1586 1240,1585 1298,1584"/>
+                <TextEquiv>
+                    <Unicode>der durch diese Kritik gewonnenen Resultate findet der Leser im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="142,1636 1296,1635 1271,1596 142,1596"/>
+                <Baseline points="150,1626 209,1626 269,1627 329,1627 389,1627 449,1628 509,1628 569,1628 629,1629 689,1629 749,1629 809,1629 869,1629 929,1629 989,1628 1049,1628 1109,1627 1169,1627 1229,1626 1289,1625"/>
+                <TextEquiv>
+                    <Unicode>darauffolgenden Paragraphen. Als ein nothwendiges Ergebniss der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="145,1675 1306,1676 1306,1643 1160,1635 145,1636"/>
+                <Baseline points="152,1666 209,1667 266,1667 323,1667 381,1668 438,1668 495,1669 553,1669 610,1669 667,1669 725,1670 782,1670 839,1670 896,1670 954,1670 1011,1670 1068,1669 1126,1669 1183,1669 1240,1668 1298,1668"/>
+                <TextEquiv>
+                    <Unicode>daselbst entwickelten Ansichten über das Wesen der Consonanz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="139,1718 1306,1714 1270,1676 140,1684"/>
+                <Baseline points="147,1708 204,1709 262,1709 319,1709 377,1709 434,1710 492,1710 549,1710 607,1711 664,1711 722,1711 780,1711 837,1712 895,1712 952,1712 1010,1711 1067,1711 1125,1711 1182,1710 1240,1710 1298,1709"/>
+                <TextEquiv>
+                    <Unicode>und der Tonverwandtschaft erschienen mir gewisse mehr oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="140,1763 1304,1762 1304,1724 1251,1715 140,1724"/>
+                <Baseline points="147,1748 204,1749 261,1750 319,1750 376,1751 434,1752 491,1752 549,1752 606,1753 664,1753 721,1753 778,1753 836,1753 893,1753 951,1753 1008,1753 1066,1752 1123,1752 1181,1752 1238,1751 1296,1751"/>
+                <TextEquiv>
+                    <Unicode>weniger durchgreifende Aenderungen in der hergebrachten Lehre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="145,1803 1283,1804 1299,1762 145,1771"/>
+                <Baseline points="153,1791 209,1792 266,1792 323,1793 380,1793 437,1793 494,1794 551,1794 608,1794 665,1795 722,1795 778,1795 835,1795 892,1795 949,1795 1006,1795 1063,1795 1120,1794 1177,1794 1234,1793 1291,1792"/>
+                <TextEquiv>
+                    <Unicode>von der Dissonanz und ihrer Auflösung, sowie von der Accord¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="145,1842 711,1846 711,1818 628,1803 145,1810"/>
+                <Baseline points="152,1830 179,1832 207,1832 234,1833 262,1834 290,1835 317,1835 345,1835 372,1836 400,1836 428,1836 455,1836 483,1836 510,1836 538,1836 566,1836 593,1836 621,1837 648,1837 676,1837 704,1838"/>
+                <TextEquiv>
+                    <Unicode>verwandtschaft und Accordfolge.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die vorliegende Schrift versucht es, den namentlich durch&#13;
+H. Helmholtz und A. v. Oettingen zur Geltung gebrachten&#13;
+Zusammenhang zwischen der neueren akustischen Forschung und&#13;
+den altbewährten musikalischen Kunstregeln in der Weise auszu¬&#13;
+beuten, dass dadurch eine psychologisch-ästhetische Grundlage für die&#13;
+Harmonielehre geschaffen würde. Im Verlaufe meiner Studien habe&#13;
+ich nämlich die Ueberzeugung gewonnen, dass das psychologisch-&#13;
+ästhetische Moment in der Behandlung der harmonischen Grund¬&#13;
+probleme bisher noch nicht so betont worden ist, als es in der&#13;
+That verdiente, zumal der hoch entwickelten physikalisch-physio¬&#13;
+logischen Theorie Helmholtz's gegenüber. Der „dualistische”&#13;
+Standpunct v. Oettingen's musste zwar aufgegeben werden, die&#13;
+mehr psychologische Richtung dieses Forschers konnte jedoch im&#13;
+Ganzen und Grossen beibehalten werden. Kritische Bemerkungen&#13;
+über die Theorien Helmholtz's und v. Oettingen's enthalten&#13;
+hauptsächlich die §§ 9 und 10, den Versuch einer Weiterbildung&#13;
+der durch diese Kritik gewonnenen Resultate findet der Leser im&#13;
+darauffolgenden Paragraphen. Als ein nothwendiges Ergebniss der&#13;
+daselbst entwickelten Ansichten über das Wesen der Consonanz&#13;
+und der Tonverwandtschaft erschienen mir gewisse mehr oder&#13;
+weniger durchgreifende Aenderungen in der hergebrachten Lehre&#13;
+von der Dissonanz und ihrer Auflösung, sowie von der Accord¬&#13;
+verwandtschaft und Accordfolge.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1626022998473_44" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
+            <Coords points="147,1846 1301,1846 1301,2017 147,2017"/>
+            <TextLine id="r1l25" custom="readingOrder {index:0;}">
+                <Coords points="228,1889 1168,1891 1304,1883 1304,1842 228,1843"/>
+                <Baseline points="235,1875 288,1876 341,1876 394,1877 447,1877 500,1878 553,1878 606,1878 659,1879 712,1879 765,1879 818,1879 871,1879 924,1879 977,1878 1030,1878 1083,1878 1136,1877 1189,1877 1242,1876 1296,1875"/>
+                <TextEquiv>
+                    <Unicode>Vor der Vollendung des Manuscriptes dieser Studie kannte ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:1;} textStyle {offset:7; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="146,1931 1239,1940 1300,1931 1300,1885 146,1891"/>
+                <Baseline points="153,1918 212,1919 272,1919 332,1919 392,1920 452,1920 512,1921 572,1921 632,1921 692,1921 752,1922 812,1922 872,1922 932,1922 992,1921 1052,1921 1112,1921 1172,1920 1232,1919 1292,1918"/>
+                <TextEquiv>
+                    <Unicode>von H. Riemann's Arbeiten blos die „Musikalische Logik”.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:2;} textStyle {offset:45; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="140,1970 1304,1972 1304,1938 1183,1931 140,1931"/>
+                <Baseline points="147,1961 204,1961 262,1962 319,1962 377,1962 434,1962 492,1962 549,1963 607,1963 664,1963 722,1963 779,1963 837,1964 894,1964 952,1964 1009,1963 1067,1963 1124,1963 1182,1963 1239,1962 1297,1961"/>
+                <TextEquiv>
+                    <Unicode>Die Bekanntschaft mit den späteren Schriften Riemann's, vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:3;}">
+                <Coords points="146,2012 1305,2009 1246,1972 146,1973"/>
+                <Baseline points="154,2004 211,2004 268,2005 325,2005 382,2005 440,2005 497,2006 554,2006 611,2006 668,2006 726,2006 783,2007 840,2007 897,2007 954,2006 1012,2006 1069,2006 1126,2005 1183,2005 1240,2004 1298,2003"/>
+                <TextEquiv>
+                    <Unicode>Allem mit seiner „Musikalischen Syntaxis” hat meine bisherigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vor der Vollendung des Manuscriptes dieser Studie kannte ich&#13;
+von H. Riemann's Arbeiten blos die „Musikalische Logik”.&#13;
+Die Bekanntschaft mit den späteren Schriften Riemann's, vor&#13;
+Allem mit seiner „Musikalischen Syntaxis” hat meine bisherigen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
