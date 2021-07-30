@@ -7,6 +7,6 @@ grand_parent: Transcriptions
 ---
 
 ## Metadata
-Author: C. F. Weitzmann
-Title: Die neua Harmoniesystem
-Year: 1861
+Author: C. F. Weitzmann  
+Title: Die neua Harmoniesystem  
+Year: 1861  

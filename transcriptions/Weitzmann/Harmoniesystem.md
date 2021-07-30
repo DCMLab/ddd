@@ -70,4 +70,3 @@ Year: 1860
         <pb-view class="transcription" src="doc1" view="page" hightlight="true"></pb-view>
     </pb-page>
 </body>
-

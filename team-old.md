@@ -1,7 +1,7 @@
 ---
 title: Team
 layout: page
-published: false
+published: true
 nav_order: 3
 
 ---
