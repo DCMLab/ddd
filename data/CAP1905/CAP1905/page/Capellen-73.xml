@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-03T13:14:49.904+01:00</Created>
-        <LastChange>2021-04-16T14:59:53.168+02:00</LastChange>
-        <TranskribusMetadata docId="621810" pageId="24565388" pageNr="73" tsid="56657379" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=CEOCAUUNMPPSORAFQLSWIIPM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RFBUJQNQTEHEOIHYRLWWHUPF" imageId="18916775"/>
+        <LastChange>2021-08-13T18:45:33.391+02:00</LastChange>
+        <TranskribusMetadata docId="747636" pageId="28294210" pageNr="73" tsid="62605942" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=GBKNUDZFWHCGBFTUOMNKWRUM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JVBUEVHUBYKJEGZCCZPZZGAF" imageId="22039139"/>
     </Metadata>
     <Page imageFilename="Capellen-73.jpg" imageWidth="721" imageHeight="1298" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196133615" caption="Regions reading order">
+            <OrderedGroup id="ro_1630498506745" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1614968415477_1703"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1614968415477_1702"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1614968406534_1692"/>
@@ -32,56 +32,56 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614968415477_1702" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="27,145 616,145 616,337 27,337"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:52; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:33; length:14;} textStyle {offset:52; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:52; length:11;}">
                 <Coords points="23,189 599,188 621,186 621,151 23,164"/>
                 <Baseline points="28,181 57,180 86,180 116,180 145,180 175,179 204,179 233,179 263,179 292,180 322,180 351,180 380,180 410,180 439,180 469,180 498,180 527,180 557,180 586,179 616,179"/>
                 <TextEquiv>
                     <Unicode>zu entscheiden, ob nicht auch im Grundbasssinne ein reines Moll</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:22; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:22; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:22; length:10;} m_tonality {offset:46; length:5;}">
                 <Coords points="27,207 619,203 603,183 27,189"/>
                 <Baseline points="32,203 61,202 90,202 119,201 148,201 177,201 206,201 235,200 264,200 293,200 323,201 352,201 381,201 410,201 439,201 468,201 497,201 526,201 555,201 584,201 614,201"/>
                 <TextEquiv>
                     <Unicode>mit einer vollständig diatonisch verlaufenden Skala möglich ist.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_tonality {offset:37; length:17;} m_tonality {offset:55; length:1;} m_tonality {offset:58; length:1;}">
                 <Coords points="22,228 606,232 615,205 22,208"/>
                 <Baseline points="27,223 56,223 85,223 114,223 143,222 172,222 201,222 231,222 260,222 289,222 318,222 347,222 376,222 405,222 435,222 464,223 493,223 522,223 551,223 580,223 610,223"/>
                 <TextEquiv>
                     <Unicode>Gewiss! Wir brauchen bloss einer der Wurzeldurtonarten C, F</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} m_tonality {offset:5; length:1;} concept_mus {offset:22; length:11;}">
                 <Coords points="28,250 611,250 611,233 566,226 28,228"/>
                 <Baseline points="33,245 61,245 90,245 118,245 147,245 176,245 204,245 233,245 262,245 290,245 319,245 348,245 376,245 405,245 434,245 462,245 491,245 520,244 548,244 577,244 606,244"/>
                 <TextEquiv>
                     <Unicode>oder G den Vorrang im A mollsinne einzuräumen und die Herr¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} m_tonality {offset:11; length:11;} m_tonality {offset:23; length:5;}">
                 <Coords points="23,271 602,273 619,253 23,255"/>
                 <Baseline points="28,266 57,266 86,266 115,266 145,266 174,266 203,266 233,266 262,266 291,266 321,266 350,266 379,266 408,266 438,266 467,266 496,266 526,266 555,266 584,266 614,266"/>
                 <TextEquiv>
                     <Unicode>schaft der Basistonart A dur entsprechend zu beschränken. Am</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} m_tonality {offset:15; length:11;} concept_mus {offset:31; length:10;} concept_mus {offset:43; length:10;}">
                 <Coords points="26,294 613,294 613,272 569,269 26,272"/>
                 <Baseline points="31,288 59,288 88,288 117,288 146,288 175,287 204,287 232,287 261,288 290,288 319,288 348,288 377,288 406,288 434,288 463,288 492,288 521,288 550,288 579,287 608,287"/>
                 <TextEquiv>
                     <Unicode>besten ist die C durtonart zur Versetzung (Projektion) nach der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_mus {offset:0; length:9;}">
                 <Coords points="23,314 612,315 596,291 23,294"/>
                 <Baseline points="28,311 58,310 88,310 119,309 149,309 180,309 210,309 241,309 271,309 302,310 332,310 363,310 393,310 424,310 454,310 485,310 515,310 546,310 576,310 607,309"/>
                 <TextEquiv>
                     <Unicode>Mollbasis geeignet. Wir erhalten dann folgendes symmetrische</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1614968412450_1700" custom="readingOrder {index:7;}">
+            <TextLine id="line_1614968412450_1700" custom="readingOrder {index:7;} concept_mus {offset:0; length:12;}">
                 <Coords points="23,337 64,342 73,337 103,336 148,344 147,316 121,317 104,312 98,316 65,316 48,321 41,315 23,316"/>
                 <Baseline points="28,330 56,332 85,331 113,331 142,330"/>
                 <TextEquiv>
@@ -104,14 +104,14 @@ Harmoniebild:</Unicode>
         </MusicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614968406534_1692" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="27,458 616,458 616,522 27,522"/>
-            <TextLine id="r1l16" custom="readingOrder {index:0;}">
+            <TextLine id="r1l16" custom="readingOrder {index:0;} concept_mus {offset:36; length:8;}">
                 <Coords points="75,492 621,490 615,468 400,471 300,455 253,470 75,468"/>
                 <Baseline points="80,486 106,486 133,486 160,486 187,486 214,486 240,486 267,486 294,486 321,486 348,486 374,486 401,486 428,486 455,486 482,486 508,486 535,487 562,487 589,488 616,488"/>
                 <TextEquiv>
                     <Unicode>Konsequent ergeben sich als normale Kadenzen dieses Typus</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:1;}">
+            <TextLine id="r1l17" custom="readingOrder {index:1;} m_tonality {offset:1; length:9;}">
                 <Coords points="33,522 123,513 152,526 176,512 217,521 345,518 345,492 329,490 211,490 200,498 33,492"/>
                 <Baseline points="38,508 63,509 88,509 113,510 138,510 163,510 189,509 214,509 239,509 264,509 289,508 314,508 340,509"/>
                 <TextEquiv>

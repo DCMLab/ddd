@@ -8,12 +8,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-03T13:14:48.287+01:00</Created>
-        <LastChange>2021-06-16T12:47:55.024+02:00</LastChange>
-        <TranskribusMetadata docId="621810" pageId="24565302" pageNr="9" tsid="59297199" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=AJLTMCNNRKZPBOCCCXXVTSDD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GEBKBIGRGMJJIDJGLVJGYUMP" imageId="18916689"/>
+        <LastChange>2021-08-11T10:47:49.029+02:00</LastChange>
+        <TranskribusMetadata docId="747636" pageId="28293991" pageNr="9" tsid="62492078" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=FKHNAODPHYPSZBSCBSPBNDHY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ULYYLWTBBNSBNOOIKCRDVGVE" imageId="22038920"/>
     </Metadata>
     <Page imageFilename="Capellen-09.jpg" imageWidth="721" imageHeight="1298" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196126990" caption="Regions reading order">
+            <OrderedGroup id="ro_1630498499052" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1614848062393_529"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1614848062392_528"/>
             </OrderedGroup>
@@ -27,21 +27,21 @@ Transkribus</Creator>
                     <Unicode>I.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l1" custom="readingOrder {index:1;} textStyle {offset:0; length:28;fontSize:0.0; kerning:0; bold:true;}">
+            <TextLine id="r1l1" custom="readingOrder {index:1;} textStyle {offset:0; length:28;fontSize:0.0; kerning:0; bold:true;} concept_mus {offset:16; length:12;}">
                 <Coords points="97,427 548,426 548,406 518,397 97,397"/>
                 <Baseline points="102,420 127,420 153,420 179,420 205,421 231,421 257,421 283,421 309,421 335,421 361,421 387,421 413,421 439,422 465,422 491,422 517,422 543,423"/>
                 <TextEquiv>
                     <Unicode>Die Zukunft der Musiktheorie</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:2;}">
+            <TextLine id="r1l2" custom="readingOrder {index:2;} concept_mus {offset:1; length:9;} concept_mus {offset:17; length:8;}">
                 <Coords points="189,465 294,457 336,466 375,466 382,459 459,466 459,436 189,436"/>
                 <Baseline points="194,453 220,453 246,454 272,454 298,454 324,454 350,454 376,454 402,455 428,455 454,456"/>
                 <TextEquiv>
                     <Unicode>(Dualismus oder „Monismus”?)</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:3;}">
+            <TextLine id="r1l3" custom="readingOrder {index:3;} concept_mus {offset:28; length:6;}">
                 <Coords points="139,499 510,498 518,474 140,469"/>
                 <Baseline points="144,487 170,486 196,486 222,486 249,487 275,487 301,487 328,488 354,488 380,488 406,489 433,489 459,489 485,490 512,490"/>
                 <TextEquiv>
@@ -57,14 +57,14 @@ und ihre Einwirkung auf die Praxis.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1614848062392_528" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
             <Coords points="27,496 622,496 625,1140 30,1140"/>
-            <TextLine id="r1l4" custom="readingOrder {index:0;}">
+            <TextLine id="r1l4" custom="readingOrder {index:0;} concept_mus {offset:12; length:12;}">
                 <Coords points="71,532 617,535 617,508 603,507 71,506"/>
                 <Baseline points="76,525 102,525 129,525 156,525 183,526 210,526 236,526 263,526 290,526 317,527 344,527 370,527 397,527 424,527 451,527 478,528 504,528 531,528 558,528 585,527 612,527"/>
                 <TextEquiv>
                     <Unicode>Die übliche Musiktheorie ist bei einem grossen Teil der heutigen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:1;}">
+            <TextLine id="r1l5" custom="readingOrder {index:1;} concept_mus {offset:0; length:9;}">
                 <Coords points="35,553 620,554 620,533 35,525"/>
                 <Baseline points="40,546 68,547 97,547 126,547 155,547 183,548 212,548 241,548 270,548 298,549 327,549 356,549 385,549 413,549 442,549 471,549 500,549 528,550 557,550 586,550 615,550"/>
                 <TextEquiv>
@@ -78,7 +78,7 @@ und ihre Einwirkung auf die Praxis.</Unicode>
                     <Unicode>als je dem denkenden Menschen genügt und in meilenweitem Ab¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:3;} textStyle {offset:52; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l7" custom="readingOrder {index:3;} concept_mus {offset:17; length:6;} textStyle {offset:52; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="37,598 613,603 613,580 581,575 37,574"/>
                 <Baseline points="42,590 70,591 98,591 126,591 155,591 183,591 211,591 240,591 268,591 296,591 325,592 353,592 381,592 409,592 438,592 466,592 494,592 523,593 551,593 579,593 608,593"/>
                 <TextEquiv>
@@ -113,21 +113,21 @@ und ihre Einwirkung auf die Praxis.</Unicode>
                     <Unicode>als allgemeingültig halten können, diesem Mangel ist ein Teil der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+            <TextLine id="r1l12" custom="readingOrder {index:8;} person_author {offset:52; length:11;ID:P0004;}">
                 <Coords points="38,704 613,708 613,684 586,681 38,687"/>
                 <Baseline points="43,699 71,699 99,699 127,699 156,699 184,699 212,699 240,699 269,699 297,699 325,699 353,699 382,699 410,699 438,699 466,699 495,699 523,699 551,699 579,699 608,699"/>
                 <TextEquiv>
                     <Unicode>jetzigen Anarchie in der Kunstlehre zuzuschreiben” (A. J. Polak</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+            <TextLine id="r1l13" custom="readingOrder {index:9;} work_text {offset:0; length:11;ID:W0003;} time {offset:12; length:4;} time {offset:44; length:17;}">
                 <Coords points="37,724 616,726 616,707 586,703 37,703"/>
                 <Baseline points="42,720 70,720 98,720 127,721 155,721 184,721 212,721 241,721 269,721 298,721 326,721 354,721 383,721 411,721 440,721 468,721 497,721 525,721 554,721 582,720 611,720"/>
                 <TextEquiv>
                     <Unicode>Tonrhythmik 1902 S. 13). „Kann überhaupt in unserem Zeitalter</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+            <TextLine id="r1l14" custom="readingOrder {index:10;} concept_mus {offset:18; length:14;} concept_mus {offset:37; length:13;}">
                 <Coords points="37,745 619,747 619,725 37,726"/>
                 <Baseline points="42,741 70,741 99,741 127,741 156,741 185,742 213,742 242,742 270,742 299,742 328,742 356,742 385,742 413,742 442,742 471,742 499,742 528,742 556,742 585,742 614,742"/>
                 <TextEquiv>
@@ -148,14 +148,14 @@ und ihre Einwirkung auf die Praxis.</Unicode>
                     <Unicode>lich nicht, soweit es sich um die landläufigen engherzigen und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+            <TextLine id="r1l17" custom="readingOrder {index:13;} concept_mus {offset:52; length:9;}">
                 <Coords points="34,814 615,810 615,789 34,788"/>
                 <Baseline points="39,806 67,806 96,806 124,807 153,807 181,807 210,807 238,807 267,807 295,807 324,807 353,807 381,807 410,807 438,807 467,806 495,806 524,806 552,806 581,806 610,806"/>
                 <TextEquiv>
                     <Unicode>kasuistischen Systeme handelt, die insbesondere der Chromatik rat¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:14;}">
+            <TextLine id="r1l18" custom="readingOrder {index:14;} m_chord {offset:43; length:14;}">
                 <Coords points="28,834 568,839 619,833 619,812 28,813"/>
                 <Baseline points="33,829 62,829 91,828 120,828 149,828 178,828 207,828 236,828 265,828 294,828 323,828 352,828 381,828 410,828 439,829 468,829 497,829 526,829 555,829 584,829 614,829"/>
                 <TextEquiv>
@@ -183,49 +183,49 @@ und ihre Einwirkung auf die Praxis.</Unicode>
                     <Unicode>dagegen mit einer liberalen, von leitenden Gesichtspunkten aus¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:18;}">
+            <TextLine id="r1l22" custom="readingOrder {index:18;} concept_mus {offset:37; length:6;}">
                 <Coords points="41,918 621,920 621,900 602,897 41,898"/>
                 <Baseline points="46,914 74,914 103,914 131,914 160,914 188,915 217,915 245,915 274,914 302,914 331,914 359,914 388,914 416,914 445,914 473,914 502,914 530,914 559,914 587,914 616,914"/>
                 <TextEquiv>
                     <Unicode>gehenden, folgerichtigen und mit der Praxis Fühlung haltenden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:19;}">
+            <TextLine id="r1l23" custom="readingOrder {index:19;} concept_mus {offset:0; length:12;} person_author {offset:34; length:12;ID:P0017;}">
                 <Coords points="39,943 621,941 605,919 39,920"/>
                 <Baseline points="44,936 72,936 101,936 129,936 158,936 187,937 215,937 244,937 272,937 301,936 330,936 358,936 387,936 415,936 444,936 473,936 501,936 530,936 558,936 587,936 616,936"/>
                 <TextEquiv>
                     <Unicode>Musiktheorie; denn dann gilt, was Hugo Riemann sehr richtig in</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:20;}">
+            <TextLine id="r1l24" custom="readingOrder {index:20;} work_text {offset:7; length:25;ID:W0070;} time {offset:34; length:4;}">
                 <Coords points="34,961 572,967 618,962 618,940 34,942"/>
                 <Baseline points="39,957 67,957 96,957 125,957 153,957 182,957 211,957 239,957 268,957 297,957 326,957 354,957 383,957 412,957 440,957 469,957 498,957 526,957 555,957 584,957 613,956"/>
                 <TextEquiv>
                     <Unicode>seiner Grossen Kompositionslehre (1902) Band I Einleitung und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:21;}">
+            <TextLine id="r1l25" custom="readingOrder {index:21;} concept_mus {offset:47; length:13;}">
                 <Coords points="32,984 612,986 602,961 32,961"/>
                 <Baseline points="37,978 65,979 94,979 122,979 151,979 179,979 208,979 236,979 265,979 293,979 322,979 350,979 379,979 407,979 436,979 464,979 493,979 521,979 550,979 578,978 607,978"/>
                 <TextEquiv>
                     <Unicode>S. 245 bemerkt: „Jeder neue Fortschritt in der theoretischen Er¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:22;}">
+            <TextLine id="r1l26" custom="readingOrder {index:22;} concept_mus {offset:27; length:11;}">
                 <Coords points="30,1007 620,1005 620,986 513,981 30,984"/>
                 <Baseline points="35,1000 64,1000 93,1000 122,1001 151,1001 180,1001 209,1001 238,1001 267,1001 296,1000 325,1000 354,1000 383,1000 412,1000 441,999 470,999 499,999 528,999 557,999 586,999 615,999"/>
                 <TextEquiv>
                     <Unicode>kenntnis ist geeignet, dem Komponisten mit wenigen Worten etwas</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:23;}">
+            <TextLine id="r1l27" custom="readingOrder {index:23;} concept_mus {offset:45; length:14; continued:true;}">
                 <Coords points="41,1026 627,1026 626,1003 40,1011"/>
                 <Baseline points="45,1022 73,1022 102,1022 131,1022 160,1022 189,1022 217,1022 246,1022 275,1022 304,1022 333,1022 361,1022 390,1022 419,1021 448,1021 477,1021 505,1021 534,1021 563,1021 592,1021 621,1021"/>
                 <TextEquiv>
                     <Unicode>zu sagen, das er anders nur auf dem Wege des vergleichenden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1614848101783_576" custom="readingOrder {index:24;} textStyle {offset:13; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:54; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="line_1614848101783_576" custom="readingOrder {index:24;} concept_mus {offset:0; length:6; continued:true;} textStyle {offset:13; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:34; length:11;} textStyle {offset:54; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="32,1048 619,1044 619,1029 537,1026 32,1027"/>
                 <Baseline points="37,1043 64,1043 91,1044 118,1044 145,1044 172,1044 199,1044 226,1044 253,1044 280,1044 308,1044 335,1044 362,1043 389,1043 416,1043 443,1043 470,1043 497,1043 524,1043 551,1043 579,1043 591,1043 614,1041"/>
                 <TextEquiv>
@@ -239,7 +239,7 @@ und ihre Einwirkung auf die Praxis.</Unicode>
                     <Unicode>heblichem Zeitaufwande zu finden vermöchte . . . . Der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1614848116578_598" custom="readingOrder {index:26;}">
+            <TextLine id="line_1614848116578_598" custom="readingOrder {index:26;} concept_mus {offset:11; length:7;}">
                 <Coords points="33,1096 596,1095 619,1090 619,1070 33,1071"/>
                 <Baseline points="38,1087 64,1087 91,1087 118,1086 145,1086 172,1086 199,1086 225,1086 252,1086 279,1086 306,1086 333,1086 360,1086 387,1086 413,1086 440,1086 467,1086 494,1086 521,1086 548,1086 575,1086 593,1086 614,1085"/>
                 <TextEquiv>

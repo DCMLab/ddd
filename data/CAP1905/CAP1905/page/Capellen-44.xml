@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-03T13:14:49.288+01:00</Created>
-        <LastChange>2021-04-12T17:12:38.803+02:00</LastChange>
-        <TranskribusMetadata docId="621810" pageId="24565352" pageNr="44" tsid="56216173" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=OWHPXZYVEVEARWLLHQHYQDMJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TRYLFGSAQQWNLUJIAHQZBDHS" imageId="18916739"/>
+        <LastChange>2021-08-13T10:28:29.303+02:00</LastChange>
+        <TranskribusMetadata docId="747636" pageId="28294104" pageNr="44" tsid="62587101" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=JNATNWOENHOKWJFRFRAWWJKE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BIWCQSEKBQYLQVDEHTUQWWNW" imageId="22039033"/>
     </Metadata>
     <Page imageFilename="Capellen-44.jpg" imageWidth="721" imageHeight="1298" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196130729" caption="Regions reading order">
+            <OrderedGroup id="ro_1630498503949" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1614861002868_5994"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1614861002868_5993"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1614860996632_5973"/>
@@ -40,35 +40,35 @@ Transkribus</Creator>
                     <Unicode>Art verschieden aufgefasst werden müssten, während doch der Art¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:44; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_chord {offset:27; length:9;} textStyle {offset:44; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="103,212 689,213 689,197 648,190 103,194"/>
                 <Baseline points="108,208 136,208 165,207 194,207 223,207 252,207 280,207 309,207 338,207 367,208 396,208 424,208 453,208 482,208 511,209 540,209 568,209 597,209 626,209 655,209 684,209"/>
                 <TextEquiv>
                     <Unicode>unterschied (gründend beim Durakkord in der Einheit, beim</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:18; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_chord {offset:0; length:10;} textStyle {offset:18; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:31; length:7;}">
                 <Coords points="100,234 687,234 687,212 100,212"/>
                 <Baseline points="105,229 133,229 162,228 191,228 220,228 249,228 278,229 306,229 335,229 364,229 393,229 422,229 451,229 480,229 508,229 537,229 566,229 595,229 624,229 653,229 682,229"/>
                 <TextEquiv>
                     <Unicode>Mollakkord in der Zweiheit des Klanges) unverkennbar und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} person_author {offset:44; length:7;ID:P0017;} concept_mus {offset:56; length:5; continued:true;}">
                 <Coords points="105,257 690,257 690,235 651,230 105,234"/>
                 <Baseline points="110,251 138,251 167,251 196,251 225,251 253,251 282,251 311,251 340,251 368,251 397,251 426,251 455,251 483,251 512,251 541,251 570,251 598,251 627,251 656,250 685,250"/>
                 <TextEquiv>
                     <Unicode>niemals bezweifelt worden ist. Wenn nämlich Riemann dem Moll¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:0; length:6; continued:true;}">
                 <Coords points="107,280 681,283 675,255 107,255"/>
                 <Baseline points="112,272 140,272 168,272 196,271 224,271 253,271 281,271 309,272 337,272 365,272 394,272 422,272 450,272 478,272 506,272 535,272 563,272 591,272 619,272 647,272 676,272"/>
                 <TextEquiv>
                     <Unicode>klange ganz dieselbe Einfachheit und Ursprünglichkeit zuspricht wie</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1614861000604_5985" custom="readingOrder {index:5;}">
+            <TextLine id="line_1614861000604_5985" custom="readingOrder {index:5;} concept_mus {offset:4; length:9;} concept_mus {offset:26; length:6;}">
                 <Coords points="103,304 420,302 420,281 383,275 346,283 103,278"/>
                 <Baseline points="108,293 133,293 159,294 184,294 210,294 235,294 261,294 287,294 312,293 338,294 363,294 389,294 415,294"/>
                 <TextEquiv>
@@ -89,42 +89,42 @@ dem Durklange, gemäss der Reihen:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614860996632_5973" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="103,364 690,364 690,558 103,558"/>
-            <TextLine id="line_1614861112634_6074" custom="readingOrder {index:0;}">
+            <TextLine id="line_1614861112634_6074" custom="readingOrder {index:0;} concept_phy {offset:48; length:3;}">
                 <Coords points="99,383 690,383 690,367 652,357 248,366 99,349"/>
                 <Baseline points="104,378 130,379 156,379 182,379 208,379 234,379 260,379 286,379 312,379 338,379 364,380 390,380 416,380 426,379 451,379 477,379 503,379 529,379 555,379 581,379 607,379 633,379 659,379 685,379"/>
                 <TextEquiv>
                     <Unicode>so ist wahrhaftig nicht einzusehen, weshalb das Ohr nicht ebenso</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1614861117765_6082" custom="readingOrder {index:1;} textStyle {offset:46; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="line_1614861117765_6082" custom="readingOrder {index:1;} concept_phy {offset:8; length:4;} textStyle {offset:46; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="106,405 658,411 693,406 693,386 106,388"/>
                 <Baseline points="111,400 137,401 164,401 191,401 217,402 244,402 271,401 298,401 324,401 351,401 378,401 405,402 434,402 459,402 484,402 510,401 535,401 561,401 586,401 611,402 637,402 662,402 688,401"/>
                 <TextEquiv>
                     <Unicode>wie das Auge den Eindruck der gegensätzlichen Gleichheit</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:2;}">
+            <TextLine id="r1l20" custom="readingOrder {index:2;} concept_mus {offset:7; length:6;} person_author {offset:36; length:7;ID:P0017;}">
                 <Coords points="106,426 691,427 682,406 106,408"/>
                 <Baseline points="111,421 139,422 168,422 197,422 226,423 254,423 283,423 312,423 341,423 369,423 398,423 427,423 456,423 484,423 513,423 542,423 571,423 599,424 628,424 657,424 686,424"/>
                 <TextEquiv>
                     <Unicode>beider Klänge hat. Dazu kommt, dass Riemann zu der versuchten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:3;}">
+            <TextLine id="r1l21" custom="readingOrder {index:3;} m_tonality {offset:42; length:15;}">
                 <Coords points="98,448 688,452 688,430 646,427 98,428"/>
                 <Baseline points="103,444 132,444 161,444 190,444 219,444 248,444 277,444 306,444 335,444 364,444 393,444 422,444 451,444 480,444 509,444 538,444 567,444 596,444 625,444 654,444 683,445"/>
                 <TextEquiv>
                     <Unicode>Begründung des Charakterunterschiedes der Tongeschlechter so lange</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:4;}">
+            <TextLine id="r1l22" custom="readingOrder {index:4;} concept_mus {offset:36; length:9;} m_tonality {offset:54; length:13;}">
                 <Coords points="104,470 646,475 692,470 692,452 104,453"/>
                 <Baseline points="109,466 137,466 166,466 195,466 224,466 253,466 282,466 311,466 340,466 369,466 398,466 426,466 455,466 484,466 513,466 542,466 571,466 600,466 629,466 658,466 687,466"/>
                 <TextEquiv>
                     <Unicode>kein Recht hat, als er auch für den Mollklang und die Molltonalität</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:5;}">
+            <TextLine id="r1l23" custom="readingOrder {index:5;} concept_mus {offset:14; length:8;} concept_mus {offset:29; length:16;}">
                 <Coords points="106,493 691,492 691,472 666,470 106,472"/>
                 <Baseline points="111,486 139,486 168,487 197,487 226,487 254,488 283,488 312,488 341,488 369,488 398,488 427,488 456,488 484,488 513,488 542,488 571,488 599,488 628,488 657,488 686,488"/>
                 <TextEquiv>
@@ -138,14 +138,14 @@ dem Durklange, gemäss der Reihen:</Unicode>
                     <Unicode>ist; denn was nützen alle schönen Erklärungen, wenn die rauhe</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:7;}">
+            <TextLine id="r1l25" custom="readingOrder {index:7;} concept_mus {offset:30; length:16;} m_note {offset:60; length:5;}">
                 <Coords points="106,540 692,538 692,518 637,510 519,524 106,514"/>
                 <Baseline points="111,530 139,530 168,530 197,530 226,530 255,530 283,530 312,531 341,531 370,531 399,531 427,531 456,531 485,531 514,531 543,531 571,531 600,531 629,531 658,531 687,531"/>
                 <TextEquiv>
                     <Unicode>Wirklichkeit unerbittlich die Grundtonqualität des tiefsten Tones</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1614860986082_5969" custom="readingOrder {index:8;}">
+            <TextLine id="line_1614860986082_5969" custom="readingOrder {index:8;} concept_mus {offset:8; length:10;}">
                 <Coords points="105,561 119,568 147,555 202,556 209,563 230,556 334,562 356,557 356,535 105,539"/>
                 <Baseline points="110,551 136,552 163,552 190,552 217,552 243,551 270,551 297,551 324,551 351,551"/>
                 <TextEquiv>
@@ -166,77 +166,77 @@ auch im Mollklange fordert?</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1614860986047_5965" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
             <Coords points="103,558 690,558 690,1145 103,1145"/>
-            <TextLine id="line_1614860986083_5970" custom="readingOrder {index:0;}">
+            <TextLine id="line_1614860986083_5970" custom="readingOrder {index:0;} person_author {offset:0; length:7;ID:P0017;} work_text {offset:28; length:14;ID:W0009;}">
                 <Coords points="142,582 679,582 686,556 142,557"/>
                 <Baseline points="147,573 173,573 200,574 227,574 253,574 280,574 307,574 333,574 360,574 387,574 414,574 440,574 467,574 494,574 520,573 547,573 574,573 600,574 627,574 654,574 681,574"/>
                 <TextEquiv>
                     <Unicode>Riemann irrt auch, wenn er (Problemschrift S. 24) meint,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:1;}">
+            <TextLine id="r1l28" custom="readingOrder {index:1;} concept_mus {offset:0; length:9;} concept_phy {offset:0; length:9;}">
                 <Coords points="98,600 686,600 686,580 657,578 98,577"/>
                 <Baseline points="103,596 131,596 160,595 189,595 218,595 247,595 276,596 305,596 334,596 363,596 392,596 420,596 449,596 478,596 507,596 536,596 565,596 594,596 623,595 652,595 681,595"/>
                 <TextEquiv>
                     <Unicode>Konsonanz könne nichts anderes sein als Verbindung zu einer</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1614861127336_6102" custom="readingOrder {index:2;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="line_1614861127336_6102" custom="readingOrder {index:2;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:52; length:7; continued:true;ID:P0018;}">
                 <Coords points="101,621 615,626 691,618 691,603 101,605"/>
                 <Baseline points="106,616 131,617 157,617 183,617 209,616 235,616 261,616 287,616 313,616 339,616 365,617 393,616 419,616 446,616 472,616 499,616 526,616 552,616 579,616 606,616 632,616 659,616 686,615"/>
                 <TextEquiv>
                     <Unicode>einheitlichen Vorstellung, — in Übereinstimmung mit v. Oet¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:3;}">
+            <TextLine id="r1l31" custom="readingOrder {index:3;} person_author {offset:0; length:6; continued:true;ID:P0018;} concept_mus {offset:16; length:9;} concept_phy {offset:16; length:9;} concept_mus {offset:51; length:12;}">
                 <Coords points="102,644 685,646 685,620 102,621"/>
                 <Baseline points="107,639 135,639 164,638 192,638 221,638 250,638 278,638 307,638 336,638 364,638 393,638 422,638 450,638 479,638 508,638 536,638 565,638 594,638 622,638 651,638 680,638"/>
                 <TextEquiv>
                     <Unicode>tingen, welcher Dissonanz als gleichbedeutend mit (harmonischem)</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:4;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l32" custom="readingOrder {index:4;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:11;} m_chord {offset:35; length:12;} m_chord {offset:52; length:4; continued:true;}">
                 <Coords points="107,666 691,664 691,646 657,642 107,644"/>
                 <Baseline points="112,661 140,661 169,660 198,660 226,660 255,660 284,659 312,659 341,659 370,659 399,659 427,659 456,659 485,659 513,659 542,659 571,659 599,659 628,659 657,658 686,658"/>
                 <TextEquiv>
                     <Unicode>Doppelklang erklärt. Sind doch der Durseptimen- und Dur¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:5;}">
+            <TextLine id="r1l33" custom="readingOrder {index:5;} m_chord {offset:0; length:11; continued:true;} concept_mus {offset:34; length:9;} concept_phy {offset:34; length:9;} concept_mus {offset:58; length:7; continued:true;}">
                 <Coords points="109,687 691,681 663,663 109,668"/>
                 <Baseline points="114,682 142,681 171,681 199,681 228,681 257,681 285,681 314,681 342,681 371,681 400,681 428,682 457,682 485,682 514,682 543,682 571,682 600,682 628,681 657,681 686,681"/>
                 <TextEquiv>
                     <Unicode>nonenakkord, die bisher stets als dissonant galten, keine Doppel¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:6;} textStyle {offset:16; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l34" custom="readingOrder {index:6;} concept_mus {offset:0; length:6; continued:true;} textStyle {offset:16; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:25; length:7;}">
                 <Coords points="106,708 690,707 668,685 106,687"/>
                 <Baseline points="111,704 139,704 168,704 197,703 225,703 254,703 283,703 311,703 340,703 369,703 398,703 426,703 455,703 484,703 512,703 541,703 570,702 598,702 627,702 656,702 685,701"/>
                 <TextEquiv>
                     <Unicode>klänge, sondern einfache Akkorde, als Nachahmungen der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:7;}">
+            <TextLine id="r1l35" custom="readingOrder {index:7;} concept_phy {offset:0; length:23;}">
                 <Coords points="110,729 690,729 690,710 669,708 110,710"/>
                 <Baseline points="115,724 143,724 172,724 200,724 229,724 257,724 286,724 314,724 343,724 371,724 400,724 428,724 457,724 485,724 514,724 542,724 571,724 599,724 628,724 656,723 685,723"/>
                 <TextEquiv>
                     <Unicode>Schwingungsverhältnisse von 1—7 bezw. 9! Anderseits ist der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:8;}">
+            <TextLine id="r1l36" custom="readingOrder {index:8;} concept_mus {offset:0; length:9;} m_chord {offset:10; length:9;} concept_mus {offset:29; length:11;}">
                 <Coords points="102,751 690,750 690,734 649,727 102,729"/>
                 <Baseline points="107,746 135,746 164,746 193,747 222,747 251,747 280,747 309,747 338,747 367,746 396,746 424,746 453,746 482,746 511,746 540,746 569,746 598,746 627,746 656,745 685,745"/>
                 <TextEquiv>
                     <Unicode>Mollklang A C e (g) zwar ein Doppelklang, aber dennoch entschieden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:9;}">
+            <TextLine id="r1l37" custom="readingOrder {index:9;} concept_mus {offset:0; length:9;} concept_phy {offset:0; length:9;}">
                 <Coords points="106,777 596,779 678,772 691,753 106,757"/>
                 <Baseline points="111,769 139,769 168,769 197,768 226,768 254,768 283,768 312,768 341,768 369,768 398,768 427,768 456,768 484,768 513,767 542,767 571,767 599,767 628,767 657,766 686,766"/>
                 <TextEquiv>
                     <Unicode>konsonant. Man kommt also mit dem Begriff der Einheitlich¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:10;}">
+            <TextLine id="r1l38" custom="readingOrder {index:10;} concept_mus {offset:47; length:9;} concept_phy {offset:47; length:9;}">
                 <Coords points="103,795 695,800 686,769 103,773"/>
                 <Baseline points="108,789 137,789 166,789 195,789 224,789 253,789 282,789 311,789 340,789 369,789 399,789 428,789 457,789 486,789 515,789 544,789 573,789 602,789 631,789 660,789 690,789"/>
                 <TextEquiv>
@@ -250,105 +250,105 @@ auch im Mollklange fordert?</Unicode>
                     <Unicode>für alle Fälle passt, daher stets unbedingt zuverlässig ist:</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l40" custom="readingOrder {index:12;} textStyle {offset:0; length:16;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l40" custom="readingOrder {index:12;} textStyle {offset:0; length:16;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:16;} m_chord {offset:23; length:7;} concept_mus {offset:35; length:14;} concept_mus {offset:50; length:8; continued:true;}">
                 <Coords points="100,837 686,835 648,813 100,815"/>
                 <Baseline points="105,832 133,832 162,832 191,832 220,832 249,832 277,832 306,832 335,832 364,832 393,832 421,832 450,832 479,832 508,832 537,832 565,832 594,831 623,831 652,831 681,831"/>
                 <TextEquiv>
                     <Unicode>Schlussfähigkeit. Dass Akkorde mit Kondissonanzen schluss¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l41" custom="readingOrder {index:13;}">
+            <TextLine id="r1l41" custom="readingOrder {index:13;} concept_mus {offset:0; length:5; continued:true;} m_chord {offset:57; length:5; continued:true;}">
                 <Coords points="100,860 691,856 675,836 100,839"/>
                 <Baseline points="105,855 134,855 163,854 192,854 221,854 250,854 279,854 308,854 337,854 366,854 395,854 424,854 453,854 482,854 511,854 540,854 569,854 598,854 627,853 656,853 686,853"/>
                 <TextEquiv>
                     <Unicode>fähig sind, haben wir bereits erkannt, insbesondere beim Moll¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l42" custom="readingOrder {index:14;} textStyle {offset:42; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l42" custom="readingOrder {index:14;} m_chord {offset:0; length:14; continued:true;} m_chord {offset:15; length:7;} textStyle {offset:42; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:42; length:12; continued:true;}">
                 <Coords points="104,881 690,877 672,858 104,861"/>
                 <Baseline points="109,876 137,876 166,876 195,876 224,876 253,876 281,876 310,876 339,876 368,876 397,876 425,876 454,876 483,876 512,876 541,876 569,876 598,875 627,875 656,875 685,875"/>
                 <TextEquiv>
                     <Unicode>septimenakkord A C e g. Aber ist denn der Durseptimen¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l43" custom="readingOrder {index:15;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l43" custom="readingOrder {index:15;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:0; length:6; continued:true;} m_chord {offset:7; length:9;} concept_mus {offset:27; length:12;} concept_mus {offset:46; length:9;} concept_phy {offset:46; length:9;} m_note {offset:61; length:1;}">
                 <Coords points="103,904 695,906 677,880 103,885"/>
                 <Baseline points="108,897 137,897 166,897 195,897 224,897 253,897 282,897 311,897 340,897 369,897 399,897 428,897 457,897 486,896 515,896 544,897 573,897 602,897 631,897 660,897 690,897"/>
                 <TextEquiv>
                     <Unicode>akkord A cis e g ebenfalls schlussfähig, also konsonant? Das g</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l44" custom="readingOrder {index:16;}">
+            <TextLine id="r1l44" custom="readingOrder {index:16;} concept_phy {offset:0; length:11;} m_note {offset:38; length:3;} m_chord {offset:50; length:13; continued:true;}">
                 <Coords points="100,924 691,921 691,907 633,900 100,905"/>
                 <Baseline points="105,919 134,919 163,919 192,919 221,919 250,919 279,919 308,919 337,919 366,919 395,919 424,919 453,919 482,919 511,919 540,919 569,919 598,919 627,918 656,918 686,918"/>
                 <TextEquiv>
                     <Unicode>verschmilzt hier nicht so gut mit dem cis, wie im Mollseptimen¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l45" custom="readingOrder {index:17;}">
+            <TextLine id="r1l45" custom="readingOrder {index:17;} m_chord {offset:0; length:7; continued:true;} m_note {offset:16; length:1;} m_chord {offset:37; length:17;}">
                 <Coords points="99,945 597,951 686,946 686,923 99,927"/>
                 <Baseline points="104,940 132,940 161,940 190,940 219,940 248,940 277,940 305,940 334,940 363,940 392,940 421,940 450,940 479,940 507,940 536,940 565,940 594,939 623,939 652,939 681,939"/>
                 <TextEquiv>
                     <Unicode>akkorde mit dem c; folglich kann der Durseptimenakkord nicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l46" custom="readingOrder {index:18;}">
+            <TextLine id="r1l46" custom="readingOrder {index:18;} concept_mus {offset:13; length:13;} concept_phy {offset:13; length:13;}">
                 <Coords points="106,967 695,967 679,944 106,945"/>
                 <Baseline points="111,962 141,962 171,962 202,962 232,962 263,962 293,962 324,962 354,962 385,962 415,962 446,962 476,961 507,961 537,961 568,961 598,961 629,961 659,961 690,961"/>
                 <TextEquiv>
                     <Unicode>den gleichen Konsonanzwert beanspruchen. Ausserdem wird die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l47" custom="readingOrder {index:19;} textStyle {offset:56; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l47" custom="readingOrder {index:19;} m_chord {offset:32; length:17;} textStyle {offset:56; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:56; length:6;}">
                 <Coords points="106,988 691,990 682,965 106,967"/>
                 <Baseline points="111,984 139,984 168,984 197,984 226,984 254,984 283,984 312,984 341,984 369,984 398,984 427,984 456,984 484,984 513,983 542,983 571,983 599,983 628,983 657,982 686,982"/>
                 <TextEquiv>
                     <Unicode>Empfindung des Abschlusses beim Durseptimenakkord durch tonale</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l48" custom="readingOrder {index:20;}">
+            <TextLine id="r1l48" custom="readingOrder {index:20;} m_tonality {offset:48; length:3;} m_tonality {offset:56; length:4;}">
                 <Coords points="105,1009 691,1010 691,990 670,986 105,989"/>
                 <Baseline points="110,1005 138,1005 167,1004 196,1004 225,1004 254,1004 282,1004 311,1004 340,1005 369,1005 398,1005 426,1005 455,1005 484,1005 513,1005 542,1004 570,1004 599,1004 628,1004 657,1004 686,1004"/>
                 <TextEquiv>
                     <Unicode>Gründe beeinträchtigt. Letzterer hat nämlich in Dur und Moll die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l49" custom="readingOrder {index:21;}">
+            <TextLine id="r1l49" custom="readingOrder {index:21;} concept_mus {offset:0; length:8;} concept_mus {offset:13; length:9;} concept_mus {offset:28; length:13;}">
                 <Coords points="101,1034 691,1030 691,1013 662,1009 101,1010"/>
                 <Baseline points="106,1027 135,1027 164,1026 193,1026 222,1026 251,1026 280,1026 309,1026 338,1027 367,1027 396,1027 425,1027 454,1027 483,1027 512,1027 541,1027 570,1026 599,1026 628,1026 657,1026 686,1026"/>
                 <TextEquiv>
                     <Unicode>Funktion der Dominante, des Rechtsklanges, und das Ohr ist ge¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l50" custom="readingOrder {index:22;}">
+            <TextLine id="r1l50" custom="readingOrder {index:22;} concept_mus {offset:14; length:11;} concept_mus {offset:30; length:13;} concept_mus {offset:49; length:6;}">
                 <Coords points="101,1056 667,1054 689,1052 689,1031 101,1036"/>
                 <Baseline points="106,1049 134,1049 163,1048 192,1048 221,1048 250,1048 279,1048 308,1048 337,1049 366,1049 395,1049 423,1049 452,1049 481,1049 510,1049 539,1048 568,1048 597,1048 626,1047 655,1047 684,1046"/>
                 <TextEquiv>
                     <Unicode>wöhnt, diesen Rechtsklang zum Zentralklange, zur Tonika fort¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l51" custom="readingOrder {index:23;}">
+            <TextLine id="r1l51" custom="readingOrder {index:23;} concept_mus {offset:51; length:16;}">
                 <Coords points="102,1076 653,1079 687,1074 687,1051 102,1056"/>
                 <Baseline points="107,1070 135,1070 164,1070 193,1070 222,1069 250,1069 279,1069 308,1069 337,1069 365,1069 394,1069 423,1069 452,1069 480,1069 509,1069 538,1069 567,1069 595,1069 624,1069 653,1068 682,1068"/>
                 <TextEquiv>
                     <Unicode>schreiten zu hören. Dass tatsächlich die mangelnde Schlussfähigkeit</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l52" custom="readingOrder {index:24;}">
+            <TextLine id="r1l52" custom="readingOrder {index:24;} concept_mus {offset:1; length:9;} concept_phy {offset:1; length:9;} m_chord {offset:16; length:19;} concept_mus {offset:50; length:7;}">
                 <Coords points="111,1098 691,1093 691,1075 667,1073 111,1075"/>
                 <Baseline points="116,1092 144,1092 173,1091 201,1091 230,1091 258,1091 287,1091 315,1091 344,1091 372,1092 401,1092 429,1092 458,1092 486,1092 515,1091 543,1091 572,1091 600,1091 629,1090 657,1090 686,1090"/>
                 <TextEquiv>
                     <Unicode>(Dissonanz) des Durseptimenakkordes vor allem auf tonaler Gewohn¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l53" custom="readingOrder {index:25;} textStyle {offset:42; length:18;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l53" custom="readingOrder {index:25;} textStyle {offset:42; length:18;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:42; length:18;}">
                 <Coords points="101,1119 686,1115 686,1099 642,1094 101,1098"/>
                 <Baseline points="106,1113 134,1113 163,1112 192,1112 221,1112 249,1112 278,1112 307,1112 336,1113 364,1113 393,1113 422,1113 451,1113 479,1113 508,1113 537,1113 566,1113 594,1113 623,1112 652,1112 681,1112"/>
                 <TextEquiv>
                     <Unicode>heit beruht, beweist überzeugend der sog. phrygische Schluss,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l54" custom="readingOrder {index:26;} textStyle {offset:17; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l54" custom="readingOrder {index:26;} concept_mus {offset:17; length:13;} textStyle {offset:17; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:34; length:12;}">
                 <Coords points="100,1150 689,1146 689,1119 660,1115 100,1119"/>
                 <Baseline points="105,1134 135,1134 165,1135 196,1135 226,1135 257,1135 287,1135 318,1135 348,1134 379,1134 409,1134 440,1134 470,1134 501,1134 531,1134 562,1134 592,1134 623,1134 653,1134 684,1134"/>
                 <TextEquiv>
