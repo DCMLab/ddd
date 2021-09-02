@@ -8,12 +8,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-06-03T11:59:17.820+02:00</Created>
-        <LastChange>2021-06-05T14:49:12.870+02:00</LastChange>
-        <TranskribusMetadata docId="690742" pageId="26189609" pageNr="32" tsid="58680509" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=YOYUDHDILUNWPGTMAHNRIATP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GNBIMIXWBDLVMOQYKCVHBBNG" imageId="20124408"/>
+        <LastChange>2021-08-20T17:04:32.827+02:00</LastChange>
+        <TranskribusMetadata docId="738835" pageId="28121536" pageNr="32" tsid="63067134" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=EWGKJIRLWLHBKJLOBLGFVIJE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GXTQKEYOCWURRTRZMIMGKGUS" imageId="21904906"/>
     </Metadata>
     <Page imageFilename="Riemann_Problem_split-0032.jpg" imageWidth="1656" imageHeight="2550" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624195580935" caption="Regions reading order">
+            <OrderedGroup id="ro_1630574062847" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1622745751817_3723"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1622745771272_3732"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1622745771272_3731"/>
@@ -34,7 +34,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1622745771272_3732" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="272,442 1232,442 1232,878 1129,883 283,917 272,917"/>
-            <TextLine id="r1l3" custom="readingOrder {index:0;} textStyle {offset:0; length:38;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l3" custom="readingOrder {index:0;} textStyle {offset:0; length:38;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:4; length:6;} m_note {offset:27; length:3;}">
                 <Coords points="265,528 1223,496 1210,446 650,483 264,472"/>
                 <Baseline points="272,510 319,509 366,507 413,505 460,504 508,502 555,501 602,499 649,498 696,496 744,495 791,494 838,493 885,492 932,491 980,491 1027,490 1074,490 1121,491 1168,491 1216,492"/>
                 <TextEquiv>
@@ -48,7 +48,7 @@ Transkribus</Creator>
                     <Unicode>werden muss von welchem aus die andern</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:2;} textStyle {offset:0; length:42;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l5" custom="readingOrder {index:2;} textStyle {offset:0; length:42;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:12; length:10;} m_interval {offset:24; length:4;} m_interval {offset:30; length:6;}">
                 <Coords points="270,598 966,572 1224,592 1222,538 269,563"/>
                 <Baseline points="276,591 323,589 370,586 417,584 464,583 511,581 558,580 605,578 652,577 699,575 746,574 793,573 840,572 887,571 934,571 981,570 1028,570 1075,570 1122,570 1169,570 1217,570"/>
                 <TextEquiv>
@@ -62,7 +62,7 @@ Transkribus</Creator>
                     <Unicode>bestimmt werden, und dass doch die Behauptung,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:4;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:21; length:18;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l7" custom="readingOrder {index:4;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:5; length:8;} m_interval {offset:15; length:4;} textStyle {offset:21; length:18;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:25; length:8;}">
                 <Coords points="269,681 854,645 1225,661 1224,625 999,613 268,640"/>
                 <Baseline points="275,667 322,666 369,665 416,664 463,663 510,661 557,660 605,659 652,657 699,656 746,655 793,653 840,652 887,651 935,650 982,650 1029,649 1076,649 1123,649 1170,649 1218,650"/>
                 <TextEquiv>
@@ -83,7 +83,7 @@ Transkribus</Creator>
                     <Unicode>weisen wäre. Doch damit werden sich die Gegner des</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+            <TextLine id="r1l10" custom="readingOrder {index:7;} concept_mus {offset:0; length:9;}">
                 <Coords points="274,796 1230,777 1209,733 273,752"/>
                 <Baseline points="280,786 327,785 374,783 421,782 468,780 515,779 562,778 610,776 657,775 704,774 751,773 798,772 845,771 892,770 940,769 987,768 1034,768 1081,767 1128,767 1175,767 1223,767"/>
                 <TextEquiv>
@@ -127,28 +127,28 @@ behoben werden.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1622745771272_3731" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
             <Coords points="272,917 283,917 1129,883 1232,878 1232,2144 272,2144"/>
-            <TextLine id="line_1622745771347_3737" custom="readingOrder {index:0;} textStyle {offset:0; length:20;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="line_1622745771347_3737" custom="readingOrder {index:0;} textStyle {offset:0; length:20;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:12; length:8;}">
                 <Coords points="363,949 826,949 866,923 977,948 1200,939 1224,900 362,912"/>
                 <Baseline points="369,941 411,940 453,939 496,938 538,937 581,936 623,935 665,934 708,934 750,933 793,932 835,932 877,931 920,930 962,930 1005,929 1047,928 1089,928 1132,927 1174,926 1217,925"/>
                 <TextEquiv>
                     <Unicode>Was ist ein Grundton? Nach gewöhnlicher</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:1;}">
+            <TextLine id="r1l15" custom="readingOrder {index:1;} concept_mus {offset:17; length:14;}">
                 <Coords points="276,991 1231,972 1230,937 1130,934 275,949"/>
                 <Baseline points="282,982 329,981 376,980 423,979 470,978 517,977 564,977 612,976 659,975 706,974 753,973 800,973 847,972 894,971 942,970 989,969 1036,969 1083,968 1130,967 1177,966 1225,965"/>
                 <TextEquiv>
                     <Unicode>Terminologie der Harmoniebücher ganz allgemein der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:2;} textStyle {offset:17; length:26;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l16" custom="readingOrder {index:2;} m_note {offset:0; length:3;} textStyle {offset:17; length:26;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:17; length:12;} concept_mus {offset:30; length:13; continued:true;}">
                 <Coords points="273,1030 1143,1024 1227,1009 1227,984 273,992"/>
                 <Baseline points="280,1022 327,1021 374,1020 421,1018 468,1017 515,1017 562,1016 609,1015 656,1014 703,1014 750,1013 797,1012 844,1012 891,1011 938,1010 985,1010 1032,1009 1079,1008 1126,1007 1173,1006 1220,1005"/>
                 <TextEquiv>
                     <Unicode>Ton, welcher bei terzenweiser Übereinander¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:3;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:30; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l17" custom="readingOrder {index:3;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:8; continued:true;} m_note {offset:13; length:4;} m_chord {offset:22; length:7;} textStyle {offset:30; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="270,1070 1231,1052 1190,1014 269,1035"/>
                 <Baseline points="276,1062 323,1061 370,1060 418,1060 465,1059 513,1058 560,1057 608,1056 655,1055 703,1054 750,1054 797,1052 845,1052 892,1051 940,1050 987,1049 1035,1048 1082,1047 1130,1046 1177,1046 1225,1045"/>
                 <TextEquiv>
@@ -162,21 +162,21 @@ behoben werden.</Unicode>
                     <Unicode>Vielleicht ist es nicht überflüssig, vorzumerken, dass</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:5;}">
+            <TextLine id="r1l19" custom="readingOrder {index:5;} concept_mus {offset:6; length:7;} m_chord {offset:33; length:12;}">
                 <Coords points="272,1147 1234,1141 1233,1103 1149,1090 272,1108"/>
                 <Baseline points="279,1140 326,1139 373,1139 421,1138 468,1138 516,1137 563,1136 610,1136 658,1135 705,1134 753,1133 800,1132 847,1131 895,1131 942,1130 990,1129 1037,1128 1084,1127 1132,1127 1179,1126 1227,1125"/>
                 <TextEquiv>
                     <Unicode>diese Theorie der Auffindung der Grundakkorde durch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1622745809539_3780" custom="readingOrder {index:6;}">
+            <TextLine id="line_1622745809539_3780" custom="readingOrder {index:6;} m_interval {offset:15; length:11;} concept_mus {offset:27; length:13;} m_note {offset:45; length:4;}">
                 <Coords points="269,1196 1196,1180 1235,1174 1235,1141 268,1152"/>
                 <Baseline points="275,1181 322,1180 370,1179 417,1178 465,1177 513,1177 560,1176 608,1175 656,1174 703,1173 751,1172 799,1172 846,1171 894,1170 942,1169 989,1169 1037,1168 1085,1167 1132,1167 1180,1166 1228,1166 1157,1149 1173,1147"/>
                 <TextEquiv>
                     <Unicode>Sortierung und terzenweise Aufschichtung der Töne</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:7;}">
+            <TextLine id="r1l22" custom="readingOrder {index:7;} concept_mus {offset:23; length:11;} person_author {offset:35; length:13;ID:P0005;}">
                 <Coords points="277,1228 1236,1213 1235,1180 1118,1170 277,1196"/>
                 <Baseline points="284,1218 331,1218 378,1218 425,1218 473,1218 520,1217 567,1216 614,1216 662,1215 709,1214 756,1213 803,1212 851,1211 898,1210 945,1210 992,1209 1040,1208 1087,1208 1134,1207 1181,1207 1229,1207"/>
                 <TextEquiv>
@@ -197,7 +197,7 @@ behoben werden.</Unicode>
                     <Unicode>seiner plumpen Einfachheit sofort begriffene und all¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:10;}">
+            <TextLine id="r1l25" custom="readingOrder {index:10;} concept_mus {offset:29; length:14;}">
                 <Coords points="272,1356 1237,1337 1221,1290 271,1313"/>
                 <Baseline points="278,1334 325,1335 373,1335 420,1335 468,1335 516,1335 563,1335 611,1334 658,1334 706,1333 754,1333 801,1332 849,1331 896,1330 944,1329 992,1329 1039,1328 1087,1327 1134,1327 1182,1326 1230,1326"/>
                 <TextEquiv>
@@ -211,105 +211,105 @@ behoben werden.</Unicode>
                     <Unicode>zuerst durchlöchert hat, z. B. durch Aufstellung des</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:12;}">
+            <TextLine id="r1l27" custom="readingOrder {index:12;} m_chord {offset:0; length:7;} m_interval {offset:12; length:19;} m_chord {offset:33; length:15; continued:true;}">
                 <Coords points="271,1427 1228,1417 1227,1378 1174,1372 1135,1395 1094,1373 271,1388"/>
                 <Baseline points="277,1416 324,1416 371,1415 418,1415 465,1414 513,1413 560,1413 607,1412 654,1412 701,1412 749,1411 796,1411 843,1410 890,1410 937,1409 985,1409 1032,1408 1079,1408 1126,1407 1173,1407 1221,1406"/>
                 <TextEquiv>
                     <Unicode>Akkords der hinzugefügten Sexte (Accord de sixte</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:13;}">
+            <TextLine id="r1l28" custom="readingOrder {index:13;} m_chord {offset:0; length:7; continued:true;} m_chord {offset:22; length:19;} m_interval {offset:46; length:5;}">
                 <Coords points="270,1462 1237,1460 1236,1418 1147,1411 269,1426"/>
                 <Baseline points="276,1456 323,1456 371,1455 419,1455 466,1454 514,1454 562,1453 609,1452 657,1452 705,1451 753,1451 800,1450 848,1449 896,1449 943,1448 991,1448 1039,1447 1086,1447 1134,1446 1182,1446 1230,1446"/>
                 <TextEquiv>
                     <Unicode>ajoutée), nämlich des Subdominantakkordes mit Sexte</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:14;}">
+            <TextLine id="r1l29" custom="readingOrder {index:14;} m_chord {offset:1; length:7;} m_tonality {offset:12; length:5;} m_note {offset:27; length:8;} person_author {offset:41; length:6;ID:P0005;}">
                 <Coords points="278,1512 1139,1504 1229,1494 1229,1465 278,1466"/>
                 <Baseline points="284,1496 333,1495 382,1494 432,1494 481,1493 531,1492 580,1492 629,1491 679,1491 728,1491 778,1490 827,1490 877,1490 926,1489 975,1489 1025,1489 1074,1488 1124,1488 1173,1488 1223,1487"/>
                 <TextEquiv>
                     <Unicode>(f a c d in C dur), dessen Grundton nach Rameau (wenn</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:15;}">
+            <TextLine id="r1l30" custom="readingOrder {index:15;} m_note {offset:50; length:1;}">
                 <Coords points="274,1545 1159,1541 1235,1531 1235,1498 274,1515"/>
                 <Baseline points="280,1536 327,1535 374,1534 422,1534 469,1533 517,1533 564,1532 612,1532 659,1531 707,1531 754,1530 801,1530 849,1529 896,1529 944,1529 991,1528 1039,1528 1086,1527 1134,1527 1181,1527 1229,1526"/>
                 <TextEquiv>
                     <Unicode>auch nicht immer, so doch in vielen Fällen) nicht d</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:16;}">
+            <TextLine id="r1l31" custom="readingOrder {index:16;} m_chord {offset:5; length:7;} m_note {offset:32; length:1;} person_author {offset:44; length:6;ID:P0005;}">
                 <Coords points="274,1589 1238,1578 1238,1530 274,1545"/>
                 <Baseline points="280,1577 327,1575 375,1574 422,1574 470,1573 518,1572 565,1572 613,1571 660,1571 708,1570 756,1570 803,1570 851,1569 898,1569 946,1569 994,1569 1041,1568 1089,1568 1136,1568 1184,1567 1232,1567"/>
                 <TextEquiv>
                     <Unicode>ist (d f a c), sondern vielmehr f. Derselbe Rameau hat</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:17;}">
+            <TextLine id="r1l32" custom="readingOrder {index:17;} work_text {offset:28; length:27; continued:true;ID:W0015;}">
                 <Coords points="272,1623 1234,1611 1202,1574 1008,1569 272,1587"/>
                 <Baseline points="279,1615 326,1614 373,1613 421,1613 468,1612 516,1612 563,1611 610,1611 658,1611 705,1610 753,1610 800,1610 847,1610 895,1609 942,1609 990,1609 1037,1608 1084,1608 1132,1607 1179,1606 1227,1605"/>
                 <TextEquiv>
                     <Unicode>aber auch bereits in seiner Erstlingsschrift (Traité de</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:18;}">
+            <TextLine id="r1l33" custom="readingOrder {index:18;} work_text {offset:0; length:16; continued:true;ID:W0015;} time {offset:11; length:4;} concept_mus {offset:43; length:6;}">
                 <Coords points="272,1662 1230,1661 1230,1615 272,1623"/>
                 <Baseline points="279,1654 326,1654 373,1654 420,1653 467,1653 515,1653 562,1652 609,1652 656,1652 703,1651 751,1651 798,1650 845,1650 892,1649 939,1649 987,1649 1034,1648 1081,1648 1128,1648 1175,1647 1223,1647"/>
                 <TextEquiv>
                     <Unicode>l'harmonie 1722), in der er noch strenger „Monist” à la</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:19;}">
+            <TextLine id="r1l34" custom="readingOrder {index:19;} person_author {offset:0; length:8;ID:P0006;} person_author {offset:36; length:12;ID:P0010;} concept_mus {offset:49; length:4; continued:true;}">
                 <Coords points="274,1698 1189,1701 1229,1667 273,1662"/>
                 <Baseline points="280,1694 327,1694 374,1694 421,1694 468,1693 515,1693 562,1693 609,1692 656,1692 703,1691 751,1691 798,1691 845,1690 892,1690 939,1689 986,1688 1033,1688 1080,1687 1127,1687 1174,1686 1222,1686"/>
                 <TextEquiv>
                     <Unicode>Capellen und fanatischer Gegner des Zarlinoschen Dua¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:20;}">
+            <TextLine id="r1l35" custom="readingOrder {index:20;} concept_mus {offset:0; length:6; continued:true;} m_chord {offset:33; length:7;} m_tonality {offset:44; length:6;}">
                 <Coords points="279,1740 1151,1745 1230,1730 1230,1703 279,1704"/>
                 <Baseline points="285,1733 334,1733 383,1733 433,1733 482,1732 532,1732 581,1732 630,1732 680,1731 729,1731 779,1731 828,1730 878,1730 927,1729 976,1729 1026,1728 1075,1728 1125,1727 1174,1726 1224,1726"/>
                 <TextEquiv>
-                    <Unicode>lismus ist, sogar entdeckt, dass h d f a in Amoll eigent¬</Unicode>
+                    <Unicode>lismus ist, sogar entdeckt, dass h d f a in A moll eigent¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:21;}">
+            <TextLine id="r1l36" custom="readingOrder {index:21;} m_chord {offset:9; length:13;}">
                 <Coords points="273,1781 1236,1785 1224,1730 349,1762 272,1741"/>
                 <Baseline points="279,1773 326,1773 374,1773 421,1772 469,1772 516,1772 564,1771 611,1771 659,1771 706,1770 754,1770 801,1770 849,1769 896,1769 944,1769 991,1768 1039,1768 1086,1768 1134,1767 1181,1767 1229,1767"/>
                 <TextEquiv>
                     <Unicode>lich ein D moll-Akkord mit einer daruntergestellten (!)</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:22;}">
+            <TextLine id="r1l37" custom="readingOrder {index:22;} m_interval {offset:0; length:4;}">
                 <Coords points="272,1820 1237,1818 1236,1784 1191,1774 272,1780"/>
                 <Baseline points="279,1811 326,1811 374,1812 421,1812 469,1812 516,1812 564,1812 611,1811 659,1811 706,1811 754,1811 802,1810 849,1810 897,1810 944,1809 992,1809 1039,1809 1087,1808 1134,1808 1182,1807 1230,1807"/>
                 <TextEquiv>
                     <Unicode>Terz ist; er begnügt sich also nicht einmal, auch für</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:23;}">
+            <TextLine id="r1l38" custom="readingOrder {index:23;} m_interval {offset:16; length:13;}">
                 <Coords points="276,1859 1234,1854 1213,1814 787,1840 729,1815 276,1823"/>
                 <Baseline points="283,1851 330,1852 377,1852 424,1853 471,1853 519,1853 566,1853 613,1853 660,1852 707,1852 755,1852 802,1851 849,1851 896,1850 943,1850 991,1849 1038,1849 1085,1848 1132,1848 1179,1847 1227,1847"/>
                 <TextEquiv>
                     <Unicode>diesen Fall die Sixte ajoutée anzunehmen, die ja auch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l39" custom="readingOrder {index:24;}">
+            <TextLine id="r1l39" custom="readingOrder {index:24;} m_chord {offset:4; length:14;} m_note {offset:27; length:8;}">
                 <Coords points="274,1900 1232,1902 1232,1865 1182,1855 796,1857 770,1881 274,1863"/>
                 <Baseline points="281,1891 328,1892 375,1892 422,1893 469,1893 517,1893 564,1893 611,1893 658,1892 705,1892 753,1892 800,1891 847,1891 894,1890 941,1890 989,1889 1036,1889 1083,1888 1130,1888 1177,1888 1225,1888"/>
                 <TextEquiv>
                     <Unicode>dem D moll-Akkorde seinen „Grundton” gelassen hätte,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l40" custom="readingOrder {index:25;} textStyle {offset:36; length:13;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l40" custom="readingOrder {index:25;} m_interval {offset:31; length:4;} textStyle {offset:36; length:13;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="278,1946 1184,1938 1228,1932 1228,1899 278,1907"/>
                 <Baseline points="285,1932 331,1932 378,1932 425,1932 472,1932 519,1932 565,1932 612,1932 659,1932 706,1932 753,1931 799,1931 846,1931 893,1930 940,1930 987,1929 1033,1929 1080,1928 1127,1928 1174,1927 1221,1926"/>
                 <TextEquiv>
                     <Unicode>sondern erfindet gar noch eine Terz unter dem als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l41" custom="readingOrder {index:26;} textStyle {offset:0; length:34;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l41" custom="readingOrder {index:26;} textStyle {offset:0; length:34;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:25; length:9;}">
                 <Coords points="272,1981 1170,1982 1235,1971 1235,1931 272,1949"/>
                 <Baseline points="279,1973 326,1973 373,1973 421,1973 468,1973 516,1973 563,1972 611,1972 658,1972 706,1972 753,1971 800,1971 848,1970 895,1970 943,1970 990,1969 1038,1969 1085,1968 1133,1967 1180,1967 1228,1966"/>
                 <TextEquiv>
@@ -323,21 +323,21 @@ behoben werden.</Unicode>
                     <Unicode>genug der historischen Seitenblicke; wer sich für die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l43" custom="readingOrder {index:28;}">
+            <TextLine id="r1l43" custom="readingOrder {index:28;} concept_mus {offset:15; length:22;}">
                 <Coords points="277,2062 1228,2046 1166,2007 277,2026"/>
                 <Baseline points="284,2052 330,2052 377,2052 424,2052 471,2053 518,2053 565,2052 612,2052 659,2052 706,2052 753,2051 799,2051 846,2050 893,2050 940,2049 987,2048 1034,2048 1081,2047 1128,2046 1175,2045 1222,2045"/>
                 <TextEquiv>
                     <Unicode>Geschichte des harmonischen Dualismus und die Ent¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l44" custom="readingOrder {index:29;} textStyle {offset:13; length:28;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l44" custom="readingOrder {index:29;} textStyle {offset:13; length:28;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:27; length:14;}">
                 <Coords points="278,2099 1214,2103 1224,2056 278,2067"/>
                 <Baseline points="284,2093 330,2093 377,2093 423,2093 470,2093 517,2093 563,2092 610,2092 657,2092 703,2091 750,2091 797,2090 843,2090 890,2090 937,2089 983,2088 1030,2088 1077,2087 1123,2087 1170,2086 1217,2086"/>
                 <TextEquiv>
                     <Unicode>wicklung der Lehre von der Klangbedeutung</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l45" custom="readingOrder {index:30;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l45" custom="readingOrder {index:30;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:4; length:7;}">
                 <Coords points="274,2140 1233,2139 1233,2109 1174,2092 274,2100"/>
                 <Baseline points="281,2133 328,2133 375,2134 422,2134 470,2134 517,2134 564,2133 612,2133 659,2132 706,2132 754,2131 801,2131 848,2130 895,2129 943,2129 990,2128 1037,2127 1085,2127 1132,2126 1179,2126 1227,2125"/>
                 <TextEquiv>
@@ -365,7 +365,7 @@ ist (d f a c), sondern vielmehr f. Derselbe Rameau hat&#13;
 aber auch bereits in seiner Erstlingsschrift (Traité de&#13;
 l'harmonie 1722), in der er noch strenger „Monist” à la&#13;
 Capellen und fanatischer Gegner des Zarlinoschen Dua¬&#13;
-lismus ist, sogar entdeckt, dass h d f a in Amoll eigent¬&#13;
+lismus ist, sogar entdeckt, dass h d f a in A moll eigent¬&#13;
 lich ein D moll-Akkord mit einer daruntergestellten (!)&#13;
 Terz ist; er begnügt sich also nicht einmal, auch für&#13;
 diesen Fall die Sixte ajoutée anzunehmen, die ja auch&#13;

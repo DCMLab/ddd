@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:31.399+01:00</Created>
-        <LastChange>2021-07-15T00:08:25.579+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902544" pageNr="70" tsid="61449048" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=JPOPJECUZWOWGDCNXARXOJKE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MNXILCMTLBCZPHENXFZNWXVO" imageId="17865839"/>
+        <LastChange>2021-08-25T14:11:19.394+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28701839" pageNr="70" tsid="63421961" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=PPTIQQZMJCMWXRXOEAXPFSAY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KSEYKPOEBRPBYGACUYLNKXRW" imageId="22424921"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0070.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454112111" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573578350" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626174289824_1873"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626174289823_1872"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1626174284587_1864"/>
@@ -34,11 +34,11 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626174289823_1872" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="112,132 1276,132 1276,237 112,237"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_phy {offset:36; length:5;}">
                 <Coords points="119,191 1279,183 1249,148 119,158"/>
                 <Baseline points="126,183 183,183 240,183 297,183 355,182 412,182 469,182 527,182 584,182 641,182 699,182 756,182 813,182 870,182 928,182 985,182 1042,182 1100,182 1157,182 1214,182 1272,183"/>
                 <TextEquiv>
-                    <Unicode>zeichnet.*) Es mag die betreffende Reihe hier nochmals Platz</Unicode>
+                    <Unicode>zeichnet. *) Es mag die betreffende Reihe hier nochmals Platz</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l3" custom="readingOrder {index:1;}">
@@ -49,7 +49,7 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>zeichnet.*) Es mag die betreffende Reihe hier nochmals Platz
+                <Unicode>zeichnet. *) Es mag die betreffende Reihe hier nochmals Platz&#13;
 finden:</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -58,14 +58,14 @@ finden:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1626174284587_1864" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
             <Coords points="112,444 1276,444 1276,877 112,877"/>
-            <TextLine id="r1l21" custom="readingOrder {index:0;}">
+            <TextLine id="r1l21" custom="readingOrder {index:0;} concept_phy {offset:9; length:11;}">
                 <Coords points="197,484 1274,488 1274,453 1198,442 197,444"/>
                 <Baseline points="205,474 258,475 311,475 364,476 417,476 470,476 523,476 576,476 629,476 682,476 735,476 788,476 841,476 894,476 947,476 1000,476 1053,476 1106,476 1159,477 1212,477 1266,478"/>
                 <TextEquiv>
                     <Unicode>Wenn die Klangfarben, die von Einfluss auf die Entwickelung</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:1;}">
+            <TextLine id="r1l22" custom="readingOrder {index:1;} concept_phy {offset:4; length:6;}">
                 <Coords points="110,531 1270,532 1270,491 1224,483 110,492"/>
                 <Baseline points="117,519 174,519 231,519 288,519 346,519 403,519 460,519 517,519 575,519 632,519 689,519 746,519 804,519 861,519 918,519 975,519 1033,520 1090,520 1147,520 1204,519 1262,519"/>
                 <TextEquiv>
@@ -79,7 +79,7 @@ finden:</Unicode>
                     <Unicode>diese Verschiedenheiten im Ganzen genommen doch dahin aus, dass</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:3;}">
+            <TextLine id="r1l24" custom="readingOrder {index:3;} concept_phy {offset:33; length:11;}">
                 <Coords points="119,610 1270,603 1247,570 119,580"/>
                 <Baseline points="126,604 182,603 239,603 296,603 353,603 410,603 466,603 523,603 580,603 637,603 694,604 750,604 807,604 864,604 921,604 978,604 1034,604 1091,603 1148,603 1205,603 1262,603"/>
                 <TextEquiv>
@@ -100,14 +100,14 @@ finden:</Unicode>
                     <Unicode>dieser Erscheinung ist es nun, dass sich an den häufiger vorkom¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:6;}">
+            <TextLine id="r1l28" custom="readingOrder {index:6;} concept_phy {offset:21; length:12;} concept_mus {offset:61; length:4; continued:true;}">
                 <Coords points="111,739 1265,730 1222,699 111,707"/>
                 <Baseline points="119,731 178,731 238,731 298,731 358,731 418,731 478,731 538,731 598,731 658,731 718,731 778,731 838,731 898,731 958,731 1018,730 1078,730 1138,730 1198,730 1258,729"/>
                 <TextEquiv>
                     <Unicode>nenden und stärkeren Partialtönen, also an den tieferen, die Ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:7;}">
+            <TextLine id="r1l29" custom="readingOrder {index:7;} concept_mus {offset:0; length:11; continued:true;}">
                 <Coords points="113,782 1272,780 1272,746 1221,739 113,746"/>
                 <Baseline points="121,773 178,773 235,773 292,773 349,773 406,773 463,773 521,773 578,774 635,774 692,774 749,774 806,774 863,773 921,773 978,773 1035,773 1092,773 1149,773 1206,773 1264,772"/>
                 <TextEquiv>
@@ -135,28 +135,28 @@ auch ein grösseres Gewicht erlangt hat, als an den höheren, die</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1626174278784_1860" custom="readingOrder {index:4;} structure {type:footnote;}">
             <Coords points="112,877 1276,877 1276,1072 112,1072"/>
-            <TextLine id="r1l31" custom="readingOrder {index:0;}">
+            <TextLine id="r1l31" custom="readingOrder {index:0;} concept_phy {offset:41; length:9;}">
                 <Coords points="202,933 1261,945 1261,903 1188,899 202,899"/>
                 <Baseline points="209,923 261,925 313,926 365,927 418,927 470,928 522,928 574,928 627,928 679,928 731,928 783,928 836,927 888,927 940,927 992,927 1045,927 1097,927 1149,928 1201,928 1254,929"/>
                 <TextEquiv>
                     <Unicode>*) Durch das Heranziehen der subjectiven Untertöne zur Erklärung</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:1;}">
+            <TextLine id="r1l32" custom="readingOrder {index:1;} concept_mus {offset:4; length:9;} concept_phy {offset:4; length:9;} concept_mus {offset:18; length:14;} concept_mus {offset:61; length:12; continued:true;}">
                 <Coords points="115,967 1256,972 1213,933 115,931"/>
                 <Baseline points="122,959 178,960 234,960 291,960 347,961 403,961 460,961 516,961 572,961 629,961 685,961 741,961 798,961 854,961 910,961 967,961 1023,961 1079,961 1136,961 1192,962 1249,962"/>
                 <TextEquiv>
                     <Unicode>der Consonanz und Verwandtschaft wäre offenbar bezüglich der Intervallen¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:2;}">
+            <TextLine id="r1l33" custom="readingOrder {index:2;} concept_mus {offset:0; length:5; continued:true;} concept_phy {offset:62; length:9;}">
                 <Coords points="108,1003 1269,1002 1269,971 1140,966 108,964"/>
                 <Baseline points="115,995 172,995 229,995 287,995 344,995 401,995 459,995 516,995 573,995 631,995 688,995 745,995 803,995 860,996 917,996 975,996 1032,996 1089,996 1147,995 1204,995 1262,995"/>
                 <TextEquiv>
                     <Unicode>lehre gar nichts gewonnen, da ja die Abstände der subjectiven Untertöne</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:3;}">
+            <TextLine id="r1l34" custom="readingOrder {index:3;} concept_phy {offset:46; length:8;}">
                 <Coords points="115,1033 1269,1036 1269,1004 1200,1000 115,1003"/>
                 <Baseline points="122,1029 179,1029 236,1029 293,1029 350,1029 407,1029 464,1029 521,1029 578,1029 635,1029 692,1029 749,1029 806,1030 863,1030 920,1030 977,1030 1034,1030 1091,1030 1148,1030 1205,1029 1262,1029"/>
                 <TextEquiv>
@@ -167,15 +167,15 @@ auch ein grösseres Gewicht erlangt hat, als an den höheren, die</Unicode>
                 <Coords points="118,1074 223,1074 233,1084 257,1083 258,1043 202,1042 172,1035 143,1043 136,1036 119,1033"/>
                 <Baseline points="125,1062 150,1063 175,1064 200,1064 225,1063 251,1064"/>
                 <TextEquiv>
-                    <Unicode>Ordnung</Unicode>
+                    <Unicode>Ordnung:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>*) Durch das Heranziehen der subjectiven Untertöne zur Erklärung
-der Consonanz und Verwandtschaft wäre offenbar bezüglich der Intervallen¬
-lehre gar nichts gewonnen, da ja die Abstände der subjectiven Untertöne
-genau dieselben sind, wie jene der objectiven Obertöne, nur in umgekehrter
-Ordnung</Unicode>
+                <Unicode>*) Durch das Heranziehen der subjectiven Untertöne zur Erklärung&#13;
+der Consonanz und Verwandtschaft wäre offenbar bezüglich der Intervallen¬&#13;
+lehre gar nichts gewonnen, da ja die Abstände der subjectiven Untertöne&#13;
+genau dieselben sind, wie jene der objectiven Obertöne, nur in umgekehrter&#13;
+Ordnung:</Unicode>
             </TextEquiv>
         </TextRegion>
         <GraphicRegion id="Graphic_1626174338282_1888" custom="readingOrder {index:5;} structure {type:floating;}">
@@ -183,56 +183,56 @@ Ordnung</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1626174268815_1852" custom="readingOrder {index:6;} structure {type:footnote;}">
             <Coords points="112,1249 1276,1249 1276,1590 112,1590"/>
-            <TextLine id="r1l54" custom="readingOrder {index:0;}">
+            <TextLine id="r1l54" custom="readingOrder {index:0;} textStyle {offset:9; length:37;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:39; length:7;}">
                 <Coords points="204,1268 1268,1283 1268,1246 204,1243"/>
                 <Baseline points="211,1265 263,1267 316,1268 368,1269 421,1270 473,1271 526,1271 578,1272 631,1272 683,1272 736,1272 788,1272 841,1272 893,1272 946,1271 998,1271 1051,1271 1103,1271 1156,1271 1208,1272 1261,1272"/>
                 <TextEquiv>
-                    <Unicode>* Auch innerhalb Eines und desselben Klanges kommen</Unicode>
+                    <Unicode>**) Auch innerhalb Eines und desselben Klanges kommen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l55" custom="readingOrder {index:1;}">
+            <TextLine id="r1l55" custom="readingOrder {index:1;} concept_mus {offset:4; length:13;} concept_phy {offset:4; length:13;} m_interval {offset:18; length:10;} concept_mus {offset:58; length:11;} concept_phy {offset:58; length:11;}">
                 <Coords points="118,1312 1259,1314 1239,1277 118,1276"/>
                 <Baseline points="125,1304 181,1303 237,1303 293,1303 350,1303 406,1303 462,1304 519,1304 575,1304 631,1304 688,1305 744,1305 800,1305 856,1305 913,1305 969,1305 1025,1305 1082,1305 1138,1305 1194,1305 1251,1304"/>
                 <TextEquiv>
                     <Unicode>die consonanteren Intervalle häufiger vor, als die minder consonanten. So</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l56" custom="readingOrder {index:2;}">
+            <TextLine id="r1l56" custom="readingOrder {index:2;} concept_phy {offset:10; length:10;} m_interval {offset:32; length:6;} concept_phy {offset:46; length:12;} m_interval {offset:65; length:6;}">
                 <Coords points="113,1343 1177,1356 1271,1353 1272,1321 114,1310"/>
                 <Baseline points="121,1337 178,1337 235,1337 292,1337 349,1337 406,1337 463,1337 521,1338 578,1338 635,1338 692,1338 749,1338 806,1339 863,1339 921,1339 978,1339 1035,1339 1092,1339 1149,1339 1206,1338 1264,1338"/>
                 <TextEquiv>
                     <Unicode>hat jeder Partialton auch seine Octave, jeder geradzahlige seine Quinte,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l57" custom="readingOrder {index:3;}">
+            <TextLine id="r1l57" custom="readingOrder {index:3;} concept_phy {offset:14; length:12;} m_interval {offset:55; length:6;}">
                 <Coords points="115,1378 1271,1379 1206,1343 116,1343"/>
                 <Baseline points="122,1371 179,1370 236,1370 293,1370 350,1369 407,1369 464,1369 521,1370 578,1370 635,1370 693,1370 750,1371 807,1371 864,1371 921,1371 978,1372 1035,1372 1092,1372 1149,1372 1206,1372 1264,1372"/>
                 <TextEquiv>
                     <Unicode>jeder, dessen Ordnungszahl durch 3 theilbar ist, seine Quarte u. s. f. im</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l58" custom="readingOrder {index:4;}">
+            <TextLine id="r1l58" custom="readingOrder {index:4;} concept_mus {offset:0; length:6;}">
                 <Coords points="108,1411 1118,1419 1263,1410 1263,1379 108,1384"/>
                 <Baseline points="115,1402 172,1402 229,1402 286,1402 343,1402 400,1403 457,1403 514,1403 571,1403 628,1404 685,1404 742,1404 799,1404 856,1404 913,1404 970,1404 1027,1404 1084,1404 1141,1404 1198,1404 1256,1403"/>
                 <TextEquiv>
                     <Unicode>Klange selbst. Von etwas anderen Gesichtspuncten ausgehend, nämlich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l59" custom="readingOrder {index:5;}">
+            <TextLine id="r1l59" custom="readingOrder {index:5;} m_interval {offset:42; length:10;}">
                 <Coords points="120,1441 1261,1444 1261,1409 120,1412"/>
                 <Baseline points="128,1435 184,1435 240,1435 296,1435 353,1435 409,1436 465,1436 522,1436 578,1436 634,1436 691,1437 747,1437 803,1437 859,1437 916,1437 972,1437 1028,1437 1085,1437 1141,1437 1197,1437 1254,1437"/>
                 <TextEquiv>
                     <Unicode>von dem Einflusse der Häufigkeit gewisser Intervalle auf die Empfind¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l60" custom="readingOrder {index:6;}">
+            <TextLine id="r1l60" custom="readingOrder {index:6;} concept_mus {offset:28; length:8;} textStyle {offset:57; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:57; length:6;ID:P0109;} work_text {offset:65; length:5; continued:true;ID:W0146;}">
                 <Coords points="115,1476 1265,1476 1224,1442 115,1443"/>
                 <Baseline points="122,1467 178,1467 235,1468 292,1468 349,1468 405,1468 462,1468 519,1469 576,1469 632,1469 689,1470 746,1470 803,1470 859,1471 916,1471 973,1471 1030,1471 1086,1471 1143,1471 1200,1470 1257,1470"/>
                 <TextEquiv>
-                    <Unicode>lichkeit des Gehörs für die Reinheit derselben, gelangte Prever (Ueber</Unicode>
+                    <Unicode>lichkeit des Gehörs für die Reinheit derselben, gelangte Preyer (Ueber</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l61" custom="readingOrder {index:7;}">
+            <TextLine id="r1l61" custom="readingOrder {index:7;} work_text {offset:0; length:30; continued:true;ID:W0146;}">
                 <Coords points="114,1514 1261,1515 1234,1477 1083,1470 114,1475"/>
                 <Baseline points="121,1502 177,1501 234,1501 290,1502 347,1502 404,1502 460,1502 517,1502 574,1503 630,1503 687,1503 744,1503 800,1504 857,1504 914,1504 970,1504 1027,1504 1084,1504 1140,1503 1197,1503 1254,1502"/>
                 <TextEquiv>
@@ -254,15 +254,15 @@ Ordnung</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>* Auch innerhalb Eines und desselben Klanges kommen
-die consonanteren Intervalle häufiger vor, als die minder consonanten. So
-hat jeder Partialton auch seine Octave, jeder geradzahlige seine Quinte,
-jeder, dessen Ordnungszahl durch 3 theilbar ist, seine Quarte u. s. f. im
-Klange selbst. Von etwas anderen Gesichtspuncten ausgehend, nämlich
-von dem Einflusse der Häufigkeit gewisser Intervalle auf die Empfind¬
-lichkeit des Gehörs für die Reinheit derselben, gelangte Prever (Ueber
-die Grenzen der Tonwahrnehmung, S. 60) zu derselben Betrachtungsweise
-und stellte eine Tabelle zusammen, die hier wiedergegeben werden mag,
+                <Unicode>**) Auch innerhalb Eines und desselben Klanges kommen&#13;
+die consonanteren Intervalle häufiger vor, als die minder consonanten. So&#13;
+hat jeder Partialton auch seine Octave, jeder geradzahlige seine Quinte,&#13;
+jeder, dessen Ordnungszahl durch 3 theilbar ist, seine Quarte u. s. f. im&#13;
+Klange selbst. Von etwas anderen Gesichtspuncten ausgehend, nämlich&#13;
+von dem Einflusse der Häufigkeit gewisser Intervalle auf die Empfind¬&#13;
+lichkeit des Gehörs für die Reinheit derselben, gelangte Preyer (Ueber&#13;
+die Grenzen der Tonwahrnehmung, S. 60) zu derselben Betrachtungsweise&#13;
+und stellte eine Tabelle zusammen, die hier wiedergegeben werden mag,&#13;
 da sie geeignet ist, unsere bisherigen Untersuchungen bestens zu illustriren:</Unicode>
             </TextEquiv>
         </TextRegion>

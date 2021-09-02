@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-07-02T17:08:33.681+02:00</Created>
-        <LastChange>2021-07-07T18:03:00.132+02:00</LastChange>
-        <TranskribusMetadata docId="721401" pageId="27762222" pageNr="55" tsid="61162430" status="NEW" userId="65770" imgUrl="https://files.transkribus.eu/Get?id=INJZWGYESALTNMSJXKSWTLKB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SLFBNAQMXZGVAGJBOETAEWLO" imageId="21570545"/>
+        <LastChange>2021-08-09T13:54:06.255+02:00</LastChange>
+        <TranskribusMetadata docId="716327" pageId="27688234" pageNr="55" tsid="62432239" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=JZQLZTGXAFMNKYEORVIMDZBM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KRZSNQLZSWEILAQXXKYLFZUB" imageId="21505331"/>
     </Metadata>
     <Page imageFilename="Thürlings_1877-0055.jpg" imageWidth="5958" imageHeight="9316" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626453899090" caption="Regions reading order">
+            <OrderedGroup id="ro_1630574302239" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1625590318170_3873"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1625590318170_3872"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1625590313309_3864"/>
@@ -34,7 +34,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1625590318170_3872" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
             <Coords points="896,1007 5594,1007 5594,1372 896,1372"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:13; length:15;}">
                 <Coords points="1192,1279 4551,1318 4551,1120 4165,1032 3721,1149 3447,1015 3061,1126 1192,1080"/>
                 <Baseline points="1222,1248 1387,1246 1552,1246 1717,1246 1882,1246 2047,1244 2212,1244 2377,1244 2542,1244 2707,1242 2873,1242 3038,1242 3203,1242 3368,1242 3533,1242 3698,1244 3863,1244 4028,1244 4193,1246 4358,1246 4524,1248"/>
                 <TextEquiv>
@@ -50,84 +50,84 @@ Transkribus</Creator>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1625590313309_3864" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="896,2483 5594,2483 5594,4953 896,4953"/>
-            <TextLine id="r1l34" custom="readingOrder {index:0;}">
+            <TextLine id="r1l34" custom="readingOrder {index:0;} concept_phy {offset:30; length:15;}">
                 <Coords points="890,2721 5317,2748 5586,2701 5586,2496 890,2523"/>
                 <Baseline points="918,2666 1150,2666 1382,2664 1614,2664 1846,2664 2078,2662 2310,2662 2542,2662 2774,2662 3006,2662 3238,2662 3470,2662 3702,2662 3934,2662 4166,2662 4398,2662 4630,2662 4862,2662 5094,2662 5326,2662 5558,2660"/>
                 <TextEquiv>
                     <Unicode>passen die zwischengestellten Verhältniszalen vollständig für beide</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:1;}">
+            <TextLine id="r1l35" custom="readingOrder {index:1;} m_tonality {offset:0; length:6;} m_note {offset:17; length:4;}">
                 <Coords points="890,2893 5177,2933 5586,2893 5587,2700 890,2723"/>
                 <Baseline points="922,2862 1153,2862 1385,2862 1617,2860 1848,2860 2080,2860 2312,2860 2543,2860 2775,2862 3007,2862 3239,2862 3470,2862 3702,2862 3934,2864 4165,2864 4397,2864 4629,2864 4860,2866 5092,2866 5324,2866 5556,2866"/>
                 <TextEquiv>
                     <Unicode>Skalen. Auch die Töne selbst sind die gleichen, nur ist die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:2;}">
+            <TextLine id="r1l36" custom="readingOrder {index:2;} concept_mus {offset:13; length:5;} m_tonality {offset:23; length:9;} concept_mus {offset:40; length:5;}">
                 <Coords points="880,3155 5594,3117 5553,2889 880,2892"/>
                 <Baseline points="910,3066 1142,3066 1375,3066 1607,3066 1840,3066 2073,3066 2305,3066 2538,3066 2770,3064 3003,3064 3236,3064 3468,3065 3701,3066 3933,3066 4166,3066 4399,3066 4631,3066 4864,3068 5096,3068 5329,3070 5562,3070"/>
                 <TextEquiv>
                     <Unicode>zweithöchste Stufe der Mollskala um ein Komma tiefer, als die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:3;}">
+            <TextLine id="r1l37" custom="readingOrder {index:3;} concept_mus {offset:16; length:5;} m_tonality {offset:26; length:8;} m_note {offset:57; length:4;}">
                 <Coords points="882,3376 2494,3253 4784,3376 5590,3323 5590,3113 882,3172"/>
                 <Baseline points="914,3266 1146,3268 1378,3268 1610,3268 1843,3268 2075,3267 2307,3266 2540,3266 2772,3266 3004,3266 3237,3266 3469,3266 3701,3266 3933,3266 4166,3266 4398,3266 4630,3266 4863,3266 5095,3268 5327,3268 5560,3270"/>
                 <TextEquiv>
                     <Unicode>zweitniedrigste Stufe der Durskala. Die Erniedrigung der Töne</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:4;}">
+            <TextLine id="r1l38" custom="readingOrder {index:4;} m_tonality {offset:4; length:12;} concept_mus {offset:24; length:5;}">
                 <Coords points="914,3498 5605,3523 5605,3337 4407,3273 914,3358"/>
                 <Baseline points="942,3470 1173,3470 1405,3470 1637,3470 1868,3468 2100,3468 2332,3468 2563,3468 2795,3468 3027,3466 3259,3466 3490,3466 3722,3466 3954,3466 4185,3466 4417,3466 4649,3466 4880,3466 5112,3466 5344,3468 5576,3468"/>
                 <TextEquiv>
                     <Unicode>der C-dur-Leiter um ein Komma haben wir nach dem Vorgange</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l39" custom="readingOrder {index:5;} textStyle {offset:4; length:20;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l39" custom="readingOrder {index:5;} textStyle {offset:4; length:20;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:4; length:20;ID:P0063;}">
                 <Coords points="904,3726 5244,3749 5606,3702 5606,3521 904,3556"/>
                 <Baseline points="936,3672 1168,3672 1400,3672 1632,3672 1864,3670 2096,3670 2328,3670 2560,3668 2792,3668 3024,3668 3257,3666 3489,3666 3721,3666 3953,3666 4185,3666 4417,3666 4649,3666 4881,3666 5113,3668 5345,3668 5578,3670"/>
                 <TextEquiv>
                     <Unicode>des Freiherrn von Thimus mit dem Zeichen $$GRAPHIC und die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l40" custom="readingOrder {index:6;}">
+            <TextLine id="r1l40" custom="readingOrder {index:6;} m_interval {offset:24; length:9;}">
                 <Coords points="924,3937 5428,3958 5591,3941 5591,3707 924,3726"/>
                 <Baseline points="952,3872 1182,3872 1412,3872 1643,3872 1873,3872 2104,3870 2334,3870 2564,3870 2795,3868 3025,3868 3256,3868 3486,3866 3716,3866 3947,3866 4177,3866 4408,3866 4638,3868 4868,3870 5099,3872 5329,3874 5560,3876"/>
                 <TextEquiv>
                     <Unicode>Erhöhung um das gleiche Intervall mit dem Zeichen $$GRAPHIC dargestellt,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l41" custom="readingOrder {index:7;} textStyle {offset:56; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l41" custom="readingOrder {index:7;} textStyle {offset:56; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:56; length:6; continued:true;ID:P0007;}">
                 <Coords points="902,4135 5219,4074 5599,4196 5599,3951 5003,3893 902,3977"/>
                 <Baseline points="934,4076 1165,4076 1397,4076 1629,4074 1861,4074 2093,4074 2325,4074 2557,4072 2789,4072 3021,4072 3253,4072 3484,4070 3716,4070 3948,4070 4180,4070 4412,4070 4644,4072 4876,4072 5108,4074 5340,4074 5572,4076"/>
                 <TextEquiv>
                     <Unicode>was sich als praktischer erweist, als die Bezeichnungen Haupt¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l42" custom="readingOrder {index:8;} textStyle {offset:0; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:14; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l42" custom="readingOrder {index:8;} person_author {offset:0; length:6; continued:true;ID:P0007;} textStyle {offset:0; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:11; length:14;ID:P0018;} textStyle {offset:14; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:50; length:6;}">
                 <Coords points="902,4322 5581,4320 5581,4162 5230,4086 3302,4222 902,4135"/>
                 <Baseline points="930,4278 1161,4276 1392,4276 1623,4274 1854,4274 2085,4272 2316,4272 2547,4272 2778,4272 3009,4272 3240,4272 3471,4272 3702,4272 3933,4272 4164,4272 4395,4272 4626,4272 4857,4272 5088,4274 5319,4274 5550,4274"/>
                 <TextEquiv>
                     <Unicode>mann's und v. Oettingen's. Am Ende unserer beiden Reihen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l43" custom="readingOrder {index:9;}">
+            <TextLine id="r1l43" custom="readingOrder {index:9;} concept_mus {offset:19; length:17;}">
                 <Coords points="926,4539 5599,4519 5418,4315 926,4317"/>
                 <Baseline points="952,4478 1183,4476 1414,4476 1645,4474 1876,4474 2107,4472 2338,4472 2569,4472 2800,4472 3031,4472 3262,4473 3493,4474 3724,4474 3955,4474 4186,4476 4417,4476 4648,4476 4879,4476 5110,4478 5341,4478 5572,4478"/>
                 <TextEquiv>
                     <Unicode>haben wir noch das syntonische Komma notirt, die Seele der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l44" custom="readingOrder {index:10;}">
+            <TextLine id="r1l44" custom="readingOrder {index:10;} concept_mus {offset:44; length:19;}">
                 <Coords points="906,4750 3459,4659 5246,4813 5596,4778 5597,4533 906,4528"/>
                 <Baseline points="934,4684 1165,4680 1397,4678 1629,4676 1860,4676 2092,4674 2324,4674 2555,4674 2787,4674 3019,4674 3251,4674 3482,4676 3714,4676 3946,4678 4177,4678 4409,4680 4641,4680 4872,4682 5104,4682 5336,4682 5568,4682"/>
                 <TextEquiv>
                     <Unicode>eben so feinen als für die edelsten Gebilde musikalischer Kunst</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l45" custom="readingOrder {index:11;}">
+            <TextLine id="r1l45" custom="readingOrder {index:11;} concept_mus {offset:12; length:14;}">
                 <Coords points="918,4917 4324,4936 4323,4749 3844,4709 918,4765"/>
                 <Baseline points="946,4882 1113,4882 1280,4880 1447,4878 1615,4878 1782,4876 1949,4876 2117,4876 2284,4874 2451,4874 2619,4874 2786,4874 2953,4874 3120,4874 3288,4874 3455,4874 3622,4876 3790,4876 3957,4876 4124,4876 4292,4878"/>
                 <TextEquiv>
@@ -151,7 +151,7 @@ notwendigen enharmonischen Unterscheidungen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1625590310016_3860" custom="readingOrder {index:4;} structure {type:paragraph;}">
             <Coords points="896,4953 5594,4953 5594,5996 896,5996"/>
-            <TextLine id="r1l47" custom="readingOrder {index:0;}">
+            <TextLine id="r1l47" custom="readingOrder {index:0;} m_tonality {offset:37; length:6;}">
                 <Coords points="1248,5148 5600,5113 5396,4932 4934,5002 4736,4879 4525,5007 1249,4961"/>
                 <Baseline points="1276,5096 1490,5096 1705,5094 1920,5094 2134,5094 2349,5094 2564,5094 2778,5094 2993,5094 3208,5096 3423,5096 3637,5096 3852,5098 4067,5098 4281,5098 4496,5098 4711,5100 4925,5100 5140,5100 5355,5098 5570,5098"/>
                 <TextEquiv>
@@ -165,21 +165,21 @@ notwendigen enharmonischen Unterscheidungen.</Unicode>
                     <Unicode>ren Eigentümlichkeit, so zeigt sich sofort, dass wir es hier nicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l49" custom="readingOrder {index:2;}">
+            <TextLine id="r1l49" custom="readingOrder {index:2;} m_tonality {offset:20; length:4;} m_tonality {offset:29; length:9;}">
                 <Coords points="914,5551 5616,5535 5383,5336 914,5335"/>
                 <Baseline points="944,5500 1176,5498 1408,5496 1640,5494 1872,5494 2105,5494 2337,5494 2569,5494 2801,5494 3033,5496 3266,5496 3498,5497 3730,5498 3962,5499 4194,5500 4427,5500 4659,5502 4891,5502 5123,5502 5355,5500 5588,5500"/>
                 <TextEquiv>
                     <Unicode>mit der gewönlichen Dur- und Mollskala zu tun haben. Die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l50" custom="readingOrder {index:3;}">
+            <TextLine id="r1l50" custom="readingOrder {index:3;} m_tonality {offset:0; length:9;} concept_mus {offset:21; length:9;} concept_mus {offset:31; length:10;} concept_mus {offset:55; length:9;}">
                 <Coords points="922,5772 5425,5766 5595,5749 5595,5562 922,5568"/>
                 <Baseline points="952,5702 1182,5700 1413,5698 1644,5698 1875,5696 2106,5696 2336,5696 2567,5696 2798,5696 3029,5698 3260,5698 3490,5698 3721,5700 3952,5700 4183,5702 4414,5702 4644,5702 4875,5702 5106,5702 5337,5702 5568,5702"/>
                 <TextEquiv>
                     <Unicode>Durleiter des reinen tonischen F-Systemes hat zwar die Tonstufen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l51" custom="readingOrder {index:4;}">
+            <TextLine id="r1l51" custom="readingOrder {index:4;} m_tonality {offset:4; length:12;} concept_mus {offset:29; length:6;}">
                 <Coords points="903,5906 5138,5977 5238,5773 903,5771"/>
                 <Baseline points="934,5904 1147,5904 1361,5904 1574,5904 1788,5904 2002,5904 2215,5904 2429,5904 2642,5902 2856,5902 3070,5902 3283,5902 3497,5902 3710,5902 3924,5902 4138,5902 4351,5903 4565,5904 4778,5906 4992,5908 5206,5910"/>
                 <TextEquiv>
@@ -196,63 +196,63 @@ der C-dur-Leiter, aber diese Stufen haben andere Bedeutung.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1625590307959_3856" custom="readingOrder {index:5;} structure {type:paragraph-continued;}">
             <Coords points="896,5996 5594,5996 5594,8360 896,8360"/>
-            <TextLine id="r1l52" custom="readingOrder {index:0;} textStyle {offset:29; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l52" custom="readingOrder {index:0;} concept_mus {offset:11; length:5;} m_tonality {offset:21; length:6;} textStyle {offset:29; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:29; length:1;}">
                 <Coords points="1278,6221 5612,6217 5489,5924 1278,5970"/>
                 <Baseline points="1304,6152 1518,6152 1732,6154 1946,6154 2160,6154 2374,6154 2588,6154 2802,6154 3016,6154 3230,6154 3444,6154 3658,6154 3872,6152 4086,6152 4300,6152 4514,6152 4728,6154 4942,6154 5156,6154 5370,6156 5584,6158"/>
                 <TextEquiv>
                     <Unicode>Die vierte Stufe der Leiter, f = 32, hat allein den Wert</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l53" custom="readingOrder {index:1;}">
+            <TextLine id="r1l53" custom="readingOrder {index:1;} concept_mus {offset:15; length:6;}">
                 <Coords points="890,6384 5154,6470 5604,6400 5604,6213 890,6256"/>
                 <Baseline points="922,6358 1154,6358 1387,6358 1620,6358 1852,6358 2085,6358 2318,6358 2550,6358 2783,6358 3016,6358 3249,6358 3481,6358 3714,6358 3947,6358 4179,6356 4412,6356 4645,6356 4877,6356 5110,6356 5343,6358 5576,6358"/>
                 <TextEquiv>
                     <Unicode>der verjüngten Tonika, sie allein kann Ruhepunkt, Schlusspunkt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l54" custom="readingOrder {index:2;} textStyle {offset:18; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l54" custom="readingOrder {index:2;} m_tonality {offset:12; length:5;} textStyle {offset:18; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:18; length:1;} m_note {offset:29; length:2;} textStyle {offset:29; length:1;italic:true; fontSize:0.0; kerning:0;} time {offset:52; length:7; continued:true;}">
                 <Coords points="932,6628 5594,6575 5465,6377 932,6430"/>
                 <Baseline points="964,6564 1194,6562 1424,6562 1654,6562 1884,6562 2114,6560 2344,6560 2574,6560 2804,6558 3034,6558 3264,6556 3494,6556 3724,6556 3954,6556 4184,6556 4414,6556 4644,6556 4874,6556 5104,6558 5334,6558 5564,6560"/>
                 <TextEquiv>
                     <Unicode>werden. Die Skala c = 24 bis c} = 48 wird also nach mittel¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l55" custom="readingOrder {index:3;}">
+            <TextLine id="r1l55" custom="readingOrder {index:3;} time {offset:0; length:11; continued:true;} concept_mus {offset:35; length:12;}">
                 <Coords points="905,6864 5625,6806 5625,6613 4696,6548 4415,6677 905,6607"/>
                 <Baseline points="932,6760 1165,6760 1398,6760 1631,6760 1864,6760 2097,6760 2330,6760 2563,6760 2796,6762 3029,6762 3263,6762 3496,6762 3729,6762 3962,6762 4195,6762 4428,6762 4661,6760 4894,6760 5127,6760 5360,6760 5594,6758"/>
                 <TextEquiv>
                     <Unicode>alterlicher Bezeichnungsweise eine hypolydische genannt werden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l56" custom="readingOrder {index:4;}">
+            <TextLine id="r1l56" custom="readingOrder {index:4;} concept_mus {offset:26; length:15;} concept_mus {offset:46; length:10;}">
                 <Coords points="902,7085 4769,7113 5271,6961 5569,7107 5616,6826 902,6863"/>
                 <Baseline points="934,6966 1166,6966 1399,6966 1632,6966 1864,6966 2097,6966 2330,6966 2562,6966 2795,6966 3028,6966 3261,6966 3493,6966 3726,6966 3959,6966 4191,6966 4424,6966 4657,6966 4889,6966 5122,6964 5355,6964 5588,6962"/>
                 <TextEquiv>
                     <Unicode>müssen und entspricht dem gregorianischen VI. Kirchenton. Die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1625590381517_3933" custom="readingOrder {index:5;} textStyle {offset:10; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:25; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:60; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="line_1625590381517_3933" custom="readingOrder {index:5;} m_tonality {offset:0; length:9;} textStyle {offset:10; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:10; length:1;} textStyle {offset:25; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:25; length:1;} concept_mus {offset:52; length:7;} m_note {offset:60; length:6;} textStyle {offset:60; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="891,7452 1796,7455 2007,7304 2713,7424 3099,7309 3472,7486 4092,7343 5476,7419 5623,7168 892,7159"/>
                 <Baseline points="922,7336 988,7336 1054,7336 1121,7336 1187,7336 1254,7338 1320,7336 1386,7336 1453,7336 1519,7334 1586,7334 1652,7332 1718,7329 1785,7327 1851,7324 1918,7320 1984,7314 2050,7310 2117,7303 2183,7296 2250,7288 2338,7324 2378,7329 2419,7333 2459,7336 2500,7336 2541,7336 2581,7335 2622,7332 2662,7329 2703,7325 2744,7322 2784,7317 2825,7313 2865,7308 2906,7305 2947,7303 2987,7300 3028,7300 3068,7300 3109,7303 3150,7306 3182,7334 3302,7336 3423,7338 3543,7340 3664,7342 3785,7342 3905,7342 4026,7344 4146,7344 4267,7344 4388,7342 4508,7342 4629,7342 4749,7342 4870,7340 4991,7340 5111,7340 5232,7340 5352,7340 5473,7340 5594,7340"/>
                 <TextEquiv>
                     <Unicode>Mollskala e = $$MATH bis e = $$MATH hat dagegen zur Phonika h}}}}}, deren</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1625590393214_3953" custom="readingOrder {index:6;} textStyle {offset:16; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="line_1625590393214_3953" custom="readingOrder {index:6;} textStyle {offset:16; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:16; length:1;} concept_mus {offset:44; length:5;} concept_mus {offset:55; length:12;}">
                 <Coords points="880,7855 5494,7900 5565,7603 2119,7686 1465,7536 880,7668"/>
                 <Baseline points="912,7776 999,7774 1086,7772 1174,7771 1261,7770 1349,7770 1436,7770 1523,7772 1611,7772 1698,7772 1786,7772 1873,7774 1960,7773 2048,7772 2135,7772 2223,7770 2310,7766 2397,7763 2485,7759 2572,7754 2660,7746 2760,7782 2898,7778 3037,7776 3176,7774 3315,7774 3454,7774 3593,7774 3732,7774 3871,7776 4010,7778 4149,7779 4287,7780 4426,7782 4565,7784 4704,7786 4843,7788 4982,7788 5121,7790 5260,7790 5399,7790 5538,7790"/>
                 <TextEquiv>
                     <Unicode>verstärkte Form h = $$MATH ebenfalls vierte Stufe der (diatonischen)</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l65" custom="readingOrder {index:7;} textStyle {offset:34; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l65" custom="readingOrder {index:7;} m_tonality {offset:0; length:6;} person_author {offset:31; length:9;ID:P0063;} textStyle {offset:34; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:51; length:7;}">
                 <Coords points="914,8141 5616,8148 5617,7949 915,7878"/>
                 <Baseline points="944,8092 1176,8092 1408,8090 1640,8090 1872,8088 2104,8088 2336,8090 2568,8090 2800,8090 3032,8091 3265,8092 3497,8094 3729,8094 3961,8096 4193,8098 4425,8100 4657,8102 4889,8104 5121,8104 5353,8106 5586,8108"/>
                 <TextEquiv>
                     <Unicode>Leiter ist. Legt man, wie dies v. Thimus thut, der Phonika</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l66" custom="readingOrder {index:8;} textStyle {offset:39; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l66" custom="readingOrder {index:8;} concept_mus {offset:17; length:8;} textStyle {offset:39; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:39; length:1;} m_note {offset:41; length:6;} m_note {offset:54; length:6;}">
                 <Coords points="894,8398 1555,8272 2611,8446 5597,8341 5516,8119 895,8158"/>
                 <Baseline points="922,8296 1154,8296 1386,8296 1618,8296 1850,8296 2083,8298 2315,8298 2547,8298 2779,8300 3011,8300 3244,8302 3476,8302 3708,8304 3940,8304 4172,8306 4405,8308 4637,8308 4869,8310 5101,8312 5333,8312 5566,8314"/>
                 <TextEquiv>

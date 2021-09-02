@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-02-19T15:11:50.234+01:00</Created>
-        <LastChange>2021-03-26T16:21:33.304+01:00</LastChange>
-        <TranskribusMetadata docId="614265" pageId="24399909" pageNr="47" tsid="54239748" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=KOUMCSHCGRDWTEBZVYIRFCAZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OFQTITCMXSYLKZMZKVPRQIZV" imageId="18780675"/>
+        <LastChange>2021-08-17T10:50:12.268+02:00</LastChange>
+        <TranskribusMetadata docId="738834" pageId="28121556" pageNr="47" tsid="62684318" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=GUKLLZWZNTZAJZPFXPKFGUPM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EMLENMSZWSQCGHDUHWQBBDQQ" imageId="21904926"/>
     </Metadata>
     <Page imageFilename="Weitzmann_1860_Harmoniesystem-0047.jpg" imageWidth="1365" imageHeight="2175" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196440696" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573945010" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1614162032235_359"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1614162032235_358"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1614162025493_348"/>
@@ -32,14 +32,14 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1614162032235_358" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
             <Coords points="184,258 1181,258 1181,375 184,375"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_chord {offset:0; length:7;} m_chord {offset:9; length:7;} m_chord {offset:18; length:7;} m_chord {offset:27; length:9;} m_chord {offset:38; length:6;} m_chord {offset:46; length:6;}">
                 <Coords points="185,323 1188,324 1174,284 651,304 186,277"/>
                 <Baseline points="192,314 241,314 290,314 340,314 389,315 439,315 488,315 538,316 587,316 637,316 686,316 735,317 785,317 834,317 884,317 933,317 983,318 1032,318 1082,318 1131,318 1181,317"/>
                 <TextEquiv>
                     <Unicode>A moll-, D moll-, E moll-, Cis moll-, F dur-, A dur- und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_chord {offset:0; length:15;}">
                 <Coords points="185,364 204,372 220,364 279,370 293,362 451,379 467,370 468,339 400,324 352,331 296,324 279,333 185,324"/>
                 <Baseline points="191,357 218,357 245,357 272,357 299,357 326,357 353,357 380,357 407,358 434,359 461,360"/>
                 <TextEquiv>
@@ -56,49 +56,49 @@ E dur-Dreiklang.</Unicode>
         </MusicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1614162025493_348" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
             <Coords points="184,941 1181,941 1181,1251 184,1251"/>
-            <TextLine id="r1l54" custom="readingOrder {index:0;}">
+            <TextLine id="r1l54" custom="readingOrder {index:0;} m_chord {offset:35; length:20;}">
                 <Coords points="178,979 1176,987 1176,946 1127,932 178,935"/>
                 <Baseline points="184,969 233,969 282,969 331,969 381,969 430,969 479,969 528,969 578,970 627,970 676,970 725,970 775,970 824,970 873,970 922,970 972,970 1021,970 1070,970 1119,970 1169,969"/>
                 <TextEquiv>
                     <Unicode>Ueberall aber wo der hier gewählte übermäßige Dreiklang</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l55" custom="readingOrder {index:1;}">
+            <TextLine id="r1l55" custom="readingOrder {index:1;} m_chord {offset:0; length:7;} concept_mus {offset:44; length:6;}">
                 <Coords points="185,1018 1184,1020 1148,980 185,988"/>
                 <Baseline points="191,1010 240,1010 289,1010 339,1010 388,1011 437,1011 487,1011 536,1011 585,1011 635,1011 684,1011 733,1012 783,1012 832,1012 881,1012 931,1012 980,1012 1029,1012 1079,1013 1128,1013 1178,1013"/>
                 <TextEquiv>
                     <Unicode>c e gis auftreten konnte, wird auch der dem Klange nach ihm</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l56" custom="readingOrder {index:2;}">
+            <TextLine id="r1l56" custom="readingOrder {index:2;} m_chord {offset:8; length:6;} concept_mus {offset:22; length:27;} m_chord {offset:51; length:6;}">
                 <Coords points="189,1070 1168,1075 1176,1020 189,1028"/>
                 <Baseline points="195,1055 243,1054 292,1054 341,1054 390,1054 438,1054 487,1054 536,1054 585,1054 633,1054 682,1055 731,1055 780,1055 828,1055 877,1055 926,1055 975,1054 1023,1054 1072,1053 1121,1053 1170,1052"/>
                 <TextEquiv>
                     <Unicode>gleiche Accord (seine enharmonische Verwechselung) c e as auf¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l57" custom="readingOrder {index:3;}">
+            <TextLine id="r1l57" custom="readingOrder {index:3;} concept_mus {offset:23; length:9;} m_chord {offset:40; length:6;} m_chord {offset:48; length:6;}">
                 <Coords points="192,1106 1172,1097 1077,1060 192,1072"/>
                 <Baseline points="198,1095 246,1095 294,1096 343,1096 391,1096 440,1097 488,1097 536,1097 585,1097 633,1097 682,1097 730,1097 778,1097 827,1097 875,1097 924,1097 972,1097 1020,1096 1069,1096 1117,1096 1166,1096"/>
                 <TextEquiv>
                     <Unicode>treten und sodann eine Auflösung in den F dur-, C dur-,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l58" custom="readingOrder {index:4;}">
+            <TextLine id="r1l58" custom="readingOrder {index:4;} m_chord {offset:0; length:6;} m_chord {offset:8; length:8;} m_chord {offset:18; length:7;} m_chord {offset:27; length:7;} m_chord {offset:36; length:7;} m_chord {offset:48; length:7; continued:true;}">
                 <Coords points="186,1148 1182,1146 1150,1107 186,1109"/>
                 <Baseline points="192,1136 241,1137 290,1137 339,1137 388,1137 438,1138 487,1138 536,1138 585,1139 634,1139 684,1139 733,1139 782,1139 831,1139 880,1139 930,1139 979,1139 1028,1139 1077,1138 1126,1138 1176,1137"/>
                 <TextEquiv>
                     <Unicode>G dur-, Des dur-, F moll-, B moll-, C moll- und A moll-</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l59" custom="readingOrder {index:5;}">
+            <TextLine id="r1l59" custom="readingOrder {index:5;} m_chord {offset:0; length:9; continued:true;} concept_mus {offset:49; length:9;}">
                 <Coords points="181,1194 1179,1195 1169,1148 181,1151"/>
                 <Baseline points="187,1181 236,1181 285,1181 334,1181 384,1181 433,1182 482,1182 532,1182 581,1182 630,1182 680,1182 729,1183 778,1183 827,1183 877,1183 926,1183 975,1183 1025,1182 1074,1182 1123,1182 1173,1181"/>
                 <TextEquiv>
                     <Unicode>Dreiklang ausführen können, wobei, wie allezeit, offenbare und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l60" custom="readingOrder {index:6;}">
+            <TextLine id="r1l60" custom="readingOrder {index:6;} concept_mus {offset:0; length:9;} concept_mus {offset:24; length:13;}">
                 <Coords points="185,1235 1023,1243 1076,1234 1076,1196 185,1197"/>
                 <Baseline points="191,1225 237,1225 283,1225 329,1225 376,1225 422,1225 468,1225 514,1225 561,1226 607,1226 653,1226 699,1226 746,1226 792,1226 838,1226 884,1226 931,1225 977,1225 1023,1225 1070,1224"/>
                 <TextEquiv>

@@ -10,12 +10,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-06-03T11:59:17.204+02:00</Created>
-        <LastChange>2021-06-04T21:28:01.495+02:00</LastChange>
-        <TranskribusMetadata docId="690742" pageId="26189503" pageNr="5" tsid="58668883" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=PRMQBASTZXTHPGDBHMGIVSED&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NXATEVBNZCVHYGTAHYMYRUJS" imageId="20124381"/>
+        <LastChange>2021-08-20T17:41:30.704+02:00</LastChange>
+        <TranskribusMetadata docId="738835" pageId="28121476" pageNr="5" tsid="63073268" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=XVTWUAYGDKXUSVELBRBZSVZF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ORJAGODNTMSAKNFJWJIHDRJF" imageId="21904846"/>
     </Metadata>
     <Page imageFilename="Riemann_Problem_split-0005.jpg" imageWidth="1654" imageHeight="2550" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624195577548" caption="Regions reading order">
+            <OrderedGroup id="ro_1630574057876" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1622741025700_308"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1622741025700_307"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1622741020312_301"/>
@@ -37,14 +37,14 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1622741025700_307" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="426,422 1372,422 1372,535 426,535"/>
-            <TextLine id="r1l3" custom="readingOrder {index:0;} textStyle {offset:27; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:37; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l3" custom="readingOrder {index:0;} textStyle {offset:27; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:27; length:8;} textStyle {offset:37; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:41; length:5; continued:true;}">
                 <Coords points="506,495 1364,482 1344,443 1271,437 1004,459 874,441 843,465 688,435 506,451"/>
                 <Baseline points="512,483 554,483 596,483 638,483 681,482 723,482 765,482 808,481 850,481 892,480 935,480 977,480 1019,479 1061,479 1104,478 1146,477 1188,477 1231,476 1273,476 1315,475 1358,475"/>
                 <TextEquiv>
                     <Unicode>Dieser Prellstein ist der „Grundton” des Moll¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:1;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l4" custom="readingOrder {index:1;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:0; length:7; continued:true;}">
                 <Coords points="420,535 604,534 603,499 573,491 561,495 554,490 517,502 494,500 484,490 457,491 429,508 420,507"/>
                 <Baseline points="426,526 454,525 483,525 512,524 540,524 569,524 598,525"/>
                 <TextEquiv>
@@ -58,14 +58,14 @@ akkords.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1622741020312_301" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
             <Coords points="426,535 1372,535 1372,1987 426,1987"/>
-            <TextLine id="line_1622741020375_304" custom="readingOrder {index:0;}">
+            <TextLine id="line_1622741020375_304" custom="readingOrder {index:0;} concept_mus {offset:8; length:8;}">
                 <Coords points="513,573 1259,571 1360,563 1360,529 513,532"/>
                 <Baseline points="519,561 560,561 602,561 644,562 686,562 728,561 769,561 811,561 853,560 895,560 937,559 978,558 1020,558 1062,557 1104,557 1146,556 1187,556 1229,555 1271,555 1313,555 1355,555"/>
                 <TextEquiv>
                     <Unicode>Von den Musikern, welche sich mit der neueren</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:1;}">
+            <TextLine id="r1l6" custom="readingOrder {index:1;} concept_mus {offset:0; length:13;}">
                 <Coords points="426,616 1338,610 1365,566 425,573"/>
                 <Baseline points="431,603 477,603 523,603 570,602 616,602 663,601 709,601 755,600 802,600 848,599 895,599 941,599 987,598 1034,598 1080,597 1127,597 1173,596 1219,596 1266,596 1312,595 1359,595"/>
                 <TextEquiv>
@@ -93,49 +93,49 @@ akkords.</Unicode>
                     <Unicode>gehen, wenn sie zwar die umgekehrte Deutung des</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+            <TextLine id="r1l10" custom="readingOrder {index:5;} m_chord {offset:0; length:12;}">
                 <Coords points="428,771 1334,766 1365,732 428,736"/>
                 <Baseline points="434,762 480,761 526,761 572,760 619,760 665,760 711,759 757,759 804,759 850,759 896,759 942,759 989,758 1035,758 1081,758 1127,757 1174,757 1220,757 1266,756 1312,755 1359,755"/>
                 <TextEquiv>
                     <Unicode>Mollakkordes als notwendig anerkennen, aber dem</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:6;} textStyle {offset:44; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l11" custom="readingOrder {index:6;} concept_mus {offset:13; length:8;} textStyle {offset:44; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="434,820 1309,807 1367,778 433,776"/>
                 <Baseline points="439,802 485,801 531,800 577,799 623,799 669,799 715,798 762,798 808,798 854,798 900,798 946,798 992,798 1038,797 1085,797 1131,797 1177,796 1223,796 1269,795 1315,794 1362,792"/>
                 <TextEquiv>
                     <Unicode>„Gefühle des Musikers” gerecht werden durch Be¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:7;} textStyle {offset:0; length:23;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l12" custom="readingOrder {index:7;} textStyle {offset:0; length:23;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:28; length:12;}">
                 <Coords points="427,850 1281,851 1370,846 1370,811 427,820"/>
                 <Baseline points="433,842 479,841 526,841 572,840 619,840 665,839 712,839 758,839 805,838 851,838 898,838 945,838 991,837 1038,837 1084,837 1131,837 1177,836 1224,836 1270,835 1317,835 1364,834"/>
                 <TextEquiv>
                     <Unicode>nennung und Bezeichnung des Mollakkordes</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:8;} textStyle {offset:12; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l13" custom="readingOrder {index:8;} textStyle {offset:12; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:12; length:9;}">
                 <Coords points="427,889 1332,891 1364,886 1364,852 427,857"/>
                 <Baseline points="433,880 479,880 525,880 571,880 618,879 664,879 710,879 757,879 803,879 849,878 896,878 942,878 988,877 1034,877 1081,877 1127,876 1173,876 1220,875 1266,875 1312,874 1359,874"/>
                 <TextEquiv>
                     <Unicode>nach seinem Grundtone. Ob sie dabei die beiden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:9;} textStyle {offset:23; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:29; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r1l14" custom="readingOrder {index:9;} person_author {offset:0; length:14;ID:P0018;} textStyle {offset:23; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:29; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="428,931 1332,927 1374,922 1374,887 427,890"/>
                 <Baseline points="434,920 480,919 527,919 574,918 620,918 667,918 714,917 760,917 807,917 854,917 901,917 947,917 994,917 1041,917 1087,916 1134,916 1181,916 1227,916 1274,915 1321,915 1368,914"/>
                 <TextEquiv>
                     <Unicode>Oettingenschen Zeichen + und 0 beibehalten und mit</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:10;} textStyle {offset:1; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:29; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r1l15" custom="readingOrder {index:10;} m_chord {offset:0; length:2;} textStyle {offset:1; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:7; length:12;} m_chord {offset:28; length:2;} textStyle {offset:29; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:35; length:13;}">
                 <Coords points="431,971 1347,969 1361,931 431,935"/>
                 <Baseline points="437,959 482,959 528,958 574,958 620,958 666,958 712,958 758,958 804,958 850,958 896,957 941,957 987,957 1033,956 1079,956 1125,956 1171,955 1217,955 1263,954 1309,954 1355,953"/>
                 <TextEquiv>
                     <Unicode>a+ den A dur-Akkord und mit a0 den A moll-Akkord be¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:11;}">
+            <TextLine id="r1l16" custom="readingOrder {index:11;} person_author {offset:33; length:9;ID:P0018;}">
                 <Coords points="429,1006 1363,1007 1362,967 1283,961 429,979"/>
                 <Baseline points="435,999 481,998 527,998 573,998 619,998 665,998 711,997 757,997 803,997 849,997 896,997 942,996 988,996 1034,996 1080,996 1126,996 1172,995 1218,995 1264,995 1310,995 1357,995"/>
                 <TextEquiv>
@@ -156,7 +156,7 @@ akkords.</Unicode>
                     <Unicode>+ (= positiv) usuell gegensätzliche – (= negativ) ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1622741075724_386" custom="readingOrder {index:14;} textStyle {offset:9; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="line_1622741075724_386" custom="readingOrder {index:14;} textStyle {offset:9; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:13; length:13;}">
                 <Coords points="428,1126 1231,1128 1371,1121 1371,1090 428,1094"/>
                 <Baseline points="434,1115 460,1116 487,1117 514,1118 541,1118 568,1118 595,1117 622,1117 649,1116 676,1115 690,1118 723,1117 757,1117 791,1117 825,1117 859,1117 892,1117 926,1116 960,1116 994,1116 1028,1116 1061,1115 1095,1115 1129,1115 1163,1115 1196,1115 1230,1114 1264,1114 1298,1113 1332,1113 1366,1113"/>
                 <TextEquiv>
@@ -170,7 +170,7 @@ akkords.</Unicode>
                     <Unicode>langlos; höchstens könnte man sagen, dass der Gebrauch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:16;} textStyle {offset:4; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r1l23" custom="readingOrder {index:16;} textStyle {offset:4; length:1;fontSize:0.0; kerning:0; superscript:true;} person_author {offset:41; length:9;ID:P0018;}">
                 <Coords points="429,1211 1366,1203 1366,1171 1266,1163 429,1170"/>
                 <Baseline points="435,1196 481,1196 527,1195 573,1195 620,1195 666,1195 712,1195 759,1195 805,1195 851,1195 898,1195 944,1195 990,1194 1036,1194 1083,1194 1129,1194 1175,1194 1222,1194 1268,1193 1314,1193 1361,1193"/>
                 <TextEquiv>
@@ -198,7 +198,7 @@ akkords.</Unicode>
                     <Unicode>Doch sind das Nebendinge. Jeder Erfinder einer neuen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:20;}">
+            <TextLine id="r1l27" custom="readingOrder {index:20;} concept_mus {offset:0; length:11;}">
                 <Coords points="425,1367 1369,1364 1344,1319 425,1325"/>
                 <Baseline points="431,1355 477,1354 524,1354 570,1354 617,1354 664,1353 710,1353 757,1354 804,1354 850,1354 897,1354 944,1354 990,1354 1037,1354 1084,1354 1130,1354 1177,1354 1224,1353 1270,1353 1317,1352 1364,1352"/>
                 <TextEquiv>
@@ -226,35 +226,35 @@ akkords.</Unicode>
                     <Unicode>Zeichen vor ihm gebraucht haben, schnell in Vergessen¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:24;}">
+            <TextLine id="r1l31" custom="readingOrder {index:24;} concept_mus {offset:37; length:13; continued:true;}">
                 <Coords points="429,1523 1370,1521 1370,1489 1245,1482 564,1477 517,1504 429,1483"/>
                 <Baseline points="434,1514 480,1513 527,1513 573,1513 620,1513 666,1513 713,1513 759,1513 806,1513 852,1513 899,1513 945,1514 992,1514 1038,1514 1085,1514 1131,1514 1178,1513 1224,1513 1271,1512 1317,1511 1364,1510"/>
                 <TextEquiv>
                     <Unicode>heit. Nicht der Ausbau solcher neuen Bezifferungs¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:25;}">
+            <TextLine id="r1l32" custom="readingOrder {index:25;} concept_mus {offset:0; length:7; continued:true;}">
                 <Coords points="430,1564 1374,1564 1357,1522 430,1527"/>
                 <Baseline points="436,1551 482,1551 529,1552 575,1552 622,1552 669,1552 715,1552 762,1553 808,1553 855,1553 902,1553 948,1553 995,1553 1041,1553 1088,1553 1135,1554 1181,1554 1228,1554 1274,1554 1321,1553 1368,1553"/>
                 <TextEquiv>
                     <Unicode>systeme soll uns daher beschäftigen *), sondern lediglich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:26;}">
+            <TextLine id="r1l33" custom="readingOrder {index:26;} concept_mus {offset:46; length:5; continued:true;}">
                 <Coords points="431,1601 1373,1602 1357,1569 1277,1562 1157,1584 432,1563"/>
                 <Baseline points="437,1591 483,1591 530,1591 576,1591 623,1592 669,1592 716,1592 762,1592 809,1592 855,1593 902,1593 949,1593 995,1593 1042,1593 1088,1593 1135,1593 1181,1593 1228,1593 1274,1592 1321,1592 1368,1591"/>
                 <TextEquiv>
                     <Unicode>die Frage, ob das Bedenken, welches den einen Theo¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:27;}">
+            <TextLine id="r1l34" custom="readingOrder {index:27;} concept_mus {offset:0; length:7; continued:true;}">
                 <Coords points="431,1640 1376,1640 1376,1611 1336,1602 744,1600 703,1624 617,1596 431,1603"/>
                 <Baseline points="436,1631 482,1631 529,1632 576,1632 622,1633 669,1633 716,1633 762,1633 809,1633 856,1633 903,1633 949,1633 996,1633 1043,1633 1089,1633 1136,1633 1183,1633 1229,1633 1276,1633 1323,1633 1370,1633"/>
                 <TextEquiv>
                     <Unicode>retiker abhält, sich ganz und uneingeschränkt der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:28;}">
+            <TextLine id="r1l35" custom="readingOrder {index:28;} concept_mus {offset:0; length:11;} concept_mus {offset:28; length:7;}">
                 <Coords points="432,1682 1366,1683 1366,1644 432,1643"/>
                 <Baseline points="438,1670 484,1671 530,1671 576,1671 622,1671 668,1672 714,1672 760,1672 806,1672 852,1672 899,1672 945,1672 991,1672 1037,1672 1083,1673 1129,1673 1175,1673 1221,1673 1267,1673 1313,1673 1360,1673"/>
                 <TextEquiv>
@@ -289,21 +289,21 @@ akkords.</Unicode>
                     <Unicode>bekannt vorauszusetzen, was ich anderswo geschrieben</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l40" custom="readingOrder {index:33;}">
+            <TextLine id="r1l40" custom="readingOrder {index:33;} person_author {offset:22; length:14;ID:P0006;} work_text {offset:39; length:10; continued:true;ID:W0014;}">
                 <Coords points="431,1879 1372,1881 1352,1843 1165,1866 1089,1841 432,1840"/>
                 <Baseline points="437,1871 483,1871 529,1870 576,1870 622,1870 669,1871 715,1871 762,1871 808,1872 855,1872 901,1873 947,1873 994,1874 1040,1874 1087,1874 1133,1874 1180,1874 1226,1874 1273,1873 1319,1873 1366,1872"/>
                 <TextEquiv>
                     <Unicode>habe; denn wenn z. B. Georg Capellen, „Die „musi¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l41" custom="readingOrder {index:34;}">
+            <TextLine id="r1l41" custom="readingOrder {index:34;} work_text {offset:0; length:47; continued:true;ID:W0014;}">
                 <Coords points="436,1920 1370,1923 1370,1882 436,1881"/>
                 <Baseline points="442,1910 488,1910 534,1910 580,1910 626,1910 672,1910 718,1911 764,1911 810,1911 856,1911 903,1912 949,1912 995,1912 1041,1913 1087,1913 1133,1913 1179,1913 1225,1913 1271,1913 1317,1913 1364,1913"/>
                 <TextEquiv>
                     <Unicode>kalische Akustik als Grundlage der Harmonik und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l42" custom="readingOrder {index:35;}">
+            <TextLine id="r1l42" custom="readingOrder {index:35;} work_text {offset:0; length:7; continued:true;ID:W0014;} time {offset:10; length:4;} person_author {offset:22; length:6;ID:P0005;} concept_mus {offset:45; length:8;}">
                 <Coords points="432,1963 1369,1959 1369,1925 1313,1922 432,1918"/>
                 <Baseline points="438,1951 484,1951 530,1951 576,1951 623,1951 669,1951 715,1951 762,1951 808,1952 854,1952 901,1952 947,1953 993,1953 1039,1953 1086,1953 1132,1954 1178,1954 1225,1954 1271,1954 1317,1953 1364,1953"/>
                 <TextEquiv>
@@ -351,21 +351,21 @@ Melodik” (1903) S. 54 Rameau noch unter die „Monisten”</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1622741010099_297" custom="readingOrder {index:3;} structure {type:footnote;}">
             <Coords points="426,1987 1372,1987 1372,2130 426,2130"/>
-            <TextLine id="r1l43" custom="readingOrder {index:0;}">
+            <TextLine id="r1l43" custom="readingOrder {index:0;} person_author {offset:27; length:12;ID:P0006;}">
                 <Coords points="515,2056 1364,2069 1376,2003 1247,2026 1189,2006 1093,2027 515,2018"/>
                 <Baseline points="521,2043 563,2045 605,2046 648,2048 690,2049 733,2049 775,2050 818,2050 860,2051 903,2051 945,2051 987,2051 1030,2051 1072,2051 1115,2051 1157,2051 1200,2052 1242,2052 1285,2053 1327,2054 1370,2055"/>
                 <TextEquiv>
                     <Unicode>*) Ich denke hier z. B. an G. Capellens neue Bezifferung</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l44" custom="readingOrder {index:1;}">
+            <TextLine id="r1l44" custom="readingOrder {index:1;} concept_mus {offset:10; length:11;} concept_mus {offset:23; length:10;} concept_mus {offset:35; length:11;}">
                 <Coords points="442,2089 1374,2093 1374,2066 1321,2060 443,2052"/>
                 <Baseline points="448,2081 494,2081 540,2081 586,2081 632,2081 678,2082 724,2082 770,2082 816,2083 862,2083 908,2083 954,2084 1000,2084 1046,2084 1092,2085 1138,2085 1184,2085 1230,2085 1276,2085 1322,2085 1368,2084"/>
                 <TextEquiv>
                     <Unicode>(M, L, R [Mittelklang, Linksklang, Rechtsklang] statt meines</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l45" custom="readingOrder {index:2;}">
+            <TextLine id="r1l45" custom="readingOrder {index:2;} person_author {offset:45; length:11;ID:P0004;}">
                 <Coords points="432,2124 1378,2137 1378,2091 432,2089"/>
                 <Baseline points="438,2113 484,2114 531,2115 578,2115 624,2115 671,2116 718,2116 764,2116 811,2116 858,2117 905,2117 951,2117 998,2117 1045,2117 1091,2118 1138,2118 1185,2118 1231,2118 1278,2119 1325,2119 1372,2120"/>
                 <TextEquiv>

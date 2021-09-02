@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:32.833+01:00</Created>
-        <LastChange>2021-07-14T18:31:42.709+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902758" pageNr="136" tsid="61441762" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ZHOXUUCMDWPPBUJGEIJPCWJC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RJXAEMMOXTFVDBIAKDVDNJWX" imageId="17866049"/>
+        <LastChange>2021-08-28T10:10:34.162+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28702027" pageNr="136" tsid="63600441" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HQVYUNWFWBEMTAKABNKDJLNC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EHYJXXRTXODRZCMQEHHQFNEO" imageId="22425105"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0136.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454121790" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573588552" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626276028273_905"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626276028273_904"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1626276021460_896"/>
@@ -36,21 +36,21 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626276028273_904" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="102,139 1265,139 1265,328 102,328"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:4; length:6;} textStyle {offset:15; length:34;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:15; length:34;}">
                 <Coords points="186,195 1264,195 1264,163 1208,156 186,156"/>
                 <Baseline points="193,188 246,188 299,188 352,188 405,188 459,188 512,189 565,189 618,189 671,189 725,189 778,189 831,189 884,189 937,189 991,189 1044,188 1097,188 1150,188 1203,188 1257,187"/>
                 <TextEquiv>
                     <Unicode>Bei Folgen von übermässigen Terzquartsextaccorden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:10; length:11;} m_chord {offset:23; length:16;} m_interval {offset:44; length:19;}">
                 <Coords points="105,243 1256,244 1256,197 105,204"/>
                 <Baseline points="112,231 168,231 225,231 282,231 339,231 396,231 452,231 509,231 566,231 623,231 680,231 736,231 793,231 850,231 907,231 964,231 1020,231 1077,231 1134,231 1191,231 1248,231"/>
                 <TextEquiv>
                     <Unicode>und ihren Umkehrungen (Septimenaccorden mit verminderter Quinte)</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:44; length:14;}">
                 <Coords points="102,283 1263,284 1263,245 102,250"/>
                 <Baseline points="110,273 167,273 224,273 281,273 339,273 396,273 453,273 511,273 568,273 625,273 683,273 740,273 797,274 854,274 912,274 969,274 1026,274 1084,273 1141,273 1198,273 1256,273"/>
                 <TextEquiv>
@@ -76,21 +76,21 @@ geltend:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626276021460_896" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="102,586 1265,586 1265,728 102,728"/>
-            <TextLine id="r1l13" custom="readingOrder {index:0;}">
+            <TextLine id="r1l13" custom="readingOrder {index:0;} concept_mus {offset:0; length:6;} textStyle {offset:11; length:29;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:11; length:29;}">
                 <Coords points="181,636 1258,635 1258,603 1183,594 181,594"/>
                 <Baseline points="189,623 242,624 295,624 348,624 401,625 454,625 507,625 560,625 613,625 666,625 720,626 773,626 826,626 879,626 932,626 985,626 1038,626 1091,625 1144,625 1197,625 1251,625"/>
                 <TextEquiv>
                     <Unicode>Folgen von verminderten Septimenaccorden und den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:1;}">
+            <TextLine id="r1l14" custom="readingOrder {index:1;} m_chord {offset:21; length:17;}">
                 <Coords points="95,675 1261,666 1236,635 95,636"/>
                 <Baseline points="102,666 159,667 217,667 274,668 332,668 390,668 447,668 505,668 562,668 620,669 678,669 735,669 793,669 850,668 908,668 966,668 1023,668 1081,668 1138,668 1196,668 1254,668"/>
                 <TextEquiv>
                     <Unicode>ihnen entsprechenden Terzquartaccorden weisen sogar eine drei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:2;}">
+            <TextLine id="r1l15" custom="readingOrder {index:2;} concept_mus {offset:6; length:24;}">
                 <Coords points="102,717 734,723 734,684 708,675 103,677"/>
                 <Baseline points="110,709 140,709 171,709 202,709 233,709 264,709 294,709 325,710 356,710 387,710 418,710 448,710 479,710 510,710 541,711 572,711 602,711 633,711 664,711 695,711 726,711"/>
                 <TextEquiv>
@@ -108,21 +108,21 @@ fache Verwandtschaftsbeziehung auf:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626276017556_888" custom="readingOrder {index:5;} structure {type:paragraph;}">
             <Coords points="102,962 1265,962 1265,1101 102,1101"/>
-            <TextLine id="r1l24" custom="readingOrder {index:0;}">
+            <TextLine id="r1l24" custom="readingOrder {index:0;} concept_mus {offset:49; length:8; continued:true;}">
                 <Coords points="188,1012 1252,1004 1201,971 188,971"/>
                 <Baseline points="195,1002 247,1002 300,1002 352,1002 405,1002 457,1002 510,1002 562,1002 615,1002 667,1003 720,1003 772,1003 825,1003 877,1003 930,1003 982,1003 1035,1003 1087,1003 1140,1003 1192,1003 1245,1002"/>
                 <TextEquiv>
                     <Unicode>Eine ähnliche Verkettung finden wir bei einer im Quinten¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:1;}">
+            <TextLine id="r1l25" custom="readingOrder {index:1;} concept_mus {offset:0; length:6; continued:true;} concept_mus {offset:24; length:5;} m_chord {offset:34; length:17;} m_chord {offset:56; length:5; continued:true;}">
                 <Coords points="102,1052 1240,1052 1255,1021 102,1022"/>
                 <Baseline points="109,1045 168,1045 228,1045 288,1045 348,1045 408,1045 468,1045 528,1045 588,1045 648,1045 708,1045 768,1046 828,1046 888,1046 948,1046 1008,1046 1068,1046 1128,1046 1188,1045 1248,1045"/>
                 <TextEquiv>
                     <Unicode>zirkel fortschreitenden Folge von Dominantseptimen- und Terz¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:2;}">
+            <TextLine id="r1l26" custom="readingOrder {index:2;} m_chord {offset:0; length:13; continued:true;}">
                 <Coords points="108,1107 134,1099 359,1100 359,1064 311,1060 304,1052 279,1060 108,1059"/>
                 <Baseline points="115,1087 141,1088 167,1088 194,1088 220,1087 246,1087 273,1087 299,1087 325,1087 352,1088"/>
                 <TextEquiv>
@@ -140,14 +140,14 @@ quartaccorden:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1626276013261_880" custom="readingOrder {index:7;} structure {type:paragraph-continued;}">
             <Coords points="102,1347 1265,1347 1265,1612 102,1612"/>
-            <TextLine id="r1l34" custom="readingOrder {index:0;}">
+            <TextLine id="r1l34" custom="readingOrder {index:0;} textStyle {offset:45; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:45; length:6;}">
                 <Coords points="195,1395 1252,1388 1252,1362 935,1348 195,1347"/>
                 <Baseline points="202,1381 254,1382 306,1383 358,1383 410,1384 462,1384 514,1384 567,1385 619,1385 671,1385 723,1385 775,1385 827,1385 879,1385 932,1385 984,1385 1036,1385 1088,1385 1140,1385 1192,1386 1245,1386"/>
                 <TextEquiv>
                     <Unicode>Unübersehbar mannigfaltig sind natürlich die Folgen ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:1;}">
+            <TextLine id="r1l35" custom="readingOrder {index:1;} textStyle {offset:0; length:35;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:16; length:11;} concept_phy {offset:16; length:11;} m_chord {offset:28; length:7;}">
                 <Coords points="106,1435 1264,1434 1264,1403 1112,1396 106,1403"/>
                 <Baseline points="114,1423 171,1424 228,1424 285,1425 342,1425 399,1425 456,1425 513,1425 570,1426 627,1426 685,1426 742,1426 799,1425 856,1425 913,1425 970,1425 1027,1425 1084,1426 1141,1426 1198,1426 1256,1426"/>
                 <TextEquiv>
@@ -161,21 +161,21 @@ quartaccorden:</Unicode>
                     <Unicode>hier nur auf einige wenige Beispiele beschränken. Zunächst betrachten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:3;}">
+            <TextLine id="r1l37" custom="readingOrder {index:3;} textStyle {offset:16; length:33;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:31; length:18; continued:true;}">
                 <Coords points="101,1515 1259,1508 1156,1474 101,1484"/>
                 <Baseline points="109,1505 166,1505 223,1506 280,1506 337,1507 394,1507 451,1507 508,1508 565,1508 622,1508 680,1508 737,1508 794,1509 851,1509 908,1509 965,1509 1022,1509 1079,1508 1136,1508 1193,1508 1251,1508"/>
                 <TextEquiv>
                     <Unicode>wir die häufige Verbindung des übermässigen Drei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:4;}">
+            <TextLine id="r1l38" custom="readingOrder {index:4;} textStyle {offset:0; length:48;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:0; length:7; continued:true;} m_chord {offset:16; length:15;} m_interval {offset:36; length:12; continued:true;}">
                 <Coords points="98,1555 1262,1563 1262,1524 1140,1515 98,1516"/>
                 <Baseline points="105,1549 162,1549 220,1549 277,1549 335,1549 392,1550 450,1550 507,1550 565,1550 622,1550 680,1550 737,1550 795,1550 852,1551 910,1551 967,1551 1025,1551 1082,1551 1140,1551 1197,1551 1255,1552"/>
                 <TextEquiv>
                     <Unicode>klanges mit dem Septimenaccorde mit verminderter</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l39" custom="readingOrder {index:5;}">
+            <TextLine id="r1l39" custom="readingOrder {index:5;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:0; length:6; continued:true;}">
                 <Coords points="102,1602 248,1603 256,1595 267,1595 267,1562 183,1564 167,1557 156,1564 141,1564 127,1556 102,1556"/>
                 <Baseline points="110,1591 135,1591 160,1592 185,1592 210,1591 235,1591 260,1590"/>
                 <TextEquiv>
@@ -196,50 +196,50 @@ Quinte:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626276006250_872" custom="readingOrder {index:9;} structure {type:paragraph;}">
             <Coords points="102,1765 1265,1765 1265,1907 102,1907"/>
-            <TextLine id="line_1626276140468_976" custom="readingOrder {index:0;}">
+            <TextLine id="line_1626276140468_976" custom="readingOrder {index:0;} concept_mus {offset:25; length:11;} m_interval {offset:37; length:15;} m_chord {offset:54; length:2;} textStyle {offset:54; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:55; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:63; length:2;} textStyle {offset:63; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:64; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="105,1811 1269,1797 1247,1771 105,1775"/>
                 <Baseline points="112,1801 165,1801 219,1802 273,1802 327,1803 381,1803 435,1804 489,1804 543,1804 597,1804 651,1805 704,1805 758,1805 812,1805 866,1805 920,1805 974,1805 1028,1805 1082,1805 1136,1805 1190,1805 1204,1806 1233,1798 1262,1792"/>
                 <TextEquiv>
-                    <Unicode>Auch hier haben wir zwei harmonische Quintenschritte (c... 1</Unicode>
+                    <Unicode>Auch hier haben wir zwei harmonische Quintenschritte (c+ . . . f+</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l46" custom="readingOrder {index:1;}">
+            <TextLine id="r1l46" custom="readingOrder {index:1;} m_chord {offset:4; length:3;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:6; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:14; length:3;} textStyle {offset:14; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:16; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:30; length:11;} concept_mus {offset:42; length:16;} concept_mus {offset:60; length:2;} textStyle {offset:60; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:61; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:69; length:3;} textStyle {offset:69; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:71; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="106,1854 1260,1847 1248,1812 107,1821"/>
                 <Baseline points="114,1845 170,1845 227,1845 284,1846 341,1846 398,1846 455,1847 512,1847 569,1847 626,1847 683,1848 739,1848 796,1848 853,1848 910,1848 967,1848 1024,1848 1081,1848 1138,1848 1195,1847 1252,1847"/>
                 <TextEquiv>
-                    <Unicode>unde +) neben zwei melodischen Leittonschritten (er . . . . . .</Unicode>
+                    <Unicode>und e{+ . . . h{+) neben zwei melodischen Leittonschritten (c+ . . . h{+</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l47" custom="readingOrder {index:2;}">
+            <TextLine id="r1l47" custom="readingOrder {index:2;} concept_mus {offset:4; length:3;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:6; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:14; length:2;} textStyle {offset:14; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:15; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="103,1900 173,1897 206,1907 218,1895 311,1906 379,1899 379,1854 353,1861 337,1851 308,1876 246,1876 222,1852 193,1861 155,1853 145,1864 103,1859"/>
                 <Baseline points="110,1887 136,1887 162,1888 188,1888 214,1888 241,1888 267,1888 293,1887 319,1887 345,1887 372,1886"/>
                 <TextEquiv>
-                    <Unicode>und . .</Unicode>
+                    <Unicode>und e{+ . . . f+).</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Auch hier haben wir zwei harmonische Quintenschritte (c... 1
-unde +) neben zwei melodischen Leittonschritten (er . . . . . .
-und . .</Unicode>
+                <Unicode>Auch hier haben wir zwei harmonische Quintenschritte (c+ . . . f+&#13;
+und e{+ . . . h{+) neben zwei melodischen Leittonschritten (c+ . . . h{+&#13;
+und e{+ . . . f+).</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626276003832_868" custom="readingOrder {index:10;} structure {type:paragraph;}">
             <Coords points="102,1907 1265,1907 1265,2035 102,2035"/>
-            <TextLine id="r1l48" custom="readingOrder {index:0;}">
+            <TextLine id="r1l48" custom="readingOrder {index:0;} concept_mus {offset:31; length:5;} m_chord {offset:37; length:9;} textStyle {offset:37; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:39; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:44; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="188,1946 1206,1940 1159,1907 188,1907"/>
                 <Baseline points="196,1936 246,1938 296,1938 346,1939 396,1940 446,1940 496,1940 546,1940 596,1940 646,1939 697,1939 747,1939 797,1939 847,1938 897,1938 947,1938 997,1938 1047,1938 1097,1939 1147,1939 1198,1940"/>
                 <TextEquiv>
-                    <Unicode>In der gar häufig vorkommenden Folge d—/—4—e“.</Unicode>
+                    <Unicode>In der gar häufig vorkommenden Folge d—f—a{—c′ . . .</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626276146811_990" custom="readingOrder {index:1;}">
+            <TextLine id="line_1626276146811_990" custom="readingOrder {index:1;} m_chord {offset:0; length:8;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:2; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:6; length:1;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:15; length:9;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:17; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:20; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="103,1987 1272,1985 1197,1947 103,1956"/>
                 <Baseline points="110,1977 136,1977 163,1977 189,1977 216,1978 243,1978 269,1979 296,1979 323,1980 349,1981 376,1981 403,1982 421,1981 463,1981 505,1981 547,1981 589,1981 632,1982 674,1982 716,1982 758,1982 800,1982 843,1982 885,1982 927,1982 969,1982 1011,1983 1054,1983 1096,1983 1138,1983 1180,1982 1222,1982 1265,1982"/>
                 <TextEquiv>
-                    <Unicode>6—1—9—h . . . . .—6—9—C haben wir ein zweites Beispiel einer</Unicode>
+                    <Unicode>d—f—g—h{ . . . c—e{—g—c′ haben wir ein zweites Beispiel einer</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l51" custom="readingOrder {index:2;}">
+            <TextLine id="r1l51" custom="readingOrder {index:2;} concept_mus {offset:8; length:22;}">
                 <Coords points="95,2034 669,2034 669,2000 586,1987 401,2001 248,1987 231,2004 95,1987"/>
                 <Baseline points="102,2021 130,2022 158,2022 186,2022 214,2022 242,2022 270,2022 298,2023 326,2023 354,2023 382,2023 410,2023 438,2023 466,2023 494,2023 522,2024 550,2024 578,2024 606,2025 634,2025 662,2025"/>
                 <TextEquiv>
@@ -247,8 +247,8 @@ und . .</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>In der gar häufig vorkommenden Folge d—/—4—e“.
-6—1—9—h . . . . .—6—9—C haben wir ein zweites Beispiel einer
+                <Unicode>In der gar häufig vorkommenden Folge d—f—a{—c′ . . .&#13;
+d—f—g—h{ . . . c—e{—g—c′ haben wir ein zweites Beispiel einer&#13;
 innigen Dissonanzenverknüpfung:</Unicode>
             </TextEquiv>
         </TextRegion>

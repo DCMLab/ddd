@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:19:45.683+01:00</Created>
-        <LastChange>2021-04-25T18:42:59.390+02:00</LastChange>
-        <TranskribusMetadata docId="548806" pageId="22904567" pageNr="52" tsid="57142643" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=QOACNWEUNLOTJKOSXLUZYTSF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TPEBWFEYCGVLRXTRUZLCJHQL" imageId="17867840"/>
+        <LastChange>2021-08-18T17:04:39.559+02:00</LastChange>
+        <TranskribusMetadata docId="738029" pageId="28086253" pageNr="52" tsid="62791762" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=YSYJLKOSWUOMKKPPIAWEQXFG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FYDHQUUBMLLJDEFBOWNZXWFY" imageId="21871031"/>
     </Metadata>
     <Page imageFilename="Naumann1858-0052.jpg" imageWidth="9108" imageHeight="11179" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624197116928" caption="Regions reading order">
+            <OrderedGroup id="ro_1630575159224" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1611519019929_406"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1611519015852_401"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1611518996820_397"/>
@@ -35,7 +35,7 @@ Transkribus</Creator>
         </GraphicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1611519015852_401" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
             <Coords points="996,7439 7530,7439 7530,9571 996,9571"/>
-            <TextLine id="r1l97" custom="readingOrder {index:0;}">
+            <TextLine id="r1l97" custom="readingOrder {index:0;} concept_mus {offset:43; length:19;}">
                 <Coords points="1475,7665 6894,7718 7561,7645 7562,7442 1476,7438"/>
                 <Baseline points="1518,7626 1818,7626 2118,7628 2418,7628 2718,7630 3018,7630 3318,7632 3618,7632 3918,7634 4218,7634 4519,7634 4819,7636 5119,7636 5419,7636 5719,7636 6019,7634 6319,7634 6619,7632 6919,7630 7219,7628 7520,7626"/>
                 <TextEquiv>
@@ -56,21 +56,21 @@ Transkribus</Creator>
                     <Unicode>hinlänglich bewiesen? Wir möchten im Gegentheil meinen, dass der Glaube an dieselbe bedeu¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l100" custom="readingOrder {index:3;}">
+            <TextLine id="r1l100" custom="readingOrder {index:3;} m_interval {offset:70; length:10;} m_note {offset:85; length:4;}">
                 <Coords points="1011,8365 7545,8369 7545,8158 6959,8125 1011,8153"/>
                 <Baseline points="1052,8302 1374,8300 1696,8300 2019,8300 2341,8298 2664,8298 2986,8300 3308,8300 3631,8300 3953,8300 4276,8302 4598,8302 4920,8302 5243,8304 5565,8304 5888,8304 6210,8304 6532,8304 6855,8302 7177,8302 7500,8300"/>
                 <TextEquiv>
                     <Unicode>tend durch die richtige Erkenntniss erschüttert sein müsste, dass die Intervalle der Töne vom</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l101" custom="readingOrder {index:4;}">
+            <TextLine id="r1l101" custom="readingOrder {index:4;} concept_mus {offset:0; length:19;} concept_phy {offset:30; length:11;} concept_phy {offset:70; length:22; continued:true;}">
                 <Coords points="1015,8585 7532,8576 6214,8339 1015,8414"/>
                 <Baseline points="1052,8520 1374,8520 1696,8520 2018,8520 2340,8520 2662,8522 2984,8522 3306,8522 3628,8524 3950,8524 4272,8524 4594,8524 4916,8526 5238,8526 5560,8526 5882,8526 6204,8526 6526,8526 6848,8526 7170,8526 7492,8524"/>
                 <TextEquiv>
                     <Unicode>musikalischen Gehör weder als Differenzen ihrer absoluten, noch ihrer relativen Schwingungs¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l102" custom="readingOrder {index:5;}">
+            <TextLine id="r1l102" custom="readingOrder {index:5;} concept_phy {offset:0; length:6; continued:true;} concept_phy {offset:57; length:11;}">
                 <Coords points="982,8829 7174,8828 7524,8780 7524,8585 982,8601"/>
                 <Baseline points="1024,8742 1347,8744 1670,8744 1993,8744 2316,8746 2639,8746 2962,8746 3285,8748 3608,8748 3931,8748 4255,8748 4578,8750 4901,8750 5224,8750 5547,8750 5870,8750 6193,8750 6516,8750 6839,8750 7162,8750 7486,8750"/>
                 <TextEquiv>
@@ -84,14 +84,14 @@ Transkribus</Creator>
                     <Unicode>Denn hiernach scheint die Annahme eines in der Seele unbewusst stattfindenden Vergleichens</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l104" custom="readingOrder {index:7;}">
+            <TextLine id="r1l104" custom="readingOrder {index:7;} concept_phy {offset:6; length:17;} concept_phy {offset:38; length:11;}">
                 <Coords points="993,9276 7372,9274 7551,8997 993,9040"/>
                 <Baseline points="1036,9186 1359,9188 1683,9190 2006,9192 2330,9192 2654,9194 2977,9194 3301,9196 3624,9196 3948,9196 4272,9196 4595,9196 4919,9196 5242,9196 5566,9196 5890,9196 6213,9196 6537,9196 6860,9194 7184,9194 7508,9192"/>
                 <TextEquiv>
                     <Unicode>jener Schwingungszahlen selbst, deren Verhältniss, je nachdem es leichter oder schwerer aufzu¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l105" custom="readingOrder {index:8;}">
+            <TextLine id="r1l105" custom="readingOrder {index:8;} concept_mus {offset:29; length:13;} concept_phy {offset:29; length:13;} concept_mus {offset:57; length:13;} concept_phy {offset:57; length:13;}">
                 <Coords points="985,9440 7543,9548 7486,9231 985,9269"/>
                 <Baseline points="1024,9412 1348,9414 1672,9416 1996,9416 2320,9418 2644,9418 2968,9420 3292,9420 3616,9422 3940,9422 4265,9422 4589,9424 4913,9424 5237,9424 5561,9424 5885,9424 6209,9424 6533,9424 6857,9424 7181,9424 7506,9422"/>
                 <TextEquiv>
@@ -112,7 +112,7 @@ fassen ist, entweder als ein consonirendes, oder als ein dissonirendes wirken so
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1611518996820_397" custom="readingOrder {index:3;} structure {type:footnote;}">
             <Coords points="996,9571 7530,9571 7530,9819 996,9819"/>
-            <TextLine id="r1l106" custom="readingOrder {index:0;}">
+            <TextLine id="r1l106" custom="readingOrder {index:0;} concept_mus {offset:11; length:12;} m_interval {offset:24; length:10;}">
                 <Coords points="1446,9880 2064,9833 2316,9923 2862,9810 2992,9908 3464,9843 3960,9918 4033,9893 4033,9625 1446,9652"/>
                 <Baseline points="1486,9778 1611,9778 1736,9778 1862,9778 1987,9778 2113,9778 2238,9778 2363,9780 2489,9780 2614,9780 2740,9781 2865,9782 2990,9782 3116,9782 3241,9782 3367,9782 3492,9782 3617,9782 3743,9782 3868,9780 3994,9780"/>
                 <TextEquiv>

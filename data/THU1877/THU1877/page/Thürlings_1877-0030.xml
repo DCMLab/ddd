@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-07-02T17:08:32.873+02:00</Created>
-        <LastChange>2021-07-07T15:34:12.752+02:00</LastChange>
-        <TranskribusMetadata docId="721401" pageId="27762187" pageNr="30" tsid="61162374" status="NEW" userId="65770" imgUrl="https://files.transkribus.eu/Get?id=NWYVDOGFVNVISMHOQYRSHEWD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VTLQYNNBQECEKHYZHOQMNVTC" imageId="21570510"/>
+        <LastChange>2021-08-23T17:42:09.175+02:00</LastChange>
+        <TranskribusMetadata docId="716327" pageId="27688072" pageNr="30" tsid="63156275" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ZMNLGGJVBASSVNHWFAKYWKJW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AXYXBECPSUWLQZTTAZWCDELC" imageId="21505169"/>
     </Metadata>
     <Page imageFilename="Thürlings_1877-0030.jpg" imageWidth="5958" imageHeight="9354" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626453880992" caption="Regions reading order">
+            <OrderedGroup id="ro_1630574293988" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1625586499041_1766"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1625586499041_1765"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1625586496635_1761"/>
@@ -32,21 +32,21 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1625586499041_1765" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="354,998 5040,998 5040,8151 354,8151"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_tonality {offset:10; length:14;}">
                 <Coords points="351,1223 5052,1227 4918,998 352,1077"/>
                 <Baseline points="382,1192 613,1192 845,1194 1077,1194 1309,1194 1541,1196 1773,1196 2005,1198 2237,1200 2469,1200 2701,1202 2932,1202 3164,1204 3396,1206 3628,1206 3860,1208 4092,1208 4324,1208 4556,1210 4788,1210 5020,1210"/>
                 <TextEquiv>
                     <Unicode>versellen Durgeschlechte „unklare, trübe oder rauhe Stimmungen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} work_text {offset:15; length:6;ID:W0001;}">
                 <Coords points="356,1428 4080,1497 5045,1443 5046,1308 357,1253"/>
                 <Baseline points="386,1396 617,1396 849,1398 1080,1398 1312,1398 1544,1399 1775,1400 2007,1400 2238,1402 2470,1402 2702,1404 2933,1404 3165,1406 3396,1406 3628,1408 3860,1410 4091,1410 4323,1412 4554,1414 4786,1414 5018,1416"/>
                 <TextEquiv>
                     <Unicode>auszudrücken” (S. 327). Noch weniger passt dasjenige, was der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:48; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:48; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:48; length:7;ID:P0056;}">
                 <Coords points="361,1627 5056,1659 5056,1502 4624,1429 362,1510"/>
                 <Baseline points="390,1596 621,1598 853,1598 1085,1600 1316,1600 1548,1602 1780,1602 2011,1604 2243,1604 2475,1604 2707,1606 2938,1606 3170,1606 3402,1608 3633,1608 3865,1610 4097,1612 4328,1613 4560,1616 4792,1618 5024,1620"/>
                 <TextEquiv>
@@ -60,49 +60,49 @@ Transkribus</Creator>
                     <Unicode>wenn es gleich von seinem Standpunkte aus sehr prägnant ist,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;} textStyle {offset:31; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} person_author {offset:31; length:15;ID:P0001;} textStyle {offset:31; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="344,2053 5057,2044 5057,1851 4666,1838 345,1889"/>
                 <Baseline points="374,2006 606,2006 839,2006 1072,2008 1304,2008 1537,2008 1770,2008 2002,2010 2235,2010 2468,2010 2701,2012 2933,2012 3166,2014 3399,2014 3631,2014 3864,2016 4097,2016 4329,2018 4562,2018 4795,2018 5028,2020"/>
                 <TextEquiv>
                     <Unicode>zu den konsequent aufgefassten Helmholtz'schen Deduktionen.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} work_text {offset:25; length:9;ID:W0061;}">
                 <Coords points="377,2229 4691,2305 5048,2242 5049,2055 378,2054"/>
                 <Baseline points="406,2206 636,2206 867,2206 1097,2206 1328,2208 1559,2208 1789,2210 2020,2210 2250,2212 2481,2212 2712,2214 2942,2214 3173,2216 3403,2216 3634,2218 3865,2218 4095,2220 4326,2220 4556,2220 4787,2222 5018,2222"/>
                 <TextEquiv>
                     <Unicode>Wir setzen dessen Worte (Aesthetik, dritter Teil § 772) zur</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} m_tonality {offset:50; length:3;} m_tonality {offset:58; length:4;}">
                 <Coords points="378,2480 4938,2501 5038,2262 378,2229"/>
                 <Baseline points="408,2406 637,2408 867,2410 1097,2410 1327,2412 1557,2412 1787,2414 2017,2414 2247,2414 2477,2414 2707,2416 2936,2416 3166,2416 3396,2416 3626,2418 3856,2418 4086,2420 4316,2420 4546,2422 4776,2424 5006,2426"/>
                 <TextEquiv>
                     <Unicode>Vergleichung hierher: „Der innere Unterschied von Dur und Moll</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;} m_tonality {offset:40; length:9;}">
                 <Coords points="359,2632 4474,2718 5053,2650 5054,2462 359,2463"/>
                 <Baseline points="390,2610 621,2610 853,2612 1084,2612 1316,2614 1548,2614 1779,2616 2011,2616 2242,2618 2474,2618 2706,2618 2937,2620 3169,2620 3400,2621 3632,2622 3864,2622 4095,2624 4327,2624 4558,2626 4790,2626 5022,2628"/>
                 <TextEquiv>
                     <Unicode>ist so wesentlich, dass jede der beiden Tonweisen eine eigene Art</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+            <TextLine id="r1l10" custom="readingOrder {index:8;} m_tonality {offset:4; length:9;} m_tonality {offset:27; length:13;}">
                 <Coords points="365,2837 5047,2899 5048,2688 365,2708"/>
                 <Baseline points="394,2814 625,2814 856,2816 1087,2816 1318,2816 1549,2816 1780,2818 2011,2818 2242,2818 2473,2818 2705,2820 2936,2820 3167,2820 3398,2822 3629,2822 3860,2824 4091,2824 4322,2826 4553,2828 4784,2830 5016,2830"/>
                 <TextEquiv>
                     <Unicode>von Tonsystem, ein eigenes Tongeschlecht, begründet. Beide</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+            <TextLine id="r1l11" custom="readingOrder {index:9;} m_tonality {offset:0; length:15;}">
                 <Coords points="374,3071 5046,3065 5046,2889 4853,2871 375,2819"/>
                 <Baseline points="404,3018 634,3018 865,3018 1096,3018 1326,3018 1557,3018 1788,3018 2018,3018 2249,3020 2480,3020 2711,3020 2941,3022 3172,3022 3403,3023 3633,3024 3864,3026 4095,3028 4325,3030 4556,3032 4787,3034 5018,3036"/>
                 <TextEquiv>
                     <Unicode>Tongeschlechter haben ihre Berechtigung und charakteristische</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+            <TextLine id="r1l12" custom="readingOrder {index:10;} m_tonality {offset:16; length:3;}">
                 <Coords points="359,3287 5030,3323 5031,3060 360,3082"/>
                 <Baseline points="388,3220 618,3222 849,3222 1080,3222 1311,3222 1542,3222 1772,3222 2003,3222 2234,3224 2465,3224 2696,3224 2926,3224 3157,3226 3388,3226 3619,3226 3850,3228 4080,3228 4311,3230 4542,3232 4773,3234 5004,3236"/>
                 <TextEquiv>
@@ -116,7 +116,7 @@ Transkribus</Creator>
                     <Unicode>sondern auch das einfachere, naturgemäßere, einer weit umfassen¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+            <TextLine id="r1l14" custom="readingOrder {index:12;} m_tonality {offset:23; length:13;} m_tonality {offset:45; length:4;}">
                 <Coords points="340,3667 5064,3675 5000,3470 340,3480"/>
                 <Baseline points="370,3628 603,3626 836,3626 1069,3626 1302,3626 1535,3626 1768,3626 2001,3626 2234,3626 2467,3628 2701,3628 2934,3630 3167,3630 3400,3632 3633,3632 3866,3634 4099,3634 4332,3636 4565,3637 4798,3638 5032,3640"/>
                 <TextEquiv>
@@ -144,7 +144,7 @@ Transkribus</Creator>
                     <Unicode>sentirt, und eben darum selbst eine individuellere, beschränktere</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+            <TextLine id="r1l18" custom="readingOrder {index:16;} concept_mus {offset:30; length:21;}">
                 <Coords points="368,4473 4507,4531 5068,4463 5069,4311 369,4280"/>
                 <Baseline points="398,4440 630,4438 862,4438 1094,4438 1326,4438 1558,4438 1790,4438 2022,4438 2254,4438 2486,4440 2719,4440 2951,4440 3183,4442 3415,4442 3647,4444 3879,4444 4111,4446 4343,4446 4575,4448 4807,4450 5040,4450"/>
                 <TextEquiv>
@@ -172,14 +172,14 @@ Transkribus</Creator>
                     <Unicode>man in dem letzteren derselben nur ein Körnchen Warheit finden.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+            <TextLine id="r1l22" custom="readingOrder {index:20;} concept_mus {offset:4; length:11;} time {offset:26; length:4;}">
                 <Coords points="336,5367 4832,5341 5066,5124 336,5116"/>
                 <Baseline points="366,5254 599,5256 832,5256 1066,5256 1299,5256 1533,5256 1766,5256 1999,5256 2233,5256 2466,5256 2700,5256 2933,5256 3166,5256 3400,5256 3633,5256 3867,5256 4100,5256 4333,5258 4567,5258 4800,5260 5034,5260"/>
                 <TextEquiv>
                     <Unicode>Ein Theoretiker des Jares 1600, der den grossen, bis heute nur</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+            <TextLine id="r1l23" custom="readingOrder {index:21;} concept_mus {offset:50; length:9;}">
                 <Coords points="341,5496 4592,5545 5042,5481 5042,5347 341,5361"/>
                 <Baseline points="370,5460 602,5460 834,5460 1066,5459 1298,5458 1531,5458 1763,5458 1995,5458 2227,5456 2459,5456 2692,5456 2924,5456 3156,5456 3388,5458 3620,5458 3853,5458 4085,5460 4317,5460 4549,5462 4781,5464 5014,5466"/>
                 <TextEquiv>
@@ -200,21 +200,21 @@ Transkribus</Creator>
                     <Unicode>diesen Satz zweifelsone nur mit Staunen und Befremden lesen.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:24;} textStyle {offset:30; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l26" custom="readingOrder {index:24;} person_author {offset:30; length:15;ID:P0001;} textStyle {offset:30; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} work_text {offset:46; length:12; continued:true;ID:W0001;}">
                 <Coords points="351,6116 4824,6141 5028,6083 5029,5908 352,5917"/>
                 <Baseline points="382,6066 612,6066 843,6064 1074,6064 1305,6064 1536,6064 1767,6064 1998,6066 2229,6066 2460,6066 2691,6068 2921,6068 3152,6068 3383,6070 3614,6070 3845,6070 4076,6072 4307,6072 4538,6070 4769,6070 5000,6070"/>
                 <TextEquiv>
                     <Unicode>Jedenfalls wird der durch die Helmholtz'schen Untersuchun¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+            <TextLine id="r1l27" custom="readingOrder {index:25;} work_text {offset:0; length:3; continued:true;ID:W0001;} concept_mus {offset:52; length:7;}">
                 <Coords points="331,6337 4722,6357 5055,6316 5055,6117 331,6150"/>
                 <Baseline points="360,6278 593,6274 826,6272 1059,6269 1293,6268 1526,6266 1759,6266 1993,6266 2226,6266 2459,6266 2693,6268 2926,6268 3159,6270 3392,6270 3626,6272 3859,6272 4092,6272 4326,6272 4559,6272 4792,6271 5026,6270"/>
                 <TextEquiv>
                     <Unicode>gen ans Licht gestellte grelle Widerspruch zwischen Theorie und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+            <TextLine id="r1l28" custom="readingOrder {index:26;} concept_mus {offset:0; length:6;}">
                 <Coords points="338,6519 4874,6536 5050,6320 338,6338"/>
                 <Baseline points="364,6476 596,6474 829,6472 1062,6470 1295,6468 1528,6468 1761,6468 1994,6468 2227,6468 2460,6470 2693,6470 2925,6470 3158,6472 3391,6472 3624,6474 3857,6474 4090,6474 4323,6476 4556,6476 4789,6474 5022,6474"/>
                 <TextEquiv>
@@ -228,42 +228,42 @@ Transkribus</Creator>
                     <Unicode>ständen ganz erklärlich, dass zalreiche Anhänger und Schüler des</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+            <TextLine id="r1l30" custom="readingOrder {index:28;} concept_phy {offset:8; length:11;} person_author {offset:8; length:11;ID:P0001;}">
                 <Coords points="350,6945 5062,6928 5062,6741 350,6758"/>
                 <Baseline points="380,6884 612,6882 845,6880 1077,6878 1310,6876 1543,6876 1775,6876 2008,6874 2240,6874 2473,6874 2706,6874 2938,6876 3171,6876 3403,6876 3636,6878 3869,6878 4101,6878 4334,6880 4566,6880 4799,6880 5032,6880"/>
                 <TextEquiv>
                     <Unicode>grossen Physiologen sich freuen, ihn beim Worte nehmen zu</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:29;}">
+            <TextLine id="r1l31" custom="readingOrder {index:29;} concept_mus {offset:28; length:8;}">
                 <Coords points="343,7133 5020,7138 5055,6922 343,6946"/>
                 <Baseline points="370,7078 602,7078 835,7080 1068,7080 1301,7080 1534,7080 1767,7080 2000,7080 2233,7080 2466,7080 2699,7080 2931,7080 3164,7082 3397,7082 3630,7082 3863,7082 4096,7082 4329,7082 4562,7084 4795,7084 5028,7084"/>
                 <TextEquiv>
                     <Unicode>können, und den natürlichen Durklang als die einzige „Seele der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:30;}">
+            <TextLine id="r1l32" custom="readingOrder {index:30;} concept_mus {offset:0; length:8;}">
                 <Coords points="341,7308 5059,7320 4966,7104 341,7133"/>
                 <Baseline points="372,7280 605,7280 838,7282 1071,7282 1304,7284 1537,7284 1770,7284 2003,7284 2236,7284 2469,7284 2702,7284 2935,7284 3168,7284 3401,7284 3634,7284 3867,7284 4100,7286 4333,7286 4566,7288 4799,7288 5032,7290"/>
                 <TextEquiv>
                     <Unicode>Harmonie” betrachten zu dürfen. Im Gegensatze hiezu kann es</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:31;} textStyle {offset:32; length:16;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l33" custom="readingOrder {index:31;} textStyle {offset:32; length:16;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:32; length:16;ID:P0007;}">
                 <Coords points="343,7501 5055,7549 5055,7321 4868,7304 2348,7431 343,7308"/>
                 <Baseline points="372,7484 604,7486 837,7486 1070,7486 1302,7486 1535,7488 1768,7488 2000,7488 2233,7488 2466,7486 2699,7486 2931,7486 3164,7486 3397,7486 3629,7486 3862,7486 4095,7486 4327,7488 4560,7488 4793,7488 5026,7490"/>
                 <TextEquiv>
                     <Unicode>weiterhin nicht befremden, dass Moritz Hauptmann als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:32;} textStyle {offset:52; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l34" custom="readingOrder {index:32;} concept_mus {offset:24; length:4;} concept_mus {offset:33; length:14;} textStyle {offset:52; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:52; length:5; continued:true;ID:P0001;}">
                 <Coords points="341,7717 4995,7745 5047,7511 341,7547"/>
                 <Baseline points="372,7688 604,7688 836,7688 1068,7688 1301,7690 1533,7690 1765,7690 1998,7690 2230,7690 2462,7690 2695,7690 2927,7690 3159,7688 3391,7688 3624,7688 3856,7688 4088,7688 4321,7688 4553,7688 4785,7688 5018,7688"/>
                 <TextEquiv>
                     <Unicode>strenger Verfechter des Dur- und Moll-Dualismus die Helm¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:33;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l35" custom="readingOrder {index:33;} person_author {offset:0; length:11; continued:true;ID:P0001;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="327,7922 5063,7945 5063,7781 4735,7711 327,7746"/>
                 <Baseline points="358,7894 591,7894 825,7894 1059,7894 1293,7894 1527,7894 1760,7894 1994,7892 2228,7892 2462,7892 2696,7892 2929,7892 3163,7892 3397,7892 3631,7892 3865,7894 4098,7894 4332,7894 4566,7894 4800,7894 5034,7896"/>
                 <TextEquiv>

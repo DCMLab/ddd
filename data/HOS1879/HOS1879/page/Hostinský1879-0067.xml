@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:31.335+01:00</Created>
-        <LastChange>2021-07-14T18:03:26.099+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902534" pageNr="67" tsid="61440687" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=BRBUADJJVCLMMJKSXHTZRSND&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FEYWIRYYSETDAWPTDRLWBCXQ" imageId="17865829"/>
+        <LastChange>2021-08-25T13:58:18.162+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28701833" pageNr="67" tsid="63420665" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=GCQIJAYQXPOKZVTUGESCKCWG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SXCBZRBZJNACOXROZKDMHAWK" imageId="22424915"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0067.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454111717" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573577913" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626173935150_1560"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626173935150_1559"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1626173922967_1551"/>
@@ -35,18 +35,18 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1626173935150_1559" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
             <Coords points="135,128 1298,128 1298,1127 135,1127"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:13; length:15;}">
                 <Coords points="145,195 1297,194 1297,155 1253,146 145,151"/>
                 <Baseline points="153,183 209,183 266,182 323,182 380,182 437,182 494,183 550,183 607,183 664,183 721,184 778,184 835,184 892,184 948,184 1005,185 1062,184 1119,184 1176,184 1233,183 1290,183"/>
                 <TextEquiv>
                     <Unicode>Anblasen der Blasinstrumente erhält, wie an das unfreiwillige</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:1; length:11;} concept_mus {offset:18; length:6;}">
                 <Coords points="149,244 1285,243 1304,200 149,212"/>
                 <Baseline points="157,226 214,226 271,225 328,225 385,225 442,225 499,225 556,225 613,225 670,226 727,226 784,226 841,226 898,226 955,227 1012,227 1069,227 1126,227 1183,227 1240,227 1297,227"/>
                 <TextEquiv>
-                    <Unicode>„Ueberblasen“ der Flöten u. s. w. Diese Thatsachen sind allerdings</Unicode>
+                    <Unicode>„Ueberblasen” der Flöten u. s. w. Diese Thatsachen sind allerdings</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l4" custom="readingOrder {index:2;}">
@@ -56,126 +56,126 @@ Transkribus</Creator>
                     <Unicode>extreme Fälle; doch sind sie durch eine ununterbrochene Reihe</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_phy {offset:49; length:11;}">
                 <Coords points="146,317 1298,330 1298,291 1199,275 146,287"/>
                 <Baseline points="153,310 209,310 266,310 323,310 380,310 437,310 494,310 550,311 607,311 664,311 721,311 778,312 835,312 892,312 948,312 1005,313 1062,313 1119,313 1176,313 1233,313 1290,313"/>
                 <TextEquiv>
-                    <Unicode>von vermittelnden Erscheinungen mit den normalen Klangfarben.</Unicode>
+                    <Unicode>von vermittelnden Erscheinungen mit den normalen Klangfarben,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} m_note {offset:25; length:14;}">
                 <Coords points="150,363 1031,371 1099,343 1294,363 1305,329 150,330"/>
                 <Baseline points="158,351 215,351 272,352 329,352 386,352 443,352 500,352 557,353 614,353 671,353 728,354 785,354 842,354 899,354 956,354 1013,354 1070,354 1127,354 1184,354 1241,354 1298,353"/>
                 <TextEquiv>
                     <Unicode>und schliesslich mit dem einfachen Tone verknüpft. Wenn wir</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} m_note {offset:4; length:8;} concept_phy {offset:44; length:10;}">
                 <Coords points="150,404 1299,402 1299,372 1239,363 150,363"/>
                 <Baseline points="158,394 214,394 271,394 328,395 384,395 441,395 498,396 554,396 611,396 668,396 725,397 781,397 838,397 895,397 951,397 1008,397 1065,397 1121,397 1178,396 1235,396 1292,395"/>
                 <TextEquiv>
                     <Unicode>den Grundton überall erkennen, mag sich die Klangfarbe noch so</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_phy {offset:35; length:11;} concept_phy {offset:55; length:11;}">
                 <Coords points="150,450 1304,451 1304,410 1219,403 150,411"/>
                 <Baseline points="157,438 216,437 276,437 336,437 396,437 456,438 516,438 576,438 636,438 696,438 756,439 816,439 876,439 936,439 996,439 1056,439 1116,439 1176,439 1236,439 1296,439"/>
                 <TextEquiv>
                     <Unicode>sehr ändern, so wird die allmälige Verstärkung anderer Partialtöne</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;} m_note {offset:49; length:8;}">
                 <Coords points="151,491 1297,490 1297,458 1190,452 151,449"/>
                 <Baseline points="158,480 214,480 271,480 327,480 384,480 441,480 497,480 554,480 610,480 667,481 724,481 780,481 837,481 893,481 950,481 1007,481 1063,481 1120,481 1176,481 1233,481 1290,480"/>
                 <TextEquiv>
                     <Unicode>bis zu ihrem entschiedenen Uebergewicht über den Grundton ge¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+            <TextLine id="r1l10" custom="readingOrder {index:8;} textStyle {offset:21; length:28;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="150,530 1298,530 1298,499 1244,493 150,499"/>
                 <Baseline points="157,521 213,521 270,522 327,522 383,523 440,523 497,523 553,524 610,524 667,524 724,524 780,524 837,525 894,525 950,525 1007,525 1064,524 1120,524 1177,524 1234,524 1291,523"/>
                 <TextEquiv>
                     <Unicode>wissermassen nur als Verrückung des Schwerpunctes</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+            <TextLine id="r1l11" custom="readingOrder {index:9;} textStyle {offset:0; length:37;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:30; length:7;}">
                 <Coords points="148,578 1300,573 1281,532 148,532"/>
                 <Baseline points="155,565 211,565 268,565 325,565 382,565 439,565 496,566 553,566 610,566 667,566 724,566 780,566 837,567 894,567 951,567 1008,567 1065,566 1122,566 1179,566 1236,566 1293,565"/>
                 <TextEquiv>
                     <Unicode>innerhalb eines und desselben Klanges empfunden, nicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+            <TextLine id="r1l12" custom="readingOrder {index:10;} concept_mus {offset:29; length:6;}">
                 <Coords points="146,619 1275,620 1293,583 146,586"/>
                 <Baseline points="154,607 210,607 267,607 323,607 380,608 436,608 493,608 549,609 606,609 662,609 719,609 776,609 832,609 889,609 945,609 1002,609 1058,609 1115,608 1171,608 1228,607 1285,606"/>
                 <TextEquiv>
                     <Unicode>als Uebergang zu einem neuen Klange, mögen nun die sich hervor¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+            <TextLine id="r1l13" custom="readingOrder {index:11;} concept_phy {offset:11; length:11;} concept_phy {offset:33; length:9;}">
                 <Coords points="150,660 1301,657 1301,628 1200,619 150,619"/>
                 <Baseline points="158,649 214,649 271,650 328,650 385,650 442,651 498,651 555,651 612,651 669,651 726,651 782,651 839,651 896,651 953,651 1010,651 1066,651 1123,651 1180,651 1237,651 1294,651"/>
                 <TextEquiv>
                     <Unicode>drängenden Partialtöne von Einer Tonquelle oder von mehreren</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626174058607_1603" custom="readingOrder {index:12;}">
+            <TextLine id="line_1626174058607_1603" custom="readingOrder {index:12;} m_interval {offset:24; length:6;} m_interval {offset:48; length:5;}">
                 <Coords points="150,706 1302,707 1302,671 1231,659 150,660"/>
                 <Baseline points="157,692 182,691 208,691 234,691 259,691 285,692 311,694 376,689 421,690 467,691 513,692 559,693 605,693 651,693 697,694 743,694 789,694 835,694 880,693 926,693 972,693 1018,693 1064,693 1110,693 1156,693 1202,693 1248,693 1294,694"/>
                 <TextEquiv>
                     <Unicode>herrühren. Wenn wir die Octave zugleich mit der Prime hören,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+            <TextLine id="r1l16" custom="readingOrder {index:13;} concept_mus {offset:46; length:6;} m_interval {offset:57; length:5;}">
                 <Coords points="143,748 1082,756 1299,747 1299,707 143,712"/>
                 <Baseline points="150,733 207,733 264,734 321,734 378,735 435,735 492,735 549,735 606,735 663,736 721,736 778,736 835,736 892,735 949,735 1006,735 1063,735 1120,735 1177,735 1234,735 1292,735"/>
                 <TextEquiv>
                     <Unicode>so ist der Eindruck kein anderer, als wenn im Klange der Prime</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+            <TextLine id="r1l17" custom="readingOrder {index:14;} concept_phy {offset:11; length:10;} concept_phy {offset:36; length:10;}">
                 <Coords points="147,788 1301,788 1279,748 147,748"/>
                 <Baseline points="154,774 213,775 273,776 333,777 393,777 453,777 513,778 573,778 633,778 693,778 753,778 813,777 873,777 933,777 993,777 1053,777 1113,777 1173,777 1233,778 1293,778"/>
                 <TextEquiv>
                     <Unicode>der zweite Partialton eine grössere Intensität erreicht hätte, als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+            <TextLine id="r1l18" custom="readingOrder {index:15;} m_note {offset:11; length:8;}">
                 <Coords points="146,827 1300,818 1269,787 146,795"/>
                 <Baseline points="153,818 212,818 272,818 332,819 392,819 452,819 512,819 572,819 632,820 692,820 752,820 812,820 872,820 932,820 992,820 1052,819 1112,819 1172,819 1232,819 1292,819"/>
                 <TextEquiv>
                     <Unicode>selbst der Grundton; ausserdem werden auch alle übrigen gerad¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:16;}">
+            <TextLine id="r1l19" custom="readingOrder {index:16;} concept_phy {offset:9; length:13;} m_interval {offset:27; length:5;} textStyle {offset:44; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:48; length:6; continued:true;}">
                 <Coords points="145,873 1296,859 1173,828 145,834"/>
                 <Baseline points="153,861 209,861 266,861 323,861 380,861 436,862 493,862 550,862 607,862 663,862 720,863 777,863 834,863 890,863 947,863 1004,863 1061,862 1117,862 1174,861 1231,860 1288,859"/>
                 <TextEquiv>
                     <Unicode>zahligen Partialklänge der Prime verstärkt. Das Octav¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+            <TextLine id="r1l20" custom="readingOrder {index:17;} textStyle {offset:0; length:52;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:0; length:9; continued:true;}">
                 <Coords points="145,916 1295,914 1295,881 1245,871 145,874"/>
                 <Baseline points="152,903 208,903 265,903 322,903 379,904 436,904 492,904 549,904 606,904 663,905 720,905 776,905 833,905 890,905 947,905 1004,905 1060,904 1117,904 1174,904 1231,903 1288,903"/>
                 <TextEquiv>
                     <Unicode>intervall erscheint also blos als eine Aenderung der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:18;}">
+            <TextLine id="r1l21" custom="readingOrder {index:18;} textStyle {offset:0; length:20;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:0; length:10;} m_interval {offset:15; length:5;} m_interval {offset:41; length:6;}">
                 <Coords points="148,955 1299,955 1299,922 1159,916 148,916"/>
                 <Baseline points="155,946 211,946 268,946 325,946 382,946 439,946 495,946 552,946 609,946 666,946 723,946 779,946 836,946 893,946 950,946 1007,946 1063,946 1120,946 1177,946 1234,946 1291,946"/>
                 <TextEquiv>
                     <Unicode>Klangfarbe der Prime. Vernehmen wir eine Quinte, so</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+            <TextLine id="r1l22" custom="readingOrder {index:19;} concept_phy {offset:35; length:10;}">
                 <Coords points="142,995 1190,1003 1297,995 1297,962 142,965"/>
                 <Baseline points="149,987 206,987 263,987 320,987 377,988 434,988 491,988 548,988 605,988 662,988 719,988 776,988 833,989 890,989 947,989 1004,988 1061,988 1118,988 1175,988 1232,988 1289,987"/>
                 <TextEquiv>
                     <Unicode>scheinen der zweite und der dritte Partialton eines Klanges das</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+            <TextLine id="r1l23" custom="readingOrder {index:20;} m_note {offset:22; length:8;}">
                 <Coords points="147,1038 1303,1042 1279,996 147,1000"/>
                 <Baseline points="154,1028 211,1029 268,1029 325,1030 382,1030 439,1030 496,1031 553,1031 610,1031 667,1031 725,1031 782,1031 839,1032 896,1032 953,1031 1010,1031 1067,1031 1124,1031 1181,1031 1238,1030 1296,1030"/>
                 <TextEquiv>
@@ -189,7 +189,7 @@ Transkribus</Creator>
                     <Unicode>ihn in den Hintergrund drängen. Wir haben dann z. B. den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:22;}">
+            <TextLine id="r1l25" custom="readingOrder {index:22;} concept_mus {offset:0; length:5;}">
                 <Coords points="149,1123 216,1123 224,1131 248,1131 255,1124 263,1124 263,1091 197,1092 185,1083 149,1087"/>
                 <Baseline points="156,1116 181,1115 206,1116 231,1116 256,1116"/>
                 <TextEquiv>
@@ -197,28 +197,28 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Anblasen der Blasinstrumente erhält, wie an das unfreiwillige
-„Ueberblasen“ der Flöten u. s. w. Diese Thatsachen sind allerdings
-extreme Fälle; doch sind sie durch eine ununterbrochene Reihe
-von vermittelnden Erscheinungen mit den normalen Klangfarben.
-und schliesslich mit dem einfachen Tone verknüpft. Wenn wir
-den Grundton überall erkennen, mag sich die Klangfarbe noch so
-sehr ändern, so wird die allmälige Verstärkung anderer Partialtöne
-bis zu ihrem entschiedenen Uebergewicht über den Grundton ge¬
-wissermassen nur als Verrückung des Schwerpunctes
-innerhalb eines und desselben Klanges empfunden, nicht
-als Uebergang zu einem neuen Klange, mögen nun die sich hervor¬
-drängenden Partialtöne von Einer Tonquelle oder von mehreren
-herrühren. Wenn wir die Octave zugleich mit der Prime hören,
-so ist der Eindruck kein anderer, als wenn im Klange der Prime
-der zweite Partialton eine grössere Intensität erreicht hätte, als
-selbst der Grundton; ausserdem werden auch alle übrigen gerad¬
-zahligen Partialklänge der Prime verstärkt. Das Octav¬
-intervall erscheint also blos als eine Aenderung der
-Klangfarbe der Prime. Vernehmen wir eine Quinte, so
-scheinen der zweite und der dritte Partialton eines Klanges das
-Uebergewicht über den Grundton gewonnen zu haben, so dass sie
-ihn in den Hintergrund drängen. Wir haben dann z. B. den
+                <Unicode>Anblasen der Blasinstrumente erhält, wie an das unfreiwillige&#13;
+„Ueberblasen” der Flöten u. s. w. Diese Thatsachen sind allerdings&#13;
+extreme Fälle; doch sind sie durch eine ununterbrochene Reihe&#13;
+von vermittelnden Erscheinungen mit den normalen Klangfarben,&#13;
+und schliesslich mit dem einfachen Tone verknüpft. Wenn wir&#13;
+den Grundton überall erkennen, mag sich die Klangfarbe noch so&#13;
+sehr ändern, so wird die allmälige Verstärkung anderer Partialtöne&#13;
+bis zu ihrem entschiedenen Uebergewicht über den Grundton ge¬&#13;
+wissermassen nur als Verrückung des Schwerpunctes&#13;
+innerhalb eines und desselben Klanges empfunden, nicht&#13;
+als Uebergang zu einem neuen Klange, mögen nun die sich hervor¬&#13;
+drängenden Partialtöne von Einer Tonquelle oder von mehreren&#13;
+herrühren. Wenn wir die Octave zugleich mit der Prime hören,&#13;
+so ist der Eindruck kein anderer, als wenn im Klange der Prime&#13;
+der zweite Partialton eine grössere Intensität erreicht hätte, als&#13;
+selbst der Grundton; ausserdem werden auch alle übrigen gerad¬&#13;
+zahligen Partialklänge der Prime verstärkt. Das Octav¬&#13;
+intervall erscheint also blos als eine Aenderung der&#13;
+Klangfarbe der Prime. Vernehmen wir eine Quinte, so&#13;
+scheinen der zweite und der dritte Partialton eines Klanges das&#13;
+Uebergewicht über den Grundton gewonnen zu haben, so dass sie&#13;
+ihn in den Hintergrund drängen. Wir haben dann z. B. den&#13;
 Klang:</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -227,63 +227,63 @@ Klang:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1626173922967_1551" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
             <Coords points="135,1170 1298,1170 1298,1545 135,1545"/>
-            <TextLine id="r1l31" custom="readingOrder {index:0;}">
+            <TextLine id="r1l31" custom="readingOrder {index:0;} concept_phy {offset:27; length:11;}">
                 <Coords points="144,1211 1296,1212 1262,1164 144,1171"/>
                 <Baseline points="151,1198 207,1198 264,1199 321,1199 378,1199 435,1199 492,1199 548,1199 605,1199 662,1199 719,1199 776,1199 833,1199 890,1199 946,1199 1003,1199 1060,1199 1117,1199 1174,1199 1231,1199 1288,1199"/>
                 <TextEquiv>
                     <Unicode>in dem die eingeklammerten Partialtöne fehlen, der zweite und der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:1;}">
+            <TextLine id="r1l32" custom="readingOrder {index:1;} textStyle {offset:50; length:13;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="142,1252 1301,1252 1301,1216 1239,1210 142,1213"/>
                 <Baseline points="149,1240 206,1240 263,1240 320,1240 378,1241 435,1241 492,1241 549,1241 607,1241 664,1241 721,1241 778,1242 836,1242 893,1242 950,1242 1007,1242 1065,1242 1122,1242 1179,1241 1236,1241 1294,1241"/>
                 <TextEquiv>
                     <Unicode>dritte aber dominiren. Doch ist zu bemerken, dass die fehlenden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:2;}">
+            <TextLine id="r1l33" custom="readingOrder {index:2;} textStyle {offset:0; length:48;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:0; length:11;} concept_phy {offset:32; length:16;}">
                 <Coords points="145,1293 1299,1292 1299,1257 1247,1252 145,1251"/>
                 <Baseline points="152,1283 209,1284 266,1284 323,1284 380,1284 437,1284 494,1284 551,1284 608,1284 665,1284 722,1284 779,1284 836,1284 893,1284 950,1284 1007,1283 1064,1283 1121,1283 1178,1283 1235,1283 1292,1283"/>
                 <TextEquiv>
                     <Unicode>Partialtöne zum Theil durch die Combinationstöne</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:3;}">
+            <TextLine id="r1l34" custom="readingOrder {index:3;} textStyle {offset:0; length:14;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:35; length:13;} m_interval {offset:53; length:9;}">
                 <Coords points="138,1339 1303,1331 1302,1291 138,1303"/>
                 <Baseline points="145,1326 202,1326 260,1326 317,1326 375,1326 432,1326 490,1326 547,1326 605,1326 662,1326 720,1326 778,1326 835,1326 893,1326 950,1326 1008,1326 1065,1326 1123,1326 1180,1325 1238,1325 1296,1325"/>
                 <TextEquiv>
                     <Unicode>ersetzt werden, da bekanntlich die Differenztöne das Intervall</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:4;}">
+            <TextLine id="r1l35" custom="readingOrder {index:4;} concept_phy {offset:17; length:5;} concept_phy {offset:27; length:12;}">
                 <Coords points="140,1380 1279,1380 1290,1343 140,1345"/>
                 <Baseline points="147,1367 203,1367 260,1367 317,1367 374,1367 431,1367 487,1367 544,1368 601,1368 658,1368 715,1368 771,1368 828,1369 885,1369 942,1369 999,1369 1055,1369 1112,1368 1169,1368 1226,1368 1283,1367"/>
                 <TextEquiv>
                     <Unicode>stets zur vollen Reihe von Partialtönen ergänzen, die bis zu dem</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:5;}">
+            <TextLine id="r1l36" custom="readingOrder {index:5;} m_note {offset:28; length:4;}">
                 <Coords points="147,1419 1291,1419 1276,1379 147,1380"/>
                 <Baseline points="154,1407 210,1407 267,1407 323,1407 380,1407 436,1407 493,1408 549,1408 606,1408 662,1409 719,1409 775,1409 832,1409 888,1409 945,1409 1001,1409 1058,1409 1114,1409 1171,1408 1227,1408 1284,1407"/>
                 <TextEquiv>
                     <Unicode>höheren der beiden primären Töne reicht (s. § 3). Wenn wir</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:6;}">
+            <TextLine id="r1l37" custom="readingOrder {index:6;} person_author {offset:11; length:11;ID:P0001;} textStyle {offset:11; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:35; length:19;}">
                 <Coords points="144,1459 915,1439 1240,1467 1289,1418 144,1427"/>
                 <Baseline points="152,1449 208,1449 265,1449 321,1449 378,1449 434,1449 491,1449 547,1449 604,1449 660,1449 717,1449 773,1449 830,1449 886,1449 943,1449 999,1449 1056,1449 1112,1448 1169,1448 1225,1447 1282,1446"/>
                 <TextEquiv>
-                    <Unicode>uns nun an Helmholtz's Theorie der Claviersaitenklänge</Unicode>
+                    <Unicode>uns nun an Helmholtz's Theorie der Claviersaitenklänge *)</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:7;}">
+            <TextLine id="r1l38" custom="readingOrder {index:7;} concept_phy {offset:17; length:12;} concept_phy {offset:34; length:11;}">
                 <Coords points="141,1499 1240,1508 1299,1499 1299,1460 141,1467"/>
                 <Baseline points="149,1490 206,1490 263,1490 320,1490 377,1490 434,1490 491,1490 548,1490 605,1490 662,1490 720,1490 777,1490 834,1490 891,1490 948,1490 1005,1490 1062,1490 1119,1490 1176,1490 1233,1490 1291,1490"/>
                 <TextEquiv>
                     <Unicode>erinnern, wo die Intensitäten der Partialtöne etwa in der Gegend</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626174070710_1631" custom="readingOrder {index:8;}">
+            <TextLine id="line_1626174070710_1631" custom="readingOrder {index:8;} m_interval {offset:12; length:6;} concept_phy {offset:32; length:5;}">
                 <Coords points="142,1540 999,1539 999,1508 934,1498 142,1499"/>
                 <Baseline points="149,1531 174,1531 199,1529 217,1531 255,1531 294,1531 333,1531 371,1531 410,1531 449,1531 487,1531 526,1531 565,1531 604,1531 642,1532 681,1532 720,1532 758,1532 797,1532 836,1532 874,1532 913,1532 952,1532 991,1533"/>
                 <TextEquiv>
@@ -291,14 +291,14 @@ Klang:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>in dem die eingeklammerten Partialtöne fehlen, der zweite und der
-dritte aber dominiren. Doch ist zu bemerken, dass die fehlenden
-Partialtöne zum Theil durch die Combinationstöne
-ersetzt werden, da bekanntlich die Differenztöne das Intervall
-stets zur vollen Reihe von Partialtönen ergänzen, die bis zu dem
-höheren der beiden primären Töne reicht (s. § 3). Wenn wir
-uns nun an Helmholtz's Theorie der Claviersaitenklänge
-erinnern, wo die Intensitäten der Partialtöne etwa in der Gegend
+                <Unicode>in dem die eingeklammerten Partialtöne fehlen, der zweite und der&#13;
+dritte aber dominiren. Doch ist zu bemerken, dass die fehlenden&#13;
+Partialtöne zum Theil durch die Combinationstöne&#13;
+ersetzt werden, da bekanntlich die Differenztöne das Intervall&#13;
+stets zur vollen Reihe von Partialtönen ergänzen, die bis zu dem&#13;
+höheren der beiden primären Töne reicht (s. § 3). Wenn wir&#13;
+uns nun an Helmholtz's Theorie der Claviersaitenklänge *)&#13;
+erinnern, wo die Intensitäten der Partialtöne etwa in der Gegend&#13;
 der grossen Octave die folgende Reihe aufweisen:</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -307,35 +307,35 @@ der grossen Octave die folgende Reihe aufweisen:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626173902969_1543" custom="readingOrder {index:5;} structure {type:paragraph;}">
             <Coords points="135,1626 1298,1626 1298,1834 135,1834"/>
-            <TextLine id="line_1626174076756_1641" custom="readingOrder {index:0;}">
+            <TextLine id="line_1626174076756_1641" custom="readingOrder {index:0;} concept_phy {offset:27; length:10;} m_interval {offset:57; length:6;}">
                 <Coords points="137,1668 1206,1674 1291,1668 1291,1625 137,1633"/>
                 <Baseline points="145,1656 175,1655 205,1656 239,1655 291,1655 343,1655 395,1655 447,1655 500,1656 552,1656 604,1656 656,1656 708,1656 761,1657 813,1657 865,1657 917,1657 969,1657 1022,1656 1074,1656 1126,1656 1178,1655 1230,1655 1283,1654"/>
                 <TextEquiv>
                     <Unicode>also der zweite und dritte Partialton, die zusammen eine Quinte</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l55" custom="readingOrder {index:1;}">
+            <TextLine id="r1l55" custom="readingOrder {index:1;} m_note {offset:12; length:8;}">
                 <Coords points="143,1706 1287,1707 1252,1664 143,1667"/>
                 <Baseline points="150,1698 206,1698 262,1698 319,1697 375,1697 432,1697 488,1697 545,1698 601,1698 658,1698 714,1698 770,1698 827,1698 883,1698 940,1698 996,1698 1053,1697 1109,1697 1166,1697 1222,1697 1279,1696"/>
                 <TextEquiv>
                     <Unicode>bilden, den Grundton um mehr als das Doppelte übertreffen, der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l56" custom="readingOrder {index:2;}">
+            <TextLine id="r1l56" custom="readingOrder {index:2;} concept_mus {offset:6; length:5;} concept_mus {offset:29; length:5;} m_note {offset:39; length:10;}">
                 <Coords points="140,1755 1289,1756 1289,1707 140,1715"/>
                 <Baseline points="147,1739 203,1739 260,1739 317,1739 373,1739 430,1739 487,1739 543,1739 600,1739 657,1739 714,1739 770,1739 827,1739 884,1739 940,1739 997,1739 1054,1739 1110,1738 1167,1738 1224,1738 1281,1737"/>
                 <TextEquiv>
                     <Unicode>ganze Klang aber dennoch als Klang des Grundtones erkannt wird,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l57" custom="readingOrder {index:3;}">
+            <TextLine id="r1l57" custom="readingOrder {index:3;} concept_mus {offset:28; length:15;}">
                 <Coords points="139,1789 999,1802 1278,1788 1287,1754 139,1755"/>
                 <Baseline points="146,1779 202,1779 259,1780 316,1780 372,1781 429,1781 486,1781 542,1781 599,1781 656,1781 713,1781 769,1781 826,1781 883,1781 939,1781 996,1781 1053,1781 1109,1780 1166,1780 1223,1780 1280,1780"/>
                 <TextEquiv>
                     <Unicode>so werden wir das Wesen der Klangvertretung durch einzelne</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l58" custom="readingOrder {index:4;}">
+            <TextLine id="r1l58" custom="readingOrder {index:4;} concept_mus {offset:0; length:18;}">
                 <Coords points="142,1835 900,1834 900,1809 843,1789 771,1806 726,1787 468,1805 142,1787"/>
                 <Baseline points="149,1823 186,1823 223,1823 260,1823 297,1823 335,1823 372,1823 409,1823 446,1823 483,1823 521,1823 558,1823 595,1823 632,1823 669,1823 707,1823 744,1823 781,1823 818,1823 855,1824 893,1824"/>
                 <TextEquiv>
@@ -352,14 +352,14 @@ Klangbestandtheile gewiss begreiflich finden.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1626173894511_1539" custom="readingOrder {index:6;} structure {type:paragraph-continued;}">
             <Coords points="135,1834 1298,1834 1298,1940 135,1940"/>
-            <TextLine id="r1l59" custom="readingOrder {index:0;}">
+            <TextLine id="r1l59" custom="readingOrder {index:0;} concept_mus {offset:48; length:4; continued:true;}">
                 <Coords points="231,1875 1289,1866 1230,1827 739,1855 231,1836"/>
                 <Baseline points="238,1866 290,1866 342,1865 394,1865 446,1865 499,1865 551,1865 603,1865 655,1866 707,1866 760,1866 812,1866 864,1866 916,1865 968,1865 1021,1865 1073,1865 1125,1864 1177,1864 1229,1863 1282,1863"/>
                 <TextEquiv>
                     <Unicode>Um nun das Gesagte kurz zusammenzufassen: Jedes har¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l60" custom="readingOrder {index:1;}">
+            <TextLine id="r1l60" custom="readingOrder {index:1;} concept_mus {offset:0; length:8; continued:true;} m_interval {offset:9; length:9;} concept_mus {offset:38; length:5;}">
                 <Coords points="132,1916 1294,1916 1294,1883 131,1883"/>
                 <Baseline points="139,1908 196,1908 253,1908 311,1908 368,1908 425,1908 483,1908 540,1908 597,1908 655,1908 712,1908 769,1908 827,1908 884,1908 941,1908 999,1907 1056,1907 1113,1907 1171,1906 1228,1906 1286,1905"/>
                 <TextEquiv>
@@ -373,14 +373,14 @@ monische Intervall repräsentirt einen Klang, der sich von allen</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1626173889014_1535" custom="readingOrder {index:7;} structure {type:footnote;}">
             <Coords points="135,1940 1298,1940 1298,2047 135,2047"/>
-            <TextLine id="r1l61" custom="readingOrder {index:0;}">
+            <TextLine id="r1l61" custom="readingOrder {index:0;} work_text {offset:3; length:33;ID:W0001;}">
                 <Coords points="222,2007 1299,2005 1257,1972 222,1971"/>
                 <Baseline points="229,1999 282,2000 335,2000 388,2001 441,2001 494,2002 547,2002 601,2002 654,2002 707,2002 760,2003 813,2003 866,2002 919,2002 973,2002 1026,2002 1079,2002 1132,2001 1185,2001 1238,2000 1292,2000"/>
                 <TextEquiv>
-                    <Unicode>*) Die Lehre von den Tonempfindungen. S. 128 fl. Die Tabelle der</Unicode>
+                    <Unicode>*) Die Lehre von den Tonempfindungen. S. 128 ff. Die Tabelle der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l62" custom="readingOrder {index:1;}">
+            <TextLine id="r1l62" custom="readingOrder {index:1;} concept_mus {offset:0; length:20;} m_interval {offset:38; length:7;}">
                 <Coords points="128,2046 1049,2043 1029,2003 973,2024 128,2003"/>
                 <Baseline points="135,2036 180,2036 225,2036 271,2036 316,2037 361,2037 407,2037 452,2037 497,2037 543,2037 588,2037 633,2037 679,2037 724,2037 769,2036 815,2036 860,2036 905,2036 951,2036 996,2036 1042,2036"/>
                 <TextEquiv>
@@ -388,7 +388,7 @@ monische Intervall repräsentirt einen Klang, der sich von allen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>*) Die Lehre von den Tonempfindungen. S. 128 fl. Die Tabelle der
+                <Unicode>*) Die Lehre von den Tonempfindungen. S. 128 ff. Die Tabelle der&#13;
 Klangzusammensetzung in verschiedenen Octaven S. 134.</Unicode>
             </TextEquiv>
         </TextRegion>

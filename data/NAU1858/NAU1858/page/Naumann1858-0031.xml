@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:19:44.996+01:00</Created>
-        <LastChange>2021-04-22T17:14:30.628+02:00</LastChange>
-        <TranskribusMetadata docId="548806" pageId="22904497" pageNr="31" tsid="57015150" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ADNTFPBQFKZUNKBRBJOZEUJW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=POUPYYOPLEPDSUBISFSHACIF" imageId="17867770"/>
+        <LastChange>2021-08-17T19:27:43.514+02:00</LastChange>
+        <TranskribusMetadata docId="738029" pageId="28086231" pageNr="31" tsid="62696651" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HGYAGDJBQSWYRJCRRVNYDVBG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ELEBUVVNHCSSALRRDWQSNUFL" imageId="21871009"/>
     </Metadata>
     <Page imageFilename="Naumann1858-0031.jpg" imageWidth="9108" imageHeight="11154" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624197101819" caption="Regions reading order">
+            <OrderedGroup id="ro_1630575152809" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1611343454112_3472"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1611343454112_3471"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1611343450939_3467"/>
@@ -32,21 +32,21 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1611343454112_3471" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="1546,1039 8068,1039 8068,1931 1546,1931"/>
-            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+            <TextLine id="r2l2" custom="readingOrder {index:0;} concept_mus {offset:57; length:7;}">
                 <Coords points="1516,1331 7543,1394 8105,1331 8106,1046 1517,1144"/>
                 <Baseline points="1554,1276 1879,1278 2204,1278 2529,1280 2855,1282 3180,1282 3505,1284 3831,1286 4156,1286 4481,1288 4807,1290 5132,1290 5457,1292 5782,1292 6108,1294 6433,1294 6758,1296 7084,1296 7409,1298 7734,1298 8060,1300"/>
                 <TextEquiv>
                     <Unicode>und es folgen auf der einen Seite doppelt, dreifach etc. erhöhte, auf der anderen doppelt, drei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+            <TextLine id="r2l3" custom="readingOrder {index:1;} concept_mus {offset:10; length:11;} m_note {offset:22; length:4;} concept_mus {offset:56; length:17;} concept_mus {offset:82; length:11; continued:true;}">
                 <Coords points="1539,1528 8062,1564 8063,1361 7738,1327 1540,1341"/>
                 <Baseline points="1578,1502 1900,1502 2222,1502 2544,1504 2866,1504 3189,1506 3511,1508 3833,1508 4155,1510 4477,1512 4800,1514 5122,1516 5444,1518 5766,1520 6088,1520 6411,1522 6733,1524 7055,1524 7377,1524 7699,1524 8022,1524"/>
                 <TextEquiv>
                     <Unicode>fach etc. erniedrigte Töne, von denen allerdings in der praktischen Musik nur die doppelt er¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+            <TextLine id="r2l4" custom="readingOrder {index:2;} concept_mus {offset:0; length:6; continued:true;} concept_mus {offset:11; length:12;}">
                 <Coords points="1540,1810 5087,1796 5087,1576 1541,1591"/>
                 <Baseline points="1584,1724 1757,1726 1930,1726 2103,1726 2276,1726 2449,1728 2622,1728 2795,1730 2968,1730 3141,1730 3314,1732 3487,1732 3660,1732 3833,1734 4006,1734 4179,1734 4352,1734 4525,1734 4698,1734 4871,1732 5044,1732"/>
                 <TextEquiv>
@@ -68,77 +68,77 @@ höhten und erniedrigten noch angewendet werden. —</Unicode>
                     <Unicode>§ 7.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l6" custom="readingOrder {index:1;}">
+            <TextLine id="r2l6" custom="readingOrder {index:1;} concept_mus {offset:29; length:7;} m_interval {offset:84; length:6; continued:true;}">
                 <Coords points="1996,2615 7779,2667 8063,2651 8064,2318 1996,2395"/>
                 <Baseline points="2040,2552 2339,2554 2638,2556 2937,2558 3237,2560 3536,2562 3835,2564 4135,2564 4434,2566 4733,2566 5033,2568 5332,2568 5631,2568 5930,2568 6230,2568 6529,2568 6828,2568 7128,2566 7427,2566 7726,2564 8026,2564"/>
                 <TextEquiv>
                     <Unicode>Es enthalten aber diese drei Classen, obgleich in jeder von ihnen die Bildung neuer Inter¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l7" custom="readingOrder {index:2;}">
+            <TextLine id="r2l7" custom="readingOrder {index:2;} m_interval {offset:0; length:5; continued:true;} concept_mus {offset:80; length:13; continued:true;}">
                 <Coords points="1532,2825 8096,2829 8096,2658 7462,2608 1533,2589"/>
                 <Baseline points="1570,2774 1894,2776 2218,2778 2542,2780 2867,2782 3191,2784 3515,2784 3840,2786 4164,2788 4488,2788 4813,2790 5137,2790 5461,2791 5785,2792 6110,2792 6434,2790 6758,2790 7083,2788 7407,2788 7731,2785 8056,2782"/>
                 <TextEquiv>
                     <Unicode>valle nach zwei Seiten hin in's Unendliche geht, doch noch nicht alle möglichen Tonbestimmun¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l8" custom="readingOrder {index:3;}">
+            <TextLine id="r2l8" custom="readingOrder {index:3;} concept_mus {offset:0; length:3; continued:true;} concept_phy {offset:63; length:26;}">
                 <Coords points="1517,3085 7439,3092 8090,2889 1517,2889"/>
                 <Baseline points="1556,3002 1880,3002 2205,3004 2530,3004 2855,3006 3180,3007 3504,3008 3829,3008 4154,3010 4479,3010 4804,3012 5128,3012 5453,3012 5778,3012 6103,3012 6428,3012 6752,3012 7077,3010 7402,3010 7727,3008 8052,3008"/>
                 <TextEquiv>
                     <Unicode>gen, sondern man findet neue, zum Theil noch ziemlich einfache relative Schwingungszahlen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l9" custom="readingOrder {index:4;} textStyle {offset:64; length:3;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:73; length:3;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r2l9" custom="readingOrder {index:4;} concept_phy {offset:40; length:13;} m_note {offset:58; length:4;} concept_mus {offset:63; length:4;} textStyle {offset:64; length:3;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:72; length:11;} textStyle {offset:73; length:3;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="1525,3264 8089,3305 8089,3126 7162,3035 1525,3117"/>
                 <Baseline points="1564,3218 1888,3222 2212,3224 2536,3226 2860,3228 3185,3230 3509,3232 3833,3232 4157,3234 4481,3234 4806,3234 5130,3234 5454,3234 5778,3234 6102,3234 6427,3234 6751,3232 7075,3232 7399,3232 7723,3230 8048,3230"/>
                 <TextEquiv>
                     <Unicode>entweder direct aus den wechselseitigen Verhältnissen der Töne 2ter und 3ter Classe, oder wenn</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l10" custom="readingOrder {index:5;}">
+            <TextLine id="r2l10" custom="readingOrder {index:5;} m_note {offset:46; length:4;} concept_mus {offset:58; length:7;} m_note {offset:69; length:10;} m_tonality {offset:84; length:4;}">
                 <Coords points="1532,3475 7063,3565 8063,3518 8064,3315 1532,3329"/>
                 <Baseline points="1570,3444 1892,3444 2215,3446 2537,3448 2860,3450 3182,3452 3505,3453 3827,3454 4150,3456 4472,3458 4795,3458 5117,3460 5440,3460 5762,3460 6085,3460 6407,3458 6730,3458 7052,3456 7375,3454 7697,3450 8020,3448"/>
                 <TextEquiv>
                     <Unicode>man, unserem bisherigen Verfahren analog, die Töne dieser Classen zu Grundtönen von Dur-</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l11" custom="readingOrder {index:6;}">
+            <TextLine id="r2l11" custom="readingOrder {index:6;} m_tonality {offset:4; length:11;} m_tonality {offset:58; length:9;} concept_mus {offset:83; length:7; continued:true;}">
                 <Coords points="1532,3711 7591,3753 8088,3697 8088,3501 1532,3508"/>
                 <Baseline points="1570,3664 1893,3666 2217,3668 2541,3672 2865,3673 3189,3674 3513,3676 3837,3678 4161,3679 4485,3680 4809,3680 5132,3682 5456,3682 5780,3682 6104,3680 6428,3680 6752,3679 7076,3678 7400,3676 7724,3674 8048,3672"/>
                 <TextEquiv>
                     <Unicode>und Moll-Scalen erhebt, welche man genau nach den für die Tonleiter festgestellten Normal-</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l12" custom="readingOrder {index:7;}">
+            <TextLine id="r2l12" custom="readingOrder {index:7;} concept_mus {offset:0; length:12; continued:true;} concept_mus {offset:80; length:7; continued:true;}">
                 <Coords points="1524,3939 8088,3947 7991,3728 1524,3711"/>
                 <Baseline points="1564,3886 1888,3888 2212,3890 2536,3894 2860,3896 3184,3898 3508,3900 3832,3900 4156,3902 4480,3904 4805,3904 5129,3904 5453,3904 5777,3904 6101,3904 6425,3903 6749,3902 7073,3900 7397,3898 7721,3894 8046,3892"/>
                 <TextEquiv>
                     <Unicode>Bestimmungen bildet. Schlagen wir, um in der Art und Weise der Entwickelung der Tonver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l13" custom="readingOrder {index:8;}">
+            <TextLine id="r2l13" custom="readingOrder {index:8;} concept_mus {offset:0; length:9; continued:true;} m_tonality {offset:82; length:9;}">
                 <Coords points="1531,4142 7111,4240 8111,4193 8112,3981 1531,3931"/>
                 <Baseline points="1568,4108 1893,4111 2218,4114 2543,4116 2868,4118 3193,4121 3518,4122 3843,4124 4168,4126 4493,4126 4818,4128 5143,4128 5468,4128 5793,4128 6118,4126 6443,4126 6768,4124 7093,4123 7418,4122 7743,4119 8068,4116"/>
                 <TextEquiv>
                     <Unicode>hältnisse consequent zu bleiben, den letzten Weg ein, so findet sich, dass in den Durscalen der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l14" custom="readingOrder {index:9;} textStyle {offset:6; length:3;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r2l14" custom="readingOrder {index:9;} m_note {offset:0; length:4;} concept_mus {offset:5; length:11;} textStyle {offset:6; length:3;fontSize:0.0; kerning:0; superscript:true;} m_interval {offset:21; length:11;} m_interval {offset:34; length:12;} m_interval {offset:51; length:14;} m_tonality {offset:74; length:10;} m_note {offset:89; length:4;}">
                 <Coords points="1539,4411 8095,4404 7819,4184 1540,4150"/>
                 <Baseline points="1576,4328 1899,4332 2223,4336 2547,4340 2871,4342 3195,4344 3519,4346 3843,4348 4167,4350 4491,4350 4815,4350 5138,4352 5462,4350 5786,4350 6110,4350 6434,4348 6758,4346 7082,4346 7406,4344 7730,4341 8054,4338"/>
                 <TextEquiv>
                     <Unicode>Töne 2ter Classe die grosse Terz, grosse Sexte und grosse Septime, in den Mollscalen der Töne</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l15" custom="readingOrder {index:10;} textStyle {offset:1; length:3;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r2l15" custom="readingOrder {index:10;} concept_mus {offset:0; length:11;} textStyle {offset:1; length:3;fontSize:0.0; kerning:0; superscript:true;} m_interval {offset:24; length:11;} m_interval {offset:40; length:12;} m_note {offset:75; length:16;}">
                 <Coords points="1538,4622 7557,4730 8086,4397 1538,4411"/>
                 <Baseline points="1576,4550 1899,4555 2223,4558 2546,4562 2870,4566 3193,4568 3517,4570 3840,4572 4164,4573 4487,4574 4811,4574 5134,4574 5458,4574 5781,4573 6105,4572 6428,4572 6752,4570 7075,4568 7399,4568 7722,4566 8046,4564"/>
                 <TextEquiv>
                     <Unicode>3ter Classe dagegen die kleine Terz und kleine Sexte neue Verhältnisse zum Central-Grundton</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l16" custom="readingOrder {index:11;}">
+            <TextLine id="r2l16" custom="readingOrder {index:11;} m_tonality {offset:55; length:6;}">
                 <Coords points="1504,4861 6148,4926 6149,4650 5572,4599 1505,4650"/>
                 <Baseline points="1546,4780 1773,4782 2001,4785 2229,4788 2457,4790 2685,4790 2913,4792 3141,4794 3369,4794 3597,4796 3825,4796 4052,4796 4280,4798 4508,4798 4736,4798 4964,4798 5192,4798 5420,4798 5648,4798 5876,4798 6104,4798"/>
                 <TextEquiv>

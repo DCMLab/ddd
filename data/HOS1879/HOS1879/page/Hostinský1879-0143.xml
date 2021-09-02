@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:32.992+01:00</Created>
-        <LastChange>2021-07-14T18:33:58.339+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902777" pageNr="143" tsid="61441854" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=RUJURHIXNVKXGBUIOXJKKVMQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GYTRJPBCJZAYOSNEOTYNVXQL" imageId="17866068"/>
+        <LastChange>2021-08-28T10:36:15.925+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28702053" pageNr="143" tsid="63600682" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HSDKNOKCLVPDMZMFRYRNCXRH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KQBGUAIIKSSZIMVYGXIJRFGS" imageId="22425131"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0143.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454122753" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573589586" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626276700220_1493"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626276700220_1492"/>
             </OrderedGroup>
@@ -45,14 +45,14 @@ Transkribus</Creator>
                     <Unicode>der Thüre in's Haus fällt, sondern manche Beziehung nur andeutet,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:45; length:12;}">
                 <Coords points="135,284 1260,291 1296,251 135,252"/>
                 <Baseline points="142,276 199,276 256,275 313,275 371,275 428,276 485,276 543,276 600,276 657,276 715,277 772,277 829,277 886,277 944,277 1001,277 1058,277 1116,277 1173,277 1230,276 1288,276"/>
                 <TextEquiv>
                     <Unicode>um sie vom Hörer errathen zu lassen, manchen mehrdeutigen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:0; length:7;}">
                 <Coords points="138,331 1299,324 1299,289 1224,283 138,284"/>
                 <Baseline points="145,318 202,318 259,318 316,318 374,318 431,318 488,319 546,319 603,319 660,319 718,319 775,319 832,319 889,319 947,319 1004,319 1061,319 1119,319 1176,319 1233,319 1291,320"/>
                 <TextEquiv>
@@ -63,17 +63,17 @@ Transkribus</Creator>
                 <Coords points="138,370 1281,371 1281,329 139,331"/>
                 <Baseline points="145,357 201,358 257,358 314,359 370,359 427,360 483,360 539,361 596,361 652,361 709,361 765,361 821,362 878,362 934,362 991,361 1047,361 1103,361 1160,361 1216,361 1273,361"/>
                 <TextEquiv>
-                    <Unicode>überraschen. Man kann also ganz wohl von „Prosa“ und „Poesie</Unicode>
+                    <Unicode>überraschen. Man kann also ganz wohl von „Prosa” und „Poesie”</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} concept_mus {offset:29; length:17;}">
                 <Coords points="140,412 1188,419 1301,411 1301,378 140,380"/>
                 <Baseline points="147,403 204,402 261,402 319,402 376,402 433,402 491,402 548,402 605,402 663,403 720,403 777,403 835,403 892,404 949,404 1007,404 1064,404 1121,404 1179,403 1236,403 1294,402"/>
                 <TextEquiv>
                     <Unicode>selbst im Gebiete der reinen Instrumentalmusik sprechen, ohne</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_mus {offset:23; length:3;}">
                 <Coords points="142,452 1292,453 1255,412 142,412"/>
                 <Baseline points="149,445 205,445 262,445 319,445 376,445 433,445 489,445 546,445 603,445 660,445 717,445 773,445 830,445 887,445 944,445 1001,445 1057,445 1114,445 1171,445 1228,445 1285,446"/>
                 <TextEquiv>
@@ -95,14 +95,14 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>nicht überall den kürzesten Weg einschlägt, so zu sagen nicht mit
-der Thüre in's Haus fällt, sondern manche Beziehung nur andeutet,
-um sie vom Hörer errathen zu lassen, manchen mehrdeutigen
-Schritt in einer geradezu witzigen Weise ausbeutet, um damit zu
-überraschen. Man kann also ganz wohl von „Prosa“ und „Poesie
-selbst im Gebiete der reinen Instrumentalmusik sprechen, ohne
-darum zu läugnen, dass Ton und Wort völlig verschiedenartige
-Kunstmittel sind, die materiell Disparates, wenn auch in analoger
+                <Unicode>nicht überall den kürzesten Weg einschlägt, so zu sagen nicht mit&#13;
+der Thüre in's Haus fällt, sondern manche Beziehung nur andeutet,&#13;
+um sie vom Hörer errathen zu lassen, manchen mehrdeutigen&#13;
+Schritt in einer geradezu witzigen Weise ausbeutet, um damit zu&#13;
+überraschen. Man kann also ganz wohl von „Prosa” und „Poesie”&#13;
+selbst im Gebiete der reinen Instrumentalmusik sprechen, ohne&#13;
+darum zu läugnen, dass Ton und Wort völlig verschiedenartige&#13;
+Kunstmittel sind, die materiell Disparates, wenn auch in analoger&#13;
 Form zur Anschauung bringen.</Unicode>
             </TextEquiv>
         </TextRegion>

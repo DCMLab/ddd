@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:30.017+01:00</Created>
-        <LastChange>2021-07-15T16:30:56.476+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902362" pageNr="11" tsid="61491259" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=JMSHCHKMVJXSSAJTYFOZCJRJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ULROYPLGNWOBVAPLJOLRBHZJ" imageId="17865667"/>
+        <LastChange>2021-08-24T15:05:23.406+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28701687" pageNr="11" tsid="63263795" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HOOYOLUTLURRQFHOEFOHHVZJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FXJIUFMSNKENBDMTQULSJSZG" imageId="22424783"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0011.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454104896" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573569193" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626023689243_489"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626023689243_488"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1626023683838_480"/>
@@ -34,14 +34,14 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626023689243_488" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="153,128 1312,128 1312,502 153,502"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:42; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} location {offset:8; length:11;} textStyle {offset:42; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:42; length:9;ID:P0108;} time {offset:55; length:7;}">
                 <Coords points="156,196 1313,196 1313,154 156,147"/>
                 <Baseline points="164,182 221,182 278,183 335,183 392,183 449,183 506,183 563,183 620,183 677,184 735,184 792,184 849,184 906,184 963,184 1020,184 1077,184 1134,185 1191,185 1248,185 1306,186"/>
                 <TextEquiv>
                     <Unicode>lich in Deutschland, in der Regel die von Scheibler im J. 1834</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:43; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_phy {offset:15; length:15;} m_note {offset:43; length:2;} textStyle {offset:43; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="156,235 1272,243 1319,203 156,205"/>
                 <Baseline points="163,224 220,225 277,225 335,226 392,226 450,226 507,227 565,227 622,227 680,227 737,227 794,227 852,227 909,227 967,227 1024,227 1082,227 1139,228 1197,228 1254,228 1312,229"/>
                 <TextEquiv>
@@ -69,14 +69,14 @@ Transkribus</Creator>
                     <Unicode>die Zahl 435. Ein Blick auf die folgender Uebersichtstabelle, in</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;} textStyle {offset:51; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} concept_phy {offset:12; length:17;} m_note {offset:42; length:4;} m_tonality {offset:51; length:6; continued:true;} textStyle {offset:51; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="160,403 1309,399 1253,363 160,371"/>
                 <Baseline points="167,395 223,395 280,395 337,395 394,396 450,396 507,396 564,396 621,397 677,397 734,397 791,397 848,397 904,398 961,398 1018,398 1075,397 1131,397 1188,397 1245,396 1302,395"/>
                 <TextEquiv>
                     <Unicode>welcher die Schwingungszahlen sämmtlicher Töne der C-dur¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} m_tonality {offset:0; length:9; continued:true;} concept_mus {offset:13; length:7;} m_interval {offset:27; length:7;}">
                 <Coords points="154,452 1308,451 1308,418 1083,404 154,412"/>
                 <Baseline points="161,438 218,438 275,438 332,439 389,439 446,439 503,439 560,439 617,439 674,439 731,440 788,440 845,440 902,440 959,440 1016,440 1073,441 1130,441 1187,441 1244,442 1301,442"/>
                 <TextEquiv>
@@ -110,21 +110,21 @@ dies einzusehen:</Unicode>
         </TableRegion>
         <TextRegion orientation="0.0" id="TextRegion_1626023683838_480" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
             <Coords points="153,953 1312,953 1312,1088 153,1088"/>
-            <TextLine id="r1l75" custom="readingOrder {index:0;} textStyle {offset:47; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l75" custom="readingOrder {index:0;} concept_phy {offset:15; length:15;} m_note {offset:35; length:10;} textStyle {offset:47; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:47; length:1;}">
                 <Coords points="238,1003 1301,1004 1301,968 1224,956 238,962"/>
                 <Baseline points="246,991 298,992 350,992 403,992 455,992 508,992 560,992 612,992 665,992 717,992 770,992 822,991 874,991 927,991 979,992 1032,992 1084,992 1136,992 1189,992 1241,993 1294,993"/>
                 <TextEquiv>
                     <Unicode>Nehmen wir die Schwingungszahl des Grundtones (C) als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l76" custom="readingOrder {index:1;}">
+            <TextLine id="r1l76" custom="readingOrder {index:1;} m_tonality {offset:36; length:12;}">
                 <Coords points="146,1044 1284,1043 1306,1010 145,1003"/>
                 <Baseline points="153,1036 210,1035 267,1035 324,1035 382,1034 439,1034 496,1034 553,1034 611,1034 668,1034 725,1034 782,1034 840,1034 897,1034 954,1034 1011,1034 1069,1034 1126,1034 1183,1035 1240,1035 1298,1035"/>
                 <TextEquiv>
                     <Unicode>Einheit an, so erhalten wir für die Durtonleiter und die in ihr</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l77" custom="readingOrder {index:2;}">
+            <TextLine id="r1l77" custom="readingOrder {index:2;} concept_mus {offset:12; length:6;} concept_phy {offset:28; length:15;}">
                 <Coords points="150,1091 911,1090 940,1083 940,1050 150,1052"/>
                 <Baseline points="157,1079 195,1078 234,1078 273,1077 312,1077 351,1077 389,1077 428,1076 467,1076 506,1076 545,1077 583,1077 622,1077 661,1077 700,1077 739,1077 777,1077 816,1077 855,1077 894,1077 933,1077"/>
                 <TextEquiv>
@@ -142,98 +142,98 @@ enthaltenen Stufen folgende relative Werthe:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1626023671101_472" custom="readingOrder {index:5;} structure {type:paragraph-continued;}">
             <Coords points="153,1262 1312,1262 1312,1869 153,1869"/>
-            <TextLine id="line_1626023796758_547" custom="readingOrder {index:0;}">
+            <TextLine id="line_1626023796758_547" custom="readingOrder {index:0;} concept_mus {offset:52; length:7;}">
                 <Coords points="155,1307 1308,1307 1308,1271 1232,1261 155,1268"/>
                 <Baseline points="162,1295 190,1295 218,1297 253,1297 305,1297 357,1297 410,1297 462,1297 515,1297 567,1296 619,1296 672,1296 724,1296 777,1296 829,1296 881,1296 934,1296 986,1296 1039,1296 1091,1296 1143,1296 1196,1296 1248,1296 1301,1296"/>
                 <TextEquiv>
                     <Unicode>Der Umfang jener Tabelle entspricht so ziemlich dem Umfange</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l98" custom="readingOrder {index:1;}">
+            <TextLine id="r1l98" custom="readingOrder {index:1;} concept_mus {offset:11; length:5;} m_note {offset:34; length:4;} concept_mus {offset:44; length:9;}">
                 <Coords points="152,1347 1307,1347 1261,1308 152,1315"/>
                 <Baseline points="159,1338 216,1338 273,1338 330,1338 387,1338 444,1338 501,1338 558,1338 615,1338 672,1338 729,1338 786,1338 843,1338 900,1338 957,1338 1014,1338 1071,1338 1128,1338 1185,1338 1242,1338 1300,1338"/>
                 <TextEquiv>
                     <Unicode>der in der Musik gebräuchlichsten Töne. Bei Clavieren werden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l99" custom="readingOrder {index:2;}">
+            <TextLine id="r1l99" custom="readingOrder {index:2;} m_note {offset:32; length:4;}">
                 <Coords points="152,1387 1305,1390 1305,1356 1255,1347 152,1356"/>
                 <Baseline points="159,1378 218,1377 278,1377 338,1377 398,1377 458,1377 518,1377 578,1377 638,1377 698,1377 758,1377 818,1378 878,1378 938,1378 998,1378 1058,1378 1118,1378 1178,1378 1238,1378 1298,1378"/>
                 <TextEquiv>
                     <Unicode>eher noch in der Tiefe einzelne Töne zugegeben, als in der Höhe;</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l100" custom="readingOrder {index:3;} textStyle {offset:14; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:15; length:1;fontSize:0.0; kerning:0; subscript:true;}">
+            <TextLine id="r1l100" custom="readingOrder {index:3;} m_note {offset:4; length:12;} textStyle {offset:14; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:15; length:1;fontSize:0.0; kerning:0; subscript:true;}">
                 <Coords points="156,1426 1277,1428 1303,1389 156,1390"/>
                 <Baseline points="163,1419 219,1419 276,1418 332,1418 389,1418 446,1418 502,1418 559,1419 615,1419 672,1419 729,1419 785,1419 842,1419 898,1419 955,1419 1012,1419 1068,1419 1125,1419 1181,1419 1238,1419 1295,1418"/>
                 <TextEquiv>
                     <Unicode>das Subcontra-A2, findet man wenigstens häufiger, als das fünfmal</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l101" custom="readingOrder {index:4;} textStyle {offset:12; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:13; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r1l101" custom="readingOrder {index:4;} m_note {offset:12; length:2;} textStyle {offset:12; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:13; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:19; length:9;} m_note {offset:48; length:3;}">
                 <Coords points="163,1474 1308,1468 1270,1428 163,1433"/>
                 <Baseline points="170,1459 226,1459 283,1459 339,1459 396,1459 452,1460 509,1460 565,1460 622,1460 678,1460 735,1460 791,1461 848,1461 904,1461 961,1461 1017,1461 1074,1460 1130,1460 1187,1460 1243,1460 1300,1460"/>
                 <TextEquiv>
                     <Unicode>gestrichene c5. Im Orchester pflegt der tiefste Ton der der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l102" custom="readingOrder {index:5;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l102" custom="readingOrder {index:5;} concept_mus {offset:0; length:7;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:11; length:10;} m_interval {offset:55; length:6;}">
                 <Coords points="156,1515 1293,1514 1302,1473 156,1474"/>
                 <Baseline points="163,1500 219,1500 276,1501 332,1501 389,1501 445,1502 502,1502 558,1502 615,1502 671,1502 728,1502 785,1502 841,1502 898,1502 954,1502 1011,1502 1067,1502 1124,1501 1180,1501 1237,1501 1294,1501"/>
                 <TextEquiv>
                     <Unicode>E-Saite am Contrabass zu sein, der bekanntlich um eine Octave</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l103" custom="readingOrder {index:6;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:42; length:1;fontSize:0.0; kerning:0; subscript:true;}">
+            <TextLine id="r1l103" custom="readingOrder {index:6;} m_note {offset:41; length:2;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:42; length:1;fontSize:0.0; kerning:0; subscript:true;}">
                 <Coords points="155,1555 1309,1556 1309,1514 1191,1508 155,1515"/>
                 <Baseline points="162,1543 219,1543 276,1543 333,1543 390,1543 447,1543 504,1543 561,1543 618,1543 675,1543 732,1543 789,1544 846,1544 903,1544 960,1544 1017,1544 1074,1544 1131,1543 1188,1543 1245,1543 1302,1542"/>
                 <TextEquiv>
                     <Unicode>tiefer als er geschrieben wird, also wie E1 klingt; der höchste</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l104" custom="readingOrder {index:7;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:42; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r1l104" custom="readingOrder {index:7;} m_interval {offset:18; length:6;} m_note {offset:41; length:2;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:42; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:48; length:11;}">
                 <Coords points="151,1596 1305,1596 1272,1555 151,1561"/>
                 <Baseline points="158,1584 215,1584 272,1584 329,1584 386,1584 443,1584 500,1584 557,1584 614,1584 671,1584 728,1584 785,1584 842,1584 899,1584 956,1584 1013,1584 1070,1584 1127,1584 1184,1584 1241,1584 1298,1584"/>
                 <TextEquiv>
-                    <Unicode>etwa das (um eine Octave tiefer notirte) d5 der Piccolflôte. Nur</Unicode>
+                    <Unicode>etwa das (um eine Octave tiefer notirte) d5 der Piccolflöte. Nur</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l105" custom="readingOrder {index:8;}">
+            <TextLine id="r1l105" custom="readingOrder {index:8;} concept_mus {offset:59; length:3; continued:true;}">
                 <Coords points="152,1634 1299,1631 1272,1596 152,1604"/>
                 <Baseline points="159,1626 215,1626 272,1626 328,1625 385,1625 442,1625 498,1625 555,1625 611,1625 668,1625 725,1626 781,1626 838,1626 894,1626 951,1626 1008,1626 1064,1626 1121,1626 1177,1626 1234,1625 1291,1625"/>
                 <TextEquiv>
                     <Unicode>ausnahmsweise werden diese Grenzen von gewissen selteneren In¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l106" custom="readingOrder {index:9;}">
+            <TextLine id="r1l106" custom="readingOrder {index:9;} concept_mus {offset:0; length:10; continued:true;} concept_mus {offset:30; length:9;}">
                 <Coords points="146,1675 1233,1681 1309,1675 1309,1641 146,1645"/>
                 <Baseline points="153,1666 210,1666 267,1667 325,1667 382,1667 440,1667 497,1667 555,1667 612,1667 670,1667 727,1667 784,1667 842,1667 899,1667 957,1667 1014,1667 1072,1667 1129,1667 1187,1667 1244,1667 1302,1667"/>
                 <TextEquiv>
                     <Unicode>strumenten überschritten; die Basstuben sind z. B. im Stande, bis</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l107" custom="readingOrder {index:10;} textStyle {offset:24; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:25; length:1;fontSize:0.0; kerning:0; subscript:true;}">
+            <TextLine id="r1l107" custom="readingOrder {index:10;} concept_mus {offset:7; length:15;} m_note {offset:24; length:2;} textStyle {offset:24; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:25; length:1;fontSize:0.0; kerning:0; subscript:true;}">
                 <Coords points="154,1715 1307,1715 1271,1676 154,1676"/>
                 <Baseline points="161,1708 217,1708 274,1708 331,1709 388,1709 445,1709 502,1709 559,1709 616,1709 673,1709 730,1709 786,1709 843,1709 900,1709 957,1709 1014,1709 1071,1709 1128,1709 1185,1708 1242,1708 1299,1708"/>
                 <TextEquiv>
                     <Unicode>in die Subcontraoctave (B2) herabzusteigen. Selbstverständlich ist</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l108" custom="readingOrder {index:11;}">
+            <TextLine id="r1l108" custom="readingOrder {index:11;} concept_mus {offset:20; length:5;} m_note {offset:41; length:5;}">
                 <Coords points="153,1762 1274,1763 1305,1722 153,1725"/>
                 <Baseline points="160,1752 216,1751 273,1751 330,1751 387,1751 444,1751 501,1751 558,1751 615,1751 672,1751 729,1751 785,1752 842,1752 899,1752 956,1752 1013,1752 1070,1751 1127,1751 1184,1750 1241,1750 1298,1749"/>
                 <TextEquiv>
                     <Unicode>aber mit den in der Musik gebräuchlichen Tönen noch nicht die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l109" custom="readingOrder {index:12;} textStyle {offset:50; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l109" custom="readingOrder {index:12;} concept_phy {offset:20; length:13;} textStyle {offset:50; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:50; length:5; continued:true;ID:P0001;}">
                 <Coords points="151,1803 1298,1796 1243,1762 151,1764"/>
                 <Baseline points="158,1794 214,1793 271,1793 327,1793 384,1792 441,1792 497,1792 554,1793 611,1793 667,1793 724,1793 781,1793 837,1793 894,1794 951,1794 1007,1794 1064,1793 1121,1793 1177,1793 1234,1792 1291,1791"/>
                 <TextEquiv>
                     <Unicode>Reihe der überhaupt wahrnehmbaren erschöpft. Nach Helm¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l110" custom="readingOrder {index:13;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l110" custom="readingOrder {index:13;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:0; length:5; continued:true;ID:P0001;} concept_phy {offset:21; length:4;} concept_phy {offset:35; length:12;} concept_phy {offset:55; length:7;}">
                 <Coords points="148,1844 1301,1843 1280,1804 148,1804"/>
                 <Baseline points="155,1836 214,1836 274,1835 334,1835 394,1835 454,1835 514,1835 574,1835 634,1835 694,1835 754,1835 814,1835 874,1835 934,1835 994,1835 1054,1835 1114,1835 1174,1834 1234,1834 1294,1834"/>
                 <TextEquiv>
@@ -248,7 +248,7 @@ das Subcontra-A2, findet man wenigstens häufiger, als das fünfmal&#13;
 gestrichene c5. Im Orchester pflegt der tiefste Ton der der&#13;
 E-Saite am Contrabass zu sein, der bekanntlich um eine Octave&#13;
 tiefer als er geschrieben wird, also wie E1 klingt; der höchste&#13;
-etwa das (um eine Octave tiefer notirte) d5 der Piccolflôte. Nur&#13;
+etwa das (um eine Octave tiefer notirte) d5 der Piccolflöte. Nur&#13;
 ausnahmsweise werden diese Grenzen von gewissen selteneren In¬&#13;
 strumenten überschritten; die Basstuben sind z. B. im Stande, bis&#13;
 in die Subcontraoctave (B2) herabzusteigen. Selbstverständlich ist&#13;
@@ -259,21 +259,21 @@ holtz *) genügen dem Ohre schon 30 Schwingungen in der Secunde</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1626023666415_468" custom="readingOrder {index:6;} structure {type:footnote;}">
             <Coords points="153,1869 1312,1869 1312,2080 153,2080"/>
-            <TextLine id="r1l111" custom="readingOrder {index:0;}">
+            <TextLine id="r1l111" custom="readingOrder {index:0;} work_text {offset:3; length:60; continued:true;ID:W0001;}">
                 <Coords points="228,1929 1302,1936 1281,1899 228,1901"/>
                 <Baseline points="235,1925 288,1927 341,1928 394,1929 447,1930 500,1930 553,1931 606,1931 659,1931 712,1931 765,1931 818,1930 871,1930 924,1930 977,1930 1030,1929 1083,1929 1136,1929 1189,1929 1242,1929 1295,1930"/>
                 <TextEquiv>
                     <Unicode>*) Die Lehre von den Tonempfindungen, als physiologische Grund¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l112" custom="readingOrder {index:1;} textStyle {offset:39; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l112" custom="readingOrder {index:1;} work_text {offset:0; length:30; continued:true;ID:W0001;} person_author {offset:36; length:12;ID:P0001;} textStyle {offset:39; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} location {offset:59; length:6; continued:true;}">
                 <Coords points="151,1976 1298,1968 1196,1932 151,1932"/>
                 <Baseline points="159,1965 215,1965 272,1965 328,1964 385,1964 442,1964 498,1964 555,1964 611,1964 668,1964 725,1964 781,1964 838,1964 894,1964 951,1964 1008,1964 1064,1964 1121,1964 1177,1964 1234,1963 1291,1963"/>
                 <TextEquiv>
                     <Unicode>lage für die Theorie der Musik. Von H. Helmholtz. 3. Aufl. Braun¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l113" custom="readingOrder {index:2;}">
+            <TextLine id="r1l113" custom="readingOrder {index:2;} location {offset:0; length:7; continued:true;} time {offset:8; length:4;}">
                 <Coords points="150,2005 1272,2012 1305,1971 150,1979"/>
                 <Baseline points="157,1999 214,1999 271,1998 328,1998 385,1998 442,1998 499,1998 556,1998 613,1998 670,1998 727,1998 784,1998 841,1998 898,1998 955,1998 1012,1998 1069,1998 1126,1998 1183,1998 1240,1997 1298,1997"/>
                 <TextEquiv>

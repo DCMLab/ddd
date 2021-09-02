@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:30.285+01:00</Created>
-        <LastChange>2021-07-15T17:25:43.099+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902381" pageNr="18" tsid="61493767" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=CGVCLNBLUQVGJEJQESCAWPRO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KZAUDJXLOXWZUYJJDQGPFFUF" imageId="17865686"/>
+        <LastChange>2021-08-24T15:52:43.264+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28701716" pageNr="18" tsid="63273083" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=NGFYOTYHUKVTDCLLQRZMXTRB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BESEIVRVAWDEEAGALHTFTMWN" imageId="22424806"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0018.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454105656" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573570434" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626092652607_218"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626092652607_217"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1626092650401_213"/>
@@ -32,7 +32,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626092652607_217" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="114,137 1270,137 1270,1077 114,1077"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_phy {offset:41; length:3;} concept_phy {offset:49; length:4;}">
                 <Coords points="202,195 1167,195 1272,187 1272,145 202,148"/>
                 <Baseline points="209,182 261,181 314,181 367,181 420,181 473,181 525,181 578,181 631,181 684,181 737,182 789,182 842,182 895,182 948,182 1001,182 1053,182 1106,181 1159,181 1212,181 1265,180"/>
                 <TextEquiv>
@@ -53,7 +53,7 @@ Transkribus</Creator>
                     <Unicode>täglichen Leben auf's Gerathewohl herausgegriffen haben, wird man</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_phy {offset:15; length:9;}">
                 <Coords points="119,316 1273,314 1273,283 1158,275 119,277"/>
                 <Baseline points="126,307 183,307 240,307 297,307 354,307 411,307 468,307 525,307 582,307 639,307 696,307 753,308 810,308 867,308 924,308 981,308 1038,308 1095,308 1152,308 1209,308 1266,307"/>
                 <TextEquiv>
@@ -67,28 +67,28 @@ Transkribus</Creator>
                     <Unicode>ebenfalls das Vermögen, zusammengesetzte Eindrücke in ihre ein¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} concept_phy {offset:21; length:8;}">
                 <Coords points="121,403 1267,410 1257,357 121,357"/>
                 <Baseline points="128,390 184,391 241,391 297,391 354,391 411,392 467,392 524,392 580,392 637,393 694,393 750,393 807,393 863,393 920,393 977,393 1033,393 1090,393 1146,393 1203,392 1260,392"/>
                 <TextEquiv>
                     <Unicode>facheren Elemente zu zerlegen (z. B. den Glanz, das Spiegelbild,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_phy {offset:16; length:8;} concept_phy {offset:33; length:10;}">
                 <Coords points="116,443 1269,443 1239,403 116,406"/>
                 <Baseline points="123,434 182,434 242,434 302,434 362,434 422,434 482,434 542,434 602,434 662,434 722,434 782,434 842,434 902,434 962,434 1022,434 1082,434 1142,434 1202,434 1262,433"/>
                 <TextEquiv>
                     <Unicode>den Reflex, den Schatten von der Localfarbe eines Gegenstandes</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;} concept_phy {offset:20; length:5;} concept_phy {offset:30; length:22;} concept_phy {offset:58; length:6; continued:true;}">
                 <Coords points="117,482 1273,474 1253,443 117,452"/>
                 <Baseline points="125,475 182,475 239,475 296,475 353,475 410,475 467,475 524,475 581,476 638,476 695,476 752,476 809,476 866,476 923,476 980,476 1037,476 1094,476 1151,476 1208,475 1266,475"/>
                 <TextEquiv>
                     <Unicode>zu trennen, von der Farbe des durchsichtigen Mittels, der Licht¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+            <TextLine id="r1l10" custom="readingOrder {index:8;} concept_phy {offset:0; length:6; continued:true;}">
                 <Coords points="122,532 1269,531 1269,491 122,492"/>
                 <Baseline points="129,518 185,518 242,518 298,518 355,518 412,518 468,518 525,518 582,518 638,518 695,518 752,518 808,518 865,518 922,518 978,518 1035,518 1092,518 1148,518 1205,519 1262,519"/>
                 <TextEquiv>
@@ -109,7 +109,7 @@ Transkribus</Creator>
                     <Unicode>einfacheren und selteneren Fällen. Natürlich kann sowohl beim</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+            <TextLine id="r1l13" custom="readingOrder {index:11;} concept_phy {offset:0; length:4;} concept_phy {offset:19; length:4;} concept_phy {offset:31; length:8;}">
                 <Coords points="117,660 1273,652 1273,620 1174,611 117,612"/>
                 <Baseline points="125,646 182,645 239,645 296,645 353,645 410,645 467,645 524,645 581,645 638,645 695,645 752,645 809,645 866,646 923,646 980,646 1037,646 1094,646 1151,645 1208,645 1266,645"/>
                 <TextEquiv>
@@ -123,28 +123,28 @@ Transkribus</Creator>
                     <Unicode>gleichzeitiger Eindrücke nur durch die Erfahrung ermöglicht werden.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+            <TextLine id="r1l15" custom="readingOrder {index:13;} concept_phy {offset:41; length:4;}">
                 <Coords points="120,739 1172,747 1267,739 1267,700 120,701"/>
                 <Baseline points="126,729 182,729 239,729 295,729 352,729 409,729 465,729 522,729 579,729 635,729 692,729 749,729 805,729 862,730 919,730 975,730 1032,730 1089,730 1145,730 1202,730 1259,730"/>
                 <TextEquiv>
                     <Unicode>Zu dieser Erfahrung bietet das Leben dem Ohre offenbar ungleich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+            <TextLine id="r1l16" custom="readingOrder {index:14;} concept_phy {offset:24; length:4;}">
                 <Coords points="120,779 1218,788 1263,747 120,748"/>
                 <Baseline points="127,771 183,771 239,772 296,772 352,772 409,772 465,772 522,772 578,772 635,772 691,772 747,772 804,772 860,772 917,772 973,772 1030,772 1086,772 1143,772 1199,772 1256,772"/>
                 <TextEquiv>
                     <Unicode>mehr Materiale, als dem Auge; denn die Zahl der gleichzeitigen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+            <TextLine id="r1l17" custom="readingOrder {index:15;} concept_phy {offset:0; length:17;}">
                 <Coords points="114,822 1271,826 1271,786 1172,780 114,780"/>
                 <Baseline points="121,813 178,813 235,813 292,813 349,813 406,813 463,813 520,813 577,813 634,814 692,814 749,814 806,814 863,814 920,814 977,814 1034,814 1091,814 1148,814 1205,814 1263,813"/>
                 <TextEquiv>
                     <Unicode>Gehörempfindungen kennt sozusagen keine Grenze, während eine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+            <TextLine id="r1l18" custom="readingOrder {index:16;} concept_phy {offset:36; length:16;}">
                 <Coords points="118,875 1270,867 1270,825 118,827"/>
                 <Baseline points="125,856 181,856 238,855 295,855 352,855 409,855 466,855 523,855 580,855 637,855 694,855 750,855 807,855 864,855 921,856 978,856 1035,856 1092,856 1149,856 1206,856 1263,856"/>
                 <TextEquiv>
@@ -158,14 +158,14 @@ Transkribus</Creator>
                     <Unicode>ziemlich selten von Einem Puncte ausgeht oder auszugehen scheint.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+            <TextLine id="r1l20" custom="readingOrder {index:18;} concept_phy {offset:36; length:5;} concept_phy {offset:55; length:7; continued:true;}">
                 <Coords points="122,948 1265,945 1265,915 1184,908 122,908"/>
                 <Baseline points="129,938 185,939 241,939 298,939 354,939 411,939 467,939 524,939 580,940 637,940 693,940 749,940 806,940 862,940 919,940 975,940 1032,940 1088,940 1145,940 1201,940 1258,940"/>
                 <TextEquiv>
                     <Unicode>So kann denn auch die Fähigkeit des Ohres, complicirte Sinnes¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+            <TextLine id="r1l21" custom="readingOrder {index:19;} concept_phy {offset:0; length:9; continued:true;}">
                 <Coords points="116,995 1268,995 1241,948 116,955"/>
                 <Baseline points="124,981 180,981 237,981 294,981 351,981 408,981 464,981 521,982 578,982 635,982 692,982 748,982 805,982 862,982 919,982 976,982 1032,982 1089,982 1146,982 1203,982 1260,982"/>
                 <TextEquiv>
@@ -213,14 +213,14 @@ Fähigkeit weit hinter sich zurück lässt.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1626092650401_213" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
             <Coords points="114,1077 1270,1077 1270,2038 114,2038"/>
-            <TextLine id="r1l24" custom="readingOrder {index:0;}">
+            <TextLine id="r1l24" custom="readingOrder {index:0;} concept_mus {offset:4; length:5;} concept_mus {offset:16; length:5;} concept_mus {offset:38; length:7;}">
                 <Coords points="203,1116 1273,1116 1273,1083 1231,1076 203,1080"/>
                 <Baseline points="210,1107 262,1107 315,1108 368,1108 421,1108 473,1108 526,1109 579,1109 632,1109 684,1109 737,1109 790,1109 843,1109 895,1109 948,1109 1001,1109 1054,1109 1106,1109 1159,1109 1212,1109 1265,1110"/>
                 <TextEquiv>
                     <Unicode>Den Klang einer Flöte von jenem einer Violine oder den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:1;}">
+            <TextLine id="r1l25" custom="readingOrder {index:1;} concept_mus {offset:6; length:5;} concept_mus {offset:28; length:5;}">
                 <Coords points="107,1159 1268,1163 1246,1121 107,1126"/>
                 <Baseline points="114,1149 171,1150 228,1150 285,1150 343,1150 400,1150 457,1151 515,1151 572,1151 629,1151 687,1151 744,1152 801,1152 858,1152 916,1152 973,1152 1030,1152 1088,1152 1145,1152 1202,1151 1260,1151"/>
                 <TextEquiv>
@@ -234,98 +234,98 @@ Fähigkeit weit hinter sich zurück lässt.</Unicode>
                     <Unicode>nacheinander gehört werden, macht auch dem Laien nicht die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:3;} textStyle {offset:50; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l27" custom="readingOrder {index:3;} concept_mus {offset:43; length:6;} textStyle {offset:50; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="113,1252 1273,1250 1236,1203 113,1210"/>
                 <Baseline points="120,1233 177,1233 234,1233 291,1233 349,1233 406,1233 463,1233 521,1233 578,1233 635,1233 693,1233 750,1233 807,1233 864,1233 922,1233 979,1234 1036,1234 1094,1234 1151,1234 1208,1234 1266,1234"/>
                 <TextEquiv>
                     <Unicode>geringste Schwierigkeit. Sobald aber diese Klänge gleichzeitig</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:4;}">
+            <TextLine id="r1l28" custom="readingOrder {index:4;} concept_mus {offset:17; length:7;}">
                 <Coords points="120,1283 1271,1275 1208,1243 120,1250"/>
                 <Baseline points="127,1274 183,1274 240,1273 297,1273 354,1273 411,1273 468,1274 524,1274 581,1274 638,1274 695,1274 752,1274 809,1274 866,1274 922,1274 979,1274 1036,1274 1093,1274 1150,1274 1207,1273 1264,1273"/>
                 <TextEquiv>
                     <Unicode>und noch dazu im Unisono auftreten, wo also auch die Ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:5;}">
+            <TextLine id="r1l29" custom="readingOrder {index:5;} concept_phy {offset:17; length:7;}">
                 <Coords points="113,1323 1273,1323 1273,1290 1207,1283 114,1292"/>
                 <Baseline points="120,1315 177,1315 234,1315 291,1315 349,1315 406,1315 463,1315 521,1315 578,1315 635,1315 693,1315 750,1315 807,1316 864,1316 922,1316 979,1316 1036,1316 1094,1316 1151,1316 1208,1315 1266,1315"/>
                 <TextEquiv>
                     <Unicode>schiedenheit der Tonhöhe keinen Anhaltspunct mehr bietet, ist es</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:6;}">
+            <TextLine id="r1l30" custom="readingOrder {index:6;} concept_mus {offset:51; length:11;}">
                 <Coords points="115,1365 1272,1364 1272,1333 1072,1324 115,1323"/>
                 <Baseline points="122,1356 179,1356 236,1357 293,1357 350,1357 407,1357 464,1357 522,1357 579,1356 636,1356 693,1356 750,1356 807,1357 864,1357 922,1357 979,1357 1036,1357 1093,1357 1150,1357 1207,1357 1265,1358"/>
                 <TextEquiv>
                     <Unicode>bereits ziemlich schwer, den Antheil der einzelnen Instrumente an</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:7;}">
+            <TextLine id="r1l31" custom="readingOrder {index:7;} concept_mus {offset:18; length:13;} concept_mus {offset:53; length:6; continued:true;}">
                 <Coords points="113,1408 1263,1411 1236,1363 113,1372"/>
                 <Baseline points="121,1397 177,1397 234,1397 291,1397 348,1397 404,1397 461,1398 518,1398 575,1398 631,1398 688,1398 745,1398 802,1398 858,1398 915,1398 972,1398 1029,1398 1085,1398 1142,1398 1199,1398 1256,1398"/>
                 <TextEquiv>
                     <Unicode>dem resultirenden Gesammtklange zu bestimmen und die Theil¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:8;}">
+            <TextLine id="r1l32" custom="readingOrder {index:8;} concept_mus {offset:0; length:6; continued:true;}">
                 <Coords points="115,1450 1270,1442 1270,1414 1042,1406 115,1411"/>
                 <Baseline points="122,1438 179,1438 236,1439 293,1439 350,1439 407,1439 464,1439 521,1439 578,1439 635,1440 692,1440 749,1440 806,1440 863,1440 920,1440 977,1439 1034,1439 1091,1439 1148,1438 1205,1438 1263,1437"/>
                 <TextEquiv>
                     <Unicode>klänge auseinanderzuhalten, namentlich wenn es sich um ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:9;}">
+            <TextLine id="r1l33" custom="readingOrder {index:9;} concept_phy {offset:9; length:11;}">
                 <Coords points="115,1491 1128,1499 1274,1491 1274,1456 115,1460"/>
                 <Baseline points="122,1479 179,1480 236,1480 293,1480 350,1481 408,1481 465,1481 522,1481 579,1481 636,1481 694,1481 751,1481 808,1481 865,1481 922,1480 980,1480 1037,1480 1094,1480 1151,1480 1208,1480 1266,1479"/>
                 <TextEquiv>
                     <Unicode>wandtere Klangfarben handelt. Dazu gehört schon ein geübteres</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:10;}">
+            <TextLine id="r1l34" custom="readingOrder {index:10;} concept_phy {offset:19; length:15;} concept_mus {offset:35; length:7;} m_chord {offset:57; length:7;}">
                 <Coords points="111,1531 1264,1532 1247,1492 111,1491"/>
                 <Baseline points="118,1521 177,1521 237,1521 297,1521 357,1521 417,1521 477,1521 537,1521 597,1521 657,1521 717,1521 777,1521 837,1521 897,1521 957,1521 1017,1521 1077,1521 1137,1521 1197,1522 1257,1522"/>
                 <TextEquiv>
                     <Unicode>Ohr. In einem (von gleichgefärbten Stimmen ausgeführten) Accorde</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:11;}">
+            <TextLine id="r1l35" custom="readingOrder {index:11;} m_interval {offset:44; length:10;}">
                 <Coords points="117,1571 1269,1569 1269,1539 1066,1528 117,1531"/>
                 <Baseline points="124,1562 180,1562 237,1562 294,1563 351,1563 408,1563 465,1563 522,1563 579,1563 636,1563 693,1563 749,1563 806,1563 863,1563 920,1563 977,1563 1034,1563 1091,1563 1148,1563 1205,1563 1262,1563"/>
                 <TextEquiv>
                     <Unicode>die einzelnen Bestandtheile desselben (die „Intervalle”) genau zu</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:12;}">
+            <TextLine id="r1l36" custom="readingOrder {index:12;} concept_mus {offset:32; length:7;}">
                 <Coords points="114,1619 1260,1619 1270,1579 114,1580"/>
                 <Baseline points="121,1604 178,1604 235,1605 292,1605 349,1605 406,1605 463,1605 520,1606 577,1606 634,1606 691,1606 748,1606 805,1606 862,1605 919,1605 976,1605 1033,1605 1090,1605 1147,1605 1204,1605 1262,1605"/>
                 <TextEquiv>
                     <Unicode>unterscheiden, gelingt wohl dem Musiker, während der Laie die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:13;}">
+            <TextLine id="r1l37" custom="readingOrder {index:13;} concept_phy {offset:25; length:9;}">
                 <Coords points="114,1659 1270,1659 1232,1616 114,1619"/>
                 <Baseline points="121,1647 178,1647 235,1647 292,1647 349,1648 406,1648 463,1648 520,1648 577,1648 634,1648 691,1647 748,1647 805,1647 862,1647 919,1647 976,1647 1033,1648 1090,1648 1147,1648 1204,1648 1262,1648"/>
                 <TextEquiv>
                     <Unicode>Summe der gleichzeitigen Eindrücke blos als einen einzigen mehr</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:14;}">
+            <TextLine id="r1l38" custom="readingOrder {index:14;} concept_mus {offset:23; length:5;}">
                 <Coords points="111,1699 1234,1700 1267,1667 111,1668"/>
                 <Baseline points="118,1689 175,1689 232,1689 289,1689 346,1689 403,1690 460,1690 517,1690 574,1690 631,1690 689,1690 746,1690 803,1690 860,1690 917,1690 974,1690 1031,1690 1088,1690 1145,1690 1202,1689 1260,1689"/>
                 <TextEquiv>
                     <Unicode>oder minder angenehmen Klang auffasst. Darin besteht eben ein</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l39" custom="readingOrder {index:15;} textStyle {offset:25; length:20;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l39" custom="readingOrder {index:15;} textStyle {offset:25; length:20;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:25; length:20;}">
                 <Coords points="114,1746 1116,1720 1263,1748 1263,1706 1148,1699 114,1708"/>
                 <Baseline points="122,1730 178,1731 235,1731 292,1732 348,1732 405,1732 462,1732 518,1732 575,1732 632,1732 689,1732 745,1732 802,1732 859,1732 915,1732 972,1732 1029,1732 1085,1732 1142,1732 1199,1733 1256,1733"/>
                 <TextEquiv>
                     <Unicode>wesentlicher Vorzug des „musikalischen Gehörs”, dass es</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l40" custom="readingOrder {index:16;}">
+            <TextLine id="r1l40" custom="readingOrder {index:16;} concept_mus {offset:14; length:18;}">
                 <Coords points="117,1794 667,1795 723,1764 1267,1791 1267,1758 1199,1740 117,1748"/>
                 <Baseline points="124,1773 180,1774 237,1774 294,1774 351,1775 408,1775 464,1775 521,1775 578,1775 635,1775 692,1774 748,1774 805,1774 862,1774 919,1774 976,1774 1032,1774 1089,1775 1146,1775 1203,1775 1260,1776"/>
                 <TextEquiv>
@@ -346,28 +346,28 @@ Fähigkeit weit hinter sich zurück lässt.</Unicode>
                     <Unicode>vergleichen kann, wie aufeinanderfolgende. Das letztere ist natürlich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l43" custom="readingOrder {index:19;}">
+            <TextLine id="r1l43" custom="readingOrder {index:19;} concept_mus {offset:45; length:7;}">
                 <Coords points="115,1907 1269,1916 1254,1867 115,1874"/>
                 <Baseline points="122,1899 179,1900 236,1900 293,1901 350,1901 407,1901 464,1901 521,1901 578,1901 635,1901 692,1901 749,1901 806,1901 863,1901 920,1901 977,1901 1034,1901 1091,1901 1148,1901 1205,1902 1262,1903"/>
                 <TextEquiv>
                     <Unicode>viel leichter, als das erstere, der Sinn für Melodie entwickelt sich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l44" custom="readingOrder {index:20;} textStyle {offset:38; length:18;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l44" custom="readingOrder {index:20;} concept_mus {offset:28; length:8;} textStyle {offset:38; length:18;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="110,1956 1266,1954 1266,1916 1187,1910 110,1908"/>
                 <Baseline points="117,1942 174,1943 231,1943 288,1943 345,1943 402,1943 459,1943 516,1943 573,1943 630,1943 687,1943 744,1943 801,1943 858,1943 915,1943 972,1943 1029,1943 1086,1943 1143,1943 1200,1943 1258,1943"/>
                 <TextEquiv>
                     <Unicode>daher früher, als jener für Harmonie. Beim Anhören eines</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l45" custom="readingOrder {index:21;} textStyle {offset:0; length:49;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l45" custom="readingOrder {index:21;} textStyle {offset:0; length:49;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:13;} concept_mus {offset:14; length:9;}">
                 <Coords points="114,1996 1266,1994 1266,1962 114,1961"/>
                 <Baseline points="122,1983 178,1984 235,1984 292,1985 349,1985 406,1985 463,1985 519,1985 576,1985 633,1985 690,1985 747,1985 804,1985 861,1985 917,1985 974,1985 1031,1985 1088,1985 1145,1985 1202,1985 1259,1986"/>
                 <TextEquiv>
                     <Unicode>vielstimmigen Tonsatzes ist es zunächst nur unser</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l46" custom="readingOrder {index:22;} textStyle {offset:0; length:46;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l46" custom="readingOrder {index:22;} textStyle {offset:0; length:46;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:25; length:12;}">
                 <Coords points="121,2035 1262,2033 1262,2000 1209,1996 121,1996"/>
                 <Baseline points="127,2026 183,2027 239,2027 296,2027 352,2027 409,2027 465,2027 521,2027 578,2028 634,2028 691,2028 747,2028 803,2028 860,2028 916,2028 973,2028 1029,2028 1085,2028 1142,2028 1198,2028 1255,2028"/>
                 <TextEquiv>

@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:31.840+01:00</Created>
-        <LastChange>2021-07-14T18:14:13.280+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902618" pageNr="91" tsid="61441208" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=EFTZQMNWHGKWEHGONTSNGJXO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FTLAFYARBZGKRVACNUDLKWQM" imageId="17865913"/>
+        <LastChange>2021-08-26T14:56:27.902+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28701885" pageNr="91" tsid="63501808" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ZPCXZBTAUUUCDULGODRPTMCP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EQJZGYBJYTPOARXJMUXHFHSH" imageId="22424967"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0091.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454114594" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573581226" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626176892329_4562"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626176892329_4561"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1626176886794_4553"/>
@@ -35,18 +35,18 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626176892329_4561" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="137,125 1300,125 1300,642 137,642"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:40; length:13;} concept_phy {offset:40; length:13;} m_note {offset:54; length:5;}">
                 <Coords points="222,194 1299,195 1299,162 1230,154 222,155"/>
                 <Baseline points="230,186 283,186 336,186 389,186 442,186 495,185 548,185 601,185 654,185 707,185 761,185 814,185 867,185 920,185 973,185 1026,185 1079,185 1132,185 1185,185 1238,185 1292,185"/>
                 <TextEquiv>
                     <Unicode>Dass das blosse Liegenbleiben des einen dissonirenden Tones</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626176979562_4599" custom="readingOrder {index:1;}">
+            <TextLine id="line_1626176979562_4599" custom="readingOrder {index:1;} m_interval {offset:1; length:5;} textStyle {offset:1; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:15; length:6;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:18; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:48; length:7;}">
                 <Coords points="142,238 1297,245 1265,195 142,196"/>
                 <Baseline points="149,227 181,222 213,221 246,224 258,227 283,231 309,232 334,231 360,231 386,230 403,227 428,228 453,225 478,228 518,229 559,229 599,229 640,229 681,229 721,228 762,228 802,228 843,228 884,228 924,228 965,228 1005,228 1046,228 1087,228 1127,228 1168,228 1208,229 1249,230 1290,231"/>
                 <TextEquiv>
-                    <Unicode>(c’—b' . . . . ca“) noch keinen eigentlichen Vorhalt verursacht,</Unicode>
+                    <Unicode>(c′—b′ . . . . c′—a{′) noch keinen eigentlichen Vorhalt verursacht,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:2;}">
@@ -56,49 +56,49 @@ Transkribus</Creator>
                     <Unicode>haben wir bereits erkannt. Andererseits ist es aber gar nicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+            <TextLine id="r1l8" custom="readingOrder {index:3;} m_note {offset:25; length:3;}">
                 <Coords points="138,323 1300,320 1300,291 1192,277 138,291"/>
                 <Baseline points="145,314 202,314 259,314 317,314 374,314 432,313 489,313 546,313 604,313 661,313 719,313 776,313 833,313 891,313 948,313 1006,313 1063,314 1120,314 1178,314 1235,314 1293,315"/>
                 <TextEquiv>
                     <Unicode>nöthig, dass der ruhende Ton unbeweglich auf seiner zufälligen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+            <TextLine id="r1l9" custom="readingOrder {index:4;} concept_mus {offset:58; length:7;}">
                 <Coords points="138,363 1304,363 1304,330 1202,323 138,323"/>
                 <Baseline points="145,356 202,355 260,355 317,355 375,355 432,355 490,355 547,355 605,355 662,355 720,355 778,355 835,356 893,356 950,356 1008,356 1065,356 1123,356 1180,356 1238,356 1296,356"/>
                 <TextEquiv>
                     <Unicode>Stelle beharrt: er hat die Freiheit sich innerhalb seines Klanges</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+            <TextLine id="r1l10" custom="readingOrder {index:5;} m_interval {offset:16; length:7;} m_interval {offset:24; length:6;} textStyle {offset:24; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:27; length:1;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:57; length:5; continued:true;}">
                 <Coords points="143,411 1306,402 1226,363 143,372"/>
                 <Baseline points="150,399 207,398 264,398 322,398 379,398 437,398 494,398 551,398 609,398 666,398 724,398 781,398 838,399 896,399 953,399 1011,399 1068,399 1125,398 1183,398 1240,397 1298,397"/>
                 <TextEquiv>
-                    <Unicode>zu bewegen. Die Septime c’—h“ muss sich z. B. durch den Leit¬</Unicode>
+                    <Unicode>zu bewegen. Die Septime c′—h{′ muss sich z. B. durch den Leit¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+            <TextLine id="r1l11" custom="readingOrder {index:6;} m_interval {offset:0; length:10; continued:true;} m_note {offset:11; length:3;} textStyle {offset:11; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:13; length:1;fontSize:0.0; kerning:0; superscript:true;} m_note {offset:21; length:2;} textStyle {offset:21; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:22; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:31; length:7;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:39; length:8;}">
                 <Coords points="141,452 1296,450 1273,411 142,411"/>
                 <Baseline points="149,440 206,439 263,439 320,439 377,439 434,439 491,440 548,440 605,440 662,440 719,441 776,441 833,441 890,441 947,442 1004,442 1061,442 1118,442 1175,441 1232,441 1289,441"/>
                 <TextEquiv>
-                    <Unicode>tonschritt h . . . 2 in den C-Klang auflösen; wenn nun gleich¬</Unicode>
+                    <Unicode>tonschritt h{1 . . . c2 in den C-Klang auflösen; wenn nun gleich¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+            <TextLine id="r1l12" custom="readingOrder {index:7;} m_note {offset:11; length:2;} textStyle {offset:11; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:19; length:3;} textStyle {offset:19; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="138,492 1282,492 1304,457 138,459"/>
                 <Baseline points="145,483 202,483 260,483 317,483 375,483 433,483 490,483 548,483 605,483 663,484 721,484 778,484 836,484 893,484 951,484 1009,485 1066,485 1124,484 1181,484 1239,484 1297,484"/>
                 <TextEquiv>
-                    <Unicode>zeitig das c’ nach e“ fortschreitet, so wird an dem Wesen der</Unicode>
+                    <Unicode>zeitig das c′ nach e{′ fortschreitet, so wird an dem Wesen der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+            <TextLine id="r1l13" custom="readingOrder {index:8;} concept_mus {offset:0; length:17;} m_interval {offset:39; length:6;}">
                 <Coords points="146,533 1155,522 1155,492 146,491"/>
                 <Baseline points="153,527 202,526 252,525 302,525 351,525 401,525 451,526 500,526 550,526 600,527 650,527 699,528 749,528 799,528 848,528 898,527 948,527 997,526 1047,524 1097,523 1147,520"/>
                 <TextEquiv>
-                    <Unicode>Vorhaltsauflösung gar nichts geändert: C’k“ . . . 61—62</Unicode>
+                    <Unicode>Vorhaltsauflösung gar nichts geändert: c′—h{′ . . . $$GRAPHIC</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:9;}">
+            <TextLine id="r1l15" custom="readingOrder {index:9;} concept_mus {offset:38; length:13;}">
                 <Coords points="133,636 1288,643 1297,604 133,595"/>
                 <Baseline points="141,626 198,627 255,627 313,627 370,628 428,628 485,628 543,628 600,628 658,628 715,628 772,628 830,628 887,628 945,628 1002,628 1060,628 1117,628 1175,628 1232,628 1290,629"/>
                 <TextEquiv>
@@ -106,15 +106,15 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Dass das blosse Liegenbleiben des einen dissonirenden Tones
-(c’—b' . . . . ca“) noch keinen eigentlichen Vorhalt verursacht,
-haben wir bereits erkannt. Andererseits ist es aber gar nicht
-nöthig, dass der ruhende Ton unbeweglich auf seiner zufälligen
-Stelle beharrt: er hat die Freiheit sich innerhalb seines Klanges
-zu bewegen. Die Septime c’—h“ muss sich z. B. durch den Leit¬
-tonschritt h . . . 2 in den C-Klang auflösen; wenn nun gleich¬
-zeitig das c’ nach e“ fortschreitet, so wird an dem Wesen der
-Vorhaltsauflösung gar nichts geändert: C’k“ . . . 61—62
+                <Unicode>Dass das blosse Liegenbleiben des einen dissonirenden Tones&#13;
+(c′—b′ . . . . c′—a{′) noch keinen eigentlichen Vorhalt verursacht,&#13;
+haben wir bereits erkannt. Andererseits ist es aber gar nicht&#13;
+nöthig, dass der ruhende Ton unbeweglich auf seiner zufälligen&#13;
+Stelle beharrt: er hat die Freiheit sich innerhalb seines Klanges&#13;
+zu bewegen. Die Septime c′—h{′ muss sich z. B. durch den Leit¬&#13;
+tonschritt h{1 . . . c2 in den C-Klang auflösen; wenn nun gleich¬&#13;
+zeitig das c′ nach e{′ fortschreitet, so wird an dem Wesen der&#13;
+Vorhaltsauflösung gar nichts geändert: c′—h{′ . . . $$GRAPHIC&#13;
 Man überzeuge sich davon an folgenden dreistimmigen Beispielen:</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -123,63 +123,63 @@ Man überzeuge sich davon an folgenden dreistimmigen Beispielen:</Unicode>
         </MusicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626176886794_4553" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="137,815 1300,815 1300,1323 137,1323"/>
-            <TextLine id="r1l26" custom="readingOrder {index:0;}">
+            <TextLine id="r1l26" custom="readingOrder {index:0;} concept_mus {offset:4; length:9;} concept_mus {offset:18; length:17;} concept_mus {offset:44; length:10;}">
                 <Coords points="219,868 1300,868 1300,819 219,819"/>
                 <Baseline points="226,854 279,854 332,854 386,854 439,854 492,854 546,854 599,854 652,854 706,854 759,855 812,855 866,855 919,855 972,855 1026,855 1079,855 1132,855 1186,855 1239,855 1293,856"/>
                 <TextEquiv>
                     <Unicode>Die Auflösung der Vorhaltsdissonanz ist der Klangfolge nach</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:1;}">
+            <TextLine id="r1l27" custom="readingOrder {index:1;} concept_mus {offset:11; length:10;} concept_mus {offset:33; length:5;} concept_mus {offset:43; length:9;} concept_mus {offset:57; length:6;}">
                 <Coords points="141,907 1306,904 1185,865 141,866"/>
                 <Baseline points="148,895 205,895 263,896 320,896 378,896 435,896 493,896 550,896 608,897 665,897 723,897 780,897 838,897 895,897 953,897 1010,897 1068,897 1125,897 1183,897 1240,897 1298,897"/>
                 <TextEquiv>
                     <Unicode>immer eine melodische, da ja der Klang des Vorhaltes zum Klange</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:2;}">
+            <TextLine id="r1l28" custom="readingOrder {index:2;} m_note {offset:13; length:5;}">
                 <Coords points="143,947 1303,947 1251,908 143,910"/>
                 <Baseline points="150,939 207,939 264,939 321,939 379,939 436,939 493,939 551,939 608,939 665,939 723,939 780,939 837,939 894,939 952,940 1009,940 1066,940 1124,940 1181,940 1238,940 1296,940"/>
                 <TextEquiv>
                     <Unicode>des ruhenden Tones schreiten muss, welcher letztere als mit ihm</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:3;}">
+            <TextLine id="r1l29" custom="readingOrder {index:3;} concept_mus {offset:0; length:11;} concept_phy {offset:0; length:11;} concept_mus {offset:37; length:10;}">
                 <Coords points="144,995 1297,995 1297,953 1254,947 144,947"/>
                 <Baseline points="152,980 208,980 265,980 322,980 379,980 436,980 493,980 550,980 607,980 664,980 721,981 777,981 834,981 891,981 948,981 1005,982 1062,982 1119,982 1176,982 1233,983 1290,983"/>
                 <TextEquiv>
                     <Unicode>dissonirend nicht sein unmittelbarer Verwandter sein kann. Aber</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:4;}">
+            <TextLine id="r1l30" custom="readingOrder {index:4;} concept_mus {offset:9; length:12;} concept_mus {offset:60; length:5; continued:true;}">
                 <Coords points="144,1035 1135,1043 1281,1036 1294,1001 144,1002"/>
                 <Baseline points="151,1024 207,1024 264,1023 321,1023 378,1023 434,1023 491,1023 548,1023 605,1023 661,1023 718,1024 775,1024 832,1024 888,1024 945,1024 1002,1024 1059,1024 1115,1024 1172,1024 1229,1023 1286,1023"/>
                 <TextEquiv>
                     <Unicode>auch die Stimmführung ist in den weitaus meisten Fällen, im zwei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:5;}">
+            <TextLine id="r1l31" custom="readingOrder {index:5;} concept_mus {offset:0; length:9; continued:true;} concept_mus {offset:10; length:5;} concept_mus {offset:39; length:10;} m_interval {offset:60; length:5;}">
                 <Coords points="137,1075 1295,1068 1267,1034 137,1042"/>
                 <Baseline points="145,1067 202,1066 259,1066 316,1066 373,1065 430,1065 487,1065 545,1066 602,1066 659,1066 716,1066 773,1067 830,1067 887,1067 945,1067 1002,1067 1059,1067 1116,1067 1173,1066 1230,1066 1288,1065"/>
                 <TextEquiv>
-                    <Unicode>stimmigen Satze regelmässig, eine rein melodische, d. h. in Halb¬</Unicode>
+                    <Unicode>stimmigen Satze regelmässig, eine rein melodische, d. h. in Halb-</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:6;}">
+            <TextLine id="r1l32" custom="readingOrder {index:6;} m_interval {offset:5; length:13;}">
                 <Coords points="137,1122 1295,1130 1295,1090 1195,1075 137,1083"/>
                 <Baseline points="145,1108 202,1108 259,1108 316,1108 373,1108 430,1108 487,1108 544,1108 601,1108 658,1108 716,1109 773,1109 830,1109 887,1109 944,1109 1001,1109 1058,1110 1115,1110 1172,1110 1229,1110 1287,1110"/>
                 <TextEquiv>
                     <Unicode>oder Ganztonstufen sich bewegende. Es handelt sich eben darum,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:7;}">
+            <TextLine id="r1l33" custom="readingOrder {index:7;} m_note {offset:9; length:11;} concept_mus {offset:33; length:17;}">
                 <Coords points="136,1163 1301,1162 1255,1116 136,1129"/>
                 <Baseline points="144,1151 201,1151 259,1151 316,1151 374,1151 431,1151 489,1151 546,1151 604,1151 661,1151 719,1151 776,1151 834,1151 891,1151 949,1151 1006,1151 1064,1151 1121,1151 1179,1152 1236,1152 1294,1152"/>
                 <TextEquiv>
                     <Unicode>dass der Vorhaltston durch einen Klangbestandtheil des ruhenden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:8;}">
+            <TextLine id="r1l34" custom="readingOrder {index:8;} m_note {offset:0; length:5;}">
                 <Coords points="141,1203 1304,1202 1304,1172 1189,1164 141,1163"/>
                 <Baseline points="148,1193 205,1193 262,1193 320,1193 377,1193 435,1194 492,1194 549,1194 607,1194 664,1194 722,1193 779,1193 836,1193 894,1193 951,1193 1009,1193 1066,1193 1123,1194 1181,1194 1238,1194 1296,1194"/>
                 <TextEquiv>
@@ -193,25 +193,25 @@ Man überzeuge sich davon an folgenden dreistimmigen Beispielen:</Unicode>
                     <Unicode>offenbar nicht mehr in dem Masse geschieht, wenn er um ein</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:10;}">
+            <TextLine id="r1l36" custom="readingOrder {index:10;} m_interval {offset:10; length:9;} m_interval {offset:26; length:4;} m_interval {offset:32; length:6;}">
                 <Coords points="141,1299 1209,1292 1244,1243 141,1253"/>
                 <Baseline points="148,1279 202,1278 256,1277 311,1277 365,1277 420,1277 474,1277 529,1277 583,1277 638,1278 692,1278 746,1279 801,1279 855,1279 910,1279 964,1279 1019,1279 1073,1279 1128,1278 1182,1278 1237,1276"/>
                 <TextEquiv>
-                    <Unicode>grösseres Intervall, eine Terz, Quarte u. dgl. steigt oder fällt.“</Unicode>
+                    <Unicode>grösseres Intervall, eine Terz, Quarte u. dgl. steigt oder fällt. *)</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Die Auflösung der Vorhaltsdissonanz ist der Klangfolge nach
-immer eine melodische, da ja der Klang des Vorhaltes zum Klange
-des ruhenden Tones schreiten muss, welcher letztere als mit ihm
-dissonirend nicht sein unmittelbarer Verwandter sein kann. Aber
-auch die Stimmführung ist in den weitaus meisten Fällen, im zwei¬
-stimmigen Satze regelmässig, eine rein melodische, d. h. in Halb¬
-oder Ganztonstufen sich bewegende. Es handelt sich eben darum,
-dass der Vorhaltston durch einen Klangbestandtheil des ruhenden
-Tones vollkommen aufgehoben, geradezu negirt werden soll, was
-offenbar nicht mehr in dem Masse geschieht, wenn er um ein
-grösseres Intervall, eine Terz, Quarte u. dgl. steigt oder fällt.“</Unicode>
+                <Unicode>Die Auflösung der Vorhaltsdissonanz ist der Klangfolge nach&#13;
+immer eine melodische, da ja der Klang des Vorhaltes zum Klange&#13;
+des ruhenden Tones schreiten muss, welcher letztere als mit ihm&#13;
+dissonirend nicht sein unmittelbarer Verwandter sein kann. Aber&#13;
+auch die Stimmführung ist in den weitaus meisten Fällen, im zwei¬&#13;
+stimmigen Satze regelmässig, eine rein melodische, d. h. in Halb-&#13;
+oder Ganztonstufen sich bewegende. Es handelt sich eben darum,&#13;
+dass der Vorhaltston durch einen Klangbestandtheil des ruhenden&#13;
+Tones vollkommen aufgehoben, geradezu negirt werden soll, was&#13;
+offenbar nicht mehr in dem Masse geschieht, wenn er um ein&#13;
+grösseres Intervall, eine Terz, Quarte u. dgl. steigt oder fällt. *)</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote-continued" id="TextRegion_1626176883233_4549" custom="readingOrder {index:4;} structure {type:footnote-continued;}">
@@ -223,7 +223,7 @@ grösseres Intervall, eine Terz, Quarte u. dgl. steigt oder fällt.“</Unicode>
                     <Unicode>bilden, also auch keiner von beiden in dem anderen oder in einem dritten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:1;}">
+            <TextLine id="r1l38" custom="readingOrder {index:1;} concept_mus {offset:0; length:6;} m_interval {offset:25; length:6;} textStyle {offset:36; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:36; length:1;} textStyle {offset:47; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:47; length:1;}">
                 <Coords points="140,1413 1296,1412 1294,1380 140,1379"/>
                 <Baseline points="147,1406 204,1406 261,1405 318,1405 375,1405 432,1405 489,1405 546,1405 603,1405 660,1405 717,1405 774,1406 831,1406 888,1406 945,1406 1002,1406 1059,1406 1116,1406 1173,1406 1230,1406 1288,1406"/>
                 <TextEquiv>
@@ -248,56 +248,56 @@ Vorbereitung erscheinen, also etwa:</Unicode>
         </MusicRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1626176878228_4541" custom="readingOrder {index:6;} structure {type:footnote;}">
             <Coords points="137,1595 1300,1595 1300,1872 137,1872"/>
-            <TextLine id="r1l43" custom="readingOrder {index:0;}">
+            <TextLine id="r1l43" custom="readingOrder {index:0;} concept_mus {offset:4; length:9;} m_interval {offset:14; length:5;} textStyle {offset:14; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:17; length:1;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:26; length:5;} textStyle {offset:26; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:1;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:46; length:7;} m_interval {offset:61; length:5;}">
                 <Coords points="141,1637 1288,1634 1288,1604 1164,1595 141,1597"/>
                 <Baseline points="148,1629 204,1628 261,1627 317,1627 374,1627 431,1626 487,1626 544,1626 601,1626 657,1627 714,1627 771,1627 827,1627 884,1627 941,1628 997,1628 1054,1628 1111,1628 1167,1628 1224,1628 1281,1628"/>
                 <TextEquiv>
-                    <Unicode>Die Auflösung 6—d“. cc, also von der Secunde in die Prime, per¬</Unicode>
+                    <Unicode>Die Auflösung c′—d′ . . . c′—c′, also von der Secunde in die Prime, per¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l45" custom="readingOrder {index:1;}">
+            <TextLine id="r1l45" custom="readingOrder {index:1;} concept_mus {offset:62; length:9;} concept_phy {offset:62; length:9;}">
                 <Coords points="130,1675 1294,1674 1279,1636 131,1637"/>
                 <Baseline points="137,1662 194,1662 251,1661 309,1661 366,1661 424,1661 481,1661 539,1661 596,1661 654,1661 711,1661 768,1661 826,1661 883,1661 941,1661 998,1661 1056,1661 1113,1662 1171,1662 1228,1662 1286,1662"/>
                 <TextEquiv>
                     <Unicode>horrescirt die Theorie mit Recht als ein blosses Aufhören der Dissonanz,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l46" custom="readingOrder {index:2;}">
+            <TextLine id="r1l46" custom="readingOrder {index:2;} concept_mus {offset:5; length:9;} concept_mus {offset:35; length:13;} concept_mus {offset:53; length:13;} concept_phy {offset:53; length:13;}">
                 <Coords points="139,1704 1279,1707 1292,1674 139,1676"/>
                 <Baseline points="146,1695 202,1695 259,1694 316,1694 373,1694 430,1694 487,1694 544,1694 601,1694 658,1694 715,1695 771,1695 828,1695 885,1695 942,1695 999,1695 1056,1695 1113,1695 1170,1695 1227,1694 1284,1694"/>
                 <TextEquiv>
                     <Unicode>ohne Auflösung desselben durch ein Fortschreiten der dissonirenden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l47" custom="readingOrder {index:3;}">
+            <TextLine id="r1l47" custom="readingOrder {index:3;} concept_mus {offset:0; length:6;}">
                 <Coords points="133,1735 1288,1739 1255,1701 133,1704"/>
                 <Baseline points="141,1729 198,1728 255,1728 312,1727 369,1727 426,1727 483,1727 540,1727 597,1727 654,1727 711,1727 768,1728 825,1728 882,1728 939,1728 996,1728 1053,1728 1110,1728 1167,1728 1224,1728 1281,1727"/>
                 <TextEquiv>
                     <Unicode>Stimme. Allein dieses Bedenken entfällt in eben dem Masse, als die beiden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l48" custom="readingOrder {index:4;}">
+            <TextLine id="r1l48" custom="readingOrder {index:4;} concept_mus {offset:0; length:7;}">
                 <Coords points="132,1771 1295,1762 1242,1733 132,1740"/>
                 <Baseline points="139,1762 196,1762 253,1761 311,1761 368,1761 426,1761 483,1761 541,1761 598,1761 656,1761 713,1761 770,1761 828,1761 885,1761 943,1761 1000,1761 1058,1761 1115,1761 1173,1761 1230,1761 1288,1761"/>
                 <TextEquiv>
                     <Unicode>Stimmen sich von einander scheiden, z. B. durch abstechend verschieden¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l49" custom="readingOrder {index:5;}">
+            <TextLine id="r1l49" custom="readingOrder {index:5;} concept_phy {offset:7; length:10;} concept_mus {offset:63; length:8; continued:true;}">
                 <Coords points="136,1810 1292,1797 1109,1764 136,1771"/>
                 <Baseline points="143,1797 200,1797 257,1796 314,1795 371,1795 428,1795 485,1795 542,1795 599,1795 656,1795 713,1795 770,1796 827,1796 884,1796 941,1796 998,1796 1055,1796 1112,1796 1169,1796 1226,1795 1284,1794"/>
                 <TextEquiv>
                     <Unicode>artige Klangfarbe. So scheut man sich namentlich nicht, in der Gesangs¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l50" custom="readingOrder {index:6;}">
+            <TextLine id="r1l50" custom="readingOrder {index:6;} concept_mus {offset:0; length:6; continued:true;} concept_mus {offset:17; length:8;} concept_mus {offset:43; length:10;}">
                 <Coords points="139,1838 1271,1844 1290,1803 139,1812"/>
                 <Baseline points="147,1831 203,1830 260,1829 317,1829 374,1829 430,1829 487,1829 544,1829 601,1829 657,1829 714,1829 771,1829 828,1830 884,1830 941,1830 998,1830 1055,1830 1111,1830 1168,1829 1225,1829 1282,1829"/>
                 <TextEquiv>
                     <Unicode>stimme derartige Vorhalte vor einer in der Begleitung bereits vorhandenen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l51" custom="readingOrder {index:7;}">
+            <TextLine id="r1l51" custom="readingOrder {index:7;} concept_mus {offset:0; length:8;}">
                 <Coords points="138,1874 261,1875 281,1865 291,1875 445,1877 479,1868 478,1844 408,1844 398,1835 138,1838"/>
                 <Baseline points="145,1865 170,1865 195,1864 220,1863 245,1863 270,1863 295,1863 320,1863 345,1863 370,1863 395,1863 420,1863 445,1863 471,1862"/>
                 <TextEquiv>
@@ -305,59 +305,59 @@ Vorbereitung erscheinen, also etwa:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Die Auflösung 6—d“. cc, also von der Secunde in die Prime, per¬
-horrescirt die Theorie mit Recht als ein blosses Aufhören der Dissonanz,
-ohne Auflösung desselben durch ein Fortschreiten der dissonirenden
-Stimme. Allein dieses Bedenken entfällt in eben dem Masse, als die beiden
-Stimmen sich von einander scheiden, z. B. durch abstechend verschieden¬
-artige Klangfarbe. So scheut man sich namentlich nicht, in der Gesangs¬
-stimme derartige Vorhalte vor einer in der Begleitung bereits vorhandenen
+                <Unicode>Die Auflösung c′—d′ . . . c′—c′, also von der Secunde in die Prime, per¬&#13;
+horrescirt die Theorie mit Recht als ein blosses Aufhören der Dissonanz,&#13;
+ohne Auflösung desselben durch ein Fortschreiten der dissonirenden&#13;
+Stimme. Allein dieses Bedenken entfällt in eben dem Masse, als die beiden&#13;
+Stimmen sich von einander scheiden, z. B. durch abstechend verschieden¬&#13;
+artige Klangfarbe. So scheut man sich namentlich nicht, in der Gesangs¬&#13;
+stimme derartige Vorhalte vor einer in der Begleitung bereits vorhandenen&#13;
 Tonstufe anzubringen.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote-continued" id="TextRegion_1626176874053_4537" custom="readingOrder {index:7;} structure {type:footnote-continued;}">
             <Coords points="137,1872 1300,1872 1300,2092 137,2092"/>
-            <TextLine id="line_1626177009297_4659" custom="readingOrder {index:0;}">
+            <TextLine id="line_1626177009297_4659" custom="readingOrder {index:0;} concept_mus {offset:10; length:14;} m_interval {offset:26; length:6;} textStyle {offset:26; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:1;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:41; length:6;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:44; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:46; length:1;fontSize:0.0; kerning:0; superscript:true;} m_note {offset:59; length:3;} textStyle {offset:59; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="222,1904 1295,1907 1294,1873 1254,1868 222,1871"/>
                 <Baseline points="229,1887 239,1885 274,1897 300,1897 327,1898 353,1898 380,1898 406,1897 433,1897 459,1896 486,1896 512,1895 539,1895 565,1895 592,1895 618,1895 645,1895 671,1896 698,1897 830,1894 864,1890 886,1892 911,1893 936,1895 961,1896 986,1896 1011,1897 1036,1897 1061,1896 1086,1896 1111,1896 1136,1896 1161,1895 1186,1895 1211,1895 1236,1895 1261,1896 1287,1896"/>
                 <TextEquiv>
-                    <Unicode>*) In der Fortschreitung: 7•—2“ 6•—22 wird z. B. 2“ durch den</Unicode>
+                    <Unicode>*) In der Fortschreitung: c′—h{′ . . . . c′—e{2 wird z. B. h{′ durch den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626177014499_4671" custom="readingOrder {index:1;}">
+            <TextLine id="line_1626177014499_4671" custom="readingOrder {index:1;} m_interval {offset:0; length:14;} m_note {offset:15; length:3;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:27; length:3;} textStyle {offset:27; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="139,1943 1289,1936 1236,1899 139,1899"/>
                 <Baseline points="146,1936 172,1934 199,1932 226,1931 253,1930 279,1930 306,1930 333,1931 360,1931 387,1931 412,1932 440,1932 469,1933 498,1932 517,1929 555,1930 593,1930 631,1930 670,1931 708,1931 746,1931 784,1931 823,1931 861,1931 899,1931 937,1931 976,1931 1014,1931 1052,1930 1090,1930 1129,1930 1167,1930 1205,1929 1243,1929 1282,1929"/>
                 <TextEquiv>
-                    <Unicode>Quartenschritt k“. ... e nicht negirt, sondern ändert blos seine Bedeu¬</Unicode>
+                    <Unicode>Quartenschritt h{′ . . . . e{2 nicht negirt, sondern ändert blos seine Bedeu¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l59" custom="readingOrder {index:2;}">
+            <TextLine id="r1l59" custom="readingOrder {index:2;} m_interval {offset:38; length:6;} concept_mus {offset:52; length:10;} textStyle {offset:52; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="137,1979 1205,1978 1290,1970 1290,1937 137,1944"/>
                 <Baseline points="144,1968 203,1967 263,1966 323,1966 383,1965 443,1965 503,1965 563,1965 623,1965 683,1965 743,1965 803,1966 863,1966 923,1966 983,1966 1043,1965 1103,1965 1163,1964 1223,1963 1283,1962"/>
                 <TextEquiv>
-                    <Unicode>tung, indem es dann als Bestandtheil (Quinte) eines E-Klanges aufgefasst</Unicode>
+                    <Unicode>tung, indem es dann als Bestandtheil (Quinte) eines E{-Klanges aufgefasst</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l60" custom="readingOrder {index:3;}">
+            <TextLine id="r1l60" custom="readingOrder {index:3;} concept_mus {offset:29; length:12;} concept_mus {offset:42; length:9;} m_note {offset:63; length:2;} textStyle {offset:63; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="137,2016 1233,2020 1297,2017 1297,1981 137,1987"/>
                 <Baseline points="145,2010 202,2009 259,2008 316,2007 374,2006 431,2006 488,2006 545,2006 603,2006 660,2006 717,2006 774,2007 832,2007 889,2007 946,2007 1003,2007 1061,2007 1118,2007 1175,2007 1232,2006 1290,2006"/>
                 <TextEquiv>
-                    <Unicode>wird. Allein in Folge dieses harmonisshen Schrittes tritt auch e nicht als</Unicode>
+                    <Unicode>wird. Allein in Folge dieses harmonischen Schrittes tritt auch e{ nicht als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l61" custom="readingOrder {index:4;}">
+            <TextLine id="r1l61" custom="readingOrder {index:4;} m_interval {offset:0; length:4;} concept_mus {offset:9; length:9;} textStyle {offset:9; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:46; length:8;} textStyle {offset:46; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="143,2051 1293,2052 1272,2011 143,2016"/>
                 <Baseline points="150,2044 206,2043 263,2042 320,2042 377,2042 433,2041 490,2041 547,2041 604,2041 660,2042 717,2042 774,2042 831,2042 887,2042 944,2042 1001,2042 1058,2042 1114,2042 1171,2042 1228,2041 1285,2040"/>
                 <TextEquiv>
-                    <Unicode>Terz des C-Klanges, sondern selbstständig als E-Klang auf, so dass die</Unicode>
+                    <Unicode>Terz des C-Klanges, sondern selbstständig als E{-Klang auf, so dass die</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>*) In der Fortschreitung: 7•—2“ 6•—22 wird z. B. 2“ durch den
-Quartenschritt k“. ... e nicht negirt, sondern ändert blos seine Bedeu¬
-tung, indem es dann als Bestandtheil (Quinte) eines E-Klanges aufgefasst
-wird. Allein in Folge dieses harmonisshen Schrittes tritt auch e nicht als
-Terz des C-Klanges, sondern selbstständig als E-Klang auf, so dass die</Unicode>
+                <Unicode>*) In der Fortschreitung: c′—h{′ . . . . c′—e{2 wird z. B. h{′ durch den&#13;
+Quartenschritt h{′ . . . . e{2 nicht negirt, sondern ändert blos seine Bedeu¬&#13;
+tung, indem es dann als Bestandtheil (Quinte) eines E{-Klanges aufgefasst&#13;
+wird. Allein in Folge dieses harmonischen Schrittes tritt auch e{ nicht als&#13;
+Terz des C-Klanges, sondern selbstständig als E{-Klang auf, so dass die</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

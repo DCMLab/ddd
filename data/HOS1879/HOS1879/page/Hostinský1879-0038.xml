@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:30.703+01:00</Created>
-        <LastChange>2021-07-14T17:50:17.204+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902434" pageNr="38" tsid="61440255" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=GQHGHJTWUBSNUIXYXIJLHJKX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WBTMQCYSMXJKDJSTWLRYUNPI" imageId="17865739"/>
+        <LastChange>2021-08-24T18:09:44.562+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28701767" pageNr="38" tsid="63294671" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=FRWJINHZIVSHUXIMJNTCTVGC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IIVAKAXNCPIPUBWIGTMCRUYC" imageId="22424853"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0038.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454108059" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573573790" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626095138853_2381"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626095138853_2380"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1626095136827_2376"/>
@@ -34,14 +34,14 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626095138853_2380" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="115,132 1282,132 1282,241 115,241"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_phy {offset:0; length:7;} concept_phy {offset:16; length:16;} concept_phy {offset:41; length:17; continued:true;}">
                 <Coords points="118,195 1290,188 1222,156 118,155"/>
                 <Baseline points="126,187 183,187 241,187 299,187 357,187 415,187 472,187 530,187 588,187 646,187 704,187 761,187 819,187 877,187 935,187 993,188 1050,188 1108,188 1166,188 1224,188 1282,188"/>
                 <TextEquiv>
                     <Unicode>Gesicht und die Muskelempfindung bei der raumentwickelnden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_phy {offset:0; length:8; continued:true;} concept_phy {offset:13; length:10;}">
                 <Coords points="114,243 273,233 336,243 347,231 359,243 544,240 544,213 454,195 343,205 288,195 275,208 114,195"/>
                 <Baseline points="122,230 147,230 173,230 199,230 225,230 251,229 277,229 303,229 329,229 354,229 380,229 406,229 432,230 458,230 484,230 510,230 536,230"/>
                 <TextEquiv>
@@ -55,140 +55,140 @@ Function des Tastsinnes.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626095136827_2376" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="115,241 1282,241 1282,1288 115,1288"/>
-            <TextLine id="r1l4" custom="readingOrder {index:0;}">
+            <TextLine id="r1l4" custom="readingOrder {index:0;} concept_phy {offset:51; length:4; continued:true;}">
                 <Coords points="202,278 1264,282 1264,248 1203,235 568,259 202,236"/>
                 <Baseline points="209,270 261,270 313,271 366,271 418,272 470,272 523,272 575,272 627,272 680,272 732,272 784,272 837,272 889,271 941,271 994,271 1046,271 1098,272 1151,272 1203,272 1256,273"/>
                 <TextEquiv>
                     <Unicode>Wenn es nun keine anderen Beziehungen zwischen den Ton¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:1;}">
+            <TextLine id="r1l5" custom="readingOrder {index:1;} concept_phy {offset:0; length:12; continued:true;}">
                 <Coords points="121,323 1270,329 1270,291 1206,283 121,292"/>
                 <Baseline points="128,313 184,313 241,314 298,314 354,314 411,314 468,314 524,314 581,314 638,314 695,313 751,313 808,313 865,313 921,313 978,313 1035,314 1091,314 1148,314 1205,315 1262,316"/>
                 <TextEquiv>
                     <Unicode>empfindungen gäbe, als die eben behandelte qualitative Abstufung,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+            <TextLine id="r1l6" custom="readingOrder {index:2;} m_note {offset:35; length:4;}">
                 <Coords points="118,363 1273,363 1231,323 118,324"/>
                 <Baseline points="126,355 183,355 240,356 297,356 354,356 411,356 468,356 525,356 582,356 639,356 696,356 753,356 810,356 867,356 924,356 981,356 1038,356 1095,356 1152,356 1209,356 1266,356"/>
                 <TextEquiv>
                     <Unicode>die sich auf die Nachbarschaft der Töne gründet, also durch die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+            <TextLine id="r1l7" custom="readingOrder {index:3;} m_interval {offset:11; length:10;}">
                 <Coords points="114,408 1090,420 1271,410 1271,363 114,366"/>
                 <Baseline points="121,396 178,396 235,397 292,397 349,397 406,398 463,398 521,398 578,398 635,398 692,398 749,398 806,398 863,398 921,398 978,398 1035,398 1092,398 1149,398 1206,398 1264,399"/>
                 <TextEquiv>
                     <Unicode>Grösse des Intervalls bestimmt wird, so müsste der Gegensatzgrad</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+            <TextLine id="r1l8" custom="readingOrder {index:4;} m_interval {offset:59; length:6;}">
                 <Coords points="118,453 1271,451 1279,411 118,418"/>
                 <Baseline points="125,441 182,440 239,440 297,440 354,440 411,440 469,440 526,440 583,440 641,440 698,440 755,440 813,441 870,441 927,441 985,441 1042,441 1099,441 1157,441 1214,441 1272,441"/>
                 <TextEquiv>
                     <Unicode>regelmässig nach oben und unten wachsen, so dass z. B. die Octave</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+            <TextLine id="r1l9" custom="readingOrder {index:5;} m_interval {offset:10; length:5;} m_interval {offset:43; length:14;}">
                 <Coords points="114,499 1154,498 1273,491 1273,457 114,460"/>
                 <Baseline points="122,482 179,482 236,482 293,482 350,482 408,482 465,482 522,482 579,482 636,482 694,483 751,483 808,483 865,483 922,483 980,482 1037,482 1094,482 1151,482 1208,482 1266,482"/>
                 <TextEquiv>
                     <Unicode>gegen die Prime fremder erschiene, als die kleine Septime, diese</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+            <TextLine id="r1l10" custom="readingOrder {index:6;} m_interval {offset:30; length:6;} m_interval {offset:46; length:6;}">
                 <Coords points="119,531 1091,540 1272,530 1272,492 119,499"/>
                 <Baseline points="127,522 183,523 240,523 297,524 354,524 411,525 468,525 524,525 581,525 638,525 695,525 752,525 809,525 866,525 922,525 979,525 1036,525 1093,525 1150,525 1207,525 1264,525"/>
                 <TextEquiv>
                     <Unicode>wieder fremder als die beiden Sexten oder die Quinte, während</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+            <TextLine id="r1l11" custom="readingOrder {index:7;} m_interval {offset:4; length:18;} m_interval {offset:34; length:10;} concept_mus {offset:48; length:14;}">
                 <Coords points="115,577 1277,578 1252,532 115,534"/>
                 <Baseline points="123,566 180,566 237,566 294,567 352,567 409,567 466,567 524,567 581,567 638,567 696,567 753,567 810,567 867,567 925,567 982,567 1039,567 1097,567 1154,567 1211,567 1269,568"/>
                 <TextEquiv>
                     <Unicode>die übermässige Quarte alle diese Intervalle an Verwandtschaft mit</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+            <TextLine id="r1l12" custom="readingOrder {index:8;} m_interval {offset:4; length:5;}">
                 <Coords points="121,619 1269,620 1269,586 1215,579 121,579"/>
                 <Baseline points="129,608 185,608 242,609 298,609 355,609 412,609 468,609 525,609 582,609 638,610 695,610 752,610 808,610 865,610 922,610 978,609 1035,609 1092,609 1148,609 1205,609 1262,609"/>
                 <TextEquiv>
                     <Unicode>der Prime überträfe. Die Erfahrung belehrt uns bekanntlich eines</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+            <TextLine id="r1l13" custom="readingOrder {index:9;} m_interval {offset:20; length:6;}">
                 <Coords points="115,660 1270,658 1231,619 115,623"/>
                 <Baseline points="122,651 179,651 236,651 293,651 350,651 407,651 464,651 521,651 578,651 635,651 692,651 749,652 806,652 863,652 920,652 977,652 1034,652 1091,652 1148,652 1205,652 1263,652"/>
                 <TextEquiv>
                     <Unicode>Anderen. Gerade die Octave erscheint von den hier genannten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+            <TextLine id="r1l14" custom="readingOrder {index:10;} m_interval {offset:0; length:11;} concept_mus {offset:20; length:12;} m_interval {offset:53; length:6;}">
                 <Coords points="114,707 1269,707 1269,659 114,660"/>
                 <Baseline points="121,694 178,694 235,694 292,694 349,694 406,694 463,694 520,694 577,694 634,694 691,694 748,695 805,695 862,695 919,695 976,695 1033,695 1090,695 1147,695 1204,694 1262,694"/>
                 <TextEquiv>
                     <Unicode>Intervallen als das verwandteste, nach ihr kommt die Quinte und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+            <TextLine id="r1l15" custom="readingOrder {index:11;} m_interval {offset:11; length:6;} m_interval {offset:33; length:14;}">
                 <Coords points="119,746 1265,744 1230,707 119,707"/>
                 <Baseline points="126,736 182,736 239,736 295,736 352,736 409,736 465,736 522,736 578,737 635,737 692,737 748,737 805,737 861,737 918,737 975,737 1031,737 1088,737 1144,737 1201,736 1258,736"/>
                 <TextEquiv>
                     <Unicode>die beiden Sexten, dann erst die kleine Septime und erst als aller¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+            <TextLine id="r1l16" custom="readingOrder {index:12;} m_interval {offset:12; length:18;}">
                 <Coords points="118,787 1274,786 1225,748 118,748"/>
                 <Baseline points="125,778 182,778 239,778 296,779 353,779 410,779 467,779 524,779 581,779 638,779 696,779 753,779 810,779 867,779 924,779 981,779 1038,779 1095,779 1152,779 1209,779 1267,779"/>
                 <TextEquiv>
                     <Unicode>letztes die übermässige Quarte. Es macht sich hier offenbar neben</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+            <TextLine id="r1l17" custom="readingOrder {index:13;} textStyle {offset:4; length:22;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:31; length:15;}">
                 <Coords points="114,827 1115,836 1266,829 1266,787 114,793"/>
                 <Baseline points="121,821 177,821 234,821 291,821 348,821 405,821 462,821 518,821 575,821 632,821 689,821 746,821 803,821 860,821 916,821 973,821 1030,821 1087,821 1144,821 1201,821 1258,820"/>
                 <TextEquiv>
                     <Unicode>der qualitativen Abstufung der Tonempfindungen, die auf</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:14;}">
+            <TextLine id="r1l18" custom="readingOrder {index:14;} textStyle {offset:4; length:13;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="120,875 1267,869 1238,827 120,829"/>
                 <Baseline points="127,863 183,863 240,863 296,863 353,863 410,863 466,863 523,863 580,863 636,863 693,863 750,864 806,864 863,864 920,864 976,864 1033,863 1090,863 1146,862 1203,862 1260,861"/>
                 <TextEquiv>
                     <Unicode>der Nachbarschaft derselben beruht, noch ein anderes wich¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:15;}">
+            <TextLine id="r1l19" custom="readingOrder {index:15;} textStyle {offset:26; length:28;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:26; length:11;} concept_mus {offset:38; length:16; continued:true;}">
                 <Coords points="117,916 1267,912 1225,875 117,875"/>
                 <Baseline points="125,904 181,904 238,904 295,904 352,905 408,905 465,905 522,905 579,905 635,905 692,905 749,905 806,906 862,906 919,906 976,906 1033,906 1089,906 1146,905 1203,905 1260,905"/>
                 <TextEquiv>
                     <Unicode>tiges Moment geltend: die harmonische Zusammengehörig¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626095189869_2419" custom="readingOrder {index:16;}">
+            <TextLine id="line_1626095189869_2419" custom="readingOrder {index:16;} textStyle {offset:0; length:24;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:4; continued:true;} concept_mus {offset:10; length:14;} concept_mus {offset:34; length:9;}">
                 <Coords points="118,955 1275,956 1224,915 118,917"/>
                 <Baseline points="125,948 173,947 221,946 270,946 318,946 366,946 415,946 463,947 511,947 560,947 608,947 657,948 705,948 753,948 802,948 850,948 898,948 947,948 995,947 1044,947 1058,948 1084,947 1110,947 1136,946 1163,947 1189,947 1215,947 1241,948 1268,948"/>
                 <TextEquiv>
                     <Unicode>keit oder Verwandtschaft gewisser Tonstufen. Wir haben</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:17;}">
+            <TextLine id="r1l22" custom="readingOrder {index:17;} m_note {offset:22; length:4;} textStyle {offset:37; length:18;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="114,1002 1270,1003 1270,962 1216,956 114,963"/>
                 <Baseline points="121,988 178,988 235,989 292,989 349,989 406,989 463,989 520,990 577,990 634,990 692,990 749,990 806,990 863,990 920,990 977,990 1034,990 1091,990 1148,990 1205,990 1263,990"/>
                 <TextEquiv>
                     <Unicode>es also im Reiche der Töne mit einem doppelten Principe</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:18;}">
+            <TextLine id="r1l23" custom="readingOrder {index:18;} textStyle {offset:9; length:44;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:41; length:5;}">
                 <Coords points="115,1043 1248,1043 1258,1006 115,1010"/>
                 <Baseline points="123,1032 179,1031 235,1031 292,1031 348,1031 405,1031 461,1031 517,1031 574,1032 630,1032 687,1032 743,1032 799,1032 856,1032 912,1032 969,1032 1025,1032 1081,1032 1138,1031 1194,1031 1251,1031"/>
                 <TextEquiv>
                     <Unicode>zu thun, nach dem sich das Materiale der Musik künst¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:19;}">
+            <TextLine id="r1l24" custom="readingOrder {index:19;} textStyle {offset:0; length:23;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="117,1083 1267,1089 1267,1052 1203,1043 117,1043"/>
                 <Baseline points="124,1073 180,1073 237,1074 294,1074 351,1074 408,1074 464,1074 521,1074 578,1074 635,1074 692,1074 748,1074 805,1074 862,1073 919,1073 976,1074 1032,1074 1089,1074 1146,1074 1203,1074 1260,1075"/>
                 <TextEquiv>
@@ -199,7 +199,7 @@ Function des Tastsinnes.</Unicode>
                 <Coords points="118,1122 1273,1124 1273,1086 1228,1083 119,1083"/>
                 <Baseline points="125,1116 182,1116 239,1115 296,1115 353,1115 410,1115 467,1115 524,1116 581,1116 638,1116 695,1116 752,1117 809,1117 866,1117 923,1117 980,1117 1037,1117 1094,1117 1151,1116 1208,1116 1266,1115"/>
                 <TextEquiv>
-                    <Unicode>dass jedes Princip vom anderen völlig nnabhängig ist, dass beide</Unicode>
+                    <Unicode>dass jedes Princip vom anderen völlig unabhängig ist, dass beide</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l26" custom="readingOrder {index:21;}">
@@ -216,14 +216,14 @@ Function des Tastsinnes.</Unicode>
                     <Unicode>Weise durchkreuzen, dass keines auf das andere zurückgeführt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:23;}">
+            <TextLine id="r1l28" custom="readingOrder {index:23;} concept_mus {offset:44; length:13;}">
                 <Coords points="121,1251 1267,1251 1267,1214 121,1219"/>
                 <Baseline points="128,1239 184,1239 241,1239 297,1240 354,1240 411,1240 467,1240 524,1241 580,1241 637,1241 694,1241 750,1241 807,1241 863,1241 920,1241 977,1241 1033,1241 1090,1241 1146,1241 1203,1240 1260,1240"/>
                 <TextEquiv>
                     <Unicode>werden kann, weder die abgestufte Reihe der Tonqualitäten auf die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:24;}">
+            <TextLine id="r1l29" custom="readingOrder {index:24;} concept_mus {offset:0; length:12;} concept_mus {offset:13; length:27;}">
                 <Coords points="111,1292 1267,1292 1267,1261 1206,1251 111,1251"/>
                 <Baseline points="119,1282 176,1281 233,1281 290,1281 347,1281 404,1281 461,1281 518,1281 575,1281 632,1281 689,1281 746,1282 803,1282 860,1282 917,1282 974,1282 1031,1282 1088,1282 1145,1282 1202,1282 1260,1282"/>
                 <TextEquiv>
@@ -231,64 +231,64 @@ Function des Tastsinnes.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Wenn es nun keine anderen Beziehungen zwischen den Ton¬
-empfindungen gäbe, als die eben behandelte qualitative Abstufung,
-die sich auf die Nachbarschaft der Töne gründet, also durch die
-Grösse des Intervalls bestimmt wird, so müsste der Gegensatzgrad
-regelmässig nach oben und unten wachsen, so dass z. B. die Octave
-gegen die Prime fremder erschiene, als die kleine Septime, diese
-wieder fremder als die beiden Sexten oder die Quinte, während
-die übermässige Quarte alle diese Intervalle an Verwandtschaft mit
-der Prime überträfe. Die Erfahrung belehrt uns bekanntlich eines
-Anderen. Gerade die Octave erscheint von den hier genannten
-Intervallen als das verwandteste, nach ihr kommt die Quinte und
-die beiden Sexten, dann erst die kleine Septime und erst als aller¬
-letztes die übermässige Quarte. Es macht sich hier offenbar neben
-der qualitativen Abstufung der Tonempfindungen, die auf
-der Nachbarschaft derselben beruht, noch ein anderes wich¬
-tiges Moment geltend: die harmonische Zusammengehörig¬
-keit oder Verwandtschaft gewisser Tonstufen. Wir haben
-es also im Reiche der Töne mit einem doppelten Principe
-zu thun, nach dem sich das Materiale der Musik künst¬
-lerisch gestalten lässt; streng festzuhalten haben wir aber,
-dass jedes Princip vom anderen völlig nnabhängig ist, dass beide
-frei nebeneinander hergehen und sich dabei in der mannigfaltigsten
-Weise durchkreuzen, dass keines auf das andere zurückgeführt
-werden kann, weder die abgestufte Reihe der Tonqualitäten auf die
+                <Unicode>Wenn es nun keine anderen Beziehungen zwischen den Ton¬&#13;
+empfindungen gäbe, als die eben behandelte qualitative Abstufung,&#13;
+die sich auf die Nachbarschaft der Töne gründet, also durch die&#13;
+Grösse des Intervalls bestimmt wird, so müsste der Gegensatzgrad&#13;
+regelmässig nach oben und unten wachsen, so dass z. B. die Octave&#13;
+gegen die Prime fremder erschiene, als die kleine Septime, diese&#13;
+wieder fremder als die beiden Sexten oder die Quinte, während&#13;
+die übermässige Quarte alle diese Intervalle an Verwandtschaft mit&#13;
+der Prime überträfe. Die Erfahrung belehrt uns bekanntlich eines&#13;
+Anderen. Gerade die Octave erscheint von den hier genannten&#13;
+Intervallen als das verwandteste, nach ihr kommt die Quinte und&#13;
+die beiden Sexten, dann erst die kleine Septime und erst als aller¬&#13;
+letztes die übermässige Quarte. Es macht sich hier offenbar neben&#13;
+der qualitativen Abstufung der Tonempfindungen, die auf&#13;
+der Nachbarschaft derselben beruht, noch ein anderes wich¬&#13;
+tiges Moment geltend: die harmonische Zusammengehörig¬&#13;
+keit oder Verwandtschaft gewisser Tonstufen. Wir haben&#13;
+es also im Reiche der Töne mit einem doppelten Principe&#13;
+zu thun, nach dem sich das Materiale der Musik künst¬&#13;
+lerisch gestalten lässt; streng festzuhalten haben wir aber,&#13;
+dass jedes Princip vom anderen völlig unabhängig ist, dass beide&#13;
+frei nebeneinander hergehen und sich dabei in der mannigfaltigsten&#13;
+Weise durchkreuzen, dass keines auf das andere zurückgeführt&#13;
+werden kann, weder die abgestufte Reihe der Tonqualitäten auf die&#13;
 harmonischen Verwandtschaftsverhältnisse, noch auch diese auf jene.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1626095132723_2372" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
             <Coords points="115,1288 1282,1288 1282,2014 115,2014"/>
-            <TextLine id="r1l30" custom="readingOrder {index:0;}">
+            <TextLine id="r1l30" custom="readingOrder {index:0;} concept_mus {offset:24; length:8;}">
                 <Coords points="198,1329 1264,1331 1264,1292 198,1292"/>
                 <Baseline points="205,1321 257,1321 310,1322 362,1322 415,1323 467,1323 520,1323 572,1323 625,1324 677,1324 730,1324 783,1324 835,1324 888,1323 940,1323 993,1323 1045,1323 1098,1323 1150,1323 1203,1323 1256,1323"/>
                 <TextEquiv>
                     <Unicode>Bei der Betrachtung der Tonreihe als solcher kommt selbst¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626095199232_2439" custom="readingOrder {index:1;}">
+            <TextLine id="line_1626095199232_2439" custom="readingOrder {index:1;} concept_mus {offset:17; length:11;} concept_mus {offset:29; length:14;}">
                 <Coords points="116,1371 1268,1373 1268,1343 1204,1331 116,1338"/>
                 <Baseline points="124,1363 162,1363 200,1363 239,1363 277,1363 316,1363 354,1364 392,1364 431,1364 469,1364 508,1364 546,1364 584,1364 623,1364 661,1364 700,1364 738,1364 776,1364 815,1364 853,1364 892,1364 904,1361 929,1362 955,1363 980,1364 1006,1364 1031,1365 1057,1365 1082,1365 1108,1364 1133,1364 1159,1364 1184,1364 1210,1363 1235,1363 1261,1363"/>
                 <TextEquiv>
                     <Unicode>verständlich die harmonische Verwandtschaft — wir sagen künftig¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626095204472_2447" custom="readingOrder {index:2;}">
+            <TextLine id="line_1626095204472_2447" custom="readingOrder {index:2;} concept_mus {offset:17; length:14;} m_note {offset:38; length:4;}">
                 <Coords points="114,1413 1268,1419 1268,1382 1188,1371 114,1371"/>
                 <Baseline points="121,1405 153,1405 186,1405 218,1405 251,1405 284,1405 316,1405 349,1405 382,1405 414,1405 447,1405 480,1405 512,1406 545,1406 578,1406 610,1406 643,1406 676,1405 708,1405 741,1405 774,1405 801,1406 826,1406 852,1406 877,1406 903,1406 928,1406 954,1406 979,1406 1005,1406 1031,1406 1056,1406 1082,1406 1107,1406 1133,1406 1158,1406 1184,1406 1209,1407 1235,1407 1261,1408"/>
                 <TextEquiv>
                     <Unicode>hin schlechtweg: Verwandtschaft — der Töne nicht in Frage.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:3;}">
+            <TextLine id="r1l35" custom="readingOrder {index:3;} concept_mus {offset:18; length:8;} concept_phy {offset:38; length:5;}">
                 <Coords points="116,1458 1272,1464 1272,1430 1201,1413 116,1415"/>
                 <Baseline points="123,1444 180,1445 237,1445 294,1446 351,1446 408,1447 465,1447 522,1447 579,1447 636,1447 693,1447 750,1447 807,1447 864,1447 921,1447 978,1447 1035,1447 1092,1447 1149,1447 1206,1447 1264,1447"/>
                 <TextEquiv>
                     <Unicode>Wenn wir also die Tonreihe durch eine Linie darstellen wollen,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:4;}">
+            <TextLine id="r1l36" custom="readingOrder {index:4;} textStyle {offset:39; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:39; length:6;}">
                 <Coords points="112,1500 1265,1500 1245,1459 112,1465"/>
                 <Baseline points="120,1487 176,1487 233,1487 290,1487 347,1487 404,1487 461,1488 518,1488 575,1488 632,1488 689,1489 745,1489 802,1489 859,1489 916,1490 973,1490 1030,1489 1087,1489 1144,1489 1201,1488 1258,1488"/>
                 <TextEquiv>
@@ -302,14 +302,14 @@ harmonischen Verwandtschaftsverhältnisse, noch auch diese auf jene.</Unicode>
                     <Unicode>Aenderung der Richtung nicht die geringste Veranlassung vor¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:6;}">
+            <TextLine id="r1l38" custom="readingOrder {index:6;} concept_phy {offset:23; length:6;} textStyle {offset:46; length:14;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:46; length:14;}">
                 <Coords points="117,1580 1273,1579 1229,1538 117,1540"/>
                 <Baseline points="124,1570 181,1570 238,1570 295,1570 352,1570 409,1570 466,1570 523,1571 580,1571 637,1571 695,1571 752,1571 809,1571 866,1572 923,1572 980,1572 1037,1572 1094,1572 1151,1571 1208,1571 1266,1571"/>
                 <TextEquiv>
                     <Unicode>handen ist. Dass diese Gerade als eine ebenso continuirliche</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l39" custom="readingOrder {index:7;}">
+            <TextLine id="r1l39" custom="readingOrder {index:7;} concept_phy {offset:42; length:15;}">
                 <Coords points="114,1626 1265,1628 1266,1583 114,1588"/>
                 <Baseline points="121,1612 177,1612 234,1612 291,1612 348,1612 405,1612 462,1613 519,1613 576,1613 633,1613 690,1613 746,1613 803,1614 860,1614 917,1614 974,1614 1031,1614 1088,1614 1145,1613 1202,1613 1259,1613"/>
                 <TextEquiv>
@@ -323,85 +323,85 @@ harmonischen Verwandtschaftsverhältnisse, noch auch diese auf jene.</Unicode>
                     <Unicode>bedarf keiner weiteren Ausführung. Die kleinere oder grössere</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l41" custom="readingOrder {index:9;}">
+            <TextLine id="r1l41" custom="readingOrder {index:9;} concept_phy {offset:11; length:15;} concept_phy {offset:27; length:9;} concept_phy {offset:40; length:4;}">
                 <Coords points="116,1707 1268,1706 1268,1673 1190,1667 116,1669"/>
                 <Baseline points="123,1697 179,1697 236,1697 293,1697 350,1697 407,1697 464,1697 521,1697 578,1697 635,1697 692,1698 748,1698 805,1698 862,1698 919,1698 976,1698 1033,1698 1090,1698 1147,1698 1204,1697 1261,1697"/>
                 <TextEquiv>
                     <Unicode>Anzahl der mitschwingenden Theilchen im Ohre hat da nichts zu</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l42" custom="readingOrder {index:10;}">
+            <TextLine id="r1l42" custom="readingOrder {index:10;} concept_phy {offset:54; length:9;} m_note {offset:54; length:9;}">
                 <Coords points="114,1747 1270,1755 1270,1722 1197,1707 114,1708"/>
                 <Baseline points="122,1738 179,1738 236,1739 293,1739 350,1740 407,1740 464,1740 521,1740 578,1740 635,1740 692,1740 749,1740 806,1740 863,1740 920,1740 977,1740 1034,1740 1091,1740 1148,1741 1205,1741 1262,1741"/>
                 <TextEquiv>
                     <Unicode>bedeuten; wir wissen, dass jedes nicht nur von seinem Eigentone,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l43" custom="readingOrder {index:11;}">
+            <TextLine id="r1l43" custom="readingOrder {index:11;} m_note {offset:37; length:5;} concept_phy {offset:46; length:8;}">
                 <Coords points="109,1795 1272,1796 1262,1755 109,1756"/>
                 <Baseline points="116,1781 173,1781 230,1781 288,1782 345,1782 403,1782 460,1782 517,1782 575,1782 632,1782 690,1782 747,1782 804,1782 862,1782 919,1782 977,1782 1034,1782 1091,1782 1149,1782 1206,1782 1264,1782"/>
                 <TextEquiv>
                     <Unicode>sondern auch von vielen benachbarten Tönen in Bewegung versetzt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l44" custom="readingOrder {index:12;}">
+            <TextLine id="r1l44" custom="readingOrder {index:12;} m_note {offset:25; length:3;} m_note {offset:52; length:9;}">
                 <Coords points="109,1833 1148,1843 1269,1835 1269,1796 109,1802"/>
                 <Baseline points="117,1822 174,1822 231,1823 288,1824 346,1824 403,1824 460,1825 517,1825 575,1825 632,1825 689,1825 746,1825 804,1825 861,1825 918,1825 975,1825 1033,1825 1090,1825 1147,1825 1204,1825 1262,1825"/>
                 <TextEquiv>
                     <Unicode>werden kann, so dass ein Ton, der etwa zwischen die Eigentöne</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l45" custom="readingOrder {index:13;}">
+            <TextLine id="r1l45" custom="readingOrder {index:13;} concept_phy {offset:43; length:15;} concept_phy {offset:59; length:6; continued:true;}">
                 <Coords points="113,1874 1063,1883 1263,1875 1263,1838 113,1841"/>
                 <Baseline points="120,1865 176,1865 233,1866 290,1866 347,1866 404,1866 460,1866 517,1867 574,1867 631,1867 688,1867 744,1867 801,1867 858,1867 915,1867 972,1867 1028,1867 1085,1867 1142,1867 1199,1867 1256,1866"/>
                 <TextEquiv>
                     <Unicode>zweier unmittelbar nebeneinander stehender mitschwingender Theil¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l46" custom="readingOrder {index:14;}">
+            <TextLine id="r1l46" custom="readingOrder {index:14;} concept_phy {offset:0; length:4; continued:true;} concept_phy {offset:41; length:5;}">
                 <Coords points="114,1915 1122,1923 1273,1915 1274,1886 114,1882"/>
                 <Baseline points="121,1908 178,1908 235,1908 292,1908 350,1908 407,1908 464,1908 521,1908 579,1909 636,1909 693,1909 750,1909 808,1909 865,1909 922,1909 979,1909 1037,1909 1094,1909 1151,1909 1208,1909 1266,1908"/>
                 <TextEquiv>
                     <Unicode>chen fiele, nicht ohne Wirkung auf unser Gehör bleibt, da er dann</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l47" custom="readingOrder {index:15;}">
+            <TextLine id="r1l47" custom="readingOrder {index:15;} concept_phy {offset:51; length:8;} m_note {offset:51; length:8;}">
                 <Coords points="118,1963 1265,1963 1265,1923 1218,1915 118,1916"/>
                 <Baseline points="125,1950 181,1950 238,1950 294,1951 351,1951 408,1951 464,1951 521,1951 578,1952 634,1952 691,1952 748,1952 804,1952 861,1952 918,1952 974,1951 1031,1951 1088,1951 1144,1951 1201,1950 1258,1950"/>
                 <TextEquiv>
                     <Unicode>beide erregt, dasjenige allerdings stärker, dessen Eigenton ihm</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l48" custom="readingOrder {index:16;}">
+            <TextLine id="r1l48" custom="readingOrder {index:16;} concept_phy {offset:59; length:4;}">
                 <Coords points="107,2002 1256,2003 1267,1969 107,1970"/>
                 <Baseline points="115,1993 172,1993 229,1994 286,1994 344,1994 401,1994 458,1994 515,1994 573,1994 630,1994 687,1994 744,1994 802,1994 859,1993 916,1993 973,1993 1031,1993 1088,1993 1145,1993 1202,1993 1260,1993"/>
                 <TextEquiv>
-                    <Unicode>näher liegt.*) Es genügt also eine beschränkte Anzahl von End¬</Unicode>
+                    <Unicode>näher liegt. *) Es genügt also eine beschränkte Anzahl von End¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Bei der Betrachtung der Tonreihe als solcher kommt selbst¬
-verständlich die harmonische Verwandtschaft — wir sagen künftig¬
-hin schlechtweg: Verwandtschaft — der Töne nicht in Frage.
-Wenn wir also die Tonreihe durch eine Linie darstellen wollen,
-so kann es keine andere sein, als eine Gerade, da ja zu einer
-Aenderung der Richtung nicht die geringste Veranlassung vor¬
-handen ist. Dass diese Gerade als eine ebenso continuirliche
-gedacht werden muss, wie es die Reihe der Tonempfindungen ist,
-bedarf keiner weiteren Ausführung. Die kleinere oder grössere
-Anzahl der mitschwingenden Theilchen im Ohre hat da nichts zu
-bedeuten; wir wissen, dass jedes nicht nur von seinem Eigentone,
-sondern auch von vielen benachbarten Tönen in Bewegung versetzt
-werden kann, so dass ein Ton, der etwa zwischen die Eigentöne
-zweier unmittelbar nebeneinander stehender mitschwingender Theil¬
-chen fiele, nicht ohne Wirkung auf unser Gehör bleibt, da er dann
-beide erregt, dasjenige allerdings stärker, dessen Eigenton ihm
-näher liegt.*) Es genügt also eine beschränkte Anzahl von End¬</Unicode>
+                <Unicode>Bei der Betrachtung der Tonreihe als solcher kommt selbst¬&#13;
+verständlich die harmonische Verwandtschaft — wir sagen künftig¬&#13;
+hin schlechtweg: Verwandtschaft — der Töne nicht in Frage.&#13;
+Wenn wir also die Tonreihe durch eine Linie darstellen wollen,&#13;
+so kann es keine andere sein, als eine Gerade, da ja zu einer&#13;
+Aenderung der Richtung nicht die geringste Veranlassung vor¬&#13;
+handen ist. Dass diese Gerade als eine ebenso continuirliche&#13;
+gedacht werden muss, wie es die Reihe der Tonempfindungen ist,&#13;
+bedarf keiner weiteren Ausführung. Die kleinere oder grössere&#13;
+Anzahl der mitschwingenden Theilchen im Ohre hat da nichts zu&#13;
+bedeuten; wir wissen, dass jedes nicht nur von seinem Eigentone,&#13;
+sondern auch von vielen benachbarten Tönen in Bewegung versetzt&#13;
+werden kann, so dass ein Ton, der etwa zwischen die Eigentöne&#13;
+zweier unmittelbar nebeneinander stehender mitschwingender Theil¬&#13;
+chen fiele, nicht ohne Wirkung auf unser Gehör bleibt, da er dann&#13;
+beide erregt, dasjenige allerdings stärker, dessen Eigenton ihm&#13;
+näher liegt. *) Es genügt also eine beschränkte Anzahl von End¬</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1626095128585_2368" custom="readingOrder {index:4;} structure {type:footnote;}">
             <Coords points="115,2014 1282,2014 1282,2083 115,2083"/>
-            <TextLine id="r1l49" custom="readingOrder {index:0;}">
+            <TextLine id="r1l49" custom="readingOrder {index:0;} textStyle {offset:3; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:3; length:9;ID:P0001;} work_text {offset:13; length:8;ID:W0001;}">
                 <Coords points="195,2086 709,2082 709,2046 696,2043 577,2054 196,2042"/>
                 <Baseline points="203,2064 229,2067 255,2068 281,2069 308,2071 334,2071 360,2072 386,2072 413,2072 439,2072 465,2072 491,2072 518,2071 544,2071 570,2071 596,2071 623,2071 649,2071 675,2072 702,2073"/>
                 <TextEquiv>

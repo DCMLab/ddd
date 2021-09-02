@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:32.066+01:00</Created>
-        <LastChange>2021-07-14T18:18:21.338+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902653" pageNr="101" tsid="61441380" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=XMWSZJTHQITJCHOAPPECDZXM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QWOYGDUIMFJTSFTOXRVQZUVL" imageId="17865948"/>
+        <LastChange>2021-08-26T17:48:49.611+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28701911" pageNr="101" tsid="63524317" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=WKCWCJDCRZRWBJMIWFSLQQMS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YQNOUWAVWEIEKKVODQKPXJFK" imageId="22424989"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0101.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454115770" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573582696" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626259002105_1001"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626259002105_1000"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1626258994123_992"/>
@@ -34,35 +34,35 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1626259002105_1000" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
             <Coords points="142,130 1304,130 1304,1172 142,1172"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:30; length:7;}">
                 <Coords points="143,195 1276,196 1311,193 1311,152 143,154"/>
                 <Baseline points="150,185 207,184 265,184 323,184 380,184 438,184 496,184 553,184 611,184 669,184 727,184 784,184 842,184 900,184 957,184 1015,184 1073,184 1130,184 1188,184 1246,183 1304,183"/>
                 <TextEquiv>
                     <Unicode>nicht zweifelhaft bleibt. Der Musiker deutet den Sinn dieser</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:42; length:6;}">
                 <Coords points="146,237 1305,233 1305,203 1230,194 146,202"/>
                 <Baseline points="153,228 210,228 267,227 324,227 382,227 439,227 496,227 553,227 611,227 668,227 725,227 782,227 840,227 897,227 954,227 1011,227 1069,227 1126,227 1183,227 1240,227 1298,226"/>
                 <TextEquiv>
                     <Unicode>Antwort zunächst durch die vorausgehenden Klänge an. Wenn</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_chord {offset:10; length:11;} m_chord {offset:22; length:6;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:24; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:26; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:41; length:7;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="142,283 1112,291 1302,282 1302,245 142,251"/>
                 <Baseline points="149,273 206,272 263,271 320,271 378,270 435,270 492,270 550,270 607,270 664,270 722,270 779,270 836,270 893,271 951,271 1008,271 1065,271 1123,271 1180,271 1237,270 1295,270"/>
                 <TextEquiv>
-                    <Unicode>z. B. dem Sextaccorde e—9—c“ der normale C-Klang oder die</Unicode>
+                    <Unicode>z. B. dem Sextaccorde e—g—c′ der normale C-Klang oder die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:9; length:10;} m_chord {offset:41; length:2;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:42; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:49; length:2;} textStyle {offset:49; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:50; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="145,324 1264,331 1306,287 145,290"/>
                 <Baseline points="153,313 210,313 267,313 324,312 382,312 439,312 496,312 554,312 611,313 668,313 726,313 783,313 840,313 897,314 955,314 1012,314 1069,314 1127,314 1184,313 1241,313 1299,312"/>
                 <TextEquiv>
-                    <Unicode>nächsten Verwandten desselben, also etwa g + oder F vorangegangen</Unicode>
+                    <Unicode>nächsten Verwandten desselben, also etwa g+ oder f+ vorangegangen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:29; length:10;} concept_mus {offset:56; length:8;} textStyle {offset:56; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="141,364 1298,361 1298,331 1208,321 141,331"/>
                 <Baseline points="148,355 205,355 262,355 319,355 376,355 433,355 490,355 547,355 604,355 661,355 719,355 776,355 833,355 890,355 947,355 1004,355 1061,355 1118,355 1175,355 1232,355 1290,355"/>
                 <TextEquiv>
@@ -76,42 +76,42 @@ Transkribus</Creator>
                     <Unicode>zustrebt, so ist wohl nicht zu befürchten, dass dieser letztere von</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_mus {offset:15; length:10;} concept_mus {offset:50; length:8;} textStyle {offset:50; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="146,450 1297,443 1297,414 1079,403 146,411"/>
                 <Baseline points="153,439 209,439 266,439 323,440 380,440 437,440 494,440 550,440 607,440 664,440 721,440 778,440 835,440 892,440 948,440 1005,440 1062,439 1119,439 1176,438 1233,438 1290,437"/>
                 <TextEquiv>
                     <Unicode>dem der ganzen Klangfolge ziemlich fern stehenden E-Klange ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;} concept_mus {offset:25; length:13;} concept_mus {offset:39; length:5;}">
                 <Coords points="142,491 1056,500 1304,491 1304,451 142,452"/>
                 <Baseline points="149,483 206,482 263,482 321,482 378,482 436,482 493,482 550,482 608,482 665,482 723,483 780,483 837,483 895,483 952,483 1010,483 1067,482 1124,482 1182,481 1239,480 1297,479"/>
                 <TextEquiv>
                     <Unicode>drängt werden könnte. Im zweistimmigen Satze gestattet selbst</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+            <TextLine id="r1l10" custom="readingOrder {index:8;} concept_mus {offset:26; length:7;} m_interval {offset:44; length:5;} m_interval {offset:51; length:4;} textStyle {offset:51; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:53; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="151,539 1171,531 1171,492 151,492"/>
                 <Baseline points="158,524 208,524 258,524 308,524 359,524 409,524 459,524 510,524 560,524 610,525 661,525 711,525 761,525 811,525 862,525 912,525 962,525 1013,525 1063,524 1113,524 1164,523"/>
                 <TextEquiv>
-                    <Unicode>die strengste Theorie den Schluss mit einer Sexte: 9—d“</Unicode>
+                    <Unicode>die strengste Theorie den Schluss mit einer Sexte: g—d′ . . . .</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+            <TextLine id="r1l11" custom="readingOrder {index:9;} m_interval {offset:0; length:5;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:3; length:1;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:11; length:4;} textStyle {offset:11; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:13; length:1;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:22; length:5;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:25; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:48; length:14;}">
                 <Coords points="144,580 1125,586 1305,579 1305,539 144,540"/>
                 <Baseline points="152,563 209,564 266,565 323,566 381,567 438,567 495,567 553,567 610,568 667,567 725,567 782,567 839,567 896,567 954,566 1011,566 1068,566 1126,566 1183,565 1240,565 1298,565"/>
                 <TextEquiv>
-                    <Unicode>e—c“ oder 9—h . . . e—c“. Die Gefahr für die Klangbedeutung</Unicode>
+                    <Unicode>e{—c′ oder g—h{ . . . e{—c′. Die Gefahr für die Klangbedeutung</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+            <TextLine id="r1l12" custom="readingOrder {index:10;} concept_mus {offset:4; length:6;} m_chord {offset:20; length:16;} concept_mus {offset:59; length:5;}">
                 <Coords points="148,619 1303,627 1303,584 1263,572 148,580"/>
                 <Baseline points="155,609 212,609 269,608 326,608 383,608 440,608 497,608 554,609 611,609 668,609 725,609 782,609 839,609 896,609 953,609 1010,609 1067,609 1124,609 1181,609 1238,608 1296,608"/>
                 <TextEquiv>
                     <Unicode>der Tonica ist beim Quartsextaccorde etwas grösser, da der Klang</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+            <TextLine id="r1l13" custom="readingOrder {index:11;} m_interval {offset:4; length:6;} concept_mus {offset:12; length:9;} concept_mus {offset:34; length:16;} concept_mus {offset:55; length:6;}">
                 <Coords points="146,660 1304,660 1264,620 146,619"/>
                 <Baseline points="153,650 210,651 267,651 324,651 381,651 439,651 496,651 553,651 610,651 667,651 725,651 782,651 839,651 896,651 953,651 1011,651 1068,651 1125,650 1182,650 1239,650 1297,650"/>
                 <TextEquiv>
@@ -125,46 +125,46 @@ Transkribus</Creator>
                     <Unicode>bereits mehr Anknüpfungspuncte findet, namentlich wenn er selbst</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+            <TextLine id="r1l15" custom="readingOrder {index:13;} concept_mus {offset:21; length:6;}">
                 <Coords points="137,748 1303,747 1303,706 137,716"/>
                 <Baseline points="145,735 202,735 260,736 317,736 375,736 432,736 490,737 547,737 605,737 662,737 720,737 778,737 835,737 893,737 950,737 1008,736 1065,736 1123,736 1180,735 1238,735 1296,734"/>
                 <TextEquiv>
                     <Unicode>als Bestandtheil der Cadenz auftritt, was doch in den weitaus</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+            <TextLine id="r1l16" custom="readingOrder {index:14;} m_chord {offset:55; length:6; continued:true;}">
                 <Coords points="139,787 1211,796 1296,784 1296,754 139,755"/>
                 <Baseline points="147,778 204,778 261,778 318,779 375,779 432,779 489,779 546,779 603,779 660,779 717,779 774,779 831,779 888,779 945,779 1002,779 1059,778 1116,778 1173,777 1230,777 1288,776"/>
                 <TextEquiv>
                     <Unicode>meisten Fällen geschieht. Daher die doppelte Rolle des Quart¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+            <TextLine id="r1l17" custom="readingOrder {index:15;} m_chord {offset:0; length:12; continued:true;} concept_mus {offset:22; length:11;} concept_mus {offset:41; length:9;} concept_phy {offset:41; length:9;}">
                 <Coords points="140,834 1295,835 1295,785 140,795"/>
                 <Baseline points="148,819 205,820 262,821 319,821 376,821 433,822 490,822 547,822 604,822 661,822 718,822 775,822 832,822 889,821 946,821 1003,821 1060,821 1117,821 1174,820 1231,820 1288,820"/>
                 <TextEquiv>
-                    <Unicode>sextaccordes, den die Theoretiker einmal consonant, das anderemal.</Unicode>
+                    <Unicode>sextaccordes, den die Theoretiker einmal consonant, das anderemal</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+            <TextLine id="r1l18" custom="readingOrder {index:16;} m_chord {offset:18; length:6;} concept_mus {offset:32; length:6;} concept_mus {offset:44; length:9;} concept_phy {offset:44; length:9;}">
                 <Coords points="135,875 1300,875 1300,834 135,843"/>
                 <Baseline points="143,864 200,864 258,864 315,864 373,864 430,864 488,864 545,864 603,864 660,863 718,863 775,863 833,863 890,863 948,863 1005,862 1063,863 1120,863 1178,863 1235,863 1293,864"/>
                 <TextEquiv>
-                    <Unicode>als „drittletzten Accord in der Cadenz"*), dissonant nennen. Im</Unicode>
+                    <Unicode>als „drittletzten Accord in der Cadenz” *), dissonant nennen. Im</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626259179756_1054" custom="readingOrder {index:17;}">
+            <TextLine id="line_1626259179756_1054" custom="readingOrder {index:17;} m_chord {offset:19; length:8;} textStyle {offset:19; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:21; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:24; length:1;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:30; length:2;} textStyle {offset:30; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:31; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:50; length:7;} textStyle {offset:50; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:52; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:55; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="141,915 1298,906 1234,874 141,882"/>
                 <Baseline points="149,903 174,904 199,904 225,905 250,905 276,905 301,905 327,905 352,906 378,906 403,906 428,905 454,905 479,905 505,905 530,904 556,904 581,903 607,902 618,902 648,904 678,905 708,906 739,906 769,906 799,907 830,907 860,906 890,906 921,906 951,905 981,905 1011,904 1042,904 1072,903 1102,903 1133,903 1163,902 1193,902 1224,903 1258,904 1290,900"/>
                 <TextEquiv>
-                    <Unicode>ersteren Falle ist 9—c“= im zweiten aber 9—#—e“ =</Unicode>
+                    <Unicode>ersteren Falle ist g—c′—e{′ = c+, im zweiten aber g—c′—e′ =</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:18;}">
+            <TextLine id="r1l22" custom="readingOrder {index:18;} m_chord {offset:0; length:2;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:1; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:5; length:2;} textStyle {offset:5; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:6; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:19; length:17;}">
                 <Coords points="138,963 1206,962 1300,954 1300,919 138,927"/>
                 <Baseline points="145,947 202,947 259,947 317,947 374,948 432,948 489,948 546,948 604,948 661,949 719,949 776,949 833,949 891,949 948,949 1006,949 1063,948 1120,948 1178,948 1235,947 1293,947"/>
                 <TextEquiv>
-                    <Unicode>9— + ch also eine Vorhaltsdissonanz. Uebrigens ist es klar, dass</Unicode>
+                    <Unicode>g+ + c+, also eine Vorhaltsdissonanz. Uebrigens ist es klar, dass</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l23" custom="readingOrder {index:19;}">
@@ -174,59 +174,59 @@ Transkribus</Creator>
                     <Unicode>die verschiedene Deutung dieses Gebildes nicht nur von den vor¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:20;}">
+            <TextLine id="r1l24" custom="readingOrder {index:20;} concept_mus {offset:48; length:9;}">
                 <Coords points="141,1044 1295,1035 1272,996 141,1003"/>
                 <Baseline points="149,1033 208,1033 268,1033 328,1033 388,1033 448,1033 508,1033 568,1033 628,1033 688,1033 748,1033 808,1033 868,1033 928,1033 988,1033 1048,1033 1108,1032 1168,1032 1228,1031 1288,1030"/>
                 <TextEquiv>
                     <Unicode>hergehenden, sondern auch von den nachfolgenden Harmonien ab¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:21;}">
+            <TextLine id="r1l25" custom="readingOrder {index:21;} m_chord {offset:28; length:15;} concept_mus {offset:48; length:9;} concept_phy {offset:48; length:9;}">
                 <Coords points="147,1084 1216,1087 1298,1083 1298,1041 147,1044"/>
                 <Baseline points="154,1076 210,1076 267,1076 324,1075 381,1075 438,1075 495,1075 551,1075 608,1075 665,1075 722,1075 779,1075 836,1075 893,1075 949,1075 1006,1075 1063,1075 1120,1075 1177,1074 1234,1074 1291,1073"/>
                 <TextEquiv>
                     <Unicode>hängt. Bei a) erscheint der Quartsextaccord als consonant, bei</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:22;}">
+            <TextLine id="r1l26" custom="readingOrder {index:22;} concept_mus {offset:7; length:9;} concept_phy {offset:7; length:9;} concept_mus {offset:55; length:5; continued:true;}">
                 <Coords points="143,1130 1305,1114 1279,1083 143,1084"/>
                 <Baseline points="150,1118 207,1118 264,1118 322,1118 379,1118 437,1118 494,1118 551,1118 609,1118 666,1118 724,1118 781,1118 838,1118 896,1118 953,1118 1011,1117 1068,1117 1125,1116 1183,1116 1240,1115 1298,1114"/>
                 <TextEquiv>
                     <Unicode>b) als dissonant, lediglich in Folge der verschiedenen Fort¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:23;}">
+            <TextLine id="r1l27" custom="readingOrder {index:23;} concept_mus {offset:0; length:10; continued:true;}">
                 <Coords points="143,1171 269,1168 286,1179 325,1174 325,1136 311,1132 274,1136 231,1126 211,1138 186,1131 171,1138 143,1138"/>
                 <Baseline points="150,1159 178,1160 206,1160 234,1159 262,1159 290,1160 318,1161"/>
                 <TextEquiv>
-                    <Unicode>schreitung</Unicode>
+                    <Unicode>schreitung:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>nicht zweifelhaft bleibt. Der Musiker deutet den Sinn dieser
-Antwort zunächst durch die vorausgehenden Klänge an. Wenn
-z. B. dem Sextaccorde e—9—c“ der normale C-Klang oder die
-nächsten Verwandten desselben, also etwa g + oder F vorangegangen
-sind, überhaupt das Ende des Tonstückes entschieden dem C-Klange
-zustrebt, so ist wohl nicht zu befürchten, dass dieser letztere von
-dem der ganzen Klangfolge ziemlich fern stehenden E-Klange ver¬
-drängt werden könnte. Im zweistimmigen Satze gestattet selbst
-die strengste Theorie den Schluss mit einer Sexte: 9—d“
-e—c“ oder 9—h . . . e—c“. Die Gefahr für die Klangbedeutung
-der Tonica ist beim Quartsextaccorde etwas grösser, da der Klang
-der Quinte (Dominante) im engsten Verwandtenkreise der Tonica
-bereits mehr Anknüpfungspuncte findet, namentlich wenn er selbst
-als Bestandtheil der Cadenz auftritt, was doch in den weitaus
-meisten Fällen geschieht. Daher die doppelte Rolle des Quart¬
-sextaccordes, den die Theoretiker einmal consonant, das anderemal.
-als „drittletzten Accord in der Cadenz"*), dissonant nennen. Im
-ersteren Falle ist 9—c“= im zweiten aber 9—#—e“ =
-9— + ch also eine Vorhaltsdissonanz. Uebrigens ist es klar, dass
-die verschiedene Deutung dieses Gebildes nicht nur von den vor¬
-hergehenden, sondern auch von den nachfolgenden Harmonien ab¬
-hängt. Bei a) erscheint der Quartsextaccord als consonant, bei
-b) als dissonant, lediglich in Folge der verschiedenen Fort¬
-schreitung</Unicode>
+                <Unicode>nicht zweifelhaft bleibt. Der Musiker deutet den Sinn dieser&#13;
+Antwort zunächst durch die vorausgehenden Klänge an. Wenn&#13;
+z. B. dem Sextaccorde e—g—c′ der normale C-Klang oder die&#13;
+nächsten Verwandten desselben, also etwa g+ oder f+ vorangegangen&#13;
+sind, überhaupt das Ende des Tonstückes entschieden dem C-Klange&#13;
+zustrebt, so ist wohl nicht zu befürchten, dass dieser letztere von&#13;
+dem der ganzen Klangfolge ziemlich fern stehenden E-Klange ver¬&#13;
+drängt werden könnte. Im zweistimmigen Satze gestattet selbst&#13;
+die strengste Theorie den Schluss mit einer Sexte: g—d′ . . . .&#13;
+e{—c′ oder g—h{ . . . e{—c′. Die Gefahr für die Klangbedeutung&#13;
+der Tonica ist beim Quartsextaccorde etwas grösser, da der Klang&#13;
+der Quinte (Dominante) im engsten Verwandtenkreise der Tonica&#13;
+bereits mehr Anknüpfungspuncte findet, namentlich wenn er selbst&#13;
+als Bestandtheil der Cadenz auftritt, was doch in den weitaus&#13;
+meisten Fällen geschieht. Daher die doppelte Rolle des Quart¬&#13;
+sextaccordes, den die Theoretiker einmal consonant, das anderemal&#13;
+als „drittletzten Accord in der Cadenz” *), dissonant nennen. Im&#13;
+ersteren Falle ist g—c′—e{′ = c+, im zweiten aber g—c′—e′ =&#13;
+g+ + c+, also eine Vorhaltsdissonanz. Uebrigens ist es klar, dass&#13;
+die verschiedene Deutung dieses Gebildes nicht nur von den vor¬&#13;
+hergehenden, sondern auch von den nachfolgenden Harmonien ab¬&#13;
+hängt. Bei a) erscheint der Quartsextaccord als consonant, bei&#13;
+b) als dissonant, lediglich in Folge der verschiedenen Fort¬&#13;
+schreitung:</Unicode>
             </TextEquiv>
         </TextRegion>
         <MusicRegion id="Music_1626259121761_1011" custom="readingOrder {index:2;} structure {type:floating;}">
@@ -234,42 +234,42 @@ schreitung</Unicode>
         </MusicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1626258994123_992" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
             <Coords points="142,1408 1304,1408 1304,1661 142,1661"/>
-            <TextLine id="r1l45" custom="readingOrder {index:0;}">
+            <TextLine id="r1l45" custom="readingOrder {index:0;} concept_mus {offset:7; length:9;} concept_phy {offset:7; length:9;} m_chord {offset:22; length:17;}">
                 <Coords points="141,1451 1295,1460 1295,1415 1257,1412 141,1412"/>
                 <Baseline points="149,1444 205,1444 262,1445 319,1445 376,1445 433,1445 490,1445 547,1445 604,1445 661,1445 718,1445 774,1445 831,1445 888,1445 945,1445 1002,1445 1059,1445 1116,1446 1173,1446 1230,1446 1287,1446"/>
                 <TextEquiv>
-                    <Unicode>Diese „Dissonanz“ des Quartsextaccordes ist natürlich nur eine</Unicode>
+                    <Unicode>Diese „Dissonanz” des Quartsextaccordes ist natürlich nur eine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l46" custom="readingOrder {index:1;}">
+            <TextLine id="r1l46" custom="readingOrder {index:1;} textStyle {offset:0; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="137,1499 1298,1500 1298,1461 1076,1451 137,1461"/>
                 <Baseline points="145,1485 202,1485 259,1486 316,1486 374,1486 431,1486 488,1486 546,1486 603,1486 660,1486 718,1487 775,1487 832,1487 889,1487 947,1487 1004,1487 1061,1487 1119,1487 1176,1487 1233,1487 1291,1488"/>
                 <TextEquiv>
                     <Unicode>scheinbare, hervorgerufen durch eine zwiespältige Deutung eines</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l47" custom="readingOrder {index:2;}">
+            <TextLine id="r1l47" custom="readingOrder {index:2;} concept_mus {offset:19; length:11;} concept_phy {offset:19; length:11;}">
                 <Coords points="134,1539 1296,1539 1296,1507 1236,1500 134,1502"/>
                 <Baseline points="142,1527 199,1527 256,1527 314,1527 371,1527 428,1528 486,1528 543,1528 600,1528 658,1528 715,1528 772,1528 830,1528 887,1528 944,1528 1002,1528 1059,1529 1116,1529 1174,1529 1231,1529 1289,1530"/>
                 <TextEquiv>
                     <Unicode>an sich vollkommen consonanten Gebildes. Wir haben hier einen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l48" custom="readingOrder {index:3;}">
+            <TextLine id="r1l48" custom="readingOrder {index:3;} concept_mus {offset:14; length:8;}">
                 <Coords points="140,1580 1297,1570 1236,1540 140,1539"/>
                 <Baseline points="148,1568 205,1568 262,1568 319,1569 376,1569 433,1569 490,1569 547,1569 604,1569 661,1569 719,1569 776,1569 833,1569 890,1570 947,1570 1004,1570 1061,1570 1118,1570 1175,1570 1232,1570 1290,1570"/>
                 <TextEquiv>
                     <Unicode>Fall jener am Schlusse des vorigen Paragraphen erwähnten Zer¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l49" custom="readingOrder {index:4;}">
+            <TextLine id="r1l49" custom="readingOrder {index:4;} m_chord {offset:13; length:8;} concept_mus {offset:29; length:6;} m_note {offset:43; length:10;}">
                 <Coords points="146,1616 1293,1626 1293,1587 146,1580"/>
                 <Baseline points="153,1609 209,1609 266,1609 322,1610 379,1610 436,1610 492,1610 549,1610 606,1610 662,1610 719,1610 776,1610 832,1610 889,1610 946,1611 1002,1611 1059,1611 1116,1611 1172,1612 1229,1612 1286,1613"/>
                 <TextEquiv>
                     <Unicode>legung eines Accordes in die Klänge seiner Einzeltöne vor uns,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l50" custom="readingOrder {index:5;}">
+            <TextLine id="r1l50" custom="readingOrder {index:5;} m_note {offset:60; length:4;}">
                 <Coords points="140,1659 1301,1667 1301,1627 1239,1620 141,1628"/>
                 <Baseline points="148,1651 205,1651 262,1651 319,1651 377,1651 434,1651 491,1651 549,1652 606,1652 663,1652 721,1652 778,1652 835,1652 892,1653 950,1653 1007,1653 1064,1653 1122,1654 1179,1654 1236,1654 1294,1655"/>
                 <TextEquiv>
@@ -277,11 +277,11 @@ schreitung</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Diese „Dissonanz“ des Quartsextaccordes ist natürlich nur eine
-scheinbare, hervorgerufen durch eine zwiespältige Deutung eines
-an sich vollkommen consonanten Gebildes. Wir haben hier einen
-Fall jener am Schlusse des vorigen Paragraphen erwähnten Zer¬
-legung eines Accordes in die Klänge seiner Einzeltöne vor uns,
+                <Unicode>Diese „Dissonanz” des Quartsextaccordes ist natürlich nur eine&#13;
+scheinbare, hervorgerufen durch eine zwiespältige Deutung eines&#13;
+an sich vollkommen consonanten Gebildes. Wir haben hier einen&#13;
+Fall jener am Schlusse des vorigen Paragraphen erwähnten Zer¬&#13;
+legung eines Accordes in die Klänge seiner Einzeltöne vor uns,&#13;
 strenggenommen freilich nur in Beziehung auf Einen der drei Töne:</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -290,14 +290,14 @@ strenggenommen freilich nur in Beziehung auf Einen der drei Töne:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1626258988860_984" custom="readingOrder {index:5;} structure {type:paragraph-continued;}">
             <Coords points="142,1765 1304,1765 1304,1872 142,1872"/>
-            <TextLine id="r1l54" custom="readingOrder {index:0;}">
+            <TextLine id="r1l54" custom="readingOrder {index:0;} m_note {offset:35; length:5;}">
                 <Coords points="135,1802 1292,1804 1257,1763 135,1762"/>
                 <Baseline points="143,1791 200,1791 257,1792 314,1792 371,1792 428,1793 485,1793 542,1793 599,1793 656,1793 713,1793 770,1794 827,1794 884,1794 941,1794 998,1794 1055,1794 1112,1794 1169,1794 1226,1794 1284,1794"/>
                 <TextEquiv>
                     <Unicode>Dieses Hervorheben eines einzelnen Tones, somit auch die zwie¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l55" custom="readingOrder {index:1;}">
+            <TextLine id="r1l55" custom="readingOrder {index:1;} m_chord {offset:28; length:8;} textStyle {offset:51; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="138,1846 1300,1860 1267,1803 138,1811"/>
                 <Baseline points="145,1834 202,1834 259,1835 317,1835 374,1835 431,1836 489,1836 546,1836 603,1836 661,1836 718,1836 775,1836 833,1836 890,1837 947,1837 1005,1837 1062,1837 1119,1837 1177,1837 1234,1838 1292,1838"/>
                 <TextEquiv>
@@ -311,35 +311,35 @@ spältige Deutung des ganzen Accordes, ist insofern künstlich,</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1626258987001_980" custom="readingOrder {index:6;} structure {type:footnote;}">
             <Coords points="142,1872 1304,1872 1304,2061 142,2061"/>
-            <TextLine id="r1l56" custom="readingOrder {index:0;}">
+            <TextLine id="r1l56" custom="readingOrder {index:0;} person_author {offset:18; length:15;ID:P0129;} textStyle {offset:25; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} work_text {offset:36; length:24;ID:W0158;}">
                 <Coords points="227,1915 1271,1923 1291,1881 227,1883"/>
                 <Baseline points="235,1910 287,1911 339,1912 392,1913 444,1914 497,1914 549,1915 602,1915 654,1915 707,1915 759,1915 811,1915 864,1915 916,1915 969,1915 1021,1915 1074,1915 1126,1915 1179,1915 1231,1916 1284,1916"/>
                 <TextEquiv>
-                    <Unicode>*) Vgl. z. B. Dr. Ad. J. Leibrock, „Musikalische Accordlehre“,</Unicode>
+                    <Unicode>*) Vgl. z. B. Dr. Ad. J. Leibrock, „Musikalische Accordlehre”,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626259190830_1084" custom="readingOrder {index:1;}">
+            <TextLine id="line_1626259190830_1084" custom="readingOrder {index:1;} location {offset:0; length:7;} time {offset:8; length:4;}">
                 <Coords points="136,1955 1296,1964 1297,1930 136,1916"/>
                 <Baseline points="143,1947 169,1947 195,1947 221,1947 247,1948 273,1948 299,1948 326,1948 352,1948 378,1948 404,1948 430,1948 456,1947 482,1947 509,1946 533,1948 570,1949 608,1949 646,1949 684,1949 722,1949 759,1949 797,1949 835,1950 873,1950 911,1950 948,1950 986,1949 1024,1949 1062,1949 1100,1949 1137,1949 1175,1949 1213,1949 1251,1950 1289,1950"/>
                 <TextEquiv>
                     <Unicode>Leipzig 1875, S. 16. — Aus denselben Gründen spielt auch schon das</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l59" custom="readingOrder {index:2;}">
+            <TextLine id="r1l59" custom="readingOrder {index:2;} m_interval {offset:7; length:9;} m_interval {offset:21; length:6;}">
                 <Coords points="144,1996 1295,1993 1259,1956 144,1954"/>
                 <Baseline points="152,1981 208,1981 265,1981 322,1982 379,1982 436,1982 492,1982 549,1982 606,1983 663,1983 720,1983 776,1983 833,1983 890,1984 947,1984 1004,1984 1060,1984 1117,1984 1174,1984 1231,1984 1288,1983"/>
                 <TextEquiv>
                     <Unicode>blosse Intervall der Quarte eine solche Doppelrolle, wird oft als „unbe¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l60" custom="readingOrder {index:3;}">
+            <TextLine id="r1l60" custom="readingOrder {index:3;} concept_mus {offset:40; length:11;} concept_phy {offset:40; length:11;}">
                 <Coords points="137,2026 1148,2035 1303,2026 1304,1994 137,1994"/>
                 <Baseline points="144,2015 201,2015 259,2016 316,2016 374,2016 432,2016 489,2017 547,2017 604,2017 662,2017 720,2017 777,2017 835,2017 892,2018 950,2018 1008,2018 1065,2018 1123,2018 1180,2018 1238,2017 1296,2017"/>
                 <TextEquiv>
-                    <Unicode>stimmt, unselbständig“ gar nicht zu den Consonanzen gerechnet, mitunter</Unicode>
+                    <Unicode>stimmt, unselbständig” gar nicht zu den Consonanzen gerechnet, mitunter</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l61" custom="readingOrder {index:4;}">
+            <TextLine id="r1l61" custom="readingOrder {index:4;} concept_mus {offset:19; length:9;} concept_phy {offset:19; length:9;}">
                 <Coords points="144,2059 774,2059 774,2029 733,2021 144,2029"/>
                 <Baseline points="151,2051 181,2050 212,2050 243,2050 274,2050 304,2050 335,2050 366,2050 397,2050 427,2050 458,2050 489,2050 520,2051 550,2051 581,2051 612,2051 643,2051 673,2051 704,2051 735,2051 766,2051"/>
                 <TextEquiv>
@@ -347,10 +347,10 @@ spältige Deutung des ganzen Accordes, ist insofern künstlich,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>*) Vgl. z. B. Dr. Ad. J. Leibrock, „Musikalische Accordlehre“,
-Leipzig 1875, S. 16. — Aus denselben Gründen spielt auch schon das
-blosse Intervall der Quarte eine solche Doppelrolle, wird oft als „unbe¬
-stimmt, unselbständig“ gar nicht zu den Consonanzen gerechnet, mitunter
+                <Unicode>*) Vgl. z. B. Dr. Ad. J. Leibrock, „Musikalische Accordlehre”,&#13;
+Leipzig 1875, S. 16. — Aus denselben Gründen spielt auch schon das&#13;
+blosse Intervall der Quarte eine solche Doppelrolle, wird oft als „unbe¬&#13;
+stimmt, unselbständig” gar nicht zu den Consonanzen gerechnet, mitunter&#13;
 sogar geradezu als dissonant hingestellt.</Unicode>
             </TextEquiv>
         </TextRegion>

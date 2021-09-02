@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:19:44.488+01:00</Created>
-        <LastChange>2021-04-20T21:29:25.430+02:00</LastChange>
-        <TranskribusMetadata docId="548806" pageId="22904430" pageNr="12" tsid="56889747" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=QSGSIBFXRBQHGGEEVACJGQGK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MLILODJLTBPOXCQYELQYICGD" imageId="17867703"/>
+        <LastChange>2021-08-17T16:40:54.222+02:00</LastChange>
+        <TranskribusMetadata docId="738029" pageId="28086182" pageNr="12" tsid="62693252" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HAZFZGTWKIZQGXRSWQIYCBOV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JZSCESUOJOYJHCIRLHZSRUEB" imageId="21870990"/>
     </Metadata>
     <Page imageFilename="Naumann1858-0012.jpg" imageWidth="9108" imageHeight="11345" type="other">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624197085648" caption="Regions reading order">
+            <OrderedGroup id="ro_1630575146199" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1613651800361_653"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -38,7 +38,7 @@ Transkribus</Creator>
                     <Unicode>DEN HERREN</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1611258135649_615" custom="readingOrder {index:3;} textStyle {offset:0; length:1;fontSize:0.0; kerning:0; bold:true;} textStyle {offset:1; length:1;fontSize:0.0; kerning:0; superscript:true; bold:true;} textStyle {offset:2; length:17;fontSize:0.0; kerning:0; bold:true;}">
+            <TextLine id="line_1611258135649_615" custom="readingOrder {index:3;} person_author {offset:0; length:18;ID:P0091;} textStyle {offset:0; length:1;fontSize:0.0; kerning:0; bold:true;} textStyle {offset:1; length:1;fontSize:0.0; kerning:0; superscript:true; bold:true;} textStyle {offset:2; length:17;fontSize:0.0; kerning:0; bold:true;}">
                 <Coords points="2182,4686 4161,4690 4596,4530 5105,4702 5832,4589 6575,4686 6577,4367 5738,4159 4945,4392 4371,4252 2185,4301"/>
                 <Baseline points="2210,4551 6547,4584"/>
                 <TextEquiv>
@@ -59,14 +59,14 @@ Transkribus</Creator>
                     <Unicode>UND</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1611258166461_639" custom="readingOrder {index:6;} textStyle {offset:0; length:1;fontSize:0.0; kerning:0; bold:true;} textStyle {offset:1; length:1;fontSize:0.0; kerning:0; superscript:true; bold:true;} textStyle {offset:2; length:15;fontSize:0.0; kerning:0; bold:true;}">
+            <TextLine id="line_1611258166461_639" custom="readingOrder {index:6;} person_author {offset:0; length:16;ID:P0007;} textStyle {offset:0; length:1;fontSize:0.0; kerning:0; bold:true;} textStyle {offset:1; length:1;fontSize:0.0; kerning:0; superscript:true; bold:true;} textStyle {offset:2; length:15;fontSize:0.0; kerning:0; bold:true;}">
                 <Coords points="2405,5909 2819,5778 3212,6026 4651,5878 5077,6029 6156,6030 6352,5989 6356,5593 5368,5680 4817,5544 3601,5602 3367,5729 2408,5627"/>
                 <Baseline points="2431,5859 6326,5900"/>
                 <TextEquiv>
                     <Unicode>DR. M. HAUPTMANN,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1611258175855_647" custom="readingOrder {index:7;}">
+            <TextLine id="line_1611258175855_647" custom="readingOrder {index:7;} concept_mus {offset:0; length:13;}">
                 <Coords points="3762,6237 4061,6232 4131,6162 4300,6152 4343,6196 4457,6164 4549,6229 4777,6176 4956,6209 4956,5998 4799,5959 4691,6008 3764,5955"/>
                 <Baseline points="3789,6103 4927,6108"/>
                 <TextEquiv>

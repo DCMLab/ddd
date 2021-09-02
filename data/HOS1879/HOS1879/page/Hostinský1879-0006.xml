@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:29.914+01:00</Created>
-        <LastChange>2021-07-15T11:17:37.043+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902351" pageNr="6" tsid="61468469" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=JHEVXPJOZDZETOAADGMAJCUE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KWOPYEWJBOADSTZSZQPLVLVO" imageId="17865656"/>
+        <LastChange>2021-08-24T14:43:50.121+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28701672" pageNr="6" tsid="63259228" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=NGYBTOSFKWFXSEMAGRPUZKVA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BWIKFXDQLYEKZFHLCAMWVNKR" imageId="22424768"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0006.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454104186" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573568407" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626023407680_268"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626023421835_273"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1626023421835_272"/>
@@ -39,14 +39,14 @@ Transkribus</Creator>
                     <Unicode>wohl hier und da etwas skizzenhaft bleiben. Dass schliesslich die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:54; length:6; continued:true;} concept_phy {offset:54; length:6; continued:true;}">
                 <Coords points="106,248 1257,247 1257,214 1181,204 106,204"/>
                 <Baseline points="113,238 169,237 226,236 283,236 340,235 397,235 454,235 510,235 567,236 624,236 681,236 738,236 795,237 852,237 908,237 965,237 1022,238 1079,237 1136,237 1193,237 1250,236"/>
                 <TextEquiv>
                     <Unicode>Untersuchung über die Gründe des Wohlgefallens an der Conso¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:0; length:4; continued:true;} concept_phy {offset:0; length:4; continued:true;} concept_phy {offset:30; length:15;}">
                 <Coords points="109,291 1214,300 1263,291 1263,251 109,252"/>
                 <Baseline points="116,279 173,279 230,279 287,279 344,279 401,279 458,279 515,279 572,279 629,279 686,279 743,279 800,279 857,279 914,279 971,279 1028,279 1085,279 1142,279 1199,279 1256,279"/>
                 <TextEquiv>
@@ -74,7 +74,7 @@ Transkribus</Creator>
                     <Unicode>punct dieser Schrift leicht einsehen, hoffentlich auch billigen. Der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_mus {offset:0; length:7;}">
                 <Coords points="105,459 1265,467 1265,430 1182,411 1005,438 105,419"/>
                 <Baseline points="112,446 169,446 226,447 283,447 341,447 398,448 455,448 513,448 570,448 627,448 685,448 742,449 799,449 856,449 914,449 971,449 1028,449 1086,449 1143,450 1200,450 1258,450"/>
                 <TextEquiv>
@@ -117,14 +117,14 @@ hätten, kaum vermissen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626023421835_272" custom="readingOrder {index:2;}">
             <Coords points="112,593 1262,593 1262,795 112,795"/>
-            <TextLine id="r1l12" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l12" custom="readingOrder {index:0;} textStyle {offset:0; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} location {offset:0; length:4;} time {offset:9; length:14;}">
                 <Coords points="183,644 697,643 697,612 672,604 334,604 315,622 183,604"/>
                 <Baseline points="190,633 215,634 240,634 265,634 290,635 315,635 340,634 365,634 390,634 415,634 440,634 465,633 490,633 515,633 540,633 565,633 590,634 615,634 640,635 665,635 690,636"/>
                 <TextEquiv>
                     <Unicode>Prag, im September 1878.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; bold:true;}">
+            <TextLine id="r1l13" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; bold:true;} person_author {offset:0; length:5;ID:P0003;}">
                 <Coords points="1026,782 1070,788 1092,777 1103,788 1159,788 1173,775 1180,775 1180,751 1170,751 1151,731 1104,730 1081,751 1062,732 1027,734"/>
                 <Baseline points="1034,777 1061,779 1089,779 1116,779 1144,780 1172,783"/>
                 <TextEquiv>

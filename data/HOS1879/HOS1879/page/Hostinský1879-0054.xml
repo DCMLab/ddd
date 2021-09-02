@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:31.067+01:00</Created>
-        <LastChange>2021-07-14T17:56:58.798+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902487" pageNr="54" tsid="61440487" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ZDIHZIKWIEEAWXONBEFWZVGM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BJACSPPBDXNLMUQJMAQGXQAS" imageId="17865782"/>
+        <LastChange>2021-08-26T16:19:53.350+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28701800" pageNr="54" tsid="63509690" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=TBZEMMDVNFFAXOXGXQANPDYY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PYGVOWHLTBBYRVTDUMVXQQOM" imageId="22424886"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0054.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454110086" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573575915" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626172780098_345"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626172780096_344"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1626172778058_340"/>
@@ -36,18 +36,18 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626172780096_344" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="109,134 1268,134 1268,380 109,380"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_phy {offset:0; length:14;} concept_phy {offset:19; length:11;} concept_phy {offset:31; length:9;} person_author {offset:51; length:10; continued:true;ID:P0018;} textStyle {offset:54; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="118,195 1243,196 1271,156 118,162"/>
                 <Baseline points="125,187 184,186 244,186 304,185 364,185 424,185 484,185 544,186 604,186 664,186 724,187 784,187 844,188 904,188 964,188 1024,188 1084,188 1144,187 1204,186 1264,185"/>
                 <TextEquiv>
                     <Unicode>coincidirenden und schwebenden Obertönen, als auch v. Oettin¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626172834898_361" custom="readingOrder {index:1;}">
+            <TextLine id="line_1626172834898_361" custom="readingOrder {index:1;} person_author {offset:0; length:5; continued:true;ID:P0018;} textStyle {offset:0; length:3;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:7; length:6;} concept_mus {offset:15; length:14;}">
                 <Coords points="114,242 405,217 1248,243 1270,202 114,204"/>
                 <Baseline points="122,232 153,229 184,229 215,231 246,232 265,228 314,228 364,228 414,228 464,228 514,229 564,229 613,229 663,229 713,229 763,229 813,230 863,230 913,230 962,230 1012,230 1062,230 1112,230 1162,230 1212,229 1262,229"/>
                 <TextEquiv>
-                    <Unicode>gen's „duales“ Harmoniesystem in den wesentlichsten Puncten</Unicode>
+                    <Unicode>gen's „duales” Harmoniesystem in den wesentlichsten Puncten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1626172839251_369" custom="readingOrder {index:2;}">
@@ -57,7 +57,7 @@ Transkribus</Creator>
                     <Unicode>kennen gelernt haben, wollen wir versuchen, uns ein eigenes</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+            <TextLine id="r1l7" custom="readingOrder {index:3;} concept_mus {offset:19; length:8;}">
                 <Coords points="111,321 1275,322 1275,291 1181,283 111,284"/>
                 <Baseline points="118,313 175,313 233,313 290,313 348,313 405,313 463,313 520,313 578,314 635,314 693,314 750,314 808,314 865,314 923,314 980,315 1038,315 1095,315 1153,315 1210,315 1268,314"/>
                 <TextEquiv>
@@ -72,10 +72,10 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>coincidirenden und schwebenden Obertönen, als auch v. Oettin¬
-gen's „duales“ Harmoniesystem in den wesentlichsten Puncten
-kennen gelernt haben, wollen wir versuchen, uns ein eigenes
-Urtheil über diese Theorien und ihr gegenseitiges Verhältniss zu
+                <Unicode>coincidirenden und schwebenden Obertönen, als auch v. Oettin¬&#13;
+gen's „duales” Harmoniesystem in den wesentlichsten Puncten&#13;
+kennen gelernt haben, wollen wir versuchen, uns ein eigenes&#13;
+Urtheil über diese Theorien und ihr gegenseitiges Verhältniss zu&#13;
 einander zu bilden.</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -94,7 +94,7 @@ einander zu bilden.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626172776065_336" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="109,479 1268,479 1268,1330 109,1330"/>
-            <TextLine id="r1l11" custom="readingOrder {index:0;}">
+            <TextLine id="r1l11" custom="readingOrder {index:0;} person_author {offset:41; length:12;ID:P0018;} textStyle {offset:44; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="198,530 1273,530 1255,492 198,492"/>
                 <Baseline points="206,522 259,522 312,521 365,521 418,521 471,521 524,521 577,521 630,522 683,522 736,522 789,523 842,523 895,523 948,523 1001,524 1054,524 1107,524 1160,523 1213,523 1266,523"/>
                 <TextEquiv>
@@ -108,109 +108,109 @@ einander zu bilden.</Unicode>
                     <Unicode>nicht so vollkommen gelungen ist, sich von dem Fehler, den er</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:2;}">
+            <TextLine id="r1l13" custom="readingOrder {index:2;} person_author {offset:10; length:11;ID:P0001;} textStyle {offset:10; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="114,619 1271,612 1256,580 1014,570 115,572"/>
                 <Baseline points="122,606 179,606 236,606 293,606 350,606 407,606 464,606 521,607 578,607 635,607 693,607 750,608 807,608 864,608 921,608 978,608 1035,608 1092,608 1149,608 1206,607 1264,607"/>
                 <TextEquiv>
                     <Unicode>der Lehre Helmholtz's mit Recht vorgehalten hat, zu eman¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:3;}">
+            <TextLine id="r1l14" custom="readingOrder {index:3;} concept_phy {offset:18; length:8;} concept_phy {offset:37; length:12;}">
                 <Coords points="112,660 1246,660 1267,624 112,625"/>
                 <Baseline points="119,647 176,647 233,647 290,647 347,648 404,648 461,648 518,648 575,649 632,649 689,649 746,649 803,650 860,650 917,650 974,650 1031,650 1088,650 1145,650 1202,649 1259,649"/>
                 <TextEquiv>
                     <Unicode>cipiren. Wenn die Obertöne mit ihren Coincidenzen und ihren</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:4;}">
+            <TextLine id="r1l15" custom="readingOrder {index:4;} concept_phy {offset:0; length:11;}">
                 <Coords points="111,699 1249,699 1258,659 111,660"/>
                 <Baseline points="118,688 174,689 231,689 287,690 344,690 401,691 457,691 514,692 570,692 627,692 684,692 740,693 797,693 853,693 910,693 967,692 1023,692 1080,692 1136,692 1193,691 1250,691"/>
                 <TextEquiv>
-                    <Unicode>Schwebungen in der That ein „mannigfach variirendes Phänomen“</Unicode>
+                    <Unicode>Schwebungen in der That ein „mannigfach variirendes Phänomen”</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:5;}">
+            <TextLine id="r1l16" custom="readingOrder {index:5;} concept_mus {offset:40; length:10;} concept_phy {offset:51; length:7;}">
                 <Coords points="108,744 1271,743 1254,700 109,710"/>
                 <Baseline points="115,733 172,733 229,733 287,733 344,733 402,733 459,733 517,734 574,734 632,734 689,735 746,735 804,735 861,735 919,735 976,735 1034,735 1091,735 1149,735 1206,734 1264,733"/>
                 <TextEquiv>
                     <Unicode>sind, so ist es wohl kaum zulässig, den phonischen Oberton als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:6;}">
+            <TextLine id="r1l17" custom="readingOrder {index:6;} concept_mus {offset:16; length:5;} textStyle {offset:32; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:44; length:9;} m_note {offset:54; length:6; continued:true;}">
                 <Coords points="114,787 1271,777 1167,741 114,748"/>
                 <Baseline points="121,775 178,775 235,775 292,776 349,776 406,776 463,776 521,776 578,777 635,777 692,777 749,777 806,777 863,777 921,777 978,777 1035,777 1092,776 1149,776 1206,775 1264,774"/>
                 <TextEquiv>
-                    <Unicode>einen „reellen“ Klang dem blos „virtuellen“ tonischen Grund¬</Unicode>
+                    <Unicode>einen „reellen” Klang dem blos „virtuellen” tonischen Grund¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:7;}">
+            <TextLine id="r1l18" custom="readingOrder {index:7;} m_note {offset:0; length:4; continued:true;}">
                 <Coords points="112,827 1261,827 1261,795 1196,786 112,788"/>
                 <Baseline points="120,817 176,817 233,817 289,818 346,818 403,818 459,818 516,818 573,818 629,818 686,818 743,818 799,818 856,818 913,818 969,818 1026,818 1083,818 1139,818 1196,818 1253,818"/>
                 <TextEquiv>
-                    <Unicode>tone entgegenzustellen*); denn dies würde eben wieder die allge¬</Unicode>
+                    <Unicode>tone entgegenzustellen *); denn dies würde eben wieder die allge¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:8;}">
+            <TextLine id="r1l19" custom="readingOrder {index:8;} concept_phy {offset:26; length:8;}">
                 <Coords points="110,866 1272,868 1272,836 1175,827 110,835"/>
                 <Baseline points="118,859 175,859 232,859 289,860 347,860 404,860 461,860 519,860 576,861 633,861 691,861 748,861 805,861 862,861 920,861 977,861 1034,861 1092,861 1149,860 1206,860 1264,860"/>
                 <TextEquiv>
                     <Unicode>meine reelle Existenz der Obertöne voraussetzen. Wollten wir uns</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:9;}">
+            <TextLine id="r1l20" custom="readingOrder {index:9;} concept_phy {offset:11; length:4;} concept_phy {offset:29; length:21;}">
                 <Coords points="106,916 1198,922 1272,915 1272,873 106,877"/>
                 <Baseline points="113,902 170,902 228,902 285,902 343,902 400,902 458,903 515,903 573,903 630,903 688,903 746,903 803,903 861,903 918,903 976,903 1033,903 1091,903 1148,903 1206,903 1264,902"/>
                 <TextEquiv>
                     <Unicode>auf die im Ohre entstehenden harmonischen Obertöne berufen, so</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:10;}">
+            <TextLine id="r1l21" custom="readingOrder {index:10;} person_author {offset:28; length:11;ID:P0001;}">
                 <Coords points="106,950 1265,963 1265,923 1187,915 106,919"/>
                 <Baseline points="114,941 171,942 228,943 285,943 342,944 400,944 457,945 514,945 571,945 628,945 686,945 743,945 800,945 857,945 914,945 972,945 1029,945 1086,945 1143,945 1200,945 1258,945"/>
                 <TextEquiv>
                     <Unicode>verlieren wir das Recht, an Helmholtz's Lehre etwas auszusetzen;</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:11;}">
+            <TextLine id="r1l22" custom="readingOrder {index:11;} concept_phy {offset:13; length:11;} concept_phy {offset:35; length:11;} concept_phy {offset:47; length:12;}">
                 <Coords points="116,995 1265,995 1265,963 1169,955 116,956"/>
                 <Baseline points="123,986 179,986 236,986 293,986 350,986 406,986 463,986 520,986 577,986 633,987 690,987 747,987 804,987 860,987 917,987 974,987 1031,987 1087,987 1144,987 1201,986 1258,985"/>
                 <TextEquiv>
                     <Unicode>denn für die Schwebungen sind jene entotischen Empfindungen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626172858494_412" custom="readingOrder {index:12;}">
+            <TextLine id="line_1626172858494_412" custom="readingOrder {index:12;} concept_phy {offset:34; length:10;} concept_phy {offset:49; length:8;}">
                 <Coords points="106,1043 1270,1035 1270,995 106,1004"/>
                 <Baseline points="113,1028 166,1028 220,1027 273,1027 327,1027 380,1027 434,1027 487,1028 541,1028 594,1028 648,1028 702,1028 755,1028 809,1028 862,1028 916,1029 969,1028 1023,1028 1076,1028 1130,1028 1184,1028 1199,1028 1231,1028 1263,1030"/>
                 <TextEquiv>
                     <Unicode>gerade so massgebend, wie für die Coincidenz der Obertöne — und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:13;}">
+            <TextLine id="r1l25" custom="readingOrder {index:13;} person_author {offset:32; length:14;ID:P0018;} textStyle {offset:35; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:48; length:10;}">
                 <Coords points="108,1083 1232,1084 1259,1036 108,1044"/>
                 <Baseline points="115,1070 171,1069 228,1069 285,1069 342,1069 399,1070 456,1070 512,1070 569,1070 626,1071 683,1071 740,1071 797,1071 854,1071 910,1071 967,1071 1024,1071 1081,1071 1138,1071 1195,1070 1252,1069"/>
                 <TextEquiv>
-                    <Unicode>um eine solche kann es sich bei v. Oettingen's „Phonicität“</Unicode>
+                    <Unicode>um eine solche kann es sich bei v. Oettingen's „Phonicität”</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:14;}">
+            <TextLine id="r1l26" custom="readingOrder {index:14;} concept_mus {offset:40; length:10;} concept_phy {offset:51; length:8;}">
                 <Coords points="111,1124 1271,1123 1245,1082 111,1088"/>
                 <Baseline points="118,1111 175,1111 232,1112 289,1112 347,1113 404,1113 461,1113 519,1113 576,1113 633,1113 691,1113 748,1113 805,1113 862,1113 920,1113 977,1113 1034,1113 1092,1112 1149,1112 1206,1112 1264,1112"/>
                 <TextEquiv>
-                    <Unicode>nur handeln, sobald von einem „reellen“ phonischen Obertone die</Unicode>
+                    <Unicode>nur handeln, sobald von einem „reellen” phonischen Obertone die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:15;}">
+            <TextLine id="r1l27" custom="readingOrder {index:15;} concept_phy {offset:31; length:16;}">
                 <Coords points="111,1163 1269,1163 1269,1133 1183,1124 111,1124"/>
                 <Baseline points="118,1153 175,1154 232,1154 289,1155 346,1155 404,1155 461,1155 518,1155 575,1155 632,1155 690,1155 747,1155 804,1155 861,1155 918,1155 976,1155 1033,1155 1090,1154 1147,1154 1204,1155 1262,1155"/>
                 <TextEquiv>
                     <Unicode>Rede ist. Ja, wenn man auf die Combinationstöne reflectirt, so</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:16;}">
+            <TextLine id="r1l28" custom="readingOrder {index:16;} concept_mus {offset:30; length:9;} m_note {offset:40; length:8;}">
                 <Coords points="112,1203 1272,1203 1272,1170 1189,1162 112,1169"/>
                 <Baseline points="119,1195 176,1195 233,1195 290,1196 348,1196 405,1196 462,1196 520,1197 577,1197 634,1197 692,1197 749,1197 806,1197 863,1197 921,1197 978,1197 1035,1197 1093,1196 1150,1196 1207,1196 1265,1196"/>
                 <TextEquiv>
-                    <Unicode>wäre man gerade versucht, den tonischen Grundton „reell“ zu</Unicode>
+                    <Unicode>wäre man gerade versucht, den tonischen Grundton „reell” zu</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1626172870113_437" custom="readingOrder {index:17;}">
@@ -220,7 +220,7 @@ einander zu bilden.</Unicode>
                     <Unicode>nennen — von den Folgerungen, die sich aus der Hypothese von</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:18;}">
+            <TextLine id="r1l32" custom="readingOrder {index:18;} concept_phy {offset:16; length:23;}">
                 <Coords points="112,1292 1260,1285 1250,1251 112,1244"/>
                 <Baseline points="119,1277 175,1277 232,1277 289,1277 345,1278 402,1278 459,1278 515,1278 572,1279 629,1279 686,1279 742,1280 799,1280 856,1280 912,1280 969,1280 1026,1280 1082,1279 1139,1279 1196,1278 1253,1277"/>
                 <TextEquiv>
@@ -235,122 +235,122 @@ einander zu bilden.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Zunächst müssen wir constatiren, dass es v. Oettingen doch
-nicht so vollkommen gelungen ist, sich von dem Fehler, den er
-der Lehre Helmholtz's mit Recht vorgehalten hat, zu eman¬
-cipiren. Wenn die Obertöne mit ihren Coincidenzen und ihren
-Schwebungen in der That ein „mannigfach variirendes Phänomen“
-sind, so ist es wohl kaum zulässig, den phonischen Oberton als
-einen „reellen“ Klang dem blos „virtuellen“ tonischen Grund¬
-tone entgegenzustellen*); denn dies würde eben wieder die allge¬
-meine reelle Existenz der Obertöne voraussetzen. Wollten wir uns
-auf die im Ohre entstehenden harmonischen Obertöne berufen, so
-verlieren wir das Recht, an Helmholtz's Lehre etwas auszusetzen;
-denn für die Schwebungen sind jene entotischen Empfindungen
-gerade so massgebend, wie für die Coincidenz der Obertöne — und
-um eine solche kann es sich bei v. Oettingen's „Phonicität“
-nur handeln, sobald von einem „reellen“ phonischen Obertone die
-Rede ist. Ja, wenn man auf die Combinationstöne reflectirt, so
-wäre man gerade versucht, den tonischen Grundton „reell“ zu
-nennen — von den Folgerungen, die sich aus der Hypothese von
-den subjectiven harmonischen Untertönen ziehen liessen, zu ge¬
+                <Unicode>Zunächst müssen wir constatiren, dass es v. Oettingen doch&#13;
+nicht so vollkommen gelungen ist, sich von dem Fehler, den er&#13;
+der Lehre Helmholtz's mit Recht vorgehalten hat, zu eman¬&#13;
+cipiren. Wenn die Obertöne mit ihren Coincidenzen und ihren&#13;
+Schwebungen in der That ein „mannigfach variirendes Phänomen”&#13;
+sind, so ist es wohl kaum zulässig, den phonischen Oberton als&#13;
+einen „reellen” Klang dem blos „virtuellen” tonischen Grund¬&#13;
+tone entgegenzustellen *); denn dies würde eben wieder die allge¬&#13;
+meine reelle Existenz der Obertöne voraussetzen. Wollten wir uns&#13;
+auf die im Ohre entstehenden harmonischen Obertöne berufen, so&#13;
+verlieren wir das Recht, an Helmholtz's Lehre etwas auszusetzen;&#13;
+denn für die Schwebungen sind jene entotischen Empfindungen&#13;
+gerade so massgebend, wie für die Coincidenz der Obertöne — und&#13;
+um eine solche kann es sich bei v. Oettingen's „Phonicität”&#13;
+nur handeln, sobald von einem „reellen” phonischen Obertone die&#13;
+Rede ist. Ja, wenn man auf die Combinationstöne reflectirt, so&#13;
+wäre man gerade versucht, den tonischen Grundton „reell” zu&#13;
+nennen — von den Folgerungen, die sich aus der Hypothese von&#13;
+den subjectiven harmonischen Untertönen ziehen liessen, zu ge¬&#13;
 schweigen.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1626172772379_332" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
             <Coords points="109,1330 1268,1330 1268,1938 109,1938"/>
-            <TextLine id="r1l34" custom="readingOrder {index:0;}">
+            <TextLine id="r1l34" custom="readingOrder {index:0;} concept_mus {offset:46; length:4;} m_note {offset:51; length:6; continued:true;}">
                 <Coords points="196,1367 1266,1367 1246,1324 196,1331"/>
                 <Baseline points="204,1359 256,1359 309,1360 362,1360 415,1360 467,1361 520,1361 573,1361 626,1361 678,1361 731,1362 784,1362 837,1362 889,1362 942,1362 995,1362 1048,1361 1100,1361 1153,1361 1206,1360 1259,1360"/>
                 <TextEquiv>
                     <Unicode>Wir müssen daher annehmen, dass nicht nur der ton. Grund¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:1;}">
+            <TextLine id="r1l35" custom="readingOrder {index:1;} m_note {offset:0; length:3; continued:true;} concept_mus {offset:22; length:5;} concept_phy {offset:28; length:7;} textStyle {offset:45; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:56; length:5;}">
                 <Coords points="108,1412 1274,1416 1274,1380 1207,1371 108,1371"/>
                 <Baseline points="115,1401 172,1401 230,1402 287,1402 345,1402 402,1403 460,1403 517,1403 575,1403 632,1403 690,1403 748,1403 805,1403 863,1403 920,1403 978,1403 1035,1403 1093,1403 1150,1403 1208,1403 1266,1403"/>
                 <TextEquiv>
                     <Unicode>ton, sondern auch der phon. Oberton blos ein virtueller Klang</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:2;}">
+            <TextLine id="r1l36" custom="readingOrder {index:2;} person_author {offset:25; length:15;ID:P0018;} textStyle {offset:31; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="108,1449 1261,1451 1213,1412 108,1412"/>
                 <Baseline points="116,1442 172,1442 229,1442 286,1442 343,1443 400,1443 457,1443 514,1444 571,1444 628,1444 685,1444 741,1444 798,1444 855,1444 912,1444 969,1444 1026,1444 1083,1444 1140,1443 1197,1443 1254,1442"/>
                 <TextEquiv>
                     <Unicode>ist, wenn wir an der von A. v. Oettingen beabsichtigten Allge¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:3;}">
+            <TextLine id="r1l37" custom="readingOrder {index:3;} concept_phy {offset:58; length:7; continued:true;}">
                 <Coords points="107,1490 1271,1483 1211,1451 107,1459"/>
                 <Baseline points="114,1484 171,1483 229,1483 286,1483 344,1483 401,1484 459,1484 516,1485 574,1485 631,1485 689,1486 746,1486 804,1486 861,1486 919,1486 976,1486 1034,1486 1091,1485 1149,1485 1206,1484 1264,1482"/>
                 <TextEquiv>
                     <Unicode>meinheit seines Princips festhalten, das ja auf „tieferen psycho¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:4;}">
+            <TextLine id="r1l38" custom="readingOrder {index:4;} concept_phy {offset:0; length:9; continued:true;} textStyle {offset:55; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:55; length:5; continued:true;ID:P0001;}">
                 <Coords points="113,1539 1261,1524 1206,1491 113,1493"/>
                 <Baseline points="121,1525 177,1525 234,1526 290,1526 347,1526 404,1526 460,1527 517,1527 574,1527 630,1527 687,1527 744,1527 800,1527 857,1527 914,1527 970,1526 1027,1526 1084,1526 1140,1525 1197,1525 1254,1525"/>
                 <TextEquiv>
-                    <Unicode>logischen“ Grundlagen beruhen solle Hier ist wieder an Helm¬</Unicode>
+                    <Unicode>logischen” Grundlagen beruhen soll. Hier ist wieder an Helm¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l39" custom="readingOrder {index:5;}">
+            <TextLine id="r1l39" custom="readingOrder {index:5;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:0; length:5; continued:true;ID:P0001;}">
                 <Coords points="112,1579 1263,1578 1263,1546 1194,1531 112,1540"/>
                 <Baseline points="119,1567 175,1567 232,1568 289,1568 346,1568 403,1568 460,1568 516,1568 573,1569 630,1569 687,1569 744,1569 801,1568 858,1568 914,1568 971,1568 1028,1568 1085,1568 1142,1567 1199,1567 1256,1567"/>
                 <TextEquiv>
                     <Unicode>holtz anzuknüpfen. Dieser beachtet nämlich die mögliche Ein¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l40" custom="readingOrder {index:6;}">
+            <TextLine id="r1l40" custom="readingOrder {index:6;} concept_mus {offset:34; length:21;}">
                 <Coords points="108,1620 1184,1627 1272,1617 1272,1587 108,1588"/>
                 <Baseline points="115,1609 172,1610 230,1610 287,1610 345,1610 402,1610 460,1610 517,1610 575,1610 632,1610 690,1610 747,1610 805,1610 862,1610 920,1610 977,1610 1035,1610 1092,1610 1150,1610 1207,1610 1265,1610"/>
                 <TextEquiv>
                     <Unicode>wendung, dass bekanntermassen die harmonische Bedeutung der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l41" custom="readingOrder {index:7;}">
+            <TextLine id="r1l41" custom="readingOrder {index:7;} m_interval {offset:0; length:10;} concept_phy {offset:34; length:10;}">
                 <Coords points="110,1659 1266,1657 1247,1619 110,1620"/>
                 <Baseline points="117,1651 174,1651 231,1651 288,1651 345,1652 402,1652 459,1652 516,1653 573,1653 630,1653 687,1653 744,1653 801,1653 858,1653 915,1653 972,1653 1029,1653 1086,1652 1143,1652 1200,1651 1258,1650"/>
                 <TextEquiv>
                     <Unicode>Intervalle unabhängig ist von der Klangfarbe, d. h. von der Exi¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l42" custom="readingOrder {index:8;}">
+            <TextLine id="r1l42" custom="readingOrder {index:8;} concept_phy {offset:10; length:10;} concept_phy {offset:40; length:10;}">
                 <Coords points="107,1705 1271,1707 1271,1666 1216,1660 107,1668"/>
                 <Baseline points="114,1693 171,1693 229,1694 286,1694 344,1694 401,1695 459,1695 516,1695 574,1695 631,1695 689,1695 746,1695 804,1695 861,1695 919,1694 976,1694 1034,1694 1091,1694 1149,1694 1206,1694 1264,1694"/>
                 <TextEquiv>
-                    <Unicode>stenz und Intensität, also auch von der Coineidenz und den</Unicode>
+                    <Unicode>stenz und Intensität, also auch von der Coincidenz und den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626172881221_459" custom="readingOrder {index:9;}">
+            <TextLine id="line_1626172881221_459" custom="readingOrder {index:9;} concept_phy {offset:0; length:11;} concept_phy {offset:16; length:11;}">
                 <Coords points="102,1747 1256,1748 1271,1707 102,1708"/>
                 <Baseline points="109,1736 148,1736 187,1735 226,1735 265,1735 304,1736 343,1736 382,1736 421,1737 460,1737 499,1738 538,1738 577,1738 616,1738 655,1738 694,1737 733,1737 772,1735 811,1734 850,1732 889,1730 900,1739 925,1738 951,1738 977,1738 1003,1738 1029,1737 1055,1737 1081,1737 1107,1737 1133,1737 1159,1737 1185,1737 1211,1736 1237,1735 1263,1735"/>
                 <TextEquiv>
-                    <Unicode>Schwebungen der Partialtöne, und sagt**): „In der That habe</Unicode>
+                    <Unicode>Schwebungen der Partialtöne, und sagt **): „In der That habe</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l45" custom="readingOrder {index:10;}">
+            <TextLine id="r1l45" custom="readingOrder {index:10;} concept_mus {offset:40; length:7;} m_interval {offset:55; length:9;}">
                 <Coords points="108,1787 1261,1788 1270,1746 108,1747"/>
                 <Baseline points="115,1779 172,1779 229,1779 287,1779 344,1779 402,1779 459,1779 516,1779 574,1779 631,1779 689,1779 746,1779 803,1779 861,1779 918,1779 976,1779 1033,1779 1090,1779 1148,1778 1205,1778 1263,1777"/>
                 <TextEquiv>
                     <Unicode>ich schon angeführt, dass zwei gedackte Pfeifen, deren Intervall</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l46" custom="readingOrder {index:11;}">
+            <TextLine id="r1l46" custom="readingOrder {index:11;} m_interval {offset:9; length:7;} m_interval {offset:21; length:12;}">
                 <Coords points="101,1828 1273,1826 1234,1787 101,1796"/>
                 <Baseline points="109,1820 166,1821 224,1821 282,1821 340,1821 398,1822 455,1822 513,1822 571,1822 629,1822 687,1822 744,1822 802,1822 860,1822 918,1822 976,1822 1033,1822 1091,1822 1149,1822 1207,1821 1265,1821"/>
                 <TextEquiv>
                     <Unicode>zwischen grosser und kleiner Terz liegt, eine ganz ebenso gute</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l47" custom="readingOrder {index:12;}">
+            <TextLine id="r1l47" custom="readingOrder {index:12;} concept_mus {offset:0; length:9;} concept_phy {offset:0; length:9;} m_interval {offset:30; length:9;} m_interval {offset:52; length:7;}">
                 <Coords points="109,1874 1263,1873 1232,1828 109,1828"/>
                 <Baseline points="116,1863 173,1863 230,1864 287,1864 344,1864 401,1864 458,1864 515,1864 572,1865 629,1865 686,1865 743,1865 800,1865 857,1865 914,1865 971,1865 1028,1864 1085,1864 1142,1864 1199,1863 1256,1863"/>
                 <TextEquiv>
                     <Unicode>Consonanz geben, als wenn das Intervall genau einer grossen oder</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l48" custom="readingOrder {index:13;}">
+            <TextLine id="r1l48" custom="readingOrder {index:13;} m_interval {offset:12; length:12;}">
                 <Coords points="105,1923 1246,1916 1264,1879 105,1883"/>
                 <Baseline points="113,1907 170,1906 227,1906 284,1906 341,1906 399,1906 456,1906 513,1906 570,1907 627,1907 685,1907 742,1907 799,1907 856,1907 913,1907 971,1907 1028,1907 1085,1906 1142,1905 1199,1905 1257,1903"/>
                 <TextEquiv>
@@ -358,25 +358,25 @@ schweigen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Wir müssen daher annehmen, dass nicht nur der ton. Grund¬
-ton, sondern auch der phon. Oberton blos ein virtueller Klang
-ist, wenn wir an der von A. v. Oettingen beabsichtigten Allge¬
-meinheit seines Princips festhalten, das ja auf „tieferen psycho¬
-logischen“ Grundlagen beruhen solle Hier ist wieder an Helm¬
-holtz anzuknüpfen. Dieser beachtet nämlich die mögliche Ein¬
-wendung, dass bekanntermassen die harmonische Bedeutung der
-Intervalle unabhängig ist von der Klangfarbe, d. h. von der Exi¬
-stenz und Intensität, also auch von der Coineidenz und den
-Schwebungen der Partialtöne, und sagt**): „In der That habe
-ich schon angeführt, dass zwei gedackte Pfeifen, deren Intervall
-zwischen grosser und kleiner Terz liegt, eine ganz ebenso gute
-Consonanz geben, als wenn das Intervall genau einer grossen oder
+                <Unicode>Wir müssen daher annehmen, dass nicht nur der ton. Grund¬&#13;
+ton, sondern auch der phon. Oberton blos ein virtueller Klang&#13;
+ist, wenn wir an der von A. v. Oettingen beabsichtigten Allge¬&#13;
+meinheit seines Princips festhalten, das ja auf „tieferen psycho¬&#13;
+logischen” Grundlagen beruhen soll. Hier ist wieder an Helm¬&#13;
+holtz anzuknüpfen. Dieser beachtet nämlich die mögliche Ein¬&#13;
+wendung, dass bekanntermassen die harmonische Bedeutung der&#13;
+Intervalle unabhängig ist von der Klangfarbe, d. h. von der Exi¬&#13;
+stenz und Intensität, also auch von der Coincidenz und den&#13;
+Schwebungen der Partialtöne, und sagt **): „In der That habe&#13;
+ich schon angeführt, dass zwei gedackte Pfeifen, deren Intervall&#13;
+zwischen grosser und kleiner Terz liegt, eine ganz ebenso gute&#13;
+Consonanz geben, als wenn das Intervall genau einer grossen oder&#13;
 genau einer kleinen Terz entspräche. Ich will damit nicht be¬</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1626172769694_328" custom="readingOrder {index:5;} structure {type:footnote;}">
             <Coords points="109,1938 1268,1938 1268,2014 109,2014"/>
-            <TextLine id="r1l49" custom="readingOrder {index:0;}">
+            <TextLine id="r1l49" custom="readingOrder {index:0;} person_author {offset:3; length:12;ID:P0018;} textStyle {offset:6; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} work_text {offset:16; length:8;ID:W0017;}">
                 <Coords points="189,2003 408,2017 716,2008 716,1968 560,1984 189,1971"/>
                 <Baseline points="197,1995 222,1997 248,1999 273,2000 299,2001 325,2002 350,2003 376,2003 401,2003 427,2003 453,2003 478,2003 504,2002 529,2002 555,2002 581,2001 606,2001 632,2001 657,2001 683,2002 709,2002"/>
                 <TextEquiv>
@@ -389,15 +389,15 @@ genau einer kleinen Terz entspräche. Ich will damit nicht be¬</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1626172767762_324" custom="readingOrder {index:6;} structure {type:footnote;}">
             <Coords points="109,2014 1268,2014 1268,2050 109,2050"/>
-            <TextLine id="line_1626172890664_474" custom="readingOrder {index:0;}">
+            <TextLine id="line_1626172890664_474" custom="readingOrder {index:0;} work_text {offset:5; length:33;ID:W0001;}">
                 <Coords points="177,2036 1022,2037 999,2003 177,2005"/>
                 <Baseline points="184,2021 214,2023 218,2040 257,2039 297,2038 337,2038 377,2037 417,2037 456,2037 496,2037 536,2036 576,2036 616,2036 655,2036 695,2036 735,2036 775,2036 815,2036 854,2036 894,2036 934,2035 974,2035 1014,2034"/>
                 <TextEquiv>
-                    <Unicode>**) „Die Lehre von den Tonempfindungen.“ S. 317.</Unicode>
+                    <Unicode>**) „Die Lehre von den Tonempfindungen.” S. 317.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>**) „Die Lehre von den Tonempfindungen.“ S. 317.</Unicode>
+                <Unicode>**) „Die Lehre von den Tonempfindungen.” S. 317.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

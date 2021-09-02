@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:31.893+01:00</Created>
-        <LastChange>2021-07-14T18:14:53.362+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902625" pageNr="93" tsid="61441235" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ITBMVNRYVGLGUJEXXBVEBIAZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QQGQGCAOYPVJPCHNVITDJKRL" imageId="17865920"/>
+        <LastChange>2021-08-26T15:10:52.648+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28701889" pageNr="93" tsid="63503511" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=AHIMQYAEAXKBWEQBBGIOLNOZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JWNGOZDMRMDJBRHVTQQYVOPT" imageId="22424971"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0093.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454114806" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573581496" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626177710530_4889"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626177710530_4888"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1626177708490_4884"/>
@@ -32,60 +32,60 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626177710530_4888" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="129,127 1284,127 1284,415 129,415"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:14; length:9;} concept_phy {offset:14; length:9;} concept_mus {offset:24; length:10;} m_interval {offset:35; length:9;}">
                 <Coords points="208,190 1286,195 1286,156 1249,149 208,154"/>
                 <Baseline points="215,184 268,184 321,185 374,185 427,185 481,186 534,186 587,186 640,186 693,186 747,186 800,186 853,186 906,185 959,185 1013,185 1066,185 1119,185 1172,185 1225,186 1279,186"/>
                 <TextEquiv>
                     <Unicode>Wenn das eine Dissonanz auflösende Intervall selbst wieder</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:0; length:9;} concept_phy {offset:0; length:9;} textStyle {offset:50; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:50; length:9; continued:true;}">
                 <Coords points="122,236 1285,226 1261,196 122,197"/>
                 <Baseline points="129,229 186,229 243,229 301,229 358,229 416,229 473,229 531,229 588,229 646,229 703,229 760,229 818,229 875,229 933,229 990,229 1048,229 1105,229 1163,229 1220,229 1278,229"/>
                 <TextEquiv>
                     <Unicode>dissonant ist, so nennt man dies bekanntlich eine Trugfort¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:0; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:10; continued:true;} concept_mus {offset:46; length:10;}">
                 <Coords points="123,283 1199,290 1282,283 1282,246 123,247"/>
                 <Baseline points="130,272 187,272 244,272 301,272 359,272 416,272 473,272 530,272 588,272 645,273 702,273 759,273 817,273 874,273 931,273 988,273 1046,273 1103,273 1160,273 1217,272 1275,272"/>
                 <TextEquiv>
                     <Unicode>schreitung, die somit nur nach den Regeln der Klangfolge zu</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:38; length:9;}">
                 <Coords points="126,324 1286,322 1286,291 1187,283 126,283"/>
                 <Baseline points="133,314 190,314 247,314 304,314 362,314 419,314 476,314 534,314 591,315 648,315 706,315 763,315 820,315 877,316 935,316 992,316 1049,315 1107,315 1164,315 1221,315 1279,314"/>
                 <TextEquiv>
                     <Unicode>beurtheilen ist, mit der eigentlichen Auflösung jedoch nichts zu</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626177733698_4912" custom="readingOrder {index:4;}">
+            <TextLine id="line_1626177733698_4912" custom="readingOrder {index:4;} m_interval {offset:21; length:5;} textStyle {offset:21; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:24; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:25; length:1;fontSize:0.0; kerning:0; superscript:true;} m_interval {offset:33; length:5;} textStyle {offset:33; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:36; length:1;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:44; length:8;} textStyle {offset:44; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:47; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:61; length:5;} textStyle {offset:61; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:64; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="126,364 1217,372 1282,357 1282,323 126,332"/>
                 <Baseline points="133,356 173,357 214,357 254,357 295,357 336,357 376,357 417,357 458,357 498,357 539,357 580,357 620,357 661,357 702,357 742,357 783,357 824,357 864,357 905,357 946,357 957,355 983,357 1010,358 1036,359 1063,359 1089,360 1116,360 1142,360 1169,360 1195,359 1222,358 1248,357 1275,356"/>
                 <TextEquiv>
-                    <Unicode>schaffen hat. Z. B.: d’c2  fh oder c’—fis —</Unicode>
+                    <Unicode>schaffen hat. Z. B.: d′—c2 . . . f′—h′ oder c′—fis{′ . . . . h{—f′</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626177737603_4920" custom="readingOrder {index:5;}">
+            <TextLine id="line_1626177737603_4920" custom="readingOrder {index:5;} m_interval {offset:5; length:5;} textStyle {offset:5; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:8; length:1;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:19; length:5;} textStyle {offset:19; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="125,419 252,403 303,419 321,402 345,420 463,427 502,413 543,427 564,407 699,419 717,411 717,376 689,370 664,393 559,371 493,386 467,371 446,393 298,370 280,385 242,370 125,381"/>
                 <Baseline points="132,407 166,407 200,407 210,403 235,404 260,405 285,406 310,406 335,407 360,407 385,407 410,407 435,407 460,407 485,407 510,406 535,406 560,406 585,406 610,407 635,407 660,408 685,409 710,409"/>
                 <TextEquiv>
-                    <Unicode>oder c’—d . . . . 5—g’ u. s. f.</Unicode>
+                    <Unicode>oder c′—d′ . . . . h{—a′ u. s. f.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Wenn das eine Dissonanz auflösende Intervall selbst wieder
-dissonant ist, so nennt man dies bekanntlich eine Trugfort¬
-schreitung, die somit nur nach den Regeln der Klangfolge zu
-beurtheilen ist, mit der eigentlichen Auflösung jedoch nichts zu
-schaffen hat. Z. B.: d’c2  fh oder c’—fis —
-oder c’—d . . . . 5—g’ u. s. f.</Unicode>
+                <Unicode>Wenn das eine Dissonanz auflösende Intervall selbst wieder&#13;
+dissonant ist, so nennt man dies bekanntlich eine Trugfort¬&#13;
+schreitung, die somit nur nach den Regeln der Klangfolge zu&#13;
+beurtheilen ist, mit der eigentlichen Auflösung jedoch nichts zu&#13;
+schaffen hat. Z. B.: d′—c2 . . . f′—h′ oder c′—fis{′ . . . . h{—f′&#13;
+oder c′—d′ . . . . h{—a′ u. s. f.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626177708490_4884" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="129,415 1284,415 1284,1144 129,1144"/>
-            <TextLine id="r1l10" custom="readingOrder {index:0;}">
+            <TextLine id="r1l10" custom="readingOrder {index:0;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:13;} concept_mus {offset:38; length:9;}">
                 <Coords points="215,459 1292,459 1254,412 215,419"/>
                 <Baseline points="222,447 275,448 328,448 381,449 434,449 487,449 540,450 593,450 646,450 699,450 753,450 806,450 859,450 912,450 965,450 1018,450 1071,450 1124,450 1177,450 1230,449 1284,449"/>
                 <TextEquiv>
@@ -99,70 +99,70 @@ oder c’—d . . . . 5—g’ u. s. f.</Unicode>
                     <Unicode>den nächsten Weg vermeidet, also zu einer nicht erwarteten, ent¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:2;}">
+            <TextLine id="r1l12" custom="readingOrder {index:2;} concept_mus {offset:10; length:8;} m_interval {offset:42; length:15;} m_interval {offset:58; length:5;} textStyle {offset:58; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:61; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:62; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="122,546 1281,539 1281,499 122,506"/>
                 <Baseline points="129,533 186,533 243,532 300,532 358,532 415,532 472,533 529,533 587,533 644,533 701,534 758,534 816,534 873,534 930,534 987,534 1045,534 1102,533 1159,532 1216,530 1274,529"/>
                 <TextEquiv>
-                    <Unicode>fernteren Harmonie führt. So wäre bei der kleinen Septime d’—c2</Unicode>
+                    <Unicode>fernteren Harmonie führt. So wäre bei der kleinen Septime d′—c2</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:3;}">
+            <TextLine id="r1l13" custom="readingOrder {index:3;} concept_mus {offset:12; length:9;} concept_mus {offset:39; length:8;} textStyle {offset:39; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:54; length:8; continued:true;}">
                 <Coords points="122,589 1202,595 1279,579 1279,539 122,549"/>
                 <Baseline points="129,576 186,576 243,576 300,575 357,575 414,575 471,576 529,576 586,576 643,576 700,577 757,577 814,577 871,577 929,577 986,577 1043,577 1100,576 1157,575 1214,574 1272,573"/>
                 <TextEquiv>
                     <Unicode>jede andere Auflösung als die nach dem G-Klange, eine Trugauf¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626177747100_4950" custom="readingOrder {index:4;}">
+            <TextLine id="line_1626177747100_4950" custom="readingOrder {index:4;} concept_mus {offset:0; length:6; continued:true;} m_interval {offset:14; length:5;} textStyle {offset:14; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:17; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:18; length:1;fontSize:0.0; kerning:0; superscript:true;} m_interval {offset:26; length:7;} textStyle {offset:26; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:30; length:1;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:39; length:6;} textStyle {offset:39; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:43; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:44; length:1;fontSize:0.0; kerning:0; superscript:true;} m_interval {offset:52; length:10;} textStyle {offset:52; length:3;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:59; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="126,628 1286,626 1269,586 1128,580 126,589"/>
                 <Baseline points="133,617 175,617 218,617 261,617 304,617 347,617 390,617 433,617 476,617 519,617 562,617 604,617 647,617 690,617 733,617 776,617 819,618 862,618 905,618 948,618 991,619 1014,618 1040,617 1067,616 1093,616 1120,617 1146,617 1173,618 1199,618 1226,619 1252,618 1279,616"/>
                 <TextEquiv>
-                    <Unicode>lösung: z. B. d’c2 6•—k“ oder d’—c dis —. Auch</Unicode>
+                    <Unicode>lösung: z. B. d′—c2 . . . e{′—h{′ oder d′’—c2 . . . dis{{′—h{′. Auch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:5;}">
+            <TextLine id="r1l16" custom="readingOrder {index:5;} m_interval {offset:8; length:19;} m_interval {offset:28; length:8;} textStyle {offset:28; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:31; length:3;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:55; length:9;}">
                 <Coords points="127,667 1283,676 1283,634 1205,627 127,628"/>
                 <Baseline points="134,658 191,659 248,659 305,659 362,659 419,659 476,659 533,659 590,660 647,660 705,660 762,660 819,660 876,660 933,660 990,660 1047,660 1104,660 1161,660 1218,660 1276,660"/>
                 <TextEquiv>
-                    <Unicode>bei der übermässigen Quarte C’—fis“ würde die nächste Auflösung</Unicode>
+                    <Unicode>bei der übermässigen Quarte c′—fis{′ würde die nächste Auflösung</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:6;}">
+            <TextLine id="r1l17" custom="readingOrder {index:6;} concept_mus {offset:34; length:7;} concept_mus {offset:52; length:8;} textStyle {offset:52; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="130,723 1281,720 1281,684 1192,675 130,676"/>
                 <Baseline points="137,709 193,709 250,709 307,709 364,710 421,710 478,710 535,711 592,711 649,711 706,711 762,712 819,712 876,712 933,712 990,711 1047,711 1104,711 1161,710 1218,709 1275,708"/>
                 <TextEquiv>
                     <Unicode>(abgesehen von der Behandlung als Vorhalt) nach dem G-Klange</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:7;}">
+            <TextLine id="r1l18" custom="readingOrder {index:7;} concept_mus {offset:33; length:13;}">
                 <Coords points="124,763 1286,762 1286,732 1207,717 124,726"/>
                 <Baseline points="131,751 188,751 245,752 303,752 360,752 417,752 475,753 532,753 589,753 647,753 704,753 761,753 819,753 876,753 933,753 991,753 1048,753 1105,753 1163,753 1220,752 1278,752"/>
                 <TextEquiv>
                     <Unicode>führen, jede andere dagegen eine Trugauflösung sein u. s. w. Schon</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:8;}">
+            <TextLine id="r1l19" custom="readingOrder {index:8;} concept_mus {offset:4; length:18;}">
                 <Coords points="124,804 1287,803 1253,763 124,763"/>
                 <Baseline points="132,794 189,794 246,794 304,794 361,795 419,795 476,795 533,795 591,795 648,796 706,796 763,796 820,796 878,796 935,796 993,796 1050,795 1107,795 1165,795 1222,795 1280,794"/>
                 <TextEquiv>
                     <Unicode>die Trugfortschreitung setzt eine gewisse Erwartung voraus, die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:9;}">
+            <TextLine id="r1l20" custom="readingOrder {index:9;} concept_mus {offset:49; length:9;}">
                 <Coords points="127,850 1283,843 1248,804 127,804"/>
                 <Baseline points="134,837 191,837 248,837 305,837 362,837 419,837 476,837 533,838 590,838 647,838 705,838 762,838 819,838 876,838 933,839 990,839 1047,838 1104,838 1161,838 1218,838 1276,837"/>
                 <TextEquiv>
                     <Unicode>dann getäuscht wird, nämlich die Erwartung einer Auflösung, des</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:10;}">
+            <TextLine id="r1l21" custom="readingOrder {index:10;} concept_mus {offset:19; length:9;} concept_phy {offset:19; length:9;} concept_mus {offset:44; length:13;}">
                 <Coords points="129,891 1269,892 1284,849 129,850"/>
                 <Baseline points="137,877 196,878 256,879 316,879 376,879 436,880 496,880 556,881 616,881 676,881 736,881 796,881 856,881 916,881 976,881 1036,881 1096,880 1156,880 1216,880 1276,879"/>
                 <TextEquiv>
                     <Unicode>Fortschreitens zur Consonanz überhaupt, die Trugauflösung aber</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:11;}">
+            <TextLine id="r1l22" custom="readingOrder {index:11;} concept_mus {offset:50; length:9;}">
                 <Coords points="127,932 1279,938 1279,898 1198,891 127,900"/>
                 <Baseline points="134,921 190,921 247,921 304,922 361,922 418,922 475,922 532,923 589,923 646,923 703,923 759,923 816,923 873,923 930,923 987,923 1044,922 1101,922 1158,922 1215,922 1272,921"/>
                 <TextEquiv>
@@ -176,21 +176,21 @@ oder c’—d . . . . 5—g’ u. s. f.</Unicode>
                     <Unicode>Auf einer Enttäuschung solcher Erwartungen beruht auch der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:13;}">
+            <TextLine id="r1l24" custom="readingOrder {index:13;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:11;}">
                 <Coords points="132,1019 1287,1011 1287,975 1223,971 132,972"/>
                 <Baseline points="139,1006 196,1006 253,1006 310,1006 367,1006 424,1006 481,1007 538,1007 595,1007 652,1007 709,1007 766,1007 823,1007 880,1007 937,1007 994,1007 1051,1007 1108,1007 1165,1007 1222,1006 1280,1006"/>
                 <TextEquiv>
                     <Unicode>Trugschluss. Doch ist ihm durchaus nicht wesentlich, in Form</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:14;}">
+            <TextLine id="r1l25" custom="readingOrder {index:14;} concept_mus {offset:6; length:18;} concept_phy {offset:6; length:18;} concept_mus {offset:57; length:9; continued:true;} concept_phy {offset:57; length:9; continued:true;}">
                 <Coords points="130,1060 1274,1058 1253,1019 130,1019"/>
                 <Baseline points="137,1047 193,1047 250,1047 306,1047 363,1048 419,1048 476,1048 532,1049 589,1049 645,1049 702,1050 758,1050 815,1050 871,1050 928,1050 984,1050 1041,1050 1097,1049 1154,1049 1210,1048 1267,1047"/>
                 <TextEquiv>
                     <Unicode>einer Dissonanzauflösung zu erfolgen; er kann aus lauter consonan¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:15;}">
+            <TextLine id="r1l26" custom="readingOrder {index:15;} concept_mus {offset:0; length:3; continued:true;} concept_phy {offset:0; length:3; continued:true;} concept_mus {offset:4; length:15;}">
                 <Coords points="123,1098 1278,1099 1278,1060 123,1061"/>
                 <Baseline points="131,1089 188,1090 245,1090 302,1090 359,1090 416,1091 473,1091 530,1091 587,1092 644,1092 701,1093 758,1093 815,1093 872,1093 929,1093 986,1093 1043,1092 1100,1092 1157,1091 1214,1090 1271,1089"/>
                 <TextEquiv>
@@ -205,22 +205,22 @@ oder c’—d . . . . 5—g’ u. s. f.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Trugauflösung ist diejenige wirkliche Auflösung, welche
-den nächsten Weg vermeidet, also zu einer nicht erwarteten, ent¬
-fernteren Harmonie führt. So wäre bei der kleinen Septime d’—c2
-jede andere Auflösung als die nach dem G-Klange, eine Trugauf¬
-lösung: z. B. d’c2 6•—k“ oder d’—c dis —. Auch
-bei der übermässigen Quarte C’—fis“ würde die nächste Auflösung
-(abgesehen von der Behandlung als Vorhalt) nach dem G-Klange
-führen, jede andere dagegen eine Trugauflösung sein u. s. w. Schon
-die Trugfortschreitung setzt eine gewisse Erwartung voraus, die
-dann getäuscht wird, nämlich die Erwartung einer Auflösung, des
-Fortschreitens zur Consonanz überhaupt, die Trugauflösung aber
-sogar die Erwartung einer ganz bestimmten Art der Auflösung.
-Auf einer Enttäuschung solcher Erwartungen beruht auch der
-Trugschluss. Doch ist ihm durchaus nicht wesentlich, in Form
-einer Dissonanzauflösung zu erfolgen; er kann aus lauter consonan¬
-ten Zusammenklängen bestehen, seine Erörterung gehört deshalb
+                <Unicode>Trugauflösung ist diejenige wirkliche Auflösung, welche&#13;
+den nächsten Weg vermeidet, also zu einer nicht erwarteten, ent¬&#13;
+fernteren Harmonie führt. So wäre bei der kleinen Septime d′—c2&#13;
+jede andere Auflösung als die nach dem G-Klange, eine Trugauf¬&#13;
+lösung: z. B. d′—c2 . . . e{′—h{′ oder d′’—c2 . . . dis{{′—h{′. Auch&#13;
+bei der übermässigen Quarte c′—fis{′ würde die nächste Auflösung&#13;
+(abgesehen von der Behandlung als Vorhalt) nach dem G-Klange&#13;
+führen, jede andere dagegen eine Trugauflösung sein u. s. w. Schon&#13;
+die Trugfortschreitung setzt eine gewisse Erwartung voraus, die&#13;
+dann getäuscht wird, nämlich die Erwartung einer Auflösung, des&#13;
+Fortschreitens zur Consonanz überhaupt, die Trugauflösung aber&#13;
+sogar die Erwartung einer ganz bestimmten Art der Auflösung.&#13;
+Auf einer Enttäuschung solcher Erwartungen beruht auch der&#13;
+Trugschluss. Doch ist ihm durchaus nicht wesentlich, in Form&#13;
+einer Dissonanzauflösung zu erfolgen; er kann aus lauter consonan¬&#13;
+ten Zusammenklängen bestehen, seine Erörterung gehört deshalb&#13;
 nicht hierher.</Unicode>
             </TextEquiv>
         </TextRegion>

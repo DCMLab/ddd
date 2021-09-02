@@ -8,12 +8,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-06-03T11:59:17.497+02:00</Created>
-        <LastChange>2021-06-04T23:03:34.053+02:00</LastChange>
-        <TranskribusMetadata docId="690742" pageId="26189547" pageNr="16" tsid="58670891" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=KWWNEHKTTDNCYJLRAJPLYWUW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MYERINBNZQLMTATIKEGFLZUN" imageId="20124392"/>
+        <LastChange>2021-08-20T17:32:14.989+02:00</LastChange>
+        <TranskribusMetadata docId="738835" pageId="28121502" pageNr="16" tsid="63071659" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=XWEXNURUYDRWJDFIRWSYERVW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XQFRKWLXQRHSNPXJCNMILAMW" imageId="21904872"/>
     </Metadata>
     <Page imageFilename="Riemann_Problem_split-0016.jpg" imageWidth="1654" imageHeight="2538" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624195578535" caption="Regions reading order">
+            <OrderedGroup id="ro_1630574060002" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1622743380268_1820"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1622743377258_1816"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1622743375936_1812"/>
@@ -34,7 +34,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="heading" id="TextRegion_1622743377258_1816" custom="readingOrder {index:1;} structure {type:heading;}">
             <Coords points="237,424 1244,424 1244,549 237,549"/>
-            <TextLine id="r1l3" custom="readingOrder {index:0;} textStyle {offset:0; length:49;fontSize:0.0; kerning:0; bold:true;}">
+            <TextLine id="r1l3" custom="readingOrder {index:0;} textStyle {offset:0; length:49;fontSize:0.0; kerning:0; bold:true;} concept_mus {offset:5; length:22;} concept_mus {offset:33; length:15;}">
                 <Coords points="297,547 875,526 1152,547 1209,538 1209,479 297,491"/>
                 <Baseline points="307,526 351,525 396,525 440,524 485,524 530,523 574,523 619,523 663,523 708,523 753,523 797,523 842,523 886,523 931,523 976,524 1020,524 1065,524 1109,525 1154,525 1199,526"/>
                 <TextEquiv>
@@ -47,28 +47,28 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1622743375936_1812" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
             <Coords points="237,549 1244,549 1244,2137 237,2137"/>
-            <TextLine id="r1l4" custom="readingOrder {index:0;} textStyle {offset:30; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l4" custom="readingOrder {index:0;} person_author {offset:19; length:6;ID:P0019;} textStyle {offset:30; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="363,602 1245,612 1246,559 363,555"/>
                 <Baseline points="373,593 416,593 459,594 502,594 545,594 588,595 631,595 674,595 717,595 760,595 804,595 847,595 890,596 933,596 976,596 1019,597 1062,597 1105,598 1148,598 1191,599 1235,601"/>
                 <TextEquiv>
                     <Unicode>Wir verdanken also Stumpf die Emanzipation</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:1;} textStyle {offset:0; length:41;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l5" custom="readingOrder {index:1;} textStyle {offset:0; length:41;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:4; length:12;} concept_phy {offset:25; length:16; continued:true;}">
                 <Coords points="275,645 1235,647 1235,610 1181,604 275,601"/>
                 <Baseline points="285,636 332,635 379,635 426,635 473,635 520,635 567,635 614,635 661,635 708,635 755,636 802,636 849,636 896,637 943,637 990,637 1037,637 1084,638 1131,638 1178,638 1225,638"/>
                 <TextEquiv>
                     <Unicode>der Musiktheorie von den akustischen Phä¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:2;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l6" custom="readingOrder {index:2;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:0; length:7; continued:true;} concept_phy {offset:32; length:8;}">
                 <Coords points="274,684 1236,687 1225,647 274,649"/>
                 <Baseline points="283,676 330,675 377,675 424,675 471,674 519,674 566,674 613,674 660,674 707,675 755,675 802,675 849,676 896,676 943,676 991,677 1038,678 1085,678 1132,679 1179,679 1227,680"/>
                 <TextEquiv>
                     <Unicode>nomenen. Die real existierenden Obertöne sind nicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+            <TextLine id="r1l7" custom="readingOrder {index:3;} concept_phy {offset:14; length:9;}">
                 <Coords points="269,723 1210,731 1234,690 269,685"/>
                 <Baseline points="279,714 326,714 373,715 420,715 467,715 515,715 562,715 609,715 656,716 703,716 751,716 798,716 845,717 892,717 939,717 987,718 1034,718 1081,719 1128,719 1175,720 1223,720"/>
                 <TextEquiv>
@@ -82,28 +82,28 @@ Transkribus</Creator>
                     <Unicode>Hinweis auf einen viel allgemeineren Zu¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1622743416422_1845" custom="readingOrder {index:5;} textStyle {offset:0; length:40;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="line_1622743416422_1845" custom="readingOrder {index:5;} textStyle {offset:0; length:40;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:15; length:4;}">
                 <Coords points="272,803 1232,818 1232,763 272,768"/>
                 <Baseline points="281,796 328,796 375,795 422,795 469,795 516,795 563,795 610,796 657,796 704,796 752,796 799,797 846,797 893,798 940,798 987,799 1034,799 1081,800 1128,800 1175,801 1223,801 653,779 692,778"/>
                 <TextEquiv>
                     <Unicode>sammenhang der Töne unter einander durch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:6;} textStyle {offset:0; length:21;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:26; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l11" custom="readingOrder {index:6;} textStyle {offset:0; length:21;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:4; length:17;} textStyle {offset:26; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:26; length:11;}">
                 <Coords points="272,848 1232,852 1232,821 1127,805 272,803"/>
                 <Baseline points="281,836 328,835 375,835 422,834 469,834 516,834 563,835 610,835 657,836 704,836 752,837 799,837 846,838 893,838 940,839 987,839 1034,839 1081,840 1128,840 1175,839 1223,839"/>
                 <TextEquiv>
-                    <Unicode>die Kommensurabilität der Entstehungs¬</Unicode>
+                    <Unicode>die Kommensurabilität der Entstehungs-</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:7;} textStyle {offset:0; length:39;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l12" custom="readingOrder {index:7;} textStyle {offset:0; length:39;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:4; length:19;}">
                 <Coords points="273,883 1236,891 1236,852 274,848"/>
                 <Baseline points="283,875 330,875 377,875 424,875 471,875 518,875 565,875 612,876 659,876 706,876 754,877 801,877 848,878 895,878 942,879 989,879 1036,879 1083,880 1130,880 1177,880 1225,880"/>
                 <TextEquiv>
                     <Unicode>und Verlaufsbedingungen der sie hervor¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:8;} textStyle {offset:0; length:23;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l13" custom="readingOrder {index:8;} textStyle {offset:0; length:23;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:11; length:12;} concept_phy {offset:24; length:18;}">
                 <Coords points="268,928 1228,932 1228,893 1133,885 268,883"/>
                 <Baseline points="277,914 324,914 371,914 418,915 465,915 512,915 559,915 606,916 653,916 700,917 747,917 794,917 841,918 888,918 935,919 982,919 1029,920 1076,920 1123,921 1170,921 1218,922"/>
                 <TextEquiv>
@@ -117,21 +117,21 @@ Transkribus</Creator>
                     <Unicode>und der durch sie bewirkten Funktionen der sie</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:10;} textStyle {offset:0; length:40;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l15" custom="readingOrder {index:10;} textStyle {offset:0; length:40;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:0; length:23;} concept_phy {offset:28; length:12; continued:true;}">
                 <Coords points="263,1002 1229,1022 1229,974 1074,964 263,969"/>
                 <Baseline points="273,993 320,993 367,994 415,994 462,995 509,995 557,996 604,996 651,997 699,997 746,998 793,998 841,999 888,999 935,1000 983,1000 1030,1001 1077,1001 1125,1002 1172,1003 1220,1003"/>
                 <TextEquiv>
                     <Unicode>apperzipierenden Organe des menschlichen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:11;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l16" custom="readingOrder {index:11;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:0; length:6; continued:true;}">
                 <Coords points="263,1041 1231,1062 1232,1010 264,1002"/>
                 <Baseline points="273,1032 320,1033 367,1033 415,1034 462,1034 510,1035 557,1035 605,1036 652,1036 700,1037 747,1038 794,1038 842,1039 889,1039 937,1040 984,1040 1032,1041 1079,1042 1127,1042 1174,1043 1222,1043"/>
                 <TextEquiv>
                     <Unicode>Gehörs. Welcher Art die letzten Umsetzungsformen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:12;}">
+            <TextLine id="r1l17" custom="readingOrder {index:12;} concept_phy {offset:4; length:15;} concept_phy {offset:23; length:29;}">
                 <Coords points="260,1080 1225,1095 1202,1053 261,1043"/>
                 <Baseline points="271,1072 318,1073 365,1073 412,1074 459,1075 507,1075 554,1076 601,1077 648,1077 695,1078 743,1078 790,1079 837,1079 884,1080 931,1080 979,1081 1026,1081 1073,1082 1120,1083 1167,1083 1215,1084"/>
                 <TextEquiv>
@@ -166,42 +166,42 @@ Transkribus</Creator>
                     <Unicode>nicht die Rede sein. Wenn nun auch die Brücke von den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:17;}">
+            <TextLine id="r1l22" custom="readingOrder {index:17;} concept_phy {offset:45; length:7; continued:true;}">
                 <Coords points="265,1279 1229,1291 1229,1258 1109,1246 265,1244"/>
                 <Baseline points="274,1269 321,1270 368,1271 415,1272 463,1273 510,1274 557,1274 604,1275 652,1276 699,1277 746,1277 793,1278 841,1278 888,1279 935,1280 982,1280 1030,1281 1077,1281 1124,1282 1171,1283 1219,1284"/>
                 <TextEquiv>
                     <Unicode>nach ihrer mechanischen Abhängigkeit von den Schall¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:18;}">
+            <TextLine id="r1l23" custom="readingOrder {index:18;} concept_phy {offset:0; length:10; continued:true;} concept_phy {offset:44; length:8; continued:true;}">
                 <Coords points="264,1316 1226,1334 1226,1293 264,1279"/>
                 <Baseline points="273,1308 320,1308 367,1309 414,1309 461,1310 508,1311 555,1312 603,1313 650,1314 697,1315 744,1316 791,1317 838,1318 885,1319 933,1319 980,1320 1027,1320 1074,1321 1121,1321 1168,1321 1216,1320"/>
                 <TextEquiv>
                     <Unicode>bewegungen wohlverständlichen Apparaten des äusseren</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:19;}">
+            <TextLine id="r1l24" custom="readingOrder {index:19;} concept_phy {offset:0; length:5; continued:true;} concept_phy {offset:7; length:11;} concept_phy {offset:20; length:16;} concept_mus {offset:45; length:7; continued:true;}">
                 <Coords points="255,1360 1218,1372 1218,1333 256,1316"/>
                 <Baseline points="265,1344 312,1346 359,1348 406,1350 453,1351 500,1352 547,1353 595,1354 642,1355 689,1356 736,1357 783,1357 830,1358 877,1358 925,1359 972,1359 1019,1359 1066,1360 1113,1360 1160,1361 1208,1361"/>
                 <TextEquiv>
                     <Unicode>Ohres (Trommelfell, Gehörknöchelchen, zu den Tonvor¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:20;}">
+            <TextLine id="r1l25" custom="readingOrder {index:20;} concept_mus {offset:0; length:10; continued:true;} concept_phy {offset:44; length:7; continued:true;}">
                 <Coords points="255,1396 1225,1412 1214,1371 255,1360"/>
                 <Baseline points="264,1381 311,1382 359,1384 406,1385 454,1386 502,1388 549,1389 597,1390 644,1391 692,1392 740,1393 787,1394 835,1395 882,1396 930,1397 978,1397 1025,1398 1073,1399 1120,1399 1168,1400 1216,1400"/>
                 <TextEquiv>
                     <Unicode>stellungen bei dem gegenwärtigen Stande der Wissen¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:21;}">
+            <TextLine id="r1l26" custom="readingOrder {index:21;} concept_phy {offset:0; length:6; continued:true;} person_author {offset:27; length:10;ID:P0001;}">
                 <Coords points="253,1431 1219,1449 1219,1412 1070,1401 253,1396"/>
                 <Baseline points="263,1422 310,1423 357,1425 405,1426 452,1427 499,1428 547,1429 594,1430 641,1431 689,1432 736,1433 783,1434 831,1434 878,1435 925,1436 973,1437 1020,1438 1067,1439 1115,1440 1162,1441 1210,1442"/>
                 <TextEquiv>
                     <Unicode>schaft im Dunkel liegt (ob Helmholtz’ Deutung der Funk¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:22;}">
+            <TextLine id="r1l27" custom="readingOrder {index:22;} concept_phy {offset:11; length:18;}">
                 <Coords points="254,1477 1113,1496 1225,1491 1226,1446 255,1430"/>
                 <Baseline points="264,1460 311,1462 359,1463 406,1465 454,1466 501,1467 549,1468 596,1470 644,1471 691,1472 739,1473 787,1473 834,1474 882,1475 929,1476 977,1477 1024,1478 1072,1480 1119,1481 1167,1482 1215,1484"/>
                 <TextEquiv>
@@ -215,7 +215,7 @@ Transkribus</Creator>
                     <Unicode>nicht viel an der Sachlage), die Abhängigkeit der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:24;} textStyle {offset:0; length:40;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l29" custom="readingOrder {index:24;} textStyle {offset:0; length:40;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:16;} concept_phy {offset:25; length:15;}">
                 <Coords points="257,1554 1134,1585 1223,1572 1224,1533 258,1511"/>
                 <Baseline points="267,1541 314,1541 361,1541 409,1542 456,1543 503,1543 551,1545 598,1546 645,1547 693,1549 740,1550 787,1552 835,1554 882,1555 929,1557 977,1558 1024,1559 1071,1560 1119,1561 1166,1562 1214,1563"/>
                 <TextEquiv>
@@ -243,28 +243,28 @@ Transkribus</Creator>
                     <Unicode>werden können. Aber — und damit stehen wir an der wich¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:28;}">
+            <TextLine id="r1l33" custom="readingOrder {index:28;} concept_phy {offset:27; length:10;} concept_phy {offset:43; length:14;}">
                 <Coords points="254,1709 1024,1738 1218,1731 1219,1694 255,1670"/>
                 <Baseline points="265,1701 312,1701 359,1702 406,1703 453,1704 500,1705 547,1706 595,1707 642,1708 689,1709 736,1711 783,1712 830,1714 877,1715 925,1717 972,1718 1019,1720 1066,1721 1113,1722 1160,1724 1208,1725"/>
                 <TextEquiv>
                     <Unicode>tigen Schwelle, welche vom physischen oder physikalischen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:29;} textStyle {offset:41; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l34" custom="readingOrder {index:29;} concept_mus {offset:10; length:19;} textStyle {offset:41; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="250,1747 1214,1778 1215,1739 1182,1732 251,1708"/>
                 <Baseline points="261,1741 308,1741 355,1742 402,1743 449,1744 497,1745 544,1746 591,1747 638,1749 685,1750 733,1751 780,1753 827,1754 874,1756 921,1757 969,1758 1016,1759 1063,1760 1110,1761 1157,1762 1205,1763"/>
                 <TextEquiv>
                     <Unicode>Hören zum musikalischen Hören überführt: die Ab¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:30;} textStyle {offset:0; length:39;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l35" custom="readingOrder {index:30;} textStyle {offset:0; length:39;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:15; length:16;}">
                 <Coords points="250,1788 1219,1814 1220,1771 251,1747"/>
                 <Baseline points="259,1781 306,1781 354,1783 401,1784 449,1785 496,1786 544,1787 591,1788 639,1790 686,1791 734,1792 781,1793 829,1795 876,1796 924,1797 971,1799 1019,1800 1066,1801 1114,1803 1161,1804 1209,1806"/>
                 <TextEquiv>
                     <Unicode>hängigkeit der Tonvorstellungen von den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:31;} textStyle {offset:0; length:39;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l36" custom="readingOrder {index:31;} textStyle {offset:0; length:39;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:0; length:15;}">
                 <Coords points="242,1827 1208,1865 1209,1824 1159,1811 244,1787"/>
                 <Baseline points="253,1820 300,1821 347,1822 394,1823 442,1824 489,1825 536,1827 583,1828 631,1829 678,1830 725,1832 772,1833 820,1834 867,1836 914,1837 961,1839 1009,1841 1056,1842 1103,1844 1150,1845 1198,1847"/>
                 <TextEquiv>
@@ -278,7 +278,7 @@ Transkribus</Creator>
                     <Unicode>derart, dass alle bei eingehender Einzeluntersuchung nach¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:33;}">
+            <TextLine id="r1l38" custom="readingOrder {index:33;} concept_phy {offset:27; length:3;} concept_mus {offset:42; length:6;} concept_phy {offset:42; length:6;}">
                 <Coords points="249,1915 696,1908 1174,1944 1207,1938 1209,1897 251,1872"/>
                 <Baseline points="259,1900 306,1901 353,1902 400,1903 447,1905 494,1906 541,1907 588,1909 635,1910 682,1911 729,1913 776,1914 823,1916 870,1917 917,1918 964,1919 1011,1921 1058,1922 1105,1923 1152,1924 1199,1925"/>
                 <TextEquiv>
@@ -292,7 +292,7 @@ Transkribus</Creator>
                     <Unicode>bestimmenden Einfluss auf die Gestaltung und Verket¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l40" custom="readingOrder {index:35;}">
+            <TextLine id="r1l40" custom="readingOrder {index:35;} concept_mus {offset:9; length:14;}">
                 <Coords points="234,1986 1215,2019 1197,1973 235,1950"/>
                 <Baseline points="243,1980 291,1981 339,1983 387,1984 435,1985 483,1987 531,1988 579,1990 627,1991 675,1992 724,1994 772,1995 820,1997 868,1998 916,1999 964,2001 1012,2002 1060,2003 1108,2005 1156,2006 1205,2008"/>
                 <TextEquiv>
@@ -313,7 +313,7 @@ Transkribus</Creator>
                     <Unicode>ordnende Tätigkeit des die einander folgenden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l43" custom="readingOrder {index:38;}">
+            <TextLine id="r1l43" custom="readingOrder {index:38;} m_note {offset:26; length:4;}">
                 <Coords points="232,2122 492,2106 538,2139 1141,2147 1209,2133 1210,2102 233,2076"/>
                 <Baseline points="241,2102 291,2103 341,2104 392,2105 442,2107 493,2108 543,2110 594,2112 644,2113 695,2115 745,2117 796,2118 846,2120 897,2122 947,2123 998,2124 1048,2125 1099,2126 1149,2126 1200,2127"/>
                 <TextEquiv>
@@ -327,7 +327,7 @@ nomenen. Die real existierenden Obertöne sind nicht&#13;
 der Grund der Konsonanz, sondern sie sind nur ein&#13;
 Hinweis auf einen viel allgemeineren Zu¬&#13;
 sammenhang der Töne unter einander durch&#13;
-die Kommensurabilität der Entstehungs¬&#13;
+die Kommensurabilität der Entstehungs-&#13;
 und Verlaufsbedingungen der sie hervor¬&#13;
 bringenden Schwingungen elastischer Körper&#13;
 und der durch sie bewirkten Funktionen der sie&#13;

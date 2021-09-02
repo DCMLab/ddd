@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:19:44.826+01:00</Created>
-        <LastChange>2021-04-22T16:50:43.379+02:00</LastChange>
-        <TranskribusMetadata docId="548806" pageId="22904478" pageNr="25" tsid="57011178" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=NYXEMODWLZKCGAFHDPCGRIIW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ANVMYVYOTTGRISNEYWVSCFMK" imageId="17867751"/>
+        <LastChange>2021-08-17T18:08:17.325+02:00</LastChange>
+        <TranskribusMetadata docId="738029" pageId="28086225" pageNr="25" tsid="62694936" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=QNGYNXAVGHPYPDJBGQUUKDBW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ITKVXQHIKWJBSVXDBECBBKXV" imageId="21871003"/>
     </Metadata>
     <Page imageFilename="Naumann1858-0025.jpg" imageWidth="9108" imageHeight="11400" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624197095686" caption="Regions reading order">
+            <OrderedGroup id="ro_1630575150920" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1611337202380_2701"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1611337202380_2700"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1611337193584_2692"/>
@@ -34,7 +34,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1611337202380_2700" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="1682,1097 8364,1097 8364,1443 1682,1443"/>
-            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+            <TextLine id="r2l2" custom="readingOrder {index:0;} concept_phy {offset:21; length:5;} concept_phy {offset:31; length:11;}">
                 <Coords points="1662,1412 3971,1486 5300,1385 5300,1211 4702,1070 4253,1245 3830,1070 1662,1171"/>
                 <Baseline points="1704,1366 1881,1366 2059,1368 2237,1368 2415,1370 2593,1370 2770,1370 2948,1370 3126,1372 3304,1372 3482,1372 3659,1372 3837,1372 4015,1370 4193,1370 4371,1370 4548,1368 4726,1368 4904,1366 5082,1366 5260,1364"/>
                 <TextEquiv>
@@ -50,21 +50,21 @@ Transkribus</Creator>
         </MathsRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1611337193584_2692" custom="readingOrder {index:3;}">
             <Coords points="1682,2190 8364,2190 8364,3037 1682,3037"/>
-            <TextLine id="line_1611337348791_2779" custom="readingOrder {index:0;}">
+            <TextLine id="line_1611337348791_2779" custom="readingOrder {index:0;} concept_phy {offset:4; length:5;} concept_phy {offset:51; length:11;}">
                 <Coords points="2119,2493 8116,2555 8306,2197 2118,2293"/>
                 <Baseline points="2156,2436 2253,2436 2350,2436 2447,2436 2544,2436 2641,2436 2738,2435 2835,2434 2932,2434 3029,2433 3126,2432 3223,2432 3320,2433 3417,2434 3514,2436 3611,2437 3708,2439 3805,2442 3902,2446 3999,2452 4096,2458 4352,2446 4389,2443 4427,2440 4465,2440 4502,2439 4540,2438 4578,2438 4615,2439 4653,2440 4691,2440 4729,2442 4766,2445 4804,2447 4842,2449 4879,2451 4917,2453 4955,2456 4992,2460 5030,2463 5068,2466 5106,2470 5152,2434 5307,2434 5463,2436 5618,2436 5774,2436 5930,2434 6085,2434 6241,2434 6396,2432 6552,2430 6708,2430 6863,2428 7019,2426 7174,2424 7330,2422 7486,2422 7641,2420 7797,2418 7952,2416 8108,2416 8264,2414"/>
                 <TextEquiv>
                     <Unicode>Die Summe derselben ($$MATH) ist = $$MATH, und die Zahlenreihe: 3, 3, 2, 4,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l12" custom="readingOrder {index:1;}">
+            <TextLine id="r2l12" custom="readingOrder {index:1;} concept_phy {offset:65; length:32;}">
                 <Coords points="1644,2737 8339,2743 8338,2536 7673,2479 1643,2554"/>
                 <Baseline points="1684,2724 2014,2724 2345,2726 2675,2726 3006,2728 3337,2728 3667,2730 3998,2730 4328,2732 4659,2732 4990,2732 5320,2732 5651,2730 5981,2728 6312,2726 6643,2724 6973,2720 7304,2716 7634,2710 7965,2704 8296,2698"/>
                 <TextEquiv>
                     <Unicode>4, 5, 3 stellt sich überhaupt als eine Charakteristische für die absoluten Schwingungsdifferenzen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l13" custom="readingOrder {index:2;}">
+            <TextLine id="r2l13" custom="readingOrder {index:2;} m_tonality {offset:7; length:8;}">
                 <Coords points="1655,3064 2045,2981 2244,2989 2327,3072 2768,2964 3067,3038 3465,2997 3465,2839 3291,2881 3224,2822 2900,2848 2734,2789 2568,2856 1654,2807"/>
                 <Baseline points="1696,2954 1782,2952 1868,2952 1954,2950 2041,2950 2127,2950 2213,2950 2300,2950 2386,2950 2472,2950 2559,2950 2645,2950 2731,2950 2817,2951 2904,2952 2990,2952 3076,2952 3163,2950 3249,2950 3335,2950 3422,2948"/>
                 <TextEquiv>
@@ -79,35 +79,35 @@ in der Durscala heraus. —</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1611337190979_2688" custom="readingOrder {index:4;}">
             <Coords points="1682,3037 8364,3037 8364,4754 1682,4754"/>
-            <TextLine id="r2l14" custom="readingOrder {index:0;}">
+            <TextLine id="r2l14" custom="readingOrder {index:0;} m_tonality {offset:47; length:10;} m_interval {offset:66; length:6;} m_interval {offset:74; length:6;}">
                 <Coords points="2121,3282 8359,3302 8358,2986 6539,2884 2121,3099"/>
                 <Baseline points="2160,3244 2467,3244 2775,3244 3083,3244 3391,3244 3699,3244 4007,3244 4315,3244 4623,3244 4931,3244 5239,3244 5546,3244 5854,3242 6162,3240 6470,3238 6778,3236 7086,3234 7394,3230 7702,3226 8010,3222 8318,3216"/>
                 <TextEquiv>
                     <Unicode>Man könnte auch die in den bisher betrachteten Tonleitern nur als Terzen, Sexten und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l15" custom="readingOrder {index:1;}">
+            <TextLine id="r2l15" custom="readingOrder {index:1;} m_interval {offset:0; length:15;} m_note {offset:29; length:4;} m_note {offset:37; length:10;} m_tonality {offset:52; length:9;}">
                 <Coords points="1664,3558 6780,3635 8043,3564 8341,3289 1663,3284"/>
                 <Baseline points="1702,3474 2032,3474 2362,3472 2692,3472 3022,3472 3352,3472 3682,3472 4012,3472 4342,3472 4672,3472 5003,3472 5333,3472 5663,3472 5993,3471 6323,3470 6653,3467 6983,3464 7313,3460 7643,3456 7973,3450 8304,3444"/>
                 <TextEquiv>
                     <Unicode>grosse Septimen vorkommenden Töne zu Grundtönen von Durscalen erheben; die zuletzt gefun¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l16" custom="readingOrder {index:2;}">
+            <TextLine id="r2l16" custom="readingOrder {index:2;} concept_phy {offset:25; length:14;} concept_phy {offset:44; length:27;}">
                 <Coords points="1662,3908 8033,3902 8357,3827 8356,3436 7733,3654 1661,3634"/>
                 <Baseline points="1704,3768 2034,3766 2364,3766 2695,3766 3025,3766 3356,3766 3686,3766 4016,3766 4347,3766 4677,3768 5008,3766 5338,3766 5668,3766 5999,3766 6329,3764 6660,3762 6990,3760 7320,3757 7651,3754 7981,3748 8312,3744"/>
                 <TextEquiv>
                     <Unicode>dene allgemeine Form der Differenzreihe der absoluten Schwingungszahlen ($$MATH u. s. w.) gilt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1611337374417_2812" custom="readingOrder {index:3;}">
+            <TextLine id="line_1611337374417_2812" custom="readingOrder {index:3;} m_tonality {offset:31; length:6;}">
                 <Coords points="1655,4096 8134,4117 8315,3825 1654,3913"/>
                 <Baseline points="1700,4060 1857,4060 2015,4058 2172,4056 2330,4056 2487,4056 2645,4054 2802,4054 2960,4054 3117,4054 3275,4056 3432,4056 3590,4056 3747,4058 3905,4058 4062,4060 4220,4062 4377,4063 4535,4064 4692,4066 4850,4068 4848,4030 4888,4030 4936,4062 5096,4060 5257,4059 5417,4058 5578,4056 5738,4054 5899,4054 6059,4052 6220,4052 6380,4050 6541,4048 6701,4047 6862,4045 7022,4044 7183,4042 7343,4040 7504,4038 7664,4036 7825,4032 7985,4030 8146,4026 8136,4004 8163,3999 8190,3995 8217,3993 8244,3991 8272,3988"/>
                 <TextEquiv>
                     <Unicode>dann zwar auch für diese neuen Scalen, aber $$MATH ist nicht mehr = $$MATH, sondern = $$MATH,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1611337382108_2823" custom="readingOrder {index:4;}">
+            <TextLine id="line_1611337382108_2823" custom="readingOrder {index:4;} m_tonality {offset:10; length:9;} m_interval {offset:28; length:7;} m_interval {offset:40; length:6;} m_tonality {offset:54; length:13;} m_note {offset:81; length:4;}">
                 <Coords points="1639,4384 8301,4517 8299,4118 7767,4063 1637,4168"/>
                 <Baseline points="1682,4354 1998,4352 2314,4350 2630,4350 2947,4350 3263,4350 3579,4350 3896,4350 4212,4352 4528,4352 4845,4352 5161,4352 5477,4352 5793,4352 6110,4350 6426,4348 6742,4346 7059,4342 7375,4337 7691,4330 8008,4324 8032,4236 8057,4240 8082,4243 8108,4246 8133,4244 8158,4242 8184,4237 8209,4231 8234,4222 8260,4212"/>
                 <TextEquiv>
@@ -135,21 +135,21 @@ So ist z. B. $$MATH für:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1611337183863_2680" custom="readingOrder {index:6;}">
             <Coords points="1682,6771 8364,6771 8364,7419 1682,7419"/>
-            <TextLine id="r2l42" custom="readingOrder {index:0;}">
+            <TextLine id="r2l42" custom="readingOrder {index:0;} concept_phy {offset:70; length:12; continued:true;}">
                 <Coords points="2190,6992 8213,7003 8362,6779 2190,6784"/>
                 <Baseline points="2236,6930 2540,6930 2844,6932 3148,6932 3452,6934 3756,6934 4060,6936 4364,6936 4668,6938 4972,6938 5277,6938 5581,6938 5885,6938 6189,6938 6493,6936 6797,6934 7101,6932 7405,6930 7709,6927 8013,6924 8318,6918"/>
                 <TextEquiv>
                     <Unicode>Weniger einfach sind die allgemeinen Ausdrücke, welche sich für diese Schwingungs¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l43" custom="readingOrder {index:1;} textStyle {offset:19; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l43" custom="readingOrder {index:1;} concept_phy {offset:0; length:11; continued:true;} textStyle {offset:19; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:19; length:9;}">
                 <Coords points="1710,7243 8105,7253 8404,7211 8405,6979 1710,7003"/>
                 <Baseline points="1754,7164 2084,7162 2415,7160 2745,7158 3076,7158 3406,7158 3737,7160 4067,7160 4398,7162 4728,7162 5059,7164 5389,7164 5720,7166 6050,7166 6381,7166 6711,7166 7042,7164 7372,7162 7703,7160 8033,7156 8364,7152"/>
                 <TextEquiv>
                     <Unicode>differenzen in der Mollscala ergeben; wir wollen dieselben, um nicht zu lange bei diesem</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l44" custom="readingOrder {index:2;}">
+            <TextLine id="r2l44" custom="readingOrder {index:2;} m_tonality {offset:48; length:6;}">
                 <Coords points="1705,7552 6398,7439 6257,7223 1705,7236"/>
                 <Baseline points="1746,7396 1976,7394 2207,7392 2438,7392 2668,7390 2899,7390 3130,7390 3360,7392 3591,7392 3822,7392 4053,7394 4283,7394 4514,7396 4745,7396 4975,7396 5206,7396 5437,7396 5667,7396 5898,7394 6129,7394 6360,7390"/>
                 <TextEquiv>

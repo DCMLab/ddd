@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:32.715+01:00</Created>
-        <LastChange>2021-07-14T18:30:25.563+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902745" pageNr="131" tsid="61441698" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=CSTJVJKJDBPTMIDNYUCFAHRX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SPAGWPVYIHDRYFXSHKIFIHDT" imageId="17866036"/>
+        <LastChange>2021-08-27T16:44:46.619+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28702007" pageNr="131" tsid="63563737" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HSOXPKICJJYSLZZYUKCUYAGX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BSNZVIBRQKNQUXOWOLEGPCBG" imageId="22425085"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0131.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454121190" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573587837" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626275038141_177"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626275038141_176"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1626275030307_168"/>
@@ -34,7 +34,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626275038141_176" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="139,130 1294,130 1294,498 139,498"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:6; length:11;} concept_mus {offset:49; length:8;}">
                 <Coords points="223,196 1300,202 1271,155 224,155"/>
                 <Baseline points="230,187 283,188 336,188 389,189 442,189 495,189 548,189 601,189 654,190 707,190 761,190 814,190 867,190 920,190 973,189 1026,190 1079,190 1132,190 1185,190 1238,190 1292,190"/>
                 <TextEquiv>
@@ -48,7 +48,7 @@ Transkribus</Creator>
                     <Unicode>oder als Vorausnahmen auftreten, sind ganz einfach und deutlich.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626275135927_216" custom="readingOrder {index:2;}">
+            <TextLine id="line_1626275135927_216" custom="readingOrder {index:2;} concept_mus {offset:21; length:11;} m_chord {offset:37; length:24;}">
                 <Coords points="137,283 1291,292 1291,253 1182,243 137,244"/>
                 <Baseline points="144,276 170,275 196,275 222,274 249,274 275,274 301,274 327,274 354,273 380,274 406,274 432,274 459,274 485,274 511,275 538,275 551,276 587,276 624,276 660,276 697,275 734,275 770,275 807,275 844,275 880,275 917,275 954,275 990,275 1027,275 1064,275 1100,275 1137,276 1174,276 1210,276 1247,277 1284,278"/>
                 <TextEquiv>
@@ -62,28 +62,28 @@ Transkribus</Creator>
                     <Unicode>die wir kennen lernen, erfordern eine nähere Betrachtung. Wenn</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+            <TextLine id="r1l9" custom="readingOrder {index:4;} concept_mus {offset:48; length:11;}">
                 <Coords points="139,372 1292,371 1292,338 1228,332 139,332"/>
                 <Baseline points="146,359 205,360 265,360 325,360 385,360 445,360 505,360 565,360 625,360 685,360 745,361 805,361 865,361 925,361 985,361 1045,361 1105,361 1165,361 1225,361 1285,361"/>
                 <TextEquiv>
                     <Unicode>es sich darum handelt, die uns bisher bekannten Auflösungen dieses</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+            <TextLine id="r1l10" custom="readingOrder {index:5;} m_chord {offset:14; length:8;}">
                 <Coords points="136,412 1295,410 1265,371 136,372"/>
                 <Baseline points="143,402 200,401 257,401 314,401 372,402 429,402 486,402 543,402 601,402 658,402 715,403 772,403 830,403 887,403 944,403 1001,403 1059,403 1116,403 1173,403 1230,403 1288,402"/>
                 <TextEquiv>
                     <Unicode>interessanten Accordes mit einander zu vergleichen, so müssen wir</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+            <TextLine id="r1l11" custom="readingOrder {index:6;} concept_mus {offset:15; length:10;} concept_mus {offset:26; length:6;} concept_mus {offset:37; length:8;}">
                 <Coords points="137,458 1294,460 1294,421 1229,412 137,412"/>
                 <Baseline points="145,445 202,445 259,444 316,444 373,444 430,444 487,444 544,444 601,444 658,445 716,445 773,445 830,445 887,445 944,445 1001,445 1058,446 1115,446 1172,446 1229,445 1287,445"/>
                 <TextEquiv>
                     <Unicode>jedenfalls die phonischen Klänge auf tonische zurückführen. Dann</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+            <TextLine id="r1l12" custom="readingOrder {index:7;} concept_mus {offset:49; length:11;}">
                 <Coords points="137,499 1245,499 1245,467 1095,453 137,461"/>
                 <Baseline points="144,487 198,487 253,487 308,487 362,487 417,487 472,487 526,487 581,487 636,487 691,487 745,487 800,487 855,487 909,487 964,487 1019,487 1073,487 1128,488 1183,488 1238,488"/>
                 <TextEquiv>
@@ -120,49 +120,49 @@ erhalten wir folgende Formeln für die neuen zwei Auflösungen:</Unicode>
                     <Unicode>in diesem Paragraph bereits angeführten, die zweite bietet einen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:2;}">
+            <TextLine id="r1l22" custom="readingOrder {index:2;} concept_mus {offset:21; length:5;} m_chord {offset:28; length:2;} textStyle {offset:28; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="143,827 1295,827 1295,789 143,794"/>
                 <Baseline points="150,815 206,815 263,815 320,815 377,815 434,815 491,815 548,815 605,815 662,816 719,816 775,816 832,816 889,816 946,816 1003,816 1060,816 1117,816 1174,816 1231,816 1288,815"/>
                 <TextEquiv>
                     <Unicode>neuen Fall. Der eine Klang (c+) besteht, der andere macht einen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:3;}">
+            <TextLine id="r1l23" custom="readingOrder {index:3;} concept_mus {offset:0; length:14;} m_chord {offset:16; length:3;} textStyle {offset:16; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:18; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:26; length:3;} textStyle {offset:26; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:28; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="143,870 420,876 464,843 537,876 1294,866 1294,835 1150,828 143,827"/>
                 <Baseline points="150,856 206,857 263,857 320,857 377,858 434,858 490,858 547,858 604,858 661,858 718,858 774,858 831,858 888,858 945,858 1002,858 1058,858 1115,858 1172,858 1229,858 1286,858"/>
                 <TextEquiv>
-                    <Unicode>Quintenschritt (er###at); das Resultat ist jedoch keine neue</Unicode>
+                    <Unicode>Quintenschritt (e{+ . . . a{+); das Resultat ist jedoch keine neue</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:4;}">
+            <TextLine id="r1l24" custom="readingOrder {index:4;} concept_mus {offset:0; length:9;} concept_phy {offset:0; length:9;} concept_mus {offset:23; length:10;} concept_mus {offset:34; length:5;} m_chord {offset:41; length:2;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:42; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="132,907 939,908 919,867 536,884 399,866 325,889 132,868"/>
                 <Baseline points="139,900 178,899 218,899 257,899 297,899 337,899 376,899 416,899 456,899 495,900 535,900 575,900 614,901 654,901 694,901 733,901 773,901 813,901 852,900 892,899 932,899"/>
                 <TextEquiv>
-                    <Unicode>Dissonanz, sondern ein phonischer Klang (ee):</Unicode>
+                    <Unicode>Dissonanz, sondern ein phonischer Klang (e0):</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626275153753_241" custom="readingOrder {index:5;}">
+            <TextLine id="line_1626275153753_241" custom="readingOrder {index:5;} concept_mus {offset:61; length:4; continued:true;} concept_phy {offset:61; length:4; continued:true;}">
                 <Coords points="135,952 1287,954 1249,906 135,916"/>
                 <Baseline points="142,939 169,935 196,935 223,937 250,941 278,941 305,941 353,941 402,941 451,942 500,942 548,942 597,942 646,942 695,942 743,942 792,942 841,942 890,942 938,942 987,942 1036,942 1085,942 1133,942 1182,942 1231,942 1280,942"/>
                 <TextEquiv>
-                    <Unicode>(+er: In dieser Schreibweise hätten wir somit eine echte Dis¬</Unicode>
+                    <Unicode>$$GRAPHIC In dieser Schreibweise hätten wir somit eine echte Dis¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:6;}">
+            <TextLine id="r1l27" custom="readingOrder {index:6;} concept_mus {offset:0; length:6; continued:true;} concept_phy {offset:0; length:6; continued:true;}">
                 <Coords points="304,994 1302,994 1302,955 304,960"/>
                 <Baseline points="311,983 360,983 409,984 458,985 507,985 556,985 605,985 655,985 704,985 753,985 802,985 851,984 900,984 949,984 999,984 1048,984 1097,984 1146,984 1195,984 1244,984 1294,985"/>
                 <TextEquiv>
                     <Unicode>sonanz vor uns, da keiner der beiden Bestandtheile seine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:7;}">
+            <TextLine id="r1l29" custom="readingOrder {index:7;} concept_mus {offset:0; length:14;}">
                 <Coords points="308,1036 1294,1035 1294,1003 1254,996 308,996"/>
                 <Baseline points="315,1024 363,1025 412,1025 460,1026 509,1026 558,1027 606,1027 655,1027 703,1027 752,1027 801,1027 849,1026 898,1026 946,1026 995,1026 1044,1026 1092,1026 1141,1025 1189,1026 1238,1026 1287,1026"/>
                 <TextEquiv>
                     <Unicode>Klangbedeutung bewahrt, sondern beide zu einem dritten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:8;}">
+            <TextLine id="r1l30" custom="readingOrder {index:8;} concept_mus {offset:0; length:6;}">
                 <Coords points="142,1078 226,1082 269,1069 499,1076 499,1051 446,1036 281,1036 266,1049 142,1036"/>
                 <Baseline points="149,1068 175,1068 201,1068 228,1068 254,1067 280,1067 307,1067 333,1067 360,1067 386,1067 412,1067 439,1067 465,1068 492,1069"/>
                 <TextEquiv>
@@ -170,187 +170,187 @@ erhalten wir folgende Formeln für die neuen zwei Auflösungen:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Die erste dieser zwei Formeln ist identisch mit jener sub 2)
-in diesem Paragraph bereits angeführten, die zweite bietet einen
-neuen Fall. Der eine Klang (c+) besteht, der andere macht einen
-Quintenschritt (er###at); das Resultat ist jedoch keine neue
-Dissonanz, sondern ein phonischer Klang (ee):
-(+er: In dieser Schreibweise hätten wir somit eine echte Dis¬
-sonanz vor uns, da keiner der beiden Bestandtheile seine
-Klangbedeutung bewahrt, sondern beide zu einem dritten
+                <Unicode>Die erste dieser zwei Formeln ist identisch mit jener sub 2)&#13;
+in diesem Paragraph bereits angeführten, die zweite bietet einen&#13;
+neuen Fall. Der eine Klang (c+) besteht, der andere macht einen&#13;
+Quintenschritt (e{+ . . . a{+); das Resultat ist jedoch keine neue&#13;
+Dissonanz, sondern ein phonischer Klang (e0):&#13;
+$$GRAPHIC In dieser Schreibweise hätten wir somit eine echte Dis¬&#13;
+sonanz vor uns, da keiner der beiden Bestandtheile seine&#13;
+Klangbedeutung bewahrt, sondern beide zu einem dritten&#13;
 Klange fortschreiten.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626275023990_164" custom="readingOrder {index:4;} structure {type:paragraph;}">
             <Coords points="139,1077 1294,1077 1294,1874 139,1874"/>
-            <TextLine id="r1l31" custom="readingOrder {index:0;}">
+            <TextLine id="r1l31" custom="readingOrder {index:0;} concept_mus {offset:4; length:14;} m_interval {offset:23; length:24;}">
                 <Coords points="227,1119 1289,1123 1289,1083 1255,1076 227,1081"/>
                 <Baseline points="234,1109 286,1109 338,1109 391,1109 443,1109 496,1109 548,1109 600,1109 653,1110 705,1110 758,1110 810,1110 862,1110 915,1110 967,1110 1020,1110 1072,1110 1124,1110 1177,1109 1229,1109 1282,1109"/>
                 <TextEquiv>
                     <Unicode>Die Vieldeutigkeit des übermässigen Dreiklanges ist eine der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:1;}">
+            <TextLine id="r1l32" custom="readingOrder {index:1;} concept_mus {offset:25; length:13;}">
                 <Coords points="138,1164 1296,1164 1296,1128 138,1131"/>
                 <Baseline points="145,1152 202,1152 259,1152 316,1151 373,1151 430,1151 487,1152 545,1152 602,1152 659,1152 716,1152 773,1152 830,1152 887,1152 945,1152 1002,1152 1059,1152 1116,1152 1173,1152 1230,1151 1288,1151"/>
                 <TextEquiv>
                     <Unicode>anregendsten Partien der Harmonielehre. Aber nicht nur diesen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:2;}">
+            <TextLine id="r1l33" custom="readingOrder {index:2;} m_chord {offset:0; length:6;} concept_mus {offset:42; length:10;}">
                 <Coords points="135,1204 1289,1199 1289,1172 1170,1165 135,1169"/>
                 <Baseline points="143,1195 202,1194 262,1194 322,1194 382,1194 442,1194 502,1194 562,1194 622,1194 682,1194 742,1194 802,1194 862,1194 922,1194 982,1194 1042,1193 1102,1193 1162,1193 1222,1192 1282,1191"/>
                 <TextEquiv>
                     <Unicode>Accord, sondern überhaupt jede aus direct verwandten, also ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:3;}">
+            <TextLine id="r1l34" custom="readingOrder {index:3;} concept_mus {offset:9; length:13;} concept_mus {offset:34; length:9;} concept_phy {offset:34; length:9;}">
                 <Coords points="141,1244 1292,1242 1292,1212 1229,1204 141,1204"/>
                 <Baseline points="148,1236 204,1236 261,1236 318,1236 375,1236 432,1236 489,1236 545,1236 602,1236 659,1236 716,1236 773,1236 830,1236 887,1236 943,1236 1000,1235 1057,1235 1114,1235 1171,1235 1228,1234 1285,1234"/>
                 <TextEquiv>
                     <Unicode>bundenen Accordklängen bestehende Dissonanz kann man auch so</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:4;}">
+            <TextLine id="r1l35" custom="readingOrder {index:4;} concept_mus {offset:35; length:10;} concept_mus {offset:47; length:9;} concept_mus {offset:57; length:7;}">
                 <Coords points="136,1291 1296,1292 1295,1253 1173,1243 136,1244"/>
                 <Baseline points="143,1279 200,1279 257,1279 314,1279 372,1278 429,1278 486,1278 543,1278 601,1278 658,1278 715,1278 772,1278 830,1278 887,1278 944,1278 1001,1278 1059,1278 1116,1278 1173,1278 1230,1278 1288,1277"/>
                 <TextEquiv>
                     <Unicode>behandeln, als ob sie aus indirect verwandten, isolirten Klängen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:5;}">
+            <TextLine id="r1l36" custom="readingOrder {index:5;} concept_mus {offset:21; length:17;}">
                 <Coords points="141,1332 1299,1331 1299,1298 1166,1291 141,1290"/>
                 <Baseline points="148,1319 205,1320 262,1320 319,1320 376,1321 434,1321 491,1321 548,1321 605,1321 662,1321 720,1321 777,1321 834,1321 891,1321 948,1321 1006,1321 1063,1321 1120,1321 1177,1321 1234,1321 1292,1321"/>
                 <TextEquiv>
                     <Unicode>bestünde, also keine Vorhaltsdissonanz wäre, d. h. man kann zu</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:6;}">
+            <TextLine id="r1l37" custom="readingOrder {index:6;} concept_mus {offset:14; length:6;} concept_mus {offset:24; length:13;}">
                 <Coords points="144,1370 1297,1370 1297,1339 1240,1332 144,1336"/>
                 <Baseline points="150,1362 207,1362 264,1362 321,1363 378,1363 435,1363 492,1363 549,1363 606,1363 663,1363 720,1363 777,1363 834,1363 891,1363 948,1363 1005,1363 1062,1363 1119,1363 1176,1362 1233,1362 1290,1362"/>
                 <TextEquiv>
                     <Unicode>einem dritten Klange so fortschreiten, dass bezüglich des einen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:7;}">
+            <TextLine id="r1l38" custom="readingOrder {index:7;} concept_mus {offset:0; length:22;} textStyle {offset:28; length:23;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:28; length:23;}">
                 <Coords points="142,1412 1298,1419 1280,1372 142,1372"/>
                 <Baseline points="150,1403 207,1403 264,1403 321,1403 378,1403 435,1403 492,1404 549,1404 606,1404 663,1404 720,1404 777,1404 834,1403 891,1403 948,1403 1005,1403 1062,1403 1119,1403 1176,1403 1233,1403 1290,1403"/>
                 <TextEquiv>
                     <Unicode>Dissonanzbestandtheils eine vorgreifende Klangfolge entsteht,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l39" custom="readingOrder {index:8;}">
+            <TextLine id="r1l39" custom="readingOrder {index:8;} concept_mus {offset:4; length:9;}">
                 <Coords points="143,1452 1299,1452 1262,1411 143,1413"/>
                 <Baseline points="150,1443 207,1444 264,1444 321,1445 378,1445 435,1445 492,1445 549,1445 606,1445 663,1445 721,1445 778,1445 835,1445 892,1444 949,1444 1006,1444 1063,1444 1120,1444 1177,1444 1234,1444 1292,1444"/>
                 <TextEquiv>
                     <Unicode>die Auflösung also strenggenommen dadurch noch nicht vollendet</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l40" custom="readingOrder {index:9;}">
+            <TextLine id="r1l40" custom="readingOrder {index:9;} concept_mus {offset:37; length:11;}">
                 <Coords points="142,1500 1299,1500 1299,1461 1244,1452 142,1452"/>
                 <Baseline points="150,1485 207,1485 264,1485 321,1486 378,1486 435,1486 492,1486 549,1486 606,1486 663,1486 720,1486 777,1486 834,1486 891,1486 948,1486 1005,1486 1062,1486 1119,1485 1176,1485 1233,1485 1291,1486"/>
                 <TextEquiv>
                     <Unicode>ist und erst durch das Eintreten des Vermittlers zu befriedigendem</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l41" custom="readingOrder {index:10;}">
+            <TextLine id="r1l41" custom="readingOrder {index:10;} concept_mus {offset:35; length:24;}">
                 <Coords points="142,1540 1167,1547 1287,1535 1287,1499 142,1501"/>
                 <Baseline points="149,1527 205,1527 262,1527 318,1527 375,1527 431,1527 488,1527 544,1527 601,1527 657,1527 714,1527 771,1528 827,1528 884,1528 940,1528 997,1527 1053,1527 1110,1527 1166,1527 1223,1526 1280,1526"/>
                 <TextEquiv>
                     <Unicode>Abschlusse gelangt. So wie bei der vorgreifenden Klangfolge über¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l42" custom="readingOrder {index:11;}">
+            <TextLine id="r1l42" custom="readingOrder {index:11;} m_interval {offset:40; length:15;}">
                 <Coords points="141,1580 1281,1579 1294,1536 141,1540"/>
                 <Baseline points="149,1569 205,1568 262,1568 319,1568 376,1568 433,1568 490,1568 546,1568 603,1568 660,1568 717,1568 774,1568 831,1568 888,1568 944,1568 1001,1568 1058,1568 1115,1568 1172,1568 1229,1567 1286,1567"/>
                 <TextEquiv>
                     <Unicode>haupt, spielen namentlich auch hier die Quintenschritte als die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626275171521_279" custom="readingOrder {index:12;}">
+            <TextLine id="line_1626275171521_279" custom="readingOrder {index:12;} m_chord {offset:40; length:14;} m_chord {offset:55; length:2;} textStyle {offset:55; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:56; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:60; length:2;} textStyle {offset:60; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:61; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="144,1620 1299,1612 1228,1571 144,1579"/>
                 <Baseline points="151,1609 199,1609 247,1609 296,1609 344,1609 393,1609 441,1609 489,1609 538,1609 586,1610 635,1610 683,1610 731,1610 780,1610 828,1610 877,1610 925,1610 973,1609 1022,1609 1070,1608 1119,1607 1135,1608 1161,1606 1187,1603 1213,1601 1239,1601 1265,1601 1292,1605"/>
                 <TextEquiv>
-                    <Unicode>leichtfasslichsten die erste Rolle. Der Septimenaccord d“ + /1=</Unicode>
+                    <Unicode>leichtfasslichsten die erste Rolle. Der Septimenaccord d+ + f+ =</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l45" custom="readingOrder {index:13;}">
+            <TextLine id="r1l45" custom="readingOrder {index:13;} m_chord {offset:0; length:9;} m_interval {offset:33; length:14;} m_chord {offset:52; length:2;} textStyle {offset:52; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:53; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="142,1659 1250,1660 1299,1658 1299,1620 142,1622"/>
                 <Baseline points="150,1647 207,1648 264,1649 321,1650 378,1651 435,1651 492,1651 549,1652 606,1652 663,1652 721,1652 778,1652 835,1651 892,1651 949,1651 1006,1651 1063,1650 1120,1650 1177,1650 1234,1650 1292,1650"/>
                 <TextEquiv>
-                    <Unicode>d—1—a—c’ kann z. B. durch einen Quintenschritt des d“ und</Unicode>
+                    <Unicode>$$GRAPHIC kann z. B. durch einen Quintenschritt des d+ und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l46" custom="readingOrder {index:14;}">
+            <TextLine id="r1l46" custom="readingOrder {index:14;} concept_mus {offset:5; length:18;} m_chord {offset:28; length:2;} textStyle {offset:28; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:36; length:2;} textStyle {offset:36; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:37; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:39; length:9;}">
                 <Coords points="139,1716 1158,1723 1298,1715 1298,1673 139,1683"/>
                 <Baseline points="147,1707 204,1707 261,1708 318,1708 375,1708 432,1709 489,1709 547,1709 604,1709 661,1708 718,1708 775,1708 832,1708 889,1708 947,1708 1004,1708 1061,1707 1118,1708 1175,1708 1232,1708 1290,1708"/>
                 <TextEquiv>
-                    <Unicode>eine vorgreifende Folge des ### nach gut aufgelöst werden, worauf</Unicode>
+                    <Unicode>eine vorgreifende Folge des f+ nach g+ aufgelöst werden, worauf</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l47" custom="readingOrder {index:15;}">
+            <TextLine id="r1l47" custom="readingOrder {index:15;} m_chord {offset:15; length:2;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:16; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:22; length:10;} m_chord {offset:42; length:2;} textStyle {offset:42; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:43; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:49; length:2;} textStyle {offset:49; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:50; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="133,1764 1132,1771 1289,1762 1289,1723 133,1728"/>
                 <Baseline points="141,1750 198,1750 255,1750 312,1750 369,1750 426,1750 483,1750 540,1750 597,1750 654,1750 711,1750 768,1750 825,1750 882,1750 939,1750 996,1750 1053,1750 1110,1750 1167,1750 1224,1750 1282,1750"/>
                 <TextEquiv>
-                    <Unicode>natürlich noch er als Vermittler zwischen I und g“ folgen muss.</Unicode>
+                    <Unicode>natürlich noch c+ als Vermittler zwischen f+ und g+ folgen muss.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l48" custom="readingOrder {index:16;}">
+            <TextLine id="r1l48" custom="readingOrder {index:16;} concept_mus {offset:16; length:9;}">
                 <Coords points="141,1802 1298,1802 1272,1763 1068,1755 141,1764"/>
                 <Baseline points="148,1791 205,1792 262,1792 319,1792 376,1793 433,1793 490,1793 547,1793 604,1793 661,1793 719,1793 776,1793 833,1793 890,1793 947,1793 1004,1792 1061,1792 1118,1792 1175,1792 1232,1792 1290,1791"/>
                 <TextEquiv>
                     <Unicode>Den Sinn dieser Auflösung erkennt man deutlich aus dem folgenden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l49" custom="readingOrder {index:17;}">
+            <TextLine id="r1l49" custom="readingOrder {index:17;} concept_mus {offset:0; length:14;}">
                 <Coords points="138,1842 293,1842 303,1852 381,1842 417,1852 435,1843 435,1808 418,1804 369,1813 359,1804 296,1812 280,1803 264,1812 256,1803 233,1810 138,1803"/>
                 <Baseline points="145,1835 170,1835 196,1835 222,1835 247,1835 273,1835 299,1835 325,1834 350,1834 376,1834 402,1835 428,1835"/>
                 <TextEquiv>
-                    <Unicode>Notenbeispiele"):</Unicode>
+                    <Unicode>Notenbeispiele *):</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Die Vieldeutigkeit des übermässigen Dreiklanges ist eine der
-anregendsten Partien der Harmonielehre. Aber nicht nur diesen
-Accord, sondern überhaupt jede aus direct verwandten, also ver¬
-bundenen Accordklängen bestehende Dissonanz kann man auch so
-behandeln, als ob sie aus indirect verwandten, isolirten Klängen
-bestünde, also keine Vorhaltsdissonanz wäre, d. h. man kann zu
-einem dritten Klange so fortschreiten, dass bezüglich des einen
-Dissonanzbestandtheils eine vorgreifende Klangfolge entsteht,
-die Auflösung also strenggenommen dadurch noch nicht vollendet
-ist und erst durch das Eintreten des Vermittlers zu befriedigendem
-Abschlusse gelangt. So wie bei der vorgreifenden Klangfolge über¬
-haupt, spielen namentlich auch hier die Quintenschritte als die
-leichtfasslichsten die erste Rolle. Der Septimenaccord d“ + /1=
-d—1—a—c’ kann z. B. durch einen Quintenschritt des d“ und
-eine vorgreifende Folge des ### nach gut aufgelöst werden, worauf
-natürlich noch er als Vermittler zwischen I und g“ folgen muss.
-Den Sinn dieser Auflösung erkennt man deutlich aus dem folgenden
-Notenbeispiele"):</Unicode>
+                <Unicode>Die Vieldeutigkeit des übermässigen Dreiklanges ist eine der&#13;
+anregendsten Partien der Harmonielehre. Aber nicht nur diesen&#13;
+Accord, sondern überhaupt jede aus direct verwandten, also ver¬&#13;
+bundenen Accordklängen bestehende Dissonanz kann man auch so&#13;
+behandeln, als ob sie aus indirect verwandten, isolirten Klängen&#13;
+bestünde, also keine Vorhaltsdissonanz wäre, d. h. man kann zu&#13;
+einem dritten Klange so fortschreiten, dass bezüglich des einen&#13;
+Dissonanzbestandtheils eine vorgreifende Klangfolge entsteht,&#13;
+die Auflösung also strenggenommen dadurch noch nicht vollendet&#13;
+ist und erst durch das Eintreten des Vermittlers zu befriedigendem&#13;
+Abschlusse gelangt. So wie bei der vorgreifenden Klangfolge über¬&#13;
+haupt, spielen namentlich auch hier die Quintenschritte als die&#13;
+leichtfasslichsten die erste Rolle. Der Septimenaccord d+ + f+ =&#13;
+$$GRAPHIC kann z. B. durch einen Quintenschritt des d+ und&#13;
+eine vorgreifende Folge des f+ nach g+ aufgelöst werden, worauf&#13;
+natürlich noch c+ als Vermittler zwischen f+ und g+ folgen muss.&#13;
+Den Sinn dieser Auflösung erkennt man deutlich aus dem folgenden&#13;
+Notenbeispiele *):</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1626275020431_160" custom="readingOrder {index:5;} structure {type:footnote;}">
             <Coords points="139,1874 1294,1874 1294,2042 139,2042"/>
-            <TextLine id="line_1626275178492_293" custom="readingOrder {index:0;}">
+            <TextLine id="line_1626275178492_293" custom="readingOrder {index:0;} m_chord {offset:43; length:16;}">
                 <Coords points="229,1934 1255,1940 1292,1936 1292,1897 229,1900"/>
                 <Baseline points="236,1928 265,1928 295,1929 324,1929 354,1930 383,1930 413,1930 442,1930 472,1930 501,1930 531,1930 561,1930 590,1930 620,1930 649,1930 679,1930 708,1930 738,1930 767,1930 797,1930 827,1930 857,1929 882,1929 907,1929 932,1930 957,1930 982,1930 1007,1930 1032,1930 1057,1930 1083,1929 1108,1929 1133,1929 1158,1929 1183,1929 1208,1928 1233,1928 1258,1927 1284,1927"/>
                 <TextEquiv>
                     <Unicode>*) Hier bewährt sich unsere Deutung dieses Septimenaccordes als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626275182195_304" custom="readingOrder {index:1;}">
+            <TextLine id="line_1626275182195_304" custom="readingOrder {index:1;} m_chord {offset:0; length:2;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:1; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:5; length:2;} textStyle {offset:5; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:6; length:1;fontSize:0.0; kerning:0; superscript:true;} person_author {offset:25; length:14;ID:P0018;} textStyle {offset:28; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:40; length:2;} textStyle {offset:40; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:41; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:45; length:2;} textStyle {offset:45; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:46; length:1;fontSize:0.0; kerning:0; superscript:true;} m_interval {offset:52; length:14;}">
                 <Coords points="146,1971 1293,1970 1293,1935 1240,1931 146,1934"/>
                 <Baseline points="153,1967 187,1966 221,1966 255,1966 289,1965 323,1965 357,1965 391,1965 425,1965 459,1965 493,1964 527,1964 561,1964 595,1964 629,1964 663,1964 697,1964 731,1964 765,1964 799,1964 833,1964 855,1963 880,1962 905,1961 930,1961 956,1961 981,1961 1006,1961 1032,1962 1057,1962 1082,1963 1107,1963 1133,1964 1158,1964 1183,1964 1209,1963 1234,1963 1259,1962 1285,1960"/>
                 <TextEquiv>
-                    <Unicode>++ im Gegensatze zu v. Oettingen's g++, der Quintenschritt</Unicode>
+                    <Unicode>d+ + f+ im Gegensatze zu v. Oettingen's g+ + f+ der Quintenschritt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626275186394_314" custom="readingOrder {index:2;}">
+            <TextLine id="line_1626275186394_314" custom="readingOrder {index:2;} m_chord {offset:0; length:2;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:1; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:9; length:2;} textStyle {offset:9; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:10; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:16; length:6;}">
                 <Coords points="141,2003 1271,2011 1301,1970 141,1977"/>
                 <Baseline points="149,1996 189,1998 211,1999 238,2000 265,1999 292,1999 319,1998 347,1997 357,1998 403,1998 450,1998 497,1998 544,1998 591,1998 637,1998 684,1998 731,1998 778,1998 825,1998 871,1998 918,1998 965,1998 1012,1997 1059,1997 1105,1997 1152,1997 1199,1997 1246,1998 1293,1998"/>
                 <TextEquiv>
-                    <Unicode>d“ des Basses macht sich als solcher in der entschiedensten</Unicode>
+                    <Unicode>d+ . . . g+ des Basses macht sich als solcher in der entschiedensten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l57" custom="readingOrder {index:3;}">
@@ -361,9 +361,9 @@ Notenbeispiele"):</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>*) Hier bewährt sich unsere Deutung dieses Septimenaccordes als
-++ im Gegensatze zu v. Oettingen's g++, der Quintenschritt
-d“ des Basses macht sich als solcher in der entschiedensten
+                <Unicode>*) Hier bewährt sich unsere Deutung dieses Septimenaccordes als&#13;
+d+ + f+ im Gegensatze zu v. Oettingen's g+ + f+ der Quintenschritt&#13;
+d+ . . . g+ des Basses macht sich als solcher in der entschiedensten&#13;
 Weise geltend.</Unicode>
             </TextEquiv>
         </TextRegion>

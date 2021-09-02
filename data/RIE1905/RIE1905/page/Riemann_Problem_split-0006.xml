@@ -10,12 +10,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-06-03T11:59:17.233+02:00</Created>
-        <LastChange>2021-06-04T21:32:31.790+02:00</LastChange>
-        <TranskribusMetadata docId="690742" pageId="26189507" pageNr="6" tsid="58668964" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ORZFBJQXDZHGEPNVGPQKLGOQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WLLGRBTGXNUBKDWVHKQZGFVE" imageId="20124382"/>
+        <LastChange>2021-08-20T17:17:33.741+02:00</LastChange>
+        <TranskribusMetadata docId="738835" pageId="28121479" pageNr="6" tsid="63069083" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=IUUSZMODXGONAXCFOTHWYGEO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HYGPFOWHBRXLALYCPTLKJEBB" imageId="21904849"/>
     </Metadata>
     <Page imageFilename="Riemann_Problem_split-0006.jpg" imageWidth="1654" imageHeight="2550" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624195577621" caption="Regions reading order">
+            <OrderedGroup id="ro_1630574058116" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1622741394759_601"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1622741394759_600"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1622741389110_596"/>
@@ -45,35 +45,35 @@ Transkribus</Creator>
                     <Unicode>rechnet, so beweist das die völlige Unbekanntschaft</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+            <TextLine id="r1l4" custom="readingOrder {index:1;} work_text {offset:22; length:16;ID:W0011;}">
                 <Coords points="279,515 1135,519 1249,508 1249,477 279,480"/>
                 <Baseline points="285,505 332,504 380,503 428,503 476,502 524,502 572,501 620,501 668,501 716,501 764,501 811,500 859,500 907,500 955,500 1003,500 1051,499 1099,499 1147,499 1195,498 1243,497"/>
                 <TextEquiv>
                     <Unicode>mit meinem Nachweise (Gesch. d. M.-Th. S. 457), dass</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+            <TextLine id="r1l5" custom="readingOrder {index:2;} person_author {offset:0; length:6;ID:P0005;} work_text {offset:17; length:20;ID:W0015;} time {offset:39; length:4;}">
                 <Coords points="284,552 1251,547 1250,518 1195,506 283,515"/>
                 <Baseline points="289,545 336,544 384,544 432,543 480,543 527,543 575,542 623,542 671,541 718,541 766,541 814,541 862,540 909,540 957,540 1005,540 1053,539 1100,539 1148,539 1196,538 1244,538"/>
                 <TextEquiv>
                     <Unicode>Rameau seinen im Traité de l'harmonie (1722) versuchten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+            <TextLine id="r1l6" custom="readingOrder {index:3;} person_author {offset:18; length:7;ID:P0010;} time {offset:34; length:4;}">
                 <Coords points="296,593 1190,590 1250,583 1250,547 295,553"/>
                 <Baseline points="301,583 348,583 395,583 442,583 489,583 536,583 583,582 631,582 678,582 725,581 772,581 819,581 866,580 913,580 961,580 1008,579 1055,579 1102,579 1149,579 1196,578 1244,578"/>
                 <TextEquiv>
                     <Unicode>Widerspruch gegen Zarlino bereits 1737 definitiv auf¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+            <TextLine id="r1l7" custom="readingOrder {index:4;} concept_mus {offset:13; length:21;}">
                 <Coords points="287,641 1183,638 1242,627 1242,598 287,604"/>
                 <Baseline points="293,624 340,624 387,624 434,624 481,624 528,624 575,623 623,623 670,623 717,622 764,622 811,621 858,621 905,621 953,620 1000,620 1047,620 1094,620 1141,620 1188,620 1236,620"/>
                 <TextEquiv>
                     <Unicode>gegeben hat (Génération harmonique) und mit klingen¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+            <TextLine id="r1l8" custom="readingOrder {index:5;} concept_mus {offset:18; length:9;}">
                 <Coords points="291,673 1249,671 1228,626 1167,650 1107,628 291,641"/>
                 <Baseline points="297,665 344,665 391,665 438,664 486,664 533,664 580,663 628,663 675,662 722,662 770,661 817,661 864,661 911,661 959,660 1006,660 1053,660 1101,660 1148,660 1195,661 1243,661"/>
                 <TextEquiv>
@@ -87,7 +87,7 @@ Transkribus</Creator>
                     <Unicode>darf daher auch nicht erwarten, dass diejenigen, welche</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+            <TextLine id="r1l10" custom="readingOrder {index:7;} concept_mus {offset:13; length:14;}">
                 <Coords points="289,763 1252,749 1243,709 1177,731 289,716"/>
                 <Baseline points="296,746 343,745 390,745 438,745 485,744 533,744 580,744 628,743 675,743 723,743 770,743 817,743 865,742 912,742 960,742 1007,742 1055,742 1102,742 1150,741 1197,741 1245,741"/>
                 <TextEquiv>
@@ -101,7 +101,7 @@ Transkribus</Creator>
                     <Unicode>mehr oder minder Geschick als Wortführer gegen die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+            <TextLine id="r1l12" custom="readingOrder {index:9;} concept_mus {offset:0; length:16;} concept_mus {offset:21; length:8;}">
                 <Coords points="291,838 1132,844 1251,835 1251,795 291,796"/>
                 <Baseline points="297,827 344,826 391,825 439,824 486,824 534,824 581,823 628,823 676,823 723,823 771,823 818,823 865,823 913,824 960,824 1008,824 1055,824 1102,824 1150,823 1197,823 1245,823"/>
                 <TextEquiv>
@@ -115,7 +115,7 @@ Transkribus</Creator>
                     <Unicode>mit den Einwänden vertraut sind, welche ich z. B. gegen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+            <TextLine id="r1l14" custom="readingOrder {index:11;} person_author {offset:0; length:9;ID:P0001;} person_author {offset:14; length:7;ID:P0019;}">
                 <Coords points="283,919 1255,916 1254,879 1138,866 738,895 711,872 283,876"/>
                 <Baseline points="289,905 337,905 385,905 433,906 481,906 529,905 577,905 625,905 673,905 721,905 769,905 817,904 865,904 913,904 961,904 1009,904 1057,903 1105,903 1153,903 1201,903 1249,903"/>
                 <TextEquiv>
@@ -129,7 +129,7 @@ Transkribus</Creator>
                     <Unicode>vorgebracht habe. Wenn ich auch nicht hier zu wieder¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+            <TextLine id="r1l16" custom="readingOrder {index:13;} time {offset:23; length:14;}">
                 <Coords points="287,996 1254,998 1253,961 1166,949 286,955"/>
                 <Baseline points="292,987 339,987 387,986 435,986 483,986 531,985 578,985 626,985 674,985 722,985 770,985 817,985 865,984 913,984 961,984 1009,984 1056,984 1104,984 1152,984 1200,984 1248,984"/>
                 <TextEquiv>
@@ -187,7 +187,7 @@ Studie verfehlt werden soll.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="heading" id="TextRegion_1622741389110_596" custom="readingOrder {index:2;} structure {type:heading;}">
             <Coords points="285,1184 1255,1184 1255,1281 285,1281"/>
-            <TextLine id="r1l21" custom="readingOrder {index:0;} textStyle {offset:0; length:48;fontSize:0.0; kerning:0; bold:true;}">
+            <TextLine id="r1l21" custom="readingOrder {index:0;} textStyle {offset:0; length:48;fontSize:0.0; kerning:0; bold:true;} concept_phy {offset:13; length:8;} concept_mus {offset:38; length:9;} concept_phy {offset:38; length:9;}">
                 <Coords points="295,1268 1240,1267 1224,1213 296,1232"/>
                 <Baseline points="302,1259 348,1259 395,1258 441,1258 488,1258 535,1258 581,1258 628,1258 674,1258 721,1258 768,1258 814,1258 861,1258 907,1258 954,1259 1001,1259 1047,1259 1094,1259 1140,1259 1187,1259 1234,1259"/>
                 <TextEquiv>
@@ -200,14 +200,14 @@ Studie verfehlt werden soll.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1622741387184_592" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
             <Coords points="285,1281 1255,1281 1255,1787 285,1787"/>
-            <TextLine id="r1l22" custom="readingOrder {index:0;}">
+            <TextLine id="r1l22" custom="readingOrder {index:0;} time {offset:32; length:4;} person_author {offset:43; length:8; continued:true;ID:P0010;}">
                 <Coords points="364,1340 1188,1345 1250,1338 1250,1296 364,1299"/>
                 <Baseline points="370,1330 413,1329 457,1329 501,1329 544,1329 588,1329 632,1329 675,1329 719,1329 763,1329 807,1329 850,1330 894,1330 938,1330 981,1330 1025,1330 1069,1330 1112,1330 1156,1330 1200,1329 1244,1329"/>
                 <TextEquiv>
                     <Unicode>Der erste Widerspruch gegen die 1558 durch Gioseffo</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:1;}">
+            <TextLine id="r1l23" custom="readingOrder {index:1;} person_author {offset:0; length:7; continued:true;ID:P0010;} work_text {offset:18; length:22;ID:W0016;}">
                 <Coords points="290,1385 1250,1385 1250,1338 291,1338"/>
                 <Baseline points="297,1371 344,1370 391,1370 439,1370 486,1369 533,1369 581,1369 628,1370 675,1370 723,1370 770,1370 817,1370 865,1371 912,1371 959,1371 1007,1371 1054,1371 1101,1371 1149,1370 1196,1370 1244,1369"/>
                 <TextEquiv>
@@ -221,63 +221,63 @@ Studie verfehlt werden soll.</Unicode>
                     <Unicode>und Lib. III. Cap. 31) aufgestellte und eigentlich von</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:3;}">
+            <TextLine id="r1l25" custom="readingOrder {index:3;} work_text {offset:34; length:16;ID:W0131;} person_author {offset:34; length:11;ID:P0020;} time {offset:46; length:4;}">
                 <Coords points="291,1459 1250,1462 1228,1415 1143,1440 291,1419"/>
                 <Baseline points="297,1452 344,1451 391,1451 439,1450 486,1450 533,1450 581,1450 628,1450 675,1450 723,1450 770,1451 817,1451 865,1451 912,1451 959,1452 1007,1452 1054,1452 1101,1452 1149,1452 1196,1452 1244,1452"/>
                 <TextEquiv>
                     <Unicode>allen Theoretikern der Folgezeit (Fr. Salinas 1577,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:4;}">
+            <TextLine id="r1l26" custom="readingOrder {index:4;} work_text {offset:0; length:14;ID:W0132;} person_author {offset:0; length:9;ID:P0021;} time {offset:10; length:4;} work_text {offset:16; length:13;ID:W0087;} person_author {offset:16; length:8;ID:P0022;} time {offset:25; length:4;} person_author {offset:31; length:6;ID:P0005;} time {offset:39; length:9;}">
                 <Coords points="289,1498 1233,1505 1234,1460 289,1459"/>
                 <Baseline points="295,1492 341,1491 388,1491 434,1490 481,1490 528,1490 574,1490 621,1490 668,1490 714,1491 761,1491 808,1491 854,1491 901,1492 948,1492 994,1492 1041,1492 1088,1492 1134,1492 1181,1491 1228,1491"/>
                 <TextEquiv>
                     <Unicode>Descartes 1615, Mersenne 1636, Rameau [seit 1737,]</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:5;}">
+            <TextLine id="r1l27" custom="readingOrder {index:5;} work_text {offset:0; length:11;ID:W0133;} person_author {offset:0; length:6;ID:P0024;} time {offset:7; length:4;} work_text {offset:13; length:10;ID:W0134;} person_author {offset:13; length:5;ID:P0025;} time {offset:19; length:4;} work_text {offset:25; length:12;ID:W0135;} person_author {offset:25; length:7;ID:P0023;} time {offset:33; length:4;} work_text {offset:39; length:14;ID:W0136;} person_author {offset:39; length:9;ID:P0026;} time {offset:49; length:4;}">
                 <Coords points="290,1539 1253,1547 1253,1510 1207,1499 290,1500"/>
                 <Baseline points="296,1531 343,1531 391,1531 438,1531 486,1531 534,1531 581,1531 629,1531 676,1531 724,1531 772,1532 819,1532 867,1532 914,1532 962,1532 1010,1532 1057,1532 1105,1532 1152,1532 1200,1533 1248,1533"/>
                 <TextEquiv>
                     <Unicode>Levens 1743, Serre 1753, Tartini 1754, Blamville 1764,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:6;}">
+            <TextLine id="r1l28" custom="readingOrder {index:6;} work_text {offset:0; length:11;ID:W0137;} person_author {offset:0; length:6;ID:P0027;} time {offset:7; length:4;} work_text {offset:13; length:13;ID:W0138;} person_author {offset:13; length:8;ID:P0028;} time {offset:22; length:4;} work_text {offset:28; length:14;ID:W0139;} person_author {offset:28; length:9;ID:P0029;} time {offset:38; length:4;} person_author {offset:44; length:9;ID:P0007;} work_text {offset:44; length:9; continued:true;ID:W0004;}">
                 <Coords points="292,1580 1252,1579 1252,1549 1054,1537 292,1539"/>
                 <Baseline points="298,1571 345,1571 392,1571 440,1572 487,1572 535,1572 582,1572 629,1572 677,1572 724,1572 772,1572 819,1572 866,1572 914,1572 961,1572 1009,1572 1056,1572 1103,1572 1151,1573 1198,1573 1246,1573"/>
                 <TextEquiv>
                     <Unicode>Jamard 1769, Vallotti 1779, Sabbatini 1799, Hauptmann</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:7;}">
+            <TextLine id="r1l29" custom="readingOrder {index:7;} time {offset:0; length:4;} work_text {offset:0; length:4; continued:true;ID:W0004;} work_text {offset:6; length:20;ID:W0017;} person_author {offset:6; length:15;ID:P0018;} time {offset:22; length:4;} work_text {offset:28; length:15;ID:W0018;} person_author {offset:28; length:10;ID:P0002;} time {offset:39; length:4;} person_author {offset:45; length:10;ID:P0017;} work_text {offset:45; length:10; continued:true;ID:W0019;}">
                 <Coords points="292,1620 1252,1620 1252,1585 1095,1577 293,1580"/>
                 <Baseline points="298,1611 345,1611 392,1611 440,1612 487,1612 535,1612 582,1612 629,1612 677,1612 724,1612 772,1612 819,1612 866,1612 914,1612 961,1612 1009,1612 1056,1612 1103,1612 1151,1612 1198,1613 1246,1613"/>
                 <TextEquiv>
                     <Unicode>1853, A. v. Oettingen 1866, O. Tiersch 1868, H. Riemann</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:8;}">
+            <TextLine id="r1l30" custom="readingOrder {index:8;} time {offset:0; length:4;} work_text {offset:0; length:4; continued:true;ID:W0019;} work_text {offset:6; length:14;ID:W0020;} person_author {offset:6; length:9;ID:P0030;} time {offset:16; length:4;} work_text {offset:22; length:17;ID:W0021;} person_author {offset:22; length:12;ID:P0003;} time {offset:35; length:4;} person_author {offset:41; length:10;ID:P0031;} work_text {offset:41; length:10; continued:true;ID:W0022;}">
                 <Coords points="295,1664 1258,1658 1258,1621 1166,1617 1054,1642 1010,1619 295,1618"/>
                 <Baseline points="301,1651 348,1650 396,1650 443,1650 491,1651 538,1651 586,1651 633,1651 681,1652 728,1652 776,1652 824,1652 871,1653 919,1653 966,1653 1014,1653 1061,1653 1109,1653 1156,1653 1204,1652 1252,1652"/>
                 <TextEquiv>
-                    <Unicode>1873, Thürlings 1877, O. Hostinsky 1879, A. Krisper</Unicode>
+                    <Unicode>1873, Thürlings 1877, O. Hostinský 1879, A. Krisper</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:9;}">
+            <TextLine id="r1l31" custom="readingOrder {index:9;} time {offset:0; length:4;} work_text {offset:0; length:4; continued:true;ID:W0022;}">
                 <Coords points="292,1697 1254,1708 1254,1668 1190,1660 292,1663"/>
                 <Baseline points="298,1690 345,1691 393,1691 440,1692 488,1692 535,1692 583,1693 630,1693 678,1693 725,1693 773,1692 820,1692 868,1692 915,1692 963,1692 1010,1692 1058,1692 1105,1693 1153,1693 1200,1693 1248,1694"/>
                 <TextEquiv>
                     <Unicode>1882 u. s. w.) festgehaltene Gegenüberstellung der beiden,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:10;}">
+            <TextLine id="r1l32" custom="readingOrder {index:10;} concept_mus {offset:4; length:12;} concept_mus {offset:25; length:13;} concept_phy {offset:39; length:12;}">
                 <Coords points="290,1739 1250,1754 1234,1699 290,1698"/>
                 <Baseline points="296,1731 343,1731 390,1731 438,1732 485,1732 533,1732 580,1732 627,1733 675,1733 722,1733 770,1733 817,1733 864,1734 912,1734 959,1734 1007,1734 1054,1734 1101,1734 1149,1734 1196,1733 1244,1733"/>
                 <TextEquiv>
                     <Unicode>die Durkonsonanz und die Mollkonsonanz mathematisch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1622741383903_588" custom="readingOrder {index:11;}">
+            <TextLine id="line_1622741383903_588" custom="readingOrder {index:11;} concept_phy {offset:14; length:6;}">
                 <Coords points="293,1783 469,1786 515,1774 538,1789 664,1779 664,1749 592,1739 571,1748 537,1738 498,1752 465,1740 410,1749 378,1740 364,1750 346,1739 326,1749 293,1740"/>
                 <Baseline points="299,1772 324,1771 350,1771 375,1772 401,1772 427,1772 452,1773 478,1773 504,1773 529,1773 555,1773 581,1773 606,1773 632,1772 658,1771"/>
                 <TextEquiv>
@@ -293,7 +293,7 @@ Descartes 1615, Mersenne 1636, Rameau [seit 1737,]&#13;
 Levens 1743, Serre 1753, Tartini 1754, Blamville 1764,&#13;
 Jamard 1769, Vallotti 1779, Sabbatini 1799, Hauptmann&#13;
 1853, A. v. Oettingen 1866, O. Tiersch 1868, H. Riemann&#13;
-1873, Thürlings 1877, O. Hostinsky 1879, A. Krisper&#13;
+1873, Thürlings 1877, O. Hostinský 1879, A. Krisper&#13;
 1882 u. s. w.) festgehaltene Gegenüberstellung der beiden,&#13;
 die Durkonsonanz und die Mollkonsonanz mathematisch&#13;
 definierenden Reihen:</Unicode>
@@ -304,21 +304,21 @@ definierenden Reihen:</Unicode>
         </MusicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1622741380822_580" custom="readingOrder {index:5;} structure {type:paragraph-continued;}">
             <Coords points="285,1992 1255,1992 1255,2123 285,2123"/>
-            <TextLine id="r1l54" custom="readingOrder {index:0;}">
+            <TextLine id="r1l54" custom="readingOrder {index:0;} person_author {offset:23; length:8;ID:P0032;} time {offset:33; length:4;}">
                 <Coords points="294,2035 1257,2048 1257,1994 294,1996"/>
                 <Baseline points="300,2027 347,2028 395,2029 442,2029 490,2030 537,2030 585,2030 632,2030 680,2030 727,2030 775,2030 822,2031 870,2031 917,2031 965,2031 1012,2031 1060,2031 1107,2031 1155,2031 1202,2032 1250,2032"/>
                 <TextEquiv>
                     <Unicode>erfolgte, als man nach Sauveurs (1700) Aufweisung</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l55" custom="readingOrder {index:1;}">
+            <TextLine id="r1l55" custom="readingOrder {index:1;} concept_mus {offset:24; length:6;} concept_mus {offset:35; length:6;}">
                 <Coords points="289,2079 1253,2083 1261,2046 289,2035"/>
                 <Baseline points="295,2068 345,2069 395,2069 446,2069 496,2070 547,2070 597,2070 648,2071 698,2071 749,2071 799,2071 850,2072 900,2072 951,2072 1001,2072 1052,2072 1102,2072 1153,2072 1203,2072 1254,2071"/>
                 <TextEquiv>
                     <Unicode>der Zusammensetzung der Klänge der Saiten aus einer</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l56" custom="readingOrder {index:2;} textStyle {offset:47; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l56" custom="readingOrder {index:2;} concept_phy {offset:9; length:5;} concept_phy {offset:19; length:12;} textStyle {offset:47; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="289,2114 1207,2130 1260,2121 1261,2089 289,2084"/>
                 <Baseline points="295,2108 343,2109 391,2109 439,2110 487,2110 535,2111 583,2111 631,2112 679,2112 727,2112 775,2113 823,2113 871,2113 919,2113 967,2113 1015,2113 1063,2113 1111,2113 1159,2113 1207,2112 1255,2112"/>
                 <TextEquiv>

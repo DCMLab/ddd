@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-02-19T15:11:50.937+01:00</Created>
-        <LastChange>2021-03-27T14:45:37.654+01:00</LastChange>
-        <TranskribusMetadata docId="614265" pageId="24399925" pageNr="63" tsid="54281947" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=GZAGOOJUHNZZXTYDZLDYGACZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AYILHHWDDJGVLMJUWUKMKJLB" imageId="18780691"/>
+        <LastChange>2021-08-17T12:03:59.219+02:00</LastChange>
+        <TranskribusMetadata docId="738834" pageId="28121573" pageNr="63" tsid="62685856" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=SLORGOLCUZUAIWNXJOJEOVWS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DQPJCCUGLKVVKCAXXVXKWGSW" imageId="21904943"/>
     </Metadata>
     <Page imageFilename="Weitzmann_1860_Harmoniesystem-0063.jpg" imageWidth="1353" imageHeight="2175" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196442688" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573946986" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1614168070472_1750"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1614168070472_1749"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1614168068242_1745"/>
@@ -34,49 +34,49 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614168070472_1749" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="183,248 1181,248 1181,579 183,579"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_chord {offset:29; length:8;}">
                 <Coords points="179,323 1178,330 1178,284 179,293"/>
                 <Baseline points="185,318 234,317 283,316 333,316 382,315 431,315 481,314 530,314 579,314 629,313 678,313 727,313 777,313 826,313 875,313 925,313 974,313 1023,313 1073,313 1122,314 1172,314"/>
                 <TextEquiv>
                     <Unicode>aus zweien oder aus mehreren Accorden bestehen und nach</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_note {offset:20; length:4;} concept_mus {offset:38; length:6;}">
                 <Coords points="182,370 1176,376 1157,323 959,348 864,324 182,332"/>
                 <Baseline points="188,358 237,358 286,358 335,358 384,358 433,357 482,357 531,356 580,356 629,356 679,356 728,355 777,355 826,355 875,355 924,356 973,356 1022,357 1071,357 1120,358 1170,360"/>
                 <TextEquiv>
                     <Unicode>einem ausgehaltenen Tone der tiefsten Stimme, oder zugleich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_chord {offset:27; length:6;}">
                 <Coords points="178,411 1178,403 1155,372 975,364 178,379"/>
                 <Baseline points="184,400 233,400 282,400 332,400 381,400 431,400 480,400 529,399 579,399 628,399 678,398 727,398 776,398 826,398 875,398 925,397 974,397 1023,398 1073,398 1122,398 1172,399"/>
                 <TextEquiv>
                     <Unicode>mit diesem kann als erster Accord nicht allein eine mit dem¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:7; length:12;} concept_phy {offset:7; length:12;} concept_mus {offset:39; length:12;} concept_phy {offset:39; length:12;} concept_mus {offset:52; length:8;}">
                 <Coords points="189,456 1180,450 1155,408 189,413"/>
                 <Baseline points="195,443 246,443 298,443 349,443 401,443 452,442 504,442 555,442 607,442 658,441 710,441 761,441 813,441 864,441 916,441 967,441 1019,441 1070,441 1122,442 1174,442"/>
                 <TextEquiv>
                     <Unicode>selben consonirende, sondern auch eine dissonirende Harmonie</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} m_chord {offset:44; length:17; continued:true;}">
                 <Coords points="187,499 1177,490 1159,452 187,457"/>
                 <Baseline points="193,485 241,485 290,485 339,485 388,485 437,485 486,485 535,484 584,484 633,484 682,483 730,483 779,483 828,483 877,482 926,482 975,482 1024,482 1073,482 1122,482 1171,482"/>
                 <TextEquiv>
                     <Unicode>frei auftreten, an welcher ein oder mehrere verminderte Drei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} m_chord {offset:0; length:6; continued:true;} m_chord {offset:35; length:22;}">
                 <Coords points="186,539 1173,538 1173,491 654,492 623,517 579,492 510,519 186,499"/>
                 <Baseline points="192,528 240,528 289,528 338,529 386,528 435,528 484,528 532,528 581,527 630,527 679,527 727,526 776,526 825,526 873,525 922,525 971,525 1019,525 1068,525 1117,525 1166,526"/>
                 <TextEquiv>
                     <Unicode>klänge theilnehmen, z. B. also ein Dominantseptimenaccord</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} m_chord {offset:9; length:27;}">
                 <Coords points="180,579 807,578 790,539 180,539"/>
                 <Baseline points="187,570 217,570 248,570 279,570 309,570 340,570 371,570 401,570 432,569 463,569 494,569 524,569 555,569 586,569 616,569 647,569 678,569 708,569 739,569 770,569 801,569"/>
                 <TextEquiv>
@@ -102,28 +102,28 @@ oder ein verminderter Septimenaccord.</Unicode>
                     <Unicode>In den folgenden Beispielen entsteht bei 1 der sogenannte</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:1;}">
+            <TextLine id="r1l10" custom="readingOrder {index:1;} m_chord {offset:1; length:11;} m_chord {offset:37; length:15;}">
                 <Coords points="188,667 436,643 649,675 1180,667 1180,627 188,634"/>
                 <Baseline points="195,657 246,656 298,656 349,656 401,656 452,656 504,655 555,655 607,655 658,655 710,655 761,655 813,654 864,654 916,654 967,654 1019,654 1070,654 1122,654 1174,654"/>
                 <TextEquiv>
                     <Unicode>„Nonenaccord”, bei 2 der sogenannte „Undecimenaccord” und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:2;}">
+            <TextLine id="r1l11" custom="readingOrder {index:2;} m_chord {offset:22; length:17;}">
                 <Coords points="182,706 653,715 920,683 953,713 1182,707 1158,667 182,670"/>
                 <Baseline points="188,697 237,697 286,698 336,698 385,698 434,698 484,698 533,698 582,698 632,697 681,697 730,697 780,696 829,696 878,696 928,696 977,696 1026,696 1076,696 1125,697 1175,698"/>
                 <TextEquiv>
                     <Unicode>bei 3 der sogenannte „Terzdecimenaccord”, jenachdem die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:3;}">
+            <TextLine id="r1l12" custom="readingOrder {index:3;} m_interval {offset:0; length:6;} m_interval {offset:12; length:5;} m_note {offset:27; length:8;} m_chord {offset:42; length:11;}">
                 <Coords points="179,746 1176,755 1161,708 179,707"/>
                 <Baseline points="185,740 234,740 283,740 332,741 381,740 431,740 480,740 529,739 578,739 627,739 677,738 726,738 775,738 824,737 873,737 923,737 972,738 1021,738 1070,739 1119,740 1169,742"/>
                 <TextEquiv>
                     <Unicode>Quinte, die Terze oder der Grundton eines Dreiklanges als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:4;}">
+            <TextLine id="r1l13" custom="readingOrder {index:4;} m_note {offset:0; length:8;} m_note {offset:23; length:4;} concept_mus {offset:38; length:12;} m_chord {offset:51; length:7;}">
                 <Coords points="181,797 1181,795 1181,757 1146,748 181,751"/>
                 <Baseline points="187,783 236,784 285,784 335,784 384,784 434,784 483,783 532,783 582,783 631,782 681,782 730,782 779,782 829,782 878,781 928,781 977,781 1026,782 1076,782 1125,782 1175,783"/>
                 <TextEquiv>
@@ -151,56 +151,56 @@ benutzt worden.</Unicode>
         </MusicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1614168053931_1737" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
             <Coords points="183,1015 1181,1015 1181,1399 183,1399"/>
-            <TextLine id="r1l32" custom="readingOrder {index:0;}">
+            <TextLine id="r1l32" custom="readingOrder {index:0;} concept_mus {offset:6; length:13;} concept_phy {offset:6; length:13;} concept_mus {offset:20; length:9;} concept_mus {offset:40; length:12;} m_chord {offset:53; length:7;}">
                 <Coords points="185,1053 1168,1061 1168,1019 1134,1013 185,1013"/>
                 <Baseline points="192,1043 240,1044 289,1045 337,1045 386,1046 434,1046 483,1046 531,1046 580,1046 628,1046 677,1046 725,1046 774,1046 822,1046 871,1046 919,1046 968,1046 1016,1046 1065,1047 1113,1047 1162,1048"/>
                 <TextEquiv>
                     <Unicode>Diese dissonirenden Harmonien sind also vierstimmige Accorde,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:1;}">
+            <TextLine id="r1l33" custom="readingOrder {index:1;} concept_mus {offset:12; length:4;} concept_mus {offset:48; length:11; continued:true;}">
                 <Coords points="187,1099 1182,1089 1084,1052 645,1081 187,1061"/>
                 <Baseline points="193,1087 242,1087 291,1088 340,1088 389,1088 438,1088 487,1088 537,1088 586,1089 635,1089 684,1089 733,1089 782,1089 831,1089 881,1089 930,1089 979,1089 1028,1089 1077,1089 1126,1089 1176,1089"/>
                 <TextEquiv>
                     <Unicode>welche jede Lage annehmen, und jede regelmäßige Fortschrei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:2;} textStyle {offset:39; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l34" custom="readingOrder {index:2;} concept_mus {offset:0; length:4; continued:true;} textStyle {offset:39; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:47; length:6;}">
                 <Coords points="176,1139 1180,1141 1180,1100 533,1123 176,1101"/>
                 <Baseline points="183,1131 232,1131 282,1131 331,1131 381,1131 430,1131 480,1131 529,1131 579,1130 628,1130 678,1130 728,1130 777,1130 827,1130 876,1130 926,1131 975,1131 1025,1131 1074,1131 1124,1132 1174,1132"/>
                 <TextEquiv>
                     <Unicode>tung nehmen können, denen eine fünfte, tiefste Stimme als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:3;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l35" custom="readingOrder {index:3;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:0; length:8;}">
                 <Coords points="185,1184 1176,1186 1176,1148 1117,1140 185,1140"/>
                 <Baseline points="191,1173 242,1173 294,1174 345,1174 397,1174 448,1174 500,1174 551,1174 603,1174 654,1174 706,1173 757,1173 809,1173 860,1173 912,1173 963,1173 1015,1173 1066,1174 1118,1174 1170,1174"/>
                 <TextEquiv>
                     <Unicode>Halteton hinzugefügt ist, welche selbstverständlich sich an einer</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:4;}">
+            <TextLine id="r1l36" custom="readingOrder {index:4;} concept_mus {offset:0; length:10;} concept_mus {offset:16; length:9;}">
                 <Coords points="186,1225 1178,1226 1178,1195 1111,1183 364,1209 186,1185"/>
                 <Baseline points="192,1214 243,1215 295,1216 346,1216 398,1217 449,1217 501,1217 552,1217 604,1216 655,1216 707,1216 758,1216 810,1215 861,1215 913,1215 964,1215 1016,1216 1067,1216 1119,1217 1171,1218"/>
                 <TextEquiv>
                     <Unicode>Versetzung oder Umkehrung des über derselben befindlichen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:5;}">
+            <TextLine id="r1l37" custom="readingOrder {index:5;} m_chord {offset:0; length:8;}">
                 <Coords points="185,1266 1174,1275 1174,1226 186,1225"/>
                 <Baseline points="192,1257 240,1257 289,1258 338,1258 387,1258 436,1258 484,1258 533,1258 582,1258 631,1258 680,1258 728,1258 777,1258 826,1258 875,1258 924,1258 972,1258 1021,1258 1070,1258 1119,1259 1168,1259"/>
                 <TextEquiv>
                     <Unicode>Accordes nicht betheiligen darf, denn sonst würde der oben bei</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:6;}">
+            <TextLine id="r1l38" custom="readingOrder {index:6;} m_chord {offset:15; length:11;} concept_mus {offset:44; length:11; continued:true;}">
                 <Coords points="189,1315 1179,1310 1179,1280 1111,1269 456,1268 425,1291 189,1269"/>
                 <Baseline points="195,1301 243,1301 292,1301 341,1301 390,1301 439,1300 488,1300 536,1300 585,1300 634,1300 683,1300 732,1300 781,1300 830,1300 878,1300 927,1300 976,1300 1025,1301 1074,1301 1123,1302 1172,1303"/>
                 <TextEquiv>
                     <Unicode>1 auftretende „Nonenaccord” z. B. in seiner Secundterz¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l39" custom="readingOrder {index:7;}">
+            <TextLine id="r1l39" custom="readingOrder {index:7;} concept_mus {offset:0; length:13; continued:true;} concept_mus {offset:44; length:8;}">
                 <Coords points="182,1355 1178,1355 1178,1324 1118,1312 182,1316"/>
                 <Baseline points="188,1343 237,1344 286,1344 335,1344 384,1344 434,1345 483,1345 532,1345 581,1345 630,1345 680,1345 729,1344 778,1344 827,1344 876,1344 926,1344 975,1344 1024,1345 1073,1345 1122,1345 1172,1346"/>
                 <TextEquiv>
@@ -231,21 +231,21 @@ können:</Unicode>
         </MusicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1614168042112_1729" custom="readingOrder {index:6;} structure {type:paragraph-continued;}">
             <Coords points="183,1530 1181,1530 1181,1712 183,1712"/>
-            <TextLine id="r1l44" custom="readingOrder {index:0;}">
+            <TextLine id="r1l44" custom="readingOrder {index:0;} m_note {offset:14; length:8;} concept_mus {offset:37; length:9;} concept_mus {offset:51; length:7;}">
                 <Coords points="181,1578 1187,1577 1187,1552 1088,1540 181,1539"/>
                 <Baseline points="187,1570 236,1570 286,1570 336,1571 385,1571 435,1571 485,1572 534,1572 584,1572 634,1573 684,1573 733,1573 783,1574 833,1574 882,1574 932,1575 982,1575 1031,1575 1081,1576 1131,1576 1181,1577"/>
                 <TextEquiv>
                     <Unicode>Wenn aber der Halteton bei 1 mit der Auflösung der Stimmen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l45" custom="readingOrder {index:1;}">
+            <TextLine id="r1l45" custom="readingOrder {index:1;} m_chord {offset:23; length:16;}">
                 <Coords points="177,1627 999,1634 1182,1627 1183,1595 178,1581"/>
                 <Baseline points="184,1614 233,1614 283,1614 332,1614 382,1614 432,1615 481,1615 531,1615 580,1615 630,1616 680,1616 729,1616 779,1617 828,1617 878,1617 928,1618 977,1618 1027,1618 1076,1618 1126,1619 1176,1619"/>
                 <TextEquiv>
                     <Unicode>des über ihm stehenden Septimenaccordes zugleich seine Stelle</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1614168172507_1825" custom="readingOrder {index:2;}">
+            <TextLine id="line_1614168172507_1825" custom="readingOrder {index:2;} m_note {offset:24; length:8;} m_chord {offset:47; length:8;}">
                 <Coords points="177,1667 1181,1667 1170,1628 177,1628"/>
                 <Baseline points="183,1656 215,1657 248,1657 280,1657 313,1657 346,1657 378,1657 411,1657 444,1657 476,1657 509,1657 542,1658 574,1658 607,1658 640,1658 672,1658 705,1658 738,1659 770,1659 803,1660 836,1660 873,1662 898,1662 923,1662 948,1662 973,1662 998,1662 1024,1662 1049,1661 1074,1661 1099,1661 1124,1661 1149,1661 1175,1662"/>
                 <TextEquiv>

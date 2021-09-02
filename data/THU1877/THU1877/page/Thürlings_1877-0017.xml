@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-07-02T17:08:32.434+02:00</Created>
-        <LastChange>2021-07-07T12:27:05.062+02:00</LastChange>
-        <TranskribusMetadata docId="721401" pageId="27762169" pageNr="17" tsid="61162353" status="NEW" userId="65770" imgUrl="https://files.transkribus.eu/Get?id=VCPPGFDWUJCNBSRFUJDIVSGF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NPXJFDSDEVSFXJRKLVEKQRPI" imageId="21570492"/>
+        <LastChange>2021-08-23T17:01:23.548+02:00</LastChange>
+        <TranskribusMetadata docId="716327" pageId="27687993" pageNr="17" tsid="63155212" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=AJFTYHZYCBTPAGERUFMBNFIH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UGILPNBHZOOMVXFETYYAKZLY" imageId="21505090"/>
     </Metadata>
     <Page imageFilename="Thürlings_1877-0017.jpg" imageWidth="5958" imageHeight="9220" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626453873185" caption="Regions reading order">
+            <OrderedGroup id="ro_1630574289788" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1625585030930_628"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1625585030930_627"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1625585028805_623"/>
@@ -33,28 +33,28 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1625585030930_627" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="820,1008 5476,1008 5476,3858 820,3858"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_phy {offset:39; length:16;}">
                 <Coords points="1144,1267 5025,1312 5499,1262 5500,1072 1145,1007"/>
                 <Baseline points="1174,1192 1388,1193 1603,1194 1818,1196 2033,1198 2248,1200 2462,1202 2677,1204 2892,1206 3107,1207 3322,1208 3536,1210 3751,1210 3966,1212 4181,1212 4396,1214 4610,1214 4825,1214 5040,1214 5255,1212 5470,1212"/>
                 <TextEquiv>
                     <Unicode>Dass dieser Grundgedanke nicht der auf Schwingungszalen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_phy {offset:5; length:12;} concept_phy {offset:30; length:10;} concept_phy {offset:57; length:6; continued:true;}">
                 <Coords points="827,1461 5222,1480 5494,1435 5495,1261 827,1276"/>
                 <Baseline points="854,1392 1084,1394 1315,1396 1546,1398 1776,1400 2007,1402 2238,1402 2468,1404 2699,1406 2930,1408 3161,1410 3391,1410 3622,1412 3853,1412 4083,1412 4314,1412 4545,1412 4775,1412 5006,1412 5237,1410 5468,1410"/>
                 <TextEquiv>
                     <Unicode>oder Saitenlängen gegründeten Zalenlehre, auch nicht der physi¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_phy {offset:0; length:20; continued:true;}">
                 <Coords points="836,1606 5475,1670 5476,1433 837,1456"/>
                 <Baseline points="868,1590 1097,1592 1326,1594 1555,1596 1784,1596 2013,1598 2242,1600 2471,1602 2700,1604 2929,1604 3158,1606 3387,1608 3616,1608 3845,1610 4074,1610 4303,1612 4532,1612 4761,1612 4990,1612 5219,1612 5448,1610"/>
                 <TextEquiv>
                     <Unicode>kalischen Klanglehre entsprungen ist, liegt auf der flachen Hand.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:23; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:23; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:23; length:5;ID:P0013;}">
                 <Coords points="837,1843 5493,1878 5494,1693 838,1634"/>
                 <Baseline points="868,1794 1097,1794 1327,1796 1557,1798 1786,1798 2016,1800 2246,1801 2475,1802 2705,1804 2935,1804 3165,1806 3394,1808 3624,1808 3854,1808 4083,1810 4313,1810 4543,1810 4772,1810 5002,1810 5232,1810 5462,1810"/>
                 <TextEquiv>
@@ -68,7 +68,7 @@ Transkribus</Creator>
                     <Unicode>Anwendung der spekulativen Prinzipien seines Meisters auf den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} concept_mus {offset:0; length:12;} concept_mus {offset:13; length:16;}">
                 <Coords points="812,2259 5161,2317 5474,2272 5475,2070 813,2057"/>
                 <Baseline points="842,2192 1072,2192 1302,2194 1532,2194 1763,2196 1993,2198 2223,2198 2454,2200 2684,2202 2914,2202 3145,2204 3375,2206 3605,2206 3835,2208 4066,2208 4296,2208 4526,2208 4757,2208 4987,2208 5217,2208 5448,2206"/>
                 <TextEquiv>
@@ -110,7 +110,7 @@ Transkribus</Creator>
                     <Unicode>Seelenleben hinaus erstreckt, kann ihre Gesetzmässigkeit nicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+            <TextLine id="r1l13" custom="readingOrder {index:11;} concept_phy {offset:9; length:15;}">
                 <Coords points="795,3416 5479,3506 5480,3269 795,3335"/>
                 <Baseline points="824,3402 1055,3400 1286,3399 1517,3398 1749,3398 1980,3398 2211,3400 2443,3400 2674,3402 2905,3404 3137,3406 3368,3408 3599,3410 3830,3410 4062,3412 4293,3414 4524,3414 4756,3414 4987,3414 5218,3413 5450,3412"/>
                 <TextEquiv>
@@ -124,7 +124,7 @@ Transkribus</Creator>
                     <Unicode>wendig der Beihülfe übereinstimmender oder wenigstens analoger</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+            <TextLine id="r1l15" custom="readingOrder {index:13;} concept_phy {offset:14; length:20;}">
                 <Coords points="815,3842 3383,3846 3383,3678 3256,3637 1903,3716 1643,3617 1116,3709 816,3639"/>
                 <Baseline points="844,3804 969,3803 1094,3802 1220,3802 1345,3800 1471,3800 1596,3801 1721,3802 1847,3802 1972,3802 2098,3802 2223,3804 2348,3804 2474,3804 2599,3804 2725,3806 2850,3806 2975,3806 3101,3804 3226,3804 3352,3802"/>
                 <TextEquiv>
@@ -164,14 +164,14 @@ Resultate der exakten Wissenschaft.</Unicode>
                     <Unicode>dahingestellt sein lassen und wollen nur dem weiteren Gedanken¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:2;} textStyle {offset:6; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l18" custom="readingOrder {index:2;} textStyle {offset:6; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:6; length:9;ID:P0007;}">
                 <Coords points="832,4462 5320,4486 5483,4301 833,4271"/>
                 <Baseline points="860,4406 1089,4404 1319,4404 1549,4404 1778,4404 2008,4404 2238,4404 2467,4406 2697,4406 2927,4408 3157,4410 3386,4410 3616,4412 3846,4412 4075,4414 4305,4414 4535,4414 4764,4414 4994,4414 5224,4412 5454,4410"/>
                 <TextEquiv>
                     <Unicode>gange Hauptmann's nachgehen, um zu zeigen, wie in dem</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:3;}">
+            <TextLine id="r1l19" custom="readingOrder {index:3;} concept_mus {offset:27; length:13;} m_tonality {offset:43; length:3;} m_tonality {offset:52; length:14;}">
                 <Coords points="814,4606 5459,4636 5459,4486 5211,4450 815,4508"/>
                 <Baseline points="846,4600 1075,4602 1304,4602 1533,4604 1762,4604 1992,4606 2221,4606 2450,4606 2679,4606 2908,4608 3138,4608 3367,4608 3596,4608 3825,4608 4054,4610 4284,4610 4513,4610 4742,4612 4971,4614 5200,4614 5430,4616"/>
                 <TextEquiv>
@@ -185,63 +185,63 @@ Resultate der exakten Wissenschaft.</Unicode>
                     <Unicode>als Gegensätze betrachtender — Anschauung liegt, der für die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:5;}">
+            <TextLine id="r1l21" custom="readingOrder {index:5;} concept_mus {offset:6; length:20;}">
                 <Coords points="836,5070 5452,5024 5452,4897 5111,4838 837,4902"/>
                 <Baseline points="866,5004 1093,5003 1321,5002 1549,5002 1777,5002 2005,5002 2232,5004 2460,5005 2688,5006 2916,5008 3144,5010 3371,5012 3599,5012 3827,5014 4055,5016 4283,5016 4510,5016 4738,5016 4966,5016 5194,5014 5422,5012"/>
                 <TextEquiv>
                     <Unicode>ganze musikalische Theorie fruchtbar und entscheidend hätte wer¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:6;}">
+            <TextLine id="r1l22" custom="readingOrder {index:6;} m_interval {offset:23; length:10;} m_chord {offset:42; length:9;}">
                 <Coords points="812,5214 4825,5301 5444,5279 5445,5100 812,5081"/>
                 <Baseline points="840,5196 1068,5200 1297,5202 1526,5206 1754,5208 1983,5208 2212,5210 2440,5210 2669,5210 2898,5212 3127,5212 3355,5212 3584,5212 3813,5212 4041,5212 4270,5212 4499,5212 4727,5214 4956,5214 5185,5216 5414,5216"/>
                 <TextEquiv>
                     <Unicode>den können. Da ihm die große Terz das den Dreiklang bestim¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:7;}">
+            <TextLine id="r1l23" custom="readingOrder {index:7;} concept_mus {offset:13; length:20;}">
                 <Coords points="810,5469 5495,5460 5495,5315 5062,5267 811,5284"/>
                 <Baseline points="840,5398 1071,5400 1302,5404 1533,5406 1764,5408 1996,5410 2227,5410 2458,5412 2689,5412 2920,5414 3152,5414 3383,5414 3614,5416 3845,5416 4076,5416 4308,5418 4539,5418 4770,5418 5001,5420 5232,5420 5464,5422"/>
                 <TextEquiv>
                     <Unicode>mende und zu harmonischer Einheit vollendende Moment ist, so</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:8;}">
+            <TextLine id="r1l24" custom="readingOrder {index:8;} m_interval {offset:8; length:12;}">
                 <Coords points="817,5625 5086,5699 5480,5538 818,5463"/>
                 <Baseline points="844,5602 1074,5604 1304,5606 1535,5608 1765,5610 1996,5612 2226,5614 2456,5614 2687,5616 2917,5616 3148,5618 3378,5618 3608,5620 3839,5620 4069,5620 4300,5620 4530,5620 4760,5620 4991,5620 5221,5620 5452,5620"/>
                 <TextEquiv>
                     <Unicode>ist der Durdreiklang allerdings die augenfälligste und nächstliegende</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:9;}">
+            <TextLine id="r1l25" custom="readingOrder {index:9;} concept_mus {offset:5; length:29;}">
                 <Coords points="804,5845 5466,5852 5206,5642 805,5631"/>
                 <Baseline points="832,5800 1062,5804 1292,5806 1522,5808 1753,5810 1983,5812 2213,5814 2444,5816 2674,5816 2904,5818 3135,5818 3365,5820 3595,5820 3825,5820 4056,5820 4286,5820 4516,5822 4747,5822 4977,5820 5207,5820 5438,5820"/>
                 <TextEquiv>
                     <Unicode>Form musikalischen Zusammenklanges. Betrachten wir einen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:10;} textStyle {offset:12; length:15;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l26" custom="readingOrder {index:10;} textStyle {offset:12; length:15;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:12; length:9;} m_chord {offset:22; length:15;}">
                 <Coords points="815,6023 5459,6089 5460,5852 815,5908"/>
                 <Baseline points="846,6008 1075,6008 1304,6010 1533,6012 1763,6013 1992,6014 2221,6016 2451,6018 2680,6018 2909,6020 3139,6020 3368,6022 3597,6022 3826,6022 4056,6022 4285,6022 4514,6022 4744,6022 4973,6022 5202,6020 5432,6018"/>
                 <TextEquiv>
                     <Unicode>solchen als tonischen Haupt-Dreiklang und stellen ihm als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:11;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l27" custom="readingOrder {index:11;} m_chord {offset:0; length:15;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:20; length:19;} concept_mus {offset:48; length:12; continued:true;}">
                 <Coords points="796,6271 5238,6287 5446,6270 5446,6085 796,6092"/>
                 <Baseline points="824,6204 1053,6206 1283,6210 1513,6212 1742,6214 1972,6216 2202,6216 2431,6218 2661,6218 2891,6218 3121,6220 3350,6220 3580,6220 3810,6220 4039,6220 4269,6218 4499,6218 4728,6218 4958,6218 5188,6218 5418,6218"/>
                 <TextEquiv>
                     <Unicode>Nebendreiklänge den unterdominantischen und den oberdominan¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:12;}">
+            <TextLine id="r1l28" custom="readingOrder {index:12;} concept_mus {offset:0; length:7; continued:true;} m_chord {offset:8; length:12;} m_tonality {offset:43; length:5;}">
                 <Coords points="814,6469 5459,6452 5361,6301 4748,6259 815,6255"/>
                 <Baseline points="846,6408 1075,6408 1304,6410 1533,6412 1762,6414 1992,6416 2221,6416 2450,6418 2679,6420 2908,6420 3138,6422 3367,6422 3596,6422 3825,6424 4054,6424 4284,6424 4513,6424 4742,6424 4971,6424 5200,6424 5430,6424"/>
                 <TextEquiv>
                     <Unicode>tischen Durdreiklang gegenüber, so ist die Skala und nach neueren</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:13;}">
+            <TextLine id="r1l29" custom="readingOrder {index:13;} m_tonality {offset:14; length:6;} m_tonality {offset:49; length:5;}">
                 <Coords points="821,6654 4968,6652 4968,6542 4477,6453 821,6469"/>
                 <Baseline points="850,6610 1054,6612 1259,6612 1463,6614 1668,6614 1872,6616 2077,6616 2281,6618 2486,6618 2690,6620 2895,6620 3099,6620 3304,6622 3508,6622 3713,6622 3917,6624 4122,6624 4326,6624 4531,6624 4735,6624 4940,6624"/>
                 <TextEquiv>
@@ -270,35 +270,35 @@ Begriffen die Tonart vollständig bestimmt, z. B. C-Dur:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1625585023805_615" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
             <Coords points="820,7242 5476,7242 5476,8281 820,8281"/>
-            <TextLine id="r1l34" custom="readingOrder {index:0;} textStyle {offset:48; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l34" custom="readingOrder {index:0;} m_interval {offset:42; length:5;} textStyle {offset:48; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:48; length:3;}">
                 <Coords points="914,7435 5431,7455 5431,7287 5246,7240 914,7302"/>
                 <Baseline points="942,7396 1164,7404 1387,7408 1610,7413 1833,7416 2056,7420 2279,7422 2502,7422 2725,7424 2948,7424 3171,7424 3393,7424 3616,7422 3839,7422 4062,7422 4285,7422 4508,7420 4731,7420 4954,7420 5177,7422 5400,7422"/>
                 <TextEquiv>
                     <Unicode>Wie sich aber durch den Zusammenklang der Quint C G</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:1;} textStyle {offset:55; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l35" custom="readingOrder {index:1;} m_interval {offset:8; length:5;} m_interval {offset:29; length:9;} m_interval {offset:43; length:11;} textStyle {offset:55; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:55; length:3;}">
                 <Coords points="807,7672 5388,7688 5452,7480 807,7516"/>
                 <Baseline points="836,7608 1065,7610 1294,7612 1523,7614 1752,7616 1982,7618 2211,7620 2440,7620 2669,7620 2898,7622 3128,7622 3357,7622 3586,7622 3815,7622 4044,7622 4274,7624 4503,7624 4732,7624 4961,7626 5190,7626 5420,7628"/>
                 <TextEquiv>
                     <Unicode>mit der Terze als sekundäres Intervall die kleine Terz e G bildet,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:2;}">
+            <TextLine id="r1l36" custom="readingOrder {index:2;} concept_mus {offset:43; length:9;} m_chord {offset:53; length:8; continued:true;}">
                 <Coords points="790,7845 5452,7897 5452,7706 5024,7647 791,7665"/>
                 <Baseline points="820,7806 1050,7808 1280,7812 1510,7814 1740,7816 1970,7816 2200,7818 2430,7818 2660,7818 2890,7820 3121,7820 3351,7820 3581,7820 3811,7820 4041,7820 4271,7820 4501,7820 4731,7820 4961,7820 5191,7822 5422,7824"/>
                 <TextEquiv>
                     <Unicode>so ergeben sich durch Zusammenstellung des tonischen Durdrei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:3;}">
+            <TextLine id="r1l37" custom="readingOrder {index:3;} m_chord {offset:0; length:6; continued:true;} concept_mus {offset:18; length:19;} m_chord {offset:38; length:13;}">
                 <Coords points="800,8031 2511,8154 5450,8056 5450,7894 5063,7870 800,7869"/>
                 <Baseline points="828,8004 1057,8008 1287,8010 1516,8012 1746,8014 1976,8016 2205,8016 2435,8018 2664,8018 2894,8020 3124,8020 3353,8020 3583,8022 3812,8022 4042,8022 4272,8024 4501,8024 4731,8024 4960,8026 5190,8026 5420,8028"/>
                 <TextEquiv>
                     <Unicode>klangs mit seinen durgeschlechtlichen Nebenaccorden noch vier</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:4;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l38" custom="readingOrder {index:4;} m_chord {offset:0; length:18;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:38; length:18;}">
                 <Coords points="805,8349 4143,8244 5074,8374 5438,8335 5439,8121 806,8071"/>
                 <Baseline points="832,8214 1060,8216 1289,8218 1518,8218 1747,8220 1976,8220 2204,8222 2433,8222 2662,8224 2891,8224 3120,8224 3348,8226 3577,8226 3806,8226 4035,8226 4264,8228 4492,8228 4721,8228 4950,8230 5179,8230 5408,8232"/>
                 <TextEquiv>

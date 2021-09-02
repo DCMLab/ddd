@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-02-19T15:36:43.362+01:00</Created>
-        <LastChange>2021-03-30T16:31:08.793+02:00</LastChange>
-        <TranskribusMetadata docId="614269" pageId="24400051" pageNr="25" tsid="54766974" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=BMCOHJXULWVQLIWCUSPEPXTZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TBUHMSLJPUYRRZMLKVGGWGQY" imageId="18780817"/>
+        <LastChange>2021-08-20T18:30:59.581+02:00</LastChange>
+        <TranskribusMetadata docId="742126" pageId="28196519" pageNr="25" tsid="63079325" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=AZGJKSTRBLMXSLSOHZATALPF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OEEAMMSGHOUUDNMYVZPZUUFY" imageId="21963721"/>
     </Metadata>
     <Page imageFilename="Weitzmann1861-0025.jpg" imageWidth="5000" imageHeight="7437" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196340760" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573783769" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1614201206070_2376"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1614201206070_2375"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1614201202661_2371"/>
@@ -149,7 +149,7 @@ werden.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1614201202661_2371" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
             <Coords points="802,2966 4478,2966 4478,5620 802,5620"/>
-            <TextLine id="r2l16" custom="readingOrder {index:0;}">
+            <TextLine id="r2l16" custom="readingOrder {index:0;} concept_mus {offset:23; length:11;} concept_phy {offset:23; length:11;} person_author {offset:47; length:2;ID:P0047;}">
                 <Coords points="1047,3112 4478,3115 4477,2972 4165,2927 1047,2956"/>
                 <Baseline points="1072,3086 1241,3086 1410,3086 1579,3086 1748,3086 1917,3086 2086,3086 2255,3086 2424,3086 2593,3086 2763,3086 2932,3086 3101,3086 3270,3086 3439,3086 3608,3084 3777,3084 3946,3082 4115,3080 4284,3078 4454,3076"/>
                 <TextEquiv>
@@ -163,28 +163,28 @@ werden.</Unicode>
                     <Unicode>Interesse einer gleichmäßigen Theorie” nur einen Irrthum</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l18" custom="readingOrder {index:2;} textStyle {offset:46; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l18" custom="readingOrder {index:2;} textStyle {offset:46; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:46; length:10;}">
                 <Coords points="798,3447 4325,3460 4499,3432 4499,3286 798,3305"/>
                 <Baseline points="822,3400 1004,3398 1187,3396 1369,3396 1552,3394 1735,3394 1917,3394 2100,3394 2282,3394 2465,3394 2648,3394 2830,3394 3013,3394 3195,3394 3378,3394 3561,3392 3743,3392 3926,3390 4108,3388 4291,3386 4474,3382"/>
                 <TextEquiv>
                     <Unicode>zu berichtigen. Er behauptet nämlich, daß die Vorschläge</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l19" custom="readingOrder {index:3;} textStyle {offset:10; length:14;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:38; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l19" custom="readingOrder {index:3;} textStyle {offset:10; length:14;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:10; length:14;} textStyle {offset:38; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:38; length:12; continued:true;}">
                 <Coords points="802,3574 4467,3588 4494,3441 802,3455"/>
                 <Baseline points="824,3550 1006,3550 1188,3550 1371,3552 1553,3552 1736,3552 1918,3552 2100,3552 2283,3550 2465,3550 2648,3550 2830,3550 3012,3548 3195,3548 3377,3546 3560,3544 3742,3544 3924,3542 4107,3540 4289,3538 4472,3536"/>
                 <TextEquiv>
                     <Unicode>nicht den unaccentuirten, sondern den accentuirten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l20" custom="readingOrder {index:4;}">
+            <TextLine id="r2l20" custom="readingOrder {index:4;} concept_mus {offset:0; length:11; continued:true;} concept_mus {offset:54; length:7;}">
                 <Coords points="789,3734 4490,3716 4388,3556 788,3601"/>
                 <Baseline points="810,3702 992,3704 1175,3706 1358,3706 1541,3706 1724,3706 1906,3706 2089,3706 2272,3704 2455,3704 2638,3702 2820,3702 3003,3700 3186,3698 3369,3696 3552,3696 3734,3694 3917,3692 4100,3692 4283,3690 4466,3690"/>
                 <TextEquiv>
                     <Unicode>Takttheilen angehörten, weil der Unterschied zwischen Vorhalt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l21" custom="readingOrder {index:5;} textStyle {offset:49; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l21" custom="readingOrder {index:5;} concept_mus {offset:4; length:9;} textStyle {offset:49; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="784,3904 4357,3896 4485,3726 784,3762"/>
                 <Baseline points="808,3854 990,3856 1173,3858 1356,3858 1539,3860 1722,3860 1904,3860 2087,3860 2270,3860 2453,3858 2636,3858 2818,3856 3001,3856 3184,3854 3367,3852 3550,3850 3732,3848 3915,3846 4098,3844 4281,3842 4464,3840"/>
                 <TextEquiv>
@@ -198,70 +198,70 @@ werden.</Unicode>
                     <Unicode>sei, der zweite aber nicht. Meiner Meinung nach aber können</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l23" custom="readingOrder {index:7;}">
+            <TextLine id="r2l23" custom="readingOrder {index:7;} concept_mus {offset:4; length:10;} concept_mus {offset:28; length:15;}">
                 <Coords points="793,4193 4485,4191 4411,4022 793,4051"/>
                 <Baseline points="818,4166 1000,4166 1182,4168 1364,4168 1546,4168 1729,4168 1911,4168 2093,4168 2275,4168 2457,4166 2640,4166 2822,4166 3004,4164 3186,4164 3368,4162 3551,4160 3733,4159 3915,4157 4097,4155 4279,4152 4462,4150"/>
                 <TextEquiv>
                     <Unicode>die Vorschläge wohl mit den Durchgangstönen, niemals aber</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l24" custom="readingOrder {index:8;}">
+            <TextLine id="r2l24" custom="readingOrder {index:8;} concept_mus {offset:8; length:20;}">
                 <Coords points="785,4341 4192,4376 4481,4342 4481,4205 784,4235"/>
                 <Baseline points="808,4318 990,4319 1173,4320 1355,4322 1538,4322 1720,4322 1903,4322 2085,4324 2268,4324 2450,4322 2633,4322 2815,4322 2998,4320 3180,4320 3363,4318 3545,4316 3728,4315 3910,4314 4093,4311 4275,4308 4458,4306"/>
                 <TextEquiv>
                     <Unicode>mit den gebundenen Vorhalten in eine Klasse gestellt werden.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l25" custom="readingOrder {index:9;}">
+            <TextLine id="r2l25" custom="readingOrder {index:9;} concept_mus {offset:5; length:10;} concept_mus {offset:27; length:14;}">
                 <Coords points="802,4510 4485,4504 4416,4326 802,4345"/>
                 <Baseline points="826,4474 1007,4476 1189,4476 1371,4476 1552,4478 1734,4478 1916,4478 2097,4478 2279,4478 2461,4477 2643,4476 2824,4476 3006,4474 3188,4474 3369,4472 3551,4470 3733,4469 3914,4468 4096,4464 4278,4462 4460,4460"/>
                 <TextEquiv>
                     <Unicode>Denn Vorschläge sowohl wie Durchgangstöne dürfen jederzeit</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l26" custom="readingOrder {index:10;}">
+            <TextLine id="r2l26" custom="readingOrder {index:10;} concept_mus {offset:0; length:11;} concept_mus {offset:26; length:9;} concept_mus {offset:53; length:6;}">
                 <Coords points="785,4656 4500,4627 4500,4522 4197,4491 785,4514"/>
                 <Baseline points="810,4630 993,4630 1176,4632 1360,4632 1543,4632 1727,4632 1910,4632 2093,4632 2277,4632 2460,4630 2644,4630 2827,4630 3010,4628 3194,4628 3377,4626 3561,4624 3744,4624 3927,4621 4111,4620 4294,4616 4478,4614"/>
                 <TextEquiv>
                     <Unicode>Dissonanzen bilden, deren Auflösung in einer anderen Stimme</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l27" custom="readingOrder {index:11;}">
+            <TextLine id="r2l27" custom="readingOrder {index:11;} concept_mus {offset:42; length:9;}">
                 <Coords points="809,4844 4304,4839 4473,4792 4473,4650 808,4693"/>
                 <Baseline points="830,4790 1011,4790 1192,4788 1373,4788 1554,4788 1735,4786 1916,4786 2097,4786 2278,4784 2459,4784 2640,4784 2821,4782 3002,4782 3183,4782 3364,4780 3545,4780 3726,4778 3907,4778 4088,4776 4269,4776 4450,4774"/>
                 <TextEquiv>
                     <Unicode>gleichzeitig schon vorhanden ist, bei den Vorhalten jedoch ge¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l28" custom="readingOrder {index:12;} textStyle {offset:45; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l28" custom="readingOrder {index:12;} m_chord {offset:14; length:4;} concept_mus {offset:39; length:5;} textStyle {offset:45; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="793,4963 3545,5011 4452,4956 4484,4796 792,4840"/>
                 <Baseline points="816,4940 998,4940 1180,4940 1362,4940 1544,4940 1727,4941 1909,4942 2091,4942 2273,4942 2455,4942 2638,4940 2820,4940 3002,4940 3184,4938 3366,4936 3549,4934 3731,4932 3913,4930 4095,4927 4277,4924 4460,4920"/>
                 <TextEquiv>
                     <Unicode>nießt nur die None das Recht, einem im Basse schon vor¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l29" custom="readingOrder {index:13;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l29" custom="readingOrder {index:13;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:9; length:4;} concept_mus {offset:31; length:11;}">
                 <Coords points="799,5130 3689,5158 4486,5110 4486,4972 799,4988"/>
                 <Baseline points="822,5092 1004,5094 1186,5096 1368,5096 1550,5096 1732,5096 1914,5096 2096,5096 2278,5096 2460,5096 2642,5096 2824,5094 3006,5094 3188,5092 3370,5091 3552,5090 3734,5088 3916,5088 4098,5086 4280,5086 4462,5086"/>
                 <TextEquiv>
                     <Unicode>handenen Tone gleichzeitig als Verzögerung zu dienen.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l30" custom="readingOrder {index:14;} textStyle {offset:47; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l30" custom="readingOrder {index:14;} textStyle {offset:47; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:47; length:7;ID:P0047;}">
                 <Coords points="797,5245 4471,5295 4471,5121 4315,5112 797,5135"/>
                 <Baseline points="822,5246 1003,5248 1184,5250 1366,5250 1547,5252 1729,5252 1910,5252 2091,5252 2273,5252 2454,5252 2636,5252 2817,5252 2998,5250 3180,5250 3361,5248 3543,5248 3724,5246 3905,5244 4087,5242 4268,5240 4450,5238"/>
                 <TextEquiv>
                     <Unicode>Das folgende Beispiel bei 1 enthält nach Herrn Bagge's</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l31" custom="readingOrder {index:15;} textStyle {offset:8; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:44; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l31" custom="readingOrder {index:15;} concept_mus {offset:0; length:7;} textStyle {offset:8; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:44; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="808,5451 4500,5422 4381,5253 808,5272"/>
                 <Baseline points="830,5398 1012,5402 1194,5406 1376,5408 1559,5410 1741,5412 1923,5412 2106,5414 2288,5414 2470,5412 2653,5412 2835,5411 3017,5410 3199,5408 3382,5406 3564,5404 3746,5402 3929,5400 4111,5398 4293,5396 4476,5394"/>
                 <TextEquiv>
                     <Unicode>Theorie regelmäßige, nach der meinen jedoch unrichtige</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l32" custom="readingOrder {index:16;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l32" custom="readingOrder {index:16;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:8;}">
                 <Coords points="779,5595 1109,5574 1191,5625 1338,5580 1604,5614 1605,5431 1527,5467 1408,5416 1247,5447 1174,5414 1119,5469 1073,5450 1045,5478 885,5422 779,5453"/>
                 <Baseline points="802,5548 841,5553 880,5556 919,5560 958,5562 997,5562 1036,5562 1075,5562 1114,5562 1153,5562 1192,5560 1231,5559 1270,5558 1309,5558 1348,5558 1387,5558 1426,5558 1465,5560 1504,5561 1543,5564 1582,5568"/>
                 <TextEquiv>

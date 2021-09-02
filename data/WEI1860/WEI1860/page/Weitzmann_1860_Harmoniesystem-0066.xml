@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-02-19T15:11:51.052+01:00</Created>
-        <LastChange>2021-03-29T20:24:41.817+02:00</LastChange>
-        <TranskribusMetadata docId="614265" pageId="24399928" pageNr="66" tsid="54540536" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=RKZHZEKUPJULWGRHISBSHGSO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MTOVHPZMJDHDVFUEBHUSWGXE" imageId="18780694"/>
+        <LastChange>2021-08-17T12:16:57.218+02:00</LastChange>
+        <TranskribusMetadata docId="738834" pageId="28121576" pageNr="66" tsid="62686043" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=YYVLUULOPHTENWLWYGNCTSRK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EYWIALZZAMHSUOSPCLJGRNYJ" imageId="21904946"/>
     </Metadata>
     <Page imageFilename="Weitzmann_1860_Harmoniesystem-0066.jpg" imageWidth="1353" imageHeight="2142" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196443129" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573947406" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1614168654981_2087"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1614168654981_2086"/>
                 <RegionRefIndexed index="2" regionRef="region_1617042269926_748"/>
@@ -32,35 +32,35 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1614168654981_2086" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
             <Coords points="167,239 1172,239 1172,539 167,539"/>
-            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+            <TextLine id="r2l2" custom="readingOrder {index:0;} concept_mus {offset:12; length:9;} m_chord {offset:22; length:13;} m_chord {offset:40; length:17; continued:true;}">
                 <Coords points="160,307 1174,300 1160,261 160,267"/>
                 <Baseline points="167,296 217,295 267,294 317,294 367,294 417,294 467,294 517,294 567,294 617,295 667,295 717,296 767,296 817,297 867,297 917,297 967,297 1017,297 1067,297 1117,297 1167,296"/>
                 <TextEquiv>
                     <Unicode>welcher dem tonischen Durdreiklange der Oberdominantdrei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+            <TextLine id="r2l3" custom="readingOrder {index:1;} m_chord {offset:0; length:5; continued:true;}">
                 <Coords points="166,347 1172,354 1153,308 451,330 166,308"/>
                 <Baseline points="172,338 221,338 271,338 320,338 370,338 420,338 469,338 519,338 569,337 618,337 668,337 718,337 767,337 817,338 867,338 916,338 966,339 1016,339 1065,340 1115,341 1165,343"/>
                 <TextEquiv>
                     <Unicode>klang vorangeht, oder andere noch besonders zu besprechende</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+            <TextLine id="r2l4" custom="readingOrder {index:2;} concept_mus {offset:0; length:12;} m_tonality {offset:39; length:10;}">
                 <Coords points="173,392 1174,387 1174,350 799,372 173,348"/>
                 <Baseline points="179,381 228,381 277,381 327,380 376,380 426,380 475,380 525,380 574,380 624,380 673,380 722,380 772,380 821,381 871,381 920,381 970,382 1019,382 1069,382 1118,383 1168,383"/>
                 <TextEquiv>
                     <Unicode>Accordfolgen in Anwendung bringen. Die Molltonart ge¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+            <TextLine id="r2l5" custom="readingOrder {index:3;} m_chord {offset:45; length:17; continued:true;}">
                 <Coords points="167,429 1177,425 1153,391 167,394"/>
                 <Baseline points="173,423 222,423 272,423 322,422 372,422 422,422 472,422 522,422 572,423 622,423 672,423 721,423 771,423 821,423 871,423 921,423 971,424 1021,424 1071,424 1121,424 1171,423"/>
                 <TextEquiv>
                     <Unicode>braucht, wie schon bemerkt, jederzeit da den Oberdominantdrei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+            <TextLine id="r2l6" custom="readingOrder {index:4;} m_chord {offset:0; length:5; continued:true;} m_tonality {offset:14; length:9;} m_chord {offset:28; length:19;}">
                 <Coords points="167,475 1178,479 1168,436 167,435"/>
                 <Baseline points="173,466 225,465 278,465 330,465 383,465 435,464 488,464 541,464 593,465 646,465 698,465 751,465 803,465 856,466 909,466 961,466 1014,466 1066,467 1119,467 1172,467"/>
                 <TextEquiv>

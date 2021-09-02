@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-02-19T15:11:48.442+01:00</Created>
-        <LastChange>2021-06-10T10:55:52.647+02:00</LastChange>
-        <TranskribusMetadata docId="614265" pageId="24399874" pageNr="12" tsid="58901258" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=CCQUJBQRPCMLHVNMKIBCFYRB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BYMOKFLQDVXJQYWHHRJNSHPA" imageId="18780640"/>
+        <LastChange>2021-08-16T18:56:17.704+02:00</LastChange>
+        <TranskribusMetadata docId="738834" pageId="28121491" pageNr="12" tsid="62668696" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=AWGQFJKGNJYSPQEMJSCXDCCN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ANIVMIYYUDWPHAMZNCBCHTAL" imageId="21904861"/>
     </Metadata>
     <Page imageFilename="Weitzmann_1860_Harmoniesystem-0012.jpg" imageWidth="1387" imageHeight="2167" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196436201" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573939536" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1614087572792_238"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1614087572791_237"/>
             </OrderedGroup>
@@ -32,7 +32,7 @@ Transkribus</Creator>
                     <Unicode>und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:2;} textStyle {offset:0; length:35;fontSize:0.0; kerning:0; bold:true;}">
+            <TextLine id="r1l3" custom="readingOrder {index:2;} textStyle {offset:0; length:35;fontSize:0.0; kerning:0; bold:true;} concept_mus {offset:0; length:35;}">
                 <Coords points="234,788 328,811 486,812 511,787 758,811 803,784 1145,809 1145,738 235,741"/>
                 <Baseline points="241,786 285,786 330,787 375,787 420,787 465,786 510,786 554,786 599,786 644,785 689,785 734,785 779,785 824,785 868,786 913,786 958,787 1003,788 1048,790 1093,792 1138,794"/>
                 <TextEquiv>
@@ -53,7 +53,7 @@ Transkribus</Creator>
                     <Unicode>durch die neuesten Kunstschöpfungen bewirkten Umgestaltung und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+            <TextLine id="r1l6" custom="readingOrder {index:5;} concept_mus {offset:18; length:8;}">
                 <Coords points="467,1063 687,1074 748,1061 762,1075 919,1066 919,1027 899,1019 467,1023"/>
                 <Baseline points="473,1052 498,1053 524,1053 550,1053 576,1054 602,1054 627,1054 653,1054 679,1054 705,1055 731,1055 757,1055 782,1055 808,1055 834,1056 860,1056 886,1056 912,1057"/>
                 <TextEquiv>
@@ -78,7 +78,7 @@ Weiterbildung der Harmonik.</Unicode>
                     <Unicode>„Dicemo adunque, che quantunque la scienza</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:1;}">
+            <TextLine id="r1l8" custom="readingOrder {index:1;} concept_mus {offset:6; length:6;}">
                 <Coords points="597,1219 1163,1221 1150,1196 597,1195"/>
                 <Baseline points="603,1212 630,1212 658,1211 685,1211 713,1211 741,1211 768,1211 796,1211 824,1211 851,1211 879,1212 907,1212 934,1212 962,1212 990,1213 1017,1213 1045,1213 1073,1213 1100,1213 1128,1213 1156,1213"/>
                 <TextEquiv>
@@ -120,7 +120,7 @@ Weiterbildung der Harmonik.</Unicode>
                     <Unicode>dare tal giuditio tutto alla ragione, lassando</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+            <TextLine id="r1l14" custom="readingOrder {index:7;} textStyle {offset:12; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="600,1378 1160,1377 1160,1354 1136,1349 600,1352"/>
                 <Baseline points="606,1367 633,1366 660,1366 688,1366 715,1366 743,1366 770,1365 797,1365 825,1365 852,1365 880,1365 907,1365 934,1366 962,1366 989,1366 1017,1366 1044,1366 1071,1366 1099,1367 1126,1367 1154,1367"/>
                 <TextEquiv>
@@ -134,7 +134,7 @@ Weiterbildung der Harmonik.</Unicode>
                     <Unicode>potrà sempre essere cagione di errore.”</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:9;} textStyle {offset:0; length:16;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l16" custom="readingOrder {index:9;} textStyle {offset:0; length:16;italic:true; fontSize:0.0; kerning:0;} person_author {offset:0; length:16;ID:P0010;} time {offset:18; length:4;}">
                 <Coords points="862,1434 921,1435 930,1443 969,1433 1054,1443 1139,1436 1139,1403 1081,1403 1068,1416 1037,1404 935,1404 920,1413 904,1404 863,1407"/>
                 <Baseline points="869,1426 895,1427 921,1427 948,1427 974,1428 1001,1428 1027,1429 1053,1429 1080,1429 1106,1429 1133,1429"/>
                 <TextEquiv>

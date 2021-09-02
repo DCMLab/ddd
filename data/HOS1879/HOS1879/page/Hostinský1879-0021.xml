@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:30.346+01:00</Created>
-        <LastChange>2021-07-15T17:40:45.343+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902389" pageNr="21" tsid="61494138" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=TIGKHRKYBFLQNWLTXSTFIMBM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IOLMPRXGSMZDWUNTPPRBEPNV" imageId="17865694"/>
+        <LastChange>2021-08-24T16:22:38.430+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28701730" pageNr="21" tsid="63278534" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=GCJGIWKWNRHDKWQJSNSYLXVT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KMPDRWNDESETKYSMEHWGRFPZ" imageId="22424816"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0021.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454106017" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573571318" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626092880580_459"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626092880580_458"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1626092878446_454"/>
@@ -34,7 +34,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626092880580_458" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="136,132 1293,132 1293,869 136,869"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_phy {offset:0; length:5;} concept_mus {offset:21; length:5;}">
                 <Coords points="133,193 1288,196 1300,144 133,147"/>
                 <Baseline points="140,184 197,184 255,184 312,184 370,184 428,184 485,184 543,184 601,184 658,184 716,184 774,184 831,184 889,184 947,184 1004,184 1062,184 1120,184 1177,184 1235,183 1293,183"/>
                 <TextEquiv>
@@ -48,21 +48,21 @@ Transkribus</Creator>
                     <Unicode>hat, als in der verschieden vertheilten dynamischen Geltung</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_phy {offset:20; length:15;} concept_phy {offset:36; length:8;}">
                 <Coords points="143,283 1296,282 1296,244 1182,235 143,236"/>
                 <Baseline points="151,271 207,271 264,271 321,271 378,271 435,271 492,271 549,271 606,271 663,271 720,270 776,270 833,270 890,270 947,270 1004,270 1061,270 1118,270 1175,270 1232,270 1289,270"/>
                 <TextEquiv>
                     <Unicode>der an und für sich gleichgefärbten Elemente einer bestimmten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:48; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_phy {offset:0; length:8;} person_author {offset:48; length:9;ID:P0113;} textStyle {offset:48; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="147,323 1297,323 1297,283 147,284"/>
                 <Baseline points="154,313 210,313 267,313 324,313 381,313 437,313 494,313 551,313 608,313 664,313 721,313 778,313 835,313 891,313 948,313 1005,313 1062,313 1118,313 1175,313 1232,313 1289,313"/>
                 <TextEquiv>
                     <Unicode>Tonmasse, bestätigt also praktisch die Theorien Fourier's und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;} textStyle {offset:0; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} person_author {offset:0; length:5;ID:P0114;} textStyle {offset:0; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="138,364 1297,364 1297,332 1223,323 138,323"/>
                 <Baseline points="145,354 202,355 259,355 316,355 374,355 431,355 488,355 545,355 603,355 660,355 717,355 774,355 832,355 889,355 946,355 1003,355 1061,355 1118,355 1175,355 1232,355 1290,355"/>
                 <TextEquiv>
@@ -76,35 +76,35 @@ Transkribus</Creator>
                     <Unicode>betrachten, dass alles Zusammensetzen und alles Zerlegen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;} textStyle {offset:0; length:48;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} textStyle {offset:0; length:48;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:4; length:20;} concept_phy {offset:29; length:11;}">
                 <Coords points="145,452 1291,459 1291,413 1138,405 145,410"/>
                 <Baseline points="152,439 208,439 265,439 321,439 378,439 435,440 491,440 548,440 604,440 661,440 718,440 774,440 831,440 887,440 944,440 1001,440 1057,440 1114,440 1170,440 1227,439 1284,439"/>
                 <TextEquiv>
                     <Unicode>der musikalischen Klänge ein psychischer Vorgang</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:7;} textStyle {offset:0; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;} textStyle {offset:0; length:3;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:34; length:11;}">
                 <Coords points="137,492 1296,488 1273,451 137,451"/>
                 <Baseline points="145,482 202,482 259,482 316,481 373,481 430,481 487,481 545,481 602,481 659,481 716,481 773,481 830,481 887,481 945,481 1002,481 1059,481 1116,481 1173,481 1230,481 1288,481"/>
                 <TextEquiv>
                     <Unicode>ist, dass sich die Thätigkeit der Gehörnerven hierbei auf die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+            <TextLine id="r1l10" custom="readingOrder {index:8;} concept_phy {offset:32; length:21;}">
                 <Coords points="140,532 1288,529 1288,500 1065,492 140,492"/>
                 <Baseline points="147,522 203,523 260,523 317,524 373,524 430,524 487,524 543,524 600,524 657,524 714,524 770,524 827,524 884,524 940,524 997,524 1054,523 1110,523 1167,523 1224,523 1281,523"/>
                 <TextEquiv>
                     <Unicode>Uebermittlung der einzelnen den einfachen Schwingungen ent¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+            <TextLine id="r1l11" custom="readingOrder {index:9;} concept_phy {offset:12; length:5;}">
                 <Coords points="142,579 1281,579 1296,537 142,538"/>
                 <Baseline points="149,564 208,564 268,565 328,565 388,566 448,566 508,566 568,566 628,566 688,566 748,566 808,566 868,566 928,566 988,566 1048,566 1108,566 1168,566 1228,567 1288,567"/>
                 <TextEquiv>
                     <Unicode>sprechenden Reize an die Seele beschränkt, welche dieselben dann</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+            <TextLine id="r1l12" custom="readingOrder {index:10;} concept_mus {offset:24; length:15;}">
                 <Coords points="141,619 1280,619 1290,581 141,586"/>
                 <Baseline points="148,608 204,608 261,608 318,608 375,608 431,608 488,608 545,608 602,608 658,608 715,608 772,608 829,609 885,609 942,609 999,608 1056,608 1112,608 1169,608 1226,607 1283,607"/>
                 <TextEquiv>
@@ -125,21 +125,21 @@ Transkribus</Creator>
                     <Unicode>fasst oder die Zusammengesetzten wieder zerlegt. Mit anderen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+            <TextLine id="r1l15" custom="readingOrder {index:13;} concept_mus {offset:49; length:12;}">
                 <Coords points="146,740 1296,747 1260,700 146,700"/>
                 <Baseline points="153,732 209,733 266,734 323,734 380,735 436,735 493,735 550,736 607,736 663,736 720,736 777,736 834,735 890,735 947,735 1004,735 1061,735 1117,735 1174,736 1231,736 1288,736"/>
                 <TextEquiv>
                     <Unicode>Worten: Die Resultirende mehrerer gleichzeitiger Toneindrücke</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+            <TextLine id="r1l16" custom="readingOrder {index:14;} concept_phy {offset:46; length:11;}">
                 <Coords points="135,786 1187,794 1291,787 1291,747 135,755"/>
                 <Baseline points="143,777 200,777 257,777 314,777 371,777 428,777 485,778 542,778 599,778 656,778 713,778 770,778 827,778 884,778 941,778 998,778 1055,778 1112,778 1169,778 1226,777 1284,777"/>
                 <TextEquiv>
                     <Unicode>setzt sich erst innerhalb der Seele, also aus psychischen, nicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+            <TextLine id="r1l17" custom="readingOrder {index:15;} concept_phy {offset:27; length:6;} concept_phy {offset:38; length:10;} concept_phy {offset:49; length:11;}">
                 <Coords points="138,827 1284,826 1262,794 138,792"/>
                 <Baseline points="146,818 202,818 259,819 315,819 372,820 428,820 485,820 541,821 598,821 654,821 711,821 768,821 824,821 881,821 937,821 994,821 1050,821 1107,821 1163,821 1220,820 1277,820"/>
                 <TextEquiv>
@@ -175,35 +175,35 @@ sammen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1626092878446_454" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
             <Coords points="136,869 1293,869 1293,1080 136,1080"/>
-            <TextLine id="r1l19" custom="readingOrder {index:0;}">
+            <TextLine id="r1l19" custom="readingOrder {index:0;} concept_phy {offset:26; length:5;} concept_mus {offset:43; length:13; continued:true;}">
                 <Coords points="226,915 1292,915 1292,883 1146,867 226,875"/>
                 <Baseline points="233,902 285,902 338,903 390,903 443,903 496,903 548,904 601,904 653,904 706,904 759,904 811,904 864,904 916,905 969,905 1022,905 1074,905 1127,905 1179,904 1232,904 1285,904"/>
                 <TextEquiv>
                     <Unicode>Wenn wir schliesslich die Reihe der in den musikalischen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:1;}">
+            <TextLine id="r1l20" custom="readingOrder {index:1;} concept_mus {offset:0; length:7; continued:true;} concept_phy {offset:49; length:9;}">
                 <Coords points="137,955 1285,948 1232,916 137,916"/>
                 <Baseline points="144,946 200,946 257,945 314,945 370,945 427,946 484,946 540,946 597,946 654,946 711,947 767,947 824,947 881,947 937,947 994,947 1051,946 1107,946 1164,945 1221,945 1278,944"/>
                 <TextEquiv>
                     <Unicode>Klängen mehr oder minder vollständig enthaltenen Theiltöne über¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:2;}">
+            <TextLine id="r1l21" custom="readingOrder {index:2;} m_interval {offset:40; length:10;}">
                 <Coords points="136,1003 1293,1004 1293,968 1224,955 136,964"/>
                 <Baseline points="143,988 200,988 257,988 314,988 371,988 428,988 485,988 543,989 600,989 657,989 714,989 771,989 828,989 885,989 943,989 1000,989 1057,989 1114,989 1171,989 1228,989 1286,989"/>
                 <TextEquiv>
                     <Unicode>schauen und zugleich ihre Abstände oder Intervalle berücksichtigen,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:3;} textStyle {offset:51; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l22" custom="readingOrder {index:3;} textStyle {offset:51; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:51; length:8; continued:true;}">
                 <Coords points="137,1043 1283,1040 1270,995 138,1007"/>
                 <Baseline points="144,1030 200,1030 257,1030 313,1030 370,1030 427,1030 483,1030 540,1031 596,1031 653,1031 710,1031 766,1032 823,1032 879,1032 936,1032 993,1032 1049,1032 1106,1032 1162,1032 1219,1032 1276,1031"/>
                 <TextEquiv>
                     <Unicode>so sehen wir sogleich ein, warum man sie auch die „harmoni¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:4;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l23" custom="readingOrder {index:4;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:5; continued:true;} concept_phy {offset:7; length:11;}">
                 <Coords points="134,1083 255,1083 283,1065 304,1083 612,1083 612,1052 593,1046 491,1054 267,1037 235,1052 134,1049"/>
                 <Baseline points="142,1073 167,1073 193,1073 219,1073 244,1072 270,1072 296,1072 322,1072 347,1072 373,1072 399,1072 424,1072 450,1072 476,1072 502,1072 527,1072 553,1073 579,1073 605,1074"/>
                 <TextEquiv>
@@ -230,21 +230,21 @@ schen” Partialtöne nennt:</Unicode>
                     <Unicode>Dieses Schema bedarf keiner weiteren Erläuterung. So viel zeigt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l41" custom="readingOrder {index:1;}">
+            <TextLine id="r1l41" custom="readingOrder {index:1;} concept_phy {offset:59; length:9;}">
                 <Coords points="131,1451 1283,1451 1293,1416 131,1418"/>
                 <Baseline points="139,1440 196,1440 253,1440 311,1440 368,1440 425,1440 483,1441 540,1441 597,1441 655,1441 712,1441 769,1441 827,1441 884,1441 941,1441 999,1441 1056,1441 1113,1441 1171,1441 1228,1441 1286,1440"/>
                 <TextEquiv>
                     <Unicode>sich gleich auf den ersten Blick, dass die Existenz dieser Theiltöne</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l42" custom="readingOrder {index:2;}">
+            <TextLine id="r1l42" custom="readingOrder {index:2;} concept_mus {offset:8; length:7;} concept_mus {offset:20; length:5;} concept_phy {offset:50; length:10;}">
                 <Coords points="136,1492 1295,1499 1254,1451 137,1451"/>
                 <Baseline points="144,1481 201,1481 258,1481 315,1481 372,1481 430,1481 487,1482 544,1482 601,1482 658,1482 716,1483 773,1483 830,1483 887,1483 944,1483 1002,1484 1059,1483 1116,1483 1173,1483 1230,1483 1288,1482"/>
                 <TextEquiv>
                     <Unicode>für die Theorie der Musik, ganz abgesehen von der Klangfarbe,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l43" custom="readingOrder {index:3;} textStyle {offset:22; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l43" custom="readingOrder {index:3;} concept_mus {offset:22; length:30;} textStyle {offset:22; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="136,1531 1268,1531 1286,1498 136,1500"/>
                 <Baseline points="143,1523 199,1523 256,1523 313,1523 370,1523 427,1523 483,1523 540,1523 597,1523 654,1523 711,1524 767,1524 824,1524 881,1524 938,1524 995,1524 1051,1524 1108,1524 1165,1523 1222,1523 1279,1523"/>
                 <TextEquiv>
@@ -258,21 +258,21 @@ schen” Partialtöne nennt:</Unicode>
                     <Unicode>Wichtigkeit sein dürfte. Doch bevor wir zur Erörterung dieser</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l45" custom="readingOrder {index:5;}">
+            <TextLine id="r1l45" custom="readingOrder {index:5;} concept_phy {offset:41; length:14;} concept_phy {offset:60; length:4; continued:true;}">
                 <Coords points="128,1620 1287,1604 1239,1571 128,1571"/>
                 <Baseline points="136,1605 193,1605 250,1605 307,1605 364,1605 422,1605 479,1605 536,1605 593,1606 650,1606 708,1606 765,1606 822,1606 879,1606 936,1606 994,1606 1051,1606 1108,1606 1165,1606 1222,1605 1280,1605"/>
                 <TextEquiv>
                     <Unicode>Frage übergehen, müssen wir noch einiger physikalischer und phy¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l46" custom="readingOrder {index:6;}">
+            <TextLine id="r1l46" custom="readingOrder {index:6;} concept_phy {offset:0; length:12; continued:true;}">
                 <Coords points="137,1656 1291,1659 1291,1618 137,1622"/>
                 <Baseline points="144,1647 201,1647 258,1647 315,1647 372,1647 429,1647 486,1647 543,1647 600,1647 657,1647 714,1648 771,1648 828,1648 885,1648 942,1648 999,1648 1056,1648 1113,1648 1170,1648 1227,1647 1284,1647"/>
                 <TextEquiv>
                     <Unicode>siologischer Puncte Erwähnung thun, die eine nicht unbedeutende</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l47" custom="readingOrder {index:7;}">
+            <TextLine id="r1l47" custom="readingOrder {index:7;} concept_mus {offset:13; length:21;}">
                 <Coords points="137,1700 889,1699 889,1666 834,1659 285,1674 137,1656"/>
                 <Baseline points="145,1688 181,1688 218,1688 255,1688 292,1688 329,1688 366,1688 402,1688 439,1688 476,1688 513,1689 550,1689 587,1689 624,1689 660,1689 697,1689 734,1690 771,1690 808,1690 845,1690 882,1689"/>
                 <TextEquiv>
@@ -292,35 +292,35 @@ Rolle in der musikalischen Theorie spielen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1626092856117_442" custom="readingOrder {index:5;} structure {type:footnote;}">
             <Coords points="136,1725 1293,1725 1293,1954 136,1954"/>
-            <TextLine id="r1l48" custom="readingOrder {index:0;}">
+            <TextLine id="r1l48" custom="readingOrder {index:0;} concept_phy {offset:32; length:10;} m_interval {offset:48; length:18;}">
                 <Coords points="224,1808 1289,1811 1289,1776 1253,1770 224,1772"/>
                 <Baseline points="231,1795 283,1796 336,1798 388,1799 441,1799 493,1800 546,1800 598,1800 651,1800 703,1800 756,1800 808,1800 861,1800 913,1799 966,1799 1018,1799 1071,1799 1123,1799 1176,1799 1228,1799 1281,1800"/>
                 <TextEquiv>
                     <Unicode>*) Bekanntlich ist der siebente Partialton, die natürliche Septime des</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l49" custom="readingOrder {index:1;}">
+            <TextLine id="r1l49" custom="readingOrder {index:1;} m_interval {offset:54; length:15;}">
                 <Coords points="135,1842 1287,1843 1287,1811 1207,1804 135,1809"/>
                 <Baseline points="142,1834 198,1834 255,1833 312,1833 369,1833 426,1833 483,1833 540,1833 597,1833 654,1833 711,1833 767,1833 824,1833 881,1833 938,1833 995,1833 1052,1833 1109,1833 1166,1833 1223,1833 1280,1833"/>
                 <TextEquiv>
                     <Unicode>vierten, weder mit der von diesem letzteren aus durch Quintenschritte er¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1626092959825_526" custom="readingOrder {index:2;} textStyle {offset:24; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:69; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="line_1626092959825_526" custom="readingOrder {index:2;} m_interval {offset:9; length:7;} m_note {offset:24; length:2;} textStyle {offset:24; length:1;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:41; length:12;} m_interval {offset:61; length:6;} m_note {offset:69; length:3;} textStyle {offset:69; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="132,1883 1244,1892 1290,1889 1290,1841 132,1849"/>
                 <Baseline points="139,1874 193,1874 247,1874 302,1874 356,1874 410,1874 465,1875 519,1875 573,1875 628,1875 682,1875 736,1875 791,1875 845,1875 899,1875 954,1875 1008,1875 1062,1875 1117,1875 1171,1875 1226,1875 1240,1874 1282,1872"/>
                 <TextEquiv>
                     <Unicode>reichten Septime (hier: b′) noch mit der kleinen Terz seiner Quinte (b}′)</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l52" custom="readingOrder {index:3;}">
+            <TextLine id="r1l52" custom="readingOrder {index:3;} concept_mus {offset:46; length:9;}">
                 <Coords points="135,1916 1291,1923 1265,1878 135,1883"/>
                 <Baseline points="143,1909 200,1909 257,1909 314,1909 371,1909 428,1909 485,1909 542,1909 599,1909 656,1909 713,1909 770,1909 827,1910 884,1910 941,1910 998,1910 1055,1910 1112,1910 1169,1910 1226,1909 1284,1909"/>
                 <TextEquiv>
                     <Unicode>identisch, passt überhaupt gar nicht in unser Tonsystem. Deshalb ist sie</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l53" custom="readingOrder {index:4;} textStyle {offset:47; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l53" custom="readingOrder {index:4;} m_note {offset:46; length:2;} textStyle {offset:47; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="139,1955 905,1955 905,1923 862,1914 139,1922"/>
                 <Baseline points="147,1944 184,1943 222,1943 259,1943 297,1943 334,1943 372,1943 409,1943 447,1943 484,1943 522,1943 560,1944 597,1944 635,1944 672,1944 710,1944 747,1944 785,1944 822,1944 860,1944 898,1944"/>
                 <TextEquiv>

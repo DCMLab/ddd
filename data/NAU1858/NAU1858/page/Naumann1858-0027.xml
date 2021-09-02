@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:19:44.881+01:00</Created>
-        <LastChange>2021-04-22T16:55:58.002+02:00</LastChange>
-        <TranskribusMetadata docId="548806" pageId="22904484" pageNr="27" tsid="57011954" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=GOANLLRBVEWAFESVPZWGLTWB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IPCPDOKEMACHMWGNPJNLAPSI" imageId="17867757"/>
+        <LastChange>2021-08-17T19:07:06.890+02:00</LastChange>
+        <TranskribusMetadata docId="738029" pageId="28086227" pageNr="27" tsid="62696166" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=RBQATXPTUJBGQHHIVNAQJEHY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HPKMDBSVJINSPQQSMIKAOIHX" imageId="21871005"/>
     </Metadata>
     <Page imageFilename="Naumann1858-0027.jpg" imageWidth="9108" imageHeight="11250" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624197098300" caption="Regions reading order">
+            <OrderedGroup id="ro_1630575151558" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1611339855848_3026"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1613653985458_1486"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1611339849536_3021"/>
@@ -34,7 +34,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1613653985458_1486" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="1592,1035 8170,1035 8170,1338 1592,1338"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_phy {offset:42; length:15;} m_tonality {offset:64; length:10;}">
                 <Coords points="2008,1330 6758,1403 7256,1305 7256,970 2008,1003"/>
                 <Baseline points="2050,1270 2308,1270 2566,1270 2825,1270 3083,1270 3342,1270 3600,1270 3858,1270 4117,1270 4375,1270 4634,1270 4892,1270 5150,1270 5409,1270 5667,1268 5925,1268 6184,1268 6442,1270 6701,1270 6959,1270 7218,1270"/>
                 <TextEquiv>
@@ -50,35 +50,35 @@ Transkribus</Creator>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1611339849536_3021" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="1592,1565 8170,1565 8170,2891 1592,2891"/>
-            <TextLine id="r1l4" custom="readingOrder {index:0;} textStyle {offset:42; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:45; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:51; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l4" custom="readingOrder {index:0;} concept_phy {offset:31; length:10;} textStyle {offset:42; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:45; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:51; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="2034,1777 8138,1747 7787,1527 2034,1541"/>
                 <Baseline points="2076,1714 2377,1714 2678,1716 2979,1716 3280,1716 3581,1718 3882,1719 4183,1720 4484,1720 4785,1722 5086,1722 5387,1722 5688,1722 5989,1722 6290,1720 6591,1718 6892,1716 7193,1714 7494,1710 7795,1706 8096,1700"/>
                 <TextEquiv>
                     <Unicode>Es gilt hier natürlich für die Exponenten n, x und y ganz dasselbe, wie vorher bei den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:1;}">
+            <TextLine id="r1l5" custom="readingOrder {index:1;} m_tonality {offset:0; length:9;} concept_phy {offset:15; length:5;} concept_phy {offset:25; length:6;}">
                 <Coords points="1565,2017 7621,2071 8151,1990 8152,1754 1565,1789"/>
                 <Baseline points="1610,1932 1935,1934 2260,1936 2585,1938 2910,1940 3236,1942 3561,1943 3886,1944 4211,1946 4536,1948 4862,1948 5187,1950 5512,1950 5837,1950 6162,1948 6488,1948 6813,1946 7138,1943 7463,1940 7788,1936 8114,1930"/>
                 <TextEquiv>
                     <Unicode>Durscalen. Die Summe der Zahlen 15, 9, 16, 20, 22$$MATH, 22$$MATH, 15 (oder . . . 12, 21$$MATH, 26$$MATH, oder</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+            <TextLine id="r1l6" custom="readingOrder {index:2;} concept_phy {offset:48; length:24;} m_note {offset:77; length:10;}">
                 <Coords points="1560,2235 8155,2173 8081,1961 1560,2023"/>
                 <Baseline points="1600,2160 1925,2160 2251,2162 2576,2164 2902,2164 3228,2165 3553,2166 3879,2166 4204,2166 4530,2166 4856,2166 5181,2166 5507,2166 5832,2164 6158,2164 6484,2163 6809,2162 7135,2160 7460,2158 7786,2157 8112,2154"/>
                 <TextEquiv>
                     <Unicode>endlich . . . 12, 33, 15) ist = 120; da nun die absolute Schwingungszahl des Grundtones stets</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+            <TextLine id="r1l7" custom="readingOrder {index:3;} concept_phy {offset:4; length:5;} concept_phy {offset:14; length:22;} m_tonality {offset:41; length:5;}">
                 <Coords points="1550,2424 8153,2441 7892,2188 1550,2244"/>
                 <Baseline points="1592,2382 1918,2382 2244,2384 2570,2384 2896,2386 3222,2386 3548,2388 3874,2388 4200,2388 4526,2390 4852,2390 5178,2390 5504,2390 5830,2390 6156,2390 6482,2388 6808,2388 7134,2386 7460,2384 7786,2380 8112,2378"/>
                 <TextEquiv>
                     <Unicode>der Summe der Schwingungsdifferenzen der Scala gleich sein muss, so folgt nothwendig, dass</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+            <TextLine id="r1l8" custom="readingOrder {index:4;} concept_phy {offset:67; length:15;}">
                 <Coords points="1561,2664 7388,2782 8132,2482 1562,2476"/>
                 <Baseline points="1602,2584 1926,2591 2251,2597 2575,2602 2900,2606 3224,2610 3549,2612 3873,2614 4198,2616 4522,2618 4847,2618 5171,2618 5496,2618 5820,2616 6145,2616 6469,2614 6794,2612 7118,2610 7443,2608 7767,2606 8092,2602"/>
                 <TextEquiv>
@@ -120,77 +120,77 @@ ergiebt:</Unicode>
                     <Unicode>Nachdem wir gesehen, wie sich allem Anscheine nach die üblichen Bestimmungen der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:2;}">
+            <TextLine id="r1l28" custom="readingOrder {index:2;} concept_mus {offset:0; length:15;}">
                 <Coords points="1588,4931 8150,4862 8101,4609 1588,4588"/>
                 <Baseline points="1630,4808 1954,4806 2278,4806 2602,4806 2926,4806 3250,4808 3574,4808 3898,4810 4222,4812 4546,4814 4870,4816 5194,4816 5518,4818 5842,4818 6166,4818 6490,4816 6814,4814 7138,4812 7462,4808 7786,4804 8110,4798"/>
                 <TextEquiv>
                     <Unicode>Tonverhältnisse sowohl durch ihre Einfachheit an sich, als auch durch die Regelmässigkeit der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:3;}">
+            <TextLine id="r1l29" custom="readingOrder {index:3;} concept_phy {offset:21; length:15;} concept_phy {offset:41; length:27;}">
                 <Coords points="1586,5053 8132,5092 7879,4872 1587,4931"/>
                 <Baseline points="1630,5028 1953,5028 2276,5028 2599,5030 2922,5030 3245,5032 3568,5034 3891,5036 4214,5038 4537,5038 4861,5040 5184,5041 5507,5042 5830,5042 6153,5042 6476,5040 6799,5038 7122,5036 7445,5033 7768,5028 8092,5024"/>
                 <TextEquiv>
                     <Unicode>von ihnen abhängigen Differenzreihen der absoluten Schwingungszahlen in der noch ganz allge¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:4;}">
+            <TextLine id="r1l30" custom="readingOrder {index:4;} m_tonality {offset:18; length:9;}">
                 <Coords points="1599,5330 8201,5265 7834,5069 1599,5134"/>
                 <Baseline points="1636,5254 1962,5254 2288,5254 2615,5254 2941,5254 3268,5256 3594,5256 3920,5258 4247,5258 4573,5260 4900,5260 5226,5260 5552,5262 5879,5262 6205,5262 6532,5260 6858,5258 7184,5256 7511,5254 7837,5251 8164,5246"/>
                 <TextEquiv>
                     <Unicode>mein betrachteten Tonleiter vortrefflich bewähren, wollen wir jetzt neben der so festgestellten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:5;}">
+            <TextLine id="r1l31" custom="readingOrder {index:5;} m_tonality {offset:0; length:4;} m_tonality {offset:9; length:10;} m_note {offset:37; length:10;} m_tonality {offset:61; length:6;} concept_mus {offset:84; length:7; continued:true;}">
                 <Coords points="1605,5518 8166,5554 7954,5309 1605,5330"/>
                 <Baseline points="1644,5476 1968,5476 2292,5476 2616,5478 2940,5478 3264,5480 3588,5480 3912,5482 4236,5484 4560,5484 4884,5486 5208,5486 5532,5486 5856,5486 6180,5486 6504,5484 6828,5484 7152,5482 7476,5478 7800,5476 8124,5472"/>
                 <TextEquiv>
                     <Unicode>Dur- und Moll-Scala eines beliebigen Grundtones die gleichen Scalen bestimmter, ihm nächst¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:6;} textStyle {offset:86; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l32" custom="readingOrder {index:6;} concept_mus {offset:0; length:10; continued:true;} m_note {offset:11; length:4;} concept_mus {offset:49; length:6;} concept_mus {offset:60; length:7;} m_interval {offset:68; length:6;} textStyle {offset:86; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:86; length:1;}">
                 <Coords points="1605,5746 7849,5798 8167,5570 1605,5591"/>
                 <Baseline points="1644,5698 1968,5700 2292,5700 2616,5700 2940,5702 3264,5704 3588,5704 3912,5706 4236,5706 4560,5708 4884,5708 5208,5708 5532,5708 5856,5708 6180,5708 6504,5708 6828,5706 7152,5704 7476,5702 7800,5699 8124,5696"/>
                 <TextEquiv>
                     <Unicode>verwandter Töne bilden, also zunächst die seiner oberen und unteren Quinte. Sei z. B. C dieser</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:7;} textStyle {offset:17; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:35; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:36; length:2;fontSize:0.0; kerning:0; subscript:true;}">
+            <TextLine id="r1l33" custom="readingOrder {index:7;} m_note {offset:0; length:8;} textStyle {offset:17; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:17; length:1;} concept_mus {offset:25; length:5;} textStyle {offset:35; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:36; length:2;fontSize:0.0; kerning:0; subscript:true;} concept_mus {offset:45; length:6;} m_interval {offset:52; length:6;}">
                 <Coords points="1616,5998 8170,5949 8080,5762 1616,5745"/>
                 <Baseline points="1656,5922 1979,5924 2303,5924 2627,5926 2951,5928 3275,5930 3598,5930 3922,5932 4246,5934 4570,5934 4894,5936 5217,5936 5541,5936 5865,5936 6189,5934 6513,5932 6836,5930 7160,5928 7484,5924 7808,5920 8132,5914"/>
                 <TextEquiv>
                     <Unicode>Grundton, so ist G seine obere und F-1 seine untere Quinte; statt des letzteren wählen wir</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:8;} textStyle {offset:25; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:87; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:89; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l34" custom="readingOrder {index:8;} m_interval {offset:18; length:6;} textStyle {offset:25; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:25; length:1;} m_interval {offset:34; length:2;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:41; length:1;} concept_mus {offset:48; length:13;} m_tonality {offset:66; length:5;} m_interval {offset:80; length:6;} m_interval {offset:87; length:3;} textStyle {offset:87; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:89; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="1609,6194 8187,6185 7346,5940 1609,6006"/>
                 <Baseline points="1652,6150 1976,6148 2301,6148 2626,6148 2950,6150 3275,6150 3600,6152 3924,6154 4249,6156 4574,6156 4899,6158 5223,6158 5548,6158 5873,6158 6197,6158 6522,6156 6847,6154 7171,6150 7496,6147 7821,6142 8146,6134"/>
                 <TextEquiv>
                     <Unicode>lieber die höhere Octave F (obere IV von C) zum Ausgangspunkt der Scala, um die Octave C—c</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:9;}">
+            <TextLine id="r1l35" custom="readingOrder {index:9;} concept_phy {offset:62; length:27;}">
                 <Coords points="1607,6439 7295,6498 8177,6432 8177,6188 1607,6244"/>
                 <Baseline points="1650,6374 1974,6372 2298,6374 2622,6374 2946,6374 3271,6374 3595,6376 3919,6376 4243,6378 4567,6378 4892,6378 5216,6380 5540,6380 5864,6380 6188,6380 6513,6378 6837,6378 7161,6376 7485,6374 7809,6370 8134,6366"/>
                 <TextEquiv>
                     <Unicode>nicht zu unterschreiten. In folgender Uebersicht sind nun die relativen Schwingungszahlen aller</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:10;} textStyle {offset:32; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:35; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l36" custom="readingOrder {index:10;} m_tonality {offset:7; length:4;} m_tonality {offset:16; length:11;} textStyle {offset:32; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:32; length:1;} textStyle {offset:35; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:35; length:1;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:41; length:1;} m_note {offset:56; length:4;}">
                 <Coords points="1573,6627 7963,6670 8176,6434 1573,6489"/>
                 <Baseline points="1616,6596 1942,6596 2268,6596 2594,6596 2920,6598 3246,6598 3572,6600 3898,6600 4224,6602 4550,6602 4876,6604 5202,6604 5528,6604 5854,6604 6180,6604 6506,6602 6832,6602 7158,6600 7484,6597 7810,6594 8136,6590"/>
                 <TextEquiv>
                     <Unicode>in den Dur- und Moll-Scalen von F, C und G vorkommenden Töne zur Vergleichung zusammen¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:11;} textStyle {offset:53; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:78; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:84; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l37" custom="readingOrder {index:11;} textStyle {offset:53; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:53; length:1;} m_note {offset:68; length:9;} textStyle {offset:78; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:78; length:1;} textStyle {offset:84; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:84; length:1;}">
                 <Coords points="1636,6905 7929,6925 8190,6656 1636,6718"/>
                 <Baseline points="1678,6826 2001,6824 2324,6822 2648,6822 2971,6822 3295,6822 3618,6822 3941,6824 4265,6826 4588,6826 4912,6828 5235,6830 5558,6830 5882,6832 6205,6832 6529,6830 6852,6830 7175,6828 7499,6824 7822,6820 8146,6814"/>
                 <TextEquiv>
                     <Unicode>gestellt; sie beziehen sich natürlich insgesammt auf C, da auch die Grundtöne F und G durch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:12;}">
+            <TextLine id="r1l38" custom="readingOrder {index:12;} concept_phy {offset:4; length:11;}">
                 <Coords points="1589,7111 2520,7071 3132,7170 3303,7072 4013,7163 4372,7090 4373,6894 1590,6907"/>
                 <Baseline points="1632,7046 1767,7046 1902,7046 2037,7044 2172,7044 2307,7044 2442,7044 2577,7044 2712,7044 2847,7044 2982,7044 3117,7044 3252,7044 3387,7044 3522,7044 3657,7046 3792,7046 3927,7048 4062,7048 4197,7050 4332,7052"/>
                 <TextEquiv>
@@ -218,21 +218,21 @@ ihr Verhältniss zu jenem bestimmt sind.</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1611339815058_3005" custom="readingOrder {index:7;} structure {type:paragraph-continued;}">
             <Coords points="1592,9122 8170,9122 8170,9809 1592,9809"/>
-            <TextLine id="r1l75" custom="readingOrder {index:0;}">
+            <TextLine id="r1l75" custom="readingOrder {index:0;} m_tonality {offset:24; length:4;} m_tonality {offset:33; length:11;} concept_mus {offset:58; length:26;}">
                 <Coords points="2089,9371 7672,9408 8210,9368 8210,9172 2089,9183"/>
                 <Baseline points="2132,9308 2433,9312 2735,9314 3037,9316 3339,9318 3641,9320 3943,9322 4245,9322 4547,9322 4849,9322 5151,9322 5452,9322 5754,9322 6056,9322 6358,9322 6660,9320 6962,9320 7264,9320 7566,9318 7868,9318 8170,9318"/>
                 <TextEquiv>
                     <Unicode>Schon in dieser auf die Dur- und Moll-Scalen von nur drei harmonisch nahe verwandten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l76" custom="readingOrder {index:1;}">
+            <TextLine id="r1l76" custom="readingOrder {index:1;} m_note {offset:0; length:5;} concept_mus {offset:63; length:5;} m_note {offset:85; length:4;}">
                 <Coords points="1646,9567 8175,9639 8175,9419 7873,9362 1646,9355"/>
                 <Baseline points="1684,9532 2006,9536 2329,9538 2651,9540 2974,9540 3297,9542 3619,9544 3942,9544 4264,9544 4587,9544 4910,9544 5232,9544 5555,9544 5877,9544 6200,9544 6523,9544 6845,9544 7168,9544 7490,9544 7813,9544 8136,9544"/>
                 <TextEquiv>
                     <Unicode>Tönen beschränkten Uebersicht zeigt es sich, dass einem in der Musik gleichbenannten Tone,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l77" custom="readingOrder {index:2;}">
+            <TextLine id="r1l77" custom="readingOrder {index:2;} m_tonality {offset:41; length:6;} concept_phy {offset:71; length:21;}">
                 <Coords points="1673,9826 8177,9826 7932,9590 1673,9630"/>
                 <Baseline points="1710,9760 2031,9764 2353,9766 2674,9768 2996,9770 3317,9770 3639,9772 3960,9772 4282,9772 4603,9772 4925,9772 5246,9772 5568,9772 5889,9772 6211,9770 6532,9770 6854,9768 7175,9768 7497,9766 7818,9765 8140,9764"/>
                 <TextEquiv>

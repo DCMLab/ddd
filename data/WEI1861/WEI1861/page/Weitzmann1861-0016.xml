@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-02-19T15:36:43.135+01:00</Created>
-        <LastChange>2021-03-30T14:15:30.721+02:00</LastChange>
-        <TranskribusMetadata docId="614269" pageId="24400042" pageNr="16" tsid="54756582" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=OWEGMMVYSAZRSMZKMWFVLSYA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BVEFBAJTJUSRVZROHSQAVPAV" imageId="18780808"/>
+        <LastChange>2021-08-20T18:15:11.565+02:00</LastChange>
+        <TranskribusMetadata docId="742126" pageId="28196465" pageNr="16" tsid="63078495" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ZAZDVHOICLNTURYYSGBQQRXM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LMXQPAFZWXONKCSOPBLNXFQF" imageId="21963667"/>
     </Metadata>
     <Page imageFilename="Weitzmann1861-0016.jpg" imageWidth="5000" imageHeight="7483" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196337254" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573781443" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1614199466084_1272"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1614199466084_1271"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1614199464297_1265"/>
@@ -55,42 +55,42 @@ und alle die von mir aufgestellten Beispiele beweisen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614199464297_1265" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="658,1186 4342,1186 4342,3214 658,3214"/>
-            <TextLine id="r3l4" custom="readingOrder {index:0;}">
+            <TextLine id="r3l4" custom="readingOrder {index:0;} person_author {offset:28; length:8;ID:P0047;}">
                 <Coords points="881,1335 4329,1336 4328,1190 4114,1159 881,1189"/>
                 <Baseline points="902,1308 1072,1306 1242,1306 1412,1304 1582,1304 1752,1302 1922,1302 2092,1300 2262,1300 2432,1300 2603,1298 2773,1298 2943,1298 3113,1298 3283,1296 3453,1296 3623,1296 3793,1296 3963,1296 4133,1296 4304,1296"/>
                 <TextEquiv>
                     <Unicode>Kluger Weise läßt sich mein Kritiker nicht darauf ein, den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l5" custom="readingOrder {index:1;} textStyle {offset:38; length:16;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r3l5" custom="readingOrder {index:1;} textStyle {offset:38; length:16;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:38; length:16; continued:true;}">
                 <Coords points="662,1509 4301,1453 4301,1329 4059,1316 662,1304"/>
                 <Baseline points="684,1462 863,1460 1043,1460 1223,1458 1403,1458 1583,1458 1762,1458 1942,1456 2122,1456 2302,1456 2482,1456 2661,1456 2841,1456 3021,1456 3201,1456 3381,1455 3560,1454 3740,1452 3920,1450 4100,1448 4280,1444"/>
                 <TextEquiv>
                     <Unicode>feinen Unterschied, welchen er in der harmonischen Be¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l6" custom="readingOrder {index:2;} textStyle {offset:0; length:18;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:44; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r3l6" custom="readingOrder {index:2;} textStyle {offset:0; length:18;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:7; continued:true;} m_interval {offset:12; length:6;} concept_mus {offset:29; length:9;} textStyle {offset:44; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:44; length:6;}">
                 <Coords points="657,1633 4296,1652 4186,1483 3794,1466 657,1505"/>
                 <Baseline points="678,1618 857,1616 1037,1616 1217,1616 1396,1614 1576,1614 1756,1614 1935,1614 2115,1614 2295,1612 2475,1612 2654,1612 2834,1612 3014,1612 3193,1612 3373,1610 3553,1610 3732,1610 3912,1608 4092,1608 4272,1608"/>
                 <TextEquiv>
                     <Unicode>deutung der Quinte und deren Umkehrung, der Quarte,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l7" custom="readingOrder {index:3;}">
+            <TextLine id="r3l7" custom="readingOrder {index:3;} concept_mus {offset:46; length:13;}">
                 <Coords points="666,1823 4319,1802 4250,1629 665,1636"/>
                 <Baseline points="690,1774 870,1774 1050,1774 1230,1774 1410,1772 1591,1772 1771,1772 1951,1770 2131,1770 2311,1770 2492,1768 2672,1768 2852,1766 3032,1766 3212,1764 3393,1764 3573,1762 3753,1762 3933,1760 4113,1760 4294,1758"/>
                 <TextEquiv>
                     <Unicode>findet, anzugeben, rügt es aber, daß ich bald wohlklingende</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1614199386183_1147" custom="readingOrder {index:4;} textStyle {offset:57; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="line_1614199386183_1147" custom="readingOrder {index:4;} concept_mus {offset:0; length:9;} m_interval {offset:10; length:7;} concept_mus {offset:41; length:8;} textStyle {offset:57; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:57; length:4; continued:true;}">
                 <Coords points="655,1966 4327,1939 4207,1784 655,1820"/>
                 <Baseline points="680,1932 731,1932 782,1932 833,1930 884,1930 936,1930 987,1930 1038,1930 1089,1929 1140,1928 1192,1928 1243,1928 1294,1928 1345,1928 1396,1928 1448,1926 1499,1926 1550,1926 1601,1925 1652,1924 1704,1924 1768,1922 1894,1924 2021,1924 2148,1926 2275,1926 2402,1926 2529,1926 2656,1926 2783,1926 2910,1926 3037,1926 3163,1924 3290,1924 3417,1922 3544,1921 3671,1920 3798,1918 3925,1918 4052,1916 4179,1914 4306,1914"/>
                 <TextEquiv>
                     <Unicode>parallele Quinten freigebe, bald auf den Mißklang selbst ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l10" custom="readingOrder {index:5;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r3l10" custom="readingOrder {index:5;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:7; continued:true;} m_interval {offset:8; length:7;} m_interval {offset:20; length:7;}">
                 <Coords points="659,2117 4330,2124 4330,1942 659,1971"/>
                 <Baseline points="684,2086 865,2084 1046,2084 1227,2082 1408,2082 1590,2082 1771,2080 1952,2080 2133,2080 2314,2080 2496,2080 2677,2080 2858,2078 3039,2078 3220,2078 3402,2078 3583,2076 3764,2076 3945,2074 4126,2074 4308,2072"/>
                 <TextEquiv>
@@ -104,35 +104,35 @@ und alle die von mir aufgestellten Beispiele beweisen.</Unicode>
                     <Unicode>diese Bemerkung aber hätte ihn auf die Consequenz meiner</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l12" custom="readingOrder {index:7;} textStyle {offset:45; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r3l12" custom="readingOrder {index:7;} textStyle {offset:45; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:45; length:11; continued:true;}">
                 <Coords points="634,2404 4319,2409 4319,2259 3908,2228 634,2263"/>
                 <Baseline points="658,2396 840,2394 1022,2394 1204,2392 1386,2392 1568,2392 1750,2390 1932,2390 2114,2390 2296,2390 2478,2390 2660,2390 2842,2388 3024,2388 3206,2388 3388,2386 3570,2386 3752,2384 3934,2382 4116,2382 4298,2378"/>
                 <TextEquiv>
                     <Unicode>Lehre aufmerksam machen können, nämlich: Bei unverbunde¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l13" custom="readingOrder {index:8;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:27; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r3l13" custom="readingOrder {index:8;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:13; continued:true;} m_chord {offset:18; length:8;} concept_mus {offset:27; length:25;} textStyle {offset:27; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="644,2596 4334,2555 4278,2391 644,2445"/>
                 <Baseline points="666,2550 848,2550 1030,2550 1212,2550 1394,2550 1577,2550 1759,2548 1941,2548 2123,2548 2305,2548 2488,2546 2670,2546 2852,2544 3034,2544 3216,2544 3399,2542 3581,2542 3763,2540 3945,2540 4127,2538 4310,2538"/>
                 <TextEquiv>
                     <Unicode>nen Harmonien und Accorden entfernter Verwandtschaft</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l14" custom="readingOrder {index:9;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:21; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r3l14" custom="readingOrder {index:9;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:9;} textStyle {offset:21; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:21; length:9;} m_interval {offset:31; length:7;} m_interval {offset:43; length:7;}">
                 <Coords points="658,2742 4279,2748 4328,2574 657,2601"/>
                 <Baseline points="680,2706 861,2706 1042,2706 1223,2706 1404,2706 1586,2705 1767,2704 1948,2704 2129,2704 2310,2702 2492,2702 2673,2702 2854,2700 3035,2700 3216,2700 3398,2698 3579,2698 3760,2697 3941,2696 4122,2696 4304,2694"/>
                 <TextEquiv>
                     <Unicode>parallele; ja selbst verdeckte Quinten und Octaven und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l15" custom="readingOrder {index:10;} textStyle {offset:0; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r3l15" custom="readingOrder {index:10;} textStyle {offset:0; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:10;}">
                 <Coords points="665,2884 4131,2917 4341,2898 4340,2729 664,2765"/>
                 <Baseline points="688,2862 869,2862 1050,2860 1232,2860 1413,2860 1595,2860 1776,2860 1957,2860 2139,2860 2320,2860 2502,2858 2683,2858 2864,2858 3046,2858 3227,2858 3409,2856 3590,2856 3771,2854 3953,2854 4134,2852 4316,2850"/>
                 <TextEquiv>
                     <Unicode>Querstände jeder Art zu vermeiden, um ihnen dadurch statt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l16" custom="readingOrder {index:11;} textStyle {offset:14; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:28; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r3l16" custom="readingOrder {index:11;} textStyle {offset:14; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:28; length:20;} textStyle {offset:28; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="665,3036 4337,3128 4337,2899 4213,2881 665,2885"/>
                 <Baseline points="686,3016 867,3017 1048,3018 1230,3018 1411,3018 1593,3018 1774,3018 1955,3018 2137,3018 2318,3018 2500,3018 2681,3018 2862,3018 3044,3016 3225,3016 3407,3016 3588,3016 3769,3014 3951,3014 4132,3014 4314,3014"/>
                 <TextEquiv>
@@ -164,28 +164,28 @@ verschaffen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1614199459565_1261" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
             <Coords points="658,3214 4342,3214 4342,5748 658,5748"/>
-            <TextLine id="r3l18" custom="readingOrder {index:0;} textStyle {offset:14; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r3l18" custom="readingOrder {index:0;} textStyle {offset:14; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:14; length:9;ID:P0007;}">
                 <Coords points="896,3341 4148,3372 4344,3316 4344,3179 896,3213"/>
                 <Baseline points="918,3326 1088,3326 1258,3324 1428,3324 1598,3324 1768,3324 1938,3324 2108,3324 2278,3324 2448,3324 2619,3324 2789,3324 2959,3324 3129,3324 3299,3324 3469,3322 3639,3322 3809,3320 3979,3320 4149,3318 4320,3316"/>
                 <TextEquiv>
                     <Unicode>Da nun selbst Hauptmann, die allgemein anerkannte</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l19" custom="readingOrder {index:1;} textStyle {offset:55; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r3l19" custom="readingOrder {index:1;} concept_mus {offset:0; length:12;} concept_mus {offset:27; length:17;} textStyle {offset:55; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="651,3492 4273,3529 4332,3328 651,3400"/>
                 <Baseline points="674,3484 855,3482 1037,3482 1219,3480 1401,3480 1583,3480 1764,3480 1946,3480 2128,3480 2310,3480 2492,3480 2673,3482 2855,3482 3037,3480 3219,3480 3401,3480 3582,3478 3764,3476 3946,3474 4128,3472 4310,3468"/>
                 <TextEquiv>
                     <Unicode>theoretische Autorität der klassischen Musik, nur die „unmittel¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l20" custom="readingOrder {index:2;} textStyle {offset:0; length:44;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r3l20" custom="readingOrder {index:2;} textStyle {offset:0; length:44;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:5; length:5;} m_interval {offset:11; length:14;} concept_mus {offset:33; length:11; continued:true;}">
                 <Coords points="656,3674 4323,3643 4322,3520 4062,3484 656,3518"/>
                 <Baseline points="678,3640 859,3638 1040,3638 1221,3638 1402,3638 1583,3638 1764,3638 1945,3638 2126,3636 2307,3636 2488,3636 2669,3636 2850,3636 3031,3635 3212,3634 3393,3634 3574,3632 3755,3630 3936,3628 4117,3626 4298,3624"/>
                 <TextEquiv>
                     <Unicode>bare Folge reiner Quinten in der Secundfort¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1614199410767_1202" custom="readingOrder {index:3;} textStyle {offset:0; length:47;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="line_1614199410767_1202" custom="readingOrder {index:3;} textStyle {offset:0; length:47;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:10; continued:true;} m_note {offset:23; length:4;} m_chord {offset:28; length:15;}">
                 <Coords points="713,3829 4102,3848 4334,3815 4334,3641 713,3669"/>
                 <Baseline points="736,3794 897,3794 1059,3794 1221,3794 1383,3794 1545,3794 1707,3794 1869,3794 2031,3792 2193,3792 2355,3792 2516,3790 2678,3790 2840,3790 3002,3790 3164,3788 3326,3788 3488,3788 3650,3788 3812,3788 3974,3788 4062,3786 4089,3789 4117,3790 4144,3790 4172,3789 4199,3786 4227,3783 4254,3781 4282,3779 4310,3778"/>
                 <TextEquiv>
@@ -206,14 +206,14 @@ verschaffen.</Unicode>
                     <Unicode>meiner Meinung aber selbst in diesem einen Falle jene</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l26" custom="readingOrder {index:6;}">
+            <TextLine id="r3l26" custom="readingOrder {index:6;} m_interval {offset:0; length:7;}">
                 <Coords points="670,4292 4337,4284 4241,4124 670,4127"/>
                 <Baseline points="692,4260 873,4258 1054,4256 1235,4256 1416,4256 1597,4256 1778,4256 1959,4256 2140,4256 2321,4256 2502,4256 2683,4258 2864,4258 3045,4258 3226,4258 3407,4258 3588,4256 3769,4256 3950,4254 4131,4252 4312,4248"/>
                 <TextEquiv>
                     <Unicode>Quinten noch wohlklingend sein können, so schien es mir an¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l27" custom="readingOrder {index:7;}">
+            <TextLine id="r3l27" custom="readingOrder {index:7;} concept_mus {offset:29; length:13;}">
                 <Coords points="657,4501 4347,4457 4296,4284 657,4291"/>
                 <Baseline points="678,4422 860,4420 1042,4418 1224,4416 1407,4416 1589,4414 1771,4414 1954,4412 2136,4412 2318,4412 2501,4412 2683,4412 2865,4412 3047,4412 3230,4412 3412,4412 3594,4412 3777,4412 3959,4412 4141,4412 4324,4412"/>
                 <TextEquiv>
@@ -241,14 +241,14 @@ verschaffen.</Unicode>
                     <Unicode>aber von der Aufhebung des Preßzwanges irgendwo Anarchie,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l31" custom="readingOrder {index:11;}">
+            <TextLine id="r3l31" custom="readingOrder {index:11;} concept_mus {offset:43; length:15;}">
                 <Coords points="662,5081 3972,5103 4360,5061 4360,4920 661,4898"/>
                 <Baseline points="684,5038 866,5038 1049,5038 1231,5038 1414,5038 1597,5038 1779,5038 1962,5038 2144,5038 2327,5038 2510,5038 2692,5036 2875,5036 3057,5036 3240,5036 3423,5034 3605,5034 3788,5034 3970,5034 4153,5032 4336,5032"/>
                 <TextEquiv>
                     <Unicode>eben so wenig ist auch von der allgemeinen Quintenfreiheit</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l32" custom="readingOrder {index:12;}">
+            <TextLine id="r3l32" custom="readingOrder {index:12;} person_author {offset:45; length:2;ID:P0047;}">
                 <Coords points="662,5232 4319,5243 4347,5079 662,5091"/>
                 <Baseline points="686,5192 868,5192 1050,5192 1232,5192 1414,5192 1596,5192 1778,5192 1960,5192 2142,5192 2324,5192 2506,5192 2688,5192 2870,5192 3052,5192 3234,5192 3416,5192 3598,5190 3780,5190 3962,5190 4144,5188 4326,5188"/>
                 <TextEquiv>
@@ -269,7 +269,7 @@ verschaffen.</Unicode>
                     <Unicode>giebt jedoch sonderbarer Weise gleich darauf selbst sieben Pröb¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l35" custom="readingOrder {index:15;} textStyle {offset:38; length:17;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r3l35" custom="readingOrder {index:15;} concept_mus {offset:5; length:10;} m_interval {offset:16; length:7;} textStyle {offset:38; length:17;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="674,5773 4094,5720 4258,5698 4259,5538 674,5577"/>
                 <Baseline points="696,5668 872,5664 1049,5664 1226,5662 1403,5662 1580,5662 1757,5662 1934,5664 2111,5664 2288,5666 2465,5666 2641,5668 2818,5670 2995,5670 3172,5670 3349,5670 3526,5670 3703,5670 3880,5668 4057,5666 4234,5662"/>
                 <TextEquiv>
@@ -297,7 +297,7 @@ chen paralleler Quinten, in denen er „aufrichtig gesagt”,</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1614199449774_1257" custom="readingOrder {index:4;} structure {type:footnote;}">
             <Coords points="658,5748 4342,5748 4342,6807 658,6807"/>
-            <TextLine id="r3l36" custom="readingOrder {index:0;}">
+            <TextLine id="r3l36" custom="readingOrder {index:0;} work_text {offset:50; length:14;ID:W0039;}">
                 <Coords points="979,6063 4272,6064 4363,5867 979,5903"/>
                 <Baseline points="1002,6004 1168,6008 1335,6010 1502,6012 1669,6014 1836,6014 2003,6016 2170,6016 2337,6016 2504,6014 2671,6014 2837,6014 3004,6012 3171,6012 3338,6010 3505,6010 3672,6010 3839,6008 4006,6008 4173,6008 4340,6006"/>
                 <TextEquiv>
@@ -311,21 +311,21 @@ chen paralleler Quinten, in denen er „aufrichtig gesagt”,</Unicode>
                     <Unicode>gesagt habe: daß der verständige Lehrer dem Schüler eine unschöne</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l38" custom="readingOrder {index:2;}">
+            <TextLine id="r3l38" custom="readingOrder {index:2;} concept_mus {offset:0; length:12;} concept_mus {offset:47; length:7;} concept_mus {offset:60; length:7; continued:true;}">
                 <Coords points="671,6290 4123,6317 4351,6175 670,6195"/>
                 <Baseline points="694,6266 875,6266 1057,6264 1239,6264 1421,6264 1603,6264 1784,6264 1966,6264 2148,6264 2330,6264 2512,6264 2693,6264 2875,6264 3057,6262 3239,6262 3421,6262 3602,6260 3784,6258 3966,6256 4148,6254 4330,6250"/>
                 <TextEquiv>
                     <Unicode>Quintenfolge ebensowohl wie eine geschmacklose Terzen- oder Sexten¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l39" custom="readingOrder {index:3;} textStyle {offset:39; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r3l39" custom="readingOrder {index:3;} concept_mus {offset:0; length:5; continued:true;} person_author {offset:36; length:2;ID:P0047;} textStyle {offset:39; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="669,6437 4322,6426 4363,6285 669,6291"/>
                 <Baseline points="690,6390 872,6390 1055,6390 1237,6390 1420,6388 1603,6388 1785,6388 1968,6388 2150,6388 2333,6388 2516,6388 2698,6386 2881,6386 3063,6386 3246,6386 3429,6386 3611,6386 3794,6384 3976,6384 4159,6384 4342,6384"/>
                 <TextEquiv>
                     <Unicode>folge verbessern wird, obschon Herr B. ästhetische Gründe, die er</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r3l40" custom="readingOrder {index:4;} textStyle {offset:59; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r3l40" custom="readingOrder {index:4;} work_text {offset:29; length:9;ID:W0040;} textStyle {offset:59; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="662,6546 3913,6556 4342,6541 4342,6422 662,6441"/>
                 <Baseline points="686,6518 867,6518 1049,6516 1231,6514 1412,6514 1594,6514 1776,6514 1957,6512 2139,6512 2321,6512 2503,6512 2684,6512 2866,6512 3048,6512 3229,6512 3411,6510 3593,6510 3774,6508 3956,6508 4138,6506 4320,6504"/>
                 <TextEquiv>

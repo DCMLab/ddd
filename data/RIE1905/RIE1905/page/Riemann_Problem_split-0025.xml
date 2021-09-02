@@ -8,12 +8,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-06-03T11:59:17.686+02:00</Created>
-        <LastChange>2021-06-05T09:36:58.975+02:00</LastChange>
-        <TranskribusMetadata docId="690742" pageId="26189582" pageNr="25" tsid="58673524" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=WGNOJJQLTFDHKHTYJINIJPYQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TXNSHHQBAPSXXZVWIIWQKUNW" imageId="20124401"/>
+        <LastChange>2021-08-20T18:00:47.623+02:00</LastChange>
+        <TranskribusMetadata docId="738835" pageId="28121521" pageNr="25" tsid="63076052" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=XRUYWXHGCVXEDQTNNKHYKCNR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KHWRLTBAPPDVICQGTSRHAWLO" imageId="21904891"/>
     </Metadata>
     <Page imageFilename="Riemann_Problem_split-0025.jpg" imageWidth="1662" imageHeight="2544" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624195579566" caption="Regions reading order">
+            <OrderedGroup id="ro_1630574061727" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1622744941345_2909"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1622744937674_2900"/>
             </OrderedGroup>
@@ -33,81 +33,81 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1622744937674_2900" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
             <Coords points="482,382 1492,382 1492,2103 482,2103"/>
-            <TextLine id="line_1622744937748_2905" custom="readingOrder {index:0;}">
+            <TextLine id="line_1622744937748_2905" custom="readingOrder {index:0;} m_interval {offset:0; length:4;} m_note {offset:6; length:1;} m_interval {offset:48; length:6; continued:true;}">
                 <Coords points="534,431 1479,469 1495,423 536,374"/>
                 <Baseline points="546,421 592,423 639,425 686,427 733,429 780,431 827,432 873,434 920,436 967,438 1014,439 1061,441 1108,443 1155,445 1201,447 1248,448 1295,450 1342,452 1389,454 1436,456 1483,458"/>
                 <TextEquiv>
                     <Unicode>Terz) h. Wohl lässt sich begreifen, dass solche Inter¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:16; length:29;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_interval {offset:0; length:5; continued:true;} textStyle {offset:16; length:29;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:16; length:21;}">
                 <Coords points="537,466 1503,516 1505,463 538,431"/>
                 <Baseline points="549,462 596,464 643,465 690,467 737,469 784,471 831,473 879,475 926,476 973,478 1020,480 1067,482 1114,484 1161,485 1209,488 1256,489 1303,491 1350,493 1397,495 1444,498 1492,500"/>
                 <TextEquiv>
                     <Unicode>valle, die eine vermittelte Beziehung auf die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:0; length:39;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:0; length:39;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:0; length:4;}">
                 <Coords points="535,508 1502,546 1503,508 1417,500 537,466"/>
                 <Baseline points="548,500 595,503 642,505 689,508 736,510 783,512 830,514 877,516 924,518 971,519 1019,521 1066,523 1113,524 1160,526 1207,528 1254,529 1301,531 1348,533 1395,535 1442,537 1490,539"/>
                 <TextEquiv>
                     <Unicode>Prim durch Zerlegung in zwei einfachere</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:0; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:0; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:0; length:10;}">
                 <Coords points="531,548 1500,596 1501,549 1474,543 533,508"/>
                 <Baseline points="544,541 591,543 638,545 685,547 732,549 780,551 827,553 874,555 921,557 968,559 1016,561 1063,562 1110,564 1157,565 1204,567 1252,569 1299,571 1346,573 1393,575 1440,577 1488,579"/>
                 <TextEquiv>
                     <Unicode>Intervalle zulassen, eben wegen dieser Möglichkeit</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:4; length:12;}">
                 <Coords points="537,595 1230,606 1437,637 1491,635 1493,592 539,548"/>
                 <Baseline points="550,581 596,583 643,586 689,588 736,589 782,591 829,593 875,595 922,596 968,598 1015,600 1061,602 1108,603 1154,605 1201,607 1247,609 1294,610 1340,612 1387,615 1433,617 1480,619"/>
                 <TextEquiv>
                     <Unicode>der Vermittelung überhaupt nicht mehr direkt bezogen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} concept_mus {offset:23; length:13;} m_note {offset:37; length:4;}">
                 <Coords points="528,623 1491,679 1493,632 529,595"/>
                 <Baseline points="539,620 586,622 633,624 680,627 727,629 774,631 821,633 868,635 915,637 962,639 1010,640 1057,642 1104,643 1151,645 1198,647 1245,649 1292,651 1339,653 1386,655 1433,657 1481,660"/>
                 <TextEquiv>
                     <Unicode>werden, sondern in dem vermittelnden Tone neben die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;} textStyle {offset:46; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} m_interval {offset:0; length:4;} m_interval {offset:10; length:11;} textStyle {offset:46; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="527,669 1486,716 1487,676 1432,657 529,625"/>
                 <Baseline points="540,661 586,663 633,665 680,667 727,669 773,671 820,673 867,675 914,677 960,679 1007,680 1054,682 1101,684 1147,685 1194,687 1241,689 1288,691 1334,692 1381,694 1428,696 1475,697"/>
                 <TextEquiv>
                     <Unicode>Prim eine zweite Prim stellen, und dass diese selb¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1622744982421_2944" custom="readingOrder {index:7;} textStyle {offset:0; length:42;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="line_1622744982421_2944" custom="readingOrder {index:7;} textStyle {offset:0; length:42;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:33; length:9;} concept_phy {offset:33; length:9;}">
                 <Coords points="528,710 1449,755 1489,754 1492,701 530,673"/>
                 <Baseline points="540,700 586,702 633,705 680,707 727,709 774,711 821,713 868,715 915,717 962,719 1009,720 1055,722 1102,724 1149,726 1196,727 1243,729 1290,731 1337,733 1384,735 1431,737 1478,738 583,685 593,683"/>
                 <TextEquiv>
                     <Unicode>ständige Ableitung das Wesen der Dissonanz</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+            <TextLine id="r1l11" custom="readingOrder {index:8;} m_note {offset:10; length:2;} m_interval {offset:17; length:5;} m_note {offset:27; length:1;} m_note {offset:34; length:2;} m_interval {offset:41; length:4;}">
                 <Coords points="525,752 1486,796 1470,746 527,712"/>
                 <Baseline points="538,740 584,742 631,745 678,747 725,749 772,751 819,754 866,756 913,757 960,759 1007,761 1053,763 1100,764 1147,766 1194,768 1241,770 1288,772 1335,773 1382,775 1429,777 1476,779"/>
                 <TextEquiv>
                     <Unicode>ausmacht (d′ als Quint von g, und h′ als Terz von g</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+            <TextLine id="r1l12" custom="readingOrder {index:9;} m_interval {offset:18; length:4;} m_note {offset:23; length:1;} m_interval {offset:30; length:11;} m_note {offset:42; length:1;} m_note {offset:45; length:3;}">
                 <Coords points="523,788 1489,830 1490,795 1400,777 524,753"/>
                 <Baseline points="534,781 581,782 628,784 675,787 722,788 770,790 817,792 864,794 911,796 958,798 1006,800 1053,802 1100,804 1147,806 1194,808 1242,810 1289,812 1336,814 1383,815 1430,817 1478,819"/>
                 <TextEquiv>
                     <Unicode>stellen neben die Prim c eine zweite Prim g, gis als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+            <TextLine id="r1l13" custom="readingOrder {index:10;} m_interval {offset:0; length:4;} m_note {offset:9; length:1;} m_interval {offset:35; length:4;} m_note {offset:40; length:1;} m_interval {offset:46; length:4;} m_note {offset:51; length:1;}">
                 <Coords points="527,827 1462,875 1490,829 528,788"/>
                 <Baseline points="538,821 584,823 631,825 678,827 725,829 772,831 819,832 866,834 913,836 960,838 1007,840 1053,842 1100,844 1147,845 1194,847 1241,850 1288,851 1335,853 1382,855 1429,858 1476,860"/>
                 <TextEquiv>
-                    <Unicode>Terz von e stellt ebenso neben die Prim c die Prime).</Unicode>
+                    <Unicode>Terz von e stellt ebenso neben die Prim c die Prim e).</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1622744989780_2959" custom="readingOrder {index:11;}">
@@ -117,7 +117,7 @@ Transkribus</Creator>
                     <Unicode>Rätselhaft ist und bleibt aber, dass das einfachste, erste</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+            <TextLine id="r1l16" custom="readingOrder {index:12;} m_interval {offset:6; length:10;} m_interval {offset:22; length:6;}">
                 <Coords points="522,908 1482,948 1483,910 1395,897 524,871"/>
                 <Baseline points="534,901 580,903 627,905 674,907 721,909 768,911 814,913 861,915 908,916 955,918 1002,920 1048,922 1095,924 1142,926 1189,927 1236,929 1282,931 1329,933 1376,934 1423,935 1470,937"/>
                 <TextEquiv>
@@ -131,28 +131,28 @@ Transkribus</Creator>
                     <Unicode>Verselbständigung völlig ausgeschlossen ist, dass die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:14;}">
+            <TextLine id="r1l18" custom="readingOrder {index:14;} m_interval {offset:0; length:16;} m_interval {offset:25; length:15;}">
                 <Coords points="521,987 1480,1028 1477,985 522,947"/>
                 <Baseline points="532,982 578,984 625,986 672,988 719,989 766,991 812,993 859,995 906,996 953,998 1000,1000 1046,1002 1093,1004 1140,1005 1187,1007 1234,1009 1280,1011 1327,1012 1374,1014 1421,1015 1468,1017"/>
                 <TextEquiv>
                     <Unicode>Quint der Oktave und die Terz der Oktave nicht ebenso</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:15;}">
+            <TextLine id="r1l19" custom="readingOrder {index:15;} m_note {offset:4; length:8;}">
                 <Coords points="522,1030 1394,1072 1481,1068 1483,1028 523,988"/>
                 <Baseline points="534,1022 580,1023 627,1025 674,1027 721,1028 768,1030 814,1032 861,1034 908,1035 955,1038 1002,1040 1048,1042 1095,1044 1142,1045 1189,1047 1236,1049 1282,1051 1329,1053 1376,1054 1423,1056 1470,1057"/>
                 <TextEquiv>
                     <Unicode>den Oktavton verselbständigen. Die Notwendigkeit, den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:16;} textStyle {offset:33; length:15;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l20" custom="readingOrder {index:16;} concept_mus {offset:1; length:22;} textStyle {offset:33; length:15;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:33; length:15; continued:true;}">
                 <Coords points="517,1068 1481,1112 1482,1069 1410,1059 518,1035"/>
                 <Baseline points="528,1062 575,1063 622,1064 669,1066 716,1067 763,1069 810,1071 857,1073 904,1075 951,1076 999,1078 1046,1081 1093,1083 1140,1085 1187,1087 1234,1089 1281,1091 1328,1093 1375,1094 1422,1096 1470,1097"/>
                 <TextEquiv>
                     <Unicode>„erweiterten Tonbegriff” als ein psychologisches</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:17;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l21" custom="readingOrder {index:17;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:0; length:6; continued:true;}">
                 <Coords points="510,1109 1448,1148 1478,1111 512,1069"/>
                 <Baseline points="522,1100 569,1102 616,1104 663,1106 710,1108 758,1110 805,1112 852,1113 899,1115 946,1117 994,1119 1041,1121 1088,1123 1135,1124 1182,1126 1230,1128 1277,1129 1324,1132 1371,1133 1418,1135 1466,1136"/>
                 <TextEquiv>
@@ -173,35 +173,35 @@ Transkribus</Creator>
                     <Unicode>die anerkannt werden muss und jederzeit ohne Versuch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:20;}">
+            <TextLine id="r1l24" custom="readingOrder {index:20;} m_interval {offset:51; length:3; continued:true;}">
                 <Coords points="510,1228 1438,1269 1470,1233 511,1195"/>
                 <Baseline points="521,1220 567,1222 614,1223 661,1225 708,1227 755,1229 801,1231 848,1233 895,1235 942,1236 989,1238 1035,1240 1082,1242 1129,1243 1176,1245 1223,1246 1269,1248 1316,1250 1363,1251 1410,1253 1457,1254"/>
                 <TextEquiv>
                     <Unicode>eines Widerspruchs anerkannt worden ist. Sämtliche Ok¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:21;}">
+            <TextLine id="r1l25" custom="readingOrder {index:21;} m_interval {offset:0; length:5; continued:true;} m_interval {offset:31; length:4;}">
                 <Coords points="501,1270 1322,1308 1467,1308 1468,1271 502,1228"/>
                 <Baseline points="513,1260 560,1262 607,1264 654,1265 701,1267 748,1269 795,1271 843,1273 890,1274 937,1276 984,1278 1031,1280 1078,1282 1125,1284 1173,1285 1220,1287 1267,1289 1314,1290 1361,1292 1408,1293 1456,1295"/>
                 <TextEquiv>
                     <Unicode>taven, nicht nur diejenige der Prim, sondern auch die der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:22;}">
+            <TextLine id="r1l26" custom="readingOrder {index:22;} m_interval {offset:0; length:5;} m_interval {offset:14; length:4;}">
                 <Coords points="515,1317 1380,1348 1472,1347 1473,1307 516,1267"/>
                 <Baseline points="526,1301 572,1303 619,1305 666,1307 712,1308 759,1310 806,1311 852,1313 899,1315 946,1317 993,1319 1039,1320 1086,1322 1133,1324 1179,1325 1226,1327 1273,1329 1319,1330 1366,1332 1413,1333 1460,1335"/>
                 <TextEquiv>
                     <Unicode>Quint und der Terz, scheiden also damit aus den beiden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:23;}">
+            <TextLine id="r1l27" custom="readingOrder {index:23;} concept_mus {offset:17; length:6;} m_note {offset:34; length:4;} concept_phy {offset:46; length:4; continued:true;}">
                 <Coords points="502,1352 1471,1384 1456,1341 503,1315"/>
                 <Baseline points="514,1341 561,1342 608,1343 655,1345 703,1347 750,1348 797,1350 844,1352 892,1354 939,1357 986,1358 1033,1360 1081,1362 1128,1364 1175,1366 1222,1368 1270,1369 1317,1370 1364,1372 1411,1373 1459,1373"/>
                 <TextEquiv>
                     <Unicode>zu betrachtenden Reihen aus. Alle Töne, deren Ord¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:24;} textStyle {offset:35; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l28" custom="readingOrder {index:24;} concept_phy {offset:0; length:11; continued:true;} concept_phy {offset:19; length:6;} textStyle {offset:35; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:35; length:8;}">
                 <Coords points="492,1386 1463,1425 1464,1385 1385,1377 493,1351"/>
                 <Baseline points="505,1380 552,1382 599,1384 647,1385 694,1387 741,1389 789,1390 836,1393 883,1394 931,1396 978,1398 1025,1399 1073,1401 1120,1403 1167,1405 1215,1407 1262,1408 1309,1410 1357,1412 1404,1413 1452,1415"/>
                 <TextEquiv>
@@ -215,21 +215,21 @@ Transkribus</Creator>
                     <Unicode>lassen (abgesehen ein für allemal von sämtlichen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:26;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l30" custom="readingOrder {index:26;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:0; length:13;} m_interval {offset:31; length:7;}">
                 <Coords points="495,1473 1463,1510 1465,1466 496,1431"/>
                 <Baseline points="506,1460 553,1462 600,1464 647,1466 695,1468 742,1470 789,1472 837,1473 884,1475 931,1477 979,1478 1026,1480 1073,1482 1120,1484 1168,1485 1215,1487 1262,1488 1310,1490 1357,1492 1404,1493 1452,1495"/>
                 <TextEquiv>
                     <Unicode>geradzahligen, die ja eben nur Oktaven bedeuten,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:27;}">
+            <TextLine id="r1l31" custom="readingOrder {index:27;} concept_mus {offset:30; length:20;}">
                 <Coords points="500,1511 1342,1551 1466,1546 1467,1509 501,1466"/>
                 <Baseline points="511,1500 558,1502 605,1503 652,1506 699,1507 746,1509 793,1511 841,1513 888,1515 935,1517 982,1518 1029,1520 1076,1522 1123,1523 1171,1525 1218,1527 1265,1528 1312,1530 1359,1531 1406,1533 1454,1534"/>
                 <TextEquiv>
                     <Unicode>d. h. mit den halb so grossen harmonisch identisch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1622745004249_2992" custom="readingOrder {index:28;}">
+            <TextLine id="line_1622745004249_2992" custom="readingOrder {index:28;} m_interval {offset:22; length:4;} concept_phy {offset:27; length:9;}">
                 <Coords points="488,1550 1372,1588 1438,1579 1439,1546 489,1515"/>
                 <Baseline points="501,1540 546,1542 591,1543 636,1545 681,1546 726,1548 771,1550 816,1552 861,1554 906,1555 951,1556 996,1558 1041,1560 1086,1561 1131,1563 1176,1565 1221,1566 1266,1568 1311,1569 1356,1571 1401,1572 1416,1571 1426,1571"/>
                 <TextEquiv>
@@ -243,35 +243,35 @@ Transkribus</Creator>
                     <Unicode>3.5, 25 = 5.5, 27 = 3.3.3 u. s. w.). So bleiben also</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:30;} textStyle {offset:8; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l35" custom="readingOrder {index:30;} textStyle {offset:8; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:8; length:10;}">
                 <Coords points="494,1626 1437,1671 1457,1627 495,1588"/>
                 <Baseline points="506,1619 552,1621 599,1623 646,1625 693,1627 740,1629 787,1631 834,1633 881,1634 928,1636 975,1638 1021,1640 1068,1642 1115,1643 1162,1645 1209,1647 1256,1648 1303,1650 1350,1651 1397,1653 1444,1654"/>
                 <TextEquiv>
                     <Unicode>nur die Primzahlen 7, 11, 13, 17, 19 etc. übrig,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:31;}">
+            <TextLine id="r1l36" custom="readingOrder {index:31;} concept_phy {offset:28; length:3;}">
                 <Coords points="493,1670 1436,1708 1461,1671 495,1628"/>
                 <Baseline points="506,1659 553,1661 600,1663 647,1665 694,1667 741,1669 788,1671 835,1673 882,1674 929,1676 977,1678 1024,1679 1071,1681 1118,1683 1165,1685 1212,1686 1259,1688 1306,1689 1353,1691 1400,1693 1448,1695"/>
                 <TextEquiv>
                     <Unicode>deren Ignorierung durch das Ohr natürlich ebenfalls</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:32;}">
+            <TextLine id="r1l37" custom="readingOrder {index:32;} m_interval {offset:37; length:10;}">
                 <Coords points="485,1706 1425,1749 1453,1701 486,1671"/>
                 <Baseline points="497,1700 544,1702 591,1704 638,1705 685,1707 732,1709 779,1711 827,1713 874,1714 921,1716 968,1718 1015,1720 1062,1721 1109,1723 1157,1724 1204,1726 1251,1728 1298,1729 1345,1731 1392,1732 1440,1733"/>
                 <TextEquiv>
                     <Unicode>eine Erklärung fordert. Dass der dem Verhältnis des</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:33;}">
+            <TextLine id="r1l38" custom="readingOrder {index:33;} m_note {offset:3; length:4;} concept_phy {offset:12; length:5;} m_note {offset:32; length:3;}">
                 <Coords points="489,1749 1453,1782 1454,1749 1396,1738 491,1707"/>
                 <Baseline points="501,1740 548,1742 595,1744 642,1745 689,1747 736,1749 783,1751 830,1752 877,1754 924,1756 971,1758 1018,1760 1065,1761 1112,1763 1159,1765 1206,1767 1253,1768 1300,1769 1347,1771 1394,1772 1441,1774"/>
                 <TextEquiv>
                     <Unicode>7. Tons der Reihe entsprechende Ton unter Umständen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l39" custom="readingOrder {index:34;}">
+            <TextLine id="r1l39" custom="readingOrder {index:34;} concept_mus {offset:22; length:5;} concept_mus {offset:38; length:11;}">
                 <Coords points="485,1789 1406,1828 1447,1822 1448,1785 486,1749"/>
                 <Baseline points="498,1779 544,1781 591,1783 638,1785 685,1787 732,1789 779,1791 826,1793 873,1795 920,1797 967,1798 1013,1800 1060,1802 1107,1803 1154,1805 1201,1806 1248,1808 1295,1809 1342,1811 1389,1812 1436,1813"/>
                 <TextEquiv>
@@ -285,28 +285,28 @@ Transkribus</Creator>
                     <Unicode>verstanden werden kann, ist längst bemerkt und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l41" custom="readingOrder {index:36;}">
+            <TextLine id="r1l41" custom="readingOrder {index:36;} person_author {offset:10; length:7;ID:P0023;} person_author {offset:22; length:10;ID:P0036;} concept_mus {offset:37; length:11; continued:true;}">
                 <Coords points="478,1865 1447,1901 1448,1864 1366,1854 479,1835"/>
                 <Baseline points="489,1861 536,1862 583,1864 631,1866 678,1867 725,1869 773,1871 820,1873 867,1874 915,1876 962,1878 1009,1879 1057,1881 1104,1883 1151,1884 1199,1886 1246,1887 1293,1889 1341,1891 1388,1892 1436,1893"/>
                 <TextEquiv>
                     <Unicode>z. B. von Tartini und Kirnberger für harmonische</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l42" custom="readingOrder {index:37;}">
+            <TextLine id="r1l42" custom="readingOrder {index:37;} concept_mus {offset:0; length:11; continued:true;}">
                 <Coords points="482,1909 1354,1946 1448,1945 1450,1903 483,1867"/>
                 <Baseline points="493,1901 540,1902 587,1904 634,1905 681,1907 728,1909 775,1911 823,1912 870,1914 917,1916 964,1918 1011,1920 1058,1921 1105,1923 1153,1925 1200,1927 1247,1929 1294,1930 1341,1932 1388,1933 1436,1935"/>
                 <TextEquiv>
                     <Unicode>Experimente verwertet worden; auch mit dem 11. und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l43" custom="readingOrder {index:38;}">
+            <TextLine id="r1l43" custom="readingOrder {index:38;} concept_phy {offset:4; length:8;}">
                 <Coords points="485,1948 1383,1987 1447,1983 1448,1950 486,1908"/>
                 <Baseline points="496,1940 545,1942 594,1944 644,1946 693,1948 743,1950 792,1952 841,1954 891,1956 940,1957 990,1959 1039,1961 1089,1963 1138,1964 1187,1966 1237,1968 1286,1969 1336,1971 1385,1972 1435,1974"/>
                 <TextEquiv>
                     <Unicode>13. Obertone macht man neuerdings ähnliche Versuche</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l44" custom="readingOrder {index:39;} textStyle {offset:28; length:20;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l44" custom="readingOrder {index:39;} person_composer {offset:1; length:11;ID:P0038;} person_composer {offset:14; length:11;ID:P0037;} textStyle {offset:28; length:20;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="475,1994 1444,2017 1445,1986 1282,1971 477,1950"/>
                 <Baseline points="486,1982 533,1983 580,1984 628,1986 675,1988 722,1989 770,1991 817,1993 864,1995 912,1997 959,1999 1006,2000 1054,2002 1101,2004 1148,2006 1196,2007 1243,2009 1290,2010 1338,2011 1385,2012 1433,2013"/>
                 <TextEquiv>
@@ -338,7 +338,7 @@ Prim eine zweite Prim stellen, und dass diese selb¬&#13;
 ständige Ableitung das Wesen der Dissonanz&#13;
 ausmacht (d′ als Quint von g, und h′ als Terz von g&#13;
 stellen neben die Prim c eine zweite Prim g, gis als&#13;
-Terz von e stellt ebenso neben die Prim c die Prime).&#13;
+Terz von e stellt ebenso neben die Prim c die Prim e).&#13;
 Rätselhaft ist und bleibt aber, dass das einfachste, erste&#13;
 aller Intervalle, die Oktave, von der Möglichkeit solcher&#13;
 Verselbständigung völlig ausgeschlossen ist, dass die&#13;

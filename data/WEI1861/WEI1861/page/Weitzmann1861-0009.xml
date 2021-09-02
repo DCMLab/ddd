@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-02-19T15:36:42.939+01:00</Created>
-        <LastChange>2021-03-29T22:10:01.582+02:00</LastChange>
-        <TranskribusMetadata docId="614269" pageId="24400035" pageNr="9" tsid="54578507" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=JGDZVERVDQAPLWLTLRYVBXNQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LTWTVBCLEJKWMTLUCSTLISRE" imageId="18780801"/>
+        <LastChange>2021-08-03T12:14:35.553+02:00</LastChange>
+        <TranskribusMetadata docId="742126" pageId="28196421" pageNr="9" tsid="62247337" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=OSFAGIFATUXIKTTTOPGYZBPI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZEPIQYJSFODXQOXSJNBWOWNH" imageId="21963623"/>
     </Metadata>
     <Page imageFilename="Weitzmann1861-0009.jpg" imageWidth="5000" imageHeight="7479" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196333338" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573779573" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1614195217548_289"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1614195217548_288"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1614195214840_284"/>
@@ -33,14 +33,14 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614195217548_288" custom="readingOrder {index:1;}">
             <Coords points="862,721 4534,721 4534,2231 862,2231"/>
-            <TextLine id="r2l2" custom="readingOrder {index:0;} textStyle {offset:34; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l2" custom="readingOrder {index:0;} textStyle {offset:34; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:53; length:7; continued:true;}">
                 <Coords points="899,984 4534,998 4535,889 4226,822 3851,910 3195,767 2816,869 2000,752 1753,869 901,802"/>
                 <Baseline points="920,940 1099,942 1279,944 1459,946 1638,948 1818,950 1998,952 2177,954 2357,956 2537,958 2717,960 2896,962 3076,964 3256,966 3435,966 3615,968 3795,968 3974,970 4154,970 4334,968 4514,968"/>
                 <TextEquiv>
                     <Unicode>nachdrücklich ausgesprochen habe. Diese aber ist nur theore¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l3" custom="readingOrder {index:1;} textStyle {offset:44; length:16;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l3" custom="readingOrder {index:1;} concept_mus {offset:0; length:5; continued:true;} textStyle {offset:44; length:16;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:51; length:9;}">
                 <Coords points="880,1130 4433,1175 4544,1002 881,984"/>
                 <Baseline points="902,1100 1082,1101 1263,1102 1444,1102 1625,1104 1806,1106 1986,1108 2167,1110 2348,1112 2529,1114 2710,1116 2890,1118 3071,1120 3252,1122 3433,1124 3614,1124 3794,1126 3975,1126 4156,1126 4337,1126 4518,1126"/>
                 <TextEquiv>
@@ -54,28 +54,28 @@ Transkribus</Creator>
                     <Unicode>gebaut, und stellte es sich zur Aufgabe, die allgemeinen Natur¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+            <TextLine id="r2l5" custom="readingOrder {index:3;} concept_mus {offset:12; length:8;} concept_mus {offset:29; length:6;}">
                 <Coords points="902,1471 4542,1479 4429,1314 903,1311"/>
                 <Baseline points="924,1418 1103,1418 1283,1416 1463,1416 1642,1416 1822,1416 2002,1418 2181,1420 2361,1422 2541,1424 2721,1426 2900,1428 3080,1430 3260,1432 3439,1434 3619,1434 3799,1436 3978,1436 4158,1436 4338,1436 4518,1434"/>
                 <TextEquiv>
                     <Unicode>gesetze der Harmonik und der Metrik zu ergründen, nicht aber eine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+            <TextLine id="r2l6" custom="readingOrder {index:4;} concept_mus {offset:0; length:24;}">
                 <Coords points="886,1630 4540,1617 4541,1475 888,1457"/>
                 <Baseline points="910,1564 1090,1567 1270,1568 1451,1571 1631,1573 1812,1575 1992,1576 2172,1578 2353,1580 2533,1582 2714,1584 2894,1584 3074,1586 3255,1586 3435,1588 3616,1588 3796,1590 3976,1590 4157,1590 4337,1590 4518,1590"/>
                 <TextEquiv>
                     <Unicode>praktische Harmonielehre darzubieten. Diese Grundgesetze nun</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+            <TextLine id="r2l7" custom="readingOrder {index:5;} concept_mus {offset:31; length:7;}">
                 <Coords points="881,1749 4543,1809 4449,1617 882,1631"/>
                 <Baseline points="904,1718 1084,1722 1265,1724 1446,1726 1627,1728 1808,1731 1989,1733 2170,1734 2351,1736 2532,1738 2713,1738 2893,1740 3074,1740 3255,1742 3436,1742 3617,1744 3798,1744 3979,1746 4160,1746 4341,1748 4522,1748"/>
                 <TextEquiv>
                     <Unicode>werden freilich in jeder guten Theorie dieselben sein, denn sie</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l8" custom="readingOrder {index:6;} textStyle {offset:15; length:18;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l8" custom="readingOrder {index:6;} textStyle {offset:15; length:18;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:15; length:9;ID:P0007;}">
                 <Coords points="917,1918 4365,1960 4544,1807 918,1754"/>
                 <Baseline points="942,1876 1120,1878 1299,1881 1478,1884 1657,1886 1836,1888 2015,1890 2194,1890 2373,1892 2552,1894 2731,1894 2909,1896 3088,1897 3267,1898 3446,1898 3625,1900 3804,1900 3983,1902 4162,1902 4341,1902 4520,1902"/>
                 <TextEquiv>
@@ -117,7 +117,7 @@ schaftlich festgestellt worden.</Unicode>
                     <Unicode>Meine Aufgabe dagegen war es, nicht allein jene allge¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l12" custom="readingOrder {index:1;}">
+            <TextLine id="r2l12" custom="readingOrder {index:1;} concept_mus {offset:25; length:20;}">
                 <Coords points="864,2520 4541,2559 4501,2399 865,2411"/>
                 <Baseline points="886,2498 1067,2500 1249,2502 1430,2504 1612,2506 1793,2508 1975,2510 2156,2512 2338,2513 2519,2514 2701,2516 2882,2518 3064,2520 3245,2521 3427,2522 3608,2524 3790,2524 3971,2524 4153,2526 4334,2526 4516,2526"/>
                 <TextEquiv>
@@ -131,7 +131,7 @@ schaftlich festgestellt worden.</Unicode>
                     <Unicode>präcis gefaßt vollständig mitzutheilen, — und daß ich hier¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l14" custom="readingOrder {index:3;}">
+            <TextLine id="r2l14" custom="readingOrder {index:3;} work_text {offset:55; length:5;ID:W0004;}">
                 <Coords points="872,2847 4549,2851 4217,2698 873,2701"/>
                 <Baseline points="896,2812 1077,2814 1259,2816 1440,2817 1622,2818 1803,2820 1985,2822 2166,2822 2348,2824 2529,2824 2711,2826 2892,2826 3074,2828 3255,2828 3437,2829 3618,2830 3800,2831 3981,2832 4163,2834 4344,2834 4526,2836"/>
                 <TextEquiv>
@@ -159,14 +159,14 @@ schaftlich festgestellt worden.</Unicode>
                     <Unicode>dann das Rechte zu bewahren, — sondern auch, und das ist</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l18" custom="readingOrder {index:7;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:53; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l18" custom="readingOrder {index:7;} work_text {offset:0; length:51;ID:W0039;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:53; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="864,3471 4535,3525 4536,3324 865,3316"/>
                 <Baseline points="886,3440 1067,3442 1248,3444 1430,3444 1611,3446 1793,3448 1974,3448 2155,3450 2337,3450 2518,3452 2700,3452 2881,3454 3062,3454 3244,3454 3425,3454 3607,3456 3788,3456 3969,3456 4151,3458 4332,3458 4514,3458"/>
                 <TextEquiv>
                     <Unicode>meine eigene und die mit dem Preise gekrönte Arbeit, alle</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l19" custom="readingOrder {index:8;} textStyle {offset:16; length:21;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:53; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l19" custom="readingOrder {index:8;} textStyle {offset:16; length:21;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:27; length:10;} textStyle {offset:53; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="869,3607 4531,3660 4532,3523 4249,3481 870,3470"/>
                 <Baseline points="894,3594 1074,3596 1255,3598 1436,3598 1617,3600 1798,3602 1978,3604 2159,3604 2340,3606 2521,3608 2702,3608 2882,3610 3063,3610 3244,3612 3425,3612 3606,3612 3786,3612 3967,3610 4148,3610 4329,3608 4510,3606"/>
                 <TextEquiv>
@@ -211,14 +211,14 @@ praktische Verwendbarkeit nachzuweisen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1614195202862_280" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
             <Coords points="862,4104 4534,4104 4534,6766 862,6766"/>
-            <TextLine id="r2l23" custom="readingOrder {index:0;}">
+            <TextLine id="r2l23" custom="readingOrder {index:0;} work_text {offset:0; length:19;ID:W0039;} concept_mus {offset:5; length:14;}">
                 <Coords points="1103,4237 4547,4262 4547,4148 4224,4101 1104,4109"/>
                 <Baseline points="1124,4220 1294,4222 1464,4223 1634,4224 1804,4224 1974,4226 2144,4226 2314,4228 2484,4228 2654,4228 2825,4230 2995,4230 3165,4230 3335,4230 3505,4230 3675,4232 3845,4232 4015,4232 4185,4232 4355,4232 4526,4232"/>
                 <TextEquiv>
                     <Unicode>Mein Harmoniesystem wurde zuerst in der oben erwähnten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l24" custom="readingOrder {index:1;}">
+            <TextLine id="r2l24" custom="readingOrder {index:1;} work_text {offset:0; length:11;ID:W0010;}">
                 <Coords points="865,4437 4514,4440 4450,4280 865,4259"/>
                 <Baseline points="890,4370 1070,4374 1250,4376 1430,4378 1610,4380 1790,4382 1970,4384 2150,4384 2330,4384 2510,4386 2690,4386 2870,4386 3050,4386 3230,4386 3410,4386 3590,4386 3770,4386 3950,4386 4130,4386 4310,4388 4490,4388"/>
                 <TextEquiv>
@@ -260,14 +260,14 @@ praktische Verwendbarkeit nachzuweisen.</Unicode>
                     <Unicode>stellen, und endlich auch dahin zu wirken, eine Gleichheit in</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l30" custom="readingOrder {index:7;} textStyle {offset:0; length:30;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l30" custom="readingOrder {index:7;} textStyle {offset:0; length:30;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:4; length:26;}">
                 <Coords points="863,5344 4548,5375 4498,5206 863,5203"/>
                 <Baseline points="886,5312 1068,5312 1250,5314 1432,5316 1614,5316 1796,5318 1978,5320 2160,5320 2342,5322 2524,5322 2706,5322 2888,5324 3070,5324 3252,5324 3434,5324 3616,5324 3798,5324 3980,5324 4162,5324 4344,5324 4526,5322"/>
                 <TextEquiv>
                     <Unicode>der musikalischen Terminologie zu erzielen, da fast eine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l31" custom="readingOrder {index:8;} textStyle {offset:26; length:18;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:50; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l31" custom="readingOrder {index:8;} concept_mus {offset:5; length:8;} textStyle {offset:26; length:18;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:50; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="876,5521 4338,5539 4520,5526 4521,5380 876,5353"/>
                 <Baseline points="898,5474 1078,5472 1258,5472 1438,5472 1618,5472 1798,5474 1978,5474 2158,5475 2338,5476 2518,5477 2698,5478 2878,5478 3058,5480 3238,5480 3418,5480 3598,5480 3778,5480 3958,5480 4138,5478 4318,5478 4498,5476"/>
                 <TextEquiv>
@@ -288,7 +288,7 @@ praktische Verwendbarkeit nachzuweisen.</Unicode>
                     <Unicode>Lehrer sich über dergleichen Gegenstände niemals verständigen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l34" custom="readingOrder {index:11;}">
+            <TextLine id="r2l34" custom="readingOrder {index:11;} concept_mus {offset:34; length:9;}">
                 <Coords points="864,5940 4527,6025 4477,5815 864,5813"/>
                 <Baseline points="888,5934 1068,5936 1249,5938 1430,5940 1611,5942 1792,5944 1973,5944 2154,5946 2335,5946 2516,5946 2697,5946 2877,5946 3058,5946 3239,5946 3420,5946 3601,5946 3782,5946 3963,5944 4144,5944 4325,5944 4506,5944"/>
                 <TextEquiv>
@@ -323,7 +323,7 @@ praktische Verwendbarkeit nachzuweisen.</Unicode>
                     <Unicode>Fälle zugleich mit in sich begreift, und auch über deren richtige</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l39" custom="readingOrder {index:16;}">
+            <TextLine id="r2l39" custom="readingOrder {index:16;} concept_mus {offset:49; length:6;}">
                 <Coords points="883,6766 4240,6821 4527,6767 4528,6630 883,6602"/>
                 <Baseline points="906,6716 1086,6716 1266,6718 1446,6720 1626,6720 1806,6722 1986,6724 2166,6724 2346,6726 2526,6726 2706,6726 2886,6728 3066,6728 3246,6728 3426,6728 3606,6726 3786,6726 3966,6724 4146,6722 4326,6720 4506,6718"/>
                 <TextEquiv>

@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-02-19T15:11:48.726+01:00</Created>
-        <LastChange>2021-03-24T22:55:55.998+01:00</LastChange>
-        <TranskribusMetadata docId="614265" pageId="24399879" pageNr="17" tsid="54175493" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=JKJXJMAJGKTOPYUDFWPOOJCO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WDXALHWEPOWKECIIGUMYKVTV" imageId="18780645"/>
+        <LastChange>2021-08-16T19:11:03.692+02:00</LastChange>
+        <TranskribusMetadata docId="738834" pageId="28121500" pageNr="17" tsid="62669868" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=EWDKVAUEKMNTNUGTQZBXHCXP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XJRSRLYLBVEGTIWWTFBTULLP" imageId="21904870"/>
     </Metadata>
     <Page imageFilename="Weitzmann_1860_Harmoniesystem-0017.jpg" imageWidth="1383" imageHeight="2171" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196436741" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573940257" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1614088024274_621"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1614088024274_620"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1614088009862_612"/>
@@ -32,63 +32,63 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1614088024274_620" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
             <Coords points="209,251 1227,251 1227,685 209,685"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:45; length:8;} concept_mus {offset:58; length:4; continued:true;}">
                 <Coords points="207,314 1151,322 1209,314 1210,283 207,282"/>
                 <Baseline points="213,306 262,306 312,306 361,306 411,306 460,306 510,306 559,307 609,307 658,307 708,307 757,307 807,308 856,308 906,308 955,308 1005,308 1054,308 1104,307 1153,307 1203,307"/>
                 <TextEquiv>
                     <Unicode>und festzustellen, welche geeignet wäre, den Melodien und Har¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:0; length:6; continued:true;} concept_mus {offset:28; length:12;}">
                 <Coords points="210,360 1157,367 1205,359 1205,323 210,324"/>
                 <Baseline points="216,349 265,349 314,349 363,349 412,349 461,349 510,349 559,349 608,349 657,349 707,349 756,349 805,349 854,349 903,349 952,350 1001,350 1050,350 1099,350 1148,351 1198,351"/>
                 <TextEquiv>
                     <Unicode>monien eines kunstgerechten Musikstückes zu Grunde zu liegen.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:0; length:15;} m_note {offset:16; length:4;} concept_mus {offset:47; length:10;}">
                 <Coords points="203,403 1204,410 1195,358 203,355"/>
                 <Baseline points="209,391 258,391 307,391 357,391 406,391 456,391 505,391 555,391 604,391 654,391 703,391 752,392 802,392 851,392 901,392 950,392 1000,392 1049,391 1099,391 1148,391 1198,390"/>
                 <TextEquiv>
                     <Unicode>Nächstverwandte Töne stehen zu einander in dem Verhältniß</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} m_interval {offset:6; length:6;} m_interval {offset:24; length:6;}">
                 <Coords points="208,444 1214,442 1186,402 208,411"/>
                 <Baseline points="214,433 263,433 313,433 363,433 412,434 462,434 512,434 561,434 611,434 661,434 711,434 760,434 810,434 860,435 909,435 959,435 1009,435 1058,435 1108,435 1158,435 1208,434"/>
                 <TextEquiv>
                     <Unicode>einer Octave oder einer Quinte. Bei einer fortgesetzten Reihe</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} m_interval {offset:4; length:7;}">
                 <Coords points="203,486 1211,484 1211,452 1166,444 204,452"/>
                 <Baseline points="210,476 259,476 309,475 359,475 409,475 458,475 508,476 558,476 608,476 657,476 707,476 757,477 807,477 856,477 906,477 956,477 1006,477 1055,477 1105,476 1155,476 1205,475"/>
                 <TextEquiv>
                     <Unicode>von Octaven erkennen wir stets dieselben, nur in höheren oder</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} concept_mus {offset:9; length:5;} m_note {offset:29; length:4;} m_note {offset:35; length:1;} m_note {offset:37; length:1;} m_note {offset:39; length:2;} m_note {offset:42; length:3;}">
                 <Coords points="212,548 1210,546 1188,500 212,505"/>
                 <Baseline points="218,534 267,535 316,535 365,535 415,535 464,535 513,535 563,535 612,535 661,535 711,535 760,534 809,534 858,534 908,534 957,534 1006,534 1056,534 1105,535 1154,535 1204,536"/>
                 <TextEquiv>
-                    <Unicode>tieferen Lagen erscheinenden Töne: $$GRAPHIC. Eine ebenso</Unicode>
+                    <Unicode>tieferen Lagen erscheinenden Töne: C—c—c}—c}} 2c. Eine ebenso</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} m_interval {offset:23; length:7;}">
                 <Coords points="207,593 1208,595 1208,556 1171,547 207,551"/>
                 <Baseline points="213,578 262,578 311,578 361,578 410,578 460,578 509,578 559,578 608,578 658,578 707,578 756,578 806,578 855,578 905,578 954,579 1004,579 1053,579 1103,579 1152,580 1202,580"/>
                 <TextEquiv>
                     <Unicode>fortgesetzte Reihe von Quinten aber giebt uns das folgende,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;} concept_mus {offset:19; length:10;} m_note {offset:45; length:5;}">
                 <Coords points="215,630 1136,642 1204,628 1204,596 215,597"/>
                 <Baseline points="221,622 269,622 318,621 367,621 416,620 465,620 514,620 562,620 611,620 660,620 709,620 758,621 807,621 856,621 904,621 953,621 1002,622 1051,622 1100,622 1149,622 1198,621"/>
                 <TextEquiv>
                     <Unicode>aus unter einander verwandten, verschiedenen Tönen bestehende</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+            <TextLine id="r1l10" custom="readingOrder {index:8;} concept_mus {offset:0; length:9;}">
                 <Coords points="209,675 271,675 279,683 319,683 335,674 396,675 396,635 379,640 321,632 301,637 285,629 259,636 247,630 209,631"/>
                 <Baseline points="216,663 245,662 274,661 303,662 332,662 361,663 390,663"/>
                 <TextEquiv>
@@ -101,7 +101,7 @@ monien eines kunstgerechten Musikstückes zu Grunde zu liegen.&#13;
 Nächstverwandte Töne stehen zu einander in dem Verhältniß&#13;
 einer Octave oder einer Quinte. Bei einer fortgesetzten Reihe&#13;
 von Octaven erkennen wir stets dieselben, nur in höheren oder&#13;
-tieferen Lagen erscheinenden Töne: $$GRAPHIC. Eine ebenso&#13;
+tieferen Lagen erscheinenden Töne: C—c—c}—c}} 2c. Eine ebenso&#13;
 fortgesetzte Reihe von Quinten aber giebt uns das folgende,&#13;
 aus unter einander verwandten, verschiedenen Tönen bestehende&#13;
 Tonsystem:</Unicode>
@@ -112,133 +112,133 @@ Tonsystem:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614088009862_612" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="209,827 1227,827 1227,1648 209,1648"/>
-            <TextLine id="r1l14" custom="readingOrder {index:0;}">
+            <TextLine id="r1l14" custom="readingOrder {index:0;} m_interval {offset:55; length:6; continued:true;}">
                 <Coords points="213,875 1211,875 1211,841 1161,828 213,834"/>
                 <Baseline points="219,865 268,865 317,865 366,865 416,866 465,866 514,866 563,866 613,866 662,866 711,866 760,866 810,866 859,866 908,866 957,866 1007,866 1056,866 1105,866 1154,866 1204,866"/>
                 <TextEquiv>
                     <Unicode>Bis ins Unendliche fortgesetzt, könnte diese Reihe von reinen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:1;}">
+            <TextLine id="r1l15" custom="readingOrder {index:1;} m_interval {offset:0; length:7; continued:true;} m_note {offset:36; length:3;}">
                 <Coords points="206,915 1201,916 1201,884 1164,877 206,877"/>
                 <Baseline points="213,909 262,909 311,909 360,909 409,909 458,909 507,909 556,909 605,909 654,909 704,909 753,909 802,909 851,909 900,909 949,909 998,909 1047,909 1096,909 1145,910 1195,910"/>
                 <TextEquiv>
                     <Unicode>Quinten (3:2) dennoch niemals einen Ton erscheinen lassen,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:2;}">
+            <TextLine id="r1l16" custom="readingOrder {index:2;} m_interval {offset:58; length:4; continued:true;}">
                 <Coords points="209,962 1205,963 1205,920 209,923"/>
                 <Baseline points="215,950 264,950 313,951 362,951 411,951 461,951 510,951 559,951 608,951 657,951 707,951 756,951 805,951 854,951 903,951 953,951 1002,951 1051,951 1100,951 1149,951 1199,950"/>
                 <TextEquiv>
                     <Unicode>der zu einem der vorhergehenden in dem Verhältnisse einer rei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:3;}">
+            <TextLine id="r1l17" custom="readingOrder {index:3;} m_interval {offset:0; length:10; continued:true;} m_note {offset:47; length:5;}">
                 <Coords points="211,1002 1199,1002 1216,971 211,972"/>
                 <Baseline points="218,994 267,994 317,994 366,994 416,994 466,994 515,994 565,994 614,994 664,994 714,994 763,994 813,994 862,994 912,994 962,994 1011,994 1061,993 1110,993 1160,993 1210,992"/>
                 <TextEquiv>
                     <Unicode>nen Octave (2:1) stände. Ein mit feststehenden Tönen ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:4;}">
+            <TextLine id="r1l18" custom="readingOrder {index:4;} concept_mus {offset:8; length:10;} concept_mus {offset:33; length:5;} concept_mus {offset:48; length:7;}">
                 <Coords points="215,1053 1212,1050 1212,1012 1167,1004 215,1005"/>
                 <Baseline points="221,1037 270,1037 319,1036 368,1036 417,1036 467,1036 516,1036 565,1036 614,1036 663,1036 713,1036 762,1036 811,1037 860,1037 909,1037 959,1037 1008,1036 1057,1036 1106,1036 1155,1035 1205,1035"/>
                 <TextEquiv>
                     <Unicode>sehenes Instrument, wie etwa die Orgel oder das Clavier,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:5;}">
+            <TextLine id="r1l19" custom="readingOrder {index:5;} concept_mus {offset:21; length:7;} m_interval {offset:50; length:7;}">
                 <Coords points="214,1091 1213,1090 1213,1052 214,1053"/>
                 <Baseline points="220,1080 269,1079 318,1079 367,1079 417,1079 466,1079 515,1079 565,1079 614,1079 663,1079 713,1079 762,1079 811,1079 860,1079 910,1079 959,1079 1008,1079 1058,1079 1107,1079 1156,1079 1206,1079"/>
                 <TextEquiv>
                     <Unicode>müßte nun dem obigen Systeme nach in jeder seiner Octaven</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:6;}">
+            <TextLine id="r1l20" custom="readingOrder {index:6;} m_note {offset:16; length:4;}">
                 <Coords points="213,1130 1134,1139 1212,1131 1213,1091 213,1093"/>
                 <Baseline points="219,1120 268,1120 317,1121 367,1121 416,1121 465,1121 515,1122 564,1122 613,1122 663,1122 712,1121 761,1121 811,1121 860,1121 909,1121 959,1121 1008,1121 1057,1121 1107,1121 1156,1121 1206,1121"/>
                 <TextEquiv>
                     <Unicode>35 verschiedene Töne enthalten, ohne daß dadurch zugleich eine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:7;}">
+            <TextLine id="r1l21" custom="readingOrder {index:7;} m_interval {offset:10; length:14;} m_note {offset:55; length:3;}">
                 <Coords points="218,1175 1209,1170 1209,1141 1159,1129 218,1132"/>
                 <Baseline points="224,1162 272,1163 321,1163 370,1163 419,1163 468,1163 517,1163 566,1163 615,1163 664,1163 713,1163 761,1163 810,1163 859,1163 908,1163 957,1163 1006,1163 1055,1163 1104,1163 1153,1163 1202,1163"/>
                 <TextEquiv>
                     <Unicode>Reihe von reinen Octaven gewonnen wäre, denn weder der Ton</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:8;}">
+            <TextLine id="r1l22" custom="readingOrder {index:8;} m_note {offset:0; length:3;} m_note {offset:14; length:3;} m_note {offset:18; length:5;} m_interval {offset:34; length:12;} m_note {offset:51; length:5;} m_note {offset:57; length:1;}">
                 <Coords points="213,1213 1167,1219 1216,1210 1216,1171 281,1195 213,1172"/>
                 <Baseline points="219,1204 268,1205 318,1205 367,1205 417,1205 466,1205 516,1206 565,1206 615,1206 664,1206 714,1206 764,1206 813,1206 863,1206 912,1206 962,1206 1011,1206 1061,1205 1110,1205 1160,1204 1210,1203"/>
                 <TextEquiv>
                     <Unicode>his, noch der Ton deses würde die reine Octave des Tones C</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:9;}">
+            <TextLine id="r1l23" custom="readingOrder {index:9;} m_note {offset:36; length:4;} m_note {offset:41; length:5;} m_note {offset:52; length:4;}">
                 <Coords points="211,1258 1190,1264 1216,1221 211,1227"/>
                 <Baseline points="217,1249 266,1248 316,1248 365,1248 415,1248 465,1248 514,1248 564,1248 614,1248 663,1248 713,1248 763,1248 812,1248 862,1248 912,1248 961,1248 1011,1248 1061,1247 1110,1247 1160,1246 1210,1246"/>
                 <TextEquiv>
                     <Unicode>ergeben, und ebensowenig würden die Töne fisis oder asas zu</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:10;}">
+            <TextLine id="r1l24" custom="readingOrder {index:10;} m_note {offset:4; length:4;} m_note {offset:9; length:1;} concept_phy {offset:18; length:12;}">
                 <Coords points="220,1299 1220,1299 1220,1268 1174,1259 220,1268"/>
                 <Baseline points="226,1291 275,1291 324,1290 374,1290 423,1290 472,1290 522,1290 571,1290 620,1290 670,1290 719,1290 768,1290 818,1291 867,1291 916,1291 966,1291 1015,1292 1064,1292 1114,1292 1163,1292 1213,1292"/>
                 <TextEquiv>
                     <Unicode>dem Tone G in dem Verhältnisse von 2:1 stehen u. s. f. Da</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:11;}">
+            <TextLine id="r1l25" custom="readingOrder {index:11;} concept_mus {offset:15; length:9;} concept_mus {offset:36; length:6;}">
                 <Coords points="215,1342 1220,1346 1220,1307 1175,1300 215,1307"/>
                 <Baseline points="222,1334 271,1334 321,1334 370,1333 420,1333 470,1333 519,1333 569,1333 618,1333 668,1333 718,1333 767,1333 817,1334 866,1334 916,1334 966,1334 1015,1334 1065,1334 1114,1333 1164,1333 1214,1333"/>
                 <TextEquiv>
                     <Unicode>aber ein jedes praktisch brauchbare System in einer bestimmten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:12;}">
+            <TextLine id="r1l26" custom="readingOrder {index:12;} concept_mus {offset:55; length:4; continued:true;}">
                 <Coords points="212,1388 1218,1378 1147,1340 212,1348"/>
                 <Baseline points="218,1376 267,1376 317,1376 367,1376 416,1376 466,1376 516,1376 565,1376 615,1376 665,1376 715,1376 764,1376 814,1376 864,1375 913,1375 963,1375 1013,1375 1062,1375 1112,1375 1162,1374 1212,1374"/>
                 <TextEquiv>
                     <Unicode>Abgrenzung erscheinen muß, so begnügt sich die heutige Ton¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:13;}">
+            <TextLine id="r1l27" custom="readingOrder {index:13;} concept_mus {offset:0; length:5; continued:true;} concept_mus {offset:16; length:7;} m_note {offset:45; length:5;}">
                 <Coords points="206,1426 1210,1427 1210,1396 1126,1386 206,1388"/>
                 <Baseline points="213,1418 262,1418 312,1418 361,1418 411,1417 460,1417 510,1417 559,1417 609,1417 658,1417 708,1418 758,1418 807,1418 857,1418 906,1418 956,1418 1005,1418 1055,1418 1104,1418 1154,1417 1204,1417"/>
                 <TextEquiv>
                     <Unicode>kunst mit einem Systeme von 12 verschiedenen Tönen in der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:14;}">
+            <TextLine id="r1l28" custom="readingOrder {index:14;} m_interval {offset:0; length:6;} concept_mus {offset:23; length:27;}">
                 <Coords points="210,1467 1215,1467 1215,1437 1154,1427 210,1428"/>
                 <Baseline points="217,1461 266,1461 316,1462 365,1462 415,1461 465,1461 514,1461 564,1461 613,1461 663,1460 713,1460 762,1460 812,1460 861,1459 911,1459 961,1459 1010,1460 1060,1460 1109,1460 1159,1461 1209,1462"/>
                 <TextEquiv>
                     <Unicode>Octave, indem sie eine gleichschwebende Temperatur der obigen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:15;}">
+            <TextLine id="r1l29" custom="readingOrder {index:15;} m_interval {offset:0; length:12;} m_interval {offset:29; length:14;}">
                 <Coords points="211,1515 1182,1521 1211,1475 211,1477"/>
                 <Baseline points="217,1502 266,1503 315,1503 365,1504 414,1504 463,1504 513,1504 562,1504 611,1504 661,1503 710,1503 759,1503 809,1503 858,1503 907,1503 957,1503 1006,1503 1055,1503 1105,1503 1154,1504 1204,1504"/>
                 <TextEquiv>
                     <Unicode>Quintenfolge bei durchgängig reinen Octaven zu Grunde legt,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:16;}">
+            <TextLine id="r1l30" custom="readingOrder {index:16;} concept_mus {offset:25; length:14;} m_note {offset:40; length:4;} m_note {offset:47; length:3;} m_note {offset:52; length:1;}">
                 <Coords points="215,1554 1209,1555 1208,1515 215,1516"/>
                 <Baseline points="221,1545 270,1545 319,1546 368,1546 417,1546 466,1546 515,1546 564,1546 613,1546 662,1545 711,1545 760,1545 809,1544 858,1544 907,1544 956,1544 1005,1544 1054,1543 1103,1543 1152,1544 1202,1544"/>
                 <TextEquiv>
                     <Unicode>wobei die obenstehenden „enharmonischen Töne”: his, C und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:17;}">
+            <TextLine id="r1l31" custom="readingOrder {index:17;} m_note {offset:0; length:5;} m_note {offset:14; length:5;} m_note {offset:21; length:3;} m_note {offset:29; length:3;} concept_mus {offset:56; length:5; continued:true;}">
                 <Coords points="212,1595 1216,1594 1200,1555 212,1561"/>
                 <Baseline points="218,1588 267,1587 317,1587 366,1587 416,1587 466,1587 515,1587 565,1587 614,1587 664,1587 714,1588 763,1588 813,1588 862,1588 912,1588 962,1588 1011,1588 1061,1587 1110,1587 1160,1586 1210,1586"/>
                 <TextEquiv>
                     <Unicode>deses, ebenso hisis, cis und des u. s. f. wie bei einem wohl¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:18;}">
+            <TextLine id="r1l32" custom="readingOrder {index:18;} concept_mus {offset:0; length:11; continued:true;} concept_mus {offset:12; length:8;} concept_mus {offset:25; length:14;}">
                 <Coords points="210,1644 1183,1643 1183,1607 1127,1596 210,1603"/>
                 <Baseline points="217,1631 265,1631 313,1631 361,1631 409,1631 457,1631 505,1631 553,1631 601,1631 649,1631 697,1631 745,1631 793,1631 841,1630 889,1630 937,1630 985,1630 1033,1630 1081,1630 1129,1630 1177,1630"/>
                 <TextEquiv>

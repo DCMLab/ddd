@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2020-12-03T18:01:32.899+01:00</Created>
-        <LastChange>2021-07-14T18:32:24.800+02:00</LastChange>
-        <TranskribusMetadata docId="548790" pageId="22902767" pageNr="139" tsid="61441795" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=YEDENKPAPSSDUQLFLZUJTEFG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UDIGCDMAJHRTFVQKHZNPDJXY" imageId="17866058"/>
+        <LastChange>2021-08-28T10:22:49.896+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28702043" pageNr="139" tsid="63600535" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=PSFPIHBMLDVYUYBQWMKCWVXD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BYZMIIMBYTOERDBWRKJDMJJT" imageId="22425121"/>
     </Metadata>
     <Page imageFilename="Hostinský1879-0139.jpg" imageWidth="1407" imageHeight="2241" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1626454122173" caption="Regions reading order">
+            <OrderedGroup id="ro_1630573588881" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1626276420825_1195"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1626276420825_1194"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1626276418554_1190"/>
@@ -23,37 +23,37 @@ Transkribus</Creator>
                 <Coords points="492,707 973,700 973,660 946,645 492,636"/>
                 <Baseline points="499,696 524,695 550,695 576,695 602,695 628,695 654,694 680,694 706,694 732,694 758,694 784,694 810,694 836,694 862,694 888,695 914,695 940,695 966,696"/>
                 <TextEquiv>
-                    <Unicode>RUCKBLICK.</Unicode>
+                    <Unicode>RÜCKBLICK.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>RUCKBLICK.</Unicode>
+                <Unicode>RÜCKBLICK.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626276420825_1194" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="157,746 1309,746 1309,1612 157,1612"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:24; length:13;} concept_mus {offset:38; length:11;} concept_phy {offset:38; length:11;}">
                 <Coords points="246,899 1304,900 1304,860 382,865 245,828"/>
                 <Baseline points="253,889 305,890 357,891 409,891 461,892 514,892 566,892 618,892 670,892 722,891 775,891 827,891 879,890 931,890 983,889 1036,889 1088,888 1140,888 1192,888 1244,887 1297,887"/>
                 <TextEquiv>
                     <Unicode>Mit der Betrachtung der mehrstimmigen Dissonanzen ist die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:59; length:5; continued:true;}">
                 <Coords points="157,947 1288,939 1302,899 157,909"/>
                 <Baseline points="165,935 221,935 277,935 334,935 390,934 447,934 503,934 560,934 616,934 673,933 729,933 785,933 842,933 898,932 955,932 1011,931 1068,931 1124,930 1181,929 1237,929 1294,928"/>
                 <TextEquiv>
                     <Unicode>Aufgabe dieser Schrift, die sich nur mit der Lehre von den musi¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:0; length:17; continued:true;}">
                 <Coords points="156,988 1307,976 1306,948 1232,940 156,949"/>
                 <Baseline points="163,977 219,977 276,977 333,976 390,976 447,976 504,976 560,976 617,975 674,975 731,975 788,975 845,975 902,974 958,974 1015,973 1072,973 1129,972 1186,971 1243,970 1300,969"/>
                 <TextEquiv>
                     <Unicode>kalischen Klängen als solchen, ohne Rücksicht auf irgend ein bestimm¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:27; length:9;}">
                 <Coords points="155,1028 1303,1019 1287,979 155,988"/>
                 <Baseline points="162,1020 218,1020 275,1020 331,1019 388,1019 445,1019 501,1019 558,1019 615,1019 671,1018 728,1018 785,1018 841,1017 898,1017 955,1016 1011,1016 1068,1015 1125,1015 1181,1014 1238,1014 1295,1013"/>
                 <TextEquiv>
@@ -74,7 +74,7 @@ Transkribus</Creator>
                     <Unicode>gelöst. Die Beantwortung der weiteren Fragen: wie sich die ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_mus {offset:11; length:7;} concept_mus {offset:53; length:8;}">
                 <Coords points="156,1155 1306,1147 1306,1107 156,1124"/>
                 <Baseline points="163,1145 219,1145 276,1145 333,1145 390,1145 447,1145 503,1145 560,1144 617,1144 674,1144 731,1143 787,1143 844,1143 901,1142 958,1142 1015,1141 1071,1141 1128,1140 1185,1140 1242,1139 1299,1138"/>
                 <TextEquiv>
@@ -95,28 +95,28 @@ Transkribus</Creator>
                     <Unicode>herrschende abendländische rationell zu construiren sei, wie sich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+            <TextLine id="r1l11" custom="readingOrder {index:9;} concept_mus {offset:58; length:7;}">
                 <Coords points="162,1284 1302,1279 1302,1242 161,1244"/>
                 <Baseline points="169,1271 225,1271 281,1272 337,1272 394,1272 450,1272 506,1272 563,1271 619,1271 675,1271 732,1270 788,1270 844,1269 900,1269 957,1268 1013,1268 1069,1268 1126,1267 1182,1267 1238,1267 1295,1267"/>
                 <TextEquiv>
                     <Unicode>die mannigfaltigen Erscheinungsformen Eines und desselben Systems</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+            <TextLine id="r1l12" custom="readingOrder {index:10;} m_tonality {offset:4; length:15;} m_tonality {offset:28; length:8;}">
                 <Coords points="163,1324 1305,1320 1304,1284 1244,1274 163,1286"/>
                 <Baseline points="170,1313 226,1313 282,1314 339,1314 395,1314 451,1314 508,1314 564,1314 620,1314 677,1313 733,1313 789,1313 846,1312 902,1312 958,1311 1015,1311 1071,1310 1127,1310 1184,1309 1240,1309 1297,1308"/>
                 <TextEquiv>
                     <Unicode>die Tongeschlechter und die Tonarten zu einander verhalten,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+            <TextLine id="r1l13" custom="readingOrder {index:11;} time {offset:24; length:8;} concept_mus {offset:33; length:5;} concept_mus {offset:43; length:11;}">
                 <Coords points="163,1364 1306,1363 1306,1322 163,1333"/>
                 <Baseline points="170,1354 226,1354 282,1355 339,1356 395,1356 452,1356 508,1356 565,1356 621,1356 678,1355 734,1355 790,1354 847,1354 903,1353 960,1353 1016,1352 1073,1352 1129,1351 1186,1351 1242,1351 1299,1350"/>
                 <TextEquiv>
                     <Unicode>welche Bedeutung in der heutigen Musik die diatonische und die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+            <TextLine id="r1l14" custom="readingOrder {index:12;} concept_mus {offset:0; length:12;} m_tonality {offset:13; length:5;} concept_mus {offset:54; length:9;}">
                 <Coords points="158,1412 1223,1411 1306,1401 1306,1368 158,1371"/>
                 <Baseline points="166,1396 222,1396 279,1397 335,1397 392,1397 449,1397 505,1397 562,1397 619,1396 675,1396 732,1396 789,1395 845,1395 902,1394 959,1394 1015,1393 1072,1393 1129,1392 1185,1392 1242,1391 1299,1391"/>
                 <TextEquiv>
@@ -151,7 +151,7 @@ Transkribus</Creator>
                     <Unicode>neuen, kaum minder umfangreichen Abschnitt der Aesthetik der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+            <TextLine id="r1l19" custom="readingOrder {index:17;} concept_mus {offset:0; length:8;} textStyle {offset:10; length:23;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:24; length:9;}">
                 <Coords points="163,1612 924,1610 924,1584 846,1571 163,1571"/>
                 <Baseline points="170,1603 207,1604 244,1604 281,1604 319,1604 356,1604 393,1604 431,1603 468,1603 505,1603 543,1603 580,1603 617,1603 654,1602 692,1602 729,1602 766,1602 804,1602 841,1602 878,1602 916,1602"/>
                 <TextEquiv>
@@ -188,56 +188,56 @@ Tonkunst: die Lehre vom Tonsystem.</Unicode>
                     <Unicode>Aus dem Vorhergehenden dürfte wohl hinreichend klar ge¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:1;}">
+            <TextLine id="r1l21" custom="readingOrder {index:1;} concept_mus {offset:36; length:21;}">
                 <Coords points="154,1702 1221,1707 1307,1699 1307,1658 154,1674"/>
                 <Baseline points="161,1693 220,1693 280,1694 340,1694 400,1694 460,1694 520,1694 580,1694 640,1693 700,1693 760,1692 820,1692 880,1691 940,1691 1000,1690 1060,1690 1120,1689 1180,1689 1240,1689 1300,1689"/>
                 <TextEquiv>
                     <Unicode>worden sein, dass die Lehre von den musikalischen Klängen, und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:2;}">
+            <TextLine id="r1l22" custom="readingOrder {index:2;} concept_mus {offset:31; length:9;} concept_phy {offset:31; length:9;} concept_mus {offset:45; length:9;} concept_phy {offset:45; length:9;}">
                 <Coords points="159,1748 1295,1739 1308,1706 159,1714"/>
                 <Baseline points="167,1736 223,1736 280,1736 337,1736 393,1736 450,1736 507,1736 563,1735 620,1735 677,1735 734,1734 790,1734 847,1733 904,1733 960,1732 1017,1732 1074,1731 1130,1731 1187,1730 1244,1729 1301,1729"/>
                 <TextEquiv>
                     <Unicode>zwar nicht nur ihr allgemeiner Consonanz und Dissonanz behan¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:3;}">
+            <TextLine id="r1l23" custom="readingOrder {index:3;} concept_mus {offset:49; length:11;}">
                 <Coords points="158,1788 949,1796 1314,1779 1314,1745 158,1748"/>
                 <Baseline points="165,1777 222,1778 279,1778 336,1778 393,1778 450,1778 507,1778 564,1777 621,1777 678,1777 736,1776 793,1776 850,1776 907,1775 964,1774 1021,1774 1078,1773 1135,1773 1192,1772 1249,1771 1307,1771"/>
                 <TextEquiv>
                     <Unicode>delnder Theil, sondern namentlich auch die ganze Accordlehre der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:4;}">
+            <TextLine id="r1l24" custom="readingOrder {index:4;} concept_mus {offset:16; length:10;}">
                 <Coords points="155,1828 1314,1827 1313,1785 155,1788"/>
                 <Baseline points="162,1820 219,1820 276,1820 333,1820 391,1820 448,1820 505,1820 562,1819 620,1819 677,1819 734,1818 791,1818 849,1818 906,1817 963,1817 1020,1816 1078,1815 1135,1815 1192,1814 1249,1814 1307,1813"/>
                 <TextEquiv>
                     <Unicode>Besprechung des Tonsystems vorangehen muss. Sobald man es</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:5;}">
+            <TextLine id="r1l25" custom="readingOrder {index:5;} concept_mus {offset:25; length:20;} concept_mus {offset:54; length:7; continued:true;}">
                 <Coords points="165,1875 1292,1868 1309,1827 165,1835"/>
                 <Baseline points="172,1862 228,1862 285,1862 341,1862 398,1862 454,1862 511,1862 567,1861 624,1861 680,1861 737,1860 793,1860 850,1859 906,1859 963,1858 1019,1858 1076,1857 1132,1856 1189,1856 1245,1855 1302,1855"/>
                 <TextEquiv>
                     <Unicode>versucht, die Regeln der Accordverwandtschaft und der Accord¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:6;}">
+            <TextLine id="r1l26" custom="readingOrder {index:6;} concept_mus {offset:0; length:5; continued:true;} concept_mus {offset:11; length:9;} concept_mus {offset:25; length:11;} concept_phy {offset:25; length:11;}">
                 <Coords points="158,1916 1312,1907 1312,1868 157,1875"/>
                 <Baseline points="165,1905 222,1905 279,1905 336,1905 393,1905 450,1904 507,1904 564,1904 621,1904 678,1903 735,1903 792,1903 849,1902 906,1902 963,1901 1020,1900 1077,1900 1134,1899 1191,1898 1248,1897 1305,1896"/>
                 <TextEquiv>
                     <Unicode>folge, der Auflösung der Dissonanzen u. s. f. aus der Beschaffenheit</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:7;}">
+            <TextLine id="r1l27" custom="readingOrder {index:7;} concept_mus {offset:4; length:7;}">
                 <Coords points="161,1956 1118,1955 1305,1947 1305,1915 160,1916"/>
                 <Baseline points="168,1947 224,1947 281,1947 337,1947 394,1947 450,1947 507,1946 563,1946 620,1946 676,1946 733,1945 789,1945 846,1944 902,1944 959,1943 1015,1943 1072,1942 1128,1942 1185,1941 1241,1940 1298,1940"/>
                 <TextEquiv>
                     <Unicode>des Systems und seiner Erscheinungsformen abzuleiten, statt um¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:8;}">
+            <TextLine id="r1l28" custom="readingOrder {index:8;} concept_mus {offset:12; length:6;}">
                 <Coords points="162,2012 1308,1996 1317,1957 162,1964"/>
                 <Baseline points="169,1990 226,1990 283,1990 340,1990 397,1990 454,1990 511,1989 568,1989 625,1989 682,1988 739,1988 796,1988 853,1987 910,1986 967,1986 1024,1985 1081,1985 1138,1984 1195,1983 1252,1983 1309,1982"/>
                 <TextEquiv>
