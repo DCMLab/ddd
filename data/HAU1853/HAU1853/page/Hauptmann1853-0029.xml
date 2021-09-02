@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:31.741+01:00</Created>
-        <LastChange>2021-03-10T19:47:32.683+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846445" pageNr="20" tsid="53537114" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=UTNYZLJATFUWIQUBUOXTRBUZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GAKNAWPCSZOVECCNTNLFOQYN" imageId="18302911"/>
+        <LastChange>2021-08-30T23:51:49.477+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718889" pageNr="20" tsid="63800253" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=WORFRVTRKMGWXMWKMYAMISIA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ALBIGJJAEQPJWCCGMEDXZXPJ" imageId="22439394"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0029.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196685938" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595890952" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612359086583_2432"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612359086583_2431"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612359083990_2427"/>
@@ -35,7 +35,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612359086583_2431" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="235,308 1292,308 1292,439 235,439"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:18; length:12;}">
                 <Coords points="236,387 1282,380 1290,345 236,347"/>
                 <Baseline points="242,373 294,373 346,373 398,372 450,372 502,372 554,372 606,372 658,371 710,371 763,371 815,371 867,371 919,371 971,371 1023,371 1075,372 1127,372 1179,372 1231,373 1284,373"/>
                 <TextEquiv>
@@ -125,7 +125,7 @@ selbst zu leichterer Verständlichkeit auseinander legt.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612359078621_2423" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="235,863 1292,863 1292,1443 235,1443"/>
-            <TextLine id="r1l12" custom="readingOrder {index:0;}">
+            <TextLine id="r1l12" custom="readingOrder {index:0;} concept_mus {offset:29; length:11;}">
                 <Coords points="321,908 1290,906 1290,876 1204,867 321,867"/>
                 <Baseline points="328,895 375,896 423,897 471,898 519,898 566,899 614,899 662,899 710,899 757,899 805,899 853,899 901,899 948,899 996,899 1044,899 1092,899 1139,899 1187,900 1235,900 1283,901"/>
                 <TextEquiv>
@@ -139,7 +139,7 @@ selbst zu leichterer Verständlichkeit auseinander legt.</Unicode>
                     <Unicode>einzelnen Gliede, sondern erst an der Folge von Gliedern</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:2;}">
+            <TextLine id="r1l14" custom="readingOrder {index:2;} concept_mus {offset:45; length:11;}">
                 <Coords points="238,1018 1297,1018 1297,980 1246,971 238,972"/>
                 <Baseline points="244,1005 296,1005 348,1005 400,1005 453,1005 505,1005 557,1006 610,1006 662,1006 714,1006 767,1005 819,1005 871,1005 923,1005 976,1005 1028,1005 1080,1006 1133,1006 1185,1006 1237,1006 1290,1006"/>
                 <TextEquiv>
@@ -160,7 +160,7 @@ selbst zu leichterer Verständlichkeit auseinander legt.</Unicode>
                     <Unicode>Reihe gewordenes, das die Bedingungen seines Werdens an</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:5;}">
+            <TextLine id="r1l17" custom="readingOrder {index:5;} concept_mus {offset:46; length:11;}">
                 <Coords points="230,1172 1250,1172 1289,1170 1289,1135 230,1140"/>
                 <Baseline points="237,1160 289,1161 341,1162 393,1162 446,1163 498,1163 550,1163 603,1164 655,1164 707,1164 760,1164 812,1163 864,1163 916,1163 969,1163 1021,1163 1073,1163 1126,1163 1178,1163 1230,1164 1283,1164"/>
                 <TextEquiv>
@@ -239,7 +239,7 @@ das Ganze entsteht, leichtere Fasslichkeit erhalten.</Unicode>
                     <Unicode>der Einheit seiner drei Momente, die wir in erster Aeusse¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:3;} textStyle {offset:28; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:35; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:45; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l26" custom="readingOrder {index:3;} m_interval {offset:13; length:10;} textStyle {offset:28; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:28; length:5;} textStyle {offset:35; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:35; length:5;} textStyle {offset:45; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:45; length:4;}">
                 <Coords points="238,1651 1295,1651 1295,1611 238,1613"/>
                 <Baseline points="244,1638 296,1639 348,1639 400,1639 452,1639 505,1640 557,1640 609,1640 661,1640 713,1640 766,1640 818,1640 870,1640 922,1640 974,1640 1027,1640 1079,1640 1131,1640 1183,1640 1235,1640 1288,1640"/>
                 <TextEquiv>
@@ -267,14 +267,14 @@ das Ganze entsteht, leichtere Fasslichkeit erhalten.</Unicode>
                     <Unicode>dung und Umbildung: dem, dass Etwas, das für die An¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:7;}">
+            <TextLine id="r1l30" custom="readingOrder {index:7;} m_interval {offset:44; length:5;}">
                 <Coords points="232,1859 1285,1868 1285,1826 1238,1812 232,1829"/>
                 <Baseline points="239,1850 291,1851 343,1851 395,1851 447,1851 499,1851 551,1851 603,1851 655,1851 707,1851 759,1851 811,1850 863,1850 915,1850 967,1850 1019,1851 1071,1851 1123,1851 1175,1852 1227,1853 1279,1854"/>
                 <TextEquiv>
                     <Unicode>schauung zuerst in unmittelbarer Totalität (Octav) besteht,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:8;}">
+            <TextLine id="r1l31" custom="readingOrder {index:8;} m_interval {offset:30; length:5;}">
                 <Coords points="233,1916 1292,1916 1292,1868 1205,1894 234,1867"/>
                 <Baseline points="240,1903 292,1903 344,1903 396,1903 449,1904 501,1904 553,1904 605,1904 658,1904 710,1904 762,1904 814,1904 867,1904 919,1904 971,1905 1023,1905 1076,1905 1128,1905 1180,1905 1232,1906 1285,1906"/>
                 <TextEquiv>
@@ -288,7 +288,7 @@ das Ganze entsteht, leichtere Fasslichkeit erhalten.</Unicode>
                     <Unicode>dieser Gegensatz sich wieder aufhebe, um das Ganze als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:10;}">
+            <TextLine id="r1l33" custom="readingOrder {index:10;} m_interval {offset:28; length:4;}">
                 <Coords points="233,2019 1290,2020 1290,1987 1236,1971 988,1999 233,1973"/>
                 <Baseline points="240,2010 292,2010 344,2009 396,2009 448,2009 500,2009 552,2009 605,2010 657,2010 709,2010 761,2010 813,2010 865,2010 917,2010 970,2010 1022,2010 1074,2010 1126,2010 1178,2010 1230,2010 1283,2009"/>
                 <TextEquiv>

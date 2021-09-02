@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:36.408+01:00</Created>
-        <LastChange>2021-03-15T12:19:38.977+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846678" pageNr="150" tsid="53708098" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=LKBQNZQSORIKEAPOQPGFEIKT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UOOTPEHAPZPAOPISZISJHPLQ" imageId="18303144"/>
+        <LastChange>2021-09-02T00:11:00.152+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28719020" pageNr="150" tsid="63936113" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=PTNDSJRMQQIRKDOPNAOARUAI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QGRUSQXCFTXKNDEIWOYOVCRP" imageId="22439525"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0159.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196705122" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595908548" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612566212848_3044"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612566212848_3043"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612566210240_3039"/>
@@ -34,14 +34,14 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612566212848_3043" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="206,290 1272,290 1272,848 206,848"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_tonality {offset:6; length:8;} concept_mus {offset:26; length:10;}">
                 <Coords points="210,364 1261,363 1269,316 210,329"/>
                 <Baseline points="217,353 269,354 321,354 373,354 426,355 478,355 530,355 583,354 635,354 687,354 740,354 792,354 844,353 896,353 949,353 1001,353 1053,353 1106,353 1158,354 1210,354 1263,355"/>
                 <TextEquiv>
                     <Unicode>reren Tonarten, sowie die Modulation, welche während</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:4; length:9;}">
                 <Coords points="210,419 1260,422 1260,384 1142,371 917,396 210,377"/>
                 <Baseline points="216,407 267,407 319,407 371,408 423,408 475,408 527,408 579,407 631,407 683,407 735,407 786,407 838,407 890,407 942,407 994,407 1046,407 1098,407 1150,407 1202,407 1254,408"/>
                 <TextEquiv>
@@ -69,14 +69,14 @@ Transkribus</Creator>
                     <Unicode>Anschauung gewähren könnte. Wenn wir aus der Kennt¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} concept_phy {offset:9; length:11;} concept_phy {offset:29; length:16;}">
                 <Coords points="206,624 1259,621 1167,580 206,596"/>
                 <Baseline points="213,619 267,619 322,619 377,619 431,619 486,618 541,618 595,618 650,618 705,617 759,617 814,617 869,617 923,617 978,617 1033,617 1087,618 1142,618 1197,619 1252,620"/>
                 <TextEquiv>
                     <Unicode>niss des Körperbaues und der Muskelfunctionen jede Be¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_phy {offset:21; length:11;}">
                 <Coords points="210,680 1268,683 1268,643 1064,635 210,644"/>
                 <Baseline points="217,670 269,671 321,671 373,671 425,672 478,672 530,671 582,671 634,671 686,671 739,670 791,670 843,670 895,670 947,670 1000,670 1052,670 1104,670 1156,671 1208,672 1261,673"/>
                 <TextEquiv>
@@ -97,7 +97,7 @@ Transkribus</Creator>
                     <Unicode>in den Sinn kommen, für den Ausdruck einer Reihe wech¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+            <TextLine id="r1l11" custom="readingOrder {index:9;} concept_phy {offset:22; length:15;}">
                 <Coords points="210,843 1228,842 1228,811 1154,795 210,803"/>
                 <Baseline points="217,830 267,830 317,830 367,830 418,830 468,829 518,829 568,829 619,829 669,829 719,829 769,829 820,829 870,829 920,829 970,829 1021,829 1071,829 1121,830 1171,830 1222,830"/>
                 <TextEquiv>
@@ -119,28 +119,28 @@ selnder Actionen eine Bewegungsformel finden zu wollen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612566210240_3039" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="206,848 1272,848 1272,1643 206,1643"/>
-            <TextLine id="r1l12" custom="readingOrder {index:0;}">
+            <TextLine id="r1l12" custom="readingOrder {index:0;} m_chord {offset:18; length:10;} concept_mus {offset:38; length:9; continued:true;}">
                 <Coords points="289,891 1258,887 1232,844 897,868 808,844 441,844 363,872 289,852"/>
                 <Baseline points="295,882 342,882 390,882 438,882 486,882 534,882 581,882 629,882 677,881 725,881 773,881 820,881 868,881 916,881 964,881 1012,881 1059,881 1107,882 1155,882 1203,882 1251,882"/>
                 <TextEquiv>
                     <Unicode>Es sind immer nur Dreiklänge nächster Verwandt¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:1;}">
+            <TextLine id="r1l13" custom="readingOrder {index:1;} concept_mus {offset:0; length:6; continued:true;}">
                 <Coords points="213,946 1271,944 1271,908 1233,900 213,908"/>
                 <Baseline points="220,936 272,936 324,935 376,935 428,935 481,935 533,935 585,935 637,934 689,934 742,934 794,934 846,934 898,934 950,934 1003,934 1055,935 1107,935 1159,935 1211,935 1264,935"/>
                 <TextEquiv>
                     <Unicode>schaft, die in einander übergehen, oder sich auseinander</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:2;}">
+            <TextLine id="r1l14" custom="readingOrder {index:2;} concept_mus {offset:17; length:23;}">
                 <Coords points="209,994 1246,995 1256,956 209,963"/>
                 <Baseline points="215,987 266,987 318,987 370,987 421,987 473,987 525,987 576,987 628,987 680,987 732,987 783,987 835,987 887,987 938,987 990,987 1042,988 1093,988 1145,988 1197,988 1249,987"/>
                 <TextEquiv>
                     <Unicode>entwickeln: eine Dreiklangs-Metamorphose, nach densel¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:3;}">
+            <TextLine id="r1l15" custom="readingOrder {index:3;} m_chord {offset:36; length:9;}">
                 <Coords points="217,1052 1276,1051 1276,1016 1230,1003 1156,1031 1079,1003 651,1031 217,1004"/>
                 <Baseline points="224,1039 276,1039 328,1040 380,1040 433,1040 485,1041 537,1041 590,1041 642,1041 694,1041 747,1040 799,1040 851,1040 903,1040 956,1040 1008,1040 1060,1040 1113,1040 1165,1041 1217,1041 1270,1041"/>
                 <TextEquiv>
@@ -244,7 +244,7 @@ Gliedern. —</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="heading" id="TextRegion_1612566203752_3035" custom="readingOrder {index:3;} structure {type:heading;}">
             <Coords points="206,1643 1272,1643 1272,1771 206,1771"/>
-            <TextLine id="r1l27" custom="readingOrder {index:0;}">
+            <TextLine id="r1l27" custom="readingOrder {index:0;} concept_mus {offset:0; length:12;} concept_mus {offset:13; length:9;} concept_mus {offset:27; length:9;} concept_phy {offset:27; length:9;}">
                 <Coords points="341,1735 1135,1747 1119,1709 965,1692 341,1694"/>
                 <Baseline points="347,1731 386,1731 425,1731 464,1731 503,1731 542,1732 581,1732 620,1732 659,1732 698,1732 737,1732 776,1732 815,1732 854,1733 893,1733 932,1733 971,1733 1010,1734 1049,1734 1088,1735 1128,1735"/>
                 <TextEquiv>
@@ -257,42 +257,42 @@ Gliedern. —</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1612566202247_3031" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
             <Coords points="206,1771 1272,1771 1272,2135 206,2135"/>
-            <TextLine id="r1l28" custom="readingOrder {index:0;}">
+            <TextLine id="r1l28" custom="readingOrder {index:0;} concept_mus {offset:14; length:9;} concept_mus {offset:28; length:9;} concept_phy {offset:28; length:9;} concept_mus {offset:46; length:5; continued:true;}">
                 <Coords points="296,1837 1271,1835 1271,1804 1200,1796 296,1796"/>
                 <Baseline points="303,1828 351,1828 399,1827 447,1827 495,1827 543,1827 591,1827 639,1828 687,1828 735,1828 783,1829 831,1829 879,1830 927,1830 975,1830 1023,1831 1071,1831 1119,1830 1167,1830 1215,1830 1264,1829"/>
                 <TextEquiv>
                     <Unicode>212. Wenn die Auflösung der Dissonanz für die Fort¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:1;}">
+            <TextLine id="r1l29" custom="readingOrder {index:1;} concept_mus {offset:0; length:10; continued:true;} concept_mus {offset:15; length:11;} concept_phy {offset:15; length:11;} m_note {offset:27; length:4;}">
                 <Coords points="208,1891 1266,1899 1246,1851 208,1853"/>
                 <Baseline points="215,1881 267,1881 319,1881 371,1881 424,1881 476,1881 528,1881 580,1881 633,1882 685,1882 737,1882 789,1882 842,1882 894,1883 946,1883 998,1883 1051,1883 1103,1884 1155,1884 1207,1884 1260,1885"/>
                 <TextEquiv>
                     <Unicode>schreitung der dissonanten Töne überhaupt darin besteht,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:2;}">
+            <TextLine id="r1l30" custom="readingOrder {index:2;} concept_mus {offset:11; length:30;}">
                 <Coords points="203,1942 1269,1947 1269,1908 1199,1900 203,1912"/>
                 <Baseline points="209,1935 261,1935 314,1935 367,1935 419,1935 472,1935 525,1935 577,1935 630,1935 683,1935 736,1936 788,1936 841,1936 894,1936 946,1936 999,1936 1052,1936 1104,1936 1157,1936 1210,1936 1263,1936"/>
                 <TextEquiv>
                     <Unicode>dass durch diatonisch-melodische Bewegung des einen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:3;}">
+            <TextLine id="r1l31" custom="readingOrder {index:3;} concept_mus {offset:40; length:11;} concept_phy {offset:40; length:11;} concept_mus {offset:52; length:4; continued:true;}">
                 <Coords points="208,1996 1195,2004 1270,1963 208,1964"/>
                 <Baseline points="215,1988 267,1988 319,1987 372,1987 424,1987 477,1987 529,1987 581,1988 634,1988 686,1988 739,1989 791,1989 843,1990 896,1990 948,1990 1001,1990 1053,1990 1105,1989 1158,1988 1210,1987 1263,1986"/>
                 <TextEquiv>
                     <Unicode>oder anderen derselben, oder beider ein consonantes Ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:4;}">
+            <TextLine id="r1l32" custom="readingOrder {index:4;} concept_mus {offset:0; length:8; continued:true;} m_interval {offset:10; length:4;} m_interval {offset:16; length:5;} m_interval {offset:27; length:5;}">
                 <Coords points="199,2052 1270,2041 1270,2016 1128,2004 924,2031 199,2005"/>
                 <Baseline points="206,2040 258,2040 311,2040 364,2040 417,2041 470,2041 523,2041 576,2042 629,2042 682,2043 735,2043 787,2043 840,2044 893,2044 946,2044 999,2044 1052,2043 1105,2043 1158,2042 1211,2041 1264,2040"/>
                 <TextEquiv>
                     <Unicode>hältniss, Terz, Quint oder Octav, in directer oder ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:5;}">
+            <TextLine id="r1l33" custom="readingOrder {index:5;} concept_mus {offset:8; length:4;} m_interval {offset:17; length:10;}">
                 <Coords points="202,2108 1275,2106 1255,2061 1021,2087 975,2060 202,2068"/>
                 <Baseline points="209,2094 264,2094 320,2094 376,2095 431,2095 487,2095 543,2096 599,2096 654,2096 710,2097 766,2097 822,2097 877,2097 933,2098 989,2098 1045,2098 1100,2098 1156,2097 1212,2097 1268,2096"/>
                 <TextEquiv>

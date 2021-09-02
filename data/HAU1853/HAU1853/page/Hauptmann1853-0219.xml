@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:37.920+01:00</Created>
-        <LastChange>2021-03-17T15:32:57.841+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846787" pageNr="210" tsid="53822529" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=JLLQVCVPGOJSKITKNPACJRER&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QWBXMJUXBUJVLQQBESOGVQMQ" imageId="18303253"/>
+        <LastChange>2021-09-02T16:07:45.571+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28719099" pageNr="210" tsid="64004493" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=EEYFVFRJFGYDQPJFXQUBHBWW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HZPBXYKHEGDDHJYIYBIGIUMI" imageId="22439604"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0219.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196714185" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595916278" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612641416488_6094"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612641416488_6093"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612641413902_6089"/>
@@ -32,21 +32,21 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612641416488_6093" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="193,289 1253,289 1253,584 193,584"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_tonality {offset:20; length:4;} m_tonality {offset:30; length:10;}">
                 <Coords points="191,356 1258,370 1241,325 191,323"/>
                 <Baseline points="197,352 249,353 302,353 355,353 408,353 460,354 513,354 566,354 619,354 671,354 724,354 777,354 830,354 882,354 935,354 988,354 1041,355 1093,355 1146,355 1199,356 1252,357"/>
                 <TextEquiv>
                     <Unicode>verbindung nach, in His- oder Desdes-Dur schliesst,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:14; length:12;}">
                 <Coords points="193,413 1095,427 1257,419 1258,380 193,379"/>
                 <Baseline points="199,404 251,405 304,405 356,406 409,406 462,407 514,407 567,407 619,407 672,407 725,408 777,408 830,408 882,408 935,408 988,408 1040,408 1093,408 1145,409 1198,409 1251,409"/>
                 <TextEquiv>
                     <Unicode>wenn auch die Notenschrift nicht eine von diesen, sondern</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_tonality {offset:4; length:14;}">
                 <Coords points="194,468 1256,474 1256,436 1209,427 674,448 194,421"/>
                 <Baseline points="201,458 253,458 305,459 358,459 410,459 463,460 515,460 568,460 620,460 673,461 725,461 777,461 830,461 882,461 935,461 987,462 1040,462 1092,462 1145,462 1197,461 1250,461"/>
                 <TextEquiv>
@@ -60,7 +60,7 @@ Transkribus</Creator>
                     <Unicode>Ganzen dann auch übrigens sein möchte, in Bezug auf die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} m_tonality {offset:0; length:6;}">
                 <Coords points="195,571 1079,578 1079,544 1006,532 196,531"/>
                 <Baseline points="202,563 245,563 289,564 332,564 376,565 419,565 463,566 506,566 550,567 593,567 637,567 680,567 724,567 767,567 811,568 854,568 898,568 941,568 985,567 1028,567 1072,567"/>
                 <TextEquiv>
@@ -77,7 +77,7 @@ Tonart wird es immer eine Unwahrheit enthalten.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1612641413902_6089" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
             <Coords points="193,584 1253,584 1253,2144 193,2144"/>
-            <TextLine id="r1l7" custom="readingOrder {index:0;}">
+            <TextLine id="r1l7" custom="readingOrder {index:0;} concept_mus {offset:16; length:5;}">
                 <Coords points="278,627 1252,627 1252,594 1181,587 278,587"/>
                 <Baseline points="284,616 332,617 380,618 428,618 476,619 524,619 572,619 620,620 668,620 716,620 764,620 812,620 860,621 908,621 956,621 1004,621 1052,621 1100,621 1148,621 1196,621 1245,622"/>
                 <TextEquiv>
@@ -98,14 +98,14 @@ Tonart wird es immer eine Unwahrheit enthalten.</Unicode>
                     <Unicode>das unmittelbar aneinanderhängende sinnlich vor uns haben,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+            <TextLine id="r1l10" custom="readingOrder {index:3;} concept_mus {offset:29; length:4;}">
                 <Coords points="192,788 1249,787 1249,755 1191,748 291,768 192,740"/>
                 <Baseline points="199,776 251,776 303,777 355,777 407,778 459,778 511,779 564,779 616,779 668,780 720,780 772,780 824,780 876,781 929,781 981,780 1033,780 1085,780 1137,779 1189,779 1242,778"/>
                 <TextEquiv>
                     <Unicode>lässt manches Mangelhafte in Form und Führung eines</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+            <TextLine id="r1l11" custom="readingOrder {index:4;} concept_mus {offset:0; length:10;}">
                 <Coords points="196,842 1247,851 1247,807 1198,796 614,822 196,796"/>
                 <Baseline points="203,831 254,830 306,830 358,830 410,830 462,830 514,831 565,831 617,831 669,832 721,832 773,832 825,833 877,833 928,834 980,834 1032,834 1084,834 1136,834 1188,833 1240,833"/>
                 <TextEquiv>
@@ -154,21 +154,21 @@ Tonart wird es immer eine Unwahrheit enthalten.</Unicode>
                     <Unicode>sogleich störend entgegentritt, so würde auch, gleich den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:11;}">
+            <TextLine id="r1l18" custom="readingOrder {index:11;} concept_mus {offset:29; length:11;}">
                 <Coords points="192,1212 1256,1210 1217,1172 192,1172"/>
                 <Baseline points="198,1200 250,1201 303,1201 355,1202 408,1203 460,1203 513,1203 565,1204 618,1204 670,1204 723,1204 776,1204 828,1204 881,1204 933,1204 986,1204 1038,1203 1091,1203 1143,1203 1196,1202 1249,1201"/>
                 <TextEquiv>
                     <Unicode>Fehlern in der unmittelbaren Accordfolge, das Ungehörige</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:12;}">
+            <TextLine id="r1l19" custom="readingOrder {index:12;} concept_mus {offset:7; length:15;} concept_mus {offset:43; length:10;}">
                 <Coords points="196,1268 1257,1264 1257,1233 1188,1219 196,1220"/>
                 <Baseline points="203,1254 255,1254 307,1255 360,1255 412,1255 464,1255 517,1256 569,1256 621,1256 674,1256 726,1257 778,1257 831,1257 883,1257 935,1257 988,1257 1040,1257 1092,1257 1145,1257 1197,1257 1250,1256"/>
                 <TextEquiv>
                     <Unicode>in der modulatorischen Disposition, wie in metrischen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:13;}">
+            <TextLine id="r1l20" custom="readingOrder {index:13;} concept_mus {offset:0; length:17;}">
                 <Coords points="193,1315 1252,1323 1252,1284 1215,1276 193,1277"/>
                 <Baseline points="200,1305 252,1306 304,1307 356,1308 409,1308 461,1309 513,1309 566,1310 618,1310 670,1310 723,1310 775,1310 827,1310 879,1310 932,1310 984,1310 1036,1310 1089,1310 1141,1310 1193,1310 1246,1309"/>
                 <TextEquiv>
@@ -196,35 +196,35 @@ Tonart wird es immer eine Unwahrheit enthalten.</Unicode>
                     <Unicode>ein räumlich Gegliedertes in seinen Verhältnissen zu über¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:17;}">
+            <TextLine id="r1l24" custom="readingOrder {index:17;} concept_mus {offset:28; length:5;}">
                 <Coords points="194,1532 1239,1523 1114,1483 194,1497"/>
                 <Baseline points="201,1520 252,1521 304,1521 355,1521 407,1521 458,1521 510,1522 561,1522 613,1522 664,1522 716,1523 768,1523 819,1523 871,1523 922,1523 974,1523 1025,1523 1077,1522 1128,1522 1180,1522 1232,1521"/>
                 <TextEquiv>
                     <Unicode>schauen. Es ist aber in der Musik eine solche Architecto¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:18;}">
+            <TextLine id="r1l25" custom="readingOrder {index:18;} concept_mus {offset:42; length:10;}">
                 <Coords points="188,1587 1245,1588 1245,1540 188,1548"/>
                 <Baseline points="195,1574 247,1574 299,1574 351,1574 403,1575 455,1575 507,1575 560,1575 612,1575 664,1576 716,1576 768,1576 820,1576 872,1576 925,1576 977,1576 1029,1576 1081,1576 1133,1575 1185,1575 1238,1575"/>
                 <TextEquiv>
                     <Unicode>nik, die hauptsächlich in der regelmässig metrischen und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:19;}">
+            <TextLine id="r1l26" custom="readingOrder {index:19;} concept_mus {offset:0; length:15;} concept_mus {offset:35; length:10;}">
                 <Coords points="190,1635 1175,1643 1250,1635 1251,1603 190,1604"/>
                 <Baseline points="197,1626 249,1626 301,1627 354,1627 406,1628 458,1628 511,1628 563,1629 615,1629 668,1629 720,1629 772,1629 825,1629 877,1629 929,1629 982,1628 1034,1628 1086,1628 1139,1628 1191,1628 1244,1627"/>
                 <TextEquiv>
                     <Unicode>modulatorischen Beschaffenheit des Tonstückes besteht, ein</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:20;}">
+            <TextLine id="r1l27" custom="readingOrder {index:20;} concept_mus {offset:40; length:17; continued:true;}">
                 <Coords points="191,1692 1234,1686 1234,1661 1102,1644 904,1667 750,1644 722,1672 591,1644 191,1652"/>
                 <Baseline points="197,1678 248,1679 300,1680 351,1680 403,1681 454,1681 506,1681 557,1682 609,1682 660,1682 712,1682 764,1682 815,1682 867,1682 918,1682 970,1682 1021,1682 1073,1681 1124,1681 1176,1682 1228,1682"/>
                 <TextEquiv>
                     <Unicode>so wesentliches Erforderniss, dass eine musikalische Com¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:21;}">
+            <TextLine id="r1l28" custom="readingOrder {index:21;} concept_mus {offset:0; length:8; continued:true;}">
                 <Coords points="190,1755 1247,1737 1247,1712 1136,1700 190,1707"/>
                 <Baseline points="196,1732 248,1732 300,1733 352,1733 404,1733 457,1733 509,1734 561,1734 613,1734 665,1735 718,1735 770,1735 822,1735 874,1735 926,1735 979,1735 1031,1735 1083,1735 1135,1735 1187,1734 1240,1734"/>
                 <TextEquiv>
@@ -252,7 +252,7 @@ Tonart wird es immer eine Unwahrheit enthalten.</Unicode>
                     <Unicode>indem wir auch gestaltlose, phrasenhafte Productionen,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:25;}">
+            <TextLine id="r1l32" custom="readingOrder {index:25;} concept_mus {offset:18; length:11;}">
                 <Coords points="193,1955 967,1970 1251,1954 1251,1913 193,1922"/>
                 <Baseline points="200,1945 252,1945 304,1945 356,1946 408,1946 461,1946 513,1946 565,1947 617,1947 669,1947 722,1947 774,1947 826,1947 878,1947 930,1947 983,1948 1035,1948 1087,1948 1139,1948 1191,1947 1244,1947"/>
                 <TextEquiv>
@@ -273,7 +273,7 @@ Tonart wird es immer eine Unwahrheit enthalten.</Unicode>
                     <Unicode>erringen sehen. In einer dauernden Gunst haben aber im¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:28;}">
+            <TextLine id="r1l35" custom="readingOrder {index:28;} concept_mus {offset:15; length:5;}">
                 <Coords points="188,2115 1259,2109 1007,2068 972,2095 188,2084"/>
                 <Baseline points="195,2106 247,2105 300,2105 353,2105 406,2105 459,2105 512,2106 564,2106 617,2106 670,2107 723,2107 776,2107 829,2108 882,2108 934,2108 987,2108 1040,2108 1093,2108 1146,2108 1199,2108 1252,2108"/>
                 <TextEquiv>

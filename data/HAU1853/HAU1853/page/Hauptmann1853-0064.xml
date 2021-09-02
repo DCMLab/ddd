@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:33.265+01:00</Created>
-        <LastChange>2021-03-11T13:55:10.936+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846507" pageNr="55" tsid="53581179" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=GPTVFWVAYHDYVIPWRJCHDYUN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UXOPWGATOFSNGKAVOBIHILJY" imageId="18302973"/>
+        <LastChange>2021-08-31T12:11:05.002+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718924" pageNr="55" tsid="63828422" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HUDSPHNZMDXNNBOZGLHASMPF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RSLLCWXHMDBJGWZMRSENJIRO" imageId="22439429"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0064.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196691112" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595895506" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612389309772_364"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612389309771_363"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612389303647_359"/>
@@ -36,35 +36,35 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612389309771_363" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="131,289 1196,289 1196,581 131,581"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_note {offset:0; length:4;}">
                 <Coords points="125,360 1189,363 1189,330 1135,317 125,327"/>
                 <Baseline points="131,352 183,352 236,353 288,353 341,353 394,353 446,353 499,353 551,353 604,353 657,353 709,353 762,353 814,353 867,353 920,353 972,353 1025,353 1077,353 1130,353 1183,354"/>
                 <TextEquiv>
                     <Unicode>Töne in verschiedener Bedeutung nicht vorkommen, eben</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:18; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:18; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:18; length:11;} m_note {offset:43; length:4;}">
                 <Coords points="129,418 1190,417 1164,371 130,380"/>
                 <Baseline points="136,404 188,405 240,405 293,406 345,406 397,406 450,406 502,406 554,406 607,406 659,406 711,406 764,406 816,406 868,406 921,406 973,406 1025,406 1078,407 1130,407 1183,408"/>
                 <TextEquiv>
                     <Unicode>so wenig als zwei chromatisch verschiedene Töne darin</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:16; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:16; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:16; length:12;} m_note {offset:42; length:4;}">
                 <Coords points="130,467 1188,468 1188,436 917,420 130,437"/>
                 <Baseline points="136,457 188,458 240,459 292,459 345,459 397,460 449,460 501,460 554,460 606,460 658,460 710,459 763,459 815,459 867,459 919,459 972,459 1024,459 1076,459 1128,459 1181,460"/>
                 <TextEquiv>
                     <Unicode>enthalten sind. Enharmonisch verschiedene Töne liegen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:40; length:16; continued:true;}">
                 <Coords points="138,523 1188,514 1188,490 1023,475 722,475 692,501 630,475 138,477"/>
                 <Baseline points="144,512 195,513 247,513 299,513 351,513 403,513 455,513 507,513 559,513 611,513 663,513 714,513 766,513 818,513 870,513 922,513 974,513 1026,513 1078,513 1130,513 1182,513"/>
                 <TextEquiv>
                     <Unicode>innerlich so weit auseinander, dass ein harmonisches Zu¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:0; length:13; continued:true;}">
                 <Coords points="134,579 893,571 893,545 848,532 134,540"/>
                 <Baseline points="140,565 177,565 214,565 251,566 289,566 326,566 363,566 401,566 438,566 475,566 513,566 550,566 587,567 624,567 662,567 699,566 736,566 774,566 811,566 848,565 886,565"/>
                 <TextEquiv>
@@ -81,63 +81,63 @@ sammentreffen derselben nicht möglich ist.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612389303647_359" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="131,581 1196,581 1196,1061 131,1061"/>
-            <TextLine id="r1l7" custom="readingOrder {index:0;}">
+            <TextLine id="r1l7" custom="readingOrder {index:0;} m_chord {offset:17; length:18;}">
                 <Coords points="212,623 1188,626 1168,587 212,592"/>
                 <Baseline points="219,618 267,618 315,619 363,619 411,619 459,619 507,619 555,619 603,619 651,619 700,619 748,619 796,619 844,619 892,619 940,619 988,619 1036,619 1084,619 1132,619 1181,619"/>
                 <TextEquiv>
                     <Unicode>51. Wenn man den Dissonanzdreiklang, welcher die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:1;} textStyle {offset:0; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l8" custom="readingOrder {index:1;} textStyle {offset:0; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:0; length:4;} concept_mus {offset:9; length:12;} m_note {offset:26; length:9;}">
                 <Coords points="129,676 1196,677 1159,636 968,661 903,636 129,644"/>
                 <Baseline points="135,673 187,673 240,673 293,673 345,673 398,673 451,673 503,673 556,673 609,673 662,673 714,673 767,673 820,673 872,673 925,673 978,673 1030,673 1083,673 1136,673 1189,673"/>
                 <TextEquiv>
                     <Unicode>Terz der Oberdominant zum Grundtone hat, z. B. in der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:2;} textStyle {offset:13; length:5;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l9" custom="readingOrder {index:2;} m_tonality {offset:0; length:11;} textStyle {offset:13; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:13; length:5;} concept_mus {offset:26; length:12;}">
                 <Coords points="132,737 1195,738 1195,700 1071,691 132,694"/>
                 <Baseline points="139,725 191,725 244,725 296,725 349,725 401,725 454,725 506,725 559,725 611,725 664,725 716,725 769,725 821,725 874,726 926,726 979,726 1031,726 1084,726 1136,726 1189,725"/>
                 <TextEquiv>
                     <Unicode>C-Durtonart: h-D|F, einen verminderten nennt, so können</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:3;} textStyle {offset:49; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l10" custom="readingOrder {index:3;} m_chord {offset:31; length:9;} textStyle {offset:49; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:49; length:5;}">
                 <Coords points="135,787 1073,796 1197,787 1197,747 135,755"/>
                 <Baseline points="141,777 193,778 245,778 298,779 350,779 403,779 455,779 508,779 560,780 613,779 665,779 717,779 770,779 822,779 875,779 927,779 980,779 1032,779 1085,779 1137,779 1190,779"/>
                 <TextEquiv>
                     <Unicode>wir dieselbe Benennung für den Dreiklang auf der Quint</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:4;} textStyle {offset:18; length:5;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:47; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l11" custom="readingOrder {index:4;} concept_mus {offset:4; length:12;} textStyle {offset:18; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:18; length:5;} textStyle {offset:47; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:47; length:3;}">
                 <Coords points="140,843 1183,851 1183,812 1100,796 878,795 841,823 763,795 481,820 140,795"/>
                 <Baseline points="147,832 198,832 249,832 301,832 352,832 404,832 455,832 507,832 558,832 610,833 661,833 712,833 764,833 815,833 867,833 918,833 970,833 1021,833 1073,833 1124,832 1176,832"/>
                 <TextEquiv>
                     <Unicode>der Oberdominant, D|F-a, anwenden, denn es ist D—a,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:5;} textStyle {offset:41; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l12" custom="readingOrder {index:5;} m_interval {offset:27; length:5;} textStyle {offset:41; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:41; length:3;}">
                 <Coords points="136,899 1174,899 1190,858 136,860"/>
                 <Baseline points="143,886 195,886 247,886 299,886 351,885 403,885 455,885 507,885 559,885 611,885 663,885 715,885 767,885 819,885 871,886 923,886 975,886 1027,886 1079,886 1131,886 1184,887"/>
                 <TextEquiv>
                     <Unicode>nach dem Vorigen, so wenig Quint, als es h—F ist. Beide</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+            <TextLine id="r1l13" custom="readingOrder {index:6;} m_chord {offset:0; length:7;} concept_mus {offset:43; length:6;}">
                 <Coords points="133,947 1193,947 1193,907 133,907"/>
                 <Baseline points="139,940 191,939 243,939 296,938 348,938 401,938 453,938 505,938 558,938 610,938 663,938 715,938 767,939 820,939 872,939 925,939 977,939 1029,940 1082,940 1134,940 1187,940"/>
                 <TextEquiv>
                     <Unicode>Accorde haben eine Zweiheit der Basis; die Unter- und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:7;} textStyle {offset:14; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:20; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l14" custom="readingOrder {index:7;} concept_mus {offset:0; length:12;} textStyle {offset:14; length:1;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:14; length:1;} textStyle {offset:20; length:1;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:20; length:1;} m_tonality {offset:37; length:10;} m_chord {offset:52; length:5; continued:true;}">
                 <Coords points="140,1004 1196,994 1166,955 140,956"/>
                 <Baseline points="146,992 198,992 250,992 302,992 354,992 407,992 459,992 511,992 563,992 615,992 668,992 720,992 772,992 824,992 876,992 929,992 981,992 1033,992 1085,992 1137,991 1190,991"/>
                 <TextEquiv>
                     <Unicode>Oberdominant: F und G. Ebenso in der Molltonart die Drei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:8;} textStyle {offset:7; length:5;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:14; length:6;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l15" custom="readingOrder {index:8;} m_chord {offset:0; length:6; continued:true;} textStyle {offset:7; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:7; length:5;} textStyle {offset:14; length:6;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:14; length:6;}">
                 <Coords points="133,1060 237,1067 258,1054 332,1067 351,1051 375,1067 396,1051 428,1068 453,1044 514,1051 514,1018 464,1012 399,1012 383,1028 357,1011 304,1011 291,1023 279,1011 210,1021 133,1012"/>
                 <Baseline points="140,1045 166,1045 192,1046 218,1046 245,1045 271,1045 297,1045 324,1044 350,1044 376,1044 402,1044 429,1044 455,1044 481,1044 508,1044"/>
                 <TextEquiv>
@@ -158,7 +158,7 @@ klänge h-D|F, D|F-as.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1612389297967_355" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
             <Coords points="131,1061 1196,1061 1196,1117 131,1117"/>
-            <TextLine id="r1l16" custom="readingOrder {index:0;} textStyle {offset:24; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l16" custom="readingOrder {index:0;} textStyle {offset:24; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:24; length:9;}">
                 <Coords points="213,1103 940,1107 940,1072 850,1067 213,1071"/>
                 <Baseline points="219,1099 254,1098 290,1098 326,1098 362,1098 397,1098 433,1098 469,1098 505,1098 540,1098 576,1098 612,1098 648,1098 683,1098 719,1098 755,1098 791,1098 826,1098 862,1098 898,1098 934,1098"/>
                 <TextEquiv>
@@ -174,14 +174,14 @@ klänge h-D|F, D|F-as.</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612389286030_347" custom="readingOrder {index:5;} structure {type:paragraph;}">
             <Coords points="131,1328 1196,1328 1196,1443 131,1443"/>
-            <TextLine id="r1l27" custom="readingOrder {index:0;}">
+            <TextLine id="r1l27" custom="readingOrder {index:0;} m_chord {offset:5; length:4;} m_chord {offset:16; length:14;} m_chord {offset:53; length:4; continued:true;}">
                 <Coords points="129,1379 663,1396 1203,1367 1036,1331 129,1344"/>
                 <Baseline points="135,1369 188,1369 241,1369 294,1370 347,1370 400,1370 453,1371 506,1371 559,1371 612,1372 665,1372 718,1372 771,1372 824,1372 877,1372 930,1372 983,1371 1036,1371 1089,1370 1142,1369 1196,1367"/>
                 <TextEquiv>
                     <Unicode>drei Dur-, zwei Molldreiklänge und zwei verschiedene ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:1;}">
+            <TextLine id="r1l28" custom="readingOrder {index:1;} m_chord {offset:0; length:19; continued:true;}">
                 <Coords points="133,1435 508,1435 508,1410 412,1387 357,1398 304,1387 250,1402 228,1389 133,1399"/>
                 <Baseline points="140,1424 165,1424 191,1424 217,1424 243,1424 269,1424 295,1424 321,1424 346,1424 372,1424 398,1424 424,1424 450,1424 476,1424 502,1424"/>
                 <TextEquiv>
@@ -195,7 +195,7 @@ minderte Dreiklänge.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1612389280651_343" custom="readingOrder {index:6;} structure {type:paragraph-continued;}">
             <Coords points="131,1443 1196,1443 1196,1499 131,1499"/>
-            <TextLine id="r1l29" custom="readingOrder {index:0;} textStyle {offset:4; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l29" custom="readingOrder {index:0;} textStyle {offset:4; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:4; length:10;}">
                 <Coords points="214,1492 328,1491 353,1481 432,1499 560,1483 560,1452 349,1450 336,1436 288,1451 214,1444"/>
                 <Baseline points="220,1477 245,1477 271,1476 297,1476 322,1476 348,1476 374,1476 399,1475 425,1476 451,1476 476,1476 502,1477 528,1478 554,1479"/>
                 <TextEquiv>
@@ -211,56 +211,56 @@ minderte Dreiklänge.</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1612389263162_335" custom="readingOrder {index:8;} structure {type:paragraph-continued;}">
             <Coords points="131,1696 1196,1696 1196,2144 131,2144"/>
-            <TextLine id="r1l39" custom="readingOrder {index:0;} textStyle {offset:30; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l39" custom="readingOrder {index:0;} textStyle {offset:30; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:36; length:12;}">
                 <Coords points="127,1737 1187,1739 1187,1708 1140,1699 127,1705"/>
                 <Baseline points="133,1729 185,1730 237,1730 290,1730 342,1730 395,1731 447,1731 499,1731 552,1731 604,1731 657,1731 709,1732 761,1732 814,1732 866,1732 919,1732 971,1732 1023,1732 1076,1731 1128,1731 1181,1731"/>
                 <TextEquiv>
                     <Unicode>enthält in erster Ordnung nur einen Durdreiklang, den der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l40" custom="readingOrder {index:1;}">
+            <TextLine id="r1l40" custom="readingOrder {index:1;} concept_mus {offset:0; length:12;} m_chord {offset:42; length:14;}">
                 <Coords points="132,1792 1190,1795 1158,1749 132,1750"/>
                 <Baseline points="139,1782 191,1783 243,1784 295,1784 348,1784 400,1785 452,1785 504,1785 557,1785 609,1785 661,1784 713,1784 766,1784 818,1784 870,1784 922,1784 975,1784 1027,1784 1079,1784 1131,1784 1184,1785"/>
                 <TextEquiv>
                     <Unicode>Oberdominant. Ein zweiter ergibt sich als Zwischenaccord der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l41" custom="readingOrder {index:2;}">
+            <TextLine id="r1l41" custom="readingOrder {index:2;} m_chord {offset:5; length:14;} concept_mus {offset:24; length:13;} concept_mus {offset:42; length:6;}">
                 <Coords points="127,1844 1184,1851 1194,1811 128,1814"/>
                 <Baseline points="134,1834 186,1835 239,1836 291,1837 344,1837 397,1838 449,1838 502,1838 555,1838 607,1838 660,1838 713,1838 765,1838 818,1838 871,1838 923,1837 976,1837 1029,1837 1081,1837 1134,1838 1187,1838"/>
                 <TextEquiv>
                     <Unicode>zwei Molldreiklänge der Unterdominant und Tonica. Ferner</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l42" custom="readingOrder {index:3;}">
+            <TextLine id="r1l42" custom="readingOrder {index:3;} m_chord {offset:16; length:22;} m_interval {offset:48; length:4;}">
                 <Coords points="133,1898 1172,1899 1187,1857 133,1867"/>
                 <Baseline points="140,1889 192,1889 244,1890 296,1890 348,1890 400,1890 452,1890 504,1891 556,1891 608,1891 660,1891 712,1891 764,1891 816,1891 868,1891 920,1891 972,1891 1024,1890 1076,1890 1128,1890 1180,1889"/>
                 <TextEquiv>
                     <Unicode>sind darin zwei verminderte Dreiklänge, auf der Terz und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l43" custom="readingOrder {index:4;}">
+            <TextLine id="r1l43" custom="readingOrder {index:4;} m_interval {offset:8; length:5;} concept_mus {offset:18; length:12;}">
                 <Coords points="135,1955 1182,1956 1190,1915 135,1917"/>
                 <Baseline points="142,1943 194,1943 246,1943 298,1943 350,1943 402,1943 454,1944 506,1944 558,1944 610,1944 662,1944 714,1944 766,1944 818,1944 870,1944 922,1944 974,1944 1026,1943 1078,1943 1130,1943 1183,1943"/>
                 <TextEquiv>
                     <Unicode>auf der Quint der Oberdominant enthalten, bestehend auf den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l44" custom="readingOrder {index:5;}">
+            <TextLine id="r1l44" custom="readingOrder {index:5;} concept_mus {offset:17; length:10;} m_tonality {offset:36; length:10;}">
                 <Coords points="126,2002 869,2019 1189,2002 1189,1963 126,1966"/>
                 <Baseline points="133,1994 185,1995 238,1996 290,1996 343,1997 395,1997 448,1997 500,1997 553,1997 605,1997 658,1997 710,1997 763,1997 815,1997 868,1996 920,1996 973,1996 1025,1996 1078,1996 1130,1996 1183,1996"/>
                 <TextEquiv>
                     <Unicode>Basen der beiden Dominanten, wie im Dursysteme; und zuletzt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l45" custom="readingOrder {index:6;}">
+            <TextLine id="r1l45" custom="readingOrder {index:6;} m_chord {offset:15; length:21;} m_interval {offset:46; length:8;}">
                 <Coords points="133,2059 1166,2060 1190,2020 133,2017"/>
                 <Baseline points="139,2048 191,2048 243,2048 295,2049 347,2049 400,2049 452,2049 504,2050 556,2050 608,2050 661,2050 713,2050 765,2050 817,2050 869,2049 922,2049 974,2049 1026,2049 1078,2049 1130,2049 1183,2049"/>
                 <TextEquiv>
                     <Unicode>der sogenannte übermässige Dreiklang, auf der Mollterz der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l46" custom="readingOrder {index:7;}">
+            <TextLine id="r1l46" custom="readingOrder {index:7;} m_interval {offset:0; length:6;}">
                 <Coords points="133,2115 1190,2115 1167,2067 279,2092 133,2068"/>
                 <Baseline points="140,2102 192,2102 244,2103 296,2103 348,2103 400,2103 452,2103 505,2103 557,2103 609,2103 661,2103 713,2103 765,2103 817,2103 870,2103 922,2102 974,2102 1026,2102 1078,2102 1130,2102 1183,2102"/>
                 <TextEquiv>

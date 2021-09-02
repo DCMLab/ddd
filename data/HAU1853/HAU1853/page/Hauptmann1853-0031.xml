@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:31.809+01:00</Created>
-        <LastChange>2021-03-10T20:15:13.574+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846448" pageNr="22" tsid="53537796" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=PJIJYTKRBGMTYLFSVULBLRGX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YIQJJZCZSTKAXCVGTAEGBTBZ" imageId="18302914"/>
+        <LastChange>2021-08-30T23:58:18.225+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718891" pageNr="22" tsid="63800404" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=LZGBUNPXBVYDBHFVYMJVBTAJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DHVOVKXUTMGTYQUSCWPBTGPY" imageId="22439396"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0031.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196686253" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595891290" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612359441154_2597"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612359441154_2596"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612359435996_2592"/>
@@ -42,14 +42,14 @@ Transkribus</Creator>
                     <Unicode>durch diese Bezeichnung anschaulich gemachten Unterschied</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_note {offset:4; length:5;} m_note {offset:14; length:9;} concept_mus {offset:52; length:4; continued:true;}">
                 <Coords points="237,425 1062,435 1271,427 1292,390 237,392"/>
                 <Baseline points="244,414 296,414 348,413 400,413 452,413 504,413 556,413 608,413 660,413 712,413 764,413 816,413 868,413 920,413 972,413 1024,414 1076,414 1128,414 1180,414 1232,413 1285,413"/>
                 <TextEquiv>
                     <Unicode>der Terz- und Quinttöne in seiner Bedeutung für die Har¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:0; length:5; continued:true;}">
                 <Coords points="233,474 1282,476 1298,443 233,444"/>
                 <Baseline points="240,466 292,466 345,466 397,466 450,466 502,466 555,466 607,466 660,466 712,466 765,467 818,467 870,467 923,467 975,467 1028,467 1080,467 1133,467 1185,467 1238,467 1291,467"/>
                 <TextEquiv>
@@ -72,35 +72,35 @@ fassen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612359435996_2592" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="239,535 1297,535 1297,800 239,800"/>
-            <TextLine id="r1l6" custom="readingOrder {index:0;} textStyle {offset:8; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l6" custom="readingOrder {index:0;} concept_mus {offset:8; length:22;} textStyle {offset:8; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:43; length:3; continued:true;}">
                 <Coords points="331,580 985,596 1292,572 1292,549 1176,532 331,540"/>
                 <Baseline points="338,570 385,571 432,571 480,571 527,571 575,572 622,572 669,572 717,572 764,572 812,572 859,572 906,572 954,572 1001,572 1049,572 1096,572 1143,571 1191,571 1238,571 1286,570"/>
                 <TextEquiv>
                     <Unicode>Was als harmonische Bestimmung in den drei In¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:1;}">
+            <TextLine id="r1l7" custom="readingOrder {index:1;} m_interval {offset:0; length:9; continued:true;} m_interval {offset:14; length:5;} m_interval {offset:21; length:5;} m_interval {offset:31; length:4;}">
                 <Coords points="239,635 1298,627 1274,587 239,595"/>
                 <Baseline points="245,623 297,623 349,623 401,623 454,624 506,624 558,624 611,624 663,625 715,625 768,625 820,625 872,625 924,625 977,625 1029,625 1081,624 1134,624 1186,623 1238,622 1291,621"/>
                 <TextEquiv>
                     <Unicode>tervallen der Octav, Quint und Terz und ihren gegenseiti¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:2;} textStyle {offset:48; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l8" custom="readingOrder {index:2;} concept_mus {offset:4; length:11;} textStyle {offset:48; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:48; length:6; continued:true;}">
                 <Coords points="243,698 1292,683 1271,644 243,652"/>
                 <Baseline points="250,676 301,676 353,676 405,676 457,677 509,677 560,677 612,677 664,677 716,677 768,677 819,677 871,677 923,677 975,677 1027,677 1078,677 1130,677 1182,676 1234,676 1286,676"/>
                 <TextEquiv>
                     <Unicode>gen Beziehungen enthalten ist, das sehen wir in metri¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:3;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l9" custom="readingOrder {index:3;} concept_mus {offset:0; length:16; continued:true;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="244,739 1221,748 1304,737 1304,706 244,708"/>
                 <Baseline points="251,729 303,729 355,729 407,730 460,730 512,730 564,730 617,731 669,731 721,731 774,731 826,731 878,731 930,731 983,731 1035,731 1087,730 1140,730 1192,730 1244,729 1297,729"/>
                 <TextEquiv>
                     <Unicode>scher Bestimmung, der abstracten Bedeutung nach, als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+            <TextLine id="r1l10" custom="readingOrder {index:4;} concept_mus {offset:31; length:11;}">
                 <Coords points="238,795 1190,795 1190,765 1135,749 238,763"/>
                 <Baseline points="245,783 291,782 338,782 385,782 432,782 479,782 526,782 573,782 620,782 667,783 714,783 760,783 807,783 854,783 901,783 948,783 995,783 1042,783 1089,783 1136,783 1183,783"/>
                 <TextEquiv>
@@ -117,42 +117,42 @@ zwei-, drei- und viergliedrige Zeiteinheit sich bilden.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612359430151_2588" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="239,800 1297,800 1297,1224 239,1224"/>
-            <TextLine id="r1l11" custom="readingOrder {index:0;}">
+            <TextLine id="r1l11" custom="readingOrder {index:0;} concept_mus {offset:41; length:9; continued:true;}">
                 <Coords points="323,844 1294,836 1277,804 323,804"/>
                 <Baseline points="329,834 379,834 429,835 480,835 530,835 581,835 631,835 682,836 732,836 783,836 833,836 884,836 934,836 985,836 1035,836 1086,836 1136,836 1187,835 1237,835 1288,834"/>
                 <TextEquiv>
                     <Unicode>Ebenso wiederholt sich der Gegensatz des musikali¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:1;}">
+            <TextLine id="r1l12" custom="readingOrder {index:1;} concept_mus {offset:0; length:5; continued:true;} concept_mus {offset:6; length:4;} concept_mus {offset:15; length:13;}">
                 <Coords points="232,899 1028,907 1279,899 1300,866 232,867"/>
                 <Baseline points="239,889 291,889 344,889 397,889 450,889 502,889 555,889 608,889 661,889 713,889 766,890 819,890 872,890 924,890 977,890 1030,890 1083,890 1135,889 1188,889 1241,888 1294,888"/>
                 <TextEquiv>
                     <Unicode>schen Dur- und Mollbegriffes, auf den hier, auch nur an¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:2;}">
+            <TextLine id="r1l13" custom="readingOrder {index:2;} concept_mus {offset:52; length:6; continued:true;}">
                 <Coords points="243,954 1295,947 1271,908 243,912"/>
                 <Baseline points="250,944 301,943 353,942 405,942 457,942 509,942 561,942 613,942 665,942 717,943 769,943 820,943 872,943 924,943 976,943 1028,943 1080,943 1132,943 1184,942 1236,942 1288,941"/>
                 <TextEquiv>
                     <Unicode>deutungsweise, noch nicht weiter einzugehen ist, in metri¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:3;}">
+            <TextLine id="r1l14" custom="readingOrder {index:3;} concept_mus {offset:0; length:16; continued:true;} concept_mus {offset:46; length:6;}">
                 <Coords points="244,1003 1296,1004 1275,963 244,972"/>
                 <Baseline points="250,994 304,995 359,995 414,995 468,995 523,995 578,995 632,995 687,995 742,995 796,995 851,995 906,995 960,995 1015,995 1070,995 1124,995 1179,995 1234,995 1289,996"/>
                 <TextEquiv>
                     <Unicode>scher Bestimmung als arsisches und thetisches Metrum, als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:4;}">
+            <TextLine id="r1l15" custom="readingOrder {index:4;} concept_mus {offset:28; length:8;}">
                 <Coords points="246,1059 1300,1058 1300,1011 246,1020"/>
                 <Baseline points="252,1049 304,1049 356,1049 408,1049 460,1049 512,1049 564,1049 616,1049 668,1049 720,1049 773,1049 825,1049 877,1049 929,1049 981,1049 1033,1049 1085,1049 1137,1049 1189,1049 1241,1049 1294,1048"/>
                 <TextEquiv>
                     <Unicode>trochäischer und jambischer Rhythmus; wie auch die drei</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:5;}">
+            <TextLine id="r1l16" custom="readingOrder {index:5;} concept_mus {offset:19; length:10;} concept_mus {offset:45; length:8;}">
                 <Coords points="237,1114 1300,1108 1286,1067 237,1068"/>
                 <Baseline points="243,1101 295,1101 348,1101 400,1101 453,1101 505,1102 558,1102 610,1102 663,1102 715,1102 768,1102 820,1102 873,1102 925,1102 978,1102 1030,1102 1083,1102 1135,1102 1188,1102 1240,1101 1293,1101"/>
                 <TextEquiv>
@@ -186,14 +186,14 @@ müssen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612359417193_2584" custom="readingOrder {index:4;} structure {type:paragraph;}">
             <Coords points="239,1224 1297,1224 1297,1760 239,1760"/>
-            <TextLine id="r1l19" custom="readingOrder {index:0;}">
+            <TextLine id="r1l19" custom="readingOrder {index:0;} concept_mus {offset:4; length:20;}">
                 <Coords points="330,1268 663,1283 838,1257 1064,1283 1200,1250 1296,1275 1296,1224 330,1227"/>
                 <Baseline points="336,1259 383,1259 431,1259 479,1260 526,1260 574,1260 622,1260 669,1260 717,1260 765,1261 813,1261 860,1261 908,1261 956,1261 1003,1261 1051,1261 1099,1261 1146,1261 1194,1261 1242,1261 1290,1260"/>
                 <TextEquiv>
                     <Unicode>Der metrisch-rhythmische Gestaltungsprocess wird</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:1;}">
+            <TextLine id="r1l20" custom="readingOrder {index:1;} concept_mus {offset:13; length:22;}">
                 <Coords points="236,1319 1297,1322 1297,1293 1188,1277 236,1293"/>
                 <Baseline points="243,1314 295,1314 347,1314 400,1314 452,1314 505,1314 557,1314 609,1314 662,1314 714,1314 767,1314 819,1314 871,1314 924,1314 976,1314 1029,1315 1081,1315 1133,1315 1186,1315 1238,1315 1291,1316"/>
                 <TextEquiv>
@@ -214,42 +214,42 @@ müssen.</Unicode>
                     <Unicode>wendig die correspondirende Bestimmung des Andern her¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:4;}">
+            <TextLine id="r1l23" custom="readingOrder {index:4;} concept_mus {offset:31; length:15;} concept_mus {offset:47; length:8;}">
                 <Coords points="239,1479 1106,1491 1302,1480 1302,1435 239,1449"/>
                 <Baseline points="246,1469 298,1470 350,1471 403,1472 455,1472 508,1473 560,1473 613,1474 665,1474 718,1474 770,1474 822,1474 875,1474 927,1474 980,1474 1032,1474 1085,1474 1137,1474 1190,1474 1242,1474 1295,1474"/>
                 <TextEquiv>
                     <Unicode>vorruft, denn es kann dieselbe Harmonieenfolge metrisch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:5;}">
+            <TextLine id="r1l24" custom="readingOrder {index:5;} concept_mus {offset:46; length:9; continued:true;}">
                 <Coords points="240,1532 1283,1540 1298,1499 240,1499"/>
                 <Baseline points="247,1522 299,1523 351,1524 403,1525 455,1526 508,1526 560,1527 612,1527 664,1527 716,1527 769,1528 821,1527 873,1527 925,1527 977,1527 1030,1527 1082,1527 1134,1527 1186,1527 1238,1528 1291,1528"/>
                 <TextEquiv>
                     <Unicode>verschiedenste Gestalt annehmen, wie dieselbe metrische</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:6;}">
+            <TextLine id="r1l25" custom="readingOrder {index:6;} concept_mus {offset:0; length:10; continued:true;} concept_mus {offset:21; length:10;}">
                 <Coords points="241,1586 1297,1586 1297,1555 1200,1540 241,1548"/>
                 <Baseline points="248,1577 300,1578 352,1578 404,1579 456,1579 508,1579 560,1580 613,1580 665,1580 717,1580 769,1580 821,1580 873,1580 925,1580 978,1580 1030,1580 1082,1580 1134,1580 1186,1580 1238,1580 1291,1580"/>
                 <TextEquiv>
                     <Unicode>Gestaltung sich auch harmonisch auf die verschiedenste</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:7;}">
+            <TextLine id="r1l26" custom="readingOrder {index:7;} concept_mus {offset:37; length:15;}">
                 <Coords points="239,1634 1302,1643 1299,1603 239,1595"/>
                 <Baseline points="246,1627 298,1629 350,1630 403,1631 455,1632 508,1632 560,1633 613,1633 665,1633 718,1633 770,1634 822,1634 875,1634 927,1634 980,1633 1032,1633 1085,1633 1137,1633 1190,1633 1242,1634 1295,1634"/>
                 <TextEquiv>
                     <Unicode>Weise wird verkörpern können. Nur im Dissonanzmoment</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:8;}">
+            <TextLine id="r1l27" custom="readingOrder {index:8;} concept_mus {offset:32; length:10;} concept_mus {offset:51; length:6; continued:true;}">
                 <Coords points="242,1699 1292,1690 1292,1664 1174,1651 242,1651"/>
                 <Baseline points="249,1682 300,1683 352,1683 404,1684 456,1684 508,1685 559,1685 611,1686 663,1686 715,1687 767,1687 818,1687 870,1688 922,1688 974,1688 1026,1688 1077,1687 1129,1687 1181,1687 1233,1686 1285,1685"/>
                 <TextEquiv>
                     <Unicode>tritt eine engere Beziehung der metrischen mit der harmo¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:9;}">
+            <TextLine id="r1l28" custom="readingOrder {index:9;} concept_mus {offset:0; length:18; continued:true;}">
                 <Coords points="238,1747 574,1748 614,1763 638,1747 684,1748 684,1720 649,1708 238,1714"/>
                 <Baseline points="244,1737 269,1737 295,1737 320,1738 346,1738 371,1738 397,1738 422,1738 448,1738 473,1739 499,1739 524,1739 550,1739 575,1739 601,1740 626,1740 652,1740 678,1740"/>
                 <TextEquiv>
@@ -278,14 +278,14 @@ nischen Bestimmung ein.</Unicode>
                     <Unicode>Wie die Gestaltungsverschiedenheit nun aber erst in</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:1;}">
+            <TextLine id="r1l30" custom="readingOrder {index:1;} concept_mus {offset:29; length:12;} concept_mus {offset:54; length:3; continued:true;}">
                 <Coords points="239,1867 1285,1858 1286,1822 239,1813"/>
                 <Baseline points="245,1844 296,1844 348,1845 400,1845 451,1845 503,1846 555,1846 606,1846 658,1846 710,1846 762,1846 813,1847 865,1847 917,1847 968,1847 1020,1847 1072,1847 1123,1847 1175,1847 1227,1847 1279,1848"/>
                 <TextEquiv>
                     <Unicode>jeder Sphäre an sich, in der harmonischen, wie in der me¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:2;}">
+            <TextLine id="r1l31" custom="readingOrder {index:2;} concept_mus {offset:0; length:8; continued:true;}">
                 <Coords points="239,1907 1291,1901 1291,1876 1182,1860 239,1867"/>
                 <Baseline points="246,1895 300,1896 355,1897 410,1898 464,1898 519,1899 574,1899 628,1900 683,1900 738,1900 792,1900 847,1900 902,1900 956,1900 1011,1900 1066,1900 1120,1900 1175,1900 1230,1899 1285,1900"/>
                 <TextEquiv>
@@ -306,7 +306,7 @@ nischen Bestimmung ein.</Unicode>
                     <Unicode>dass für eine jede besondere mögliche Erscheinung hier eine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:5;}">
+            <TextLine id="r1l34" custom="readingOrder {index:5;} concept_mus {offset:0; length:24;}">
                 <Coords points="239,2067 1296,2067 1296,2034 1253,2026 239,2027"/>
                 <Baseline points="246,2058 298,2057 350,2057 402,2057 454,2057 506,2057 558,2057 611,2058 663,2058 715,2058 767,2058 819,2059 871,2059 923,2059 976,2059 1028,2060 1080,2060 1132,2060 1184,2060 1236,2059 1289,2059"/>
                 <TextEquiv>

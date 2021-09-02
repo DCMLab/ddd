@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:31.918+01:00</Created>
-        <LastChange>2021-03-10T20:26:22.552+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846453" pageNr="25" tsid="53538083" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=QCHRAEXODLEZGGUVTNWCIHSX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MGARLFKEUGYFUQNVBDPUWZLQ" imageId="18302919"/>
+        <LastChange>2021-08-31T00:03:13.745+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718894" pageNr="25" tsid="63800525" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HIOYRVRRGXUSVNYFRYGVTYTW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NFLZCNYICAATQHOGKRHIGCEC" imageId="22439399"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0034.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196686657" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595891755" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612359973915_2911"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612359985029_2916"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612360009950_2929"/>
@@ -79,14 +79,14 @@ kann etwas als Gefühl und Gedanke uns ansprechen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612360009950_2929" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="131,576 1187,576 1187,1369 131,1369"/>
-            <TextLine id="r1l7" custom="readingOrder {index:0;}">
+            <TextLine id="r1l7" custom="readingOrder {index:0;} concept_mus {offset:4; length:14;}">
                 <Coords points="216,619 1189,618 1189,587 1054,572 949,597 891,572 216,573"/>
                 <Baseline points="222,607 270,607 318,608 366,608 414,608 462,609 510,609 558,609 606,609 654,609 702,609 750,609 798,609 846,609 894,609 942,609 990,610 1038,610 1086,610 1134,610 1183,610"/>
                 <TextEquiv>
                     <Unicode>Der Musikunkundige wird auf der ihm unbekannten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:1;}">
+            <TextLine id="r1l8" custom="readingOrder {index:1;} concept_mus {offset:0; length:9;} m_note {offset:14; length:4;} m_chord {offset:25; length:8;} concept_mus {offset:45; length:7;}">
                 <Coords points="128,675 1192,673 1169,627 1105,651 1070,627 128,628"/>
                 <Baseline points="135,662 187,662 240,661 292,661 345,661 397,661 450,661 502,662 555,662 607,662 660,662 713,663 765,663 818,663 870,663 923,663 975,663 1028,663 1080,663 1133,662 1186,662"/>
                 <TextEquiv>
@@ -100,35 +100,35 @@ kann etwas als Gefühl und Gedanke uns ansprechen.</Unicode>
                     <Unicode>er das eine oder andere im Sinne hat, zusammenfinden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+            <TextLine id="r1l10" custom="readingOrder {index:3;} concept_mus {offset:21; length:22;} m_note {offset:51; length:4;}">
                 <Coords points="130,778 1185,779 1185,746 1126,732 321,731 286,758 130,732"/>
                 <Baseline points="137,767 189,767 241,767 293,767 345,767 397,767 449,768 501,768 553,768 605,768 658,768 710,768 762,768 814,768 866,768 918,768 970,769 1022,769 1074,769 1126,769 1179,770"/>
                 <TextEquiv>
                     <Unicode>können, ohne von der harmonischen Bedeutung dieser Töne</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+            <TextLine id="r1l11" custom="readingOrder {index:4;} concept_mus {offset:29; length:7;} m_note {offset:43; length:4;} m_chord {offset:52; length:3; continued:true;}">
                 <Coords points="134,827 1175,829 1175,795 1130,787 601,787 577,811 134,789"/>
                 <Baseline points="141,819 192,819 243,819 295,820 346,820 397,820 449,820 500,820 551,820 603,820 654,821 705,821 757,821 808,821 859,821 911,821 962,821 1013,821 1065,821 1116,821 1168,821"/>
                 <TextEquiv>
                     <Unicode>das Geringste zu wissen. Der Musiker kennt Töne und Ac¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+            <TextLine id="r1l12" custom="readingOrder {index:5;} m_chord {offset:0; length:5; continued:true;} concept_mus {offset:19; length:21;}">
                 <Coords points="129,884 1187,884 1156,836 936,863 791,836 129,850"/>
                 <Baseline points="136,871 188,871 240,872 292,872 344,872 397,872 449,872 501,873 553,873 605,873 658,873 710,873 762,873 814,873 866,874 919,874 971,874 1023,874 1075,874 1127,875 1180,875"/>
                 <TextEquiv>
                     <Unicode>corde, weiss deren harmonische Bedeutung, kennt Regeln</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+            <TextLine id="r1l13" custom="readingOrder {index:6;} concept_mus {offset:4; length:8;} concept_mus {offset:17; length:7;} concept_mus {offset:30; length:6;} concept_mus {offset:41; length:8;}">
                 <Coords points="128,939 1189,938 1189,900 1146,891 128,892"/>
                 <Baseline points="135,926 187,926 239,926 292,926 344,926 397,926 449,926 501,926 554,926 606,926 659,926 711,926 763,926 816,926 868,926 921,927 973,927 1025,927 1078,927 1130,928 1183,928"/>
                 <TextEquiv>
                     <Unicode>für Harmonie und Melodie, für Metrum und Rhythmus, für</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+            <TextLine id="r1l14" custom="readingOrder {index:7;} concept_mus {offset:0; length:23;}">
                 <Coords points="132,987 1184,987 1184,956 1138,947 132,956"/>
                 <Baseline points="139,978 193,978 248,978 303,978 357,978 412,978 467,978 521,978 576,978 631,979 685,979 740,979 795,979 849,979 904,979 959,979 1013,979 1068,979 1123,979 1178,979"/>
                 <TextEquiv>
@@ -149,21 +149,21 @@ kann etwas als Gefühl und Gedanke uns ansprechen.</Unicode>
                     <Unicode>leitet und ihn den rechten Ausdruck seiner Gedanken fin¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:10;}">
+            <TextLine id="r1l17" custom="readingOrder {index:10;} concept_mus {offset:37; length:15;}">
                 <Coords points="135,1147 1179,1147 1151,1100 1113,1124 135,1100"/>
                 <Baseline points="141,1137 192,1137 244,1137 295,1137 347,1137 399,1137 450,1137 502,1137 553,1137 605,1137 657,1137 708,1137 760,1137 811,1137 863,1137 915,1137 966,1137 1018,1137 1069,1137 1121,1137 1173,1137"/>
                 <TextEquiv>
                     <Unicode>den lässt: es ist ebenso wie bei dem Musikunkundigen, der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:11;}">
+            <TextLine id="r1l18" custom="readingOrder {index:11;} m_chord {offset:7; length:6;} concept_mus {offset:25; length:7;} m_note {offset:46; length:5;}">
                 <Coords points="125,1201 1189,1203 1189,1165 1138,1156 125,1164"/>
                 <Baseline points="132,1189 184,1190 237,1190 289,1191 342,1191 394,1191 447,1191 499,1191 552,1191 604,1190 657,1190 709,1190 762,1190 814,1189 867,1189 919,1189 972,1189 1024,1189 1077,1189 1129,1189 1182,1189"/>
                 <TextEquiv>
                     <Unicode>seinen Accord oder seine Melodie sich aus den Tönen des</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:12;}">
+            <TextLine id="r1l19" custom="readingOrder {index:12;} concept_mus {offset:0; length:9;}">
                 <Coords points="134,1251 1191,1240 1088,1205 867,1233 134,1212"/>
                 <Baseline points="141,1243 193,1243 245,1243 297,1243 349,1243 401,1243 453,1243 506,1243 558,1243 610,1243 662,1243 714,1243 766,1243 818,1243 871,1243 923,1242 975,1242 1027,1242 1079,1241 1131,1241 1184,1240"/>
                 <TextEquiv>

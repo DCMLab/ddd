@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:32.465+01:00</Created>
-        <LastChange>2021-03-11T00:05:45.130+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846476" pageNr="38" tsid="53541247" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ONMYLLTDKWYFGMOAMLKAZPMK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GMHFVCRTPEZIIRLLRMDALFCT" imageId="18302942"/>
+        <LastChange>2021-08-31T00:30:30.373+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718907" pageNr="38" tsid="63801201" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=IBOXOXJIPRQSJTMRQNEVQHFP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NKLEOVURAMCOZTKUGIKRLITE" imageId="22439412"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0047.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196688840" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595893344" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612369179656_4202"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612369199808_4207"/>
             </OrderedGroup>
@@ -136,21 +136,21 @@ Transkribus</Creator>
                     <Unicode>lebendige Sinn aufgehen können. Der Begriff von Verbindung,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l17" custom="readingOrder {index:15;} textStyle {offset:27; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l17" custom="readingOrder {index:15;} m_interval {offset:13; length:4;} textStyle {offset:27; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:44; length:10;}">
                 <Coords points="224,1178 1288,1176 1255,1131 224,1131"/>
                 <Baseline points="231,1166 283,1166 336,1166 388,1166 441,1166 493,1166 546,1166 598,1166 651,1166 703,1166 756,1166 809,1166 861,1166 914,1166 966,1166 1019,1166 1071,1166 1124,1166 1176,1166 1229,1166 1282,1166"/>
                 <TextEquiv>
                     <Unicode>im Sinne der Terz, ist ein Unendliches. Das akustische</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l18" custom="readingOrder {index:16;} textStyle {offset:1; length:13;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l18" custom="readingOrder {index:16;} textStyle {offset:1; length:13;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:20; length:15;}">
                 <Coords points="224,1227 1290,1226 1290,1196 1215,1188 224,1195"/>
                 <Baseline points="231,1218 283,1218 336,1218 388,1218 441,1218 494,1218 546,1218 599,1218 651,1219 704,1219 757,1219 809,1219 862,1219 914,1219 967,1219 1020,1219 1072,1219 1125,1219 1177,1220 1230,1220 1283,1220"/>
                 <TextEquiv>
                     <Unicode>„Zwei mal Zwei” des Terzintervalles enthält in seinem</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l19" custom="readingOrder {index:17;} textStyle {offset:1; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:44; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l19" custom="readingOrder {index:17;} textStyle {offset:1; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:15; length:14;} textStyle {offset:44; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="231,1284 1264,1283 1274,1248 231,1249"/>
                 <Baseline points="237,1271 288,1271 340,1271 391,1271 443,1272 494,1272 546,1272 597,1272 649,1272 700,1273 752,1273 803,1273 855,1273 906,1273 958,1273 1009,1273 1061,1273 1112,1273 1164,1273 1215,1273 1267,1273"/>
                 <TextEquiv>
@@ -164,7 +164,7 @@ Transkribus</Creator>
                     <Unicode>oder die Trennung der Einheit, wie es in seinem „Zwei,” </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l21" custom="readingOrder {index:19;} textStyle {offset:24; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r2l21" custom="readingOrder {index:19;} concept_phy {offset:4; length:14;} textStyle {offset:24; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="233,1388 1293,1386 1254,1348 233,1353"/>
                 <Baseline points="240,1379 292,1379 344,1379 396,1379 449,1379 501,1379 553,1379 606,1379 658,1379 710,1379 763,1380 815,1380 867,1380 919,1380 972,1380 1024,1380 1076,1380 1129,1380 1181,1380 1233,1380 1286,1379"/>
                 <TextEquiv>
@@ -199,7 +199,7 @@ Transkribus</Creator>
                     <Unicode>noch ausser sich haben und wäre damit wieder nur eine ein¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r2l26" custom="readingOrder {index:24;}">
+            <TextLine id="r2l26" custom="readingOrder {index:24;} m_interval {offset:41; length:4;}">
                 <Coords points="234,1659 1260,1659 1273,1621 234,1625"/>
                 <Baseline points="240,1647 291,1647 342,1647 394,1647 445,1647 496,1647 548,1647 599,1647 650,1647 702,1647 753,1647 804,1647 856,1647 907,1648 958,1648 1010,1648 1061,1648 1112,1648 1164,1648 1215,1648 1267,1648"/>
                 <TextEquiv>

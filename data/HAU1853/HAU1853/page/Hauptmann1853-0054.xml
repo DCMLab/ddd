@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:32.773+01:00</Created>
-        <LastChange>2021-03-11T12:23:30.157+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846490" pageNr="45" tsid="53574290" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=VBNDPKCOKYDQEHOOQGPHZCXJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZYDFCLYGTVGHJEYMIQMIDSBO" imageId="18302956"/>
+        <LastChange>2021-08-31T00:48:28.786+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718914" pageNr="45" tsid="63802308" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HTKOQHSEFSCXYRRPOIVCNZKQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GHVIJUXIDBRSDGIKHHTRRMOQ" imageId="22439419"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0054.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196689759" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595894245" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612371573497_5149"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612371570963_5144"/>
                 <RegionRefIndexed index="4" regionRef="TextRegion_1612371560471_5134"/>
@@ -55,14 +55,14 @@ Transkribus</Creator>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612371560471_5134" custom="readingOrder {index:4;} structure {type:paragraph;}">
             <Coords points="173,678 1230,678 1230,788 173,788"/>
-            <TextLine id="r1l12" custom="readingOrder {index:0;} textStyle {offset:45; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l12" custom="readingOrder {index:0;} m_chord {offset:3; length:13;} textStyle {offset:45; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="170,724 1218,725 1200,691 1075,683 170,686"/>
                 <Baseline points="177,719 228,719 280,719 332,719 383,719 435,719 487,719 538,719 590,719 642,719 694,719 745,718 797,718 849,718 900,718 952,718 1004,718 1055,719 1107,719 1159,719 1211,719"/>
                 <TextEquiv>
                     <Unicode>Im Durdreiklange ist die Einheit das positiv Bestimmen¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:1;} textStyle {offset:0; length:2;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:42; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l13" custom="readingOrder {index:1;} textStyle {offset:0; length:2;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:7; length:14;} textStyle {offset:42; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="181,780 1161,779 1142,741 181,740"/>
                 <Baseline points="187,772 235,772 283,772 332,772 380,772 428,772 477,772 525,771 573,771 622,771 670,771 718,771 767,771 815,771 863,771 912,771 960,771 1008,771 1057,771 1105,772 1154,772"/>
                 <TextEquiv>
@@ -76,14 +76,14 @@ de, im Molldreiklange ist sie das positiv Bestimmte.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612371551747_5130" custom="readingOrder {index:5;} structure {type:paragraph;}">
             <Coords points="173,788 1230,788 1230,1325 173,1325"/>
-            <TextLine id="r1l14" custom="readingOrder {index:0;}">
+            <TextLine id="r1l14" custom="readingOrder {index:0;} m_chord {offset:45; length:9; continued:true;}">
                 <Coords points="261,835 1237,827 1167,787 261,796"/>
                 <Baseline points="267,823 315,823 363,824 411,824 459,824 507,825 555,825 604,825 652,825 700,825 748,825 796,825 844,825 892,825 941,825 989,825 1037,825 1085,825 1133,824 1181,824 1230,824"/>
                 <TextEquiv>
                     <Unicode>36. — In dieser passiven Natur und indem der Molldrei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:1;}">
+            <TextLine id="r1l15" custom="readingOrder {index:1;} m_chord {offset:0; length:5; continued:true;}">
                 <Coords points="177,890 1232,890 1232,844 831,843 800,869 177,844"/>
                 <Baseline points="184,879 236,879 288,880 340,880 392,879 444,879 496,879 548,879 600,879 652,879 704,879 756,878 808,878 860,878 912,878 964,878 1016,878 1068,879 1120,879 1172,879 1225,880"/>
                 <TextEquiv>
@@ -132,7 +132,7 @@ de, im Molldreiklange ist sie das positiv Bestimmte.</Unicode>
                     <Unicode>der Trauerweide, gegen den strebenden Lebensbaum, finden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:8;}">
+            <TextLine id="r1l22" custom="readingOrder {index:8;} m_chord {offset:18; length:11;}">
                 <Coords points="179,1259 1231,1260 1231,1227 840,1212 179,1227"/>
                 <Baseline points="185,1248 239,1249 294,1250 349,1251 403,1251 458,1252 513,1252 567,1252 622,1252 677,1252 731,1252 786,1251 841,1251 895,1251 950,1251 1005,1252 1059,1252 1114,1253 1169,1254 1224,1255"/>
                 <TextEquiv>
@@ -161,7 +161,7 @@ wieder. —</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="heading" id="TextRegion_1612371540765_5126" custom="readingOrder {index:6;} structure {type:heading;}">
             <Coords points="173,1325 1230,1325 1230,1405 173,1405"/>
-            <TextLine id="r1l24" custom="readingOrder {index:0;}">
+            <TextLine id="r1l24" custom="readingOrder {index:0;} m_tonality {offset:0; length:11;}">
                 <Coords points="574,1394 669,1395 684,1384 694,1395 828,1395 828,1353 815,1348 737,1356 712,1339 678,1346 647,1340 639,1348 590,1340 574,1348"/>
                 <Baseline points="581,1382 607,1382 634,1382 661,1382 687,1382 714,1382 741,1381 767,1381 794,1381 821,1382"/>
                 <TextEquiv>
@@ -174,7 +174,7 @@ wieder. —</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612371537681_5122" custom="readingOrder {index:7;} structure {type:paragraph;}">
             <Coords points="173,1405 1230,1405 1230,1692 173,1692"/>
-            <TextLine id="r1l25" custom="readingOrder {index:0;}">
+            <TextLine id="r1l25" custom="readingOrder {index:0;} concept_mus {offset:7; length:7;} m_tonality {offset:19; length:9;} m_chord {offset:37; length:13;}">
                 <Coords points="254,1472 1231,1475 1209,1429 254,1429"/>
                 <Baseline points="260,1463 308,1463 356,1462 404,1462 453,1462 501,1462 549,1462 597,1461 646,1461 694,1461 742,1461 790,1461 839,1462 887,1462 935,1462 983,1462 1032,1463 1080,1463 1128,1464 1176,1464 1225,1465"/>
                 <TextEquiv>
@@ -188,21 +188,21 @@ wieder. —</Unicode>
                     <Unicode>einer secundären Bedeutung enthalten, und zwar in der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:2;}">
+            <TextLine id="r1l27" custom="readingOrder {index:2;} m_chord {offset:16; length:13;} m_chord {offset:38; length:19; continued:true;}">
                 <Coords points="177,1580 1226,1568 1038,1532 720,1555 177,1532"/>
                 <Baseline points="183,1567 234,1567 286,1568 338,1568 390,1568 442,1568 494,1568 545,1568 597,1568 649,1568 701,1568 753,1568 805,1568 857,1568 908,1568 960,1568 1012,1568 1064,1569 1116,1569 1168,1569 1220,1570"/>
                 <TextEquiv>
                     <Unicode>Mitte je zweier Durdreiklänge: 1) des Unterdominantaccor¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1612372355260_5325" custom="readingOrder {index:3;}">
+            <TextLine id="line_1612372355260_5325" custom="readingOrder {index:3;} m_chord {offset:0; length:3; continued:true;} m_chord {offset:12; length:8;} concept_mus {offset:25; length:6;} m_chord {offset:40; length:8;} concept_mus {offset:53; length:6;}">
                 <Coords points="176,1635 1224,1634 1224,1596 1189,1587 176,1587"/>
                 <Baseline points="183,1620 211,1621 239,1622 268,1622 296,1623 324,1623 353,1623 381,1623 409,1623 438,1623 466,1623 494,1622 523,1622 551,1622 579,1622 608,1622 636,1622 664,1621 693,1622 721,1622 750,1622 778,1621 803,1621 829,1621 855,1621 881,1621 907,1622 933,1622 959,1622 985,1622 1010,1623 1036,1623 1062,1623 1088,1623 1114,1624 1140,1624 1166,1624 1192,1623 1218,1623"/>
                 <TextEquiv>
                     <Unicode>des und des Accordes der Tonica, 2) des Accordes der Tonica</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:4;}">
+            <TextLine id="r1l30" custom="readingOrder {index:4;} m_chord {offset:8; length:20;}">
                 <Coords points="176,1682 744,1680 744,1658 686,1635 663,1652 176,1652"/>
                 <Baseline points="182,1673 209,1674 237,1674 265,1675 293,1675 321,1675 348,1676 376,1676 404,1676 432,1676 460,1676 487,1676 515,1675 543,1675 571,1675 599,1675 626,1675 654,1675 682,1675 710,1675 738,1675"/>
                 <TextEquiv>
@@ -219,21 +219,21 @@ und des Oberdominantaccordes.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612371534366_5118" custom="readingOrder {index:8;} structure {type:paragraph;}">
             <Coords points="173,1692 1230,1692 1230,1955 173,1955"/>
-            <TextLine id="r1l31" custom="readingOrder {index:0;}">
+            <TextLine id="r1l31" custom="readingOrder {index:0;} m_chord {offset:28; length:10;}">
                 <Coords points="262,1738 1227,1728 1078,1692 262,1692"/>
                 <Baseline points="268,1728 315,1728 363,1728 410,1728 458,1728 506,1728 553,1728 601,1728 648,1727 696,1727 744,1727 791,1727 839,1727 886,1727 934,1727 982,1727 1029,1727 1077,1728 1124,1728 1172,1729 1220,1730"/>
                 <TextEquiv>
                     <Unicode>Das Zugleichbestehen zweier Dreiklänge mit einem ge¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:1;}">
+            <TextLine id="r1l32" custom="readingOrder {index:1;} m_note {offset:17; length:4;}">
                 <Coords points="179,1787 1228,1795 1228,1754 1168,1748 179,1756"/>
                 <Baseline points="186,1781 237,1781 289,1781 341,1781 393,1781 445,1781 496,1781 548,1781 600,1780 652,1780 704,1780 755,1780 807,1780 859,1780 911,1780 963,1780 1014,1780 1066,1781 1118,1781 1170,1782 1222,1783"/>
                 <TextEquiv>
                     <Unicode>meinschaftlichen Tone enthält eben in diesem selbst einen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:2;}">
+            <TextLine id="r1l33" custom="readingOrder {index:2;} m_note {offset:26; length:4;}">
                 <Coords points="174,1841 1180,1860 1231,1834 1165,1803 174,1803"/>
                 <Baseline points="180,1831 232,1832 284,1833 336,1834 388,1834 441,1834 493,1834 545,1834 597,1834 649,1834 702,1834 754,1834 806,1834 858,1834 910,1833 963,1833 1015,1833 1067,1833 1119,1834 1171,1834 1224,1834"/>
                 <TextEquiv>

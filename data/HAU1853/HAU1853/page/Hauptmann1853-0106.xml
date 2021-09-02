@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:34.791+01:00</Created>
-        <LastChange>2021-03-13T09:42:26.880+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846581" pageNr="97" tsid="53648289" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=JIEBNLNOECGHOOLYAVNLBIOT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YHYZBSHMMEEBCEEQWSVSIJUX" imageId="18303047"/>
+        <LastChange>2021-09-01T10:18:06.501+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718966" pageNr="97" tsid="63858945" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HGEBJWDCZCQHAAGFHZCDHMDI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ROUVTJBLRYNIKBNKYJVBIRNO" imageId="22439471"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0106.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196696533" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595901038" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612542831106_430"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612542863651_451"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612542863651_450"/>
@@ -55,28 +55,28 @@ tritt.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612542863651_450" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="171,407 1230,407 1230,623 171,623"/>
-            <TextLine id="r1l4" custom="readingOrder {index:0;} textStyle {offset:42; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l4" custom="readingOrder {index:0;} concept_mus {offset:32; length:9;} concept_phy {offset:32; length:9;} textStyle {offset:42; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:42; length:3;}">
                 <Coords points="255,457 1236,458 1236,420 1196,411 255,419"/>
                 <Baseline points="261,450 309,450 357,450 406,449 454,449 503,449 551,449 600,449 648,449 697,449 745,449 793,449 842,450 890,450 939,450 987,450 1036,450 1084,449 1133,449 1181,449 1230,449"/>
                 <TextEquiv>
                     <Unicode>In der zuerst (108) angeführten Dissonanz C—D ist</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:1;} textStyle {offset:46; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l5" custom="readingOrder {index:1;} concept_mus {offset:4; length:14;} m_note {offset:33; length:4;} m_note {offset:41; length:4;} textStyle {offset:46; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:46; length:1;}">
                 <Coords points="168,515 1226,508 1226,478 1169,467 168,476"/>
                 <Baseline points="175,501 227,502 279,502 331,502 383,502 436,503 488,503 540,503 592,503 644,503 697,503 749,503 801,503 853,503 905,503 958,502 1010,502 1062,502 1114,502 1166,501 1219,501"/>
                 <TextEquiv>
                     <Unicode>die Verwandtschaft dieser beiden Töne im Tone G enthalten.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:2;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:45; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:51; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l6" custom="readingOrder {index:2;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:0; length:1;} concept_mus {offset:27; length:13;} textStyle {offset:45; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:45; length:1;} textStyle {offset:51; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:51; length:1;}">
                 <Coords points="168,563 1228,571 1215,524 168,531"/>
                 <Baseline points="175,554 227,554 279,554 332,555 384,555 436,556 489,556 541,556 593,556 646,556 698,556 750,556 803,557 855,557 907,557 960,557 1012,557 1064,557 1117,557 1169,557 1222,557"/>
                 <TextEquiv>
                     <Unicode>G ist aber hier, durch den Zusammenklang von C und D,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+            <TextLine id="r1l7" custom="readingOrder {index:3;} m_note {offset:12; length:8;} m_interval {offset:25; length:5;}">
                 <Coords points="173,620 944,617 944,586 838,572 173,585"/>
                 <Baseline points="180,609 217,609 255,609 293,609 331,610 369,610 407,610 445,610 483,609 521,609 559,609 596,609 634,609 672,609 710,609 748,609 786,609 824,610 862,610 900,610 938,610"/>
                 <TextEquiv>
@@ -95,21 +95,21 @@ zugleich zu Grundton und Quint bestimmt:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612542852365_442" custom="readingOrder {index:4;} structure {type:paragraph;}">
             <Coords points="171,818 1230,818 1230,1996 171,1996"/>
-            <TextLine id="r1l14" custom="readingOrder {index:0;}">
+            <TextLine id="r1l14" custom="readingOrder {index:0;} m_interval {offset:42; length:9;}">
                 <Coords points="253,873 1227,875 1227,834 253,835"/>
                 <Baseline points="260,867 308,867 356,867 404,867 452,868 500,868 548,868 596,869 644,869 692,869 740,870 788,870 836,870 884,870 932,870 980,870 1028,870 1076,870 1124,870 1172,869 1220,869"/>
                 <TextEquiv>
                     <Unicode>Dieser Doppelsinn lässt eben so wenig das Intervall</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:1;} textStyle {offset:0; length:3;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:19; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l15" custom="readingOrder {index:1;} textStyle {offset:0; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:0; length:3;} m_interval {offset:14; length:4;} textStyle {offset:19; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:19; length:1;} m_chord {offset:25; length:10;}">
                 <Coords points="174,927 1225,940 1225,902 1168,892 174,887"/>
                 <Baseline points="180,915 231,917 283,918 335,919 387,920 439,921 491,921 543,922 595,922 647,922 699,923 750,923 802,923 854,923 906,923 958,923 1010,923 1062,924 1114,924 1166,924 1218,925"/>
                 <TextEquiv>
                     <Unicode>C—G durch die Terz e zum Dreiklange zusammentreten,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:2;} textStyle {offset:32; length:3;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:51; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l16" custom="readingOrder {index:2;} m_interval {offset:26; length:5;} textStyle {offset:32; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:32; length:3;} m_interval {offset:46; length:4;} textStyle {offset:51; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:51; length:1;}">
                 <Coords points="176,986 1224,994 1207,939 176,947"/>
                 <Baseline points="182,971 233,972 285,973 337,973 389,974 441,974 492,974 544,974 596,974 648,975 700,975 751,975 803,975 855,975 907,975 959,975 1010,975 1062,976 1114,976 1166,977 1218,978"/>
                 <TextEquiv>
@@ -123,112 +123,112 @@ zugleich zu Grundton und Quint bestimmt:</Unicode>
                     <Unicode>geschehen lassen kann. Es wird aber die eine oder an¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:4;}">
+            <TextLine id="r1l18" custom="readingOrder {index:4;} concept_mus {offset:5; length:10;}">
                 <Coords points="171,1091 1231,1091 1231,1053 1184,1045 946,1069 171,1049"/>
                 <Baseline points="177,1077 229,1078 281,1079 334,1080 386,1080 438,1081 491,1081 543,1081 595,1081 648,1081 700,1081 752,1081 805,1081 857,1081 909,1081 962,1080 1014,1080 1066,1080 1119,1080 1171,1081 1224,1081"/>
                 <TextEquiv>
                     <Unicode>dere Verbindung sogleich erfolgen können, sobald der eine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:5;} textStyle {offset:46; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l19" custom="readingOrder {index:5;} m_note {offset:22; length:3;} textStyle {offset:46; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:46; length:1;}">
                 <Coords points="168,1139 932,1125 1221,1155 1206,1099 168,1108"/>
                 <Baseline points="175,1130 229,1131 284,1132 339,1133 393,1133 448,1134 503,1134 557,1134 612,1134 667,1134 721,1133 776,1133 831,1133 885,1133 940,1133 995,1133 1049,1133 1104,1133 1159,1133 1214,1134"/>
                 <TextEquiv>
                     <Unicode>oder andere hindernde Ton entfernt wird. Wenn C weicht,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:6;} textStyle {offset:41; length:3;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:48; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l20" custom="readingOrder {index:6;} m_interval {offset:24; length:16;} textStyle {offset:41; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:41; length:3;} textStyle {offset:48; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:48; length:1;}">
                 <Coords points="178,1196 1225,1187 1135,1149 178,1160"/>
                 <Baseline points="185,1181 236,1183 288,1184 339,1185 391,1186 443,1187 494,1187 546,1187 598,1187 649,1187 701,1187 753,1186 804,1186 856,1186 908,1185 959,1185 1011,1185 1063,1185 1114,1185 1166,1185 1218,1185"/>
                 <TextEquiv>
                     <Unicode>wird die Verbindung des Quintintervalles G—D in h ein¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:7;} textStyle {offset:13; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:47; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l21" custom="readingOrder {index:7;} textStyle {offset:13; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:13; length:1;} m_interval {offset:32; length:14;} textStyle {offset:47; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:47; length:3;}">
                 <Coords points="175,1251 1228,1251 1217,1203 175,1205"/>
                 <Baseline points="181,1236 233,1237 285,1238 337,1239 389,1239 441,1239 493,1240 545,1240 597,1240 649,1240 701,1240 753,1240 805,1239 857,1239 909,1239 961,1239 1013,1238 1065,1238 1117,1238 1169,1238 1222,1238"/>
                 <TextEquiv>
                     <Unicode>treten; wenn D weicht, wird das Quintintervall C—G sich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:8;} textStyle {offset:3; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:43; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l22" custom="readingOrder {index:8;} textStyle {offset:3; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:3; length:1;} m_note {offset:33; length:9;} textStyle {offset:43; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:43; length:1;}">
                 <Coords points="169,1297 1229,1300 1184,1259 169,1260"/>
                 <Baseline points="176,1289 228,1291 280,1291 332,1292 385,1293 437,1293 489,1293 542,1293 594,1293 646,1293 699,1293 751,1293 803,1293 855,1292 908,1292 960,1292 1012,1292 1065,1292 1117,1292 1169,1292 1222,1293"/>
                 <TextEquiv>
                     <Unicode>in e verbinden. Der Eintritt des Terztones h ist hier eine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:9;} textStyle {offset:46; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l23" custom="readingOrder {index:9;} m_note {offset:35; length:10;} textStyle {offset:46; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:46; length:1;}">
                 <Coords points="173,1355 1224,1354 1191,1308 1078,1334 1052,1308 173,1316"/>
                 <Baseline points="179,1343 230,1343 282,1344 334,1344 386,1345 438,1345 490,1345 542,1346 594,1346 646,1346 698,1346 749,1346 801,1346 853,1345 905,1345 957,1345 1009,1345 1061,1345 1113,1344 1165,1344 1217,1344"/>
                 <TextEquiv>
                     <Unicode>natürliche Folge der Aufhebung des Grundtones C, wie der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:10;} textStyle {offset:23; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l24" custom="readingOrder {index:10;} m_note {offset:13; length:9;} textStyle {offset:23; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:23; length:1;}">
                 <Coords points="172,1406 1230,1423 1230,1371 1151,1363 172,1364"/>
                 <Baseline points="179,1393 231,1395 283,1396 335,1397 387,1398 440,1399 492,1399 544,1399 596,1399 648,1399 701,1399 753,1399 805,1398 857,1398 909,1398 962,1397 1014,1397 1066,1397 1118,1397 1170,1398 1223,1398"/>
                 <TextEquiv>
                     <Unicode>Eintritt des Terztones e eine natürliche Folge der Aufhebung</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:11;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:44; length:3;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:49; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l25" custom="readingOrder {index:11;} m_note {offset:4; length:10;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:15; length:1;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:22; length:1;} m_interval {offset:38; length:5;} textStyle {offset:44; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:44; length:3;} textStyle {offset:49; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:49; length:1;}">
                 <Coords points="168,1458 1227,1450 1070,1420 168,1426"/>
                 <Baseline points="175,1449 227,1450 279,1450 331,1451 384,1451 436,1451 488,1452 540,1452 593,1452 645,1452 697,1452 749,1452 802,1452 854,1451 906,1451 958,1451 1011,1450 1063,1450 1115,1449 1167,1448 1220,1447"/>
                 <TextEquiv>
                     <Unicode>des Quinttones D ist: h verbindet die Quint G—D, e ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:12;} textStyle {offset:17; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l26" custom="readingOrder {index:12;} m_interval {offset:11; length:5;} textStyle {offset:17; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:17; length:3;}">
                 <Coords points="173,1515 1229,1514 1229,1475 1115,1467 713,1491 173,1467"/>
                 <Baseline points="179,1502 231,1503 283,1503 335,1504 387,1504 439,1504 491,1504 544,1505 596,1505 648,1505 700,1504 752,1504 804,1504 856,1504 909,1504 961,1504 1013,1503 1065,1503 1117,1503 1169,1503 1222,1503"/>
                 <TextEquiv>
                     <Unicode>bindet die Quint C—G; keine dieser beiden Verbindungen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:13;} textStyle {offset:53; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l27" custom="readingOrder {index:13;} textStyle {offset:53; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:53; length:1;}">
                 <Coords points="165,1567 1220,1563 1229,1523 165,1528"/>
                 <Baseline points="172,1556 224,1556 277,1557 329,1557 382,1557 434,1557 487,1558 539,1557 592,1557 644,1557 697,1557 749,1557 802,1556 854,1556 907,1556 959,1556 1012,1555 1064,1555 1117,1555 1169,1555 1222,1555"/>
                 <TextEquiv>
                     <Unicode>konnte aber bei dem gleichzeitigen Vorhandensein von C</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:14;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:35; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l28" custom="readingOrder {index:14;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:4; length:1;} textStyle {offset:35; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:35; length:1;} concept_mus {offset:41; length:12; continued:true;}">
                 <Coords points="164,1617 1197,1619 1224,1585 164,1588"/>
                 <Baseline points="171,1609 223,1609 275,1610 328,1610 380,1610 432,1610 485,1610 537,1610 589,1610 642,1610 694,1610 746,1610 799,1610 851,1610 903,1609 956,1609 1008,1609 1060,1609 1113,1608 1165,1608 1218,1608"/>
                 <TextEquiv>
                     <Unicode>und D geschehen, denn es ist durch C der Grundtonsbe¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:15;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:40; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l29" custom="readingOrder {index:15;} concept_mus {offset:0; length:7; continued:true;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:15; length:1;} concept_mus {offset:21; length:14;} textStyle {offset:40; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:40; length:1;}">
                 <Coords points="169,1675 1224,1668 1224,1639 1160,1627 169,1634"/>
                 <Baseline points="176,1661 228,1662 280,1663 332,1663 384,1663 436,1663 488,1663 540,1663 592,1663 644,1663 697,1663 749,1662 801,1662 853,1662 905,1661 957,1661 1009,1661 1061,1661 1113,1662 1165,1662 1218,1662"/>
                 <TextEquiv>
                     <Unicode>deutung, durch D der Quintbedeutung von G widersprochen.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:16;} textStyle {offset:20; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:27; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l30" custom="readingOrder {index:16;} textStyle {offset:20; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:20; length:1;} textStyle {offset:27; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:27; length:1;} concept_mus {offset:29; length:9;}">
                 <Coords points="173,1723 1227,1722 1190,1682 173,1684"/>
                 <Baseline points="180,1715 232,1715 284,1716 336,1716 388,1716 440,1716 492,1716 544,1716 596,1716 648,1716 700,1715 752,1715 804,1715 856,1714 908,1714 960,1714 1012,1714 1064,1714 1116,1714 1168,1714 1220,1715"/>
                 <TextEquiv>
                     <Unicode>Es ist daher, indem C nach h melodisch übergeht, zugleich die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:17;} textStyle {offset:24; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l31" custom="readingOrder {index:17;} textStyle {offset:24; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:24; length:3;}">
                 <Coords points="169,1779 1222,1771 1183,1732 169,1732"/>
                 <Baseline points="175,1767 227,1768 279,1768 331,1769 383,1769 435,1769 487,1769 539,1769 591,1769 643,1769 695,1768 747,1768 799,1767 851,1767 903,1767 955,1766 1007,1766 1059,1765 1111,1765 1163,1765 1216,1765"/>
                 <TextEquiv>
                     <Unicode>Störung der Einheit von G—D aufgehoben und die Verbin¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:18;}">
+            <TextLine id="r1l32" custom="readingOrder {index:18;} m_interval {offset:12; length:16;}">
                 <Coords points="165,1831 1120,1834 1226,1826 1226,1796 165,1797"/>
                 <Baseline points="171,1820 223,1821 275,1821 328,1822 380,1822 433,1822 485,1822 538,1822 590,1822 643,1821 695,1821 747,1821 800,1820 852,1820 905,1820 957,1819 1010,1819 1062,1819 1115,1819 1167,1819 1220,1819"/>
                 <TextEquiv>
                     <Unicode>dung dieses Quintintervalles hergestellt; ebenso wird, wenn</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:19;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:12; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:27; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l33" custom="readingOrder {index:19;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:0; length:1;} textStyle {offset:12; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:12; length:1;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:22; length:1;} textStyle {offset:27; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:27; length:1;}">
                 <Coords points="169,1882 1228,1883 1228,1844 1191,1836 169,1844"/>
                 <Baseline points="176,1874 228,1875 280,1875 332,1875 385,1875 437,1875 489,1875 541,1875 594,1875 646,1875 698,1874 750,1874 803,1874 855,1873 907,1873 959,1873 1012,1872 1064,1872 1116,1872 1168,1871 1221,1871"/>
                 <TextEquiv>
@@ -276,14 +276,14 @@ haben.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1612542846195_438" custom="readingOrder {index:5;} structure {type:paragraph-continued;}">
             <Coords points="171,1996 1230,1996 1230,2123 171,2123"/>
-            <TextLine id="r1l36" custom="readingOrder {index:0;}">
+            <TextLine id="r1l36" custom="readingOrder {index:0;} concept_mus {offset:23; length:11;}">
                 <Coords points="249,2035 1221,2050 1221,2004 248,2008"/>
                 <Baseline points="255,2032 305,2033 355,2033 406,2033 456,2033 507,2033 557,2033 608,2034 658,2034 709,2034 759,2033 810,2033 860,2033 911,2033 961,2033 1012,2033 1062,2032 1113,2032 1163,2031 1214,2031"/>
                 <TextEquiv>
                     <Unicode>126. Von diesen beiden Auflösungen ist aber die erste,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:1;} textStyle {offset:27; length:4;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l37" custom="readingOrder {index:1;} concept_mus {offset:12; length:14;} textStyle {offset:27; length:4;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:27; length:4;}">
                 <Coords points="170,2099 1228,2091 1204,2052 170,2058"/>
                 <Baseline points="176,2086 228,2086 280,2087 332,2087 385,2088 437,2088 489,2088 541,2088 594,2088 646,2087 698,2087 750,2087 803,2087 855,2086 907,2086 959,2086 1012,2086 1064,2086 1116,2085 1168,2085 1221,2085"/>
                 <TextEquiv>

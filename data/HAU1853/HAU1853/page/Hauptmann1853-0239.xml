@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:38.388+01:00</Created>
-        <LastChange>2021-03-18T15:12:55.480+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846822" pageNr="230" tsid="53868046" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=UXEVLOZGOASPGNOEFSDZDZCP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QHWPCLHEWBDLLUMXWBWJIPHE" imageId="18303288"/>
+        <LastChange>2021-08-31T19:30:32.381+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28719140" pageNr="230" tsid="63842703" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=IAJFJMZMLSULWATLPDMMGGLS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HKGDHYYISXMZOJUADWDRTIQS" imageId="22439645"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0239.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196717570" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595918484" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612643855421_7931"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612643855421_7930"/>
             </OrderedGroup>
@@ -31,14 +31,14 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612643855421_7930" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="212,274 1269,274 1269,727 212,727"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:34; length:16;}">
                 <Coords points="218,353 1274,347 1274,308 218,307"/>
                 <Baseline points="224,339 276,339 328,340 380,340 432,340 485,340 537,340 589,340 641,340 693,340 746,340 798,340 850,340 902,340 954,340 1007,340 1059,340 1111,340 1163,339 1215,339 1268,339"/>
                 <TextEquiv>
                     <Unicode>derselben fallen wollen, nach der Accordverbindung aus</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_chord {offset:4; length:15;} m_interval {offset:34; length:7;}">
                 <Coords points="208,403 1276,404 1247,356 208,365"/>
                 <Baseline points="215,393 267,394 320,394 373,395 425,395 478,395 531,395 583,395 636,395 689,394 742,394 794,394 847,394 900,394 952,393 1005,393 1058,393 1110,393 1163,393 1216,393 1269,393"/>
                 <TextEquiv>
@@ -52,7 +52,7 @@ Transkribus</Creator>
                     <Unicode>den Folgegesetzen überhaupt angemessen ist. Vornehmlich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} m_chord {offset:30; length:24;}">
                 <Coords points="209,507 1262,515 1262,476 1216,460 209,475"/>
                 <Baseline points="215,496 267,497 319,498 371,499 423,500 475,500 527,500 579,500 631,501 683,501 735,501 787,500 839,500 891,500 943,500 995,500 1047,500 1099,500 1151,500 1203,501 1256,501"/>
                 <TextEquiv>
@@ -66,21 +66,21 @@ Transkribus</Creator>
                     <Unicode>wenn er im vorigen vorbereitet sein kann, zu Bestimmung</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} m_tonality {offset:10; length:6;} m_note {offset:47; length:7;}">
                 <Coords points="212,618 1273,618 1273,583 1222,572 212,573"/>
                 <Baseline points="218,607 270,607 322,607 375,607 427,607 480,607 532,608 584,608 637,608 689,607 742,607 794,607 846,607 899,607 951,607 1004,607 1056,607 1108,606 1161,606 1213,606 1266,606"/>
                 <TextEquiv>
                     <Unicode>der neuen Tonart geeignet sein, indem der neue Leitton</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} m_interval {offset:43; length:13; continued:true;}">
                 <Coords points="212,667 1264,658 1239,627 212,624"/>
                 <Baseline points="219,659 273,659 328,659 383,659 437,660 492,660 547,660 601,660 656,661 711,661 765,661 820,661 875,661 929,661 984,661 1039,660 1093,660 1148,660 1203,659 1258,658"/>
                 <TextEquiv>
                     <Unicode>dann entschieden in seiner Eigenschaft als Oberdominant¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;} m_interval {offset:0; length:4; continued:true;}">
                 <Coords points="212,723 487,723 487,692 449,676 401,691 318,684 310,676 286,686 213,684"/>
                 <Baseline points="219,712 245,713 271,713 297,714 323,714 349,714 375,714 401,714 427,714 453,714 480,714"/>
                 <TextEquiv>

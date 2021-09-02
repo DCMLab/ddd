@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:32.580+01:00</Created>
-        <LastChange>2021-03-11T11:07:10.195+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846482" pageNr="41" tsid="53564804" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=XVDBWWICRPZZAAYWPDHVUEFL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IRWRXIMVCUBRENTWVGXYSWRG" imageId="18302948"/>
+        <LastChange>2021-08-31T00:38:25.266+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718910" pageNr="41" tsid="63802023" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=APXSKYDCLUUDKSMYQHVQFVMB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LUMUWICUCCFWQLWQEORKJKLC" imageId="22439415"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0050.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196689282" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595893731" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612369503216_4390"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612369528099_4403"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612369528099_4402"/>
@@ -33,28 +33,28 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612369528099_4403" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="147,315 1203,315 1203,555 147,555"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:19; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:37; length:13;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:19; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:19; length:11;} textStyle {offset:37; length:13;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:37; length:13;}">
                 <Coords points="142,392 1197,395 1205,352 142,357"/>
                 <Baseline points="149,381 201,380 254,380 306,380 359,379 411,379 464,380 516,380 569,380 621,380 674,380 726,381 779,381 831,382 884,382 936,382 989,383 1041,383 1094,383 1146,383 1199,383"/>
                 <TextEquiv>
                     <Unicode>auch ihre äussere, Haupttonart unter Nebentonarten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_chord {offset:49; length:6;}">
                 <Coords points="144,443 1191,451 1199,405 144,412"/>
                 <Baseline points="151,435 203,435 255,434 307,434 359,434 411,434 463,434 515,434 567,434 619,434 672,434 724,435 776,435 828,435 880,435 932,436 984,436 1036,436 1088,436 1140,436 1193,435"/>
                 <TextEquiv>
                     <Unicode>zu sein, gekommen ist, wie der in sich bestimmte Accord</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_chord {offset:11; length:12;} m_chord {offset:46; length:6; continued:true;}">
                 <Coords points="147,499 1205,491 1101,452 989,478 833,451 147,461"/>
                 <Baseline points="154,484 206,485 258,486 310,486 362,487 415,487 467,488 519,488 571,488 623,488 676,488 728,488 780,488 832,488 884,488 937,488 989,488 1041,489 1093,489 1145,490 1198,490"/>
                 <TextEquiv>
                     <Unicode>erst durch Nebenaccorde zu der Bestimmung als Haupt¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} m_chord {offset:0; length:6; continued:true;} m_tonality {offset:14; length:6;}">
                 <Coords points="142,548 392,541 636,564 825,547 792,508 142,517"/>
                 <Baseline points="149,540 182,540 215,540 249,540 282,540 316,540 349,540 383,540 416,540 450,541 483,541 516,541 550,541 583,541 617,541 650,542 684,542 717,542 751,542 784,541 818,541"/>
                 <TextEquiv>
@@ -70,35 +70,35 @@ accord in der Tonart gelangen konnte.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612369528099_4402" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="147,555 1203,555 1203,823 147,823"/>
-            <TextLine id="r1l6" custom="readingOrder {index:0;} textStyle {offset:11; length:22;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l6" custom="readingOrder {index:0;} textStyle {offset:11; length:22;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:11; length:9;} m_tonality {offset:25; length:8;}">
                 <Coords points="224,603 1198,594 1150,564 225,562"/>
                 <Baseline points="231,594 279,593 327,593 375,593 423,593 471,593 519,594 567,594 615,594 663,595 711,595 759,595 807,595 855,596 903,596 951,596 999,595 1047,595 1095,594 1143,593 1191,592"/>
                 <TextEquiv>
                     <Unicode>29. Dieser Dreiklang von Tonarten hat seine Ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:1;}">
+            <TextLine id="r1l7" custom="readingOrder {index:1;} concept_mus {offset:39; length:9;} m_chord {offset:49; length:5; continued:true;}">
                 <Coords points="148,660 1200,650 1182,612 313,635 148,612"/>
                 <Baseline points="154,646 206,647 258,647 310,647 362,647 414,648 466,648 518,648 570,648 622,648 674,649 726,649 778,649 830,649 882,649 934,649 986,649 1038,649 1090,648 1142,648 1194,648"/>
                 <TextEquiv>
                     <Unicode>bindung, sein Verwandtschaftsmoment im tonischen Drei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:2;}">
+            <TextLine id="r1l8" custom="readingOrder {index:2;} m_chord {offset:0; length:6; continued:true;} m_tonality {offset:21; length:6;} concept_mus {offset:51; length:6;}">
                 <Coords points="146,707 1192,713 1192,675 1151,667 146,669"/>
                 <Baseline points="153,701 204,701 256,701 307,701 359,700 411,700 462,700 514,701 565,701 617,701 669,701 720,701 772,701 823,701 875,702 927,702 978,702 1030,702 1081,702 1133,702 1185,703"/>
                 <TextEquiv>
                     <Unicode>klange der mittleren Tonart, welcher in dieser als Tonica,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:3;}">
+            <TextLine id="r1l9" custom="readingOrder {index:3;} m_tonality {offset:7; length:20;} m_chord {offset:32; length:18;}">
                 <Coords points="142,764 1201,762 1166,723 142,716"/>
                 <Baseline points="148,753 200,753 252,753 304,754 357,754 409,754 461,754 514,754 566,754 618,755 671,755 723,755 775,755 827,755 880,755 932,756 984,756 1037,756 1089,756 1141,755 1194,755"/>
                 <TextEquiv>
                     <Unicode>in der Unterdominant-Tonart als Oberdominantaccord, in der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+            <TextLine id="r1l10" custom="readingOrder {index:4;} m_tonality {offset:0; length:19;} m_chord {offset:24; length:19;}">
                 <Coords points="148,820 1178,820 1178,787 1127,772 149,771"/>
                 <Baseline points="155,806 205,806 256,806 307,807 358,807 409,807 460,808 510,808 561,808 612,809 663,809 714,809 765,809 816,809 866,809 917,809 968,809 1019,810 1070,810 1121,810 1172,809"/>
                 <TextEquiv>
@@ -118,42 +118,42 @@ Oberdominant-Tonart als Unterdominantaccord erscheint:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1612369520046_4394" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
             <Coords points="147,1075 1203,1075 1203,2151 147,2151"/>
-            <TextLine id="r1l15" custom="readingOrder {index:0;}">
+            <TextLine id="r1l15" custom="readingOrder {index:0;} m_tonality {offset:25; length:6;} concept_mus {offset:48; length:7; continued:true;}">
                 <Coords points="220,1128 1203,1129 1182,1092 220,1094"/>
                 <Baseline points="227,1123 275,1123 323,1124 372,1125 420,1125 469,1126 517,1126 566,1126 614,1126 663,1127 711,1127 759,1127 808,1127 856,1127 905,1126 953,1126 1002,1126 1050,1126 1099,1126 1147,1126 1196,1125"/>
                 <TextEquiv>
                     <Unicode>30. Die in der einzelnen Tonart schon angeregte Accord¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:1;}">
+            <TextLine id="r1l16" custom="readingOrder {index:1;} concept_mus {offset:0; length:10; continued:true;}">
                 <Coords points="146,1182 1200,1186 1200,1156 1119,1146 146,1153"/>
                 <Baseline points="153,1175 205,1176 257,1178 309,1178 361,1179 413,1180 465,1180 517,1180 569,1180 621,1180 673,1180 725,1180 777,1180 829,1180 881,1180 933,1180 985,1180 1037,1180 1089,1179 1141,1180 1193,1180"/>
                 <TextEquiv>
                     <Unicode>verkettung kann nach beiden Seiten nun in das Unendliche</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:2;}">
+            <TextLine id="r1l17" custom="readingOrder {index:2;} concept_mus {offset:44; length:13; continued:true;}">
                 <Coords points="146,1244 1192,1242 1149,1196 147,1203"/>
                 <Baseline points="153,1229 204,1230 256,1230 307,1231 359,1232 411,1232 462,1233 514,1233 565,1233 617,1233 669,1233 720,1233 772,1233 823,1233 875,1233 927,1233 978,1233 1030,1233 1081,1233 1133,1234 1185,1234"/>
                 <TextEquiv>
                     <Unicode>sich fortbilden, und nachdem, wie es in der Tonartverbin¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:3;}">
+            <TextLine id="r1l18" custom="readingOrder {index:3;} concept_mus {offset:0; length:4; continued:true;} concept_mus {offset:9; length:6;} concept_mus {offset:20; length:12;}">
                 <Coords points="151,1290 1202,1299 1183,1252 151,1251"/>
                 <Baseline points="158,1283 209,1283 261,1284 313,1284 365,1285 417,1285 469,1285 521,1285 573,1286 625,1286 677,1286 728,1286 780,1286 832,1286 884,1286 936,1286 988,1286 1040,1287 1092,1287 1144,1287 1196,1287"/>
                 <TextEquiv>
                     <Unicode>dung mit Unter- und Oberdominant geschieht, immer ein</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:4;}">
+            <TextLine id="r1l19" custom="readingOrder {index:4;} m_chord {offset:10; length:9;} m_chord {offset:39; length:15;}">
                 <Coords points="149,1347 1201,1348 1201,1315 1079,1308 149,1301"/>
                 <Baseline points="156,1335 207,1336 259,1337 311,1338 363,1338 415,1339 467,1339 519,1339 571,1339 623,1339 675,1339 726,1339 778,1339 830,1339 882,1339 934,1339 986,1339 1038,1340 1090,1340 1142,1340 1194,1341"/>
                 <TextEquiv>
                     <Unicode>folgender Dreiklang als Mitte für zwei Nebendreiklänge zu</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:5;}">
+            <TextLine id="r1l20" custom="readingOrder {index:5;} m_tonality {offset:44; length:8;}">
                 <Coords points="146,1404 1204,1403 1167,1355 146,1356"/>
                 <Baseline points="153,1388 205,1390 257,1391 309,1391 361,1392 414,1393 466,1393 518,1393 570,1394 622,1394 675,1394 727,1394 779,1394 831,1393 883,1393 936,1393 988,1393 1040,1393 1092,1393 1144,1394 1197,1394"/>
                 <TextEquiv>
@@ -167,14 +167,14 @@ Oberdominant-Tonart als Unterdominantaccord erscheint:</Unicode>
                     <Unicode>Unendliche in einander verkettet. Zu einem höheren Ein¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:7;}">
+            <TextLine id="r1l22" custom="readingOrder {index:7;} m_tonality {offset:26; length:6;}">
                 <Coords points="145,1508 1200,1507 1200,1467 847,1491 823,1467 145,1459"/>
                 <Baseline points="152,1496 204,1497 256,1498 308,1498 360,1499 412,1499 464,1499 516,1500 568,1500 620,1500 672,1500 724,1500 776,1500 828,1500 880,1500 932,1500 984,1500 1036,1500 1088,1500 1140,1500 1193,1500"/>
                 <TextEquiv>
                     <Unicode>heitsbegriffe als dem der Tonart selbst, kann es aber nicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:8;}">
+            <TextLine id="r1l23" custom="readingOrder {index:8;} m_chord {offset:39; length:9;}">
                 <Coords points="141,1562 1209,1562 1189,1516 794,1515 759,1540 141,1518"/>
                 <Baseline points="148,1549 200,1550 253,1551 306,1552 358,1552 411,1552 464,1553 516,1553 569,1553 622,1553 675,1553 727,1553 780,1553 833,1553 885,1553 938,1553 991,1553 1043,1553 1096,1553 1149,1554 1202,1554"/>
                 <TextEquiv>
@@ -188,35 +188,35 @@ Oberdominant-Tonart als Unterdominantaccord erscheint:</Unicode>
                     <Unicode>selbst etwas zugesetzt erhalten könnte; denn wie dieser die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:10;} textStyle {offset:54; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l25" custom="readingOrder {index:10;} concept_mus {offset:30; length:18;} textStyle {offset:54; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="150,1667 1196,1660 1141,1627 875,1619 150,1636"/>
                 <Baseline points="157,1656 208,1657 260,1657 311,1657 363,1658 415,1658 466,1658 518,1658 569,1659 621,1659 673,1659 724,1659 776,1659 827,1659 879,1659 931,1659 982,1659 1034,1659 1085,1659 1137,1659 1189,1659"/>
                 <TextEquiv>
                     <Unicode>vollständige Entwickelung des Dreiklangbegriffes nach In¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:11;} textStyle {offset:0; length:3;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:41; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l26" custom="readingOrder {index:11;} textStyle {offset:0; length:3;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:20; length:6;} textStyle {offset:41; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="141,1720 1063,1731 1201,1722 1201,1683 141,1686"/>
                 <Baseline points="147,1710 199,1711 251,1711 304,1711 356,1712 409,1712 461,1712 513,1712 566,1712 618,1712 671,1712 723,1712 775,1712 828,1712 880,1712 933,1712 985,1712 1037,1712 1090,1713 1142,1713 1195,1714"/>
                 <TextEquiv>
                     <Unicode>nen, so enthält die Tonart dieselbe nach Aussen: jener als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:12;} textStyle {offset:35; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l27" custom="readingOrder {index:12;} textStyle {offset:35; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:35; length:6;}">
                 <Coords points="152,1777 1193,1776 1168,1732 152,1732"/>
                 <Baseline points="159,1763 210,1763 261,1764 313,1764 364,1764 415,1764 467,1765 518,1765 569,1765 621,1765 672,1765 723,1765 775,1765 826,1765 877,1765 929,1765 980,1765 1031,1765 1083,1765 1134,1764 1186,1764"/>
                 <TextEquiv>
                     <Unicode>Gleichzeitiges im Stillstande, als Accord, diese als Gleich¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:13;} textStyle {offset:30; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l28" custom="readingOrder {index:13;} textStyle {offset:30; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:30; length:11;}">
                 <Coords points="145,1826 1205,1827 1205,1795 1120,1781 145,1796"/>
                 <Baseline points="151,1817 203,1817 255,1818 308,1819 360,1819 413,1819 465,1819 517,1820 570,1820 622,1820 675,1819 727,1819 779,1819 832,1819 884,1819 937,1818 989,1818 1041,1818 1094,1818 1146,1817 1199,1817"/>
                 <TextEquiv>
                     <Unicode>zeitiges in der Bewegung, als Accordfolge. Auch die letzte</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:14;}">
+            <TextLine id="r1l29" custom="readingOrder {index:14;} m_tonality {offset:42; length:6;}">
                 <Coords points="149,1883 1197,1890 1197,1842 1110,1835 383,1835 344,1861 149,1836"/>
                 <Baseline points="155,1870 206,1871 258,1872 310,1872 362,1873 413,1873 465,1873 517,1873 569,1873 620,1873 672,1872 724,1872 776,1872 827,1872 879,1871 931,1871 983,1871 1034,1871 1086,1872 1138,1872 1190,1873"/>
                 <TextEquiv>
@@ -230,14 +230,14 @@ Oberdominant-Tonart als Unterdominantaccord erscheint:</Unicode>
                     <Unicode>sie setzt dieselbe nur als eine bestimmte unter andern</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:16;}">
+            <TextLine id="r1l31" custom="readingOrder {index:16;} m_tonality {offset:0; length:8;} m_tonality {offset:48; length:8;}">
                 <Coords points="144,1986 1201,1994 1201,1956 1143,1948 144,1948"/>
                 <Baseline points="151,1978 203,1978 255,1979 307,1979 359,1979 411,1979 463,1979 516,1979 568,1979 620,1979 672,1979 724,1979 776,1978 828,1978 881,1978 933,1978 985,1978 1037,1978 1089,1978 1141,1978 1194,1978"/>
                 <TextEquiv>
                     <Unicode>Tonarten fest. Einer weitern Fortbestimmung von Tonarten,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:17;}">
+            <TextLine id="r1l32" custom="readingOrder {index:17;} concept_mus {offset:19; length:10;}">
                 <Coords points="145,2043 1208,2041 1208,2004 1118,1995 757,2023 145,2004"/>
                 <Baseline points="151,2031 203,2031 256,2032 308,2032 361,2032 413,2032 466,2032 518,2032 571,2033 623,2032 676,2032 728,2032 781,2032 833,2032 886,2032 938,2031 991,2031 1043,2031 1096,2031 1148,2030 1201,2030"/>
                 <TextEquiv>

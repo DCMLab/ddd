@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:35.217+01:00</Created>
-        <LastChange>2021-03-13T19:34:41.104+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846606" pageNr="111" tsid="53658631" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=NXGEOQSUVWBRWTNMAYEPVCTP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PXYCYKRZNQSJUOBMZMDVPNXN" imageId="18303072"/>
+        <LastChange>2021-09-01T11:45:05.378+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718980" pageNr="111" tsid="63864916" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=USHFQKZOXCDCTRLKMQZDCTRY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HGYNTNUBXTHXWGJBVOZKLBBG" imageId="22439485"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0120.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196698906" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595903221" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612547157499_23"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612547157499_22"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612547153938_18"/>
@@ -39,7 +39,7 @@ Transkribus</Creator>
                     <Unicode>stehen lässt, so wird jedes aufsteigende Herantreten der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_interval {offset:0; length:7;} m_note {offset:15; length:9;} concept_mus {offset:43; length:10;}">
                 <Coords points="164,443 1228,450 1228,412 1073,404 164,408"/>
                 <Baseline points="170,434 222,435 275,435 327,435 380,435 433,435 485,435 538,435 590,435 643,435 696,435 748,435 801,436 853,436 906,436 959,436 1011,436 1064,436 1116,437 1169,437 1222,437"/>
                 <TextEquiv>
@@ -61,28 +61,28 @@ entgegen sein müssen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612547153938_18" custom="readingOrder {index:2;}">
             <Coords points="163,504 1223,504 1223,2149 163,2149"/>
-            <TextLine id="r1l5" custom="readingOrder {index:0;}">
+            <TextLine id="r1l5" custom="readingOrder {index:0;} concept_mus {offset:45; length:5;}">
                 <Coords points="259,549 1223,564 1223,523 1178,508 260,508"/>
                 <Baseline points="266,539 313,539 361,540 408,540 456,540 503,540 551,541 598,541 646,541 693,541 741,541 788,541 836,541 883,542 931,542 978,542 1026,542 1073,543 1121,543 1168,544 1216,544"/>
                 <TextEquiv>
                     <Unicode>151. Betrachten wir nun die entgegengesetzte Folge,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:1;}">
+            <TextLine id="r1l6" custom="readingOrder {index:1;} concept_mus {offset:13; length:18;}">
                 <Coords points="167,603 1220,595 1157,564 167,564"/>
                 <Baseline points="173,594 225,594 277,594 329,593 381,593 433,593 485,594 537,594 589,594 641,594 693,594 745,595 797,595 849,595 901,595 953,596 1005,596 1057,596 1109,595 1161,595 1214,595"/>
                 <TextEquiv>
                     <Unicode>die nach der Unterdominantseite, d. h. aus einem über-</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:2;}">
+            <TextLine id="r1l7" custom="readingOrder {index:2;} m_chord {offset:10; length:10;}">
                 <Coords points="166,657 1222,666 1222,626 1089,604 166,611"/>
                 <Baseline points="172,645 224,645 276,646 328,646 380,646 432,647 484,647 537,647 589,647 641,647 693,647 745,647 797,647 849,647 902,647 954,648 1006,648 1058,649 1110,649 1162,650 1215,651"/>
                 <TextEquiv>
                     <Unicode>liegenden Dreiklange nach einem unter-liegenden führende,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+            <TextLine id="r1l8" custom="readingOrder {index:3;} m_interval {offset:17; length:5;} m_note {offset:45; length:9;}">
                 <Coords points="164,708 1221,715 1221,674 1146,667 164,676"/>
                 <Baseline points="171,698 223,699 275,699 327,699 379,699 432,699 484,699 536,699 588,700 640,700 693,700 745,700 797,700 849,700 901,701 954,701 1006,701 1058,702 1110,702 1162,703 1215,704"/>
                 <TextEquiv>
@@ -96,49 +96,49 @@ entgegen sein müssen.</Unicode>
                     <Unicode>des zweiten ihm nächstverbundenen fortschreiten. In der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:5;} textStyle {offset:20; length:5;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:31; length:5;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l10" custom="readingOrder {index:5;} concept_mus {offset:0; length:15;} textStyle {offset:20; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:20; length:5;} textStyle {offset:31; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:31; length:5;} concept_mus {offset:52; length:4;}">
                 <Coords points="167,818 1230,817 1230,780 1159,771 167,771"/>
                 <Baseline points="173,805 225,805 278,805 330,805 383,805 435,805 488,805 540,805 593,805 645,805 698,806 750,806 803,806 855,806 908,806 960,807 1013,807 1065,808 1118,808 1170,809 1223,810"/>
                 <TextEquiv>
                     <Unicode>Dreiklangsfolge von G-h-D nach e-G-h, welche in die Lage</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:6;} textStyle {offset:0; length:5;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:18; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:25; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l11" custom="readingOrder {index:6;} textStyle {offset:0; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:0; length:5;} textStyle {offset:18; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:18; length:1;} textStyle {offset:25; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:25; length:1;} concept_mus {offset:27; length:15;} concept_mus {offset:53; length:6; continued:true;}">
                 <Coords points="171,867 1222,867 1185,827 171,827"/>
                 <Baseline points="178,858 229,859 281,859 333,859 385,859 437,859 489,859 540,859 592,859 644,859 696,859 748,859 800,860 852,860 903,860 955,860 1007,861 1059,861 1111,861 1163,862 1215,862"/>
                 <TextEquiv>
                     <Unicode>G-h-e führt, wird D nach e fortgeschritten sein. Die Septi¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:7;} textStyle {offset:47; length:7;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l12" custom="readingOrder {index:7;} concept_mus {offset:0; length:11; continued:true;} concept_mus {offset:19; length:5;} concept_mus {offset:42; length:4;} textStyle {offset:47; length:7;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:47; length:7;}">
                 <Coords points="167,923 1224,922 1224,892 1125,877 167,891"/>
                 <Baseline points="174,914 226,913 278,913 330,912 382,912 434,912 486,912 539,912 591,912 643,912 695,912 747,912 799,912 851,912 904,913 956,913 1008,913 1060,914 1112,914 1164,915 1217,915"/>
                 <TextEquiv>
                     <Unicode>menharmonie dieser Folge erscheint in der Lage G-h-D-e.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+            <TextLine id="r1l13" custom="readingOrder {index:8;} m_chord {offset:17; length:18;} m_note {offset:50; length:3;}">
                 <Coords points="169,977 1230,978 1230,940 1189,932 169,932"/>
                 <Baseline points="175,965 227,965 279,965 332,965 384,965 437,965 489,965 541,965 594,965 646,965 699,965 751,965 803,965 856,965 908,965 961,966 1013,966 1065,966 1118,967 1170,968 1223,968"/>
                 <TextEquiv>
                     <Unicode>Hier ist der dem Ausgangsdreiklange hinzutretende Ton der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:9;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l14" custom="readingOrder {index:9;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:0; length:8;} m_chord {offset:13; length:16;} concept_mus {offset:45; length:5;}">
                 <Coords points="171,1027 1223,1027 1182,987 171,987"/>
                 <Baseline points="177,1019 231,1019 286,1019 341,1019 395,1019 450,1019 505,1019 559,1019 614,1018 669,1018 723,1018 778,1018 833,1018 887,1018 942,1018 997,1018 1051,1019 1106,1019 1161,1020 1216,1021"/>
                 <TextEquiv>
                     <Unicode>Grundton des Septimenaccordes, wie er in der Folge</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:10;} textStyle {offset:31; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l15" custom="readingOrder {index:10;} concept_mus {offset:9; length:17;} textStyle {offset:31; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:31; length:7;}">
                 <Coords points="168,1083 1152,1091 1220,1083 1220,1048 168,1050"/>
                 <Baseline points="175,1072 226,1072 278,1072 330,1072 382,1071 434,1071 486,1071 538,1071 590,1071 642,1071 694,1071 745,1071 797,1070 849,1071 901,1071 953,1071 1005,1071 1057,1071 1109,1072 1161,1073 1213,1073"/>
                 <TextEquiv>
                     <Unicode>nach der Oberdominantseite die Septime desselben, als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:11;} textStyle {offset:16; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l16" custom="readingOrder {index:11;} textStyle {offset:16; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:16; length:5;} m_chord {offset:33; length:11;}">
                 <Coords points="165,1139 1228,1131 1228,1098 1145,1091 165,1098"/>
                 <Baseline points="171,1125 223,1125 276,1125 328,1124 381,1124 433,1124 486,1124 538,1124 591,1123 643,1123 696,1123 748,1123 801,1123 853,1123 906,1123 958,1124 1011,1124 1063,1124 1116,1125 1168,1125 1221,1126"/>
                 <TextEquiv>
@@ -152,21 +152,21 @@ entgegen sein müssen.</Unicode>
                     <Unicode>Natur nach ein Zweites, Etwas, das keinen Anfang</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:13;}">
+            <TextLine id="r1l18" custom="readingOrder {index:13;} concept_mus {offset:19; length:5;}">
                 <Coords points="163,1242 1223,1233 1125,1195 338,1195 311,1221 163,1195"/>
                 <Baseline points="170,1231 222,1231 274,1231 326,1231 379,1231 431,1230 483,1230 536,1230 588,1230 640,1230 693,1230 745,1230 797,1230 849,1230 902,1230 954,1230 1006,1230 1059,1230 1111,1230 1163,1230 1216,1230"/>
                 <TextEquiv>
                     <Unicode>bilden, das nur in Folge eines Vorausgesetzten eintre¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:14;}">
+            <TextLine id="r1l19" custom="readingOrder {index:14;} m_interval {offset:29; length:7;}">
                 <Coords points="164,1291 1212,1292 1226,1251 164,1253"/>
                 <Baseline points="170,1284 222,1284 275,1284 327,1283 380,1283 432,1283 485,1283 537,1283 590,1283 642,1282 695,1282 747,1282 800,1282 852,1282 905,1282 957,1282 1010,1283 1062,1283 1115,1283 1167,1284 1220,1284"/>
                 <TextEquiv>
                     <Unicode>ten kann. Die unvorbereitete Septime wird daher nicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:15;}">
+            <TextLine id="r1l20" custom="readingOrder {index:15;} m_note {offset:20; length:9;} m_interval {offset:39; length:5;}">
                 <Coords points="170,1347 1216,1345 1189,1300 170,1315"/>
                 <Baseline points="176,1336 227,1336 279,1336 331,1336 382,1336 434,1336 486,1336 537,1336 589,1336 641,1336 693,1336 744,1336 796,1336 848,1336 899,1336 951,1336 1003,1336 1054,1336 1106,1337 1158,1337 1210,1338"/>
                 <TextEquiv>
@@ -180,35 +180,35 @@ entgegen sein müssen.</Unicode>
                     <Unicode>schlagend, und eben deshalb, beiläufig gesagt, vor¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:17;}">
+            <TextLine id="r1l22" custom="readingOrder {index:17;} concept_mus {offset:23; length:8;}">
                 <Coords points="162,1451 929,1436 1030,1466 1221,1449 1221,1418 162,1419"/>
                 <Baseline points="168,1441 220,1442 272,1442 325,1442 377,1443 429,1443 482,1443 534,1442 586,1442 639,1442 691,1442 743,1442 796,1442 848,1442 900,1442 953,1442 1005,1442 1057,1443 1110,1443 1162,1444 1215,1445"/>
                 <TextEquiv>
                     <Unicode>zugsweise auch auf dem metrisch ihr entsprechenden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:18;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:26; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l23" custom="readingOrder {index:18;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:26; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:38; length:10;}">
                 <Coords points="162,1507 1222,1507 1222,1467 162,1472"/>
                 <Baseline points="168,1495 220,1495 272,1495 325,1495 377,1495 429,1495 482,1495 534,1495 586,1495 639,1495 691,1495 743,1495 796,1495 848,1495 900,1495 953,1495 1005,1495 1057,1495 1110,1496 1162,1496 1215,1497"/>
                 <TextEquiv>
                     <Unicode>zweiten oder sogenannten „schlechten” Takttheile</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:19;}">
+            <TextLine id="r1l24" custom="readingOrder {index:19;} m_note {offset:23; length:8;} m_chord {offset:36; length:14; continued:true;}">
                 <Coords points="170,1562 1224,1548 760,1508 537,1539 170,1524"/>
                 <Baseline points="176,1549 228,1548 280,1548 332,1548 384,1548 436,1548 488,1548 540,1548 592,1548 644,1548 697,1548 749,1548 801,1548 853,1548 905,1548 957,1548 1009,1548 1061,1548 1113,1548 1165,1548 1218,1548"/>
                 <TextEquiv>
                     <Unicode>erscheinen wollen. Der Grundton des Septimenaccor¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:20;}">
+            <TextLine id="r1l25" custom="readingOrder {index:20;} m_chord {offset:0; length:3; continued:true;} m_note {offset:26; length:8;} m_chord {offset:47; length:5; continued:true;}">
                 <Coords points="160,1611 1224,1602 1198,1571 160,1569"/>
                 <Baseline points="167,1601 219,1601 272,1601 324,1601 377,1601 429,1601 482,1601 534,1601 587,1601 639,1600 692,1600 745,1600 797,1600 850,1600 902,1600 955,1600 1007,1600 1060,1600 1112,1601 1165,1601 1218,1601"/>
                 <TextEquiv>
                     <Unicode>des dagegen, welcher auch Grundton des unteren Drei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:21;}">
+            <TextLine id="r1l26" custom="readingOrder {index:21;} m_chord {offset:0; length:7; continued:true;}">
                 <Coords points="167,1666 1223,1667 1223,1627 1150,1619 409,1620 384,1645 167,1620"/>
                 <Baseline points="174,1655 226,1655 278,1655 330,1655 382,1654 434,1654 486,1654 538,1653 590,1653 642,1653 695,1653 747,1653 799,1652 851,1653 903,1653 955,1653 1007,1653 1059,1654 1111,1654 1163,1655 1216,1656"/>
                 <TextEquiv>
@@ -222,56 +222,56 @@ entgegen sein müssen.</Unicode>
                     <Unicode>Wesen nach ein Erstes, das einem Anderen vortreten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:23;} textStyle {offset:51; length:8;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l28" custom="readingOrder {index:23;} concept_mus {offset:10; length:14;} m_interval {offset:25; length:7;} concept_mus {offset:45; length:5;} textStyle {offset:51; length:8;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:51; length:5;}">
                 <Coords points="168,1771 1225,1770 1180,1724 168,1724"/>
                 <Baseline points="175,1762 227,1762 279,1762 331,1761 383,1761 435,1761 487,1760 540,1760 592,1760 644,1759 696,1759 748,1759 800,1759 852,1758 905,1759 957,1759 1009,1759 1061,1759 1113,1760 1165,1761 1218,1762"/>
                 <TextEquiv>
                     <Unicode>kann. Die unvorbereitete Septime, wie in der Folge C-e-G...</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:24;} textStyle {offset:0; length:7;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l29" custom="readingOrder {index:24;} textStyle {offset:0; length:7;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:0; length:7;} concept_mus {offset:43; length:13; continued:true;}">
                 <Coords points="165,1827 1212,1820 1199,1780 165,1783"/>
                 <Baseline points="172,1812 223,1813 275,1813 326,1813 378,1813 430,1813 481,1813 533,1813 585,1813 636,1813 688,1812 740,1812 791,1812 843,1812 895,1812 946,1812 998,1812 1050,1812 1101,1812 1153,1812 1205,1813"/>
                 <TextEquiv>
                     <Unicode>h-C-e-G nachschlagend, wird immer als eine fortgeschrit¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:25;}">
+            <TextLine id="r1l30" custom="readingOrder {index:25;} concept_mus {offset:0; length:4; continued:true;} concept_mus {offset:5; length:6;} concept_mus {offset:34; length:13;} m_interval {offset:48; length:7;}">
                 <Coords points="160,1874 1217,1875 1217,1844 984,1828 160,1837"/>
                 <Baseline points="167,1866 219,1866 271,1867 323,1867 375,1867 428,1867 480,1867 532,1866 584,1866 636,1866 689,1866 741,1866 793,1865 845,1865 897,1865 950,1865 1002,1865 1054,1865 1106,1865 1158,1866 1211,1866"/>
                 <TextEquiv>
                     <Unicode>tene Stimme gehört werden; zu der vorbereiteten Septime</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:26;}">
+            <TextLine id="r1l31" custom="readingOrder {index:26;} m_note {offset:20; length:8;}">
                 <Coords points="163,1931 1220,1931 1220,1892 1167,1884 163,1891"/>
                 <Baseline points="169,1920 221,1920 273,1920 325,1919 377,1919 430,1919 482,1919 534,1919 586,1919 638,1919 691,1919 743,1919 795,1919 847,1919 899,1918 952,1918 1004,1918 1056,1918 1108,1918 1160,1918 1213,1918"/>
                 <TextEquiv>
                     <Unicode>übt der eintretende Grundton vielmehr die Wirkung einer</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:27;}">
+            <TextLine id="r1l32" custom="readingOrder {index:27;} concept_mus {offset:19; length:6;} m_chord {offset:31; length:14;}">
                 <Coords points="169,1981 851,1968 917,1995 1226,1979 1226,1939 169,1948"/>
                 <Baseline points="175,1971 227,1972 279,1972 331,1973 383,1973 436,1973 488,1974 540,1974 592,1973 644,1973 697,1973 749,1973 801,1973 853,1972 905,1972 958,1972 1010,1972 1062,1971 1114,1971 1166,1971 1219,1971"/>
                 <TextEquiv>
                     <Unicode>neu hinzukommenden Stimme. Der Septimenaccord mit</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:28;}">
+            <TextLine id="r1l33" custom="readingOrder {index:28;} concept_mus {offset:0; length:13;} m_interval {offset:14; length:7;}">
                 <Coords points="172,2035 1064,2042 1229,2033 1229,1998 172,2002"/>
                 <Baseline points="179,2024 231,2024 283,2025 335,2025 387,2025 439,2026 491,2026 544,2026 596,2026 648,2027 700,2027 752,2027 804,2027 856,2026 909,2026 961,2026 1013,2025 1065,2025 1117,2024 1169,2024 1222,2023"/>
                 <TextEquiv>
                     <Unicode>vorbereiteter Septime findet auch die ihm angemessene</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:29;} textStyle {offset:15; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l34" custom="readingOrder {index:29;} textStyle {offset:15; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:22; length:10;}">
                 <Coords points="156,2088 1221,2090 1221,2052 1175,2044 913,2044 887,2070 156,2047"/>
                 <Baseline points="163,2078 215,2078 268,2078 320,2078 373,2079 426,2079 478,2079 531,2080 583,2080 636,2080 689,2080 741,2080 794,2080 846,2080 899,2080 952,2080 1004,2080 1057,2079 1109,2079 1162,2078 1215,2078"/>
                 <TextEquiv>
                     <Unicode>Stelle auf dem ersten metrischen, dem sogenannten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:30;} textStyle {offset:1; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l35" custom="readingOrder {index:30;} textStyle {offset:1; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:8; length:10;}">
                 <Coords points="162,2143 192,2155 244,2138 541,2147 541,2115 492,2099 162,2107"/>
                 <Baseline points="168,2129 194,2130 220,2131 246,2132 272,2133 298,2133 324,2133 351,2133 377,2133 403,2133 429,2133 455,2133 481,2133 507,2133 534,2133"/>
                 <TextEquiv>

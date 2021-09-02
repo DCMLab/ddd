@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:38.161+01:00</Created>
-        <LastChange>2021-03-18T13:02:11.126+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846805" pageNr="220" tsid="53861923" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=YEQGFWUSPMWFLFZAVWMLSYYJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GYZVFFZICWBUFLYHKUSUMAID" imageId="18303271"/>
+        <LastChange>2021-09-02T16:39:20.262+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28719119" pageNr="220" tsid="64007706" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=UQAIVUYFJSDRRBGHIPMLTYRY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LZACDHRCQNUHVDDPYOCJHEND" imageId="22439624"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0229.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196716026" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595917448" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612642374938_6986"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612642374938_6985"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1612642363693_6977"/>
@@ -43,7 +43,7 @@ Transkribus</Creator>
                     <Unicode>Umwandlung zu Entgegengesetztem in dem gemeinschaft¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_note {offset:7; length:4;}">
                 <Coords points="197,451 540,451 540,416 490,416 478,404 456,404 416,427 346,411 273,420 197,412"/>
                 <Baseline points="204,441 229,441 254,441 280,441 305,441 330,441 356,441 381,441 407,441 432,441 457,441 483,441 508,441 534,441"/>
                 <TextEquiv>
@@ -60,21 +60,21 @@ lichen Tone selbst:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1612642363693_6977" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
             <Coords points="204,628 1265,628 1265,795 204,795"/>
-            <TextLine id="r1l7" custom="readingOrder {index:0;}">
+            <TextLine id="r1l7" custom="readingOrder {index:0;} concept_mus {offset:44; length:5; continued:true;}">
                 <Coords points="280,683 1240,683 1254,642 280,644"/>
                 <Baseline points="287,675 335,674 383,674 431,674 479,674 527,674 575,674 623,674 671,674 719,673 767,673 815,673 863,673 911,673 959,673 1007,672 1055,672 1103,671 1151,671 1199,670 1247,670"/>
                 <TextEquiv>
                     <Unicode>Es bleiben von den drei möglichen Arten der Drei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:1;} textStyle {offset:30; length:15;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l8" custom="readingOrder {index:1;} concept_mus {offset:0; length:11; continued:true;} textStyle {offset:30; length:15;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:30; length:15;} m_chord {offset:46; length:5; continued:true;}">
                 <Coords points="200,740 1257,722 1237,692 200,693"/>
                 <Baseline points="206,729 258,729 310,728 362,728 414,728 467,728 519,727 571,727 623,727 675,727 728,727 780,726 832,726 884,726 936,725 989,725 1041,725 1093,724 1145,723 1197,723 1250,722"/>
                 <TextEquiv>
                     <Unicode>klangsfolge somit nur die der Terz-verwandten Drei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:2;}">
+            <TextLine id="r1l9" custom="readingOrder {index:2;} m_chord {offset:0; length:6; continued:true;} concept_mus {offset:15; length:17;} concept_mus {offset:53; length:6;}">
                 <Coords points="199,796 1220,796 1267,787 1267,755 198,747"/>
                 <Baseline points="205,781 257,781 310,781 363,781 416,781 469,781 521,781 574,781 627,781 680,781 733,780 785,780 838,780 891,780 944,779 997,779 1049,779 1102,778 1155,778 1208,777 1261,777"/>
                 <TextEquiv>
@@ -92,35 +92,35 @@ klänge von den Schluss-bildenden ausgeschlossen. Die Folgen</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612642358815_6969" custom="readingOrder {index:5;} structure {type:paragraph;}">
             <Coords points="204,977 1265,977 1265,1250 204,1250"/>
-            <TextLine id="r1l16" custom="readingOrder {index:0;}">
+            <TextLine id="r1l16" custom="readingOrder {index:0;} concept_mus {offset:12; length:16;}">
                 <Coords points="201,1034 1263,1027 1247,987 201,989"/>
                 <Baseline points="207,1023 259,1023 312,1024 364,1025 417,1025 469,1025 522,1025 574,1025 627,1025 679,1024 732,1024 784,1023 837,1023 889,1023 942,1022 994,1022 1047,1022 1099,1021 1152,1021 1204,1021 1257,1021"/>
                 <TextEquiv>
                     <Unicode>haben keine Schlussbedeutung, sie schliessen nicht wesentlich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:1;}">
+            <TextLine id="r1l17" custom="readingOrder {index:1;} concept_mus {offset:54; length:3; continued:true;}">
                 <Coords points="209,1090 1261,1074 1213,1043 209,1045"/>
                 <Baseline points="215,1075 269,1076 324,1076 379,1077 433,1077 488,1077 543,1077 597,1078 652,1077 707,1077 761,1077 816,1077 871,1076 925,1076 980,1076 1035,1075 1089,1075 1144,1074 1199,1074 1254,1073"/>
                 <TextEquiv>
                     <Unicode>Getrenntes, entschieden Gegensätzliches zusammen. Der to¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:2;}">
+            <TextLine id="r1l18" custom="readingOrder {index:2;} concept_mus {offset:0; length:6; continued:true;} m_chord {offset:7; length:12;}">
                 <Coords points="207,1138 1224,1147 1258,1100 207,1108"/>
                 <Baseline points="213,1129 267,1130 322,1130 377,1131 431,1131 486,1131 541,1131 595,1131 650,1131 705,1131 759,1130 814,1130 869,1130 923,1129 978,1129 1033,1129 1087,1128 1142,1128 1197,1128 1252,1128"/>
                 <TextEquiv>
                     <Unicode>nische Durdreiklang hat die Möglichkeit eines gleichzeitigen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:3;}">
+            <TextLine id="r1l19" custom="readingOrder {index:3;} m_chord {offset:0; length:15;} m_chord {offset:49; length:9;}">
                 <Coords points="206,1195 1263,1181 1239,1148 568,1148 502,1173 206,1148"/>
                 <Baseline points="212,1184 264,1183 316,1183 368,1183 420,1183 473,1183 525,1183 577,1182 629,1182 681,1182 734,1182 786,1182 838,1182 890,1182 942,1182 995,1181 1047,1181 1099,1181 1151,1181 1203,1180 1256,1180"/>
                 <TextEquiv>
-                    <Unicode>Molldreiklanges, nicht aber eines gleichzeitigen Dominant¬</Unicode>
+                    <Unicode>Molldreiklanges, nicht aber eines gleichzeitigen Dominant-</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:4;}">
+            <TextLine id="r1l20" custom="readingOrder {index:4;} m_chord {offset:5; length:24;}">
                 <Coords points="206,1244 680,1243 704,1259 762,1243 762,1214 655,1204 206,1211"/>
                 <Baseline points="212,1236 239,1236 266,1236 293,1236 320,1236 348,1235 375,1235 402,1235 429,1235 456,1235 484,1234 511,1234 538,1234 565,1234 592,1234 620,1234 647,1235 674,1235 701,1235 728,1236 756,1236"/>
                 <TextEquiv>
@@ -128,51 +128,51 @@ klänge von den Schluss-bildenden ausgeschlossen. Die Folgen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>haben keine Schlussbedeutung, sie schliessen nicht wesentlich
-Getrenntes, entschieden Gegensätzliches zusammen. Der to¬
-nische Durdreiklang hat die Möglichkeit eines gleichzeitigen
-Molldreiklanges, nicht aber eines gleichzeitigen Dominant¬
+                <Unicode>haben keine Schlussbedeutung, sie schliessen nicht wesentlich&#13;
+Getrenntes, entschieden Gegensätzliches zusammen. Der to¬&#13;
+nische Durdreiklang hat die Möglichkeit eines gleichzeitigen&#13;
+Molldreiklanges, nicht aber eines gleichzeitigen Dominant-&#13;
 oder verminderten Dreiklanges.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612642355668_6965" custom="readingOrder {index:6;} structure {type:paragraph;}">
             <Coords points="204,1250 1265,1250 1265,1569 204,1569"/>
-            <TextLine id="r1l21" custom="readingOrder {index:0;}">
+            <TextLine id="r1l21" custom="readingOrder {index:0;} concept_mus {offset:12; length:24;}">
                 <Coords points="290,1299 1262,1298 1245,1251 290,1259"/>
                 <Baseline points="296,1288 344,1288 392,1288 440,1288 488,1288 536,1288 584,1288 632,1288 680,1288 728,1288 776,1288 824,1288 872,1288 920,1288 968,1288 1016,1288 1064,1288 1112,1288 1160,1288 1208,1287 1256,1287"/>
                 <TextEquiv>
                     <Unicode>Jede andere Dreiklangsfortschreitung als die innerhalb</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:1;}">
+            <TextLine id="r1l22" custom="readingOrder {index:1;} concept_mus {offset:0; length:15;} concept_mus {offset:16; length:10;} concept_mus {offset:40; length:9;}">
                 <Coords points="201,1347 1259,1348 1223,1308 201,1308"/>
                 <Baseline points="207,1341 259,1340 311,1340 363,1340 416,1340 468,1340 520,1340 572,1340 625,1340 677,1341 729,1341 781,1341 834,1341 886,1342 938,1342 990,1342 1043,1341 1095,1341 1147,1341 1199,1340 1252,1339"/>
                 <TextEquiv>
                     <Unicode>Terz-verwandter Dreiklänge, ebenso jede Auflösung des</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:2;}">
+            <TextLine id="r1l23" custom="readingOrder {index:2;} m_chord {offset:0; length:16;} concept_mus {offset:28; length:7;}">
                 <Coords points="198,1400 1247,1401 1214,1355 1041,1356 1013,1384 890,1355 198,1363"/>
                 <Baseline points="205,1394 256,1394 308,1394 360,1394 412,1394 464,1394 515,1394 567,1394 619,1394 671,1394 723,1394 774,1394 826,1394 878,1394 930,1394 982,1394 1033,1394 1085,1394 1137,1393 1189,1393 1241,1392"/>
                 <TextEquiv>
                     <Unicode>Septimenaccordes wird einen Schluss bilden, denn in die¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:3;}">
+            <TextLine id="r1l24" custom="readingOrder {index:3;} concept_mus {offset:23; length:10;} m_chord {offset:34; length:6;}">
                 <Coords points="208,1459 1260,1459 1260,1417 208,1426"/>
                 <Baseline points="215,1448 266,1447 318,1447 370,1447 422,1447 474,1447 526,1447 578,1447 630,1447 682,1447 734,1447 785,1447 837,1447 889,1447 941,1447 993,1447 1045,1447 1097,1447 1149,1447 1201,1446 1253,1446"/>
                 <TextEquiv>
                     <Unicode>ser letzteren wird der auflösende Accord immer zu einem</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:4;}">
+            <TextLine id="r1l25" custom="readingOrder {index:4;} m_chord {offset:14; length:15;} concept_mus {offset:42; length:10; continued:true;}">
                 <Coords points="210,1515 1264,1498 1159,1468 210,1467"/>
                 <Baseline points="216,1503 268,1501 320,1501 372,1500 424,1499 476,1499 528,1499 580,1499 632,1500 684,1500 737,1500 789,1500 841,1500 893,1500 945,1500 997,1500 1049,1500 1101,1499 1153,1498 1205,1497 1258,1495"/>
                 <TextEquiv>
                     <Unicode>der beiden im Septimenaccorde verbundenen Quint-ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:5;}">
+            <TextLine id="r1l26" custom="readingOrder {index:5;} concept_mus {offset:0; length:7; continued:true;}">
                 <Coords points="208,1563 343,1564 372,1541 393,1563 892,1564 916,1561 916,1531 424,1515 208,1532"/>
                 <Baseline points="215,1554 249,1553 284,1553 319,1553 354,1553 388,1553 423,1553 458,1552 493,1552 527,1552 562,1553 597,1553 632,1553 666,1553 701,1553 736,1553 771,1554 805,1554 840,1554 875,1555 910,1555"/>
                 <TextEquiv>
@@ -197,7 +197,7 @@ wandter, oder von ihm getrennter sein.</Unicode>
                     <Unicode>310. Wir haben aber eine doppelte Bedeutung des</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:1;} textStyle {offset:7; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:37; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l28" custom="readingOrder {index:1;} textStyle {offset:7; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:7; length:7;} textStyle {offset:37; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="208,1666 1254,1659 1024,1627 209,1628"/>
                 <Baseline points="215,1658 266,1658 318,1658 369,1659 421,1659 473,1659 524,1660 576,1660 627,1660 679,1660 731,1660 782,1660 834,1660 885,1660 937,1660 989,1660 1040,1660 1092,1659 1143,1659 1195,1659 1247,1659"/>
                 <TextEquiv>
@@ -211,14 +211,14 @@ wandter, oder von ihm getrennter sein.</Unicode>
                     <Unicode>schluss und den Abschluss. Der erstere ist eben überall</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:3;}">
+            <TextLine id="r1l30" custom="readingOrder {index:3;} m_note {offset:17; length:8;} m_interval {offset:31; length:5;} concept_mus {offset:37; length:10;}">
                 <Coords points="205,1775 1158,1787 1266,1775 1266,1739 205,1740"/>
                 <Baseline points="212,1765 264,1765 316,1765 369,1765 421,1766 474,1766 526,1766 578,1766 631,1766 683,1766 736,1766 788,1766 840,1766 893,1766 945,1766 998,1766 1050,1766 1102,1766 1155,1766 1207,1765 1260,1765"/>
                 <TextEquiv>
                     <Unicode>vorhanden, wo in Grundton oder Quint verbundene, oder</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:4;}">
+            <TextLine id="r1l31" custom="readingOrder {index:4;} concept_mus {offset:10; length:12;} m_chord {offset:23; length:10;}">
                 <Coords points="205,1826 1187,1827 1177,1796 1019,1779 205,1796"/>
                 <Baseline points="211,1818 259,1818 307,1818 356,1819 404,1819 453,1819 501,1819 550,1819 598,1819 647,1819 695,1819 743,1819 792,1819 840,1819 889,1819 937,1819 986,1819 1034,1819 1083,1819 1131,1819 1180,1819"/>
                 <TextEquiv>
@@ -249,21 +249,21 @@ wo direct unverbundene Dreiklänge aufeinander folgen.</Unicode>
                     <Unicode>völlig schliessender, und als solcher der noch einen Nach¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:2;}">
+            <TextLine id="r1l34" custom="readingOrder {index:2;} m_chord {offset:52; length:3; continued:true;}">
                 <Coords points="205,1987 1259,1977 1216,1948 765,1939 205,1956"/>
                 <Baseline points="211,1979 263,1978 315,1978 367,1978 419,1977 471,1977 523,1977 575,1978 627,1978 679,1978 732,1978 784,1979 836,1979 888,1979 940,1979 992,1979 1044,1979 1096,1979 1148,1979 1200,1978 1253,1978"/>
                 <TextEquiv>
                     <Unicode>satz erwarten lässt. Jener wird immer nur aus einem Do¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:3;}">
+            <TextLine id="r1l35" custom="readingOrder {index:3;} m_chord {offset:0; length:13; continued:true;} concept_mus {offset:21; length:9;} m_chord {offset:31; length:9;}">
                 <Coords points="205,2043 1271,2041 1240,1996 1005,2022 911,1997 205,2003"/>
                 <Baseline points="212,2032 264,2031 317,2031 369,2031 422,2031 475,2031 527,2031 580,2031 633,2031 685,2031 738,2032 791,2032 843,2032 896,2032 949,2033 1001,2033 1054,2033 1107,2033 1159,2032 1212,2032 1265,2031"/>
                 <TextEquiv>
                     <Unicode>minantaccorde in den tonischen Dreiklang, und zwar in</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:4;}">
+            <TextLine id="r1l36" custom="readingOrder {index:4;} concept_mus {offset:7; length:14;}">
                 <Coords points="211,2091 1261,2093 1261,2058 1206,2051 1009,2075 211,2051"/>
                 <Baseline points="217,2084 268,2083 320,2083 372,2083 424,2083 476,2083 528,2083 579,2083 631,2084 683,2084 735,2084 787,2085 839,2085 891,2085 942,2086 994,2086 1046,2086 1098,2085 1150,2085 1202,2085 1254,2084"/>
                 <TextEquiv>

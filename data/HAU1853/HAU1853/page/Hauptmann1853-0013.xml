@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:30.962+01:00</Created>
-        <LastChange>2021-03-09T17:49:52.368+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846417" pageNr="4" tsid="53486673" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=LTQCDJJAHRXNSXYUGCGBUBQG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OBKGINHVAZAOIFQOTYSYGZUW" imageId="18302883"/>
+        <LastChange>2021-08-30T19:33:47.763+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718873" pageNr="4" tsid="63790347" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=GQROSOXPXHLJCNYMNOKXBHPN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QPZOFPIRTPMGCGCAHNUROFTP" imageId="22439378"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0013.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196683526" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595888235" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612352305808_324"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612352335218_339"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612352335218_338"/>
@@ -46,7 +46,7 @@ Transkribus</Creator>
                     <Unicode>scheint. Man hört aber doch auch das Verlangen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:39; length:5;}">
                 <Coords points="208,555 1260,555 1260,512 208,516"/>
                 <Baseline points="214,544 268,543 323,542 378,542 432,541 487,541 542,542 596,542 651,542 706,543 760,543 815,543 870,544 924,544 979,544 1034,544 1088,544 1143,543 1198,542 1253,541"/>
                 <TextEquiv>
@@ -102,7 +102,7 @@ Transkribus</Creator>
                     <Unicode>Nachdenkenden Anklang finden. Es enthält nicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:10;} textStyle {offset:32; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l12" custom="readingOrder {index:10;} concept_mus {offset:5; length:12;} concept_mus {offset:22; length:9;} textStyle {offset:32; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="198,1155 1183,1163 1261,1154 1261,1123 198,1125"/>
                 <Baseline points="204,1147 256,1147 309,1148 361,1148 414,1148 466,1148 519,1148 571,1148 624,1149 676,1149 729,1149 781,1149 834,1149 886,1149 939,1149 991,1149 1044,1149 1096,1149 1149,1149 1201,1149 1254,1149"/>
                 <TextEquiv>
@@ -116,7 +116,7 @@ Transkribus</Creator>
                     <Unicode>beschäftigt sich allein mit der Naturlehre der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+            <TextLine id="r1l14" custom="readingOrder {index:12;} concept_mus {offset:0; length:13;} concept_mus {offset:18; length:10;}">
                 <Coords points="204,1307 901,1314 938,1308 938,1268 204,1270"/>
                 <Baseline points="210,1299 246,1299 282,1299 318,1299 354,1300 390,1300 426,1300 462,1300 498,1300 534,1300 571,1299 607,1299 643,1299 679,1299 715,1299 751,1299 787,1299 823,1299 859,1299 895,1300 932,1300"/>
                 <TextEquiv>
@@ -141,14 +141,14 @@ musikalischen und metrischen Kunst.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1612352335218_338" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
             <Coords points="204,1322 1270,1322 1270,2109 204,2109"/>
-            <TextLine id="r1l15" custom="readingOrder {index:0;}">
+            <TextLine id="r1l15" custom="readingOrder {index:0;} concept_mus {offset:16; length:11;}">
                 <Coords points="265,1382 1261,1395 1261,1347 1175,1339 265,1345"/>
                 <Baseline points="272,1374 321,1375 370,1375 419,1375 468,1376 517,1376 566,1376 615,1376 664,1376 713,1376 763,1376 812,1376 861,1376 910,1376 959,1375 1008,1375 1057,1375 1106,1376 1155,1376 1204,1376 1254,1376"/>
                 <TextEquiv>
                     <Unicode>Dieser abstract theoretisch gehaltenen Darstellung</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:1;}">
+            <TextLine id="r1l16" custom="readingOrder {index:1;} concept_mus {offset:4; length:8;}">
                 <Coords points="207,1459 1267,1455 1198,1412 207,1413"/>
                 <Baseline points="214,1450 266,1450 318,1450 370,1451 423,1451 475,1451 527,1451 580,1451 632,1451 684,1451 737,1452 789,1452 841,1452 893,1452 946,1452 998,1452 1050,1452 1103,1451 1155,1451 1207,1451 1260,1450"/>
                 <TextEquiv>
@@ -162,7 +162,7 @@ musikalischen und metrischen Kunst.</Unicode>
                     <Unicode>vorbereiteten Nachtrag folgen zu lassen, der erläu¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:3;}">
+            <TextLine id="r1l18" custom="readingOrder {index:3;} concept_mus {offset:39; length:11;}">
                 <Coords points="200,1611 1055,1626 1254,1610 1254,1571 200,1572"/>
                 <Baseline points="207,1602 259,1602 311,1603 363,1603 415,1603 467,1603 519,1603 571,1603 623,1603 675,1603 727,1603 779,1603 831,1603 883,1603 935,1603 987,1603 1039,1603 1091,1603 1143,1602 1195,1602 1248,1602"/>
                 <TextEquiv>
@@ -204,7 +204,7 @@ musikalischen und metrischen Kunst.</Unicode>
                     <Unicode>irgend eine weitere Erklärung, oder ein Beispiel in</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:9;}">
+            <TextLine id="r1l24" custom="readingOrder {index:9;} concept_mus {offset:0; length:12;} concept_mus {offset:18; length:10;}">
                 <Coords points="202,2066 1256,2058 1229,2027 202,2020"/>
                 <Baseline points="208,2058 260,2058 312,2058 364,2058 416,2057 468,2057 520,2057 572,2057 624,2057 676,2058 729,2058 781,2058 833,2058 885,2058 937,2058 989,2058 1041,2057 1093,2057 1145,2057 1197,2057 1250,2056"/>
                 <TextEquiv>

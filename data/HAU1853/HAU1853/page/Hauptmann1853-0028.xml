@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:31.704+01:00</Created>
-        <LastChange>2021-03-10T19:43:18.802+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846443" pageNr="19" tsid="53536999" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=TQZOTHRUXKPGQXEVQOOLHVQB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=USRJUZADDYZWMIJGMMKVSNDI" imageId="18302909"/>
+        <LastChange>2021-08-30T23:49:56.475+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718888" pageNr="19" tsid="63800206" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=OHFFXMYIKSTFMAQJSLEGWLXU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CRGTKYOGFOTVPKRCJPOHMEMM" imageId="22439393"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0028.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196685772" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595890825" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612358907121_2299"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612358907121_2298"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612358902056_2292"/>
@@ -61,28 +61,28 @@ Transkribus</Creator>
                     <Unicode>Resultat eines vorhergegangenen Processes gegeben wird.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:24; length:7;}">
                 <Coords points="134,601 1180,596 1197,555 134,559"/>
                 <Baseline points="140,587 192,588 245,588 297,588 350,589 402,589 455,589 507,589 560,589 612,590 665,590 717,590 770,590 822,590 875,590 927,590 980,589 1032,589 1085,589 1137,589 1190,589"/>
                 <TextEquiv>
                     <Unicode>So wird die Einheit des Klanges mit sich selbst vermittelt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} m_chord {offset:4; length:9;} m_chord {offset:31; length:11;}">
                 <Coords points="133,651 1187,651 1187,611 133,615"/>
                 <Baseline points="140,642 192,641 244,641 296,641 348,641 400,641 452,641 504,642 556,642 608,642 660,642 712,642 764,643 816,643 868,643 920,643 972,643 1024,642 1076,642 1128,642 1181,641"/>
                 <TextEquiv>
                     <Unicode>den Dreiklang, die Einheit des Dreiklanges mit sich selbst</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} m_tonality {offset:15; length:6;}">
                 <Coords points="136,707 1178,707 1190,667 136,668"/>
                 <Baseline points="143,691 195,692 247,693 299,693 351,693 403,694 455,694 507,694 559,695 611,695 663,695 715,695 767,695 819,695 871,695 923,695 975,695 1027,695 1079,695 1131,695 1184,695"/>
                 <TextEquiv>
                     <Unicode>vermittelt die Tonart entstehen lassen. Allein auch der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;} concept_mus {offset:0; length:5;}">
                 <Coords points="133,755 1197,755 1188,716 133,717"/>
                 <Baseline points="139,747 191,747 244,747 296,747 349,747 402,747 454,747 507,747 559,748 612,748 665,748 717,748 770,748 822,748 875,748 928,748 980,748 1033,747 1085,747 1138,747 1191,746"/>
                 <TextEquiv>
@@ -216,21 +216,21 @@ selbst für jede solche.</Unicode>
                     <Unicode>erst nur apodiktisch Ausgesprochenen wünschen und er¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:3;}">
+            <TextLine id="r1l24" custom="readingOrder {index:3;} m_interval {offset:49; length:6; continued:true;}">
                 <Coords points="141,1555 1189,1538 1102,1507 141,1516"/>
                 <Baseline points="148,1539 199,1539 251,1540 303,1540 354,1540 406,1540 458,1540 509,1540 561,1540 613,1540 665,1539 716,1539 768,1539 820,1539 871,1539 923,1539 975,1539 1026,1539 1078,1539 1130,1539 1182,1539"/>
                 <TextEquiv>
                     <Unicode>warten. So z. B. wenn gesagt wird: „es gibt drei Inter¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:4;} textStyle {offset:7; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:14; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:24; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l25" custom="readingOrder {index:4;} m_interval {offset:0; length:5; continued:true;} textStyle {offset:7; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:7; length:5;} textStyle {offset:14; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:14; length:5;} textStyle {offset:24; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:24; length:4;} m_interval {offset:47; length:9; continued:true;}">
                 <Coords points="134,1602 1168,1603 1189,1569 134,1572"/>
                 <Baseline points="141,1594 193,1593 245,1593 297,1593 349,1593 401,1593 453,1593 505,1593 557,1593 609,1593 662,1594 714,1594 766,1594 818,1594 870,1594 922,1594 974,1593 1026,1593 1078,1592 1130,1592 1183,1591"/>
                 <TextEquiv>
                     <Unicode>valle: Octav, Quint und Terz”, wenn von diesen Interval¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1612359018694_2373" custom="readingOrder {index:5;}">
+            <TextLine id="line_1612359018694_2373" custom="readingOrder {index:5;} m_interval {offset:0; length:3; continued:true;}">
                 <Coords points="137,1660 1190,1651 1165,1612 137,1612"/>
                 <Baseline points="144,1648 185,1647 227,1647 269,1647 310,1647 352,1647 394,1647 435,1647 477,1647 519,1647 561,1647 602,1647 644,1647 686,1647 727,1646 769,1646 811,1646 852,1646 894,1645 936,1645 978,1644 1010,1646 1038,1645 1067,1645 1096,1645 1125,1644 1154,1644 1183,1643"/>
                 <TextEquiv>
@@ -244,14 +244,14 @@ selbst für jede solche.</Unicode>
                     <Unicode>tere Erklärung und Rechtfertigung, warum nur drei und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:7;} textStyle {offset:15; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l29" custom="readingOrder {index:7;} textStyle {offset:15; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:26; length:10;}">
                 <Coords points="131,1759 1190,1755 1095,1715 131,1730"/>
                 <Baseline points="138,1752 190,1753 242,1753 294,1753 347,1754 399,1754 451,1754 504,1753 556,1753 608,1753 661,1753 713,1753 765,1752 817,1752 870,1752 922,1752 974,1751 1027,1751 1079,1751 1131,1751 1184,1752"/>
                 <TextEquiv>
                     <Unicode>warum nur eben diese drei Intervalle genannt und als un¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:8;}">
+            <TextLine id="r1l30" custom="readingOrder {index:8;} m_interval {offset:46; length:10;}">
                 <Coords points="133,1815 1192,1818 1175,1772 133,1780"/>
                 <Baseline points="139,1805 191,1806 243,1806 295,1806 348,1806 400,1806 452,1806 505,1806 557,1806 609,1806 662,1806 714,1806 766,1806 818,1805 871,1805 923,1805 975,1805 1028,1805 1080,1805 1132,1805 1185,1804"/>
                 <TextEquiv>
@@ -265,14 +265,14 @@ selbst für jede solche.</Unicode>
                     <Unicode>mehrere und manche Veränderungen an ihnen kennen.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:10;}">
+            <TextLine id="r1l32" custom="readingOrder {index:10;} concept_phy {offset:40; length:11;} concept_phy {offset:52; length:4; continued:true;}">
                 <Coords points="131,1922 1186,1914 1135,1876 131,1876"/>
                 <Baseline points="138,1912 190,1912 242,1912 294,1911 346,1911 398,1911 450,1911 502,1912 554,1912 606,1912 659,1912 711,1912 763,1912 815,1912 867,1912 919,1912 971,1911 1023,1911 1075,1910 1127,1909 1180,1908"/>
                 <TextEquiv>
                     <Unicode>Ebenso ist die Bedeutung, welche in den akustischen Ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:11;}">
+            <TextLine id="r1l33" custom="readingOrder {index:11;} concept_phy {offset:0; length:10; continued:true;} m_interval {offset:18; length:10;}">
                 <Coords points="128,1979 1186,1970 1149,1932 128,1931"/>
                 <Baseline points="135,1965 187,1965 239,1966 291,1966 344,1966 396,1966 448,1966 500,1966 553,1965 605,1965 657,1965 709,1965 762,1965 814,1965 866,1964 918,1964 971,1964 1023,1964 1075,1964 1127,1964 1180,1964"/>
                 <TextEquiv>

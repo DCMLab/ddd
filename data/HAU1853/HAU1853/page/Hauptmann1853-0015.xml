@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:31.063+01:00</Created>
-        <LastChange>2021-03-09T17:53:55.334+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846420" pageNr="6" tsid="53486756" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=OOWDWNSJNOGZUDESHHPAAPZP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MFMTUYFRKHPISHROKWPFFHTF" imageId="18302886"/>
+        <LastChange>2021-08-30T19:40:46.488+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718875" pageNr="6" tsid="63790596" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=VBGHDBVOHGQUFBPVPVJVRDWD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AGZONEBLQQSLBLLNVWHBSTTY" imageId="22439380"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0015.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196683913" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595888530" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612353046991_486"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612353046991_485"/>
             </OrderedGroup>
@@ -31,7 +31,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612353046991_485" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="213,279 1272,279 1272,1787 213,1787"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} person_author {offset:0; length:15;ID:P0133;} concept_mus {offset:16; length:11;}">
                 <Coords points="210,380 1245,379 1278,344 209,333"/>
                 <Baseline points="216,370 268,370 321,369 374,369 427,368 480,368 532,368 585,369 638,369 691,369 744,369 796,369 849,369 902,369 955,369 1008,369 1060,369 1113,368 1166,367 1219,366 1272,365"/>
                 <TextEquiv>
@@ -52,14 +52,14 @@ Transkribus</Creator>
                     <Unicode>Dasjenige, was in jenem mit dem vorliegenden über¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} person_author {offset:17; length:9;ID:P0133;}">
                 <Coords points="211,602 1260,597 1249,564 1159,556 211,567"/>
                 <Baseline points="218,595 269,595 321,595 373,595 425,595 477,595 528,595 580,596 632,596 684,596 736,596 787,596 839,596 891,596 943,596 995,595 1046,595 1098,595 1150,595 1202,595 1254,594"/>
                 <TextEquiv>
                     <Unicode>einstimmt, Herrn Kraushaar vor Jahren bei Gelegen¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:11; length:32;}">
                 <Coords points="210,683 1273,671 1247,627 210,633"/>
                 <Baseline points="216,672 268,671 321,671 373,671 426,671 478,671 531,671 583,671 636,672 688,672 741,672 794,672 846,672 899,672 951,672 1004,672 1056,672 1109,672 1161,672 1214,671 1267,671"/>
                 <TextEquiv>
@@ -73,14 +73,14 @@ Transkribus</Creator>
                     <Unicode>mitgetheilt worden ist.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} location {offset:0; length:7;} time {offset:12; length:11;}">
                 <Coords points="275,827 374,842 423,828 454,844 502,828 836,835 836,790 782,780 617,796 576,780 551,797 511,780 490,801 446,780 387,796 367,779 343,796 275,786"/>
                 <Baseline points="281,821 308,822 335,823 363,823 390,823 418,824 445,824 473,824 500,824 528,824 555,824 582,824 610,823 637,823 665,823 692,823 720,823 747,822 775,822 802,822 830,822"/>
                 <TextEquiv>
                     <Unicode>Leipzig, im Januar 1853.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;} person_author {offset:0; length:12;ID:P0007;}">
                 <Coords points="821,1021 1187,1028 1217,1017 1217,1004 1199,1004 1175,980 821,980"/>
                 <Baseline points="827,1018 852,1018 878,1019 903,1020 929,1020 955,1021 980,1021 1006,1021 1031,1021 1057,1021 1083,1021 1108,1020 1134,1020 1159,1019 1185,1019 1211,1018"/>
                 <TextEquiv>

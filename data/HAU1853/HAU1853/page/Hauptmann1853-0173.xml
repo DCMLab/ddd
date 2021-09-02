@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:36.789+01:00</Created>
-        <LastChange>2021-03-16T16:34:14.217+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846703" pageNr="164" tsid="53777918" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=UNKOVCEZMBDSHNCKVCRWURVV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NIBLXUCZSYYVKNZEFZVXHARP" imageId="18303169"/>
+        <LastChange>2021-09-02T12:28:03.013+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28719034" pageNr="164" tsid="63970346" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=VDXXAXVYLBREFLLGQPXNPHYF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CYKOTKETZVWUETESJWAEINBS" imageId="22439539"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0173.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196707014" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595910325" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612632321437_1346"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612632321437_1345"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612632318691_1341"/>
@@ -34,91 +34,91 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612632321437_1345" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="204,290 1274,290 1274,1007 204,1007"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_chord {offset:14; length:14;} m_interval {offset:33; length:16;}">
                 <Coords points="294,364 1273,363 1273,325 294,324"/>
                 <Baseline points="300,354 348,354 396,354 444,353 493,353 541,353 589,354 638,354 686,354 734,354 783,354 831,355 879,355 927,355 976,355 1024,355 1072,356 1121,356 1169,356 1217,356 1266,355"/>
                 <TextEquiv>
                     <Unicode>232. Wenn der Septimenaccord der Oberdominantterz</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:21; length:7;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_tonality {offset:3; length:16;} textStyle {offset:21; length:7;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:21; length:7;} concept_mus {offset:44; length:4;}">
                 <Coords points="208,419 1271,418 1271,378 1209,371 789,397 208,372"/>
                 <Baseline points="215,408 267,407 319,407 372,407 424,407 477,407 529,407 582,407 634,407 687,407 739,407 791,407 844,407 896,407 949,407 1001,408 1054,408 1106,408 1159,409 1211,409 1264,409"/>
                 <TextEquiv>
                     <Unicode>im Durtonartsysteme, h-D|F-a, eine bedingte Lage seiner</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_interval {offset:0; length:10;}">
                 <Coords points="213,467 1277,474 1277,427 213,428"/>
                 <Baseline points="220,459 272,460 325,460 377,460 430,460 482,461 535,461 587,461 640,461 692,461 745,461 797,461 850,461 902,461 955,461 1007,461 1060,462 1112,462 1165,462 1217,462 1270,462"/>
                 <TextEquiv>
                     <Unicode>Intervalle veranlasste, so liess diese Bedingung sich darauf</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:31; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} m_interval {offset:23; length:7;} textStyle {offset:31; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:39; length:6;}">
                 <Coords points="215,524 1280,521 1238,476 215,488"/>
                 <Baseline points="222,513 274,513 327,513 379,514 432,514 485,514 537,514 590,514 642,514 695,514 748,514 800,514 853,514 905,514 958,514 1011,514 1063,514 1116,514 1168,514 1221,515 1274,515"/>
                 <TextEquiv>
                     <Unicode>zurückführen, dass die Septime höchste Stimme des</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} m_chord {offset:0; length:8;} m_interval {offset:34; length:10;}">
                 <Coords points="211,580 1275,578 1247,531 211,534"/>
                 <Baseline points="217,566 269,566 322,566 374,567 427,567 480,567 532,567 585,567 637,567 690,567 743,567 795,567 848,567 900,567 953,567 1006,567 1058,567 1111,567 1163,567 1216,568 1269,568"/>
                 <TextEquiv>
                     <Unicode>Accordes sein musste; die anderen Intervalle durften in</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} concept_mus {offset:6; length:12;} m_chord {offset:48; length:7;}">
                 <Coords points="208,627 1268,628 1276,596 208,597"/>
                 <Baseline points="214,618 266,619 319,619 372,619 425,620 477,620 530,620 583,620 636,620 688,620 741,619 794,619 847,619 899,619 952,620 1005,620 1058,620 1110,620 1163,621 1216,621 1269,622"/>
                 <TextEquiv>
                     <Unicode>allen Versetzungen dabei angewendet werden. Die Accorde</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} m_interval {offset:4; length:27;} concept_mus {offset:46; length:8;}">
                 <Coords points="210,683 1269,683 1269,651 1210,636 210,645"/>
                 <Baseline points="217,669 269,670 321,671 373,672 426,672 478,673 530,673 582,673 635,673 687,673 739,673 791,672 844,672 896,672 948,672 1000,672 1053,672 1105,673 1157,673 1209,674 1262,675"/>
                 <TextEquiv>
                     <Unicode>mit vermindertem Terzintervalle erfordern die Sextlage</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;} m_interval {offset:7; length:11;}">
                 <Coords points="203,731 1271,730 1271,701 1199,692 203,700"/>
                 <Baseline points="209,723 261,724 314,724 367,724 420,725 472,725 525,725 578,725 631,725 683,725 736,726 789,725 842,725 894,725 947,725 1000,725 1053,725 1105,725 1158,725 1211,724 1264,724"/>
                 <TextEquiv>
-                    <Unicode>dieses Intervalles und werden ihre Eigenthümlichkeit her¬</Unicode>
+                    <Unicode>dieses Intervalles und werden ihre Eigenthümlichkeit am</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+            <TextLine id="r1l10" custom="readingOrder {index:8;} m_note {offset:51; length:3;}">
                 <Coords points="206,785 1253,787 1268,755 206,756"/>
                 <Baseline points="213,776 265,777 317,778 370,778 422,779 475,779 527,779 579,780 632,780 684,779 737,779 789,779 841,779 894,779 946,778 999,778 1051,778 1103,778 1156,778 1208,778 1261,779"/>
                 <TextEquiv>
-                    <Unicode>vortreten lassen, am deutlichsten, wenn der tiefere Ton des</Unicode>
+                    <Unicode>deutlichsten hervortreten lassen, wenn der tiefere Ton des</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:9;} textStyle {offset:20; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l11" custom="readingOrder {index:9;} m_interval {offset:0; length:15;} textStyle {offset:20; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:28; length:6;}">
                 <Coords points="211,843 1279,833 1279,804 1223,796 983,821 211,796"/>
                 <Baseline points="217,830 269,830 322,830 375,830 428,831 480,831 533,831 586,831 639,831 691,832 744,832 797,832 850,832 902,832 955,832 1008,832 1061,832 1113,832 1166,832 1219,832 1272,831"/>
                 <TextEquiv>
                     <Unicode>Sextintervalles die tiefste Stimme ist; sie lassen aber</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+            <TextLine id="r1l12" custom="readingOrder {index:10;} m_note {offset:19; length:3;} m_chord {offset:27; length:8;} m_note {offset:40; length:7;}">
                 <Coords points="207,890 1159,906 1272,890 1272,859 207,860"/>
                 <Baseline points="213,883 265,884 318,884 370,884 423,884 476,884 528,885 581,885 634,885 686,885 739,885 792,885 844,885 897,885 950,885 1002,885 1055,885 1108,885 1160,885 1213,884 1266,884"/>
                 <TextEquiv>
                     <Unicode>noch einen anderen Ton des Accordes als Basston zu, ohne</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+            <TextLine id="r1l13" custom="readingOrder {index:11;} m_interval {offset:39; length:18;}">
                 <Coords points="206,945 1260,948 1276,899 206,912"/>
                 <Baseline points="213,935 265,936 318,936 371,937 424,937 477,937 529,938 582,938 635,938 688,938 741,938 793,938 846,938 899,938 952,938 1005,938 1057,938 1110,938 1163,938 1216,937 1269,937"/>
                 <TextEquiv>
                     <Unicode>unverständlich zu werden, so lange das Trennungsintervall</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+            <TextLine id="r1l14" custom="readingOrder {index:12;} concept_mus {offset:4; length:8;}">
                 <Coords points="216,1004 613,1003 613,971 591,955 568,964 216,956"/>
                 <Baseline points="223,989 248,990 274,990 299,990 325,990 351,990 376,990 402,990 427,990 453,990 479,990 504,990 530,990 555,990 581,991 607,991"/>
                 <TextEquiv>
@@ -133,8 +133,8 @@ zurückführen, dass die Septime höchste Stimme des&#13;
 Accordes sein musste; die anderen Intervalle durften in&#13;
 allen Versetzungen dabei angewendet werden. Die Accorde&#13;
 mit vermindertem Terzintervalle erfordern die Sextlage&#13;
-dieses Intervalles und werden ihre Eigenthümlichkeit her¬&#13;
-vortreten lassen, am deutlichsten, wenn der tiefere Ton des&#13;
+dieses Intervalles und werden ihre Eigenthümlichkeit am&#13;
+deutlichsten hervortreten lassen, wenn der tiefere Ton des&#13;
 Sextintervalles die tiefste Stimme ist; sie lassen aber&#13;
 noch einen anderen Ton des Accordes als Basston zu, ohne&#13;
 unverständlich zu werden, so lange das Trennungsintervall&#13;
@@ -157,7 +157,7 @@ die Sextlage beibehält.</Unicode>
                     <Unicode>dass wir jetzt immer nur von den direct verständlichen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:2;}">
+            <TextLine id="r1l18" custom="readingOrder {index:2;} concept_mus {offset:0; length:22;}">
                 <Coords points="209,1156 1268,1156 1268,1124 1215,1116 690,1139 209,1116"/>
                 <Baseline points="216,1148 268,1148 320,1149 372,1149 425,1149 477,1150 529,1150 581,1150 634,1150 686,1150 738,1150 790,1150 843,1150 895,1150 947,1150 999,1149 1052,1149 1104,1149 1156,1149 1208,1148 1261,1148"/>
                 <TextEquiv>
@@ -171,21 +171,21 @@ die Sextlage beibehält.</Unicode>
                     <Unicode>Vorkommen sich ergeben, zu sprechen haben. Wie aber</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:4;} textStyle {offset:24; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l20" custom="readingOrder {index:4;} m_interval {offset:4; length:18;} textStyle {offset:24; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:24; length:3;} m_chord {offset:32; length:15;}">
                 <Coords points="215,1267 1270,1266 1270,1228 1232,1220 215,1220"/>
                 <Baseline points="222,1256 274,1256 326,1255 378,1255 430,1255 482,1255 534,1255 586,1255 638,1255 690,1255 742,1255 794,1255 846,1256 898,1256 950,1255 1002,1255 1054,1255 1106,1255 1158,1254 1210,1254 1263,1253"/>
                 <TextEquiv>
                     <Unicode>das Dissonanzintervall, h—a, im Septimenaccorde der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:5;} textStyle {offset:32; length:7;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l21" custom="readingOrder {index:5;} m_interval {offset:0; length:16;} m_tonality {offset:21; length:9;} textStyle {offset:32; length:7;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:32; length:7;} m_interval {offset:45; length:7;}">
                 <Coords points="216,1314 1266,1315 1248,1276 216,1276"/>
                 <Baseline points="223,1307 274,1307 326,1307 378,1307 430,1308 482,1308 533,1308 585,1308 637,1308 689,1308 741,1308 792,1308 844,1308 896,1308 948,1308 1000,1308 1051,1308 1103,1308 1155,1308 1207,1307 1259,1307"/>
                 <TextEquiv>
                     <Unicode>Oberdominantterz der Durtonart, h-D|F-a, die Septime als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:6;}">
+            <TextLine id="r1l22" custom="readingOrder {index:6;} concept_mus {offset:0; length:10;}">
                 <Coords points="217,1371 1264,1360 1236,1324 633,1350 579,1323 217,1326"/>
                 <Baseline points="224,1361 275,1361 327,1360 379,1360 430,1360 482,1360 534,1360 585,1360 637,1361 689,1361 741,1361 792,1361 844,1361 896,1361 947,1361 999,1361 1051,1361 1102,1360 1154,1360 1206,1359 1258,1358"/>
                 <TextEquiv>
@@ -199,21 +199,21 @@ die Sextlage beibehält.</Unicode>
                     <Unicode>deutige sein soll, unter besonderen Bedingungen aber doch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:8;}">
+            <TextLine id="r1l24" custom="readingOrder {index:8;} concept_mus {offset:12; length:5;} m_chord {offset:25; length:8;} concept_mus {offset:37; length:11;}">
                 <Coords points="206,1475 1102,1492 1240,1475 1261,1444 206,1446"/>
                 <Baseline points="212,1466 264,1466 316,1466 368,1466 420,1466 472,1467 524,1467 576,1467 628,1467 680,1467 733,1468 785,1468 837,1468 889,1468 941,1468 993,1468 1045,1467 1097,1467 1149,1467 1201,1466 1254,1465"/>
                 <TextEquiv>
                     <Unicode>auch andere Lagen dieses Accordes in guter Musik ganz vor¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:9;}">
+            <TextLine id="r1l25" custom="readingOrder {index:9;} m_interval {offset:33; length:9;} m_interval {offset:47; length:7; continued:true;}">
                 <Coords points="213,1531 1273,1523 1224,1484 213,1492"/>
                 <Baseline points="219,1519 271,1519 323,1519 376,1519 428,1520 480,1520 533,1520 585,1520 637,1520 690,1520 742,1520 794,1520 847,1520 899,1520 951,1520 1004,1520 1056,1520 1108,1520 1161,1519 1213,1519 1266,1518"/>
                 <TextEquiv>
                     <Unicode>züglich wirken; so wird auch das Intervall der vermin¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:10;}">
+            <TextLine id="r1l26" custom="readingOrder {index:10;} m_interval {offset:0; length:11; continued:true;} m_interval {offset:17; length:6;} m_chord {offset:50; length:7;}">
                 <Coords points="206,1584 1244,1587 1264,1548 206,1549"/>
                 <Baseline points="213,1572 265,1572 317,1572 369,1572 421,1573 474,1573 526,1573 578,1573 630,1573 682,1574 735,1574 787,1574 839,1574 891,1574 943,1574 996,1573 1048,1573 1100,1573 1152,1573 1204,1572 1257,1572"/>
                 <TextEquiv>
@@ -227,7 +227,7 @@ die Sextlage beibehält.</Unicode>
                     <Unicode>unverwendet in Anwendung kommen können, wie wir es</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:12;}">
+            <TextLine id="r1l28" custom="readingOrder {index:12;} concept_mus {offset:24; length:14;}">
                 <Coords points="206,1689 1259,1685 1259,1657 1192,1643 206,1652"/>
                 <Baseline points="212,1678 264,1678 316,1678 368,1679 420,1679 472,1679 524,1679 576,1679 628,1680 680,1680 732,1680 784,1680 836,1680 888,1680 940,1680 992,1680 1044,1680 1096,1680 1148,1680 1200,1680 1252,1679"/>
                 <TextEquiv>
@@ -260,14 +260,14 @@ pantem Effecte angewendet finden. —</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="heading" id="TextRegion_1612632312307_1337" custom="readingOrder {index:3;} structure {type:heading;}">
             <Coords points="204,1786 1274,1786 1274,1945 204,1945"/>
-            <TextLine id="r1l30" custom="readingOrder {index:0;}">
+            <TextLine id="r1l30" custom="readingOrder {index:0;} m_chord {offset:4; length:21;}">
                 <Coords points="197,1866 1272,1866 1272,1831 1230,1820 197,1819"/>
                 <Baseline points="204,1856 257,1856 310,1856 363,1856 416,1856 469,1856 522,1857 575,1857 628,1857 681,1857 735,1857 788,1857 841,1857 894,1857 947,1857 1000,1857 1053,1857 1106,1857 1159,1858 1212,1858 1266,1858"/>
                 <TextEquiv>
                     <Unicode>Der übermässige Dreiklang und sein Vorkommen im</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:1;}">
+            <TextLine id="r1l31" custom="readingOrder {index:1;} m_chord {offset:0; length:15;}">
                 <Coords points="557,1922 586,1922 609,1939 631,1939 647,1923 917,1923 917,1900 877,1876 856,1876 840,1892 751,1884 696,1893 663,1877 630,1891 591,1876 557,1878"/>
                 <Baseline points="564,1915 590,1915 617,1915 643,1915 670,1915 697,1915 723,1915 750,1915 776,1915 803,1915 830,1915 856,1916 883,1916 910,1916"/>
                 <TextEquiv>
@@ -281,21 +281,21 @@ Septimenaccorde.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1612632309537_1333" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
             <Coords points="204,1945 1274,1945 1274,2142 204,2142"/>
-            <TextLine id="r1l32" custom="readingOrder {index:0;}">
+            <TextLine id="r1l32" custom="readingOrder {index:0;} concept_mus {offset:14; length:35; continued:true;}">
                 <Coords points="287,2009 847,2026 1268,2002 1227,1963 287,1972"/>
                 <Baseline points="293,2003 341,2003 389,2003 438,2003 486,2003 535,2003 583,2003 632,2003 680,2003 729,2003 777,2003 825,2003 874,2003 922,2003 971,2003 1019,2003 1068,2003 1116,2003 1165,2003 1213,2002 1262,2002"/>
                 <TextEquiv>
                     <Unicode>234. In einem harmonisch-gegensätzlichen Verhält¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:1;}">
+            <TextLine id="r1l33" custom="readingOrder {index:1;} concept_mus {offset:0; length:5; continued:true;} m_chord {offset:13; length:15;} m_interval {offset:33; length:17;}">
                 <Coords points="199,2068 1116,2076 1271,2066 1271,2028 199,2029"/>
                 <Baseline points="205,2057 260,2057 316,2056 372,2056 427,2056 483,2056 539,2056 595,2056 650,2056 706,2056 762,2056 818,2057 873,2057 929,2057 985,2057 1041,2057 1096,2057 1152,2056 1208,2056 1264,2055"/>
                 <TextEquiv>
                     <Unicode>nisse zu dem Septimenaccorde der Oberdominantquint des</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:2;}">
+            <TextLine id="r1l34" custom="readingOrder {index:2;} m_tonality {offset:0; length:33;} m_tonality {offset:42; length:12;}">
                 <Coords points="201,2117 996,2132 1028,2104 1272,2116 1272,2076 201,2084"/>
                 <Baseline points="208,2109 260,2109 313,2110 366,2110 419,2110 472,2110 525,2110 578,2110 631,2110 684,2110 737,2110 789,2110 842,2110 895,2110 948,2110 1001,2110 1054,2110 1107,2110 1160,2110 1213,2110 1266,2109"/>
                 <TextEquiv>

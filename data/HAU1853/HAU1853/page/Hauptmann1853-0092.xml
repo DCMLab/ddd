@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:34.207+01:00</Created>
-        <LastChange>2021-03-12T17:48:36.234+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846557" pageNr="83" tsid="53634573" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=GYPYXWBEZCXQOJBQJOEVYSLJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RJZXKOGHBTBLYQVWEPBHRCSK" imageId="18303023"/>
+        <LastChange>2021-08-31T21:23:59.998+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718952" pageNr="83" tsid="63847602" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=UVQUMDVAXQIFYBLGHRKJBSLQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YLVZNQIHMOJVGGHKQZKTMXBR" imageId="22439457"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0092.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196694715" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595899362" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612454717389_1180"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612454717389_1179"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612454714514_1175"/>
@@ -33,21 +33,21 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612454717389_1179" custom="readingOrder {index:1;}">
             <Coords points="146,315 1203,315 1203,505 146,505"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_chord {offset:29; length:10;}">
                 <Coords points="144,395 459,374 564,403 1201,403 1191,347 144,353"/>
                 <Baseline points="151,382 203,382 255,381 307,381 359,381 411,381 463,380 516,380 568,380 620,380 672,380 724,380 776,380 828,381 881,381 933,381 985,381 1037,381 1089,381 1141,381 1194,381"/>
                 <TextEquiv>
                     <Unicode>die in einander übergehenden Dreiklänge gegeben sind,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_chord {offset:45; length:7;}">
                 <Coords points="145,443 1210,443 1210,406 145,412"/>
                 <Baseline points="151,433 203,433 256,433 308,433 361,433 414,433 466,433 519,434 571,434 624,434 677,434 729,434 782,434 834,434 887,434 940,434 992,434 1045,434 1097,434 1150,435 1203,435"/>
                 <TextEquiv>
                     <Unicode>eine vierte die im Uebergange nicht basirten Accorde mit</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:6; length:5;}">
                 <Coords points="145,499 640,500 640,461 249,451 224,466 180,452 145,466"/>
                 <Baseline points="151,488 176,488 201,488 227,488 252,487 277,487 303,487 328,487 353,487 379,487 404,487 430,487 455,487 480,487 506,487 531,487 556,487 582,487 607,487 633,488"/>
                 <TextEquiv>
@@ -69,7 +69,7 @@ einer Basis zu versehen hat.</Unicode>
                     <Unicode>104. — Mit solcher formalen Selbstbestimmung, die eine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:1;}">
+            <TextLine id="r1l6" custom="readingOrder {index:1;} concept_mus {offset:0; length:5;} m_chord {offset:10; length:8;}">
                 <Coords points="147,602 1201,599 1158,556 792,556 747,584 719,556 147,564"/>
                 <Baseline points="153,593 205,593 257,593 309,593 361,593 413,593 465,593 517,593 569,593 621,594 673,594 725,594 777,594 829,594 881,594 933,594 985,593 1037,593 1089,592 1141,592 1194,591"/>
                 <TextEquiv>
@@ -90,7 +90,7 @@ einer Basis zu versehen hat.</Unicode>
                     <Unicode>anschiessen lässt, ohne alle Freiheit und Wahl, würde</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+            <TextLine id="r1l9" custom="readingOrder {index:4;} concept_mus {offset:19; length:24;}">
                 <Coords points="149,762 1202,755 1151,716 149,724"/>
                 <Baseline points="156,752 208,751 260,751 312,751 364,751 416,751 468,751 520,751 572,751 624,752 676,752 728,752 780,752 832,752 884,752 936,752 988,752 1040,752 1092,751 1144,750 1196,749"/>
                 <TextEquiv>
@@ -139,7 +139,7 @@ einer Basis zu versehen hat.</Unicode>
                     <Unicode>len genau dieselben werden mussten. Es ist aber hier nur</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:11;}">
+            <TextLine id="r1l16" custom="readingOrder {index:11;} concept_mus {offset:32; length:17;}">
                 <Coords points="144,1131 1063,1139 1208,1130 1208,1093 144,1094"/>
                 <Baseline points="150,1121 202,1121 255,1121 307,1121 360,1122 413,1122 465,1122 518,1122 570,1122 623,1122 676,1122 728,1122 781,1122 833,1122 886,1122 939,1122 991,1122 1044,1122 1096,1122 1149,1121 1202,1121"/>
                 <TextEquiv>
@@ -243,63 +243,63 @@ zu verstehen sein. —</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1612454689483_1166" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
             <Coords points="146,1669 1203,1669 1203,2161 146,2161"/>
-            <TextLine id="r1l27" custom="readingOrder {index:0;}">
+            <TextLine id="r1l27" custom="readingOrder {index:0;} concept_mus {offset:9; length:9;} concept_mus {offset:22; length:10;} concept_mus {offset:43; length:7; continued:true;}">
                 <Coords points="229,1712 1197,1707 1197,1677 1119,1668 229,1671"/>
                 <Baseline points="235,1703 282,1703 330,1703 378,1703 426,1703 474,1703 521,1703 569,1703 617,1704 665,1704 713,1704 760,1704 808,1704 856,1703 904,1703 952,1703 999,1703 1047,1703 1095,1702 1143,1702 1191,1701"/>
                 <TextEquiv>
                     <Unicode>105. Der Uebergang in verbundene und nicht verbun¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:1;}">
+            <TextLine id="r1l28" custom="readingOrder {index:1;} concept_mus {offset:0; length:4; continued:true;} m_chord {offset:5; length:10;} m_chord {offset:38; length:10;} concept_mus {offset:53; length:6;}">
                 <Coords points="142,1768 992,1779 1201,1762 1201,1731 141,1735"/>
                 <Baseline points="148,1756 200,1756 252,1756 305,1756 357,1756 409,1757 462,1757 514,1757 566,1757 619,1757 671,1756 723,1756 776,1756 828,1756 880,1756 933,1756 985,1756 1037,1756 1090,1756 1142,1755 1195,1755"/>
                 <TextEquiv>
                     <Unicode>dene Dreiklänge ist zwar hier nur vom Dreiklange der Tonica</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:2;}">
+            <TextLine id="r1l29" custom="readingOrder {index:2;} concept_mus {offset:52; length:5;}">
                 <Coords points="144,1822 1183,1827 1199,1778 144,1787"/>
                 <Baseline points="150,1809 202,1809 254,1809 306,1809 358,1809 410,1809 462,1809 515,1809 567,1809 619,1809 671,1809 723,1809 775,1809 827,1809 880,1809 932,1809 984,1809 1036,1808 1088,1808 1140,1807 1193,1807"/>
                 <TextEquiv>
                     <Unicode>ausgehend betrachtet. Es wird aber in fortgesetzter Folge</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:3;}">
+            <TextLine id="r1l30" custom="readingOrder {index:3;} m_chord {offset:6; length:14;}">
                 <Coords points="143,1881 1201,1867 1201,1834 142,1827"/>
                 <Baseline points="149,1860 201,1861 253,1861 305,1862 358,1862 410,1862 462,1863 514,1863 567,1863 619,1863 671,1863 723,1863 776,1862 828,1862 880,1862 932,1861 985,1861 1037,1860 1089,1860 1141,1859 1194,1858"/>
                 <TextEquiv>
                     <Unicode>jeder Nebendreiklang auch in primärer Form zum Vorschein</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:4;} textStyle {offset:38; length:16;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l31" custom="readingOrder {index:4;} concept_mus {offset:32; length:5;} textStyle {offset:38; length:16;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:38; length:5;} m_chord {offset:46; length:5;}">
                 <Coords points="141,1922 1194,1922 1091,1876 596,1904 141,1884"/>
                 <Baseline points="147,1915 199,1915 251,1915 303,1916 355,1916 407,1916 459,1916 511,1916 563,1916 615,1916 667,1916 719,1915 771,1915 823,1915 875,1915 927,1915 979,1914 1031,1914 1083,1913 1135,1913 1187,1912"/>
                 <TextEquiv>
                     <Unicode>kommen können, wie z. B. in der Reihe C-e-G...C-e-a...</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:5;} textStyle {offset:0; length:55;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l32" custom="readingOrder {index:5;} textStyle {offset:0; length:56;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:0; length:5;} m_chord {offset:8; length:5;} m_chord {offset:16; length:5;} m_chord {offset:24; length:5;} m_chord {offset:32; length:5;} m_chord {offset:40; length:5;} m_chord {offset:48; length:5;}">
                 <Coords points="146,1986 1192,1980 1150,1931 567,1956 146,1933"/>
                 <Baseline points="153,1965 204,1966 256,1967 307,1967 359,1968 411,1969 462,1969 514,1969 566,1969 617,1969 669,1969 721,1969 772,1969 824,1969 876,1969 927,1968 979,1968 1031,1968 1082,1967 1134,1967 1186,1966"/>
                 <TextEquiv>
-                    <Unicode>C-F-a...D|Fa...D-F-h...D-G-h...e-G-h...e-G-C...e-a-C...</Unicode>
+                    <Unicode>C-F-a...D|F-a...D-F-h...D-G-h...e-G-h...e-G-C...e-a-C...</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:6;} textStyle {offset:0; length:5;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:34; length:5;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:41; length:5;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:48; length:5;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l33" custom="readingOrder {index:6;} textStyle {offset:0; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:0; length:5;} m_chord {offset:23; length:10;} textStyle {offset:34; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:34; length:5;} textStyle {offset:41; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:41; length:5;} textStyle {offset:48; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:48; length:5;}">
                 <Coords points="149,2035 1206,2027 1181,1987 149,1988"/>
                 <Baseline points="156,2017 208,2019 260,2020 312,2020 364,2021 417,2021 469,2022 521,2022 573,2022 625,2022 678,2022 730,2021 782,2021 834,2021 886,2020 939,2020 991,2019 1043,2019 1095,2019 1147,2019 1200,2018"/>
                 <TextEquiv>
                     <Unicode>F-a-C u. s. f., wo die Dreiklänge D|F-a, e-G-h, F-a-C, eben wie</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:7;} textStyle {offset:13; length:5;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l34" custom="readingOrder {index:7;} concept_mus {offset:4; length:8;} textStyle {offset:13; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:13; length:5;} concept_mus {offset:32; length:5;} concept_mus {offset:57; length:4;}">
                 <Coords points="141,2082 1206,2083 1206,2042 1122,2035 141,2036"/>
                 <Baseline points="148,2073 200,2073 253,2073 305,2074 358,2074 410,2074 463,2074 515,2074 568,2075 620,2075 673,2075 726,2075 778,2075 831,2075 883,2075 936,2075 988,2074 1041,2073 1093,2073 1146,2072 1199,2070"/>
                 <TextEquiv>
                     <Unicode>der tonische C-e-G, von dem die Reihe ausgeht, in erster Lage</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:8;}">
+            <TextLine id="r1l35" custom="readingOrder {index:8;} m_chord {offset:35; length:11;}">
                 <Coords points="144,2141 1196,2130 1172,2092 144,2099"/>
                 <Baseline points="151,2127 205,2127 260,2128 315,2128 369,2128 424,2129 479,2129 533,2129 588,2129 643,2129 697,2129 752,2129 807,2128 861,2128 916,2127 971,2127 1025,2126 1080,2125 1135,2124 1190,2123"/>
                 <TextEquiv>
@@ -312,7 +312,7 @@ dene Dreiklänge ist zwar hier nur vom Dreiklange der Tonica&#13;
 ausgehend betrachtet. Es wird aber in fortgesetzter Folge&#13;
 jeder Nebendreiklang auch in primärer Form zum Vorschein&#13;
 kommen können, wie z. B. in der Reihe C-e-G...C-e-a...&#13;
-C-F-a...D|Fa...D-F-h...D-G-h...e-G-h...e-G-C...e-a-C...&#13;
+C-F-a...D|F-a...D-F-h...D-G-h...e-G-h...e-G-C...e-a-C...&#13;
 F-a-C u. s. f., wo die Dreiklänge D|F-a, e-G-h, F-a-C, eben wie&#13;
 der tonische C-e-G, von dem die Reihe ausgeht, in erster Lage&#13;
 erscheinen; mithin kann auch jeder Nebenaccord als pri¬</Unicode>

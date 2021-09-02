@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
 Transkribus</Creator>
         <Created>2021-02-02T15:22:31.485+01:00</Created>
-        <LastChange>2021-03-10T22:52:59.841+01:00</LastChange>
-        <TranskribusMetadata docId="598856" pageId="23846432" pageNr="13" tsid="53540910" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=CQGGPLLUTMPBOHBPLFKXDYTK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OPCMPROEYLXVFTEQPHHDWEKA" imageId="18302898"/>
+        <LastChange>2021-08-30T22:42:45.245+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718882" pageNr="13" tsid="63798262" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HIVXDQLEJVWKEWGHBSFSIFCR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PJNMJPQOPKQAYARQJLZEWCOJ" imageId="22439387"/>
     </Metadata>
     <Page imageFilename="Hauptmann1853-0022.jpg" imageWidth="1444" imageHeight="2597" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196684892" caption="Regions reading order">
+            <OrderedGroup id="ro_1630595889868" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1612355288486_1617"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1612355335403_1640"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1612355335403_1639"/>
@@ -35,7 +35,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612355335403_1640" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="187,267 1249,267 1249,772 187,772"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_chord {offset:0; length:7;} m_chord {offset:13; length:13;} concept_phy {offset:52; length:5;}">
                 <Coords points="185,339 1245,338 1245,308 1102,300 185,300"/>
                 <Baseline points="192,331 244,331 296,331 348,331 401,331 453,330 505,330 558,330 610,330 662,330 715,330 767,330 819,330 871,330 924,330 976,331 1028,331 1081,331 1133,332 1185,332 1238,333"/>
                 <TextEquiv>
@@ -49,14 +49,14 @@ Transkribus</Creator>
                     <Unicode>aufzufinden, in der Verbindung der Glieder: 10, 12 und 15,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:7; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:13; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:4; length:1;} textStyle {offset:7; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:7; length:1;} textStyle {offset:13; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:13; length:1;} m_note {offset:57; length:6; continued:true;}">
                 <Coords points="186,444 1229,443 1229,404 186,404"/>
                 <Baseline points="192,437 243,437 295,437 346,437 398,437 449,437 501,437 552,437 604,437 655,437 707,437 758,436 810,436 861,436 913,436 964,436 1016,436 1067,436 1119,436 1170,437 1222,437"/>
                 <TextEquiv>
                     <Unicode>als e, g und h; da er hier aber nicht von der zuerst als Grund¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} m_note {offset:0; length:3; continued:true;}">
                 <Coords points="187,498 1228,499 1228,460 1176,453 965,478 913,453 187,460"/>
                 <Baseline points="193,489 244,489 295,489 347,489 398,489 450,489 501,489 552,489 604,489 655,489 707,490 758,490 809,490 861,490 912,489 964,489 1015,489 1066,489 1118,489 1169,489 1221,489"/>
                 <TextEquiv>
@@ -67,7 +67,7 @@ Transkribus</Creator>
                 <Coords points="184,554 1240,563 1240,517 1207,508 184,516"/>
                 <Baseline points="191,542 243,542 295,542 347,542 399,542 451,542 503,541 556,541 608,542 660,542 712,542 764,542 816,542 868,542 921,542 973,542 1025,542 1077,542 1129,542 1181,542 1234,542"/>
                 <TextEquiv>
-                    <Unicode>schenglieder 14, 13 und 14 zu übergehen nöthigen würde,</Unicode>
+                    <Unicode>schenglieder 11, 13 und 14 zu übergehen nöthigen würde,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:5;}">
@@ -77,21 +77,21 @@ Transkribus</Creator>
                     <Unicode>so glaubt man nach dieser Lehre sich weniger berechtigt, ihn</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} m_chord {offset:34; length:13;}">
                 <Coords points="181,656 1231,650 1231,622 1168,612 181,622"/>
                 <Baseline points="187,647 238,647 290,647 342,647 394,647 446,647 498,647 550,647 602,647 654,647 706,647 757,648 809,648 861,648 913,647 965,647 1017,647 1069,647 1121,646 1173,645 1225,645"/>
                 <TextEquiv>
                     <Unicode>als natürliche Production und dem Durdreiklange ebenbür¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;} m_chord {offset:27; length:13;}">
                 <Coords points="186,709 1243,705 1243,676 1133,667 186,668"/>
                 <Baseline points="193,700 245,700 297,700 349,700 401,700 453,700 505,700 558,700 610,700 662,700 714,700 766,700 818,700 870,700 923,700 975,700 1027,700 1079,700 1131,699 1183,699 1236,699"/>
                 <TextEquiv>
                     <Unicode>tig zu achten, und hat den Molldreiklang, dem „natürlichen”</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+            <TextLine id="r1l10" custom="readingOrder {index:8;} m_chord {offset:0; length:13;}">
                 <Coords points="187,763 1190,763 1164,723 187,716"/>
                 <Baseline points="193,753 242,752 292,752 341,752 391,752 440,752 490,752 539,752 589,752 638,753 688,753 738,753 787,753 837,753 886,753 936,753 985,753 1035,753 1084,753 1134,753 1184,753"/>
                 <TextEquiv>
@@ -103,7 +103,7 @@ Transkribus</Creator>
 aufzufinden, in der Verbindung der Glieder: 10, 12 und 15,&#13;
 als e, g und h; da er hier aber nicht von der zuerst als Grund¬&#13;
 ton angenommenen Einheit direct ausgeht, auch die Zwi¬&#13;
-schenglieder 14, 13 und 14 zu übergehen nöthigen würde,&#13;
+schenglieder 11, 13 und 14 zu übergehen nöthigen würde,&#13;
 so glaubt man nach dieser Lehre sich weniger berechtigt, ihn&#13;
 als natürliche Production und dem Durdreiklange ebenbür¬&#13;
 tig zu achten, und hat den Molldreiklang, dem „natürlichen”&#13;
@@ -112,7 +112,7 @@ Durdreiklange gegenüber, einen „künstlichen” genannt. —</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612355335403_1639" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="187,772 1249,772 1249,1085 187,1085"/>
-            <TextLine id="r1l11" custom="readingOrder {index:0;}">
+            <TextLine id="r1l11" custom="readingOrder {index:0;} concept_phy {offset:20; length:17;}">
                 <Coords points="270,812 1243,818 1243,779 1180,771 270,772"/>
                 <Baseline points="277,803 325,804 373,804 421,805 469,805 517,805 565,805 613,805 661,805 709,805 757,805 805,805 853,805 901,805 949,805 997,805 1045,805 1093,805 1141,805 1189,806 1237,806"/>
                 <TextEquiv>
@@ -126,28 +126,28 @@ Durdreiklange gegenüber, einen „künstlichen” genannt. —</Unicode>
                     <Unicode>dürfen, so offenbart auch die vorhergehend bezeichnete, die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:2;}">
+            <TextLine id="r1l13" custom="readingOrder {index:2;} concept_phy {offset:7; length:12;} concept_phy {offset:34; length:11;}">
                 <Coords points="185,923 1245,923 1245,882 1190,876 185,876"/>
                 <Baseline points="192,912 244,912 296,912 348,912 401,912 453,912 505,911 558,912 610,912 662,912 715,912 767,911 819,911 871,911 924,911 976,911 1028,911 1081,911 1133,911 1185,911 1238,911"/>
                 <TextEquiv>
                     <Unicode>in der arithmetisch fortgesetzten Zahlenreihe den Aufschluss</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:3;}">
+            <TextLine id="r1l14" custom="readingOrder {index:3;} concept_mus {offset:4; length:8;}">
                 <Coords points="182,977 1242,969 1242,941 1179,931 182,939"/>
                 <Baseline points="189,964 241,964 293,964 346,964 398,964 450,964 503,964 555,964 607,964 660,964 712,964 764,964 817,964 869,964 921,964 974,964 1026,964 1078,963 1131,963 1183,963 1236,963"/>
                 <TextEquiv>
                     <Unicode>der Harmonie zu finden meint, in dieser ersten Annahme</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:4;}">
+            <TextLine id="r1l15" custom="readingOrder {index:4;} concept_mus {offset:55; length:5; continued:true;}">
                 <Coords points="189,1027 1229,1027 1229,980 189,995"/>
                 <Baseline points="196,1017 247,1017 298,1017 350,1017 401,1017 452,1017 504,1017 555,1017 606,1016 658,1016 709,1016 760,1016 812,1016 863,1016 914,1016 966,1016 1017,1016 1068,1016 1120,1015 1171,1015 1223,1015"/>
                 <TextEquiv>
                     <Unicode>schon entschieden Unwahres, mit der Beschaffenheit des musi¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:5;}">
+            <TextLine id="r1l16" custom="readingOrder {index:5;} concept_mus {offset:0; length:19; continued:true;}">
                 <Coords points="191,1083 1023,1074 976,1036 191,1036"/>
                 <Baseline points="197,1069 238,1069 279,1069 320,1069 361,1070 402,1069 443,1069 484,1069 525,1069 566,1069 607,1069 648,1069 689,1069 730,1068 771,1068 812,1068 853,1068 894,1068 935,1067 976,1067 1017,1067"/>
                 <TextEquiv>
@@ -172,21 +172,21 @@ kalisch-Natürlichen nicht Uebereinstimmendes.</Unicode>
                     <Unicode>Besser dürfte sich die Ansicht bewähren, dass alle un¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:1;}">
+            <TextLine id="r1l18" custom="readingOrder {index:1;} concept_mus {offset:5; length:25;} concept_phy {offset:39; length:6;}">
                 <Coords points="188,1187 1119,1195 1247,1186 1247,1140 188,1148"/>
                 <Baseline points="194,1175 246,1175 298,1175 351,1175 403,1174 455,1174 508,1174 560,1174 612,1174 665,1174 717,1174 769,1174 822,1174 874,1174 926,1174 979,1174 1031,1173 1083,1173 1136,1173 1188,1173 1241,1173"/>
                 <TextEquiv>
                     <Unicode>sere harmonischen Bestimmungen aus den Zahlen 1, 3 und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:2;}">
+            <TextLine id="r1l19" custom="readingOrder {index:2;} concept_phy {offset:9; length:14;} concept_phy {offset:25; length:8;} concept_phy {offset:54; length:4; continued:true;}">
                 <Coords points="189,1236 1247,1225 1085,1188 189,1195"/>
                 <Baseline points="195,1225 247,1226 299,1226 351,1226 404,1227 456,1227 508,1227 560,1227 613,1227 665,1227 717,1227 769,1227 822,1227 874,1227 926,1226 978,1226 1031,1226 1083,1225 1135,1225 1187,1224 1240,1224"/>
                 <TextEquiv>
                     <Unicode>5, ihren Verdoppelungen, Potenzen und wechselseitigen Pro¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:3;}">
+            <TextLine id="r1l20" custom="readingOrder {index:3;} concept_phy {offset:0; length:6; continued:true;}">
                 <Coords points="195,1291 1231,1290 1215,1244 195,1244"/>
                 <Baseline points="201,1279 252,1279 303,1279 354,1279 405,1279 457,1279 508,1278 559,1278 610,1278 661,1278 713,1278 764,1278 815,1278 866,1278 917,1278 969,1278 1020,1278 1071,1277 1122,1277 1173,1277 1225,1276"/>
                 <TextEquiv>
@@ -200,7 +200,7 @@ kalisch-Natürlichen nicht Uebereinstimmendes.</Unicode>
                     <Unicode>lichkeit widersprechendes; sie hat aber auf keine Weise</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:5;}">
+            <TextLine id="r1l22" custom="readingOrder {index:5;} concept_mus {offset:37; length:8;}">
                 <Coords points="185,1395 1192,1395 1192,1363 1131,1348 185,1363"/>
                 <Baseline points="191,1386 240,1386 290,1385 340,1385 389,1384 439,1384 489,1384 538,1384 588,1384 638,1384 688,1384 737,1384 787,1384 837,1384 886,1384 936,1384 986,1383 1035,1383 1085,1383 1135,1383 1185,1383"/>
                 <TextEquiv>
@@ -218,7 +218,7 @@ noch zu einer weiteren Erklärung der Harmonie geführt.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1612355323157_1631" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
             <Coords points="187,1401 1249,1401 1249,1449 187,1449"/>
-            <TextLine id="line_1612355317465_1628" custom="readingOrder {index:0;}">
+            <TextLine id="line_1612355317465_1628" custom="readingOrder {index:0;} concept_phy {offset:40; length:11;}">
                 <Coords points="268,1450 1215,1443 1215,1411 1169,1403 268,1404"/>
                 <Baseline points="275,1437 321,1437 368,1436 415,1436 461,1436 508,1436 555,1436 601,1436 648,1436 695,1436 742,1436 788,1436 835,1436 882,1436 928,1436 975,1436 1022,1436 1068,1436 1115,1436 1162,1435 1209,1435"/>
                 <TextEquiv>
@@ -238,21 +238,21 @@ noch zu einer weiteren Erklärung der Harmonie geführt.</Unicode>
         </TableRegion>
         <TextRegion orientation="0.0" id="TextRegion_1612355445447_1683" custom="readingOrder {index:6;} structure {type:paragraph-continued;}">
             <Coords points="187,1559 1249,1559 1249,2085 187,2085"/>
-            <TextLine id="r1l28" custom="readingOrder {index:0;}">
+            <TextLine id="r1l28" custom="readingOrder {index:0;} concept_mus {offset:18; length:14;} m_note {offset:33; length:4;} concept_mus {offset:42; length:14;}">
                 <Coords points="188,1603 1246,1603 1246,1570 188,1571"/>
                 <Baseline points="194,1594 246,1594 298,1594 350,1595 403,1595 455,1595 507,1595 559,1595 612,1595 664,1595 716,1595 768,1595 821,1595 873,1594 925,1594 977,1594 1030,1594 1082,1594 1134,1593 1186,1593 1239,1593"/>
                 <TextEquiv>
                     <Unicode>scheidet zwar die unharmonischen Töne der arithmetischen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:1;}">
+            <TextLine id="r1l29" custom="readingOrder {index:1;} concept_mus {offset:41; length:17;}">
                 <Coords points="195,1658 1241,1658 1224,1612 195,1620"/>
                 <Baseline points="202,1646 253,1647 305,1647 356,1647 408,1647 460,1647 511,1648 563,1648 614,1648 666,1647 718,1647 769,1647 821,1647 872,1647 924,1646 976,1646 1027,1646 1079,1646 1130,1645 1182,1645 1234,1645"/>
                 <TextEquiv>
                     <Unicode>aus; sie producirt aber nur die nach der Oberdominantseite</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:2;}">
+            <TextLine id="r1l30" custom="readingOrder {index:2;} concept_mus {offset:10; length:12;} m_interval {offset:47; length:10;}">
                 <Coords points="189,1722 1184,1714 1246,1707 1246,1667 189,1675"/>
                 <Baseline points="196,1698 248,1699 300,1699 352,1700 404,1700 456,1700 508,1700 561,1700 613,1700 665,1700 717,1699 769,1699 821,1699 873,1699 926,1698 978,1698 1030,1698 1082,1697 1134,1697 1186,1697 1239,1697"/>
                 <TextEquiv>
@@ -266,14 +266,14 @@ noch zu einer weiteren Erklärung der Harmonie geführt.</Unicode>
                     <Unicode>zum Vorschein kommen. Ferner gewährt sie noch nicht ein¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:4;}">
+            <TextLine id="r1l32" custom="readingOrder {index:4;} m_chord {offset:45; length:9;}">
                 <Coords points="195,1819 1227,1820 1239,1780 194,1780"/>
                 <Baseline points="201,1805 252,1805 304,1806 355,1806 407,1806 458,1806 510,1806 561,1806 613,1806 664,1805 716,1805 768,1804 819,1804 871,1804 922,1803 974,1803 1025,1803 1077,1803 1128,1803 1180,1803 1232,1804"/>
                 <TextEquiv>
                     <Unicode>mal eine fest abgrenzende Bestimmung für den Dreiklang;</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:5;}">
+            <TextLine id="r1l33" custom="readingOrder {index:5;} concept_mus {offset:22; length:10;} concept_phy {offset:22; length:10;} concept_mus {offset:37; length:10;} concept_phy {offset:37; length:10;} m_interval {offset:48; length:10;}">
                 <Coords points="195,1867 1244,1867 1244,1823 195,1831"/>
                 <Baseline points="201,1856 252,1857 304,1858 356,1858 408,1858 460,1859 512,1858 563,1858 615,1858 667,1858 719,1857 771,1857 823,1856 875,1856 926,1856 978,1855 1030,1855 1082,1855 1134,1855 1186,1855 1238,1855"/>
                 <TextEquiv>
@@ -294,7 +294,7 @@ noch zu einer weiteren Erklärung der Harmonie geführt.</Unicode>
                     <Unicode>ser letztere nur durch ein Mehr oder Weniger der „Ein¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:8;}">
+            <TextLine id="r1l36" custom="readingOrder {index:8;} concept_mus {offset:34; length:18;}">
                 <Coords points="197,2028 1247,2010 1194,1973 746,2002 197,1981"/>
                 <Baseline points="204,2016 255,2016 307,2015 359,2015 411,2015 463,2015 514,2015 566,2015 618,2015 670,2014 722,2014 773,2014 825,2014 877,2013 929,2013 981,2012 1032,2012 1084,2011 1136,2010 1188,2010 1240,2009"/>
                 <TextEquiv>
