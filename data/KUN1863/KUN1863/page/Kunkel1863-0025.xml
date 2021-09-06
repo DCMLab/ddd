@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-02-25T18:51:16.771+01:00</Created>
-        <LastChange>2021-05-12T14:54:28.899+02:00</LastChange>
-        <TranskribusMetadata docId="618525" pageId="24492495" pageNr="25" tsid="57787706" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=LYJMNUXLLOJLUSYYALCAKXEN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CWHBAZSXXINFMJJKYMZNEVLJ" imageId="18861089"/>
+        <LastChange>2021-09-05T12:05:59.735+02:00</LastChange>
+        <TranskribusMetadata docId="764524" pageId="28718816" pageNr="25" tsid="64306235" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=LETQQTBHZRWPROXZPAOMPDPH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RMDVHWDHYBIHIKHJKLZWPRBU" imageId="22439321"/>
     </Metadata>
     <Page imageFilename="Kunkel1863-0025.jpg" imageWidth="1793" imageHeight="2941" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196222935" caption="Regions reading order">
+            <OrderedGroup id="ro_1630948959536" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1614386197397_4605"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1614386197397_4604"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1614386194089_4600"/>
@@ -34,28 +34,28 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614386197397_4604" custom="readingOrder {index:1;}">
             <Coords points="159,196 1714,196 1714,416 159,416"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:98; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:98; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:98; length:1;}">
                 <Coords points="263,276 1560,284 1701,274 1701,220 263,222"/>
                 <Baseline points="272,264 343,263 414,263 485,263 556,263 627,263 698,263 769,264 840,264 911,264 982,264 1053,264 1124,264 1195,264 1266,264 1337,264 1408,264 1479,263 1550,263 1621,263 1692,262"/>
                 <TextEquiv>
                     <Unicode>Es versteht sich nach unseren seitherigen Betrachtungen von selbst, daß die von den Mittelpunkten C</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:4; length:1;} concept_mus {offset:59; length:20;} m_tonality {offset:90; length:8;}">
                 <Coords points="148,325 1473,324 1701,316 1701,280 148,282"/>
                 <Baseline points="159,308 235,308 312,308 388,308 465,308 542,308 618,308 695,308 772,308 848,309 925,309 1002,309 1078,309 1155,309 1232,309 1308,309 1385,309 1462,309 1538,309 1615,309 1692,309"/>
                 <TextEquiv>
                     <Unicode>und a in I und II nach den 4 Seiten ausgehenden, im ersten Verwandtschaftsgrade stehenden Tonarten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:9; length:18;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:9; length:18;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:32; length:11;}">
                 <Coords points="151,367 1683,373 1698,323 151,328"/>
                 <Baseline points="160,355 236,354 312,354 389,353 465,353 542,353 618,353 694,353 771,353 847,354 924,354 1000,354 1076,354 1153,354 1229,354 1306,354 1382,353 1458,353 1535,352 1611,351 1688,350"/>
                 <TextEquiv>
                     <Unicode>nicht in gleicher Beziehung zur Haupttonart stehen, nicht etwa eine derselben durch eine andere ersetzt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:41; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:88; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:41; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:64; length:20;} textStyle {offset:88; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:88; length:1;}">
                 <Coords points="158,413 1436,416 1510,413 1510,362 158,371"/>
                 <Baseline points="168,399 234,399 301,399 367,398 434,398 501,398 567,398 634,398 700,399 767,399 834,399 900,399 967,399 1033,400 1100,400 1166,400 1233,400 1300,399 1366,399 1433,399 1500,398"/>
                 <TextEquiv>
@@ -71,7 +71,7 @@ werden könne; es steht nämlich eine jede in ihrer Art im ersten Verwandtschaft
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1614386194089_4600" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
             <Coords points="159,416 1714,416 1714,737 159,737"/>
-            <TextLine id="r1l6" custom="readingOrder {index:0;}">
+            <TextLine id="r1l6" custom="readingOrder {index:0;} concept_mus {offset:42; length:22;} concept_mus {offset:76; length:9;}">
                 <Coords points="254,468 1697,464 1697,418 254,418"/>
                 <Baseline points="264,452 335,452 406,452 477,452 548,452 620,452 691,452 762,452 833,452 904,453 976,453 1047,453 1118,453 1189,453 1260,453 1332,453 1403,454 1474,454 1545,454 1616,453 1688,453"/>
                 <TextEquiv>
@@ -85,35 +85,35 @@ werden könne; es steht nämlich eine jede in ihrer Art im ersten Verwandtschaft
                     <Unicode>oder klug darüber hinweg oder sie betraten ein Labyrinth ohne im Besitze eines Ariadnen-Fadens zu sein.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:2;}">
+            <TextLine id="r1l8" custom="readingOrder {index:2;} person_author {offset:14; length:13;ID:P0145;} work_text {offset:39; length:17;ID:W0180;}">
                 <Coords points="151,556 1700,550 1669,506 151,514"/>
                 <Baseline points="161,541 237,541 313,541 390,542 466,542 543,542 619,542 695,543 772,543 848,543 925,543 1001,542 1077,542 1154,542 1230,542 1307,542 1383,542 1459,542 1536,541 1612,541 1689,541"/>
                 <TextEquiv>
                     <Unicode>So sagt z. B. F. W. Schütze in seiner „Compositionslehre”, 2. Auflage, Seite 187: „Sind die Schüler</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:3;}">
+            <TextLine id="r1l9" custom="readingOrder {index:3;} concept_mus {offset:15; length:16;} concept_mus {offset:101; length:4; continued:true;}">
                 <Coords points="153,597 1703,589 1657,554 153,556"/>
                 <Baseline points="162,586 238,586 315,586 391,586 468,586 545,586 621,586 698,586 774,586 851,586 928,586 1004,586 1081,586 1157,586 1234,586 1311,586 1387,586 1464,586 1540,586 1617,586 1694,585"/>
                 <TextEquiv>
                     <Unicode>im Angeben der Verwandtschaften ersten Grades recht geübt, so kann es ihnen nicht schwer fallen, die Ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:4;} textStyle {offset:40; length:40;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l10" custom="readingOrder {index:4;} concept_mus {offset:0; length:13; continued:true;} textStyle {offset:40; length:40;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="153,643 1594,646 1646,596 153,602"/>
                 <Baseline points="162,632 235,631 309,631 383,631 456,631 530,631 604,631 677,631 751,631 825,631 899,631 972,631 1046,631 1120,631 1193,631 1267,631 1341,631 1414,630 1488,630 1562,630 1636,630"/>
                 <TextEquiv>
                     <Unicode>wandtschaften zweiten Grades zu finden. Hierbei lasse man es sein Bewenden haben.” —</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+            <TextLine id="r1l11" custom="readingOrder {index:5;} person_author {offset:0; length:10;ID:P0078;} work_text {offset:33; length:22;ID:W0121;}">
                 <Coords points="153,686 1702,685 1673,640 153,643"/>
                 <Baseline points="163,676 239,676 316,676 392,676 469,676 545,675 622,676 698,676 775,676 851,676 928,676 1004,676 1081,676 1157,676 1234,676 1310,676 1387,676 1463,675 1540,675 1616,675 1693,675"/>
                 <TextEquiv>
                     <Unicode>A. B. Marx gibt Seite 70 seiner „Allgemeinen Musiklehre”, 3. Auflage, nachstehende Zeichnung für die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:6;} textStyle {offset:25; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l12" custom="readingOrder {index:6;} concept_mus {offset:0; length:20;} m_tonality {offset:25; length:5;} textStyle {offset:25; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:38; length:12;}">
                 <Coords points="149,734 935,732 935,686 149,690"/>
                 <Baseline points="159,717 197,718 235,718 274,719 312,720 350,720 389,720 427,721 465,721 504,721 542,721 580,721 619,721 657,721 695,721 734,720 772,720 810,720 849,720 887,720 926,719"/>
                 <TextEquiv>
@@ -135,35 +135,35 @@ Verwandtschaftsgrade von C-dur zu den Molltonarten:</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614386179128_4592" custom="readingOrder {index:4;} structure {type:paragraph;}">
             <Coords points="159,1131 1714,1131 1714,1371 159,1371"/>
-            <TextLine id="r1l26" custom="readingOrder {index:0;}">
+            <TextLine id="r1l26" custom="readingOrder {index:0;} concept_mus {offset:65; length:16;}">
                 <Coords points="158,1180 1703,1175 1702,1130 157,1133"/>
                 <Baseline points="167,1169 243,1169 319,1169 395,1170 472,1170 548,1169 624,1169 700,1169 777,1169 853,1169 929,1169 1005,1169 1082,1168 1158,1168 1234,1168 1310,1168 1387,1168 1463,1168 1539,1168 1615,1169 1692,1169"/>
                 <TextEquiv>
                     <Unicode>mit dem guten Rathe begleitet: „Aber wir haben nicht nöthig, die Verwandtschaften so weit oder noch weiter</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:1;} textStyle {offset:68; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:90; length:2;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l27" custom="readingOrder {index:1;} concept_mus {offset:56; length:7;} m_tonality {offset:68; length:5;} textStyle {offset:68; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:90; length:6;} textStyle {offset:90; length:2;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="162,1234 1695,1229 1711,1182 162,1186"/>
                 <Baseline points="171,1212 247,1213 324,1213 400,1213 477,1213 553,1213 630,1213 706,1213 783,1213 859,1213 936,1212 1012,1212 1089,1212 1165,1212 1242,1212 1318,1213 1395,1213 1471,1213 1548,1213 1624,1214 1701,1214"/>
                 <TextEquiv>
                     <Unicode>zu verfolgen.” Es war allerdings klug, abzubrechen; ein Schritt von B-dur weiter führt zu Es-dur, und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1614386296039_4648" custom="readingOrder {index:2;} textStyle {offset:32; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:42; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:74; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="line_1614386296039_4648" custom="readingOrder {index:2;} m_tonality {offset:32; length:6;} textStyle {offset:32; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:42; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:50; length:20;} m_tonality {offset:74; length:5;} textStyle {offset:74; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="158,1269 1699,1261 1639,1226 158,1232"/>
                 <Baseline points="168,1258 241,1258 314,1258 387,1258 460,1257 533,1257 606,1257 680,1257 753,1256 826,1256 899,1256 972,1256 1045,1256 1118,1256 1192,1256 1265,1256 1338,1256 1411,1257 1484,1257 1557,1257 1631,1257 1659,1254 1690,1254"/>
                 <TextEquiv>
                     <Unicode>wir hätten dann auf diesem Wege c-moll im vierten Verwandtschaftsgrade zu C-dur erhalten! —</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:3;} textStyle {offset:3; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l30" custom="readingOrder {index:3;} person_author {offset:0; length:8;ID:P0014;} textStyle {offset:3; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:66; length:20;}">
                 <Coords points="163,1313 1712,1307 1650,1253 163,1269"/>
                 <Baseline points="173,1300 249,1301 326,1301 402,1301 479,1301 555,1301 632,1301 708,1301 785,1301 861,1301 938,1301 1014,1301 1091,1301 1167,1301 1244,1301 1320,1301 1397,1301 1473,1302 1550,1302 1626,1303 1703,1303"/>
                 <TextEquiv>
                     <Unicode>G. Weber erweitert die oben unter Fig. 25 I und II für die ersten Verwandtschaftsgrade gelungenen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:4;}">
+            <TextLine id="r1l31" custom="readingOrder {index:4;} work_text {offset:17; length:12;ID:W0042;}">
                 <Coords points="157,1356 1422,1353 1422,1316 1357,1312 157,1315"/>
                 <Baseline points="167,1347 229,1347 291,1346 353,1346 416,1346 478,1346 540,1346 602,1346 665,1346 727,1346 789,1346 851,1346 914,1346 976,1346 1038,1346 1100,1346 1163,1346 1225,1346 1287,1346 1349,1345 1412,1345"/>
                 <TextEquiv>
@@ -190,21 +190,21 @@ Bilder in seiner Tonsetzkunst, Band II., 3. Auflage, Seite 84 und 85 folgenderma
                     <Unicode>Die Glieder der senkrechten Reihen in beiden vorstehenden Figuren stehen alle, wie man sieht, in</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l50" custom="readingOrder {index:1;}">
+            <TextLine id="r1l50" custom="readingOrder {index:1;} concept_mus {offset:0; length:14;}">
                 <Coords points="153,2692 1716,2692 1679,2651 153,2650"/>
                 <Baseline points="163,2680 240,2680 317,2680 394,2681 471,2681 548,2681 625,2681 703,2681 780,2681 857,2681 934,2681 1011,2681 1088,2681 1165,2681 1243,2681 1320,2681 1397,2680 1474,2680 1551,2680 1628,2680 1706,2680"/>
                 <TextEquiv>
                     <Unicode>Quintabständen. Jede dieser Reihen, nach Belieben auf- und abwärts fortgesetzt, läßt, je nach den großen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l51" custom="readingOrder {index:2;}">
+            <TextLine id="r1l51" custom="readingOrder {index:2;} m_tonality {offset:36; length:4;} m_tonality {offset:46; length:12;}">
                 <Coords points="158,2733 1709,2738 1655,2692 158,2696"/>
                 <Baseline points="167,2724 243,2724 320,2725 396,2725 473,2725 550,2725 626,2725 703,2725 780,2725 856,2725 933,2726 1010,2726 1086,2726 1163,2726 1240,2726 1316,2726 1393,2726 1470,2726 1546,2725 1623,2725 1700,2725"/>
                 <TextEquiv>
                     <Unicode>oder kleinen Buchstaben, sämmtliche Dur- oder Molltonarten zum Vorschein kommen, während die Glieder</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l52" custom="readingOrder {index:3;}">
+            <TextLine id="r1l52" custom="readingOrder {index:3;} m_interval {offset:25; length:21;}">
                 <Coords points="155,2781 1717,2785 1696,2739 155,2739"/>
                 <Baseline points="164,2769 241,2769 318,2770 395,2770 472,2770 550,2771 627,2771 704,2771 781,2771 858,2771 936,2771 1013,2771 1090,2772 1167,2772 1244,2772 1322,2772 1399,2772 1476,2771 1553,2771 1630,2771 1708,2771"/>
                 <TextEquiv>

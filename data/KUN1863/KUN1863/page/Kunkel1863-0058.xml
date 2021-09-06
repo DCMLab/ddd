@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-02-25T18:51:17.634+01:00</Created>
-        <LastChange>2021-05-15T20:50:14.914+02:00</LastChange>
-        <TranskribusMetadata docId="618525" pageId="24492528" pageNr="58" tsid="57916629" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=MEGKZOWKBLCCTOACTFDVFDOM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BBNNATQAQVWTJULPKMNVXTSZ" imageId="18861122"/>
+        <LastChange>2021-09-06T18:37:47.126+02:00</LastChange>
+        <TranskribusMetadata docId="764524" pageId="28718849" pageNr="58" tsid="64340084" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=KTTKXGNLQUPISDYQBOMKFDBI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IDQDNBYZDPHWKBLQBWNAQDFS" imageId="22439354"/>
     </Metadata>
     <Page imageFilename="Kunkel1863-0058.jpg" imageWidth="1793" imageHeight="2941" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624196228629" caption="Regions reading order">
+            <OrderedGroup id="ro_1630948970065" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1614710253194_1048"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1614710253194_1047"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1614710251046_1043"/>
@@ -49,14 +49,14 @@ Transkribus</Creator>
                     <Unicode>Härte, wie man etwa ein Gemälde oder eine Statue, kunstreich ausgeführt, aber mit einem kleinen Makel</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} work_music {offset:75; length:8;ID:W0041;}">
                 <Coords points="118,342 1591,356 1666,347 1667,303 118,295"/>
                 <Baseline points="127,327 203,328 279,328 356,328 432,328 509,329 585,329 662,329 738,330 815,330 891,331 967,331 1044,332 1120,332 1197,332 1273,333 1350,333 1426,333 1503,334 1579,334 1656,334"/>
                 <TextEquiv>
                     <Unicode>behaftet, mit in den Kauf nimmt — weil man sich an dem sonst wunderschönen Quartett dennoch ergötzen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} work_music {offset:24; length:8;ID:W0041;}">
                 <Coords points="111,380 951,388 951,342 920,337 111,342"/>
                 <Baseline points="121,371 162,371 203,371 244,371 285,372 326,372 367,372 408,373 449,373 490,373 531,374 572,374 613,374 654,375 695,375 736,375 777,375 818,375 859,375 900,376 941,376"/>
                 <TextEquiv>
@@ -79,14 +79,14 @@ und dabei aber auch das Original unverändert lassen will.</Unicode>
                     <Unicode>Auch sind wir ferner der Meinung, so lange man uns keine bessere Ueberzeugung beibringt, daß</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:1;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l7" custom="readingOrder {index:1;} person_composer {offset:0; length:8;ID:P0015;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:25; length:5;} concept_mus {offset:82; length:14; continued:true;}">
                 <Coords points="117,474 1666,475 1666,433 118,424"/>
                 <Baseline points="127,460 203,461 279,461 356,462 432,463 509,463 585,463 662,464 738,464 815,464 891,465 967,465 1044,465 1120,465 1197,466 1273,466 1350,466 1426,466 1503,467 1579,467 1656,467"/>
                 <TextEquiv>
                     <Unicode>Mozart's Genius wohl dem Thema seine Existenz gegeben haben mag, daß aber bei der imitatorischen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:2;}">
+            <TextLine id="r1l8" custom="readingOrder {index:2;} concept_mus {offset:0; length:12; continued:true;} concept_mus {offset:67; length:11;}">
                 <Coords points="110,517 1666,523 1666,483 1549,473 110,474"/>
                 <Baseline points="120,505 196,505 273,506 350,506 427,507 504,507 581,507 657,508 734,508 811,508 888,509 965,509 1042,509 1119,509 1195,510 1272,510 1349,510 1426,511 1503,511 1580,511 1657,512"/>
                 <TextEquiv>
@@ -100,84 +100,84 @@ und dabei aber auch das Original unverändert lassen will.</Unicode>
                     <Unicode>gewesen, als daß ihn vielmehr vorwiegend die Intension leitete, die unverkennbare Nachahmung mit</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:4;} textStyle {offset:68; length:27;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l10" custom="readingOrder {index:4;} concept_mus {offset:40; length:7;} concept_mus {offset:52; length:15;} textStyle {offset:68; length:27;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="109,605 1669,608 1500,561 109,563"/>
                 <Baseline points="119,594 196,594 273,594 350,594 427,595 504,595 581,595 658,596 735,596 812,597 889,597 966,597 1043,598 1120,598 1197,599 1274,599 1351,599 1428,599 1505,599 1582,600 1659,600"/>
                 <TextEquiv>
                     <Unicode>Rücksicht der dem Modell entsprechenden Accord- und Tonarten-Folgen in möglichst schulgerechter</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:5;} textStyle {offset:0; length:17;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:28; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l11" custom="readingOrder {index:5;} textStyle {offset:0; length:17;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:23; length:4;} textStyle {offset:28; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:28; length:1;} concept_mus {offset:37; length:11;} concept_mus {offset:82; length:15;}">
                 <Coords points="111,661 1664,651 1585,610 111,607"/>
                 <Baseline points="121,638 197,639 274,639 351,640 427,640 504,641 581,641 657,641 734,641 811,642 888,642 964,642 1041,642 1118,642 1194,643 1271,643 1348,643 1424,643 1501,644 1578,644 1655,645"/>
                 <TextEquiv>
                     <Unicode>Form darzustellen. Dem Tone g in der Violastimme gegenüber und wegen der weiteren modulatorischen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:6;} textStyle {offset:55; length:2;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l12" custom="readingOrder {index:6;} concept_mus {offset:0; length:5;} person_composer {offset:13; length:6;ID:P0015;} concept_mus {offset:38; length:10;} m_note {offset:55; length:4;} textStyle {offset:55; length:2;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="109,717 1511,724 1660,711 1660,659 109,665"/>
                 <Baseline points="119,698 195,699 272,699 348,699 425,699 502,699 578,699 655,700 731,700 808,700 885,701 961,701 1038,701 1114,702 1191,702 1268,702 1344,703 1421,703 1497,703 1574,704 1651,704"/>
                 <TextEquiv>
                     <Unicode>Folge konnte Mozart beim Eintritt der Oberstimme nicht as}} schreiben, sondern mußte statt dessen den er¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:7;} textStyle {offset:13; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l13" custom="readingOrder {index:7;} m_note {offset:8; length:3;} m_note {offset:12; length:4;} textStyle {offset:13; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:49; length:13;} concept_mus {offset:63; length:13;}">
                 <Coords points="111,771 1586,780 1665,773 1666,732 111,721"/>
                 <Baseline points="121,756 197,757 274,758 351,758 428,759 504,759 581,759 658,760 735,760 811,760 888,760 965,760 1042,760 1118,761 1195,761 1272,761 1349,761 1425,762 1502,762 1579,763 1656,763"/>
                 <TextEquiv>
                     <Unicode>höheten Ton ♮a}} wählen. Nun standen ihm für die imitatorische Tongestaltung zwei nicht zu vereinigende</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:8;} textStyle {offset:42; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:72; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l14" custom="readingOrder {index:8;} concept_mus {offset:0; length:11;} textStyle {offset:42; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:48; length:12;} textStyle {offset:72; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="109,813 1660,822 1660,775 1554,771 110,769"/>
                 <Baseline points="119,800 195,800 272,801 348,801 425,802 502,802 578,803 655,803 731,803 808,803 885,804 961,804 1038,804 1114,805 1191,805 1268,806 1344,806 1421,807 1497,807 1574,808 1651,809"/>
                 <TextEquiv>
                     <Unicode>Formationen zu Gebote, entweder hatte die erste Violinstimme gleich der zweiten consequent je nach einem</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:9;} textStyle {offset:52; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l15" custom="readingOrder {index:9;} concept_mus {offset:0; length:9;} concept_mus {offset:38; length:9;} textStyle {offset:52; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:59; length:5;} concept_mus {offset:75; length:6;} concept_mus {offset:86; length:5;}">
                 <Coords points="112,858 1661,861 1592,819 113,815"/>
                 <Baseline points="123,846 199,846 275,846 352,847 428,847 505,847 581,847 657,847 734,848 810,848 887,848 963,848 1039,849 1116,849 1192,849 1269,850 1345,850 1421,850 1498,851 1574,851 1651,852"/>
                 <TextEquiv>
                     <Unicode>Tacttheil einzutreten, wobei aber der Zeitwerth des ersten Tones gegen die Stimme der Viola und der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:10;} textStyle {offset:19; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l16" custom="readingOrder {index:10;} concept_mus {offset:8; length:7;} textStyle {offset:19; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:25; length:9;} m_note {offset:53; length:11;} concept_mus {offset:91; length:9;}">
                 <Coords points="114,904 1663,903 1543,860 114,865"/>
                 <Baseline points="123,890 199,890 276,890 352,890 429,891 505,891 582,891 658,892 735,892 811,892 888,893 964,893 1041,893 1117,894 1194,894 1270,894 1347,895 1423,895 1500,895 1576,895 1653,896"/>
                 <TextEquiv>
                     <Unicode>zweiten Violine um einen Tacttheil (nämlich zu einer $$MATH-Note) auszudehnen war, und der Querstand ent¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1614710327639_1084" custom="readingOrder {index:11;}">
+            <TextLine id="line_1614710327639_1084" custom="readingOrder {index:11;} concept_mus {offset:72; length:10;}">
                 <Coords points="124,946 1627,953 1662,905 124,898"/>
                 <Baseline points="133,934 170,934 207,935 244,935 281,935 318,936 355,936 393,936 430,936 467,936 504,936 541,936 578,936 615,936 653,936 690,936 727,935 764,935 801,935 838,935 876,935 890,935 928,936 966,936 1004,936 1042,937 1080,937 1118,937 1156,937 1194,938 1232,938 1270,938 1308,938 1346,939 1384,939 1422,939 1460,939 1498,939 1536,939 1574,939 1612,939 1651,939"/>
                 <TextEquiv>
                     <Unicode>stehen mußte, wie oben in Fig. II ausgeführt ist, — oder es war für die Oberstimme die Consequenz dieses</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:12;}">
+            <TextLine id="r1l19" custom="readingOrder {index:12;} concept_mus {offset:61; length:10;}">
                 <Coords points="118,989 1533,1004 1662,996 1663,950 118,948"/>
                 <Baseline points="127,978 203,978 279,979 355,979 432,979 508,980 584,980 661,980 737,981 813,981 890,981 966,982 1042,982 1118,982 1195,982 1271,982 1347,983 1424,983 1500,983 1576,984 1653,984"/>
                 <TextEquiv>
                     <Unicode>Eintritts aufzugeben und die Nachahmung erst mit dem letzten Tacttheile beginnen zu lassen, in welchem Falle</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:13;}">
+            <TextLine id="r1l20" custom="readingOrder {index:13;} m_note {offset:15; length:3;} concept_mus {offset:28; length:9;} concept_mus {offset:98; length:10; continued:true;}">
                 <Coords points="112,1035 1661,1036 1628,993 112,994"/>
                 <Baseline points="122,1023 198,1023 274,1024 351,1024 427,1024 504,1024 580,1024 657,1024 733,1025 810,1025 886,1025 962,1025 1039,1026 1115,1026 1192,1026 1268,1027 1345,1027 1421,1027 1498,1027 1574,1028 1651,1028"/>
                 <TextEquiv>
                     <Unicode>dann der erste Ton dieselbe Zeitlänge erhalten hätte, wie im Modell, abgesehen davon, daß auch in metrischer</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:14;}">
+            <TextLine id="r1l21" custom="readingOrder {index:14;} concept_mus {offset:0; length:8; continued:true;} concept_mus {offset:13; length:10;} concept_mus {offset:58; length:8;} concept_mus {offset:79; length:11;}">
                 <Coords points="113,1077 1666,1084 1666,1037 113,1037"/>
                 <Baseline points="123,1066 199,1067 276,1067 352,1068 429,1068 506,1069 582,1069 659,1069 736,1070 812,1070 889,1070 966,1071 1042,1071 1119,1071 1196,1071 1272,1072 1349,1072 1426,1072 1502,1072 1579,1073 1656,1073"/>
                 <TextEquiv>
                     <Unicode>Hinsicht die Oberstimme auf der leichtesten (der dritten) Tactzeit, gleich der Violastimme, aufgetreten und der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:15;}">
+            <TextLine id="r1l22" custom="readingOrder {index:15;} concept_mus {offset:0; length:9;}">
                 <Coords points="113,1123 627,1125 627,1088 585,1082 113,1077"/>
                 <Baseline points="123,1112 149,1112 175,1112 201,1112 227,1112 253,1112 279,1112 305,1112 331,1112 357,1112 383,1112 409,1112 435,1112 461,1112 487,1112 513,1113 539,1113 565,1113 591,1113 617,1114"/>
                 <TextEquiv>
@@ -208,7 +208,7 @@ Querstand vermieden worden wäre:</Unicode>
         </MusicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614710233106_1035" custom="readingOrder {index:4;} structure {type:paragraph;}">
             <Coords points="119,1507 1664,1507 1664,1689 119,1689"/>
-            <TextLine id="r1l39" custom="readingOrder {index:0;} textStyle {offset:86; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l39" custom="readingOrder {index:0;} person_composer {offset:0; length:6;ID:P0015;} textStyle {offset:86; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="211,1555 1525,1563 1668,1555 1668,1505 211,1507"/>
                 <Baseline points="221,1542 292,1542 364,1542 436,1543 508,1543 580,1543 652,1544 723,1544 795,1544 867,1545 939,1545 1011,1545 1083,1545 1155,1545 1226,1545 1298,1545 1370,1545 1442,1545 1514,1544 1586,1543 1658,1543"/>
                 <TextEquiv>
@@ -222,7 +222,7 @@ Querstand vermieden worden wäre:</Unicode>
                     <Unicode>hatte sich hierdurch vielseitiger (und nicht überall von „einseitigen befangenen Kritikern” ausgehender) scharfer</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l41" custom="readingOrder {index:2;}">
+            <TextLine id="r1l41" custom="readingOrder {index:2;} concept_mus {offset:35; length:12;} concept_mus {offset:87; length:11;}">
                 <Coords points="117,1643 1658,1644 1616,1603 117,1601"/>
                 <Baseline points="127,1628 203,1629 279,1630 355,1631 431,1631 507,1632 583,1632 659,1633 735,1633 811,1633 888,1634 964,1634 1040,1634 1116,1634 1192,1634 1268,1634 1344,1634 1420,1633 1496,1633 1572,1633 1649,1632"/>
                 <TextEquiv>
@@ -245,49 +245,49 @@ schiedene Verbesserungen, worunter auch das Beispiel Fig. IV vorgeschlagen *).</
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1614710229859_1031" custom="readingOrder {index:5;} structure {type:paragraph-continued;}">
             <Coords points="119,1689 1664,1689 1664,2369 119,2369"/>
-            <TextLine id="r1l43" custom="readingOrder {index:0;}">
+            <TextLine id="r1l43" custom="readingOrder {index:0;} person_author {offset:13; length:9;ID:P0041;}">
                 <Coords points="210,1732 1666,1732 1618,1689 210,1682"/>
                 <Baseline points="219,1716 290,1717 362,1718 434,1718 506,1719 578,1719 650,1720 722,1720 794,1720 866,1721 938,1721 1009,1721 1081,1721 1153,1721 1225,1721 1297,1721 1369,1721 1441,1721 1513,1720 1585,1720 1657,1719"/>
                 <TextEquiv>
                     <Unicode>Wenn endlich Weitzmann mit seiner Ansicht (— denn ein selbstständiges Urtheil ist ja seine Aussage</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l44" custom="readingOrder {index:1;}">
+            <TextLine id="r1l44" custom="readingOrder {index:1;} person_composer {offset:40; length:6;ID:P0015;}">
                 <Coords points="112,1771 1616,1779 1671,1737 112,1732"/>
                 <Baseline points="122,1757 198,1758 275,1759 352,1760 429,1761 506,1762 583,1763 660,1763 737,1764 814,1764 891,1765 967,1765 1044,1765 1121,1765 1198,1765 1275,1765 1352,1765 1429,1765 1506,1764 1583,1764 1660,1763"/>
                 <TextEquiv>
                     <Unicode>nicht —) sich hinter den „feinfühlenden Mozart” verstecken will, so kann man nach seinem ganzen Gebahren</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l45" custom="readingOrder {index:2;} textStyle {offset:93; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l45" custom="readingOrder {index:2;} work_text {offset:4; length:14;ID:W0039;} work_text {offset:35; length:10;ID:W0037;} person_composer {offset:81; length:8;ID:P0015;} textStyle {offset:93; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} person_composer {offset:93; length:5;ID:P0046;}">
                 <Coords points="112,1811 1668,1818 1668,1778 1555,1773 112,1771"/>
                 <Baseline points="121,1803 197,1804 274,1804 351,1805 428,1806 505,1806 582,1807 658,1807 735,1808 812,1808 889,1808 966,1809 1043,1809 1120,1809 1196,1809 1273,1809 1350,1809 1427,1809 1504,1808 1581,1808 1658,1807"/>
                 <TextEquiv>
                     <Unicode>im „Harmoniesystem” und in diesem „Streit 2c.”, insbesondere durch sein Rangiren Mozart's zu Liszt und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l46" custom="readingOrder {index:3;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l46" custom="readingOrder {index:3;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} person_composer {offset:0; length:6;ID:P0045;}">
                 <Coords points="110,1861 1666,1858 1618,1820 110,1813"/>
                 <Baseline points="119,1845 195,1846 272,1847 349,1848 426,1849 503,1850 580,1851 657,1851 734,1852 811,1852 888,1852 964,1852 1041,1853 1118,1853 1195,1852 1272,1852 1349,1852 1426,1851 1503,1851 1580,1851 1657,1850"/>
                 <TextEquiv>
                     <Unicode>Wagner (wie unten, Seite 58, dieses Nachtrags zu sehen) den Grund für diese Aeußerung in einer</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l47" custom="readingOrder {index:4;} textStyle {offset:64; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l47" custom="readingOrder {index:4;} concept_mus {offset:25; length:10;} textStyle {offset:64; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} person_composer {offset:64; length:5;ID:P0008;} concept_mus {offset:81; length:9;}">
                 <Coords points="109,1907 1669,1900 1600,1859 109,1859"/>
                 <Baseline points="119,1890 196,1891 273,1892 350,1893 427,1893 504,1894 581,1894 658,1895 735,1895 812,1895 889,1896 966,1896 1043,1896 1120,1896 1197,1896 1274,1896 1351,1896 1428,1895 1505,1895 1582,1895 1659,1894"/>
                 <TextEquiv>
                     <Unicode>Pietät zu dem genialsten Tondichter nicht suchen, wie z. B. bei Haydn, dem diese Quartette gewidmet</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l48" custom="readingOrder {index:5;}">
+            <TextLine id="r1l48" custom="readingOrder {index:5;} person_composer {offset:55; length:8;ID:P0015;}">
                 <Coords points="113,1948 1666,1955 1621,1907 113,1907"/>
                 <Baseline points="122,1933 198,1934 275,1935 352,1936 429,1936 505,1937 582,1937 659,1938 736,1938 812,1938 889,1938 966,1939 1043,1939 1119,1939 1196,1939 1273,1938 1350,1938 1426,1938 1503,1938 1580,1937 1657,1937"/>
                 <TextEquiv>
                     <Unicode>waren und welcher aus lauter Begeisterung für die Muse Mozart's immer ausweichend sich ausgesprochen,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l49" custom="readingOrder {index:6;}">
+            <TextLine id="r1l49" custom="readingOrder {index:6;} person_composer {offset:55; length:15;ID:P0015;}">
                 <Coords points="112,1988 1665,1988 1642,1948 112,1950"/>
                 <Baseline points="121,1976 197,1977 274,1978 351,1979 427,1979 504,1980 581,1981 657,1981 734,1981 811,1981 888,1982 964,1982 1041,1982 1118,1982 1194,1982 1271,1982 1348,1982 1424,1981 1501,1981 1578,1981 1655,1981"/>
                 <TextEquiv>
@@ -301,7 +301,7 @@ schiedene Verbesserungen, worunter auch das Beispiel Fig. IV vorgeschlagen *).</
                     <Unicode>man von muthwilligen Streichen eines sonst liebenswürdigen Knaben keine oder nur ungern Notiz nehmen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l51" custom="readingOrder {index:8;}">
+            <TextLine id="r1l51" custom="readingOrder {index:8;} concept_mus {offset:25; length:12;}">
                 <Coords points="117,2075 1666,2076 1608,2034 117,2040"/>
                 <Baseline points="126,2064 202,2065 279,2066 355,2067 432,2068 508,2068 585,2069 661,2069 738,2070 814,2070 891,2070 968,2070 1044,2070 1121,2070 1197,2070 1274,2070 1350,2069 1427,2069 1503,2069 1580,2068 1657,2068"/>
                 <TextEquiv>
@@ -362,7 +362,7 @@ Weg, consequent verfolgt, führt schnurstracks zur Corruption der Kunst. Es beda
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1614710197173_1027" custom="readingOrder {index:6;} structure {type:footnote;}">
             <Coords points="119,2369 1664,2369 1664,2760 119,2760"/>
-            <TextLine id="line_1614710349410_1132" custom="readingOrder {index:0;} textStyle {offset:9; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="line_1614710349410_1132" custom="readingOrder {index:0;} person_author {offset:6; length:10;ID:P0014;} textStyle {offset:9; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} work_text {offset:64; length:10;ID:W0042;}">
                 <Coords points="210,2434 1674,2436 1674,2392 210,2391"/>
                 <Baseline points="219,2416 254,2421 276,2424 345,2425 414,2426 484,2426 553,2427 623,2428 692,2428 761,2429 831,2429 900,2429 970,2430 1039,2430 1108,2430 1178,2430 1247,2430 1317,2429 1386,2429 1455,2429 1525,2428 1594,2427 1664,2426"/>
                 <TextEquiv>
@@ -376,7 +376,7 @@ Weg, consequent verfolgt, führt schnurstracks zur Corruption der Kunst. Es beda
                     <Unicode>gründlich abgefaßte, allseitig eingehende, interessante und lehrreiche Arbeit ist, woraus insbesondere</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l61" custom="readingOrder {index:2;}">
+            <TextLine id="r1l61" custom="readingOrder {index:2;} person_author {offset:0; length:9;ID:P0041;}">
                 <Coords points="264,2503 1672,2511 1672,2469 264,2465"/>
                 <Baseline points="273,2494 342,2495 412,2496 481,2497 551,2498 620,2499 690,2500 759,2500 829,2500 898,2501 968,2501 1037,2501 1107,2501 1176,2501 1246,2501 1315,2501 1385,2500 1454,2500 1524,2500 1593,2499 1663,2499"/>
                 <TextEquiv>
@@ -390,21 +390,21 @@ Weg, consequent verfolgt, führt schnurstracks zur Corruption der Kunst. Es beda
                     <Unicode>den Vorwurf der Oberflächlichkeit fern halten will, sind auf Seite 216 des 3. Bandes seiner</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l63" custom="readingOrder {index:4;}">
+            <TextLine id="r1l63" custom="readingOrder {index:4;} work_text {offset:1; length:11;ID:W0042;} concept_mus {offset:71; length:11;}">
                 <Coords points="262,2582 1664,2584 1651,2539 262,2540"/>
                 <Baseline points="271,2565 340,2566 409,2567 478,2568 547,2569 617,2570 686,2571 755,2572 824,2572 893,2573 963,2573 1032,2573 1101,2573 1170,2573 1239,2573 1309,2573 1378,2572 1447,2572 1516,2571 1585,2571 1655,2570"/>
                 <TextEquiv>
                     <Unicode>„Theorie 2c.” sechs solcher Varianten (die jedoch zum Theile nicht als Imitationen gelten können),</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l64" custom="readingOrder {index:5;} textStyle {offset:18; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l64" custom="readingOrder {index:5;} textStyle {offset:18; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} work_text {offset:86; length:3; continued:true;ID:W0042;}">
                 <Coords points="264,2609 1674,2612 1543,2571 264,2578"/>
                 <Baseline points="273,2603 342,2603 412,2604 481,2604 551,2605 620,2605 690,2606 759,2606 829,2607 898,2607 968,2608 1038,2608 1107,2608 1177,2608 1246,2608 1316,2608 1385,2608 1455,2607 1524,2606 1594,2605 1664,2604"/>
                 <TextEquiv>
                     <Unicode>unter welchen die erste derselben mit Fig. IV genau übereinstimmt. Am Schlusse dieser Ab¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l65" custom="readingOrder {index:6;}">
+            <TextLine id="r1l65" custom="readingOrder {index:6;} work_text {offset:0; length:8; continued:true;ID:W0042;} person_author {offset:14; length:5;ID:P0014;}">
                 <Coords points="262,2646 1618,2653 1661,2617 262,2609"/>
                 <Baseline points="271,2638 340,2638 409,2639 478,2639 547,2640 616,2640 685,2641 754,2641 823,2642 892,2642 961,2643 1030,2643 1099,2643 1168,2644 1237,2644 1306,2643 1375,2643 1444,2642 1513,2642 1582,2641 1651,2639"/>
                 <TextEquiv>
@@ -425,7 +425,7 @@ Weg, consequent verfolgt, führt schnurstracks zur Corruption der Kunst. Es beda
                     <Unicode>Mißgünstigen zum Trotz, unverhohlen aussprechen, weil ich glaube, auch das stolze Wort aus¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l69" custom="readingOrder {index:9;} textStyle {offset:20; length:39;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l69" custom="readingOrder {index:9;} textStyle {offset:20; length:39;fontSize:0.0; kerning:0; letterSpaced:true;} person_composer {offset:47; length:6;ID:P0015;}">
                 <Coords points="265,2764 1320,2752 1320,2721 1266,2715 265,2717"/>
                 <Baseline points="275,2744 326,2745 378,2746 430,2746 482,2747 534,2747 585,2748 637,2748 689,2748 741,2749 793,2749 844,2749 896,2750 948,2750 1000,2750 1052,2750 1103,2750 1155,2750 1207,2750 1259,2750 1311,2750"/>
                 <TextEquiv>
