@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:07.973+01:00</Created>
-        <LastChange>2021-05-21T11:43:21.030+02:00</LastChange>
-        <TranskribusMetadata docId="634080" pageId="24814322" pageNr="60" tsid="58181708" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HXOUNSVWTHAQBQNIJEMQOHQS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DPGKVLGRMLICEEIRYAYDOCGT" imageId="19135725"/>
+        <LastChange>2021-09-07T18:05:19.781+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121657" pageNr="60" tsid="64385306" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=OOZCLPNFWGNXKZFFGBMXUVHQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EHIZGZFWFWOYGJMLEXPFGEAS" imageId="21905027"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0069.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624195865108" caption="Regions reading order">
+            <OrderedGroup id="ro_1631119941572" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1620847604832_291"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1620847604832_290"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1620847598624_282"/>
@@ -33,14 +33,14 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1620847604832_290" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="190,183 1432,183 1432,335 190,335"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_interval {offset:0; length:11;} concept_mus {offset:21; length:9;} m_interval {offset:36; length:12;}">
                 <Coords points="182,275 1440,267 1398,219 182,225"/>
                 <Baseline points="190,264 252,263 314,262 376,262 438,261 500,261 562,261 624,262 686,262 748,262 811,263 873,263 935,263 997,263 1059,264 1121,264 1183,264 1245,263 1307,263 1369,262 1432,261"/>
                 <TextEquiv>
                     <Unicode>kleine Terz und ihre Umkehrung, die grosse Sexte, und alle</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:0; length:13;}">
                 <Coords points="185,332 396,331 432,347 488,324 654,325 654,295 583,282 414,294 185,284"/>
                 <Baseline points="193,317 218,319 243,320 268,321 293,321 318,322 344,322 369,322 394,322 419,322 444,322 469,321 495,321 520,321 545,321 570,321 595,322 620,322 646,323"/>
                 <TextEquiv>
@@ -64,21 +64,21 @@ Erweiterungen beider:</Unicode>
                     <Unicode>In ähnlicher Weise könnte leicht weiter untersucht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l53" custom="readingOrder {index:1;}">
+            <TextLine id="r1l53" custom="readingOrder {index:1;} concept_mus {offset:36; length:4;} m_note {offset:41; length:3;} concept_mus {offset:49; length:5;} concept_phy {offset:55; length:3;}">
                 <Coords points="187,1110 1431,1115 1391,1066 187,1074"/>
                 <Baseline points="195,1103 256,1103 317,1104 379,1104 440,1105 502,1105 563,1105 624,1105 686,1105 747,1105 809,1105 870,1105 931,1105 993,1105 1054,1105 1116,1106 1177,1106 1238,1106 1300,1107 1361,1107 1423,1108"/>
                 <TextEquiv>
                     <Unicode>werden, welche Beziehungen zwischen ton. Gr. und phon. Ob.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l54" custom="readingOrder {index:2;}">
+            <TextLine id="r1l54" custom="readingOrder {index:2;} m_note {offset:18; length:14;}">
                 <Coords points="187,1175 1430,1180 1430,1139 1353,1123 187,1140"/>
                 <Baseline points="195,1165 256,1164 317,1164 379,1163 440,1163 501,1163 563,1163 624,1163 685,1164 747,1164 808,1164 869,1165 931,1165 992,1165 1053,1166 1115,1166 1176,1166 1237,1167 1299,1167 1360,1167 1422,1167"/>
                 <TextEquiv>
                     <Unicode>und den gegebenen Intervalltönen bestehen, wenn höhere</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l55" custom="readingOrder {index:3;}">
+            <TextLine id="r1l55" custom="readingOrder {index:3;} concept_phy {offset:0; length:8;} concept_phy {offset:28; length:17;}">
                 <Coords points="191,1236 1423,1228 1423,1199 1334,1188 191,1188"/>
                 <Baseline points="198,1224 258,1223 319,1223 380,1222 441,1222 502,1222 563,1222 623,1222 684,1222 745,1223 806,1223 867,1223 928,1224 989,1224 1049,1225 1110,1225 1171,1225 1232,1225 1293,1225 1354,1225 1415,1225"/>
                 <TextEquiv>
@@ -106,7 +106,7 @@ Erweiterungen beider:</Unicode>
                     <Unicode>tersuchung der weiterliegenden Gebilde erwachsen. Die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l59" custom="readingOrder {index:7;}">
+            <TextLine id="r1l59" custom="readingOrder {index:7;} m_interval {offset:40; length:10;}">
                 <Coords points="189,1477 1426,1475 1426,1436 1375,1428 189,1428"/>
                 <Baseline points="197,1463 258,1463 319,1463 380,1463 441,1463 502,1463 563,1463 624,1463 685,1463 746,1463 808,1463 869,1464 930,1464 991,1464 1052,1464 1113,1465 1174,1465 1235,1465 1296,1465 1357,1465 1419,1466"/>
                 <TextEquiv>
@@ -142,49 +142,49 @@ der Untersuchung begegnen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1620847595108_278" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
             <Coords points="190,1602 1432,1602 1432,2271 190,2271"/>
-            <TextLine id="r1l62" custom="readingOrder {index:0;}">
+            <TextLine id="r1l62" custom="readingOrder {index:0;} concept_mus {offset:51; length:4; continued:true;}">
                 <Coords points="290,1651 1418,1647 1418,1613 1368,1603 966,1603 940,1630 895,1603 290,1603"/>
                 <Baseline points="298,1642 353,1642 409,1641 464,1641 520,1641 576,1641 631,1641 687,1641 742,1641 798,1642 854,1642 909,1642 965,1642 1020,1643 1076,1643 1132,1643 1187,1644 1243,1644 1298,1644 1354,1644 1410,1644"/>
                 <TextEquiv>
                     <Unicode>Es leuchtet nun von selbst ein, dass innerhalb der Ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l63" custom="readingOrder {index:1;}">
+            <TextLine id="r1l63" custom="readingOrder {index:1;} concept_mus {offset:0; length:11; continued:true;}">
                 <Coords points="195,1713 1424,1714 1376,1667 1173,1660 195,1674"/>
                 <Baseline points="203,1701 263,1700 324,1700 385,1700 445,1700 506,1701 567,1701 627,1701 688,1701 749,1702 810,1702 870,1702 931,1702 992,1703 1052,1703 1113,1703 1174,1703 1234,1703 1295,1703 1356,1703 1417,1703"/>
                 <TextEquiv>
                     <Unicode>wandtschaft ersten Grades ein Unterschied durch die bezüg¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l64" custom="readingOrder {index:2;}">
+            <TextLine id="r1l64" custom="readingOrder {index:2;} concept_phy {offset:7; length:14;} concept_phy {offset:45; length:11;}">
                 <Coords points="194,1769 1429,1773 1429,1736 1350,1723 194,1722"/>
                 <Baseline points="201,1760 262,1760 323,1759 384,1759 445,1759 506,1759 567,1760 628,1760 689,1760 750,1760 811,1761 872,1761 933,1762 994,1762 1055,1762 1116,1763 1177,1763 1238,1763 1299,1764 1360,1764 1422,1764"/>
                 <TextEquiv>
                     <Unicode>lichen Ordnungszahlen der in Frage stehenden Partialtöne</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l65" custom="readingOrder {index:3;} textStyle {offset:10; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l65" custom="readingOrder {index:3;} textStyle {offset:10; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:10; length:9;ID:P0001;}">
                 <Coords points="197,1828 1427,1827 1376,1787 1191,1778 876,1808 842,1778 798,1809 197,1786"/>
                 <Baseline points="204,1818 264,1819 325,1819 386,1820 447,1820 508,1821 568,1821 629,1821 690,1822 751,1822 812,1822 872,1823 933,1823 994,1823 1055,1823 1116,1824 1176,1824 1237,1824 1298,1824 1359,1823 1420,1823"/>
                 <TextEquiv>
                     <Unicode>entsteht. Helmholtz sagt: „Je stärker die beiden überein¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l66" custom="readingOrder {index:4;}">
+            <TextLine id="r1l66" custom="readingOrder {index:4;} concept_phy {offset:11; length:11;}">
                 <Coords points="190,1892 1428,1892 1428,1858 1352,1843 190,1853"/>
                 <Baseline points="198,1877 259,1878 320,1879 381,1879 442,1880 503,1880 564,1881 625,1881 686,1881 747,1881 809,1881 870,1881 931,1882 992,1882 1053,1882 1114,1882 1175,1882 1236,1882 1297,1883 1358,1883 1420,1883"/>
                 <TextEquiv>
                     <Unicode>stimmenden Partialtöne sind im Verhältniss zu den übrigen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l67" custom="readingOrder {index:5;}">
+            <TextLine id="r1l67" custom="readingOrder {index:5;} m_note {offset:0; length:12;} concept_mus {offset:36; length:10;} concept_mus {offset:47; length:6;}">
                 <Coords points="197,1948 1432,1955 1407,1916 1283,1898 197,1898"/>
                 <Baseline points="204,1937 265,1938 326,1938 387,1938 448,1939 509,1939 570,1939 631,1939 692,1940 753,1940 814,1940 875,1941 936,1941 997,1942 1058,1942 1119,1942 1180,1943 1241,1943 1302,1944 1363,1944 1424,1945"/>
                 <TextEquiv>
                     <Unicode>Partialtönen zweier im ersten Grade verwandter Klänge,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l68" custom="readingOrder {index:6;} textStyle {offset:6; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l68" custom="readingOrder {index:6;} textStyle {offset:6; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:22; length:14;}">
                 <Coords points="185,2004 1426,2012 1400,1963 185,1966"/>
                 <Baseline points="193,1997 254,1998 315,1998 376,1999 438,1999 499,2000 560,2000 621,2000 683,2000 744,2000 805,2001 866,2001 928,2001 989,2001 1050,2001 1111,2001 1173,2002 1234,2002 1295,2002 1356,2003 1418,2003"/>
                 <TextEquiv>
@@ -198,7 +198,7 @@ der Untersuchung begegnen.</Unicode>
                     <Unicode>früher angegebenen Grunde möchte ich aber auch hier von</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l70" custom="readingOrder {index:8;}">
+            <TextLine id="r1l70" custom="readingOrder {index:8;} concept_mus {offset:31; length:6;}">
                 <Coords points="188,2128 1415,2132 1416,2098 188,2086"/>
                 <Baseline points="195,2118 255,2118 316,2119 376,2119 437,2119 498,2120 558,2120 619,2120 679,2121 740,2121 801,2121 861,2121 922,2122 982,2122 1043,2122 1104,2122 1164,2122 1225,2123 1285,2123 1346,2123 1407,2124"/>
                 <TextEquiv>
@@ -212,7 +212,7 @@ der Untersuchung begegnen.</Unicode>
                     <Unicode>gegeben, dass die Frische des Eindruckes einen Einfluss auf</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l72" custom="readingOrder {index:10;}">
+            <TextLine id="r1l72" custom="readingOrder {index:10;} m_note {offset:37; length:4;} m_interval {offset:46; length:11;}">
                 <Coords points="191,2248 1440,2242 1384,2203 191,2204"/>
                 <Baseline points="198,2237 259,2237 321,2238 383,2238 444,2239 506,2239 568,2240 629,2240 691,2241 753,2241 815,2241 876,2242 938,2242 1000,2243 1061,2243 1123,2243 1185,2244 1246,2244 1308,2244 1370,2244 1432,2244"/>
                 <TextEquiv>

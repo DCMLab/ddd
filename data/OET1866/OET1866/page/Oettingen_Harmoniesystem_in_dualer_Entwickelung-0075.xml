@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:08.386+01:00</Created>
-        <LastChange>2021-05-27T08:04:38.215+02:00</LastChange>
-        <TranskribusMetadata docId="634080" pageId="24814328" pageNr="66" tsid="58372139" status="DONE" userId="76377" imgUrl="https://files.transkribus.eu/Get?id=ENMGWWVXMDRKCDOODTZUFTVV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XWUWKCGSCMQUFGXOKHXFRPRH" imageId="19135731"/>
+        <LastChange>2021-09-07T18:23:30.474+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121663" pageNr="66" tsid="64386734" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=URDJKCDKESWOJWQWLNOZFLTK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CGEXQCVJJRDZDGPPEQUINLTN" imageId="21905033"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0075.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624195866521" caption="Regions reading order">
+            <OrderedGroup id="ro_1631119942572" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1620849449658_1094"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1620849449658_1093"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1620849446210_1089"/>
@@ -34,7 +34,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1620849449658_1093" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="208,198 1446,198 1446,527 208,527"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:0; length:60;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:0; length:60;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:46; length:13;}">
                 <Coords points="212,275 1429,276 1443,228 212,240"/>
                 <Baseline points="219,267 279,266 340,265 401,265 462,264 523,264 584,264 644,263 705,263 766,263 827,263 888,263 949,263 1010,263 1070,263 1131,263 1192,263 1253,263 1314,263 1375,263 1436,263"/>
                 <TextEquiv>
@@ -79,7 +79,7 @@ porter sur ces matières une lumière plus grande.”</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1620849446210_1089" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="208,527 1446,527 1446,951 208,951"/>
-            <TextLine id="r1l7" custom="readingOrder {index:0;} textStyle {offset:35; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l7" custom="readingOrder {index:0;} textStyle {offset:35; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:35; length:10;ID:P0011;}">
                 <Coords points="313,587 1447,587 1447,545 1399,532 313,539"/>
                 <Baseline points="321,576 379,577 438,577 497,577 556,577 615,577 674,577 733,577 792,577 851,577 909,577 968,576 1027,576 1086,576 1145,575 1204,575 1263,575 1322,575 1381,575 1440,575"/>
                 <TextEquiv>
@@ -168,7 +168,7 @@ beschäftigen soll:</Unicode>
                     <Unicode>et d'autres qui s'en déduisent d'une manière plus éloignée et</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:4;} textStyle {offset:0; length:63;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l18" custom="readingOrder {index:4;} textStyle {offset:0; length:63;italic:true; fontSize:0.0; kerning:0;} concept_phy {offset:36; length:8;}">
                 <Coords points="205,1260 1450,1257 1450,1226 1275,1211 205,1226"/>
                 <Baseline points="213,1250 274,1251 335,1251 397,1252 458,1252 520,1252 581,1253 643,1253 704,1253 766,1254 827,1254 888,1254 950,1254 1011,1254 1073,1254 1134,1254 1196,1254 1257,1254 1319,1254 1380,1253 1442,1253"/>
                 <TextEquiv>
@@ -273,7 +273,7 @@ cipe parait laisser quelque chose à désirer.”</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1620849438146_1081" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
             <Coords points="208,1933 1446,1933 1446,2261 208,2261"/>
-            <TextLine id="r1l30" custom="readingOrder {index:0;}">
+            <TextLine id="r1l30" custom="readingOrder {index:0;} concept_mus {offset:27; length:7;} concept_mus {offset:39; length:5;}">
                 <Coords points="315,1991 1445,1994 1445,1942 1357,1969 316,1939"/>
                 <Baseline points="323,1980 378,1980 434,1980 490,1981 546,1981 601,1981 657,1982 713,1982 769,1982 824,1982 880,1983 936,1983 992,1983 1047,1983 1103,1983 1159,1984 1215,1984 1270,1984 1326,1984 1382,1984 1438,1985"/>
                 <TextEquiv>
@@ -301,7 +301,7 @@ cipe parait laisser quelque chose à désirer.”</Unicode>
                     <Unicode>sind es gerade diejenigen Momente, die im Gegensatz zu</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:4;} textStyle {offset:8; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l34" custom="readingOrder {index:4;} textStyle {offset:8; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:8; length:10;ID:P0011;} concept_mus {offset:31; length:18;}">
                 <Coords points="205,2228 1444,2235 1434,2180 1356,2209 1295,2179 205,2188"/>
                 <Baseline points="213,2219 274,2219 335,2219 396,2220 457,2220 519,2220 580,2221 641,2221 702,2221 763,2222 825,2222 886,2222 947,2222 1008,2223 1069,2223 1131,2223 1192,2224 1253,2224 1314,2225 1375,2226 1437,2226"/>
                 <TextEquiv>

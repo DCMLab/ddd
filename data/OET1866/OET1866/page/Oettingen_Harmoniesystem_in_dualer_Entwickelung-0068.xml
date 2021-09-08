@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:07.903+01:00</Created>
-        <LastChange>2021-05-21T11:41:47.658+02:00</LastChange>
-        <TranskribusMetadata docId="634080" pageId="24814321" pageNr="59" tsid="58181543" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=FYPGNASTKCKZLNZGCGJHBYVU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UCJAFYPQIRCJEUDWHVICRSEE" imageId="19135724"/>
+        <LastChange>2021-09-07T18:03:24.789+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121656" pageNr="59" tsid="64385171" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=TQINIRJTMDNLEZERNMHAZILK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RVNMMDWJXGRZTBXTEWAGTBJK" imageId="21905026"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0068.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624195864942" caption="Regions reading order">
+            <OrderedGroup id="ro_1631119941412" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1616619247644_2439"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1620847496661_199"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1620847496660_198"/>
@@ -35,35 +35,35 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1620847496661_199" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="64,197 1309,197 1309,586 64,586"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_phy {offset:40; length:6;}">
                 <Coords points="156,263 1278,284 1315,237 156,224"/>
                 <Baseline points="163,260 220,260 277,260 334,261 391,261 449,262 506,262 563,263 620,263 677,264 735,264 792,265 849,265 906,266 963,266 1021,266 1078,266 1135,266 1192,266 1249,266 1307,265"/>
                 <TextEquiv>
                     <Unicode>2. Im umgekehrten Falle, d. h. wenn der Zähler des hö¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:12; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_note {offset:6; length:5;} textStyle {offset:12; length:1;italic:true; fontSize:0.0; kerning:0;} concept_phy {offset:52; length:6;}">
                 <Coords points="58,332 1317,335 1317,300 1102,285 58,278"/>
                 <Baseline points="66,318 128,319 190,320 252,321 314,321 376,322 438,322 501,323 563,323 625,324 687,324 749,324 811,325 873,325 936,326 998,326 1060,327 1122,327 1184,328 1246,329 1309,330"/>
                 <TextEquiv>
                     <Unicode>heren Tones b, oder in der anderen Schreibweise der Nenner</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_phy {offset:27; length:6;} concept_phy {offset:57; length:10;}">
                 <Coords points="64,419 342,451 657,416 1306,436 1307,393 64,371"/>
                 <Baseline points="72,410 133,412 194,413 256,414 317,415 378,415 440,416 501,417 562,417 624,418 685,418 746,418 808,419 869,419 930,419 992,420 1053,420 1114,420 1176,421 1237,421 1299,422"/>
                 <TextEquiv>
                     <Unicode>des tieferen, $$MATH, eine Potenz von 2 ist, findet eine Coïncidenz</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:15; length:4;} m_note {offset:20; length:3;} m_note {offset:35; length:12;}">
                 <Coords points="56,508 973,524 1297,516 1318,481 56,465"/>
                 <Baseline points="64,497 126,498 188,498 250,499 313,500 375,500 437,501 499,501 562,502 624,502 686,503 748,503 811,504 873,504 935,504 997,504 1060,505 1122,505 1184,505 1246,505 1309,505"/>
                 <TextEquiv>
                     <Unicode>statt zwischen ton. Gr. und oberem Intervallton, und andererseits</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:22; length:3;} concept_phy {offset:26; length:3;} m_note {offset:43; length:12;}">
                 <Coords points="61,580 1306,579 1306,538 1242,522 62,530"/>
                 <Baseline points="69,558 130,559 192,559 253,560 315,560 376,561 438,561 499,561 561,561 622,562 684,562 745,562 807,563 868,563 930,564 991,564 1053,565 1114,565 1176,566 1237,567 1299,568"/>
                 <TextEquiv>
@@ -80,28 +80,28 @@ gleichzeitig zwischen ph. Ob. und tieferem Intervallton. Hierher</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1620847496660_198" custom="readingOrder {index:2;} structure {type:list;}">
             <Coords points="64,586 1309,586 1309,1079 64,1079"/>
-            <TextLine id="r1l7" custom="readingOrder {index:0;}">
+            <TextLine id="r1l7" custom="readingOrder {index:0;} m_interval {offset:21; length:6;}">
                 <Coords points="55,683 1035,680 1007,627 56,636"/>
                 <Baseline points="64,660 112,661 160,662 208,662 256,663 305,663 353,663 401,663 449,663 497,663 546,663 594,663 642,664 690,664 738,664 787,664 835,665 883,665 931,666 979,667 1028,669"/>
                 <TextEquiv>
                     <Unicode>gehören wiederum die Octave 1:2 = $$MATH,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1620847547288_222" custom="readingOrder {index:1;}">
+            <TextLine id="line_1620847547288_222" custom="readingOrder {index:1;} m_interval {offset:10; length:6;}">
                 <Coords points="280,785 337,804 862,790 894,820 1043,801 1032,752 716,747 667,767 544,739 514,759 448,739 422,763 281,745"/>
                 <Baseline points="287,782 316,782 345,783 375,783 404,783 434,783 463,783 493,783 522,784 552,784 581,784 610,784 640,784 669,784 699,784 728,784 758,784 787,784 817,784 846,784 876,783 893,807 921,806 949,808 977,810 1005,810 1034,806"/>
                 <TextEquiv>
                     <Unicode>dann: die Quarte 3:4 = $$MATH,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1620847552744_230" custom="readingOrder {index:2;}">
+            <TextLine id="line_1620847552744_230" custom="readingOrder {index:2;} m_interval {offset:4; length:12;}">
                 <Coords points="317,915 504,924 691,893 713,916 867,910 896,940 949,914 985,940 1037,924 1037,885 782,859 318,868"/>
                 <Baseline points="325,900 356,901 388,902 420,902 452,903 484,903 516,903 548,903 580,903 612,903 644,903 675,903 707,903 739,903 771,903 803,904 835,905 867,906 899,907 931,909 963,910 963,922 996,924 1029,920"/>
                 <TextEquiv>
                     <Unicode>die kleine Sexte 5:8 = $$MATH,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1620847557069_236" custom="readingOrder {index:3;}">
+            <TextLine id="line_1620847557069_236" custom="readingOrder {index:3;} m_interval {offset:4; length:14;}">
                 <Coords points="229,1043 843,1026 878,1059 987,1060 1047,1026 1248,1027 1223,995 230,984"/>
                 <Baseline points="237,1024 267,1023 298,1023 329,1022 360,1022 391,1022 421,1022 452,1022 483,1022 514,1022 545,1022 575,1022 606,1022 637,1022 668,1022 699,1022 729,1022 760,1021 791,1021 822,1020 853,1019 882,1044 907,1043 933,1042 958,1040 984,1038 1009,1036 1035,1034 1061,1031 1086,1029 1112,1027 1137,1025 1163,1024 1188,1023 1214,1023 1240,1023"/>
                 <TextEquiv>
@@ -117,42 +117,42 @@ der grosse Halbton 15:16 = $$MATH. u. s. w.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1616619240025_2434" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="64,1079 1309,1079 1309,1448 64,1448"/>
-            <TextLine id="r1l14" custom="readingOrder {index:0;}">
+            <TextLine id="r1l14" custom="readingOrder {index:0;} m_interval {offset:14; length:11;} m_interval {offset:47; length:7;}">
                 <Coords points="157,1137 1300,1147 1300,1102 1160,1083 157,1084"/>
                 <Baseline points="165,1124 221,1124 277,1124 334,1124 390,1124 446,1124 503,1124 559,1124 615,1125 672,1125 728,1125 784,1125 841,1125 897,1125 953,1125 1010,1125 1066,1126 1122,1126 1179,1126 1235,1126 1292,1125"/>
                 <TextEquiv>
                     <Unicode>In all diesen Intervallen, wird die Anzahl von Octaven,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:1;}">
+            <TextLine id="r1l15" custom="readingOrder {index:1;} m_note {offset:29; length:4;}">
                 <Coords points="57,1188 1290,1196 1309,1149 57,1156"/>
                 <Baseline points="65,1184 126,1184 188,1184 250,1184 312,1184 374,1184 435,1184 497,1184 559,1185 621,1185 683,1185 744,1185 806,1185 868,1185 930,1186 992,1185 1053,1185 1115,1185 1177,1185 1239,1184 1301,1184"/>
                 <TextEquiv>
                     <Unicode>um welche die entsprechenden Töne von einander entfernt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:2;}">
+            <TextLine id="r1l16" custom="readingOrder {index:2;} concept_phy {offset:16; length:10;} concept_phy {offset:31; length:6;}">
                 <Coords points="58,1249 1298,1252 1280,1203 58,1213"/>
                 <Baseline points="66,1243 127,1243 188,1243 249,1243 310,1243 372,1243 433,1244 494,1244 555,1244 616,1244 678,1244 739,1245 800,1245 861,1245 922,1245 984,1245 1045,1245 1106,1245 1167,1245 1228,1244 1290,1244"/>
                 <TextEquiv>
                     <Unicode>sind, durch den Exponenten der Potenz von 2 bestimmt.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:3;} textStyle {offset:40; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r1l17" custom="readingOrder {index:3;} concept_mus {offset:10; length:4;} m_note {offset:15; length:3;} m_interval {offset:23; length:13;} textStyle {offset:40; length:1;fontSize:0.0; kerning:0; superscript:true;} m_interval {offset:50; length:7;}">
                 <Coords points="64,1315 1305,1315 1305,1277 1163,1258 64,1276"/>
                 <Baseline points="72,1303 133,1303 194,1304 255,1304 317,1304 378,1304 439,1304 501,1304 562,1304 623,1304 685,1304 746,1304 807,1304 868,1304 930,1304 991,1304 1052,1304 1114,1304 1175,1304 1236,1303 1298,1303"/>
                 <TextEquiv>
                     <Unicode>z. B. der ton. Gr. der kleinen Sexte 5:23 liegt 3 Octaven</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:4;}">
+            <TextLine id="r1l18" custom="readingOrder {index:4;} concept_mus {offset:20; length:3;} concept_phy {offset:24; length:3;} m_note {offset:52; length:3; continued:true;}">
                 <Coords points="58,1369 1299,1364 1256,1324 58,1335"/>
                 <Baseline points="66,1360 127,1361 188,1362 249,1362 311,1363 372,1363 433,1363 494,1364 556,1364 617,1364 678,1364 739,1364 801,1364 862,1364 923,1364 984,1364 1046,1363 1107,1363 1168,1363 1229,1362 1291,1362"/>
                 <TextEquiv>
                     <Unicode>vom oberen, und der ph. Ob. eben soweit vom unteren In¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:5;}">
+            <TextLine id="r1l19" custom="readingOrder {index:5;} m_note {offset:0; length:11; continued:true;}">
                 <Coords points="61,1436 248,1436 287,1422 304,1436 465,1435 465,1396 394,1397 374,1379 335,1395 232,1397 192,1380 151,1395 61,1389"/>
                 <Baseline points="69,1422 94,1423 120,1423 146,1423 172,1423 198,1423 224,1423 250,1423 275,1422 301,1422 327,1422 353,1422 379,1422 405,1422 431,1423 457,1424"/>
                 <TextEquiv>
@@ -177,21 +177,21 @@ tervalltone entfernt.</Unicode>
                     <Unicode>Wenn die soeben vorausgesetzte Beziehung in den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:1;}">
+            <TextLine id="r1l21" custom="readingOrder {index:1;} concept_phy {offset:0; length:24;}">
                 <Coords points="62,1570 1308,1567 1308,1528 1258,1516 906,1544 62,1517"/>
                 <Baseline points="70,1557 131,1557 193,1558 254,1558 316,1558 377,1558 439,1558 500,1559 562,1559 623,1559 685,1559 746,1559 808,1559 869,1559 931,1559 992,1559 1054,1559 1115,1558 1177,1558 1238,1557 1300,1556"/>
                 <TextEquiv>
                     <Unicode>Schwingungsverhältnissen nicht statt hat, so stimmen weder</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:2;}">
+            <TextLine id="r1l22" custom="readingOrder {index:2;} concept_mus {offset:0; length:4;} m_note {offset:5; length:3;} concept_mus {offset:14; length:3;} concept_phy {offset:18; length:3;} concept_mus {offset:43; length:12; continued:true;}">
                 <Coords points="63,1627 1310,1614 1248,1580 147,1607 63,1579"/>
                 <Baseline points="70,1619 131,1619 193,1619 254,1619 316,1619 378,1619 439,1619 501,1619 562,1619 624,1619 686,1619 747,1619 809,1619 870,1619 932,1619 994,1618 1055,1618 1117,1617 1178,1617 1240,1616 1302,1615"/>
                 <TextEquiv>
                     <Unicode>ton. Gr. noch ph. Ob. mit irgend einem der Intervallbe¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:3;}">
+            <TextLine id="r1l23" custom="readingOrder {index:3;} concept_mus {offset:0; length:11; continued:true;}">
                 <Coords points="62,1692 245,1700 291,1681 311,1700 459,1692 459,1653 423,1636 401,1650 303,1642 288,1658 239,1636 216,1651 197,1636 152,1636 137,1651 62,1649"/>
                 <Baseline points="69,1676 94,1677 119,1678 145,1678 170,1678 196,1679 221,1679 247,1679 272,1678 298,1678 323,1678 349,1678 374,1678 400,1678 425,1678 451,1678"/>
                 <TextEquiv>
@@ -207,28 +207,28 @@ standtheile überein.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1616619231019_2426" custom="readingOrder {index:5;} structure {type:paragraph-continued;}">
             <Coords points="64,1707 1309,1707 1309,2254 64,2254"/>
-            <TextLine id="r1l24" custom="readingOrder {index:0;} textStyle {offset:49; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l24" custom="readingOrder {index:0;} concept_phy {offset:31; length:17;} textStyle {offset:49; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="157,1771 488,1745 632,1779 1301,1771 1301,1718 157,1723"/>
                 <Baseline points="164,1755 220,1755 276,1755 333,1755 389,1755 446,1755 502,1755 559,1755 615,1755 672,1755 728,1755 784,1755 841,1755 897,1755 954,1755 1010,1755 1067,1755 1123,1755 1180,1755 1236,1756 1293,1756"/>
                 <TextEquiv>
                     <Unicode>3. Setzen wir voraus, dass die Schwingungszahlen a</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1620847566617_256" custom="readingOrder {index:1;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="line_1620847566617_256" custom="readingOrder {index:1;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} concept_phy {offset:14; length:8;}">
                 <Coords points="66,1828 1281,1834 1306,1780 66,1788"/>
                 <Baseline points="74,1815 109,1816 144,1815 173,1814 229,1815 285,1815 341,1815 398,1816 454,1816 510,1816 566,1816 623,1816 679,1816 735,1815 791,1815 848,1815 904,1815 960,1815 1016,1815 1073,1815 1129,1815 1185,1815 1241,1815 1298,1815"/>
                 <TextEquiv>
                     <Unicode>und b nur die Faktoren 2, 3 oder 5 enthalten, so folgt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:2;} textStyle {offset:40; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:46; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l27" custom="readingOrder {index:2;} m_interval {offset:18; length:11;} textStyle {offset:40; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:46; length:1;italic:true; fontSize:0.0; kerning:0;} concept_phy {offset:52; length:8;}">
                 <Coords points="63,1891 1308,1883 1308,1844 1206,1835 63,1836"/>
                 <Baseline points="71,1873 132,1874 193,1874 255,1875 316,1875 378,1876 439,1876 501,1876 562,1876 624,1876 685,1876 746,1876 808,1875 869,1875 931,1875 992,1874 1054,1874 1115,1874 1177,1873 1238,1873 1300,1872"/>
                 <TextEquiv>
                     <Unicode>ferner: Bei allen Intervallen, in denen a und b die Faktoren</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:3;}">
+            <TextLine id="r1l28" custom="readingOrder {index:3;} m_note {offset:51; length:4;}">
                 <Coords points="69,1947 1308,1942 1308,1903 1231,1890 832,1924 734,1891 69,1894"/>
                 <Baseline points="77,1930 138,1932 199,1932 260,1933 321,1934 383,1935 444,1935 505,1935 566,1936 627,1936 689,1935 750,1935 811,1935 872,1935 933,1935 995,1934 1056,1934 1117,1934 1178,1933 1239,1933 1301,1933"/>
                 <TextEquiv>
@@ -242,28 +242,28 @@ standtheile überein.</Unicode>
                     <Unicode>alle beide oder einen derselben zwei oder mehrmal, kann das</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:5;} textStyle {offset:8; length:2;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l30" custom="readingOrder {index:5;} concept_phy {offset:0; length:7;} textStyle {offset:8; length:2;italic:true; fontSize:0.0; kerning:0;} concept_phy {offset:20; length:6;} concept_phy {offset:33; length:12;} concept_phy {offset:54; length:7;}">
                 <Coords points="67,2068 1308,2062 1308,2022 1235,2011 67,2011"/>
                 <Baseline points="75,2053 136,2054 197,2055 258,2055 320,2055 381,2055 442,2055 504,2055 565,2055 626,2055 688,2054 749,2054 810,2053 871,2053 933,2053 994,2052 1055,2052 1117,2052 1178,2053 1239,2053 1301,2054"/>
                 <TextEquiv>
                     <Unicode>Product ab nur eine Potenz von 2 multiplicirt mit dem Product</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:6;} textStyle {offset:26; length:25;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l31" custom="readingOrder {index:6;} textStyle {offset:26; length:25;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:30; length:8;} m_note {offset:39; length:8;}">
                 <Coords points="70,2123 1302,2115 1143,2075 622,2103 70,2076"/>
                 <Baseline points="78,2114 138,2114 199,2114 260,2114 321,2114 382,2114 442,2114 503,2114 564,2114 625,2114 686,2114 746,2114 807,2114 868,2114 929,2113 990,2113 1050,2113 1111,2112 1172,2112 1233,2111 1294,2110"/>
                 <TextEquiv>
                     <Unicode>$$MATH enthalten. — d. h. Der tonische Grundton er¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:7;} textStyle {offset:0; length:48;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l32" custom="readingOrder {index:7;} textStyle {offset:0; length:48;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:10; length:9;} m_chord {offset:24; length:12;} concept_mus {offset:42; length:6; continued:true;}">
                 <Coords points="62,2185 1160,2194 1303,2142 62,2157"/>
                 <Baseline points="70,2180 131,2178 192,2178 253,2177 315,2176 376,2176 437,2175 499,2175 560,2175 621,2174 683,2174 744,2174 805,2174 866,2173 928,2173 989,2172 1050,2172 1112,2171 1173,2171 1234,2170 1296,2169"/>
                 <TextEquiv>
                     <Unicode>gänzt das Intervall zum Durdreiklang, der phoni¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:8;} textStyle {offset:0; length:30;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l33" custom="readingOrder {index:8;} textStyle {offset:0; length:30;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:4; continued:true;} concept_phy {offset:5; length:7;} m_chord {offset:17; length:13;}">
                 <Coords points="66,2249 1303,2244 1265,2187 66,2208"/>
                 <Baseline points="74,2238 135,2238 196,2238 257,2238 318,2238 379,2238 440,2237 501,2237 562,2237 623,2236 684,2236 745,2235 806,2235 867,2234 928,2234 989,2233 1050,2233 1111,2232 1172,2231 1233,2230 1294,2230"/>
                 <TextEquiv>

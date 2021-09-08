@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:08.452+01:00</Created>
-        <LastChange>2021-05-22T11:17:25.071+02:00</LastChange>
-        <TranskribusMetadata docId="634080" pageId="24814329" pageNr="67" tsid="58218817" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=OUHMQALUGWAIPUFXXZPHMKMO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RFBSNFTLXGSRVXZNPFKZXVWN" imageId="19135732"/>
+        <LastChange>2021-09-07T18:25:54.207+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121664" pageNr="67" tsid="64386924" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=JQPEOZEKXSUNAXXVZSMNPWAT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SJIMVLYTJGUNCHWLYYHPXKXT" imageId="21905034"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0076.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624195866672" caption="Regions reading order">
+            <OrderedGroup id="ro_1631119942686" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1620849526360_1164"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1620849526359_1163"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1620849524063_1159"/>
@@ -32,7 +32,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1620849526359_1163" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="45,186 1300,186 1300,328 45,328"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:14; length:10;}">
                 <Coords points="50,259 1279,267 1298,233 50,211"/>
                 <Baseline points="58,249 119,249 181,250 242,250 304,251 365,251 427,252 488,252 550,253 611,253 673,254 735,254 796,254 858,255 919,255 981,255 1042,255 1104,256 1165,256 1227,256 1289,256"/>
                 <TextEquiv>
@@ -53,21 +53,21 @@ telbar weiter heisst es:</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1620849524063_1159" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="45,328 1300,328 1300,876 45,876"/>
-            <TextLine id="r1l4" custom="readingOrder {index:0;} textStyle {offset:1; length:57;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l4" custom="readingOrder {index:0;} textStyle {offset:1; length:57;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:35; length:10;}">
                 <Coords points="153,395 1298,385 1271,331 154,353"/>
                 <Baseline points="161,373 217,372 273,372 330,372 386,371 443,372 499,372 556,372 612,372 669,372 725,373 781,373 838,373 894,374 951,374 1007,374 1064,374 1120,374 1177,375 1233,374 1290,374"/>
                 <TextEquiv>
                     <Unicode>„Telle est, par exemple, la marche diatonique de l’échelle</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:1;} textStyle {offset:0; length:3;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:3; length:25;italic:true; fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:28; length:26;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l5" custom="readingOrder {index:1;} textStyle {offset:0; length:3;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:3; length:25;italic:true; fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:3; length:11;} textStyle {offset:28; length:26;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:46; length:8;}">
                 <Coords points="48,443 1308,438 1297,395 1109,387 48,394"/>
                 <Baseline points="56,432 118,431 180,431 242,431 304,431 367,431 429,431 491,431 553,431 615,431 678,432 740,432 802,432 864,432 926,432 989,433 1051,433 1113,433 1175,432 1237,432 1300,432"/>
                 <TextEquiv>
                     <Unicode>du mode mineur en descendant; la formation de l'accord</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:2;} textStyle {offset:0; length:20;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:20; length:25;italic:true; fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:45; length:10;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l6" custom="readingOrder {index:2;} textStyle {offset:0; length:20;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:20; length:25;italic:true; fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:20; length:25;} textStyle {offset:45; length:10;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="50,512 1293,499 1281,451 51,459"/>
                 <Baseline points="58,490 119,490 180,490 242,490 303,490 365,490 426,490 487,490 549,491 610,491 672,491 733,491 794,492 856,492 917,492 979,492 1040,492 1101,492 1163,492 1224,492 1286,491"/>
                 <TextEquiv>
@@ -95,7 +95,7 @@ telbar weiter heisst es:</Unicode>
                     <Unicode>.... On parviendra peut-être par de nouvelles recherches à</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:6;} textStyle {offset:0; length:45;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:45; length:12;italic:true; fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l10" custom="readingOrder {index:6;} textStyle {offset:0; length:45;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:45; length:12;italic:true; fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:45; length:10;}">
                 <Coords points="40,740 1289,740 1302,699 40,702"/>
                 <Baseline points="48,731 110,730 172,730 234,729 297,729 359,729 421,728 484,728 546,728 608,728 671,728 733,728 795,728 857,728 920,728 982,728 1044,728 1107,728 1169,728 1231,728 1294,728"/>
                 <TextEquiv>

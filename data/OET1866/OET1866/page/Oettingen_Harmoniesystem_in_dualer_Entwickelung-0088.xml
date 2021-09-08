@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:09.113+01:00</Created>
-        <LastChange>2021-05-22T12:44:38.387+02:00</LastChange>
-        <TranskribusMetadata docId="634080" pageId="24814341" pageNr="79" tsid="58221718" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=QDOUKGBLDALCVJYWZQPCBEZA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IPZJLMEVYBMKIGMCIIGFBZEG" imageId="19135744"/>
+        <LastChange>2021-09-08T09:54:53.974+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121676" pageNr="79" tsid="64401307" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=VJPVCOQVULBUSPVPEJALFXSQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ISZSHNQIYOVLTFVDQOSMSZXE" imageId="21905046"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0088.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624195868781" caption="Regions reading order">
+            <OrderedGroup id="ro_1631119944293" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1621067586766_850"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1621067575347_845"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1621067568946_841"/>
@@ -35,21 +35,21 @@ Transkribus</Creator>
         </GraphicRegion>
         <TextRegion orientation="0.0" id="TextRegion_1621067575347_845" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
             <Coords points="57,827 1290,827 1290,1914 57,1914"/>
-            <TextLine id="r1l13" custom="readingOrder {index:0;}">
+            <TextLine id="r1l13" custom="readingOrder {index:0;} m_note {offset:22; length:4;}">
                 <Coords points="52,883 1280,883 1256,836 52,828"/>
                 <Baseline points="59,869 119,869 180,869 241,869 301,869 362,869 423,870 483,870 544,871 605,871 666,871 726,872 787,872 848,873 908,873 969,873 1030,873 1090,873 1151,874 1212,874 1273,874"/>
                 <TextEquiv>
                     <Unicode>im Uebrigen sind alle Töne einander ganz gleich. Beide</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:1;}">
+            <TextLine id="r1l14" custom="readingOrder {index:1;} m_tonality {offset:0; length:7;}">
                 <Coords points="57,940 1285,942 1247,890 1033,921 939,890 57,891"/>
                 <Baseline points="65,930 125,929 186,929 246,929 307,929 368,929 428,929 489,929 549,929 610,930 671,930 731,931 792,931 852,932 913,932 974,932 1034,933 1095,933 1155,933 1216,933 1277,933"/>
                 <TextEquiv>
                     <Unicode>Leitern erscheinen schon durch die Leichtigkeit, mit der sie</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:2;}">
+            <TextLine id="r1l15" custom="readingOrder {index:2;} concept_mus {offset:0; length:8;}">
                 <Coords points="57,1004 1273,1004 1251,963 1002,947 770,977 57,947"/>
                 <Baseline points="64,987 124,987 184,988 244,989 304,989 364,990 424,990 484,990 544,991 604,991 664,991 724,991 784,991 844,991 904,991 964,991 1024,991 1084,991 1144,991 1204,991 1265,991"/>
                 <TextEquiv>
@@ -63,14 +63,14 @@ Transkribus</Creator>
                     <Unicode>mittelbarsten verständlich, die erstere aber leichter aufsteigend,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:4;}">
+            <TextLine id="r1l17" custom="readingOrder {index:4;} concept_mus {offset:29; length:8;} m_tonality {offset:38; length:6;}">
                 <Coords points="57,1115 1282,1123 1238,1067 565,1067 534,1097 57,1068"/>
                 <Baseline points="65,1106 125,1107 185,1107 246,1108 306,1108 367,1109 427,1109 488,1109 548,1109 609,1109 669,1109 729,1110 790,1110 850,1110 911,1110 971,1110 1032,1110 1092,1110 1153,1111 1213,1111 1274,1112"/>
                 <TextEquiv>
                     <Unicode>die letztere absteigend. Die tonische Leiter ist zwar in der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:5;}">
+            <TextLine id="r1l18" custom="readingOrder {index:5;} concept_mus {offset:0; length:14;}">
                 <Coords points="51,1181 1271,1194 1287,1152 51,1130"/>
                 <Baseline points="58,1167 119,1167 180,1168 241,1169 302,1169 363,1169 424,1170 485,1170 546,1170 607,1170 668,1170 729,1170 790,1170 851,1170 912,1170 973,1170 1034,1170 1095,1170 1156,1170 1217,1171 1279,1172"/>
                 <TextEquiv>
@@ -84,14 +84,14 @@ Transkribus</Creator>
                     <Unicode>meinem Gefühle nach, sie auch unmittelbar absteigend leicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:7;}">
+            <TextLine id="r1l20" custom="readingOrder {index:7;} concept_mus {offset:0; length:8;} concept_mus {offset:56; length:6; continued:true;}">
                 <Coords points="60,1300 1280,1291 1205,1251 60,1250"/>
                 <Baseline points="67,1287 127,1287 187,1287 247,1287 308,1287 368,1287 428,1287 488,1288 549,1288 609,1288 669,1288 729,1288 790,1289 850,1289 910,1289 970,1289 1031,1289 1091,1289 1151,1289 1211,1289 1272,1289"/>
                 <TextEquiv>
                     <Unicode>intonirt wird. Anders mit jener, die, wenn vorher keine Caden¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:8;}">
+            <TextLine id="r1l21" custom="readingOrder {index:8;} concept_mus {offset:0; length:3; continued:true;} concept_mus {offset:54; length:6;}">
                 <Coords points="57,1357 1282,1362 1238,1307 57,1321"/>
                 <Baseline points="64,1348 124,1347 185,1347 245,1347 306,1347 366,1347 427,1347 487,1348 548,1348 608,1348 669,1348 729,1348 790,1348 850,1348 911,1348 971,1349 1032,1349 1092,1349 1153,1349 1213,1349 1274,1348"/>
                 <TextEquiv>
@@ -105,49 +105,49 @@ Transkribus</Creator>
                     <Unicode>vorgeführt haben, schwieriger zu treffen ist. Man versuche nur,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:10;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l23" custom="readingOrder {index:10;} m_tonality {offset:16; length:15;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:56; length:3;}">
                 <Coords points="60,1483 1290,1491 1240,1436 60,1444"/>
                 <Baseline points="68,1475 128,1475 189,1475 250,1475 311,1475 371,1475 432,1475 493,1475 554,1475 614,1475 675,1475 736,1476 797,1476 857,1476 918,1476 979,1476 1040,1476 1100,1476 1161,1476 1222,1477 1283,1477"/>
                 <TextEquiv>
                     <Unicode>nachdem man die phon.-e} Leiter gesungen, einen anderen Ton</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:11;} textStyle {offset:43; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l24" custom="readingOrder {index:11;} concept_mus {offset:4; length:7;} textStyle {offset:43; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="60,1547 1196,1555 1283,1547 1283,1491 60,1506"/>
                 <Baseline points="68,1537 128,1536 188,1536 249,1536 309,1536 370,1536 430,1536 490,1535 551,1535 611,1535 672,1535 732,1535 792,1535 853,1535 913,1535 974,1535 1034,1535 1094,1535 1155,1535 1215,1535 1276,1535"/>
                 <TextEquiv>
                     <Unicode>als Phonica anzunehmen, und von diesem aus aufsteigend</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:12;}">
+            <TextLine id="r1l25" custom="readingOrder {index:12;} m_tonality {offset:4; length:12;} concept_mus {offset:20; length:9;}">
                 <Coords points="59,1605 1282,1596 1247,1555 59,1559"/>
                 <Baseline points="66,1593 126,1594 186,1595 247,1596 307,1596 368,1596 428,1596 488,1596 549,1596 609,1596 670,1595 730,1595 790,1594 851,1594 911,1593 972,1593 1032,1593 1092,1593 1153,1593 1213,1593 1274,1594"/>
                 <TextEquiv>
                     <Unicode>die phon. Leiter zu intoniren, und man wird deutlich eine Un¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:13;}">
+            <TextLine id="r1l26" custom="readingOrder {index:13;} concept_mus {offset:21; length:8;}">
                 <Coords points="55,1665 1257,1668 1289,1627 55,1628"/>
                 <Baseline points="63,1654 123,1655 184,1655 245,1655 306,1655 367,1655 428,1655 489,1655 550,1655 611,1655 672,1655 732,1655 793,1655 854,1655 915,1655 976,1655 1037,1655 1098,1655 1159,1655 1220,1655 1281,1655"/>
                 <TextEquiv>
                     <Unicode>sicherheit bei jedem Schritte merken. Anders abwärts. Die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:14;} textStyle {offset:59; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r1l27" custom="readingOrder {index:14;} concept_mus {offset:0; length:10;} concept_mus {offset:47; length:7;} textStyle {offset:59; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="54,1721 1280,1731 1280,1676 54,1677"/>
                 <Baseline points="61,1715 121,1715 182,1714 242,1714 303,1714 364,1714 424,1714 485,1714 545,1714 606,1714 667,1715 727,1715 788,1715 848,1715 909,1715 970,1714 1030,1714 1091,1714 1151,1713 1212,1712 1273,1711"/>
                 <TextEquiv>
                     <Unicode>Intonation gelingt leicht und sicher von jeder Phonica aus 1).</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:15;}">
+            <TextLine id="r1l28" custom="readingOrder {index:15;} concept_mus {offset:33; length:10;}">
                 <Coords points="57,1787 1279,1788 1279,1745 1204,1730 1031,1759 57,1731"/>
                 <Baseline points="64,1776 124,1775 184,1775 245,1775 305,1774 366,1774 426,1774 486,1774 547,1774 607,1774 668,1774 728,1775 788,1775 849,1774 909,1774 970,1774 1030,1774 1090,1773 1151,1773 1211,1772 1272,1771"/>
                 <TextEquiv>
                     <Unicode>Erst bei einiger Uebung wird die Intonation der aufstei¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:16;}">
+            <TextLine id="r1l29" custom="readingOrder {index:16;} m_tonality {offset:7; length:17;}">
                 <Coords points="55,1853 1282,1852 1282,1806 55,1808"/>
                 <Baseline points="63,1835 123,1836 184,1836 244,1836 305,1836 365,1836 426,1836 486,1836 547,1835 607,1835 668,1835 729,1835 789,1835 850,1834 910,1834 971,1834 1031,1834 1092,1834 1152,1834 1213,1835 1274,1835"/>
                 <TextEquiv>
@@ -183,35 +183,35 @@ genden phonischen Leiter ebenso leicht und sicher gelingen,</Unicode>
                     <Unicode>1) Anderweitige in hohem Grade interessante Bemerkungen über den ab¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:1;}">
+            <TextLine id="r1l32" custom="readingOrder {index:1;} concept_mus {offset:25; length:10;} m_tonality {offset:36; length:11;}">
                 <Coords points="64,2019 1295,2020 1295,1986 1226,1979 64,1987"/>
                 <Baseline points="71,2010 131,2011 192,2011 253,2011 314,2012 375,2012 435,2011 496,2011 557,2011 618,2011 679,2011 739,2010 800,2010 861,2010 922,2009 983,2009 1043,2009 1104,2009 1165,2009 1226,2010 1287,2010"/>
                 <TextEquiv>
                     <Unicode>steigenden Character des phonischen Dreiklanges, die uns hier zu weit führen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:2;} textStyle {offset:69; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l33" custom="readingOrder {index:2;} person_author {offset:63; length:12;ID:P0156;} textStyle {offset:69; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="67,2067 1266,2066 1298,2020 67,2027"/>
                 <Baseline points="75,2053 135,2053 196,2054 257,2054 318,2054 378,2054 439,2054 500,2054 561,2054 621,2053 682,2053 743,2053 804,2053 864,2053 925,2053 986,2053 1047,2053 1107,2053 1168,2053 1229,2054 1290,2054"/>
                 <TextEquiv>
                     <Unicode>würden, findet man in dem werthvollen, umfangreichen Werke von C. L. Merkel</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:3;} textStyle {offset:52; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l34" custom="readingOrder {index:3;} work_text {offset:1; length:36;ID:W0202;} location {offset:39; length:7;} textStyle {offset:52; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} time {offset:65; length:4;}">
                 <Coords points="61,2108 1257,2116 1286,2060 61,2083"/>
                 <Baseline points="69,2098 129,2097 189,2097 250,2097 310,2096 371,2096 431,2096 492,2095 552,2095 613,2095 673,2095 733,2095 794,2095 854,2095 915,2095 975,2095 1036,2096 1096,2096 1157,2096 1217,2097 1278,2097"/>
                 <TextEquiv>
                     <Unicode>„Physiologie der menschlichen Sprache” Leipzig, bei Otto Wiegand 1866. pag.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:4;}">
+            <TextLine id="r1l35" custom="readingOrder {index:4;} person_author {offset:46; length:9;ID:P0156;}">
                 <Coords points="67,2148 1292,2154 1279,2107 67,2108"/>
                 <Baseline points="74,2139 134,2139 195,2139 255,2139 316,2139 376,2139 437,2139 497,2139 558,2139 618,2139 679,2139 739,2139 800,2139 860,2139 921,2139 981,2139 1042,2138 1102,2138 1163,2137 1223,2136 1284,2135"/>
                 <TextEquiv>
                     <Unicode>356 und 370. In letzter Stelle verspricht der Verfasser, auf das „Naturgesetz”,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:5;}">
+            <TextLine id="r1l36" custom="readingOrder {index:5;} m_interval {offset:11; length:8;}">
                 <Coords points="68,2195 1293,2187 1267,2147 68,2148"/>
                 <Baseline points="75,2183 135,2183 196,2183 256,2182 317,2182 377,2182 438,2182 498,2182 559,2182 619,2182 680,2182 740,2182 801,2182 861,2182 922,2182 982,2181 1043,2181 1103,2181 1164,2181 1224,2181 1285,2180"/>
                 <TextEquiv>

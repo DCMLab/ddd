@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:03.901+01:00</Created>
-        <LastChange>2021-05-19T20:22:59.602+02:00</LastChange>
-        <TranskribusMetadata docId="634080" pageId="24814267" pageNr="5" tsid="58099984" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ZXRRQDJZANEKMDJLZSSHGBDM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AOHHWIBPCSTNNNOELYNANGAQ" imageId="19135670"/>
+        <LastChange>2021-09-07T11:06:14.848+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121602" pageNr="5" tsid="64356555" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=BKKTPQWBNQMTABKTZDCOPJXJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AQDOGNZZUHAOHQZQVBJATKGH" imageId="21904972"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0014.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624195856139" caption="Regions reading order">
+            <OrderedGroup id="ro_1631119932298" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1616239001398_503"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1616239001398_502"/>
             </OrderedGroup>
@@ -31,7 +31,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1616239001398_502" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="47,156 1298,156 1298,1368 47,1368"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:0; length:40;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:0; length:40;italic:true; fontSize:0.0; kerning:0;} location {offset:21; length:18;}">
                 <Coords points="61,259 1300,251 1261,203 61,214"/>
                 <Baseline points="69,245 130,246 191,247 252,247 313,248 374,248 435,248 497,248 558,248 619,248 680,248 741,247 802,247 863,247 925,247 986,247 1047,247 1108,247 1169,247 1230,247 1292,248"/>
                 <TextEquiv>
@@ -73,7 +73,7 @@ Transkribus</Creator>
                     <Unicode>Sache nimmermehr schaden, wenn, wie ich vermuthen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_mus {offset:16; length:7;}">
                 <Coords points="66,717 1273,717 1304,673 66,675"/>
                 <Baseline points="74,705 135,705 196,705 257,705 318,705 379,705 440,705 502,705 563,705 624,705 685,705 746,706 807,706 868,706 930,706 991,706 1052,706 1113,706 1174,706 1235,705 1297,705"/>
                 <TextEquiv>
@@ -101,14 +101,14 @@ Transkribus</Creator>
                     <Unicode>Zeugniss mehr für die Wahrheit gewonnen werden.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:10;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l12" custom="readingOrder {index:10;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} location {offset:0; length:6;} time {offset:11; length:9;}">
                 <Coords points="142,1072 267,1091 687,1083 706,1072 706,1035 479,1027 426,1044 393,1027 369,1051 340,1035 215,1043 200,1027 142,1040"/>
                 <Baseline points="149,1069 176,1070 204,1071 231,1071 259,1072 286,1072 314,1073 341,1073 369,1072 396,1072 424,1072 451,1072 479,1072 506,1071 534,1071 561,1071 589,1071 616,1071 644,1071 671,1071 699,1072"/>
                 <TextEquiv>
                     <Unicode>Dorpat, im Juli 1866.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:11;} textStyle {offset:0; length:15;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l13" custom="readingOrder {index:11;} textStyle {offset:0; length:15;italic:true; fontSize:0.0; kerning:0;} person_author {offset:0; length:15;ID:P0018;}">
                 <Coords points="832,1239 892,1244 913,1232 925,1244 958,1244 981,1232 994,1244 1097,1244 1111,1258 1136,1244 1201,1241 1201,1212 1186,1204 1109,1202 1095,1188 1053,1188 1041,1201 997,1188 986,1199 922,1199 910,1211 874,1188 832,1213"/>
                 <Baseline points="839,1235 864,1234 889,1233 914,1233 940,1233 965,1233 990,1233 1016,1233 1041,1233 1066,1234 1091,1234 1117,1234 1142,1234 1167,1234 1193,1234"/>
                 <TextEquiv>

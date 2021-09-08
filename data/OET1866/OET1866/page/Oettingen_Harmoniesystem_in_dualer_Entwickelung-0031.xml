@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:05.374+01:00</Created>
-        <LastChange>2021-05-29T22:28:33.157+02:00</LastChange>
-        <TranskribusMetadata docId="634080" pageId="24814284" pageNr="22" tsid="58442904" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=QKDYQUKGNXOSSZZUEDQFRZBM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UOUWGGVRKCBNXNYJOXFPCAGV" imageId="19135687"/>
+        <LastChange>2021-09-07T12:38:29.027+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121619" pageNr="22" tsid="64360330" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=TELPIZGXSFUZBOHWUHXAGCET&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AQVAFMWLVLUVOVDIMJSWOXOP" imageId="21904989"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0031.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1624195858323" caption="Regions reading order">
+            <OrderedGroup id="ro_1631119934475" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1616241541882_2528"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1616241541882_2527"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1616241539328_2523"/>
@@ -34,7 +34,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1616241541882_2527" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
             <Coords points="169,176 1412,176 1412,285 169,285"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:35; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_note {offset:31; length:2;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:35; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:35; length:1;}">
                 <Coords points="170,273 1420,275 1420,230 1351,219 170,229"/>
                 <Baseline points="177,260 238,260 300,260 362,260 424,261 485,261 547,261 609,261 671,261 732,261 794,262 856,262 918,262 979,262 1041,262 1103,262 1165,262 1226,262 1288,262 1350,262 1412,262"/>
                 <TextEquiv>
@@ -47,14 +47,14 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1616241539328_2523" custom="readingOrder {index:2;} structure {type:list;}">
             <Coords points="169,285 1412,285 1412,434 169,434"/>
-            <TextLine id="r1l3" custom="readingOrder {index:0;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:2; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l3" custom="readingOrder {index:0;} m_interval {offset:0; length:4;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:2; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="461,347 609,334 728,363 747,345 840,346 840,303 753,304 739,318 708,298 461,312"/>
                 <Baseline points="469,340 494,339 520,337 546,336 572,336 598,336 624,336 650,337 676,337 702,338 728,338 754,338 780,338 806,338 832,337"/>
                 <TextEquiv>
                     <Unicode>c:e} = $$MATH und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:1;} textStyle {offset:0; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:24; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:31; length:2;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l4" custom="readingOrder {index:1;} m_interval {offset:0; length:6;} textStyle {offset:0; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:24; length:2;} textStyle {offset:24; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:31; length:3;} textStyle {offset:31; length:2;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="438,419 1138,410 1138,379 1062,363 762,392 655,364 439,379"/>
                 <Baseline points="447,406 481,405 515,405 549,405 583,405 617,405 651,405 686,405 720,406 754,406 788,407 822,407 856,407 890,407 925,408 959,407 993,407 1027,407 1061,406 1095,405 1130,404"/>
                 <TextEquiv>
@@ -68,14 +68,14 @@ as{:c = $$MATH, so sind e} und as{</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1616241535940_2519" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="169,434 1412,434 1412,678 169,678"/>
-            <TextLine id="r1l5" custom="readingOrder {index:0;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l5" custom="readingOrder {index:0;} m_interval {offset:6; length:5;} m_interval {offset:16; length:10;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:31; length:1;}">
                 <Coords points="174,491 1409,491 1409,452 1344,442 174,449"/>
                 <Baseline points="182,482 246,481 310,481 374,481 438,481 502,481 566,481 631,481 695,481 759,481 823,481 887,482 951,482 1016,482 1080,482 1144,482 1208,482 1272,482 1336,482 1401,482"/>
                 <TextEquiv>
                     <Unicode>reine Ober- und Unter-Terz von c, und die entsprechenden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:1;}">
+            <TextLine id="r1l6" custom="readingOrder {index:1;} concept_mus {offset:0; length:7;} m_interval {offset:8; length:14;} concept_phy {offset:36; length:17;}">
                 <Coords points="167,559 1323,552 1261,499 167,506"/>
                 <Baseline points="175,540 232,541 289,542 346,542 403,543 460,543 517,543 574,543 631,543 688,542 745,542 802,542 859,542 916,541 973,541 1030,541 1087,541 1144,541 1201,542 1258,542 1315,543"/>
                 <TextEquiv>
@@ -97,14 +97,14 @@ $$MATH und $$MATH. —</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1616241509408_2515" custom="readingOrder {index:4;} structure {type:paragraph;}">
             <Coords points="169,678 1412,678 1412,2203 169,2203"/>
-            <TextLine id="r1l10" custom="readingOrder {index:0;}">
+            <TextLine id="r1l10" custom="readingOrder {index:0;} concept_mus {offset:21; length:7;} m_note {offset:46; length:4;}">
                 <Coords points="268,728 1418,728 1418,691 1342,682 268,688"/>
                 <Baseline points="276,719 332,719 389,719 446,720 502,720 559,720 616,720 672,720 729,720 786,720 843,720 899,720 956,720 1013,720 1069,720 1126,720 1183,720 1239,721 1296,721 1353,722 1410,722"/>
                 <TextEquiv>
                     <Unicode>Nehmen wir in diesem Systeme von irgend einem Tone</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:1;}">
+            <TextLine id="r1l11" custom="readingOrder {index:1;} m_interval {offset:17; length:17;}">
                 <Coords points="169,796 1409,788 1409,754 1319,740 169,752"/>
                 <Baseline points="177,779 238,779 299,779 360,779 421,779 483,779 544,779 605,779 666,780 727,780 789,780 850,780 911,780 972,780 1033,780 1095,780 1156,780 1217,780 1278,780 1339,780 1401,780"/>
                 <TextEquiv>
@@ -118,105 +118,105 @@ $$MATH und $$MATH. —</Unicode>
                     <Unicode>dem entsprechenden Buchstaben einen neuen Strich hinzu,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:3;}">
+            <TextLine id="r1l13" custom="readingOrder {index:3;} m_interval {offset:35; length:7;} m_note {offset:50; length:5;}">
                 <Coords points="165,906 1418,906 1316,858 165,876"/>
                 <Baseline points="173,898 234,898 296,898 358,898 420,898 482,898 544,898 605,898 667,898 729,898 791,899 853,899 915,899 977,899 1038,900 1100,900 1162,900 1224,900 1286,901 1348,901 1410,901"/>
                 <TextEquiv>
                     <Unicode>so befinden wir uns, wenn wir alle Quinten dieses Tones</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:4;}">
+            <TextLine id="r1l14" custom="readingOrder {index:4;} concept_mus {offset:38; length:7;} m_interval {offset:46; length:6; continued:true;}">
                 <Coords points="173,970 1406,971 1406,929 173,932"/>
                 <Baseline points="181,960 241,960 302,959 363,959 424,959 485,959 546,959 607,959 668,959 729,959 790,959 850,959 911,959 972,959 1033,959 1094,960 1155,960 1216,960 1277,960 1338,960 1399,960"/>
                 <TextEquiv>
                     <Unicode>zusammenfassen, wieder in einem neuen Systeme reiner</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:5;} textStyle {offset:29; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:46; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l15" custom="readingOrder {index:5;} m_interval {offset:0; length:7; continued:true;} m_interval {offset:13; length:11;} m_note {offset:29; length:2;} textStyle {offset:29; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:46; length:5;} textStyle {offset:46; length:3;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="177,1054 1407,1037 1219,987 454,1020 177,995"/>
                 <Baseline points="185,1036 245,1036 306,1036 367,1036 427,1036 488,1036 549,1036 609,1036 670,1036 731,1036 792,1037 852,1037 913,1037 974,1037 1034,1037 1095,1037 1156,1037 1216,1037 1277,1037 1338,1036 1399,1036"/>
                 <TextEquiv>
                     <Unicode>Quinten. Die grosse Terz von e} wäre hiernach gis}}‚ und ana¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:6;} textStyle {offset:22; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l16" custom="readingOrder {index:6;} m_interval {offset:8; length:9;} m_interval {offset:22; length:13;} textStyle {offset:22; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:3;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:53; length:14;}">
                 <Coords points="171,1108 1415,1108 1415,1069 1327,1060 171,1060"/>
                 <Baseline points="178,1094 239,1095 300,1095 362,1096 423,1096 485,1096 546,1096 608,1096 669,1096 731,1096 792,1096 853,1096 915,1096 976,1096 1038,1095 1099,1095 1161,1095 1222,1095 1284,1095 1345,1095 1407,1096"/>
                 <TextEquiv>
-                    <Unicode>log die Unterterz von as{‚ — fes‚, die zugehörigen Quintensysteme</Unicode>
+                    <Unicode>log die Unterterz von as{‚ — fes{{‚, die zugehörigen Quintensysteme</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:7;}">
+            <TextLine id="r1l18" custom="readingOrder {index:7;} concept_phy {offset:10; length:17;} textStyle {offset:30; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:34; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:38; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="168,1212 1420,1209 1420,1176 1315,1154 168,1158"/>
                 <Baseline points="176,1200 237,1199 299,1198 361,1198 423,1197 485,1197 546,1197 608,1197 670,1198 732,1198 794,1198 855,1199 917,1199 979,1200 1041,1200 1103,1201 1164,1201 1226,1201 1288,1201 1350,1201 1412,1201"/>
                 <TextEquiv>
-                    <Unicode>haben die Schwingungszahlen: $$MATH und $$MATH. Einem</Unicode>
+                    <Unicode>haben die Schwingungszahlen: 52. 3n. 2x und $$MATH. Einem</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:8;}">
+            <TextLine id="r1l19" custom="readingOrder {index:8;} m_note {offset:0; length:4;} concept_mus {offset:22; length:7;} concept_phy {offset:50; length:7; continued:true;}">
                 <Coords points="166,1285 1415,1291 1362,1242 166,1243"/>
                 <Baseline points="173,1281 234,1281 296,1280 358,1280 419,1280 481,1281 543,1281 604,1281 666,1282 728,1282 790,1283 851,1283 913,1283 975,1284 1036,1284 1098,1284 1160,1283 1221,1283 1283,1282 1345,1281 1407,1280"/>
                 <TextEquiv>
                     <Unicode>Tone eines beliebigen Systems entspricht also die Schwin¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:9;} textStyle {offset:20; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:23; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l20" custom="readingOrder {index:9;} concept_phy {offset:0; length:9; continued:true;} textStyle {offset:20; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:23; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:1;italic:true; fontSize:0.0; kerning:0;} concept_phy {offset:31; length:8;} concept_phy {offset:44; length:8;}">
                 <Coords points="173,1364 444,1328 1309,1364 1409,1353 1409,1315 173,1316"/>
                 <Baseline points="180,1341 241,1341 302,1340 363,1340 424,1340 485,1340 546,1340 607,1341 668,1341 729,1342 791,1342 852,1343 913,1343 974,1344 1035,1344 1096,1344 1157,1344 1218,1344 1279,1344 1340,1343 1402,1342"/>
                 <TextEquiv>
                     <Unicode>gungszahl $$MATH wo m, n und p positive und negative</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:10;} textStyle {offset:48; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l21" custom="readingOrder {index:10;} concept_phy {offset:0; length:12;} textStyle {offset:48; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="170,1422 1398,1404 1344,1364 170,1374"/>
                 <Baseline points="178,1401 238,1401 299,1401 359,1402 420,1402 481,1402 541,1402 602,1403 662,1403 723,1403 784,1403 844,1403 905,1403 965,1403 1026,1403 1087,1403 1147,1402 1208,1402 1268,1402 1329,1401 1390,1401"/>
                 <TextEquiv>
                     <Unicode>ganze Zahlen sein können. Zeichen und Werth von m bestim¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:11;}">
+            <TextLine id="r1l22" custom="readingOrder {index:11;} concept_mus {offset:8; length:6;} m_interval {offset:19; length:7;}">
                 <Coords points="170,1475 1400,1466 1360,1419 1292,1447 170,1433"/>
                 <Baseline points="177,1460 237,1460 298,1460 359,1460 420,1460 480,1461 541,1461 602,1461 663,1462 723,1462 784,1462 845,1463 906,1463 966,1463 1027,1463 1088,1463 1149,1463 1209,1463 1270,1462 1331,1462 1392,1461"/>
                 <TextEquiv>
                     <Unicode>men das System von Quinten, in welchem wir uns befinden. Mö¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:12;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:18; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:21; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l23" custom="readingOrder {index:12;} concept_phy {offset:8; length:6;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:18; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:21; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="169,1540 1367,1532 1401,1488 169,1492"/>
                 <Baseline points="177,1520 237,1521 298,1521 359,1521 420,1522 481,1522 541,1522 602,1522 663,1522 724,1522 785,1522 845,1522 906,1522 967,1522 1028,1522 1089,1522 1149,1522 1210,1522 1271,1522 1332,1522 1393,1522"/>
                 <TextEquiv>
                     <Unicode>gen die Zahlen m, n, p, noch so sehr variiren, niemals kann</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:13;}">
+            <TextLine id="r1l24" custom="readingOrder {index:13;} m_note {offset:17; length:3;}">
                 <Coords points="169,1596 1402,1592 1402,1556 1310,1539 169,1554"/>
                 <Baseline points="177,1581 237,1580 298,1580 359,1580 420,1580 481,1580 542,1580 603,1581 664,1581 725,1581 786,1582 846,1582 907,1582 968,1582 1029,1582 1090,1582 1151,1582 1212,1582 1273,1582 1334,1581 1395,1580"/>
                 <TextEquiv>
                     <Unicode>ein und derselbe Ton durch verschiedene Combinationen dieser</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:14;} textStyle {offset:35; length:17;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l25" custom="readingOrder {index:14;} concept_phy {offset:0; length:6;} textStyle {offset:35; length:17;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:40; length:4;}">
                 <Coords points="169,1651 1400,1652 1412,1602 169,1603"/>
                 <Baseline points="177,1639 238,1639 299,1640 361,1640 422,1640 483,1640 545,1640 606,1640 667,1641 729,1641 790,1641 851,1641 913,1641 974,1641 1035,1641 1097,1641 1158,1641 1219,1641 1281,1641 1342,1641 1404,1641"/>
                 <TextEquiv>
                     <Unicode>Zahlen ausgedrückt werden, da eine jede Zahl nur auf</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1616241618080_2600" custom="readingOrder {index:15;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="line_1616241618080_2600" custom="readingOrder {index:15;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:17; length:11;}">
                 <Coords points="176,1715 1398,1715 1398,1673 1318,1659 176,1667"/>
                 <Baseline points="183,1699 234,1699 285,1699 337,1699 388,1699 440,1700 491,1700 543,1700 594,1700 646,1700 697,1700 748,1700 800,1700 851,1700 903,1700 954,1700 1006,1699 1057,1699 1109,1699 1160,1698 1212,1697 1222,1700 1250,1701 1278,1702 1306,1702 1334,1701 1362,1700 1391,1697"/>
                 <TextEquiv>
                     <Unicode>eine Art sich in Primfaktore zertheilen lässt. — Ich lasse</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:16;}">
+            <TextLine id="r1l28" custom="readingOrder {index:16;} m_interval {offset:43; length:6;} concept_mus {offset:54; length:5; continued:true;}">
                 <Coords points="174,1772 1400,1765 1359,1723 174,1730"/>
                 <Baseline points="181,1759 241,1759 302,1759 362,1759 423,1759 483,1759 544,1759 604,1759 665,1759 725,1759 786,1759 847,1760 907,1760 968,1760 1028,1760 1089,1760 1149,1760 1210,1759 1270,1759 1331,1759 1392,1759"/>
                 <TextEquiv>
                     <Unicode>eine Tabelle folgen, die übersichtlich die Terzen und Quin¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:17;}">
+            <TextLine id="r1l29" custom="readingOrder {index:17;} concept_mus {offset:0; length:17; continued:true;}">
                 <Coords points="172,1828 1401,1835 1389,1779 1013,1770 884,1809 846,1779 173,1780"/>
                 <Baseline points="180,1818 240,1818 301,1818 362,1818 422,1818 483,1818 544,1818 604,1818 665,1818 726,1818 787,1818 847,1819 908,1819 969,1819 1029,1820 1090,1820 1151,1820 1211,1821 1272,1821 1333,1821 1394,1821"/>
                 <TextEquiv>
@@ -230,28 +230,28 @@ $$MATH und $$MATH. —</Unicode>
                     <Unicode>allen vier Seiten ausgedehnt werden kann, und unendlich viele</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:19;}">
+            <TextLine id="r1l31" custom="readingOrder {index:19;} m_note {offset:0; length:4;} m_interval {offset:21; length:6;}">
                 <Coords points="168,1947 1407,1947 1407,1905 1363,1898 168,1899"/>
                 <Baseline points="176,1938 237,1937 298,1937 359,1937 420,1936 482,1937 543,1937 604,1937 665,1937 726,1937 788,1938 849,1938 910,1938 971,1939 1032,1939 1094,1939 1155,1939 1216,1939 1277,1939 1338,1938 1400,1938"/>
                 <TextEquiv>
                     <Unicode>Töne innerhalb einer Octave, trotzdem aber noch lange nicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:20;}">
+            <TextLine id="r1l32" custom="readingOrder {index:20;} m_note {offset:15; length:4;}">
                 <Coords points="168,2012 1404,2010 1373,1962 1182,1956 168,1972"/>
                 <Baseline points="176,1998 237,1997 298,1997 359,1997 420,1997 481,1997 542,1997 603,1997 664,1996 725,1996 786,1996 847,1997 908,1997 969,1997 1030,1997 1091,1997 1152,1998 1213,1998 1274,1998 1335,1999 1396,1999"/>
                 <TextEquiv>
                     <Unicode>alle möglichen Töne derselben enthält. — Dieselbe Tabelle</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:21;}">
+            <TextLine id="r1l33" custom="readingOrder {index:21;} m_note {offset:33; length:4;}">
                 <Coords points="172,2066 1377,2069 1403,2025 172,2028"/>
                 <Baseline points="179,2055 239,2055 300,2055 361,2055 422,2056 483,2056 543,2056 604,2056 665,2056 726,2057 787,2057 847,2057 908,2057 969,2057 1030,2058 1091,2058 1151,2058 1212,2058 1273,2058 1334,2058 1395,2059"/>
                 <TextEquiv>
                     <Unicode>ergiebt ohne Weiteres sämmtliche Töne einer höheren oder</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:22;}">
+            <TextLine id="r1l34" custom="readingOrder {index:22;} m_interval {offset:9; length:6;}">
                 <Coords points="165,2128 1407,2131 1407,2089 1355,2075 1223,2107 1143,2076 165,2083"/>
                 <Baseline points="173,2116 234,2116 295,2116 357,2116 418,2116 479,2116 541,2116 602,2116 663,2117 725,2117 786,2117 847,2118 909,2118 970,2118 1031,2118 1093,2119 1154,2119 1215,2119 1277,2119 1338,2119 1400,2119"/>
                 <TextEquiv>
@@ -272,8 +272,8 @@ dem entsprechenden Buchstaben einen neuen Strich hinzu,&#13;
 so befinden wir uns, wenn wir alle Quinten dieses Tones&#13;
 zusammenfassen, wieder in einem neuen Systeme reiner&#13;
 Quinten. Die grosse Terz von e} wäre hiernach gis}}‚ und ana¬&#13;
-log die Unterterz von as{‚ — fes‚, die zugehörigen Quintensysteme&#13;
-haben die Schwingungszahlen: $$MATH und $$MATH. Einem&#13;
+log die Unterterz von as{‚ — fes{{‚, die zugehörigen Quintensysteme&#13;
+haben die Schwingungszahlen: 52. 3n. 2x und $$MATH. Einem&#13;
 Tone eines beliebigen Systems entspricht also die Schwin¬&#13;
 gungszahl $$MATH wo m, n und p positive und negative&#13;
 ganze Zahlen sein können. Zeichen und Werth von m bestim¬&#13;
