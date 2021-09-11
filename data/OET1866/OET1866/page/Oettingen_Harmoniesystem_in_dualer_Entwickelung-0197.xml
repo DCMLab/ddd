@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:14.033+01:00</Created>
-        <LastChange>2021-05-26T00:20:32.866+02:00</LastChange>
-        <TranskribusMetadata docId="738836" pageId="28121785" pageNr="188" tsid="61992211" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=CJNDGKGUGMCHKVUYAOZEQCOG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MJODAZOTJDBMQVTVDTZAVIHI" imageId="21905155"/>
+        <LastChange>2021-09-09T15:32:42.573+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121785" pageNr="188" tsid="64479544" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=CJNDGKGUGMCHKVUYAOZEQCOG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VKNIXWTAMTRIVQCWDOBWEYIR" imageId="21905155"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0197.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1631119960338" caption="Regions reading order">
+            <OrderedGroup id="ro_1631311006927" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1621439249375_5684"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1621439277934_5698"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1621439277934_5697"/>
@@ -32,7 +32,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="heading" id="TextRegion_1621439277934_5698" custom="readingOrder {index:1;} structure {type:heading;}">
             <Coords points="196,1522 1443,1522 1443,1648 196,1648"/>
-            <TextLine id="r1l39" custom="readingOrder {index:0;} textStyle {offset:0; length:29;fontSize:0.0; kerning:0; bold:true;}">
+            <TextLine id="r1l39" custom="readingOrder {index:0;} textStyle {offset:0; length:29;fontSize:0.0; kerning:0; bold:true;} concept_mus {offset:4; length:9;} concept_mus {offset:14; length:14;}">
                 <Coords points="503,1619 1135,1610 1104,1572 1054,1579 1038,1563 1008,1579 973,1563 936,1579 608,1563 578,1593 542,1563 503,1563"/>
                 <Baseline points="510,1609 540,1609 571,1609 602,1609 633,1609 664,1609 695,1609 726,1609 757,1609 788,1609 819,1609 849,1609 880,1609 911,1609 942,1609 973,1609 1004,1609 1035,1609 1066,1609 1097,1609 1128,1609"/>
                 <TextEquiv>
@@ -45,14 +45,14 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621439277934_5697" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="196,1648 1443,1648 1443,1806 196,1806"/>
-            <TextLine id="r1l40" custom="readingOrder {index:0;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:32; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l40" custom="readingOrder {index:0;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:11;} concept_mus {offset:16; length:15;} textStyle {offset:32; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="296,1716 1450,1721 1450,1675 296,1667"/>
                 <Baseline points="303,1705 360,1706 417,1707 474,1708 531,1708 588,1709 645,1709 702,1709 759,1709 816,1709 873,1709 930,1709 987,1709 1044,1709 1101,1710 1158,1710 1215,1710 1272,1711 1329,1712 1386,1712 1443,1713"/>
                 <TextEquiv>
                     <Unicode>Hauptklänge der Ausgangssysteme identisch mit</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l41" custom="readingOrder {index:1;} textStyle {offset:4; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l41" custom="readingOrder {index:1;} textStyle {offset:4; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:4; length:12;} concept_mus {offset:21; length:19;}">
                 <Coords points="191,1773 1024,1787 1158,1779 1159,1744 192,1743"/>
                 <Baseline points="199,1766 246,1766 294,1767 341,1767 389,1768 437,1768 484,1768 532,1768 580,1768 627,1768 675,1768 723,1768 770,1768 818,1768 866,1768 913,1769 961,1769 1009,1769 1056,1769 1104,1770 1152,1770"/>
                 <TextEquiv>

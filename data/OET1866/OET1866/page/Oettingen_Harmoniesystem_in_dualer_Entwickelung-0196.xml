@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:13.996+01:00</Created>
-        <LastChange>2021-05-26T00:19:55.548+02:00</LastChange>
-        <TranskribusMetadata docId="738836" pageId="28121784" pageNr="187" tsid="61992210" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=USJESAHQEMOIGSYYWQZGSQRX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=INJEOBOEYYLIGSXWJAGZBNOZ" imageId="21905154"/>
+        <LastChange>2021-09-09T15:32:16.444+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121784" pageNr="187" tsid="64479486" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=USJESAHQEMOIGSYYWQZGSQRX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DFJTHDTBWEYIDCQFZIIFCQBH" imageId="21905154"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0196.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1631119960230" caption="Regions reading order">
+            <OrderedGroup id="ro_1631311006830" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1621439330169_5715"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1621439352437_5728"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1621439352437_5727"/>
@@ -46,7 +46,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="heading" id="TextRegion_1621439352437_5727" custom="readingOrder {index:2;} structure {type:heading;}">
             <Coords points="38,351 1292,351 1292,527 38,527"/>
-            <TextLine id="r1l3" custom="readingOrder {index:0;} textStyle {offset:0; length:36;fontSize:0.0; kerning:0; bold:true;}">
+            <TextLine id="r1l3" custom="readingOrder {index:0;} textStyle {offset:0; length:36;fontSize:0.0; kerning:0; bold:true;} concept_mus {offset:3; length:14;} concept_mus {offset:18; length:9;} concept_mus {offset:28; length:7;}">
                 <Coords points="48,440 145,412 289,451 1271,444 1271,399 1020,378 650,407 608,378 49,380"/>
                 <Baseline points="56,432 116,433 176,434 237,434 297,435 358,435 418,435 478,435 539,435 599,436 660,436 720,436 780,436 841,436 901,436 962,436 1022,437 1082,437 1143,437 1203,438 1264,438"/>
                 <TextEquiv>
@@ -67,7 +67,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="heading" id="TextRegion_1621439351098_5723" custom="readingOrder {index:3;} structure {type:heading;}">
             <Coords points="38,527 1292,527 1292,628 38,628"/>
-            <TextLine id="r1l5" custom="readingOrder {index:0;} textStyle {offset:0; length:28;fontSize:0.0; kerning:0; bold:true;}">
+            <TextLine id="r1l5" custom="readingOrder {index:0;} textStyle {offset:0; length:28;fontSize:0.0; kerning:0; bold:true;} concept_mus {offset:3; length:9;} concept_mus {offset:13; length:14;}">
                 <Coords points="337,609 518,627 633,599 964,605 935,564 831,571 792,554 722,575 488,555 462,571 417,556 388,583 337,554"/>
                 <Baseline points="344,601 374,601 405,601 435,601 466,601 497,601 527,601 558,601 588,601 619,601 650,601 680,601 711,601 741,601 772,602 803,602 833,602 864,602 894,603 925,603 956,603"/>
                 <TextEquiv>

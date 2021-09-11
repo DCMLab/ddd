@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:13.472+01:00</Created>
-        <LastChange>2021-05-25T23:38:00.937+02:00</LastChange>
-        <TranskribusMetadata docId="738836" pageId="28121769" pageNr="172" tsid="61992187" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=YWADMNQBXVZIYTUNINWJDYHA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ABYUIYZTKMOJBSPJGXZIPMYB" imageId="21905139"/>
+        <LastChange>2021-09-09T15:10:36.704+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121769" pageNr="172" tsid="64476700" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=YWADMNQBXVZIYTUNINWJDYHA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QWRCNEKGWEHADDXVQPCHVRCA" imageId="21905139"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0181.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1631119958281" caption="Regions reading order">
+            <OrderedGroup id="ro_1631311005315" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1621256842025_3163"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1621256842025_3162"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1621256840628_3158"/>
@@ -35,14 +35,14 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621256842025_3162" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="182,182 1414,182 1414,338 182,338"/>
-            <TextLine id="line_1621256902457_3195" custom="readingOrder {index:0;}">
+            <TextLine id="line_1621256902457_3195" custom="readingOrder {index:0;} concept_mus {offset:0; length:14;}">
                 <Coords points="181,268 1407,256 1407,225 1251,220 182,219"/>
                 <Baseline points="189,253 215,254 241,254 267,255 293,255 319,256 345,256 371,256 397,256 423,257 449,256 475,256 501,256 527,255 553,254 580,253 596,258 636,258 676,257 716,257 756,257 797,257 837,257 877,257 917,257 957,258 998,258 1038,259 1078,259 1118,259 1158,260 1199,260 1239,259 1279,259 1319,259 1359,258 1400,257"/>
                 <TextEquiv>
                     <Unicode>Verwandtschaft, — aber ein solches, wie es zwischen ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+            <TextLine id="r1l4" custom="readingOrder {index:1;} m_tonality {offset:11; length:13;}">
                 <Coords points="176,330 922,315 830,275 176,291"/>
                 <Baseline points="184,319 220,319 257,318 293,317 330,317 366,317 403,317 439,317 476,317 512,317 549,317 585,317 622,317 658,317 695,317 731,316 768,316 804,316 841,315 877,314 914,313"/>
                 <TextEquiv>
@@ -56,21 +56,21 @@ schiedenen Geschlechtern statt hat. —</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621256840628_3158" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="182,338 1414,338 1414,508 182,508"/>
-            <TextLine id="r1l5" custom="readingOrder {index:0;}">
+            <TextLine id="r1l5" custom="readingOrder {index:0;} concept_mus {offset:33; length:22;}">
                 <Coords points="284,383 1416,387 1384,339 284,340"/>
                 <Baseline points="292,374 347,374 403,374 459,375 515,375 571,375 626,375 682,376 738,376 794,376 850,377 905,377 961,377 1017,377 1073,377 1129,378 1184,378 1240,377 1296,377 1352,377 1408,377"/>
                 <TextEquiv>
                     <Unicode>Versuchen wir übersichtlich alle Verwandtschaftsmomente</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:1;}">
+            <TextLine id="r1l6" custom="readingOrder {index:1;} concept_mus {offset:12; length:9;} concept_mus {offset:26; length:10;} concept_mus {offset:37; length:6;} concept_mus {offset:44; length:10;}">
                 <Coords points="175,442 1400,451 1410,410 175,404"/>
                 <Baseline points="182,436 243,435 304,435 365,434 426,434 487,434 548,434 609,434 670,435 731,435 792,435 853,436 914,436 975,436 1036,437 1097,437 1158,438 1219,438 1280,438 1341,438 1402,438"/>
                 <TextEquiv>
                     <Unicode>der mit dem tonischen und phonischen System verwandten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1621256837334_3156" custom="readingOrder {index:2;}">
+            <TextLine id="line_1621256837334_3156" custom="readingOrder {index:2;} m_tonality {offset:0; length:8;}">
                 <Coords points="175,498 808,508 808,466 752,459 175,460"/>
                 <Baseline points="183,495 213,495 244,495 275,495 306,495 337,495 368,495 399,495 430,495 461,495 492,495 522,495 553,495 584,495 615,495 646,495 677,495 708,495 739,495 770,495 801,495"/>
                 <TextEquiv>
@@ -85,14 +85,14 @@ Tonarten zusammen zu stellen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621256837331_3152" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="182,508 1414,508 1414,629 182,629"/>
-            <TextLine id="r1l8" custom="readingOrder {index:0;} textStyle {offset:18; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l8" custom="readingOrder {index:0;} textStyle {offset:18; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:33; length:13;}">
                 <Coords points="287,564 1417,561 1399,515 287,515"/>
                 <Baseline points="294,551 349,552 405,552 461,553 517,553 573,553 628,554 684,554 740,554 796,554 852,554 907,554 963,555 1019,555 1075,555 1131,555 1186,555 1242,555 1298,555 1354,555 1410,555"/>
                 <TextEquiv>
                     <Unicode>Wir unterscheiden zwei Arten der Verwandschaft und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:1;} textStyle {offset:22; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:39; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l9" custom="readingOrder {index:1;} textStyle {offset:22; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:22; length:12;} textStyle {offset:39; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:39; length:12;}">
                 <Coords points="183,627 1223,635 1404,627 1404,581 183,586"/>
                 <Baseline points="191,615 251,614 311,614 371,614 432,614 492,614 552,614 613,614 673,614 733,614 794,614 854,614 914,614 974,614 1035,615 1095,615 1155,615 1216,615 1276,615 1336,615 1397,615"/>
                 <TextEquiv>
@@ -106,126 +106,126 @@ zwar nennen wir diese Parallelität und Reciprocität.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621256834133_3148" custom="readingOrder {index:4;} structure {type:paragraph;}">
             <Coords points="182,629 1414,629 1414,1717 182,1717"/>
-            <TextLine id="r1l10" custom="readingOrder {index:0;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l10" custom="readingOrder {index:0;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:8;} concept_mus {offset:31; length:10;} concept_mus {offset:43; length:8;}">
                 <Coords points="236,681 1414,677 1366,635 236,635"/>
                 <Baseline points="243,675 301,675 359,674 417,674 475,673 533,673 591,673 650,673 708,673 766,673 824,674 882,674 940,674 998,674 1057,674 1115,674 1173,674 1231,674 1289,674 1347,674 1406,674"/>
                 <TextEquiv>
                     <Unicode>Parallel nenne ich alle solche Tonsysteme (antinome oder</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:1;} textStyle {offset:11; length:33;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:46; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l11" custom="readingOrder {index:1;} concept_mus {offset:0; length:8;} textStyle {offset:11; length:33;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:29; length:6;} textStyle {offset:46; length:3;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:46; length:3; continued:true;}">
                 <Coords points="176,747 1412,733 1343,693 1277,722 176,692"/>
                 <Baseline points="184,734 245,733 306,733 367,732 428,732 489,732 550,732 611,733 672,733 733,733 794,734 855,734 916,734 977,734 1038,734 1099,734 1160,734 1221,734 1282,733 1343,732 1404,731"/>
                 <TextEquiv>
                     <Unicode>homonome), welche identische Klänge besitzen. Re¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:2;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l12" custom="readingOrder {index:2;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:6; continued:true;}">
                 <Coords points="177,804 1404,794 1335,754 177,762"/>
                 <Baseline points="185,792 245,792 306,792 366,792 427,792 487,792 548,792 608,792 669,792 729,792 790,792 851,792 911,792 972,793 1032,793 1093,793 1153,793 1214,793 1274,792 1335,792 1396,792"/>
                 <TextEquiv>
                     <Unicode>ciprok dagegen sollen alle diejenigen einander gegenüber¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:3;} textStyle {offset:38; length:17;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l13" custom="readingOrder {index:3;} concept_mus {offset:11; length:10;} textStyle {offset:38; length:17;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="180,876 1402,854 1237,811 1183,843 1066,810 180,827"/>
                 <Baseline points="187,853 247,851 307,850 368,850 428,849 489,849 549,849 609,849 670,850 730,850 791,851 851,851 911,852 972,852 1032,853 1093,853 1153,853 1213,853 1274,853 1334,853 1395,852"/>
                 <TextEquiv>
                     <Unicode>gestellten Tonsysteme heissen, welche gleiche, aber an¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:4;} textStyle {offset:0; length:34;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l14" custom="readingOrder {index:4;} textStyle {offset:0; length:34;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:19; length:6;}">
                 <Coords points="178,923 1339,932 1405,923 1405,875 178,877"/>
                 <Baseline points="186,911 246,911 307,911 367,911 428,911 488,911 549,911 609,911 670,910 730,910 791,910 852,910 912,910 973,910 1033,910 1094,910 1154,910 1215,910 1275,911 1336,911 1397,912"/>
                 <TextEquiv>
                     <Unicode>tinom dargestellte Klänge besitzen. — Mit irgend</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:5;}">
+            <TextLine id="r1l15" custom="readingOrder {index:5;} concept_mus {offset:16; length:7;} concept_mus {offset:37; length:8;}">
                 <Coords points="185,980 1409,970 1279,930 186,937"/>
                 <Baseline points="193,969 253,969 313,969 374,969 434,969 495,969 555,969 616,969 676,970 737,970 797,970 857,970 918,971 978,971 1039,971 1099,971 1160,971 1220,971 1281,970 1341,970 1402,969"/>
                 <TextEquiv>
                     <Unicode>einem gedachten Systeme sind blos 12 homonome und eben¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:6;}">
+            <TextLine id="r1l16" custom="readingOrder {index:6;} concept_mus {offset:7; length:8;} concept_mus {offset:16; length:7;} concept_mus {offset:24; length:8;}">
                 <Coords points="183,1043 545,1021 608,1051 749,1015 1181,1043 1210,1014 1381,1043 1422,1000 183,1003"/>
                 <Baseline points="191,1028 252,1028 313,1028 374,1028 435,1028 496,1027 557,1027 619,1027 680,1027 741,1027 802,1027 863,1028 924,1028 985,1028 1047,1028 1108,1028 1169,1028 1230,1029 1291,1029 1352,1029 1414,1030"/>
                 <TextEquiv>
                     <Unicode>soviel antinome Systeme verwandt, die wir der Art</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:7;}">
+            <TextLine id="r1l17" custom="readingOrder {index:7;} concept_mus {offset:48; length:4; continued:true;}">
                 <Coords points="180,1098 1412,1091 1329,1051 180,1054"/>
                 <Baseline points="188,1088 248,1088 309,1088 370,1088 431,1088 492,1088 552,1088 613,1088 674,1088 735,1089 796,1089 856,1089 917,1089 978,1089 1039,1088 1100,1088 1160,1088 1221,1087 1282,1087 1343,1086 1404,1086"/>
                 <TextEquiv>
                     <Unicode>übersichtlich ordnen wollen, dass das Wesen der Ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:8;}">
+            <TextLine id="r1l18" custom="readingOrder {index:8;} concept_mus {offset:0; length:11; continued:true;}">
                 <Coords points="181,1155 1411,1148 1333,1107 181,1120"/>
                 <Baseline points="189,1148 249,1148 310,1148 371,1148 431,1148 492,1148 553,1148 613,1148 674,1148 735,1148 796,1147 856,1147 917,1147 978,1147 1038,1147 1099,1147 1160,1148 1220,1148 1281,1148 1342,1148 1403,1149"/>
                 <TextEquiv>
                     <Unicode>wandtschaft deutlich entgegentritt. — Zu dem Zweck bau¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:9;} textStyle {offset:11; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:12; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:42; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:44; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r1l19" custom="readingOrder {index:9;} concept_mus {offset:11; length:9;} textStyle {offset:11; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:12; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:42; length:10;} textStyle {offset:42; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:44; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="189,1227 1095,1203 1309,1236 1413,1227 1413,1186 189,1188"/>
                 <Baseline points="196,1214 256,1214 317,1214 377,1214 438,1214 498,1214 559,1214 619,1214 680,1214 740,1215 801,1215 861,1215 922,1215 982,1216 1043,1216 1103,1216 1164,1216 1224,1216 1285,1216 1345,1216 1406,1215"/>
                 <TextEquiv>
                     <Unicode>en wir ein c+-System und andererseits ein e}0-System</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:10;}">
+            <TextLine id="r1l20" custom="readingOrder {index:10;} m_chord {offset:5; length:11;} concept_mus {offset:46; length:14;}">
                 <Coords points="178,1284 1417,1279 1417,1248 1325,1235 178,1248"/>
                 <Baseline points="186,1275 247,1275 308,1275 369,1275 430,1275 492,1275 553,1275 614,1275 675,1275 736,1275 798,1275 859,1275 920,1275 981,1275 1042,1275 1104,1275 1165,1275 1226,1275 1287,1275 1348,1275 1410,1275"/>
                 <TextEquiv>
                     <Unicode>nach Dreiklängen auf, und halten denselben in Quintschritten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:11;}">
+            <TextLine id="r1l21" custom="readingOrder {index:11;} concept_mus {offset:18; length:7;}">
                 <Coords points="178,1347 1411,1339 1385,1298 178,1302"/>
                 <Baseline points="186,1334 246,1334 307,1334 368,1334 429,1334 490,1334 551,1334 612,1334 673,1335 734,1335 795,1335 855,1335 916,1336 977,1336 1038,1336 1099,1336 1160,1336 1221,1335 1282,1335 1343,1334 1404,1333"/>
                 <TextEquiv>
                     <Unicode>fortgehend andere Systeme gegenüber. Auf den nun fol¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:12;} textStyle {offset:34; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:35; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:42; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l22" custom="readingOrder {index:12;} m_chord {offset:34; length:2;} textStyle {offset:34; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:35; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:42; length:5;} textStyle {offset:42; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="178,1419 1412,1404 1413,1367 178,1364"/>
                 <Baseline points="185,1393 246,1393 307,1393 368,1393 429,1393 490,1393 551,1393 612,1394 673,1394 734,1394 795,1394 856,1394 917,1395 978,1395 1039,1395 1100,1395 1161,1395 1222,1395 1283,1395 1344,1395 1405,1395"/>
                 <TextEquiv>
                     <Unicode>genden Tabellen finden wir sub A: c+ oder c-dur mit allen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:13;}">
+            <TextLine id="r1l23" custom="readingOrder {index:13;} concept_mus {offset:0; length:9;} m_tonality {offset:15; length:11;}">
                 <Coords points="181,1468 1406,1451 1310,1411 181,1419"/>
                 <Baseline points="188,1454 248,1453 309,1453 369,1453 430,1453 490,1453 551,1454 611,1454 672,1454 732,1454 793,1454 853,1455 914,1455 974,1455 1035,1455 1095,1455 1156,1455 1216,1454 1277,1454 1337,1454 1398,1453"/>
                 <TextEquiv>
                     <Unicode>tonischen oder Dursystemen combinirt; sub B den vollkom¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:14;} textStyle {offset:17; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:19; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r1l24" custom="readingOrder {index:14;} m_chord {offset:17; length:3;} textStyle {offset:17; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:19; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:31; length:10;} concept_mus {offset:42; length:8;}">
                 <Coords points="186,1531 1414,1523 1383,1483 186,1491"/>
                 <Baseline points="193,1521 253,1521 314,1521 374,1521 435,1521 496,1521 556,1521 617,1521 678,1521 738,1522 799,1522 860,1522 920,1522 981,1522 1042,1522 1102,1522 1163,1522 1224,1521 1284,1521 1345,1520 1406,1519"/>
                 <TextEquiv>
                     <Unicode>menen Gegensatz: e}0 mit allen phonischen Systemen combi¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1621256921302_3240" custom="readingOrder {index:15;} textStyle {offset:20; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:21; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="line_1621256921302_3240" custom="readingOrder {index:15;} m_chord {offset:20; length:2;} textStyle {offset:20; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:21; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:33; length:9;} concept_mus {offset:49; length:4; continued:true;}">
                 <Coords points="178,1595 1412,1580 1359,1540 1201,1570 1038,1539 954,1570 885,1540 178,1554"/>
                 <Baseline points="185,1581 213,1581 241,1579 270,1580 279,1579 335,1579 391,1579 447,1580 504,1580 560,1581 616,1581 673,1581 729,1582 785,1582 842,1582 898,1582 954,1582 1010,1582 1067,1582 1123,1582 1179,1582 1236,1582 1292,1582 1348,1581 1405,1580"/>
                 <TextEquiv>
                     <Unicode>nirt. Weiter: sub C c+ mit allen antinomen, also pho¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:16;} textStyle {offset:27; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r1l27" custom="readingOrder {index:16;} concept_mus {offset:0; length:7; continued:true;} m_chord {offset:27; length:3;} textStyle {offset:27; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:41; length:9;}">
                 <Coords points="177,1660 1417,1658 1382,1610 1295,1638 855,1603 638,1637 177,1620"/>
                 <Baseline points="184,1650 245,1650 306,1649 367,1649 429,1649 490,1649 551,1649 613,1649 674,1649 735,1649 797,1649 858,1649 919,1649 980,1650 1042,1650 1103,1650 1164,1650 1226,1650 1287,1650 1348,1650 1410,1650"/>
                 <TextEquiv>
                     <Unicode>nischen, und endlich sub D e}0 mit allen antinomen, d. h.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1621256825787_3146" custom="readingOrder {index:17;}">
+            <TextLine id="line_1621256825787_3146" custom="readingOrder {index:17;} concept_mus {offset:5; length:9;} concept_mus {offset:15; length:8;}">
                 <Coords points="180,1718 899,1721 899,1684 848,1667 180,1681"/>
                 <Baseline points="188,1709 223,1709 258,1708 293,1708 328,1707 364,1707 399,1706 434,1706 469,1706 504,1706 540,1706 575,1706 610,1706 645,1706 680,1707 716,1707 751,1707 786,1708 821,1708 856,1708 892,1709"/>
                 <TextEquiv>
@@ -255,21 +255,21 @@ also tonischen Systemen combinirt.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621256825770_3142" custom="readingOrder {index:5;} structure {type:paragraph;}">
             <Coords points="182,1717 1414,1717 1414,2091 182,2091"/>
-            <TextLine id="r1l29" custom="readingOrder {index:0;}">
+            <TextLine id="r1l29" custom="readingOrder {index:0;} concept_mus {offset:4; length:7;}">
                 <Coords points="281,1780 1406,1787 1379,1731 281,1731"/>
                 <Baseline points="288,1765 343,1765 399,1766 454,1766 510,1766 565,1767 621,1767 676,1767 732,1767 787,1768 843,1768 899,1768 954,1768 1010,1768 1065,1768 1121,1768 1176,1768 1232,1768 1287,1768 1343,1768 1399,1768"/>
                 <TextEquiv>
                     <Unicode>Die Systeme sind der Art einander gegenübergestellt,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:1;}">
+            <TextLine id="r1l30" custom="readingOrder {index:1;} concept_mus {offset:32; length:8;}">
                 <Coords points="187,1835 1417,1832 1417,1797 1345,1786 187,1787"/>
                 <Baseline points="195,1826 255,1826 316,1826 377,1826 438,1826 498,1826 559,1826 620,1826 681,1826 741,1826 802,1827 863,1827 924,1827 984,1827 1045,1827 1106,1827 1167,1827 1227,1827 1288,1827 1349,1826 1410,1825"/>
                 <TextEquiv>
                     <Unicode>dass sowohl die den combinirten Systemen gemeinschaftlichen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:2;}">
+            <TextLine id="r1l31" custom="readingOrder {index:2;} concept_mus {offset:47; length:6;}">
                 <Coords points="185,1897 1403,1899 1365,1851 185,1859"/>
                 <Baseline points="193,1885 253,1886 313,1886 373,1886 433,1886 493,1887 553,1887 614,1887 674,1887 734,1887 794,1887 854,1887 914,1887 974,1887 1035,1887 1095,1887 1155,1887 1215,1887 1275,1887 1335,1887 1396,1887"/>
                 <TextEquiv>
@@ -290,7 +290,7 @@ also tonischen Systemen combinirt.</Unicode>
                     <Unicode>tere durch liegende Kreuze mit einander verbunden, beispiels¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:5;} textStyle {offset:20; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l34" custom="readingOrder {index:5;} concept_mus {offset:11; length:8;} concept_mus {offset:20; length:9;} textStyle {offset:20; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="182,2079 774,2092 824,2074 805,2043 719,2035 182,2042"/>
                 <Baseline points="189,2069 220,2070 251,2070 283,2071 314,2072 346,2072 377,2072 408,2072 440,2073 471,2073 503,2073 534,2073 565,2073 597,2073 628,2073 660,2073 691,2073 722,2073 754,2073 785,2074 817,2074"/>
                 <TextEquiv>

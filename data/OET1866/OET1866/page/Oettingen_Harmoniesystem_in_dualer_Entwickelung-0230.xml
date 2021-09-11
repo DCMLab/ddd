@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:15.175+01:00</Created>
-        <LastChange>2021-05-28T11:38:17.591+02:00</LastChange>
-        <TranskribusMetadata docId="738836" pageId="28121818" pageNr="221" tsid="61992259" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=NNNETFCKOHENTXHXHRYXFTQJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JSBTLZMNSTZWOANGBGZTGGVT" imageId="21905188"/>
+        <LastChange>2021-09-10T10:31:54.618+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121818" pageNr="221" tsid="64574103" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=NNNETFCKOHENTXHXHRYXFTQJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TYQBYQAHHPVRRDZIBGKQXGKF" imageId="21905188"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0230.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1631119965473" caption="Regions reading order">
+            <OrderedGroup id="ro_1631311010680" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1621265986286_6184"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1621265986286_6183"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1621265981252_6179"/>
@@ -39,21 +39,21 @@ Transkribus</Creator>
                     <Unicode>rückführen. Von diesem Gesichtspunkte aus büssen wir</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:24; length:13;}">
                 <Coords points="40,355 1248,348 1266,305 40,307"/>
                 <Baseline points="48,336 108,335 169,335 229,335 290,335 350,334 411,334 471,334 532,334 592,334 653,335 714,335 774,335 835,335 895,335 956,335 1016,334 1077,334 1137,334 1198,334 1259,333"/>
                 <TextEquiv>
                     <Unicode>garnichts gegenüber der älteren Musik ein, gewinnen aber</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:40; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:50; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:14; length:19;} textStyle {offset:40; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:40; length:9;ID:P0001;} textStyle {offset:50; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="25,396 1265,410 1250,354 25,367"/>
                 <Baseline points="33,394 94,394 155,393 216,393 277,393 339,393 400,394 461,394 522,394 583,394 645,394 706,394 767,394 828,393 889,393 951,393 1012,393 1073,392 1134,392 1195,391 1257,391"/>
                 <TextEquiv>
                     <Unicode>eine reichere Harmonienentfaltung. Wenn Helmholtz 1)</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} m_tonality {offset:16; length:9;} concept_mus {offset:46; length:11;}">
                 <Coords points="35,461 1221,475 1264,443 1248,411 697,441 35,412"/>
                 <Baseline points="42,452 102,452 163,452 224,453 284,453 345,453 406,453 466,453 527,454 588,454 649,454 709,454 770,454 831,453 891,453 952,453 1013,452 1073,451 1134,450 1195,449 1256,448"/>
                 <TextEquiv>
@@ -81,7 +81,7 @@ Transkribus</Creator>
                     <Unicode>meine jene Behauptung völlig aufhebt: „Wenn unsere</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;} concept_mus {offset:12; length:20;}">
                 <Coords points="36,699 1268,700 1225,651 36,651"/>
                 <Baseline points="44,690 104,691 165,692 226,692 287,692 348,693 409,693 469,693 530,693 591,693 652,693 713,693 774,693 835,692 895,692 956,692 1017,692 1078,692 1139,693 1200,693 1261,693"/>
                 <TextEquiv>
@@ -109,35 +109,35 @@ Transkribus</Creator>
                     <Unicode>derung ist vollkommen treffend bezeichnet. Nur muss fest¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+            <TextLine id="r1l13" custom="readingOrder {index:11;} concept_mus {offset:42; length:5;}">
                 <Coords points="38,948 1267,947 1267,905 1198,891 38,899"/>
                 <Baseline points="45,930 105,931 166,931 227,931 287,931 348,931 409,931 469,931 530,931 591,931 652,932 712,932 773,932 834,932 894,932 955,932 1016,933 1076,933 1137,933 1198,934 1259,934"/>
                 <TextEquiv>
                     <Unicode>gehalten werden, dass man es wirklich mit Musik zu thun</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+            <TextLine id="r1l14" custom="readingOrder {index:12;} m_note {offset:52; length:5;}">
                 <Coords points="45,1005 1263,1003 1263,963 1193,955 142,979 45,948"/>
                 <Baseline points="53,991 113,991 173,991 233,991 293,992 353,992 413,992 473,992 533,991 593,991 654,991 714,991 774,991 834,991 894,991 954,992 1014,992 1074,992 1134,992 1194,993 1255,994"/>
                 <TextEquiv>
                     <Unicode>habe, und nicht mit willkührlich zusammengestellten Tönen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+            <TextLine id="r1l15" custom="readingOrder {index:13;} m_tonality {offset:5; length:18;}">
                 <Coords points="39,1068 1243,1075 1243,1009 39,1011"/>
                 <Baseline points="47,1051 106,1051 165,1051 225,1051 284,1051 344,1051 403,1051 462,1051 522,1051 581,1051 641,1051 700,1051 759,1051 819,1051 878,1051 938,1051 997,1051 1056,1052 1116,1052 1175,1053 1235,1053"/>
                 <TextEquiv>
                     <Unicode>(die arabischen Leitern haben zum Theil dieses Ansehen).</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+            <TextLine id="r1l16" custom="readingOrder {index:14;} concept_mus {offset:21; length:5;}">
                 <Coords points="36,1123 1263,1115 1177,1075 36,1068"/>
                 <Baseline points="43,1110 103,1110 164,1111 224,1111 285,1111 346,1112 406,1112 467,1112 527,1112 588,1112 649,1112 709,1112 770,1112 830,1112 891,1112 952,1111 1012,1111 1073,1111 1133,1110 1194,1110 1255,1110"/>
                 <TextEquiv>
                     <Unicode>Die Entwickelung der Musik ist identisch mit der Entwicke¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+            <TextLine id="r1l17" custom="readingOrder {index:15;} m_tonality {offset:24; length:9;} m_tonality {offset:38; length:10;}">
                 <Coords points="45,1180 1266,1172 1237,1130 1093,1159 45,1131"/>
                 <Baseline points="52,1170 112,1171 172,1171 232,1171 293,1171 353,1172 413,1172 474,1172 534,1172 594,1172 655,1172 715,1172 775,1172 835,1172 896,1172 956,1171 1016,1171 1077,1171 1137,1171 1197,1170 1258,1170"/>
                 <TextEquiv>
@@ -165,14 +165,14 @@ Transkribus</Creator>
                     <Unicode>die erstere kann ohne die letztere bestehen. Wenn über¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:19;} textStyle {offset:51; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l21" custom="readingOrder {index:19;} concept_mus {offset:28; length:5;} textStyle {offset:51; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="48,1419 1266,1418 1231,1372 48,1370"/>
                 <Baseline points="56,1409 116,1409 176,1410 236,1410 296,1410 356,1410 416,1411 476,1411 536,1411 596,1411 657,1411 717,1411 777,1411 837,1411 897,1411 957,1410 1017,1410 1077,1410 1137,1410 1197,1409 1258,1409"/>
                 <TextEquiv>
                     <Unicode>haupt eine Entwickelung der Musik gedacht wird, so musste</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+            <TextLine id="r1l22" custom="readingOrder {index:20;} m_tonality {offset:16; length:9;} m_tonality {offset:30; length:10;}">
                 <Coords points="48,1475 1266,1483 1182,1426 48,1427"/>
                 <Baseline points="55,1467 115,1468 175,1469 235,1470 295,1470 355,1471 415,1471 476,1471 536,1472 596,1472 656,1472 716,1472 776,1471 836,1471 897,1471 957,1471 1017,1471 1077,1471 1137,1471 1197,1471 1258,1471"/>
                 <TextEquiv>
@@ -186,35 +186,35 @@ Transkribus</Creator>
                     <Unicode>Das müssen wir behaupten, so lange nicht ein anderes Prinzip</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:22;} textStyle {offset:37; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l24" custom="readingOrder {index:22;} person_composer {offset:37; length:14;ID:P0170;} textStyle {offset:37; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} work_music {offset:52; length:7; continued:true;ID:W0228;}">
                 <Coords points="50,1598 1264,1593 1196,1547 654,1581 50,1555"/>
                 <Baseline points="58,1588 117,1589 177,1589 237,1590 297,1591 357,1591 417,1591 477,1592 537,1592 597,1592 657,1592 716,1592 776,1592 836,1592 896,1591 956,1591 1016,1591 1076,1590 1136,1590 1196,1589 1256,1589"/>
                 <TextEquiv>
                     <Unicode>rationell begründbar erscheint. (Das Palestrinasche Stabat-</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:23;} textStyle {offset:14; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l25" custom="readingOrder {index:23;} work_music {offset:0; length:5; continued:true;ID:W0228;} textStyle {offset:14; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:14; length:9;ID:P0001;}">
                 <Coords points="52,1658 1268,1660 1268,1618 1116,1611 52,1605"/>
                 <Baseline points="59,1649 119,1649 179,1650 239,1650 299,1650 359,1650 419,1651 479,1651 539,1651 599,1651 660,1650 720,1650 780,1650 840,1650 900,1650 960,1650 1020,1650 1080,1649 1140,1649 1200,1649 1261,1649"/>
                 <TextEquiv>
                     <Unicode>Mater von dem Helmholtz spricht, wird mit seinen am</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+            <TextLine id="r1l26" custom="readingOrder {index:24;} concept_mus {offset:55; length:6; continued:true;}">
                 <Coords points="52,1716 1258,1730 1258,1685 1175,1666 485,1695 52,1667"/>
                 <Baseline points="60,1707 119,1708 179,1709 238,1709 298,1710 357,1710 417,1711 476,1711 536,1711 595,1712 655,1712 714,1712 774,1711 833,1711 893,1711 952,1711 1012,1710 1071,1710 1131,1710 1190,1709 1250,1709"/>
                 <TextEquiv>
                     <Unicode>Eingange gebrauchten, nicht unmittelbar verständlichen Klang¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1621266020025_6224" custom="readingOrder {index:25;} textStyle {offset:8; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:9; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:13; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:14; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:18; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:19; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:23; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:24; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:28; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:33; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:34; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:38; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:39; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="line_1621266020025_6224" custom="readingOrder {index:25;} concept_mus {offset:0; length:6; continued:true;} m_chord {offset:8; length:2;} textStyle {offset:8; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:9; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:13; length:2;} textStyle {offset:13; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:14; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:18; length:2;} textStyle {offset:18; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:19; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:23; length:2;} textStyle {offset:23; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:24; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:28; length:2;} textStyle {offset:28; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:33; length:2;} textStyle {offset:33; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:34; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:38; length:2;} textStyle {offset:38; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:39; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="42,1771 1269,1777 1269,1737 1225,1732 42,1725"/>
                 <Baseline points="50,1766 84,1766 119,1767 154,1767 189,1767 224,1766 259,1766 294,1765 329,1765 364,1764 399,1763 433,1762 468,1762 503,1761 538,1761 573,1761 608,1761 643,1761 678,1762 713,1763 748,1765 788,1770 816,1766 844,1764 872,1763 900,1766 911,1769 936,1769 961,1768 986,1768 1011,1769 1036,1769 1061,1769 1086,1769 1111,1770 1136,1770 1161,1770 1186,1770 1211,1770 1236,1769 1262,1768"/>
                 <TextEquiv>
                     <Unicode>folgen (a+ — g+ — f+ — e+ — f+ — d0 — a+) auch auf den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:26;}">
+            <TextLine id="r1l30" custom="readingOrder {index:26;} time {offset:8; length:14;}">
                 <Coords points="51,1836 1278,1832 1218,1786 783,1787 711,1820 51,1788"/>
                 <Baseline points="59,1826 119,1827 180,1828 240,1829 301,1830 362,1830 422,1831 483,1831 543,1831 604,1831 665,1831 725,1831 786,1831 846,1831 907,1831 968,1830 1028,1830 1089,1829 1149,1829 1210,1829 1271,1828"/>
                 <TextEquiv>
@@ -228,21 +228,21 @@ Transkribus</Creator>
                     <Unicode>haben, und ein solcher hätte eine schnell fortschreitende</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:28;}">
+            <TextLine id="r1l32" custom="readingOrder {index:28;} concept_mus {offset:0; length:10;}">
                 <Coords points="57,1956 1218,1964 1273,1919 703,1908 637,1939 56,1906"/>
                 <Baseline points="64,1946 124,1947 184,1948 244,1949 304,1950 364,1950 424,1951 484,1951 544,1951 604,1951 665,1951 725,1951 785,1950 845,1950 905,1949 965,1949 1025,1948 1085,1947 1145,1946 1205,1945 1266,1944"/>
                 <TextEquiv>
                     <Unicode>Modulation erkennen müssen. Anders liesse sich das Vor¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:29;} textStyle {offset:11; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:18; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l33" custom="readingOrder {index:29;} m_note {offset:11; length:2;} textStyle {offset:11; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:18; length:2;} textStyle {offset:18; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:28; length:7;} concept_mus {offset:52; length:5;}">
                 <Coords points="55,2023 1276,2027 1238,1978 218,1999 55,1971"/>
                 <Baseline points="63,2014 123,2015 183,2016 243,2017 304,2018 364,2018 424,2019 484,2019 545,2019 605,2019 665,2019 725,2019 786,2018 846,2018 906,2017 966,2017 1027,2017 1087,2016 1147,2016 1207,2015 1268,2015"/>
                 <TextEquiv>
                     <Unicode>kommen von h} und b{ in der Melodie der ersten drei Takte</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:30;} textStyle {offset:22; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l34" custom="readingOrder {index:30;} textStyle {offset:22; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:22; length:9;ID:P0001;}">
                 <Coords points="59,2094 1023,2107 1272,2091 1272,2053 58,2051"/>
                 <Baseline points="66,2084 129,2085 192,2087 255,2087 318,2088 381,2088 444,2089 507,2089 570,2089 633,2089 697,2088 760,2088 823,2087 886,2087 949,2086 1012,2086 1075,2085 1138,2084 1201,2084 1265,2083"/>
                 <TextEquiv>
@@ -285,7 +285,7 @@ nicht erklären). Wenn Helmholtz behauptet, dass neben</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1621265981252_6179" custom="readingOrder {index:2;} structure {type:footnote;}">
             <Coords points="33,2180 1271,2180 1271,2313 33,2313"/>
-            <TextLine id="r1l35" custom="readingOrder {index:0;} textStyle {offset:3; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l35" custom="readingOrder {index:0;} textStyle {offset:3; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:3; length:9;ID:P0001;} work_text {offset:13; length:5;ID:W0001;}">
                 <Coords points="135,2255 181,2267 197,2255 448,2253 542,2267 558,2254 621,2261 642,2248 642,2222 135,2224"/>
                 <Baseline points="143,2247 168,2248 194,2248 220,2249 246,2250 272,2250 298,2250 323,2251 349,2251 375,2251 401,2251 427,2251 453,2251 478,2250 504,2250 530,2249 556,2249 582,2248 608,2247 634,2246"/>
                 <TextEquiv>

@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:14.339+01:00</Created>
-        <LastChange>2021-05-26T00:50:45.791+02:00</LastChange>
-        <TranskribusMetadata docId="738836" pageId="28121793" pageNr="196" tsid="61992223" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=MUVYOJNBBAXYZEPZTGKRWFPL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FQLRJENWLYMCEUGXLYVUAANG" imageId="21905163"/>
+        <LastChange>2021-09-09T15:47:23.877+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121793" pageNr="196" tsid="64481493" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=MUVYOJNBBAXYZEPZTGKRWFPL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YVEHNJCXGHSVIVIWUKHCVRXN" imageId="21905163"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0205.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1631119961444" caption="Regions reading order">
+            <OrderedGroup id="ro_1631311007701" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1621426104463_794"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1621426101041_789"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1621426097112_785"/>
@@ -36,7 +36,7 @@ Transkribus</Creator>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621426101041_789" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="208,775 1440,775 1440,891 208,891"/>
-            <TextLine id="r1l13" custom="readingOrder {index:0;} textStyle {offset:13; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:24; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l13" custom="readingOrder {index:0;} textStyle {offset:13; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:24; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:24; length:10;} concept_mus {offset:35; length:14;}">
                 <Coords points="313,828 1441,818 1417,771 710,797 313,772"/>
                 <Baseline points="320,813 375,813 431,813 486,813 542,813 598,813 653,814 709,814 765,814 820,814 876,814 932,814 987,814 1043,814 1099,814 1154,814 1210,813 1266,813 1321,812 1377,812 1433,811"/>
                 <TextEquiv>
@@ -57,7 +57,7 @@ erschöpft.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621426097112_785" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="208,891 1440,891 1440,1005 208,1005"/>
-            <TextLine id="r1l15" custom="readingOrder {index:0;} textStyle {offset:8; length:31;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l15" custom="readingOrder {index:0;} textStyle {offset:8; length:31;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:8; length:14;} concept_mus {offset:27; length:12;}">
                 <Coords points="317,947 1433,931 1433,893 1386,891 1308,917 317,891"/>
                 <Baseline points="324,931 379,931 434,931 489,931 544,931 599,931 654,931 709,932 764,932 819,932 874,933 929,933 984,933 1039,933 1094,933 1149,933 1204,933 1259,933 1314,932 1369,932 1425,931"/>
                 <TextEquiv>
@@ -78,126 +78,126 @@ scheiden wir 4 Grade:</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1621426091194_781" custom="readingOrder {index:4;} structure {type:list-continued;}">
             <Coords points="208,1005 1440,1005 1440,2284 208,2284"/>
-            <TextLine id="r1l17" custom="readingOrder {index:0;} textStyle {offset:3; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:41; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l17" custom="readingOrder {index:0;} textStyle {offset:3; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:3; length:11;} concept_mus {offset:19; length:16;} textStyle {offset:41; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:41; length:8;}">
                 <Coords points="314,1064 1358,1075 1439,1060 1439,1015 314,1017"/>
                 <Baseline points="321,1052 376,1052 432,1052 487,1052 543,1052 598,1052 654,1052 709,1052 765,1052 820,1052 876,1052 931,1052 987,1053 1042,1053 1098,1053 1153,1053 1209,1052 1264,1052 1320,1052 1375,1052 1431,1051"/>
                 <TextEquiv>
                     <Unicode>1) Hauptklänge des Ausgangssystemes sind reciprok</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:1;} textStyle {offset:4; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l18" custom="readingOrder {index:1;} textStyle {offset:4; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:4; length:12;} concept_mus {offset:21; length:11;}">
                 <Coords points="207,1117 997,1123 997,1083 927,1076 207,1085"/>
                 <Baseline points="215,1114 253,1114 292,1113 331,1113 369,1113 408,1113 447,1112 485,1112 524,1112 563,1112 602,1112 640,1112 679,1112 718,1112 756,1112 795,1112 834,1112 872,1113 911,1113 950,1113 989,1114"/>
                 <TextEquiv>
                     <Unicode>den Hauptklängen des combinirten:</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:2;} textStyle {offset:22; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:39; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l19" custom="readingOrder {index:2;} concept_mus {offset:5; length:6;} concept_mus {offset:12; length:8;} textStyle {offset:22; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:22; length:8;} concept_mus {offset:31; length:7;} textStyle {offset:39; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="317,1183 1438,1179 1438,1128 317,1145"/>
                 <Baseline points="325,1171 380,1171 435,1170 490,1170 546,1170 601,1170 656,1170 711,1170 767,1171 822,1171 877,1171 932,1171 988,1171 1043,1171 1098,1171 1153,1171 1209,1171 1264,1171 1319,1170 1374,1169 1430,1168"/>
                 <TextEquiv>
                     <Unicode>α) 3 Klänge reciprok: Antinome Systeme eines und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:3;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l20" custom="readingOrder {index:3;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:10; length:5;} concept_mus {offset:39; length:12;}">
                 <Coords points="206,1236 1367,1251 1385,1201 206,1210"/>
                 <Baseline points="213,1232 271,1232 329,1231 387,1231 445,1231 504,1231 562,1231 620,1231 678,1231 736,1231 795,1231 853,1231 911,1231 969,1231 1027,1231 1086,1231 1144,1231 1202,1231 1260,1231 1318,1230 1377,1230"/>
                 <TextEquiv>
                     <Unicode>desselben Tones (Tab. C und D, sub 0) (Octavschritt).</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:4;} textStyle {offset:22; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:46; length:2;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l21" custom="readingOrder {index:4;} concept_mus {offset:5; length:6;} concept_mus {offset:12; length:8;} textStyle {offset:22; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:22; length:8;} concept_mus {offset:31; length:7;} textStyle {offset:46; length:2;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="323,1315 1436,1299 1436,1257 1321,1251 323,1251"/>
                 <Baseline points="331,1292 385,1291 440,1291 495,1290 550,1290 605,1290 660,1290 715,1290 770,1290 825,1291 880,1291 934,1291 989,1291 1044,1291 1099,1291 1154,1291 1209,1291 1264,1291 1319,1290 1374,1290 1429,1289"/>
                 <TextEquiv>
                     <Unicode>β) 2 Klänge reciprok: Antinome Systeme zweier um</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:5;} textStyle {offset:0; length:18;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l22" custom="readingOrder {index:5;} textStyle {offset:0; length:18;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:6; length:12;} m_note {offset:30; length:4;}">
                 <Coords points="214,1363 1358,1371 1442,1363 1442,1319 214,1321"/>
                 <Baseline points="222,1351 282,1351 343,1350 403,1350 464,1350 525,1350 585,1350 646,1351 706,1351 767,1351 828,1351 888,1351 949,1351 1009,1351 1070,1351 1131,1351 1191,1351 1252,1351 1312,1350 1373,1350 1434,1349"/>
                 <TextEquiv>
                     <Unicode>einen Quintschritt entfernten Töne (Tab. C und D, sub</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:6;}">
+            <TextLine id="r1l23" custom="readingOrder {index:6;} concept_mus {offset:26; length:14;}">
                 <Coords points="218,1419 1434,1420 1434,1379 1375,1371 218,1371"/>
                 <Baseline points="225,1409 285,1409 345,1410 405,1410 465,1411 525,1411 585,1411 645,1411 705,1411 765,1411 825,1411 885,1411 945,1411 1005,1410 1065,1410 1125,1410 1185,1410 1245,1410 1305,1409 1365,1409 1426,1409"/>
                 <TextEquiv>
                     <Unicode>I und 1) und zwar ist die Verwandtschaft eine wesentlichere</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:7;}">
+            <TextLine id="r1l24" custom="readingOrder {index:7;} concept_mus {offset:10; length:6;} concept_mus {offset:21; length:9;} concept_mus {offset:50; length:4; continued:true;}">
                 <Coords points="217,1483 1436,1478 1375,1427 217,1434"/>
                 <Baseline points="225,1470 285,1470 345,1470 405,1470 465,1471 526,1471 586,1471 646,1471 706,1471 766,1471 827,1471 887,1471 947,1471 1007,1471 1067,1471 1128,1471 1188,1470 1248,1470 1308,1470 1368,1470 1429,1470"/>
                 <TextEquiv>
                     <Unicode>bei I, da Tonica und Dominante ihren Gegensatz in Reg¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:8;}">
+            <TextLine id="r1l25" custom="readingOrder {index:8;} concept_mus {offset:0; length:5; continued:true;} concept_mus {offset:10; length:7;}">
                 <Coords points="210,1540 1431,1540 1431,1502 1378,1491 210,1501"/>
                 <Baseline points="218,1530 278,1530 338,1530 398,1530 459,1530 519,1530 579,1530 640,1530 700,1530 760,1530 821,1530 881,1530 941,1530 1001,1530 1062,1530 1122,1530 1182,1530 1243,1530 1303,1529 1363,1529 1424,1528"/>
                 <TextEquiv>
                     <Unicode>nante und Phonica finden, während sub 1 die untergeordne¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:9;}">
+            <TextLine id="r1l26" custom="readingOrder {index:9;} concept_mus {offset:53; length:4; continued:true;}">
                 <Coords points="218,1603 1426,1599 1391,1547 927,1580 218,1556"/>
                 <Baseline points="225,1589 284,1589 344,1590 404,1590 463,1590 523,1590 583,1590 642,1591 702,1591 762,1591 822,1591 881,1591 941,1591 1001,1591 1060,1591 1120,1590 1180,1590 1239,1590 1299,1589 1359,1588 1419,1588"/>
                 <TextEquiv>
                     <Unicode>ten Hauptseiten sich entsprechen. (Hieher gehört die Ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:10;}">
+            <TextLine id="r1l27" custom="readingOrder {index:10;} concept_mus {offset:0; length:11; continued:true;} concept_mus {offset:21; length:13;} m_tonality {offset:35; length:4;} m_tonality {offset:44; length:12;}">
                 <Coords points="217,1654 1416,1666 1428,1609 217,1619"/>
                 <Baseline points="225,1649 284,1649 344,1649 404,1649 464,1649 523,1649 583,1649 643,1649 703,1649 762,1649 822,1649 882,1649 942,1649 1001,1649 1061,1649 1121,1649 1181,1649 1240,1649 1300,1649 1360,1649 1420,1649"/>
                 <TextEquiv>
                     <Unicode>wandtschaft zwischen gleichnamigen Dur- und Mollsystemen).</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:11;} textStyle {offset:21; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:45; length:2;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l28" custom="readingOrder {index:11;} concept_mus {offset:5; length:5;} concept_mus {offset:11; length:8;} textStyle {offset:21; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:21; length:8;} concept_mus {offset:30; length:7;} textStyle {offset:45; length:2;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="321,1732 1388,1725 1438,1714 1438,1679 321,1683"/>
                 <Baseline points="329,1708 384,1708 439,1708 494,1709 549,1709 604,1710 659,1710 714,1710 769,1711 824,1711 879,1711 934,1711 989,1711 1044,1711 1099,1711 1154,1710 1209,1710 1264,1709 1319,1709 1374,1708 1430,1707"/>
                 <TextEquiv>
                     <Unicode>γ) 1 Klang reciprok: Antinome Systeme zweier um</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:12;} textStyle {offset:0; length:24;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l29" custom="readingOrder {index:12;} textStyle {offset:0; length:24;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:6; length:18;} m_interval {offset:35; length:14;}">
                 <Coords points="218,1780 1432,1779 1402,1730 218,1736"/>
                 <Baseline points="225,1768 288,1768 351,1769 414,1769 477,1769 540,1769 603,1769 666,1769 729,1769 792,1770 856,1770 919,1770 982,1770 1045,1770 1108,1770 1171,1769 1234,1769 1297,1769 1360,1768 1424,1768"/>
                 <TextEquiv>
                     <Unicode>einen Doppelquintschritt oder eine grosse Sekunde ent¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:13;}">
+            <TextLine id="r1l30" custom="readingOrder {index:13;} m_note {offset:8; length:4;}">
                 <Coords points="218,1844 1440,1832 1391,1788 1167,1788 1135,1820 1088,1788 809,1818 774,1788 595,1817 218,1791"/>
                 <Baseline points="225,1827 285,1827 345,1827 406,1827 466,1828 526,1828 587,1828 647,1829 707,1829 768,1830 828,1830 888,1830 949,1830 1009,1830 1069,1830 1130,1830 1190,1829 1250,1828 1311,1827 1371,1826 1432,1825"/>
                 <TextEquiv>
                     <Unicode>fernten Töne Tab. C und D, sub II und 2. Aus demselben</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:14;}">
+            <TextLine id="r1l31" custom="readingOrder {index:14;} concept_mus {offset:27; length:14;}">
                 <Coords points="215,1894 1437,1885 1304,1851 215,1851"/>
                 <Baseline points="222,1885 282,1886 342,1887 403,1887 463,1888 524,1888 584,1888 644,1889 705,1889 765,1889 826,1889 886,1889 946,1889 1007,1889 1067,1889 1128,1888 1188,1888 1248,1887 1309,1887 1369,1886 1430,1885"/>
                 <TextEquiv>
                     <Unicode>Grunde, wie früher ist die Verwandtschaft sub II eine we¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:15;} textStyle {offset:20; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l32" custom="readingOrder {index:15;} textStyle {offset:20; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:48; length:6; continued:true;}">
                 <Coords points="219,1960 1351,1963 1435,1946 1435,1915 219,1921"/>
                 <Baseline points="226,1946 286,1947 346,1947 406,1948 466,1948 526,1949 586,1949 646,1950 706,1950 766,1950 827,1951 887,1951 947,1951 1007,1950 1067,1950 1127,1950 1187,1949 1247,1948 1307,1947 1367,1945 1428,1944"/>
                 <TextEquiv>
                     <Unicode>sentlichere, da die Hauptseiten der zu einander combi¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:16;}">
+            <TextLine id="r1l33" custom="readingOrder {index:16;} concept_mus {offset:0; length:6; continued:true;} concept_mus {offset:7; length:7;} concept_mus {offset:24; length:8;}">
                 <Coords points="217,2020 1427,2017 1400,1972 217,1979"/>
                 <Baseline points="225,2005 284,2006 344,2006 404,2007 464,2008 523,2008 583,2009 643,2009 703,2010 762,2010 822,2010 882,2010 942,2010 1001,2010 1061,2010 1121,2010 1181,2009 1240,2008 1300,2008 1360,2007 1420,2006"/>
                 <TextEquiv>
                     <Unicode>nirten Systeme einander reciprok sind, sub 2 dagegen bie¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:17;} textStyle {offset:24; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l34" custom="readingOrder {index:17;} concept_mus {offset:8; length:15;} textStyle {offset:24; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:29; length:23;}">
                 <Coords points="219,2076 1440,2075 1406,2026 431,2027 402,2056 219,2027"/>
                 <Baseline points="227,2067 287,2067 347,2067 407,2067 468,2067 528,2068 588,2068 648,2068 709,2068 769,2069 829,2069 889,2069 950,2069 1010,2070 1070,2069 1130,2069 1191,2069 1251,2068 1311,2067 1371,2066 1432,2065"/>
                 <TextEquiv>
@@ -211,14 +211,14 @@ scheiden wir 4 Grade:</Unicode>
                     <Unicode>dar.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:19;} textStyle {offset:3; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:36; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l36" custom="readingOrder {index:19;} textStyle {offset:3; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:3; length:11;} concept_mus {offset:19; length:16;} textStyle {offset:36; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:36; length:8;}">
                 <Coords points="317,2198 1441,2194 1421,2147 845,2173 317,2148"/>
                 <Baseline points="325,2186 380,2186 435,2187 491,2187 546,2187 602,2188 657,2188 713,2188 768,2188 824,2188 879,2188 934,2188 990,2189 1045,2189 1101,2189 1156,2189 1212,2189 1267,2188 1323,2188 1378,2188 1434,2188"/>
                 <TextEquiv>
                     <Unicode>2) Hauptklänge des Ausgangssystemes reciprok</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:20;} textStyle {offset:4; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l37" custom="readingOrder {index:20;} textStyle {offset:4; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:4; length:12;} concept_mus {offset:21; length:11;}">
                 <Coords points="216,2254 1018,2260 1019,2222 216,2218"/>
                 <Baseline points="224,2247 263,2248 302,2248 342,2248 381,2248 420,2248 460,2249 499,2249 538,2249 578,2249 617,2250 656,2250 696,2250 735,2250 774,2250 814,2250 853,2250 892,2250 932,2250 971,2250 1011,2250"/>
                 <TextEquiv>

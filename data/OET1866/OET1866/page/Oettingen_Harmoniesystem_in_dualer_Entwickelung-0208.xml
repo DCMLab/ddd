@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:14.447+01:00</Created>
-        <LastChange>2021-05-26T01:05:06.358+02:00</LastChange>
-        <TranskribusMetadata docId="738836" pageId="28121796" pageNr="199" tsid="61992228" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=PEYTGDWXMBAYHRSIKDAUKNLE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QIFBLJWMTDYOSDLCKLHJXCGD" imageId="21905166"/>
+        <LastChange>2021-09-09T16:06:02.039+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121796" pageNr="199" tsid="64484198" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=PEYTGDWXMBAYHRSIKDAUKNLE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LWSJROJBJHGSFCUOHFVZNPFG" imageId="21905166"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0208.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1631119961855" caption="Regions reading order">
+            <OrderedGroup id="ro_1631311008024" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1621427524187_1190"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1621983766110_1502"/>
                 <RegionRefIndexed index="4" regionRef="TextRegion_1621427518650_1185"/>
@@ -35,7 +35,7 @@ Transkribus</Creator>
         </GraphicRegion>
         <TextRegion id="TextRegion_1621983766110_1502" custom="readingOrder {index:2;} structure {type:list;}">
             <Coords points="61,777 1291,777 1291,851 61,851"/>
-            <TextLine id="line_1621983797522_1520" custom="readingOrder {index:0;}">
+            <TextLine id="line_1621983797522_1520" custom="readingOrder {index:0;} m_note {offset:9; length:3;}">
                 <Coords points="161,780 617,784 617,834 161,830"/>
                 <Baseline points="161,825 617,829"/>
                 <TextEquiv>
@@ -51,70 +51,70 @@ Transkribus</Creator>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621427518650_1185" custom="readingOrder {index:4;} structure {type:paragraph;}">
             <Coords points="61,1272 1291,1272 1291,1888 61,1888"/>
-            <TextLine id="r1l41" custom="readingOrder {index:0;}">
+            <TextLine id="r1l41" custom="readingOrder {index:0;} concept_mus {offset:38; length:14;}">
                 <Coords points="149,1323 1285,1322 1285,1281 1184,1275 149,1274"/>
                 <Baseline points="157,1311 213,1312 269,1312 325,1313 381,1313 437,1313 493,1313 549,1313 605,1313 661,1313 717,1313 773,1313 829,1313 885,1313 941,1313 997,1313 1053,1313 1109,1313 1165,1313 1221,1313 1278,1313"/>
                 <TextEquiv>
                     <Unicode>Nur noch einige Schlussworte über die Wechselsysteme:</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1621427568381_1218" custom="readingOrder {index:1;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:41; length:3;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:50; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="line_1621427568381_1218" custom="readingOrder {index:1;} m_tonality {offset:31; length:5;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:41; length:4;} textStyle {offset:41; length:3;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:50; length:5; continued:true;} textStyle {offset:50; length:3;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="58,1387 1126,1412 1257,1394 1281,1331 231,1371 192,1340 160,1372 58,1340"/>
                 <Baseline points="66,1375 98,1378 130,1381 182,1383 236,1382 291,1382 345,1382 400,1382 455,1382 509,1382 564,1382 618,1382 673,1382 728,1382 782,1383 837,1383 891,1383 946,1383 1001,1383 1055,1382 1110,1382 1164,1381 1219,1380 1274,1379"/>
                 <TextEquiv>
                     <Unicode>Tab. A sub 6 oder VI combinirt c-dur mit ges{ und fis}-</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1621427573708_1226" custom="readingOrder {index:2;}">
+            <TextLine id="line_1621427573708_1226" custom="readingOrder {index:2;} m_tonality {offset:0; length:3; continued:true;} concept_mus {offset:44; length:7;}">
                 <Coords points="61,1459 1285,1459 1285,1418 1167,1412 61,1413"/>
                 <Baseline points="69,1448 97,1449 125,1452 183,1448 237,1448 292,1448 347,1449 401,1449 456,1449 511,1449 565,1450 620,1450 675,1450 730,1450 784,1450 839,1450 894,1450 948,1450 1003,1449 1058,1449 1112,1449 1167,1449 1222,1448 1277,1448"/>
                 <TextEquiv>
                     <Unicode>dur. Es lohnte wohl der Mühe mit eingeübten Sängern</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l46" custom="readingOrder {index:3;}">
+            <TextLine id="r1l46" custom="readingOrder {index:3;} concept_mus {offset:31; length:6;} concept_mus {offset:48; length:6; continued:true;}">
                 <Coords points="59,1516 1284,1517 1284,1483 1192,1468 607,1467 569,1498 59,1470"/>
                 <Baseline points="67,1505 127,1507 187,1508 248,1509 308,1510 369,1511 429,1511 490,1511 550,1511 611,1511 671,1511 731,1511 792,1511 852,1510 913,1510 973,1509 1034,1509 1094,1509 1155,1509 1215,1509 1276,1509"/>
                 <TextEquiv>
                     <Unicode>den Versuch zu machen, ob beim Gesang folgender Klang¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l47" custom="readingOrder {index:4;}">
+            <TextLine id="r1l47" custom="readingOrder {index:4;} concept_mus {offset:0; length:6; continued:true;} concept_mus {offset:20; length:10;}">
                 <Coords points="53,1579 1287,1571 1240,1532 53,1531"/>
                 <Baseline points="61,1565 121,1566 182,1568 243,1568 304,1569 365,1569 426,1570 487,1570 548,1570 609,1570 670,1569 730,1569 791,1569 852,1569 913,1568 974,1568 1035,1568 1096,1568 1157,1568 1218,1568 1279,1569"/>
                 <TextEquiv>
                     <Unicode>folgen wirklich die Intonation um $$MATH verändert ist. Mög¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l48" custom="readingOrder {index:5;}">
+            <TextLine id="r1l48" custom="readingOrder {index:5;} concept_mus {offset:37; length:11;}">
                 <Coords points="54,1635 1286,1643 1271,1588 184,1588 144,1617 54,1586"/>
                 <Baseline points="61,1626 121,1628 182,1629 243,1630 304,1630 365,1631 426,1631 486,1631 547,1631 608,1631 669,1631 730,1631 791,1630 852,1630 912,1630 973,1630 1034,1629 1095,1629 1156,1629 1217,1629 1278,1629"/>
                 <TextEquiv>
                     <Unicode>lich, dass bei der Schnelligkeit des Ueberganges doch noch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l49" custom="readingOrder {index:6;} textStyle {offset:4; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l49" custom="readingOrder {index:6;} textStyle {offset:4; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:22; length:16;} m_chord {offset:50; length:8;}">
                 <Coords points="57,1697 1293,1699 1293,1658 1229,1650 57,1646"/>
                 <Baseline points="65,1686 126,1687 187,1688 248,1689 309,1690 370,1690 431,1690 492,1691 553,1691 614,1691 675,1690 736,1690 797,1690 858,1690 919,1690 980,1689 1041,1689 1102,1689 1163,1689 1224,1689 1285,1689"/>
                 <TextEquiv>
                     <Unicode>die Erinnerung an die absolute Tonhöhe des ersten Accordes</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l50" custom="readingOrder {index:7;}">
+            <TextLine id="r1l50" custom="readingOrder {index:7;} concept_mus {offset:24; length:10;}">
                 <Coords points="54,1755 1293,1757 1238,1708 857,1707 818,1739 760,1707 54,1717"/>
                 <Baseline points="61,1746 122,1747 183,1748 244,1749 305,1750 367,1750 428,1751 489,1751 550,1751 611,1751 673,1751 734,1751 795,1751 856,1751 917,1751 979,1751 1040,1750 1101,1750 1162,1750 1223,1749 1285,1749"/>
                 <TextEquiv>
                     <Unicode>der Art wirke, dass die Intonation nicht nach Maassgabe</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l51" custom="readingOrder {index:8;}">
+            <TextLine id="r1l51" custom="readingOrder {index:8;} concept_mus {offset:18; length:14;}">
                 <Coords points="60,1818 1291,1816 1291,1779 1241,1772 890,1798 60,1767"/>
                 <Baseline points="67,1806 127,1807 188,1808 249,1808 310,1809 371,1809 431,1810 492,1810 553,1811 614,1811 675,1811 735,1811 796,1811 857,1811 918,1811 979,1811 1039,1811 1100,1810 1161,1810 1222,1810 1283,1809"/>
                 <TextEquiv>
                     <Unicode>der unmittelbaren Verwandtschaft sich einander folgender</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l52" custom="readingOrder {index:9;}">
+            <TextLine id="r1l52" custom="readingOrder {index:9;} concept_mus {offset:0; length:6;}">
                 <Coords points="60,1875 132,1876 150,1891 204,1879 218,1892 420,1879 420,1850 376,1845 358,1826 327,1844 294,1827 276,1843 204,1852 61,1828"/>
                 <Baseline points="68,1865 94,1866 120,1867 147,1869 173,1869 200,1870 226,1870 253,1871 279,1871 306,1871 332,1871 359,1871 385,1871 412,1870"/>
                 <TextEquiv>

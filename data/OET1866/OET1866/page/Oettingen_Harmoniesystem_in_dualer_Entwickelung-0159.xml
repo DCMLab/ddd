@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:12.718+01:00</Created>
-        <LastChange>2021-05-24T14:24:32.421+02:00</LastChange>
-        <TranskribusMetadata docId="738836" pageId="28121747" pageNr="150" tsid="61992148" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=QNAEEGPRUBAPBRDXRKQZKWOT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HRKKGPTHQAUPZBVCMIMUZMZT" imageId="21905117"/>
+        <LastChange>2021-09-09T13:42:47.820+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121747" pageNr="150" tsid="64464508" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=QNAEEGPRUBAPBRDXRKQZKWOT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SDHXJPTDQXWCIDNYYFNGDLNK" imageId="21905117"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0159.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1631119954943" caption="Regions reading order">
+            <OrderedGroup id="ro_1631311003199" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1621249127691_965"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1621249127691_964"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1621249120305_956"/>
@@ -40,28 +40,28 @@ Transkribus</Creator>
                     <Unicode>Es muss mithin noch eine unmittelbar verständliche</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:0; length:10;} concept_mus {offset:24; length:10;}">
                 <Coords points="222,333 1447,339 1447,299 1375,283 1018,313 222,282"/>
                 <Baseline points="229,321 289,321 350,322 410,322 471,323 531,323 592,323 652,324 713,324 773,325 834,325 894,325 955,325 1015,325 1076,326 1136,326 1197,326 1257,325 1318,325 1378,325 1439,324"/>
                 <TextEquiv>
                     <Unicode>Klangfolge geben. Diese Klangfolge, die uns mit einem</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:49; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_note {offset:30; length:4;} textStyle {offset:49; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:53; length:3; continued:true;}">
                 <Coords points="225,396 1453,388 1293,339 1174,371 225,338"/>
                 <Baseline points="233,382 293,382 354,382 414,382 475,383 536,383 596,383 657,384 717,384 778,385 839,385 899,385 960,385 1020,386 1081,386 1142,386 1202,386 1263,385 1323,385 1384,384 1445,384"/>
                 <TextEquiv>
                     <Unicode>Male den ganzen Bereich aller Töne eröffnet, ist der an¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:0; length:48;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:0; length:48;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:6; continued:true;} concept_mus {offset:7; length:7;} concept_mus {offset:35; length:13;}">
                 <Coords points="222,451 1456,450 1439,410 1327,403 222,403"/>
                 <Baseline points="229,440 290,440 351,441 412,442 473,442 534,443 595,443 656,444 717,444 778,445 839,445 900,445 961,446 1022,446 1083,446 1144,446 1205,446 1266,447 1327,447 1388,447 1449,447"/>
                 <TextEquiv>
                     <Unicode>tinome Wechsel eines und desselben Accordklanges</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:15; length:5;}">
                 <Coords points="222,515 662,516 662,474 580,473 560,459 503,475 466,458 440,484 405,458 366,487 262,459 222,473"/>
                 <Baseline points="229,505 254,504 279,504 304,503 329,503 354,503 379,504 404,504 429,504 454,505 479,505 504,505 529,505 554,505 579,505 604,505 629,504 654,503"/>
                 <TextEquiv>
@@ -81,7 +81,7 @@ also z. B. die Folge</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621249120305_956" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="211,795 1449,795 1449,1695 211,1695"/>
-            <TextLine id="r1l11" custom="readingOrder {index:0;} textStyle {offset:11; length:33;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l11" custom="readingOrder {index:0;} textStyle {offset:11; length:33;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:21; length:11;}">
                 <Coords points="323,841 474,868 1440,852 1399,805 1274,830 323,803"/>
                 <Baseline points="331,841 386,842 441,843 496,845 551,846 606,846 661,847 716,848 771,848 826,848 882,849 937,849 992,849 1047,849 1102,848 1157,848 1212,848 1267,847 1322,847 1377,846 1433,846"/>
                 <TextEquiv>
@@ -95,63 +95,63 @@ also z. B. die Folge</Unicode>
                     <Unicode>telbar verständlich nach seinem gleichnamigen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:2;} textStyle {offset:0; length:23;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l13" custom="readingOrder {index:2;} textStyle {offset:0; length:23;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:9;} concept_mus {offset:10; length:6;} m_chord {offset:47; length:3; continued:true;}">
                 <Coords points="213,970 1451,966 1308,922 865,955 701,922 213,935"/>
                 <Baseline points="221,961 282,962 343,963 404,964 465,965 526,966 587,966 649,967 710,967 771,967 832,967 893,967 954,967 1015,967 1077,967 1138,967 1199,967 1260,966 1321,966 1382,966 1444,966"/>
                 <TextEquiv>
                     <Unicode>antinomen Klange folgen. In der Verkettung der Ac¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:3;}">
+            <TextLine id="r1l14" custom="readingOrder {index:3;} m_chord {offset:0; length:5; continued:true;} concept_mus {offset:44; length:10;}">
                 <Coords points="216,1030 1442,1043 1408,988 216,993"/>
                 <Baseline points="224,1023 284,1024 345,1025 405,1025 466,1026 526,1026 587,1026 647,1026 708,1027 768,1027 829,1027 890,1026 950,1026 1011,1026 1071,1026 1132,1026 1192,1026 1253,1026 1313,1026 1374,1026 1435,1026"/>
                 <TextEquiv>
                     <Unicode>corde brauchen wir nur die hier bezeichnete Klangfolge</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:4;}">
+            <TextLine id="r1l15" custom="readingOrder {index:4;} concept_mus {offset:51; length:6; continued:true;}">
                 <Coords points="226,1091 1443,1093 1389,1044 806,1075 226,1050"/>
                 <Baseline points="233,1082 293,1083 353,1084 413,1084 473,1085 533,1086 593,1086 654,1086 714,1087 774,1087 834,1087 894,1087 954,1087 1014,1087 1075,1087 1135,1086 1195,1086 1255,1086 1315,1085 1375,1085 1436,1084"/>
                 <TextEquiv>
                     <Unicode>einmal eintreten zu lassen, um sofort in eine neue Quint¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:5;}">
+            <TextLine id="r1l16" custom="readingOrder {index:5;} concept_mus {offset:0; length:10; continued:true;}">
                 <Coords points="217,1162 1445,1156 1445,1114 217,1116"/>
                 <Baseline points="225,1143 285,1144 346,1144 406,1145 467,1145 528,1145 588,1146 649,1146 709,1146 770,1145 831,1145 891,1145 952,1145 1012,1145 1073,1145 1134,1145 1194,1145 1255,1145 1315,1146 1376,1146 1437,1147"/>
                 <TextEquiv>
                     <Unicode>generation zu gelangen; durch einen weiteren unmittelbar</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:6;}">
+            <TextLine id="r1l17" custom="readingOrder {index:6;} concept_mus {offset:15; length:9;} concept_mus {offset:25; length:11;}">
                 <Coords points="223,1212 1454,1210 1406,1162 223,1170"/>
                 <Baseline points="231,1199 291,1200 352,1201 413,1202 474,1203 534,1204 595,1204 656,1205 717,1205 777,1205 838,1205 899,1205 960,1205 1020,1205 1081,1205 1142,1204 1203,1204 1263,1204 1324,1204 1385,1204 1446,1204"/>
                 <TextEquiv>
                     <Unicode>verständlichen antinomen Terzschritt und darauf folgenden</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:7;} textStyle {offset:6; length:17;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:38; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l18" custom="readingOrder {index:7;} textStyle {offset:6; length:17;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:6; length:9;} concept_mus {offset:16; length:7;} textStyle {offset:38; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="211,1275 1132,1256 1263,1284 1449,1275 1449,1235 211,1239"/>
                 <Baseline points="218,1261 279,1262 340,1262 401,1263 462,1263 523,1263 584,1264 646,1264 707,1264 768,1264 829,1264 890,1264 951,1264 1012,1264 1074,1264 1135,1265 1196,1265 1257,1265 1318,1265 1379,1265 1441,1265"/>
                 <TextEquiv>
                     <Unicode>neuen antinomen Wechsel kommen wir in derselben</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:8;} textStyle {offset:26; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l19" custom="readingOrder {index:8;} m_tonality {offset:21; length:6;} textStyle {offset:26; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="218,1331 1455,1332 1455,1296 1380,1284 783,1314 218,1284"/>
                 <Baseline points="226,1319 287,1320 348,1321 409,1322 470,1322 531,1323 592,1323 653,1323 714,1324 775,1324 836,1324 897,1324 958,1324 1019,1324 1080,1323 1141,1323 1202,1323 1263,1323 1324,1322 1385,1322 1447,1322"/>
                 <TextEquiv>
                     <Unicode>Richtung weiter; von ton. c aus müssen wir so oft einen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:9;}">
+            <TextLine id="r1l20" custom="readingOrder {index:9;} concept_mus {offset:11; length:7;} concept_mus {offset:33; length:15;} concept_mus {offset:52; length:5; continued:true;}">
                 <Coords points="221,1396 1441,1393 1441,1356 1355,1339 719,1372 221,1339"/>
                 <Baseline points="228,1380 288,1381 348,1381 408,1382 469,1383 529,1383 589,1383 650,1384 710,1384 770,1384 831,1384 891,1384 951,1384 1011,1384 1072,1384 1132,1384 1192,1383 1253,1383 1313,1383 1373,1383 1434,1383"/>
                 <TextEquiv>
                     <Unicode>derartigen Schritt thun, als die Quintgeneration um Terz¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:10;} textStyle {offset:50; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l21" custom="readingOrder {index:10;} concept_mus {offset:0; length:8; continued:true;} m_note {offset:41; length:3;} textStyle {offset:50; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:50; length:7;}">
                 <Coords points="223,1452 1451,1451 1433,1411 1248,1403 223,1412"/>
                 <Baseline points="230,1439 290,1439 351,1440 412,1440 472,1441 533,1441 594,1442 654,1442 715,1442 776,1443 837,1443 897,1443 958,1443 1019,1443 1079,1443 1140,1443 1201,1443 1261,1442 1322,1442 1383,1441 1444,1441"/>
                 <TextEquiv>
@@ -165,7 +165,7 @@ also z. B. die Folge</Unicode>
                     <Unicode>erreicht werden soll, unter dem Buchstaben Striche hat, so</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:12;}">
+            <TextLine id="r1l23" custom="readingOrder {index:12;} concept_mus {offset:13; length:17;} concept_mus {offset:31; length:7;}">
                 <Coords points="213,1571 1450,1570 1450,1535 1378,1524 213,1531"/>
                 <Baseline points="221,1560 282,1561 343,1561 404,1561 465,1561 526,1561 587,1561 648,1562 709,1562 770,1562 831,1562 892,1562 953,1562 1014,1562 1075,1562 1136,1562 1197,1562 1258,1562 1319,1561 1380,1561 1442,1561"/>
                 <TextEquiv>
@@ -179,7 +179,7 @@ also z. B. die Folge</Unicode>
                     <Unicode>Aber genau eben so oft sind zur Rückkehr in das Aus¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1621249115804_953" custom="readingOrder {index:14;}">
+            <TextLine id="line_1621249115804_953" custom="readingOrder {index:14;} concept_mus {offset:16; length:18;} concept_mus {offset:35; length:7;}">
                 <Coords points="216,1699 1384,1691 1384,1655 1319,1644 216,1651"/>
                 <Baseline points="224,1679 281,1679 339,1680 396,1680 454,1680 512,1680 569,1681 627,1681 684,1681 742,1681 800,1681 857,1681 915,1681 972,1681 1030,1681 1088,1681 1145,1681 1203,1681 1260,1681 1318,1681 1376,1681"/>
                 <TextEquiv>
@@ -213,14 +213,14 @@ gangsgebiet die phonisch-tonischen Wechsel anzuwenden.</Unicode>
                     <Unicode>Wenn auch nicht in dieser Form, so hat doch dem</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:1;} textStyle {offset:52; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l27" custom="readingOrder {index:1;} textStyle {offset:52; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:52; length:5; continued:true;}">
                 <Coords points="221,1811 1444,1803 1416,1764 221,1771"/>
                 <Baseline points="229,1797 289,1798 349,1799 410,1800 470,1801 531,1801 591,1801 651,1802 712,1802 772,1802 833,1802 893,1801 953,1801 1014,1801 1074,1801 1135,1800 1195,1800 1255,1800 1316,1800 1376,1800 1437,1799"/>
                 <TextEquiv>
                     <Unicode>wesentlichen Inhalt nach dieses Gesetz stets in der prak¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:2;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l28" custom="readingOrder {index:2;} concept_mus {offset:0; length:13; continued:true;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="218,1869 1446,1866 1431,1826 218,1818"/>
                 <Baseline points="226,1858 286,1859 347,1859 407,1860 468,1860 529,1861 589,1861 650,1861 711,1860 771,1860 832,1860 893,1860 953,1859 1014,1859 1075,1859 1135,1858 1196,1858 1257,1858 1317,1857 1378,1857 1439,1857"/>
                 <TextEquiv>
@@ -234,35 +234,35 @@ gangsgebiet die phonisch-tonischen Wechsel anzuwenden.</Unicode>
                     <Unicode>dasselbe kommen aber auch vor. Man bezeichnet es als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:4;} textStyle {offset:34; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l30" custom="readingOrder {index:4;} concept_mus {offset:22; length:8;} m_tonality {offset:34; length:8;} textStyle {offset:34; length:3;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="212,2002 495,1974 1208,2011 1451,1994 1451,1956 212,1957"/>
                 <Baseline points="220,1986 281,1986 342,1987 403,1987 464,1987 525,1988 586,1988 648,1988 709,1988 770,1988 831,1988 892,1988 953,1988 1014,1988 1076,1988 1137,1987 1198,1987 1259,1987 1320,1987 1381,1987 1443,1986"/>
                 <TextEquiv>
                     <Unicode>einen Fehler wenn ein Tonstück in fis}-dur beginnt und in</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1621249185367_1030" custom="readingOrder {index:5;} textStyle {offset:0; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="line_1621249185367_1030" custom="readingOrder {index:5;} m_tonality {offset:0; length:4;} textStyle {offset:0; length:3;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="213,2076 1073,2040 1418,2068 1449,2018 213,2019"/>
                 <Baseline points="221,2047 246,2048 271,2049 297,2049 322,2049 348,2049 373,2048 398,2048 424,2048 449,2049 475,2050 487,2047 515,2044 543,2042 572,2044 590,2045 632,2046 675,2047 717,2048 760,2048 802,2048 845,2049 887,2049 930,2049 972,2048 1015,2048 1058,2048 1100,2048 1143,2047 1185,2047 1228,2047 1270,2047 1313,2047 1355,2047 1398,2047 1441,2047"/>
                 <TextEquiv>
                     <Unicode>ges{ schliesst. — Oft versteckt sich ein wirklicher Fehler</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:6;}">
+            <TextLine id="r1l34" custom="readingOrder {index:6;} concept_mus {offset:4; length:11;} concept_mus {offset:23; length:12;}">
                 <Coords points="208,2126 1380,2131 1445,2123 1445,2082 208,2089"/>
                 <Baseline points="215,2117 276,2117 337,2117 398,2117 459,2117 520,2117 581,2117 643,2117 704,2117 765,2117 826,2116 887,2116 948,2116 1009,2116 1071,2116 1132,2115 1193,2115 1254,2115 1315,2115 1376,2115 1438,2115"/>
                 <TextEquiv>
                     <Unicode>der Composition in der Notenschrift. Gegen eine blosse</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:7;}">
+            <TextLine id="r1l35" custom="readingOrder {index:7;} concept_mus {offset:0; length:13;}">
                 <Coords points="213,2185 1442,2179 1442,2147 1324,2139 213,2140"/>
                 <Baseline points="221,2175 281,2176 342,2176 403,2177 463,2177 524,2177 585,2177 645,2177 706,2177 767,2177 828,2177 888,2177 949,2177 1010,2177 1070,2176 1131,2176 1192,2176 1252,2176 1313,2175 1374,2175 1435,2175"/>
                 <TextEquiv>
                     <Unicode>Transposition kann selbstverständlich nichts eingewandt wer¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:8;} textStyle {offset:26; length:3;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l36" custom="readingOrder {index:8;} concept_mus {offset:14; length:8;} m_tonality {offset:26; length:8;} textStyle {offset:26; length:3;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="203,2249 1448,2255 1448,2220 1325,2204 1242,2233 864,2195 204,2215"/>
                 <Baseline points="211,2243 272,2244 334,2244 395,2244 457,2245 518,2245 580,2245 641,2245 703,2245 764,2245 826,2245 887,2246 949,2246 1010,2246 1072,2246 1133,2246 1195,2246 1256,2246 1318,2247 1379,2247 1441,2247"/>
                 <TextEquiv>

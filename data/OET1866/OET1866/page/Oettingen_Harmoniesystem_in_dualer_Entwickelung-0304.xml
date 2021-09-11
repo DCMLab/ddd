@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:17.923+01:00</Created>
-        <LastChange>2021-05-29T21:47:59.830+02:00</LastChange>
-        <TranskribusMetadata docId="738836" pageId="28121894" pageNr="295" tsid="61992376" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=XKCCLNGKGNWCOPRFFAKTDJTJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RKHMGDREVWJUPQWEJEUBBTPK" imageId="21905264"/>
+        <LastChange>2021-09-10T18:35:39.720+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121894" pageNr="295" tsid="64595662" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=XKCCLNGKGNWCOPRFFAKTDJTJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RLAZKRRJWPVSHZTMQZARGBSN" imageId="21905264"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0304.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1631119975657" caption="Regions reading order">
+            <OrderedGroup id="ro_1631311017965" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1621435484388_4427"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1621435484388_4426"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1621435482537_4422"/>
@@ -33,28 +33,28 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621435484388_4426" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="81,200 1308,200 1308,472 81,472"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:0; length:47;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:0; length:47;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:5; length:17;} concept_mus {offset:44; length:3; continued:true;}">
                 <Coords points="77,284 1316,274 1254,235 77,244"/>
                 <Baseline points="84,274 145,274 206,273 267,273 328,273 390,273 451,273 512,273 573,274 634,274 696,274 757,274 818,275 879,275 940,275 1002,275 1063,275 1124,274 1185,273 1246,273 1308,271"/>
                 <TextEquiv>
-                    <Unicode>nome tonisch-phenische Wechsel vertieft das Sy¬</Unicode>
+                    <Unicode>nome tonisch-phonische Wechsel vertieft das Sy¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:0; length:47;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:0; length:47;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:4; continued:true;} concept_mus {offset:33; length:14; continued:true;}">
                 <Coords points="84,347 1305,339 1283,298 84,304"/>
                 <Baseline points="91,332 151,333 211,334 271,334 332,334 392,335 452,335 513,335 573,335 633,335 694,335 754,335 814,335 874,335 935,335 995,335 1055,335 1116,335 1176,335 1236,335 1297,336"/>
                 <TextEquiv>
                     <Unicode>stem um vier Erniedrigungs-, der phonisch-toni¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:0; length:47;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:0; length:47;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:4; continued:true;} concept_mus {offset:29; length:17;}">
                 <Coords points="73,404 1315,403 1222,355 73,362"/>
                 <Baseline points="81,391 142,392 203,393 264,393 326,394 387,394 448,394 510,394 571,394 632,394 694,394 755,394 816,394 877,394 939,394 1000,394 1061,394 1123,395 1184,395 1245,396 1307,396"/>
                 <TextEquiv>
                     <Unicode>sche erhöht dasselbe um vier Erhöhungs-Zeichen.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:0; length:35;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:0; length:35;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:4; length:15;}">
                 <Coords points="73,468 973,468 974,431 73,411"/>
                 <Baseline points="81,449 125,450 169,451 213,452 258,452 302,453 346,453 390,454 435,454 479,454 523,455 567,455 612,455 656,455 700,455 744,455 789,455 833,454 877,454 921,454 966,453"/>
                 <TextEquiv>
@@ -62,22 +62,22 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>nome tonisch-phenische Wechsel vertieft das Sy¬
-stem um vier Erniedrigungs-, der phonisch-toni¬
-sche erhöht dasselbe um vier Erhöhungs-Zeichen.
+                <Unicode>nome tonisch-phonische Wechsel vertieft das Sy¬&#13;
+stem um vier Erniedrigungs-, der phonisch-toni¬&#13;
+sche erhöht dasselbe um vier Erhöhungs-Zeichen.&#13;
 Die Quintgeneration bleibt dieselbe.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621435482537_4422" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="81,472 1308,472 1308,677 81,677"/>
-            <TextLine id="r1l6" custom="readingOrder {index:0;}">
+            <TextLine id="r1l6" custom="readingOrder {index:0;} concept_mus {offset:40; length:11; continued:true;}">
                 <Coords points="181,523 1306,519 1248,476 181,474"/>
                 <Baseline points="189,511 244,512 299,512 355,513 410,513 466,513 521,514 577,514 632,514 688,514 743,514 798,514 854,514 909,514 965,514 1020,514 1076,514 1131,513 1187,513 1242,512 1298,512"/>
                 <TextEquiv>
                     <Unicode>Folgendes Beispiel diene als Schema der Klangbedeu¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:1;}">
+            <TextLine id="r1l7" custom="readingOrder {index:1;} concept_mus {offset:0; length:4; continued:true;} concept_mus {offset:10; length:12;} m_interval {offset:23; length:8;}">
                 <Coords points="82,581 1303,580 1271,531 82,532"/>
                 <Baseline points="89,570 149,571 209,572 269,572 330,573 390,573 450,574 511,574 571,574 631,574 692,574 752,574 812,574 872,574 933,574 993,574 1053,574 1114,573 1174,573 1234,573 1295,573"/>
                 <TextEquiv>

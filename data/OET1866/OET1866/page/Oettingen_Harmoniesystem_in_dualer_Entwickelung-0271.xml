@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:16.687+01:00</Created>
-        <LastChange>2021-05-28T23:41:08.256+02:00</LastChange>
-        <TranskribusMetadata docId="738836" pageId="28121861" pageNr="262" tsid="61992325" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=PIKATPQWDEZWDTKLRHOBNWMP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JMCSUECPZYKJIGQXQEDBALOL" imageId="21905231"/>
+        <LastChange>2021-09-10T16:55:06.733+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121861" pageNr="262" tsid="64591202" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=PIKATPQWDEZWDTKLRHOBNWMP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GQNDTRPYFOWMYUYEPDROHCRM" imageId="21905231"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0271.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1631119971449" caption="Regions reading order">
+            <OrderedGroup id="ro_1631311014713" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1621330269483_1494"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1621330263470_1489"/>
             </OrderedGroup>
@@ -34,7 +34,7 @@ Transkribus</Creator>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621330263470_1489" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="156,946 1410,946 1410,1671 156,1671"/>
-            <TextLine id="r1l16" custom="readingOrder {index:0;} textStyle {offset:8; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:16; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l16" custom="readingOrder {index:0;} m_note {offset:4; length:3;} textStyle {offset:8; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:8; length:1;} textStyle {offset:16; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:16; length:1;}">
                 <Coords points="265,1001 1409,1003 1410,972 266,947"/>
                 <Baseline points="274,985 330,986 386,988 443,989 499,990 555,990 612,991 668,991 724,991 781,991 837,991 893,991 950,991 1006,991 1062,991 1119,990 1175,990 1231,991 1288,991 1344,991 1401,992"/>
                 <TextEquiv>
@@ -48,7 +48,7 @@ Transkribus</Creator>
                     <Unicode>Mit grossem Unrecht hat man, wie schon früher vorläufig</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:2;}">
+            <TextLine id="r1l18" custom="readingOrder {index:2;} concept_mus {offset:36; length:11;}">
                 <Coords points="169,1125 1408,1128 1327,1067 1225,1098 1120,1066 832,1098 777,1067 536,1098 169,1067"/>
                 <Baseline points="176,1104 237,1105 298,1106 359,1107 420,1108 482,1109 543,1109 604,1109 665,1109 726,1110 788,1110 849,1110 910,1110 971,1110 1032,1110 1094,1110 1155,1110 1216,1110 1277,1110 1338,1110 1400,1111"/>
                 <TextEquiv>
@@ -76,35 +76,35 @@ Transkribus</Creator>
                     <Unicode>ist ein deutlicher Beweis, dass die heutige Systematik die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1621330321708_1535" custom="readingOrder {index:6;}">
+            <TextLine id="line_1621330321708_1535" custom="readingOrder {index:6;} m_tonality {offset:0; length:16;}">
                 <Coords points="167,1356 1410,1355 1410,1318 1279,1307 993,1336 167,1307"/>
                 <Baseline points="175,1341 213,1342 252,1343 291,1344 329,1344 368,1345 407,1345 445,1345 484,1345 523,1344 562,1344 600,1344 639,1344 678,1344 716,1344 755,1344 794,1344 832,1345 871,1346 910,1347 949,1348 1049,1343 1074,1344 1099,1345 1124,1346 1149,1347 1175,1347 1200,1347 1225,1347 1250,1347 1275,1347 1301,1347 1326,1347 1351,1347 1376,1347 1402,1347"/>
                 <TextEquiv>
                     <Unicode>Mollgeschlechter herabgewürdigt hat. Vielmehr können</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:7;}">
+            <TextLine id="r1l24" custom="readingOrder {index:7;} concept_mus {offset:6; length:11;} concept_mus {offset:18; length:12;}">
                 <Coords points="177,1418 1418,1415 1418,1381 1343,1364 901,1394 177,1362"/>
                 <Baseline points="185,1404 246,1404 307,1404 368,1404 430,1404 491,1405 552,1405 613,1405 675,1406 736,1406 797,1406 858,1407 920,1407 981,1407 1042,1408 1103,1408 1165,1408 1226,1408 1287,1407 1348,1407 1410,1407"/>
                 <TextEquiv>
                     <Unicode>beide Klangfolgen Trugschlüsse sein, oder nicht, je nach dem</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:8;}">
+            <TextLine id="r1l25" custom="readingOrder {index:8;} concept_mus {offset:0; length:13;}">
                 <Coords points="174,1476 1413,1476 1414,1436 174,1429"/>
                 <Baseline points="181,1462 242,1462 303,1463 364,1463 426,1464 487,1464 548,1464 609,1465 671,1465 732,1465 793,1466 854,1466 916,1466 977,1466 1038,1467 1099,1467 1161,1467 1222,1466 1283,1466 1344,1466 1406,1465"/>
                 <TextEquiv>
                     <Unicode>Zusammenhange. So z. B. in folgenden Beispielen; in welchen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:9;} textStyle {offset:17; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l26" custom="readingOrder {index:9;} concept_mus {offset:4; length:8;} textStyle {offset:17; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:17; length:1;} m_chord {offset:30; length:7;}">
                 <Coords points="179,1531 1417,1537 1417,1497 1230,1484 179,1484"/>
                 <Baseline points="186,1520 247,1521 308,1521 369,1522 430,1523 492,1523 553,1524 614,1524 675,1525 736,1525 798,1525 859,1525 920,1526 981,1526 1042,1526 1104,1526 1165,1526 1226,1526 1287,1525 1348,1525 1410,1525"/>
                 <TextEquiv>
                     <Unicode>die Stimmung des d im dritten Accorde unbestimmt ist, wenn</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:10;} textStyle {offset:42; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:43; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:50; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:52; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r1l27" custom="readingOrder {index:10;} concept_mus {offset:4; length:7;} concept_mus {offset:17; length:6;} concept_mus {offset:34; length:6;} m_chord {offset:42; length:2;} textStyle {offset:42; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:43; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:50; length:3;} textStyle {offset:50; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:52; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="165,1595 1407,1595 1303,1547 1061,1581 166,1562"/>
                 <Baseline points="173,1590 234,1590 295,1591 356,1591 418,1591 479,1592 540,1592 602,1593 663,1593 724,1594 786,1594 847,1594 908,1595 969,1595 1031,1595 1092,1595 1153,1595 1215,1595 1276,1595 1337,1595 1399,1595"/>
                 <TextEquiv>

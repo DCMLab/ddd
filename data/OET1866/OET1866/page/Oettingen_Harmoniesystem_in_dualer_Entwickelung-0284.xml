@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:17.197+01:00</Created>
-        <LastChange>2021-05-29T20:30:01.525+02:00</LastChange>
-        <TranskribusMetadata docId="738836" pageId="28121874" pageNr="275" tsid="61992346" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HPFCFPIAOWRKYXTYIFYINLHG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XBJMSWGZVPIKEAJOMBQORSXH" imageId="21905244"/>
+        <LastChange>2021-09-10T17:29:40.169+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121874" pageNr="275" tsid="64592516" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HPFCFPIAOWRKYXTYIFYINLHG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GXCWUFGIWUACQQICSFKXUXGK" imageId="21905244"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0284.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1631119973069" caption="Regions reading order">
+            <OrderedGroup id="ro_1631311015929" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1621429437492_2251"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1621429437492_2250"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1621429432265_2242"/>
@@ -32,7 +32,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621429437492_2250" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="88,199 1326,199 1326,359 88,359"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_note {offset:45; length:4;}">
                 <Coords points="80,276 1332,270 1332,239 1144,227 81,234"/>
                 <Baseline points="88,265 149,264 211,264 273,264 335,264 397,265 459,265 520,265 582,266 644,267 706,267 768,268 830,268 892,269 953,269 1015,270 1077,270 1139,270 1201,270 1263,270 1325,270"/>
                 <TextEquiv>
@@ -70,7 +70,7 @@ sprechende, Schema halten:</Unicode>
                     <Unicode>der in der unendlich weit gedachten Tabelle auf Seite 15</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l53" custom="readingOrder {index:2;} textStyle {offset:6; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:48; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l53" custom="readingOrder {index:2;} textStyle {offset:6; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:17; length:27;} textStyle {offset:48; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="87,1834 1301,1828 1334,1776 87,1783"/>
                 <Baseline points="95,1809 156,1809 218,1809 279,1809 341,1810 402,1810 464,1810 525,1810 587,1810 648,1810 710,1810 772,1810 833,1810 895,1810 956,1811 1018,1811 1079,1811 1141,1811 1202,1811 1264,1811 1326,1811"/>
                 <TextEquiv>
@@ -84,21 +84,21 @@ sprechende, Schema halten:</Unicode>
                     <Unicode>eingeschlossene Felder stellen, wie in vorstehenden Dia¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l55" custom="readingOrder {index:4;} textStyle {offset:18; length:18;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l55" custom="readingOrder {index:4;} textStyle {offset:18; length:18;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:22; length:14;}">
                 <Coords points="85,1948 1220,1957 1329,1940 1329,1900 85,1905"/>
                 <Baseline points="93,1930 154,1930 215,1930 277,1930 338,1931 400,1931 461,1931 522,1931 584,1931 645,1931 707,1931 768,1931 829,1931 891,1932 952,1932 1014,1932 1075,1932 1136,1932 1198,1932 1259,1932 1321,1932"/>
                 <TextEquiv>
                     <Unicode>grammen zu sehen, die Klangbedeutung dar, zugleich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l56" custom="readingOrder {index:5;}">
+            <TextLine id="r1l56" custom="readingOrder {index:5;} m_tonality {offset:16; length:19;}">
                 <Coords points="86,2004 1325,2004 1287,1954 86,1964"/>
                 <Baseline points="93,1991 154,1991 215,1991 276,1991 338,1991 399,1991 460,1991 521,1991 583,1991 644,1991 705,1991 766,1991 828,1991 889,1991 950,1992 1011,1992 1073,1992 1134,1992 1195,1992 1256,1992 1318,1993"/>
                 <TextEquiv>
                     <Unicode>auch die beiden gemischten Tonarten, in welchen derselbe</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l57" custom="readingOrder {index:6;}">
+            <TextLine id="r1l57" custom="readingOrder {index:6;} m_chord {offset:0; length:6;} concept_mus {offset:24; length:8;}">
                 <Coords points="93,2060 1327,2059 1295,2011 1188,2039 93,2021"/>
                 <Baseline points="101,2052 161,2051 222,2051 283,2050 344,2050 405,2050 466,2050 527,2050 588,2050 649,2050 710,2050 770,2050 831,2051 892,2051 953,2051 1014,2051 1075,2051 1136,2052 1197,2052 1258,2051 1319,2051"/>
                 <TextEquiv>

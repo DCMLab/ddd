@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:15.470+01:00</Created>
-        <LastChange>2021-05-28T12:20:25.950+02:00</LastChange>
-        <TranskribusMetadata docId="738836" pageId="28121827" pageNr="230" tsid="61992271" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=CODCTWFPJQJUVPLLLQLFCAIA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JHKQJLSBFUFDPIVTUCBWIXTA" imageId="21905197"/>
+        <LastChange>2021-09-10T10:52:03.400+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121827" pageNr="230" tsid="64575265" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=CODCTWFPJQJUVPLLLQLFCAIA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UYSDQYZVGCQDUFUOMDBLEEEY" imageId="21905197"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0239.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1631119966684" caption="Regions reading order">
+            <OrderedGroup id="ro_1631311011542" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1621267271985_7242"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1621267271985_7241"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1621267270353_7235"/>
@@ -32,7 +32,7 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621267271985_7241" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="205,192 1441,192 1441,333 205,333"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:32; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:40; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:41; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:31; length:3;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:32; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:40; length:9;} textStyle {offset:40; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:41; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="206,276 1441,275 1441,229 1138,210 206,225"/>
                 <Baseline points="214,258 275,259 336,259 397,259 458,259 519,259 580,260 641,260 702,260 763,260 824,260 885,260 946,260 1007,260 1068,260 1129,260 1190,260 1251,261 1312,261 1373,262 1434,262"/>
                 <TextEquiv>
@@ -60,14 +60,14 @@ muss.</Unicode>
                     <Unicode>In dem Abschnitte, zu welchem wir jetzt übergehen,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:1;}">
+            <TextLine id="r1l5" custom="readingOrder {index:1;} concept_mus {offset:15; length:10;}">
                 <Coords points="204,443 1449,450 1449,410 1392,404 204,410"/>
                 <Baseline points="211,437 272,438 334,438 395,439 457,439 518,440 580,440 641,441 703,441 764,441 826,442 887,442 949,442 1010,442 1072,443 1133,443 1195,443 1256,443 1318,443 1379,443 1441,444"/>
                 <TextEquiv>
                     <Unicode>werden wir die Harmonieen aller sechs zuletzt behandelten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+            <TextLine id="r1l6" custom="readingOrder {index:2;} concept_mus {offset:0; length:7;} concept_mus {offset:18; length:14;}">
                 <Coords points="197,502 1205,516 1205,479 1134,459 197,465"/>
                 <Baseline points="205,498 254,499 304,500 353,501 403,501 453,501 502,502 552,502 601,502 651,502 701,502 750,502 800,502 849,502 899,502 949,502 998,502 1048,502 1097,503 1147,503 1197,503"/>
                 <TextEquiv>

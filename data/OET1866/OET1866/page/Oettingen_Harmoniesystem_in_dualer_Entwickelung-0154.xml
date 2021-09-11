@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:12.535+01:00</Created>
-        <LastChange>2021-05-24T14:03:17.092+02:00</LastChange>
-        <TranskribusMetadata docId="738836" pageId="28121742" pageNr="145" tsid="61992140" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=BONUZGOQALFVTLTGJYRFUQFJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AYMGUJVEQDFCPAINDPHNOJLZ" imageId="21905112"/>
+        <LastChange>2021-09-09T12:30:35.616+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121742" pageNr="145" tsid="64458426" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=BONUZGOQALFVTLTGJYRFUQFJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MKGQLXXJELZFJTMFVXVDCWTL" imageId="21905112"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0154.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1631119954006" caption="Regions reading order">
+            <OrderedGroup id="ro_1631311002713" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1621247134702_339"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1621247134702_338"/>
                 <RegionRefIndexed index="2" regionRef="TextRegion_1621857175729_634"/>
@@ -38,21 +38,21 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1621247134702_338" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
             <Coords points="37,206 1279,206 1279,403 37,403"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} person_author {offset:18; length:2;ID:P0078;} work_text {offset:28; length:8;ID:W0122;}">
                 <Coords points="38,283 1273,267 1238,227 38,241"/>
                 <Baseline points="46,271 107,271 168,271 229,271 290,271 351,272 412,272 473,272 534,272 595,272 656,272 717,272 778,272 839,272 900,271 961,271 1022,270 1083,269 1144,268 1205,267 1266,266"/>
                 <TextEquiv>
                     <Unicode>meine Behauptung. Er giebt (pag. 241) folgenden Grund¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:27; length:13;}">
                 <Coords points="35,339 1251,340 1263,297 35,300"/>
                 <Baseline points="43,329 103,329 164,329 224,329 285,329 346,329 406,330 467,330 528,330 588,330 649,330 710,330 770,330 831,330 892,330 952,330 1013,330 1074,330 1134,329 1195,329 1256,328"/>
                 <TextEquiv>
                     <Unicode>riss daselbst für grössere Compositionen, dem ich statt der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:0; length:9;} concept_mus {offset:29; length:10;}">
                 <Coords points="36,403 1239,396 1239,365 1134,348 36,348"/>
                 <Baseline points="44,390 103,390 162,390 222,391 281,391 341,391 400,391 459,391 519,391 578,391 638,391 697,391 756,391 816,390 875,390 935,390 994,390 1053,390 1113,389 1172,389 1232,389"/>
                 <TextEquiv>
@@ -67,14 +67,14 @@ Mollnamen die entsprechenden phonischen Gebilde beisetze</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1621857175729_634" custom="readingOrder {index:2;} structure {type:list;}">
             <Coords points="37,403 1279,403 1279,539 37,539"/>
-            <TextLine id="r1l5" custom="readingOrder {index:0;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:7; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:14; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:30; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:38; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:45; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l5" custom="readingOrder {index:0;} m_tonality {offset:0; length:5;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:7; length:5;} textStyle {offset:7; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:14; length:6;} textStyle {offset:14; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:22; length:6;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:30; length:6;} textStyle {offset:30; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:38; length:5;} textStyle {offset:38; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:45; length:5;} textStyle {offset:45; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="142,460 1214,460 1214,418 1168,410 633,411 605,438 574,411 142,412"/>
                 <Baseline points="150,447 202,448 255,449 308,450 361,450 414,451 466,451 519,451 572,451 625,451 678,451 730,450 783,450 836,450 889,450 942,449 994,449 1047,449 1100,449 1153,449 1206,449"/>
                 <TextEquiv>
                     <Unicode>C-dur, G-dur, E-moll, A-moll, D-moll, F-dur, C-dur</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:1;} textStyle {offset:11; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:19; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:28; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:38; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:48; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:57; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:65; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l6" custom="readingOrder {index:1;} m_tonality {offset:6; length:6;} textStyle {offset:11; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:14; length:6;} textStyle {offset:19; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:22; length:8;} textStyle {offset:28; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:32; length:8;} textStyle {offset:38; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:42; length:8;} textStyle {offset:48; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:52; length:6;} textStyle {offset:57; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:60; length:6;} textStyle {offset:65; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="36,531 1065,539 1216,531 1216,489 36,491"/>
                 <Baseline points="44,517 102,518 160,519 218,519 277,520 335,520 393,520 451,520 510,520 568,520 626,520 684,519 743,519 801,519 859,518 917,518 976,518 1034,518 1092,518 1150,518 1209,518"/>
                 <TextEquiv>
@@ -88,21 +88,21 @@ also: ton. c, ton. g, phon. h}, phon. e}, phon. a}, ton. f, ton. c</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621857175729_633" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="37,539 1279,539 1279,896 37,896"/>
-            <TextLine id="line_1621857175759_636" custom="readingOrder {index:0;} textStyle {offset:13; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:43; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="line_1621857175759_636" custom="readingOrder {index:0;} textStyle {offset:13; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:13; length:4;ID:P0078;} concept_mus {offset:27; length:11;} m_tonality {offset:43; length:12;} textStyle {offset:43; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="33,539 1224,539 1264,584 33,588"/>
                 <Baseline points="41,577 101,577 162,578 223,578 284,578 344,578 405,578 466,578 527,578 587,578 648,578 709,578 770,578 830,578 891,577 952,577 1013,577 1073,576 1134,576 1195,576 1256,575"/>
                 <TextEquiv>
                     <Unicode>Offenbar hat Marx hier die Hauptklänge der c-dur-Tonart im</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:1;} textStyle {offset:36; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l8" custom="readingOrder {index:1;} m_tonality {offset:36; length:6;} textStyle {offset:36; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="38,651 1266,636 1126,595 309,623 38,595"/>
                 <Baseline points="46,638 106,638 167,638 227,638 288,638 349,638 409,638 470,638 530,638 591,638 652,638 712,638 773,638 833,638 894,638 955,637 1015,637 1076,637 1136,636 1197,635 1258,635"/>
                 <TextEquiv>
                     <Unicode>Auge gehabt und vielleicht desshalb D-moll mit aufgenom¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:2;} textStyle {offset:21; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l9" custom="readingOrder {index:2;} m_tonality {offset:21; length:6;} textStyle {offset:21; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:38; length:10;}">
                 <Coords points="30,708 1267,698 1203,660 30,668"/>
                 <Baseline points="38,698 99,698 160,697 221,697 282,697 343,697 404,697 465,697 526,698 587,698 649,698 710,698 771,698 832,697 893,697 954,697 1015,697 1076,696 1137,696 1198,695 1260,694"/>
                 <TextEquiv>
@@ -116,7 +116,7 @@ also: ton. c, ton. g, phon. h}, phon. e}, phon. a}, ton. f, ton. c</Unicode>
                     <Unicode>dings kein Hinderniss. — Betrachten wir die jedesmal ge¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:4;}">
+            <TextLine id="r1l12" custom="readingOrder {index:4;} m_tonality {offset:8; length:6;}">
                 <Coords points="37,828 1276,812 1247,778 37,786"/>
                 <Baseline points="45,816 106,816 167,816 228,817 289,817 350,817 411,817 473,818 534,818 595,818 656,818 717,818 778,818 839,818 901,818 962,818 1023,817 1084,817 1145,816 1206,815 1268,814"/>
                 <TextEquiv>
@@ -141,14 +141,14 @@ folgende Reihe:</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1621247128613_330" custom="readingOrder {index:4;} structure {type:list;}">
             <Coords points="37,896 1279,896 1279,1013 37,1013"/>
-            <TextLine id="r1l14" custom="readingOrder {index:0;}">
+            <TextLine id="r1l14" custom="readingOrder {index:0;} concept_mus {offset:0; length:13;} m_tonality {offset:15; length:14;} concept_mus {offset:31; length:13;} concept_mus {offset:46; length:6; continued:true;}">
                 <Coords points="98,945 1191,938 1117,898 98,900"/>
                 <Baseline points="106,935 159,935 213,936 267,936 321,936 375,937 429,937 483,937 537,937 591,937 645,937 698,937 752,937 806,937 860,936 914,936 968,935 1022,935 1076,934 1130,934 1184,933"/>
                 <TextEquiv>
                     <Unicode>Oberdominante, Paralleltonart, Unterregnante, Unter¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:1;}">
+            <TextLine id="r1l15" custom="readingOrder {index:1;} concept_mus {offset:0; length:8; continued:true;} m_tonality {offset:10; length:14;} concept_mus {offset:26; length:13;}">
                 <Coords points="233,1005 1056,1003 1056,973 1015,955 233,971"/>
                 <Baseline points="240,993 280,994 320,995 361,996 401,996 442,997 482,997 522,997 563,997 603,997 644,997 684,996 724,996 765,996 805,996 846,995 886,995 926,995 967,995 1007,995 1048,995"/>
                 <TextEquiv>
@@ -162,35 +162,35 @@ regnante, Paralleltonart, Oberdominante.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621247124069_326" custom="readingOrder {index:5;} structure {type:paragraph;}">
             <Coords points="37,1013 1279,1013 1279,1734 37,1734"/>
-            <TextLine id="r1l16" custom="readingOrder {index:0;} textStyle {offset:42; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l16" custom="readingOrder {index:0;} concept_mus {offset:22; length:10;} textStyle {offset:42; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
                 <Coords points="126,1068 1274,1065 1274,1026 1040,1011 886,1043 126,1019"/>
                 <Baseline points="134,1053 190,1054 247,1054 303,1054 360,1055 417,1055 473,1055 530,1055 586,1055 643,1056 700,1056 756,1056 813,1056 869,1055 926,1055 983,1055 1039,1055 1096,1054 1152,1054 1209,1054 1266,1053"/>
                 <TextEquiv>
                     <Unicode>Mithin nimmt hier die Modulation nach der oberen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:1;} textStyle {offset:39; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l17" custom="readingOrder {index:1;} m_interval {offset:0; length:6;} m_tonality {offset:25; length:3;} textStyle {offset:39; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:47; length:6;}">
                 <Coords points="40,1131 1269,1123 1239,1075 652,1104 40,1076"/>
                 <Baseline points="47,1113 107,1114 168,1114 229,1115 290,1115 350,1115 411,1115 472,1115 533,1115 593,1115 654,1115 715,1115 776,1115 836,1114 897,1114 958,1114 1019,1113 1079,1113 1140,1113 1201,1113 1262,1113"/>
                 <TextEquiv>
                     <Unicode>Quinte den Hauptplatz in Dur, nach der unteren Quinte in</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:2;}">
+            <TextLine id="r1l18" custom="readingOrder {index:2;} m_tonality {offset:0; length:4;}">
                 <Coords points="36,1182 1281,1173 1236,1132 1069,1163 281,1131 222,1163 36,1131"/>
                 <Baseline points="44,1171 105,1172 167,1173 228,1174 290,1174 351,1175 413,1175 474,1176 536,1176 597,1176 659,1176 720,1176 782,1175 843,1175 905,1175 966,1174 1028,1174 1089,1173 1151,1172 1212,1172 1274,1171"/>
                 <TextEquiv>
                     <Unicode>Moll ein. Der Leser mag sich davon überzeugen, dass die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:3;}">
+            <TextLine id="r1l19" custom="readingOrder {index:3;} m_tonality {offset:16; length:14;}">
                 <Coords points="39,1243 1265,1235 1244,1203 1067,1195 842,1224 39,1194"/>
                 <Baseline points="47,1232 107,1232 168,1233 228,1233 289,1233 349,1234 410,1234 470,1234 531,1234 591,1234 652,1235 712,1235 773,1235 833,1235 894,1234 954,1234 1015,1234 1075,1234 1136,1233 1196,1233 1257,1233"/>
                 <TextEquiv>
                     <Unicode>Ordnung für das Mollgeschlecht eines solchen Zusammen¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:4;} textStyle {offset:21; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l20" custom="readingOrder {index:4;} textStyle {offset:21; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:21; length:4;ID:P0078;} work_text {offset:42; length:8;ID:W0122;}">
                 <Coords points="30,1297 1266,1293 1166,1250 1072,1283 978,1250 30,1251"/>
                 <Baseline points="38,1292 99,1293 160,1293 221,1294 282,1294 343,1295 404,1295 465,1295 526,1295 587,1295 648,1295 709,1295 770,1295 831,1295 892,1294 953,1294 1014,1294 1075,1293 1136,1293 1197,1292 1258,1292"/>
                 <TextEquiv>
@@ -204,28 +204,28 @@ regnante, Paralleltonart, Oberdominante.</Unicode>
                     <Unicode>ten 1). Ich mache nur noch darauf aufmerksam, dass an¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:6;}">
+            <TextLine id="r1l22" custom="readingOrder {index:6;} concept_mus {offset:22; length:16;} concept_mus {offset:39; length:17;}">
                 <Coords points="30,1419 1270,1420 1216,1371 895,1399 30,1371"/>
                 <Baseline points="38,1412 99,1412 160,1413 221,1413 282,1414 344,1414 405,1414 466,1414 527,1414 588,1414 650,1414 711,1414 772,1414 833,1414 894,1413 956,1413 1017,1412 1078,1412 1139,1411 1200,1411 1262,1410"/>
                 <TextEquiv>
                     <Unicode>fänglich von den vier nächstverwandten Modulationszielen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:7;} textStyle {offset:13; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l23" custom="readingOrder {index:7;} textStyle {offset:13; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:13; length:4;ID:P0078;}">
                 <Coords points="37,1483 1257,1483 1268,1432 1185,1462 37,1443"/>
                 <Baseline points="45,1471 105,1472 166,1472 227,1472 288,1473 349,1473 409,1473 470,1473 531,1473 592,1473 653,1473 713,1473 774,1473 835,1473 896,1473 957,1473 1017,1472 1078,1472 1139,1472 1200,1472 1261,1471"/>
                 <TextEquiv>
                     <Unicode>nur drei von Marx berücksichtigt werden (s. d. Anm. auf</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:8;}">
+            <TextLine id="r1l24" custom="readingOrder {index:8;} work_text {offset:0; length:9;ID:W0122;} m_tonality {offset:43; length:11;}">
                 <Coords points="37,1539 1258,1556 1245,1492 275,1520 37,1491"/>
                 <Baseline points="44,1532 104,1532 164,1533 225,1533 285,1533 345,1533 406,1534 466,1534 526,1534 587,1534 647,1534 707,1534 768,1534 828,1534 888,1533 949,1533 1009,1533 1069,1532 1130,1532 1190,1531 1251,1531"/>
                 <TextEquiv>
-                    <Unicode>Seite 253), während die vierte, die in die Leit - Tonart,</Unicode>
+                    <Unicode>Seite 253), während die vierte, die in die Leit-Tonart,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:9;}">
+            <TextLine id="r1l25" custom="readingOrder {index:9;} work_text {offset:18; length:6;ID:W0122;}">
                 <Coords points="39,1603 1250,1604 1270,1562 39,1563"/>
                 <Baseline points="46,1590 106,1591 167,1592 228,1593 289,1593 350,1594 410,1594 471,1594 532,1594 593,1594 654,1593 714,1593 775,1592 836,1592 897,1592 958,1591 1018,1591 1079,1591 1140,1590 1201,1590 1262,1590"/>
                 <TextEquiv>
@@ -239,7 +239,7 @@ regnante, Paralleltonart, Oberdominante.</Unicode>
                     <Unicode>findet man auch einige werthvolle Andeutungen über das</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:11;}">
+            <TextLine id="r1l27" custom="readingOrder {index:11;} concept_mus {offset:17; length:10;}">
                 <Coords points="37,1724 669,1723 670,1697 604,1675 302,1675 280,1694 37,1667"/>
                 <Baseline points="45,1709 75,1710 106,1710 137,1711 168,1711 199,1711 229,1711 260,1712 291,1712 322,1712 353,1712 383,1712 414,1712 445,1712 476,1713 507,1713 537,1713 568,1713 599,1713 630,1714 661,1714"/>
                 <TextEquiv>
@@ -255,7 +255,7 @@ hanges entbehrt, wie Marx selbst bekennt (pag. 241 un¬&#13;
 ten 1). Ich mache nur noch darauf aufmerksam, dass an¬&#13;
 fänglich von den vier nächstverwandten Modulationszielen&#13;
 nur drei von Marx berücksichtigt werden (s. d. Anm. auf&#13;
-Seite 253), während die vierte, die in die Leit - Tonart,&#13;
+Seite 253), während die vierte, die in die Leit-Tonart,&#13;
 erst später (Anm. S. 238) namhaft gemacht wird. Hier&#13;
 findet man auch einige werthvolle Andeutungen über das&#13;
 Vorkommen dieser Modulation.</Unicode>
@@ -263,7 +263,7 @@ Vorkommen dieser Modulation.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="heading" id="TextRegion_1621247113899_322" custom="readingOrder {index:6;} structure {type:heading;}">
             <Coords points="37,1734 1279,1734 1279,1840 37,1840"/>
-            <TextLine id="r1l28" custom="readingOrder {index:0;} textStyle {offset:0; length:15;fontSize:0.0; kerning:0; bold:true;}">
+            <TextLine id="r1l28" custom="readingOrder {index:0;} textStyle {offset:0; length:15;fontSize:0.0; kerning:0; bold:true;} concept_mus {offset:3; length:11;}">
                 <Coords points="480,1828 566,1818 591,1829 717,1825 771,1837 831,1818 831,1800 777,1788 760,1771 612,1787 586,1770 543,1803 512,1772 479,1771"/>
                 <Baseline points="487,1816 512,1816 538,1817 564,1817 590,1817 616,1817 642,1816 667,1816 693,1816 719,1815 745,1815 771,1815 797,1815 823,1815"/>
                 <TextEquiv>
@@ -276,21 +276,21 @@ Vorkommen dieser Modulation.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1621247111821_318" custom="readingOrder {index:7;} structure {type:paragraph-continued;}">
             <Coords points="37,1840 1279,1840 1279,2057 37,2057"/>
-            <TextLine id="r1l29" custom="readingOrder {index:0;}">
+            <TextLine id="r1l29" custom="readingOrder {index:0;} concept_mus {offset:4; length:11;} concept_mus {offset:16; length:11;} concept_phy {offset:16; length:11;}">
                 <Coords points="126,1900 1264,1899 1264,1859 1200,1851 493,1878 126,1851"/>
                 <Baseline points="133,1890 189,1890 245,1890 301,1890 357,1890 414,1890 470,1890 526,1890 582,1890 638,1890 695,1890 751,1890 807,1890 863,1890 919,1890 976,1890 1032,1889 1088,1889 1144,1889 1200,1888 1257,1888"/>
                 <TextEquiv>
                     <Unicode>Die Accordfolge consonanter Gebilde innerhalb eines</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:1;}">
+            <TextLine id="r1l30" custom="readingOrder {index:1;} concept_mus {offset:0; length:25;}">
                 <Coords points="39,1971 1265,1963 1265,1923 1103,1907 39,1923"/>
                 <Baseline points="46,1951 106,1951 167,1951 227,1951 288,1951 349,1951 409,1951 470,1951 530,1951 591,1951 652,1950 712,1950 773,1950 833,1950 894,1950 955,1950 1015,1949 1076,1949 1136,1949 1197,1948 1258,1948"/>
                 <TextEquiv>
                     <Unicode>geschlossenen Tonsystemes bietet keine Schwierigkeiten, so</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:2;}">
+            <TextLine id="r1l31" custom="readingOrder {index:2;} concept_mus {offset:34; length:15;}">
                 <Coords points="43,2019 1260,2018 1249,1971 374,1999 43,1971"/>
                 <Baseline points="50,2010 110,2011 170,2011 230,2012 290,2012 350,2012 410,2012 471,2012 531,2011 591,2011 651,2011 711,2010 771,2010 831,2009 892,2009 952,2009 1012,2009 1072,2009 1132,2009 1192,2009 1253,2009"/>
                 <TextEquiv>
@@ -305,21 +305,21 @@ lange man sich an das Prinzip der Klangvertretung hält.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1621247108184_314" custom="readingOrder {index:8;} structure {type:footnote;}">
             <Coords points="37,2057 1279,2057 1279,2269 37,2269"/>
-            <TextLine id="r1l32" custom="readingOrder {index:0;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:23; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:30; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:38; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l32" custom="readingOrder {index:0;} m_tonality {offset:15; length:6;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:23; length:5;} textStyle {offset:23; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:30; length:6;} textStyle {offset:30; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:38; length:6;} textStyle {offset:38; length:1;italic:true; fontSize:0.0; kerning:0;} work_text {offset:46; length:6;ID:W0122;} concept_mus {offset:60; length:11;}">
                 <Coords points="137,2160 1274,2144 1253,2114 137,2115"/>
                 <Baseline points="145,2143 201,2144 257,2144 313,2144 369,2144 425,2144 481,2144 537,2144 593,2144 649,2144 705,2144 761,2143 817,2143 873,2143 929,2143 985,2142 1041,2142 1097,2142 1153,2142 1209,2142 1266,2142"/>
                 <TextEquiv>
                     <Unicode>1) Die Ordnung E-moll, F-dur, D-moll, A-moll (S. 242) steht theoretisch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:1;} textStyle {offset:70; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:79; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l33" custom="readingOrder {index:1;} concept_mus {offset:5; length:12;} m_tonality {offset:66; length:6;} textStyle {offset:70; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:74; length:6;} textStyle {offset:79; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="39,2211 1248,2212 1268,2160 39,2171"/>
                 <Baseline points="47,2195 107,2196 168,2197 228,2197 289,2198 350,2198 410,2197 471,2197 532,2197 592,2196 653,2196 714,2195 774,2195 835,2194 896,2194 956,2194 1017,2194 1078,2194 1138,2194 1199,2195 1260,2196"/>
                 <TextEquiv>
                     <Unicode>ganz unvermittelt da, wie man aus folgender Uebersetzung erkennt: ph. h}, ton. f,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:2;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:12; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:53; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l34" custom="readingOrder {index:2;} m_tonality {offset:0; length:6;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:8; length:6;} textStyle {offset:12; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:27; length:9;} textStyle {offset:53; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:53; length:4;ID:P0078;}">
                 <Coords points="39,2266 1167,2259 1220,2251 1220,2214 39,2226"/>
                 <Baseline points="47,2250 105,2250 163,2250 221,2250 280,2250 338,2250 396,2250 454,2250 513,2249 571,2249 629,2249 687,2248 746,2248 804,2248 862,2247 920,2247 979,2246 1037,2246 1095,2246 1153,2245 1212,2245"/>
                 <TextEquiv>

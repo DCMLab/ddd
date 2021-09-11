@@ -6,12 +6,12 @@ prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias
 prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
 Transkribus</Creator>
         <Created>2021-03-18T14:22:12.463+01:00</Created>
-        <LastChange>2021-05-24T13:42:15.301+02:00</LastChange>
-        <TranskribusMetadata docId="738836" pageId="28121740" pageNr="143" tsid="61992137" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=XGYAKOWQGOSZDBEBQBCUMEAF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VYEJCITZDVFJXDOGHTCTAZVF" imageId="21905110"/>
+        <LastChange>2021-09-09T12:20:18.598+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121740" pageNr="143" tsid="64457297" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=XGYAKOWQGOSZDBEBQBCUMEAF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JTXEQWVLWDQOPITSRBBCSCBA" imageId="21905110"/>
     </Metadata>
     <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0152.jpg" imageWidth="1502" imageHeight="2450" type="content">
         <ReadingOrder>
-            <OrderedGroup id="ro_1631119953659" caption="Regions reading order">
+            <OrderedGroup id="ro_1631311002495" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1621246869050_156"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1621246869050_155"/>
                 <RegionRefIndexed index="3" regionRef="TextRegion_1621246861185_147"/>
@@ -36,56 +36,56 @@ Transkribus</Creator>
         </TextRegion>
         <TextRegion orientation="0.0" id="TextRegion_1621246869050_155" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
             <Coords points="27,201 1272,201 1272,946 27,946"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_tonality {offset:0; length:6;}">
                 <Coords points="29,284 1256,291 1256,235 1216,226 29,235"/>
                 <Baseline points="36,271 96,271 157,271 217,271 278,271 339,271 399,271 460,271 521,271 581,271 642,271 703,271 763,271 824,271 885,272 945,272 1006,272 1067,273 1127,273 1188,273 1249,274"/>
                 <TextEquiv>
                     <Unicode>tonart ist zwar ebenso statthaft, und wird ebenso häufig</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:40; length:10;}">
                 <Coords points="25,340 1257,339 1257,306 1179,291 25,297"/>
                 <Baseline points="33,330 93,330 154,330 215,330 276,330 337,330 398,330 458,330 519,330 580,330 641,330 702,331 763,331 824,331 884,331 945,331 1006,332 1067,332 1128,332 1189,333 1250,333"/>
                 <TextEquiv>
                     <Unicode>vorkommen, wie der umgekehrte Fall, die Modulation einer</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_tonality {offset:0; length:10;} concept_mus {offset:18; length:9;} m_tonality {offset:28; length:19;}">
                 <Coords points="26,403 1259,400 1259,365 1183,355 26,354"/>
                 <Baseline points="33,388 97,389 161,390 225,390 289,391 353,391 417,391 482,391 546,391 610,391 674,391 738,391 802,391 867,391 931,391 995,391 1059,391 1123,391 1187,391 1252,391"/>
                 <TextEquiv>
-                    <Unicode>Dur - Tonart in das phonische Parallel - Geschlecht. Wenn</Unicode>
+                    <Unicode>Dur-Tonart in das phonische Parallel-Geschlecht. Wenn</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:14; length:7;} concept_mus {offset:23; length:11;}">
                 <Coords points="26,460 1246,453 1232,421 1088,411 26,414"/>
                 <Baseline points="34,449 94,449 154,450 214,450 275,450 335,450 395,450 455,450 516,450 576,450 636,450 696,450 757,450 817,450 877,449 937,449 998,449 1058,449 1118,449 1178,449 1239,449"/>
                 <TextEquiv>
                     <Unicode>aber dort für Sonaten, Symphonieen und überhaupt für grös¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:5; length:5;} concept_mus {offset:15; length:10;} concept_mus {offset:35; length:14;}">
                 <Coords points="26,523 1250,523 1250,491 1135,475 26,483"/>
                 <Baseline points="34,510 94,510 154,511 215,511 275,511 336,511 396,511 456,512 517,512 577,512 638,512 698,512 758,512 819,512 879,511 940,511 1000,511 1060,511 1121,511 1181,511 1242,511"/>
                 <TextEquiv>
                     <Unicode>sere Sätze die Modulation nach der Ober-Dominante beson¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;} textStyle {offset:50; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;} textStyle {offset:50; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:50; length:10; continued:true;}">
                 <Coords points="25,579 1252,574 1168,531 25,532"/>
                 <Baseline points="33,569 93,570 154,570 214,570 275,570 335,570 396,570 456,570 517,570 577,571 638,571 699,571 759,571 820,571 880,571 941,570 1001,570 1062,570 1122,569 1183,569 1244,568"/>
                 <TextEquiv>
                     <Unicode>ders bevorzugt wird, so wird es hier die nach der Unter-Reg¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:46; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:5; continued:true;} textStyle {offset:46; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:46; length:6; continued:true;ID:P0007;}">
                 <Coords points="26,644 1248,635 1220,594 921,586 26,605"/>
                 <Baseline points="34,630 94,630 154,631 214,631 275,631 335,631 395,631 456,631 516,631 576,631 637,631 697,631 757,631 817,631 878,631 938,631 998,630 1059,630 1119,630 1179,630 1240,630"/>
                 <TextEquiv>
                     <Unicode>nante sein. Das Hauptmotiv dafür wird das von Haupt¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:7;} textStyle {offset:0; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;} textStyle {offset:0; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:0; length:4; continued:true;ID:P0007;} m_tonality {offset:13; length:9;} concept_mus {offset:46; length:10;}">
                 <Coords points="27,699 1047,711 1250,698 1250,655 27,659"/>
                 <Baseline points="35,690 95,690 155,690 216,690 276,690 336,690 397,690 457,690 517,690 578,690 638,690 698,690 759,690 819,691 879,691 940,691 1000,690 1060,690 1121,690 1181,690 1242,689"/>
                 <TextEquiv>
@@ -99,21 +99,21 @@ Transkribus</Creator>
                     <Unicode>ist für die Ausweichung nach der unteren Seite eine Vorwärts¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+            <TextLine id="r1l11" custom="readingOrder {index:9;} concept_mus {offset:28; length:7;}">
                 <Coords points="26,820 1255,819 1227,770 26,771"/>
                 <Baseline points="33,806 93,807 154,808 215,808 275,809 336,809 397,809 457,810 518,810 579,810 640,810 700,809 761,809 822,809 882,809 943,809 1004,809 1064,810 1125,810 1186,811 1247,811"/>
                 <TextEquiv>
                     <Unicode>bildung nothwendig, und der Schluss wird ein leichter als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:10;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:49; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l12" custom="readingOrder {index:10;} concept_mus {offset:13; length:7;} m_tonality {offset:31; length:5;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:49; length:5;} textStyle {offset:49; length:1;italic:true; fontSize:0.0; kerning:0;}">
                 <Coords points="19,877 1260,878 1260,841 1205,827 19,828"/>
                 <Baseline points="27,867 88,868 149,869 210,869 272,870 333,870 394,871 455,871 517,871 578,871 639,871 700,871 762,871 823,871 884,870 945,870 1007,870 1068,870 1129,870 1190,870 1252,870"/>
                 <TextEquiv>
                     <Unicode>Rückkehr zur Phonica, dort aus g-dur zurück nach c-dur</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+            <TextLine id="r1l13" custom="readingOrder {index:11;} concept_mus {offset:10; length:10;}">
                 <Coords points="27,939 453,939 453,899 413,899 398,884 343,899 159,892 142,909 114,891 58,900 27,890"/>
                 <Baseline points="34,927 59,928 85,928 111,929 137,929 162,929 188,929 214,929 240,929 265,929 291,929 317,929 343,929 368,929 394,929 420,929 446,929"/>
                 <TextEquiv>
@@ -121,17 +121,17 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>tonart ist zwar ebenso statthaft, und wird ebenso häufig
-vorkommen, wie der umgekehrte Fall, die Modulation einer
-Dur - Tonart in das phonische Parallel - Geschlecht. Wenn
-aber dort für Sonaten, Symphonieen und überhaupt für grös¬
-sere Sätze die Modulation nach der Ober-Dominante beson¬
-ders bevorzugt wird, so wird es hier die nach der Unter-Reg¬
-nante sein. Das Hauptmotiv dafür wird das von Haupt¬
-mann für das Dursystem gegebene sein, hier im phonischen
-ist für die Ausweichung nach der unteren Seite eine Vorwärts¬
-bildung nothwendig, und der Schluss wird ein leichter als
-Rückkehr zur Phonica, dort aus g-dur zurück nach c-dur
+                <Unicode>tonart ist zwar ebenso statthaft, und wird ebenso häufig&#13;
+vorkommen, wie der umgekehrte Fall, die Modulation einer&#13;
+Dur-Tonart in das phonische Parallel-Geschlecht. Wenn&#13;
+aber dort für Sonaten, Symphonieen und überhaupt für grös¬&#13;
+sere Sätze die Modulation nach der Ober-Dominante beson¬&#13;
+ders bevorzugt wird, so wird es hier die nach der Unter-Reg¬&#13;
+nante sein. Das Hauptmotiv dafür wird das von Haupt¬&#13;
+mann für das Dursystem gegebene sein, hier im phonischen&#13;
+ist für die Ausweichung nach der unteren Seite eine Vorwärts¬&#13;
+bildung nothwendig, und der Schluss wird ein leichter als&#13;
+Rückkehr zur Phonica, dort aus g-dur zurück nach c-dur&#13;
 durch die Klangfolge</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -140,7 +140,7 @@ durch die Klangfolge</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621246861185_147" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="27,1018 1272,1018 1272,1085 27,1085"/>
-            <TextLine id="r1l15" custom="readingOrder {index:0;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:36; length:1;italic:true; fontSize:0.0; kerning:0;}">
+            <TextLine id="r1l15" custom="readingOrder {index:0;} m_tonality {offset:9; length:8;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:30; length:8;} textStyle {offset:36; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:49; length:5;}">
                 <Coords points="25,1076 1168,1068 1097,1019 772,1054 694,1026 334,1052 25,1027"/>
                 <Baseline points="33,1064 89,1065 145,1066 202,1067 258,1067 314,1067 371,1068 427,1068 483,1068 540,1068 596,1068 652,1068 709,1068 765,1068 821,1068 878,1068 934,1068 990,1067 1047,1067 1103,1067 1160,1067"/>
                 <TextEquiv>
@@ -156,21 +156,21 @@ durch die Klangfolge</Unicode>
         </GraphicRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621246852044_139" custom="readingOrder {index:5;} structure {type:paragraph;}">
             <Coords points="27,1157 1272,1157 1272,1333 27,1333"/>
-            <TextLine id="r1l17" custom="readingOrder {index:0;} textStyle {offset:26; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:37; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l17" custom="readingOrder {index:0;} textStyle {offset:26; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} person_composer {offset:26; length:9;ID:P0016;} textStyle {offset:37; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} person_composer {offset:37; length:6;ID:P0015;}">
                 <Coords points="126,1203 1252,1203 1266,1148 566,1181 126,1156"/>
                 <Baseline points="133,1192 189,1192 245,1193 301,1194 358,1194 414,1195 470,1195 527,1195 583,1195 639,1195 696,1195 752,1195 808,1195 864,1195 921,1195 977,1195 1033,1194 1090,1194 1146,1194 1202,1194 1259,1194"/>
                 <TextEquiv>
                     <Unicode>Wirklich findet man, dass Beethoven, Mozart und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:1;} textStyle {offset:11; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l18" custom="readingOrder {index:1;} textStyle {offset:11; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} person_composer {offset:11; length:8;ID:P0043;} concept_mus {offset:40; length:10;}">
                 <Coords points="28,1261 1260,1267 1239,1210 1150,1238 1047,1207 28,1220"/>
                 <Baseline points="36,1253 96,1254 157,1254 218,1255 279,1255 340,1255 400,1255 461,1255 522,1255 583,1255 644,1255 704,1255 765,1255 826,1255 887,1255 948,1255 1008,1255 1069,1255 1130,1255 1191,1256 1252,1256"/>
                 <TextEquiv>
                     <Unicode>namentlich Schumann bei weitem öfter in Mollsätzen nach</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:2;}">
+            <TextLine id="r1l19" custom="readingOrder {index:2;} concept_mus {offset:18; length:9;}">
                 <Coords points="26,1324 1055,1321 942,1267 899,1295 648,1274 614,1300 26,1275"/>
                 <Baseline points="33,1312 83,1312 134,1313 185,1313 236,1314 286,1314 337,1314 388,1314 439,1314 489,1315 540,1315 591,1315 642,1315 692,1315 743,1315 794,1315 845,1314 895,1314 946,1314 997,1314 1048,1313"/>
                 <TextEquiv>
@@ -185,14 +185,14 @@ der unteren Seite moduliren, als nach der oberen.</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621246843453_135" custom="readingOrder {index:6;} structure {type:paragraph;}">
             <Coords points="27,1333 1272,1333 1272,1990 27,1990"/>
-            <TextLine id="r1l20" custom="readingOrder {index:0;}">
+            <TextLine id="r1l20" custom="readingOrder {index:0;} m_tonality {offset:18; length:20;}">
                 <Coords points="121,1381 1255,1387 1255,1324 538,1358 121,1332"/>
                 <Baseline points="129,1371 184,1372 240,1373 296,1374 352,1374 408,1375 464,1375 520,1375 576,1375 632,1375 688,1374 743,1374 799,1374 855,1374 911,1374 967,1374 1023,1374 1079,1374 1135,1374 1191,1375 1247,1375"/>
                 <TextEquiv>
                     <Unicode>Wenn hiernach das phonische Geschlecht (und ebenso</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:1;}">
+            <TextLine id="r1l21" custom="readingOrder {index:1;} m_tonality {offset:4; length:10;}">
                 <Coords points="21,1442 1255,1434 1235,1394 21,1396"/>
                 <Baseline points="29,1431 89,1432 150,1432 211,1433 272,1433 333,1434 394,1434 455,1434 516,1434 577,1434 638,1434 698,1434 759,1434 820,1434 881,1434 942,1434 1003,1434 1064,1434 1125,1434 1186,1433 1247,1433"/>
                 <TextEquiv>
@@ -206,42 +206,42 @@ der unteren Seite moduliren, als nach der oberen.</Unicode>
                     <Unicode>tet ist, so erwächst im Widerspruch gegen die bisherigen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:3;}">
+            <TextLine id="r1l23" custom="readingOrder {index:3;} concept_mus {offset:18; length:10;}">
                 <Coords points="31,1563 1244,1562 1215,1516 234,1541 32,1510"/>
                 <Baseline points="39,1550 98,1551 158,1552 218,1552 278,1553 338,1553 398,1553 457,1553 517,1553 577,1553 637,1553 697,1553 757,1553 817,1553 876,1552 936,1552 996,1553 1056,1553 1116,1553 1176,1554 1236,1555"/>
                 <TextEquiv>
                     <Unicode>Theorieen für die Modulation ein weiterer Gesichtskreis.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:4;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:10; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+            <TextLine id="r1l24" custom="readingOrder {index:4;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:0; length:9;ID:P0007;} textStyle {offset:10; length:1;fontSize:0.0; kerning:0; superscript:true;}">
                 <Coords points="26,1620 1250,1620 1223,1572 1103,1563 475,1600 26,1571"/>
                 <Baseline points="34,1608 94,1609 154,1610 215,1611 275,1612 336,1612 396,1612 456,1612 517,1612 577,1612 638,1612 698,1611 758,1611 819,1611 879,1611 940,1611 1000,1611 1060,1611 1121,1612 1181,1612 1242,1613"/>
                 <TextEquiv>
                     <Unicode>Hauptmann 1) sagt: „Nach der vorhergegangenen Betrach¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:5;}">
+            <TextLine id="r1l25" custom="readingOrder {index:5;} m_tonality {offset:30; length:6;}">
                 <Coords points="28,1675 1261,1680 1197,1634 28,1634"/>
                 <Baseline points="35,1667 99,1668 163,1670 227,1671 291,1671 355,1672 419,1672 484,1672 548,1672 612,1672 676,1671 740,1671 804,1671 869,1671 933,1671 997,1671 1061,1671 1125,1672 1189,1672 1254,1673"/>
                 <TextEquiv>
                     <Unicode>tung wird aber überhaupt jede Tonart, welche gegen eine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:6;}">
+            <TextLine id="r1l26" custom="readingOrder {index:6;} concept_mus {offset:7; length:11;} concept_mus {offset:19; length:7;} m_note {offset:27; length:4;}">
                 <Coords points="30,1739 1265,1739 1230,1692 30,1700"/>
                 <Baseline points="37,1729 98,1730 159,1730 220,1731 281,1731 342,1731 403,1732 464,1732 525,1732 586,1732 647,1732 708,1732 769,1732 830,1732 891,1732 952,1732 1013,1732 1074,1732 1135,1733 1196,1733 1257,1734"/>
                 <TextEquiv>
                     <Unicode>andere chromatisch erhöhte Töne enthält, sich zu dieser als</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:7;}">
+            <TextLine id="r1l27" custom="readingOrder {index:7;} m_tonality {offset:46; length:6;}">
                 <Coords points="26,1798 1253,1803 1253,1760 1207,1748 1172,1782 26,1753"/>
                 <Baseline points="33,1786 93,1788 154,1790 214,1791 275,1792 336,1793 396,1793 457,1793 518,1793 578,1793 639,1793 700,1793 760,1793 821,1792 882,1792 942,1792 1003,1792 1064,1792 1124,1792 1185,1792 1246,1793"/>
                 <TextEquiv>
                     <Unicode>eine gesteigerte, gespanntere verhalten; eine Tonart, die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:8;}">
+            <TextLine id="r1l28" custom="readingOrder {index:8;} concept_mus {offset:11; length:11;} concept_mus {offset:23; length:9;} m_note {offset:33; length:4;}">
                 <Coords points="22,1859 1257,1852 1096,1812 22,1818"/>
                 <Baseline points="29,1849 90,1849 151,1850 212,1850 273,1850 334,1851 395,1851 456,1851 517,1851 578,1851 639,1851 700,1851 761,1851 822,1851 883,1851 944,1851 1005,1851 1066,1850 1127,1850 1188,1850 1249,1850"/>
                 <TextEquiv>
@@ -285,7 +285,7 @@ gere, weniger gespannte erscheinen”.</Unicode>
                     <Unicode>Dieser Ausspruch verstösst gegen den ganzen Gegen¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1621246981597_229" custom="readingOrder {index:1;}">
+            <TextLine id="line_1621246981597_229" custom="readingOrder {index:1;} m_tonality {offset:27; length:15;}">
                 <Coords points="30,2100 1262,2099 1262,2061 1210,2050 30,2058"/>
                 <Baseline points="38,2085 71,2090 104,2091 114,2089 154,2090 194,2091 234,2092 274,2092 314,2092 354,2093 394,2093 434,2093 474,2092 515,2092 555,2092 595,2092 635,2092 675,2091 715,2091 755,2091 795,2091 835,2091 875,2091 916,2092 926,2090 951,2090 976,2090 1001,2090 1026,2091 1052,2091 1077,2092 1102,2092 1127,2093 1153,2093 1178,2093 1203,2093 1228,2093 1254,2093"/>
                 <TextEquiv>
@@ -299,7 +299,7 @@ satz in der Generation der Tongeschlechter. War eben das</Unicode>
         </TextRegion>
         <TextRegion orientation="0.0" type="footnote" id="TextRegion_1621246830190_127" custom="readingOrder {index:8;} structure {type:footnote;}">
             <Coords points="27,2149 1272,2149 1272,2316 27,2316"/>
-            <TextLine id="r1l35" custom="readingOrder {index:0;} textStyle {offset:3; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+            <TextLine id="r1l35" custom="readingOrder {index:0;} textStyle {offset:3; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:3; length:9;ID:P0007;} work_text {offset:13; length:5;ID:W0004;}">
                 <Coords points="115,2261 626,2256 626,2225 605,2219 461,2232 413,2219 165,2230 116,2218"/>
                 <Baseline points="123,2251 149,2251 175,2252 201,2252 227,2252 253,2253 279,2253 305,2253 331,2254 357,2254 383,2254 409,2255 435,2255 461,2255 487,2255 513,2255 539,2255 565,2254 591,2254 618,2253"/>
                 <TextEquiv>
