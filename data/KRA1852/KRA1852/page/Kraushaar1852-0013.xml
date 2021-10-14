@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-09-22T14:25:22.301+02:00</Created>
+        <LastChange>2021-10-08T10:51:37.871+02:00</LastChange>
+        <TranskribusMetadata docId="786648" pageId="29710607" pageNr="13" tsid="66128270" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ASKMKMCAZACWUOVOPVTRDNIR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SRRZINZNGWHSKJXKMZYTVSMY" imageId="23310109"/>
+    </Metadata>
+    <Page imageFilename="Kraushaar1852-0013.jpg" imageWidth="5704" imageHeight="9212" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1634213918711" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1632816760990_436"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1632816753583_433"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1632816750546_428"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1632816746136_424"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1632816760990_436" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2807,725 2807,775 2934,775 2934,725"/>
+            <TextLine id="line_1632816761019_439" custom="readingOrder {index:0;}">
+                <Coords points="2788,804 2820,796 2840,816 2864,816 2952,800 2952,516 2844,508 2824,528 2788,528"/>
+                <Baseline points="2807,770 2934,770"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1632816753583_433" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="748,1028 4922,1028 4922,1384 748,1384"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;} m_interval {offset:0; length:5;} concept_mus {offset:10; length:13;} concept_phy {offset:10; length:13;} m_chord {offset:24; length:11;}">
+                <Coords points="751,1165 4503,1236 4946,1186 4947,946 3071,1028 2733,896 752,899"/>
+                <Baseline points="778,1124 985,1122 1192,1122 1399,1122 1606,1122 1814,1122 2021,1122 2228,1122 2435,1124 2642,1124 2850,1126 3057,1126 3264,1128 3471,1130 3678,1130 3886,1132 4093,1132 4300,1134 4507,1134 4714,1134 4922,1134"/>
+                <TextEquiv>
+                    <Unicode>Sexte, zu dissonirenden Vierklängen, wie aus dem Beispiel 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="740,1400 823,1406 886,1365 917,1386 954,1350 1193,1410 1272,1364 1318,1401 1371,1360 1417,1402 1496,1372 1497,1247 1347,1177 1154,1222 950,1209 868,1172 742,1181"/>
+                <Baseline points="768,1318 803,1320 838,1320 873,1320 908,1320 943,1320 978,1320 1013,1320 1048,1320 1083,1320 1118,1320 1153,1320 1188,1320 1223,1320 1258,1322 1293,1322 1328,1324 1363,1325 1398,1327 1433,1328 1468,1330"/>
+                <TextEquiv>
+                    <Unicode>hervorgeht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sexte, zu dissonirenden Vierklängen, wie aus dem Beispiel 2&#13;
+hervorgeht.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1632816801181_463" custom="readingOrder {index:2;} structure {type:floating;}">
+            <Coords points="748,1384 4922,1384 4922,1939 748,1939"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1632816750546_428" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="748,1939 4922,1939 4922,5790 748,5790"/>
+            <TextLine id="r2l15" custom="readingOrder {index:0;}">
+                <Coords points="1040,2135 4902,2164 4902,1961 4777,1929 1041,1953"/>
+                <Baseline points="1066,2096 1256,2096 1446,2094 1637,2095 1827,2096 2018,2096 2208,2098 2398,2100 2589,2100 2779,2102 2970,2104 3160,2106 3350,2106 3541,2108 3731,2108 3922,2108 4112,2108 4302,2106 4493,2104 4683,2102 4874,2098"/>
+                <TextEquiv>
+                    <Unicode>Aber so bestimmt auch diese und manche andere Angaben in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:1;} concept_mus {offset:12; length:13;} m_tonality {offset:58; length:4; continued:true;}">
+                <Coords points="732,2325 4916,2346 4916,2195 4588,2122 3525,2225 732,2127"/>
+                <Baseline points="760,2302 966,2300 1172,2300 1379,2300 1585,2300 1792,2300 1998,2302 2204,2302 2411,2304 2617,2304 2824,2306 3030,2306 3236,2308 3443,2308 3649,2308 3856,2308 4062,2308 4268,2306 4475,2304 4681,2300 4888,2296"/>
+                <TextEquiv>
+                    <Unicode>Betreff der Accordbildung Jedem erscheinen mögen, der die Ton¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:2;} m_tonality {offset:0; length:7; continued:true;} m_interval {offset:16; length:10;}">
+                <Coords points="744,2540 4892,2555 4893,2362 4309,2303 745,2373"/>
+                <Baseline points="772,2500 976,2500 1181,2498 1386,2498 1591,2498 1796,2498 2000,2500 2205,2500 2410,2500 2615,2502 2820,2502 3024,2504 3229,2504 3434,2504 3639,2506 3844,2506 4048,2506 4253,2506 4458,2506 4663,2506 4868,2504"/>
+                <TextEquiv>
+                    <Unicode>leitern und die Intervalle ihrem Namen und ihrer Größe nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:3;} concept_mus {offset:32; length:14;}">
+                <Coords points="742,2742 4911,2716 4911,2602 4384,2559 3905,2663 2816,2516 742,2575"/>
+                <Baseline points="768,2702 973,2702 1179,2700 1385,2700 1591,2700 1797,2702 2003,2702 2209,2702 2415,2704 2621,2705 2827,2706 3032,2706 3238,2708 3444,2708 3650,2708 3856,2708 4062,2708 4268,2706 4474,2704 4680,2702 4886,2698"/>
+                <TextEquiv>
+                    <Unicode>kennt; so oft sich jeder dieser Zusammenklänge, abgesehen von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:4;} concept_mus {offset:25; length:7;}">
+                <Coords points="742,2935 4911,2935 4911,2804 4593,2741 742,2758"/>
+                <Baseline points="768,2904 973,2902 1179,2900 1385,2900 1591,2900 1797,2900 2003,2900 2209,2902 2415,2902 2621,2904 2827,2904 3032,2906 3238,2906 3444,2908 3650,2908 3856,2908 4062,2906 4268,2906 4474,2904 4680,2900 4886,2898"/>
+                <TextEquiv>
+                    <Unicode>der höheren und tieferen Tonlage, in welcher derselbe dem Hörer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:5;} concept_phy {offset:26; length:10;}">
+                <Coords points="737,3117 4917,3131 4917,2959 4240,2932 738,2997"/>
+                <Baseline points="764,3104 970,3104 1176,3102 1382,3102 1589,3102 1795,3102 2001,3102 2208,3102 2414,3104 2620,3104 2827,3104 3033,3106 3239,3106 3445,3106 3652,3106 3858,3106 4064,3106 4271,3106 4477,3104 4683,3104 4890,3102"/>
+                <TextEquiv>
+                    <Unicode>entgegen tritt, als etwas periodisch Wiederkehrendes, Gesetzliches</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:6;} concept_mus {offset:32; length:10;}">
+                <Coords points="732,3337 4500,3320 4890,3436 4891,3206 4005,3126 3635,3255 3401,3130 732,3175"/>
+                <Baseline points="756,3306 961,3306 1166,3304 1372,3304 1577,3304 1783,3304 1988,3304 2193,3304 2399,3304 2604,3306 2810,3306 3015,3306 3220,3306 3426,3308 3631,3308 3837,3310 4042,3310 4247,3312 4453,3312 4658,3314 4864,3314"/>
+                <TextEquiv>
+                    <Unicode>an dem vor ihm vorüberziehenden Tongebilde auch erweisen mag:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:7;} concept_mus {offset:28; length:10;} m_chord {offset:51; length:7;}">
+                <Coords points="757,3565 4869,3564 4869,3392 4489,3329 757,3357"/>
+                <Baseline points="784,3506 987,3506 1190,3506 1393,3508 1596,3508 1799,3508 2002,3508 2205,3508 2408,3508 2611,3508 2814,3508 3017,3508 3220,3508 3423,3508 3626,3508 3829,3508 4032,3510 4235,3510 4438,3510 4641,3512 4844,3512"/>
+                <TextEquiv>
+                    <Unicode>so reichen doch die aus dem Tongebilde entnommenen Accorde,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:8;} concept_mus {offset:27; length:18;}">
+                <Coords points="735,3769 4936,3722 4774,3565 4066,3533 736,3571"/>
+                <Baseline points="762,3706 969,3708 1176,3708 1383,3708 1591,3710 1798,3710 2005,3710 2213,3710 2420,3710 2627,3710 2835,3712 3042,3712 3249,3712 3456,3712 3664,3712 3871,3712 4078,3712 4286,3712 4493,3712 4700,3712 4908,3712"/>
+                <TextEquiv>
+                    <Unicode>oder die Combinationen der zusammenklingenden Bestandtheile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:9;} concept_mus {offset:4; length:12;} m_tonality {offset:17; length:9;}">
+                <Coords points="739,3931 4736,3989 4928,3974 4929,3838 739,3769"/>
+                <Baseline points="766,3908 972,3908 1179,3908 1386,3908 1592,3908 1799,3908 2006,3908 2212,3910 2419,3910 2626,3912 2833,3912 3039,3912 3246,3914 3453,3914 3659,3914 3866,3914 4073,3914 4279,3914 4486,3912 4693,3912 4900,3910"/>
+                <TextEquiv>
+                    <Unicode>der diatonischen Tonleiter bei weitem noch nicht dazu hin, um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:10;} concept_mus {offset:15; length:12;}">
+                <Coords points="765,4143 4934,4138 4934,3977 4674,3946 765,3971"/>
+                <Baseline points="790,4108 995,4108 1201,4108 1407,4110 1613,4110 1819,4110 2024,4112 2230,4112 2436,4112 2642,4112 2848,4114 3053,4114 3259,4114 3465,4114 3671,4114 3877,4112 4082,4112 4288,4110 4494,4110 4700,4106 4906,4104"/>
+                <TextEquiv>
+                    <Unicode>die constanten Verhältnisse gründlich zu erforschen, nach welchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:11;} concept_mus {offset:0; length:15;}">
+                <Coords points="750,4350 4930,4335 4929,4184 4398,4153 2689,4262 750,4141"/>
+                <Baseline points="774,4314 980,4314 1186,4314 1393,4312 1599,4312 1806,4312 2012,4311 2218,4310 2425,4310 2631,4308 2838,4308 3044,4308 3250,4306 3457,4306 3663,4306 3870,4306 4076,4306 4282,4306 4489,4306 4695,4306 4902,4306"/>
+                <TextEquiv>
+                    <Unicode>Accordbildungen erfolgen und erfolgen müssen, wenn überhaupt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:12;} m_note {offset:47; length:4;}">
+                <Coords points="738,4563 4240,4479 4735,4603 4912,4410 737,4380"/>
+                <Baseline points="762,4514 968,4516 1174,4516 1380,4516 1587,4516 1793,4516 1999,4516 2206,4514 2412,4514 2618,4512 2825,4512 3031,4510 3237,4510 3443,4508 3650,4508 3856,4508 4062,4506 4269,4506 4475,4506 4681,4508 4888,4508"/>
+                <TextEquiv>
+                    <Unicode>ein höheres, gesetzliches Walten im Reiche der Töne angenom¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:13;} concept_mus {offset:60; length:4; continued:true;}">
+                <Coords points="734,4736 4908,4774 4908,4597 4658,4545 734,4579"/>
+                <Baseline points="760,4716 966,4716 1172,4716 1378,4716 1584,4716 1791,4714 1997,4714 2203,4714 2409,4712 2615,4712 2822,4710 3028,4710 3234,4710 3440,4710 3646,4708 3853,4708 4059,4708 4265,4710 4471,4710 4677,4710 4884,4712"/>
+                <TextEquiv>
+                    <Unicode>men, ein tieferes kunstwissenschaftliches Eindringen in das Ton¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:14;} concept_mus {offset:0; length:5; continued:true;}">
+                <Coords points="738,4935 4928,4922 4818,4765 738,4763"/>
+                <Baseline points="766,4914 972,4916 1179,4916 1386,4916 1592,4916 1799,4916 2006,4914 2212,4914 2419,4914 2626,4912 2833,4912 3039,4912 3246,4912 3453,4912 3659,4912 3866,4912 4073,4912 4279,4912 4486,4914 4693,4916 4900,4918"/>
+                <TextEquiv>
+                    <Unicode>leben und ein klares Bewußtsein desselben möglich werden soll; sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:15;} concept_mus {offset:51; length:12;}">
+                <Coords points="733,5163 4923,5130 4922,4984 4557,4928 733,4991"/>
+                <Baseline points="758,5116 964,5116 1171,5116 1378,5116 1585,5116 1792,5116 1999,5116 2206,5116 2413,5116 2620,5114 2827,5114 3033,5114 3240,5112 3447,5112 3654,5112 3861,5112 4068,5112 4275,5110 4482,5110 4689,5112 4896,5112"/>
+                <TextEquiv>
+                    <Unicode>reichen nicht einmal dazu hin, um diese constanten Verhältnisse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:16;}">
+                <Coords points="723,5336 4944,5364 4845,5160 723,5217"/>
+                <Baseline points="748,5316 956,5316 1164,5314 1373,5314 1581,5314 1790,5314 1998,5314 2206,5314 2415,5314 2623,5314 2832,5314 3040,5314 3248,5314 3457,5314 3665,5314 3874,5314 4082,5316 4290,5316 4499,5316 4707,5316 4916,5314"/>
+                <TextEquiv>
+                    <Unicode>möglichst genau und allgemein darzustellen, noch weniger, um die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:17;} concept_mus {offset:12; length:13;}">
+                <Coords points="769,5537 4896,5634 4896,5446 4443,5340 3250,5456 769,5360"/>
+                <Baseline points="796,5508 999,5510 1203,5511 1407,5512 1611,5512 1815,5514 2018,5514 2222,5514 2426,5514 2630,5514 2834,5514 3037,5516 3241,5516 3445,5516 3649,5516 3853,5518 4056,5518 4260,5520 4464,5522 4668,5524 4872,5528"/>
+                <TextEquiv>
+                    <Unicode>Grenzen der Accordbildung gründlicher, als es bis jetzt geschehen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:18;} concept_mus {offset:17; length:11;}">
+                <Coords points="736,5769 3316,5750 3316,5604 3165,5552 736,5577"/>
+                <Baseline points="764,5718 890,5716 1016,5716 1142,5714 1269,5714 1395,5714 1521,5714 1648,5714 1774,5716 1900,5716 2027,5716 2153,5718 2279,5718 2405,5718 2532,5718 2658,5718 2784,5718 2911,5718 3037,5716 3163,5714 3290,5712"/>
+                <TextEquiv>
+                    <Unicode>nachzuweisen und theoretisch festzustellen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Aber so bestimmt auch diese und manche andere Angaben in&#13;
+Betreff der Accordbildung Jedem erscheinen mögen, der die Ton¬&#13;
+leitern und die Intervalle ihrem Namen und ihrer Größe nach&#13;
+kennt; so oft sich jeder dieser Zusammenklänge, abgesehen von&#13;
+der höheren und tieferen Tonlage, in welcher derselbe dem Hörer&#13;
+entgegen tritt, als etwas periodisch Wiederkehrendes, Gesetzliches&#13;
+an dem vor ihm vorüberziehenden Tongebilde auch erweisen mag:&#13;
+so reichen doch die aus dem Tongebilde entnommenen Accorde,&#13;
+oder die Combinationen der zusammenklingenden Bestandtheile&#13;
+der diatonischen Tonleiter bei weitem noch nicht dazu hin, um&#13;
+die constanten Verhältnisse gründlich zu erforschen, nach welchen&#13;
+Accordbildungen erfolgen und erfolgen müssen, wenn überhaupt&#13;
+ein höheres, gesetzliches Walten im Reiche der Töne angenom¬&#13;
+men, ein tieferes kunstwissenschaftliches Eindringen in das Ton¬&#13;
+leben und ein klares Bewußtsein desselben möglich werden soll; sie&#13;
+reichen nicht einmal dazu hin, um diese constanten Verhältnisse&#13;
+möglichst genau und allgemein darzustellen, noch weniger, um die&#13;
+Grenzen der Accordbildung gründlicher, als es bis jetzt geschehen,&#13;
+nachzuweisen und theoretisch festzustellen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1632816746136_424" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="748,5790 4922,5790 4922,7985 748,7985"/>
+            <TextLine id="r2l34" custom="readingOrder {index:0;} concept_mus {offset:18; length:12;} m_note {offset:35; length:4;} m_interval {offset:44; length:10;}">
+                <Coords points="1041,5950 4945,5948 4944,5786 4663,5672 3235,5813 1041,5773"/>
+                <Baseline points="1070,5918 1262,5918 1454,5918 1646,5918 1839,5918 2031,5918 2223,5918 2416,5918 2608,5918 2800,5918 2993,5918 3185,5918 3377,5918 3569,5916 3762,5916 3954,5916 4146,5916 4339,5916 4531,5916 4723,5916 4916,5916"/>
+                <TextEquiv>
+                    <Unicode>Daß nicht nur die Verhältnisse der Töne und Intervalle in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:1;} m_tonality {offset:4; length:4;} m_tonality {offset:13; length:13;}">
+                <Coords points="735,6142 4936,6142 4935,5954 4768,5934 735,5970"/>
+                <Baseline points="760,6118 967,6120 1174,6121 1382,6122 1589,6122 1797,6122 2004,6122 2211,6122 2419,6122 2626,6122 2834,6120 3041,6120 3248,6118 3456,6118 3663,6116 3871,6116 4078,6114 4285,6114 4493,6112 4700,6112 4908,6110"/>
+                <TextEquiv>
+                    <Unicode>der Dur- und Molltonleiter, sondern sogar diejenigen als variabel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:2;}">
+                <Coords points="725,6349 4915,6338 4851,6167 4372,6138 724,6203"/>
+                <Baseline points="750,6320 956,6322 1163,6322 1370,6324 1577,6324 1784,6324 1991,6324 2198,6324 2405,6322 2612,6322 2819,6320 3025,6318 3232,6316 3439,6315 3646,6314 3853,6312 4060,6310 4267,6308 4474,6306 4681,6306 4888,6304"/>
+                <TextEquiv>
+                    <Unicode>erscheinen, welche aus verschiedenen Combinationen der Bestand¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:3;} m_chord {offset:27; length:8;}">
+                <Coords points="755,6595 3257,6593 3835,6466 4559,6578 4903,6546 4903,6395 754,6371"/>
+                <Baseline points="780,6516 984,6519 1189,6520 1394,6522 1599,6522 1804,6522 2008,6522 2213,6522 2418,6520 2623,6518 2828,6518 3032,6516 3237,6514 3442,6514 3647,6512 3852,6512 4056,6510 4261,6510 4466,6512 4671,6512 4876,6514"/>
+                <TextEquiv>
+                    <Unicode>theile eines und desselben Accordes entspringen, ist einleuchtend,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:4;} m_note {offset:42; length:4;} concept_mus {offset:51; length:12;}">
+                <Coords points="732,6746 4927,6763 4926,6591 4426,6525 731,6595"/>
+                <Baseline points="758,6716 965,6718 1172,6720 1379,6721 1586,6722 1794,6722 2001,6722 2208,6722 2415,6720 2622,6719 2830,6718 3037,6716 3244,6714 3451,6714 3658,6712 3866,6710 4073,6710 4280,6710 4487,6710 4694,6710 4902,6710"/>
+                <TextEquiv>
+                    <Unicode>wenn man auf die ungleiche Entfernung der Töne der diatonischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:5;} m_tonality {offset:0; length:9;} m_tonality {offset:20; length:4;} m_tonality {offset:32; length:14;}">
+                <Coords points="739,6991 4913,6964 4912,6771 4464,6741 738,6773"/>
+                <Baseline points="764,6918 970,6920 1176,6920 1382,6922 1588,6922 1794,6922 2000,6920 2206,6920 2412,6920 2618,6918 2825,6918 3031,6916 3237,6916 3443,6914 3649,6914 3855,6914 4061,6912 4267,6912 4473,6912 4679,6912 4886,6912"/>
+                <TextEquiv>
+                    <Unicode>Tonleiter sowohl im Dur- als im Mollgeschlecht hinsieht, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l40" custom="readingOrder {index:6;} m_note {offset:47; length:4;}">
+                <Coords points="749,7173 4934,7175 4933,6987 4787,6972 748,6986"/>
+                <Baseline points="776,7120 982,7122 1189,7124 1395,7124 1602,7124 1808,7124 2015,7124 2221,7124 2428,7122 2634,7120 2841,7120 3047,7118 3254,7116 3460,7115 3667,7114 3873,7114 4080,7112 4286,7112 4493,7112 4699,7114 4906,7116"/>
+                <TextEquiv>
+                    <Unicode>die verschiedenen Ausgangspuncte (die tieferen Töne nämlich) nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l41" custom="readingOrder {index:7;}">
+                <Coords points="727,7360 4724,7401 4938,7379 4937,7197 726,7229"/>
+                <Baseline points="754,7322 961,7324 1169,7326 1377,7328 1585,7328 1793,7328 2000,7326 2208,7326 2416,7324 2624,7322 2832,7320 3039,7318 3247,7316 3455,7314 3663,7313 3871,7312 4078,7310 4286,7310 4494,7310 4702,7310 4910,7310"/>
+                <TextEquiv>
+                    <Unicode>außer Acht läßt, die nach den verschiedenen Combinationen der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l42" custom="readingOrder {index:8;} concept_mus {offset:0; length:19;} m_interval {offset:24; length:6;}">
+                <Coords points="743,7584 4912,7544 4911,7372 742,7365"/>
+                <Baseline points="768,7522 973,7524 1179,7526 1385,7528 1591,7528 1797,7528 2003,7528 2209,7528 2415,7526 2621,7524 2827,7523 3032,7522 3238,7520 3444,7518 3650,7516 3856,7514 4062,7514 4268,7512 4474,7512 4680,7512 4886,7512"/>
+                <TextEquiv>
+                    <Unicode>Accordbestandtheile als Primen angenommen und von welchen aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l43" custom="readingOrder {index:9;} m_interval {offset:4; length:16;} concept_mus {offset:57; length:7;}">
+                <Coords points="721,7736 4416,7848 4921,7789 4921,7601 720,7549"/>
+                <Baseline points="748,7730 955,7728 1162,7728 1370,7728 1577,7728 1785,7728 1992,7728 2199,7726 2407,7726 2614,7726 2822,7726 3029,7724 3236,7724 3444,7724 3651,7722 3859,7722 4066,7720 4273,7718 4481,7716 4688,7714 4896,7712"/>
+                <TextEquiv>
+                    <Unicode>die Accordintervalle in aufsteigender Richtung (d. i. im Tonraum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l44" custom="readingOrder {index:10;}">
+                <Coords points="728,7964 900,8072 3970,8029 3968,7815 3765,7764 727,7829"/>
+                <Baseline points="752,7932 911,7935 1071,7936 1230,7938 1390,7938 1549,7938 1709,7938 1868,7938 2028,7936 2187,7936 2347,7934 2506,7932 2666,7930 2825,7929 2985,7928 3144,7926 3304,7924 3463,7924 3623,7922 3782,7922 3942,7922"/>
+                <TextEquiv>
+                    <Unicode>oder Umfang nach der Höhe hin) bestimmt werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Daß nicht nur die Verhältnisse der Töne und Intervalle in&#13;
+der Dur- und Molltonleiter, sondern sogar diejenigen als variabel&#13;
+erscheinen, welche aus verschiedenen Combinationen der Bestand¬&#13;
+theile eines und desselben Accordes entspringen, ist einleuchtend,&#13;
+wenn man auf die ungleiche Entfernung der Töne der diatonischen&#13;
+Tonleiter sowohl im Dur- als im Mollgeschlecht hinsieht, und&#13;
+die verschiedenen Ausgangspuncte (die tieferen Töne nämlich) nicht&#13;
+außer Acht läßt, die nach den verschiedenen Combinationen der&#13;
+Accordbestandtheile als Primen angenommen und von welchen aus&#13;
+die Accordintervalle in aufsteigender Richtung (d. i. im Tonraum&#13;
+oder Umfang nach der Höhe hin) bestimmt werden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

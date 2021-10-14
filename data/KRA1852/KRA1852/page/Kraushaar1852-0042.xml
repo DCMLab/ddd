@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-09-22T14:25:23.394+02:00</Created>
+        <LastChange>2021-10-11T14:58:37.756+02:00</LastChange>
+        <TranskribusMetadata docId="786648" pageId="29710948" pageNr="42" tsid="66305481" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=VWIVCFRHGQUTTPWQFXHIFZGG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MLMFRGWRVPNCUVMCXSLORYWF" imageId="23310450"/>
+    </Metadata>
+    <Page imageFilename="Kraushaar1852-0042.jpg" imageWidth="5704" imageHeight="9150" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1634213930940" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1632843400375_3632"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1632843400375_3631"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1632843397299_3627"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1632843391904_3623"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1632843400375_3632" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="778,692 4940,692 4940,962 778,962"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2723,858 2775,874 2807,849 2827,865 2895,855 2926,861 2967,898 3014,899 3020,524 2900,528 2812,505 2728,515"/>
+                <Baseline points="2748,790 2775,792 2802,795 2829,796 2856,796 2883,796 2910,796 2937,796 2964,796 2992,794"/>
+                <TextEquiv>
+                    <Unicode>37</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>37</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1632843400375_3631" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="778,962 4940,962 4940,2990 778,2990"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_chord {offset:26; length:11;} m_chord {offset:47; length:7;} m_chord {offset:55; length:4; continued:true;}">
+                <Coords points="1070,1161 4924,1212 4925,884 1341,854 1070,953"/>
+                <Baseline points="1098,1128 1288,1132 1478,1132 1668,1134 1858,1136 2048,1136 2238,1136 2428,1136 2618,1136 2808,1136 2999,1136 3189,1136 3379,1136 3569,1136 3759,1136 3949,1136 4139,1136 4329,1136 4519,1136 4709,1137 4900,1138"/>
+                <TextEquiv>
+                    <Unicode>Von den hier abgegrenzten Dreiklängen sind die Accorde c e </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_chord {offset:0; length:1; continued:true;} m_chord {offset:6; length:5;} concept_mus {offset:12; length:8;} m_chord {offset:21; length:14;} m_chord {offset:37; length:14;}">
+                <Coords points="757,1400 4944,1335 4840,1184 757,1187"/>
+                <Baseline points="784,1338 990,1336 1197,1334 1403,1333 1610,1332 1817,1332 2023,1330 2230,1330 2436,1332 2643,1332 2850,1332 3056,1334 3263,1334 3469,1335 3676,1336 3883,1336 4089,1338 4296,1338 4502,1340 4709,1340 4916,1340"/>
+                <TextEquiv>
+                    <Unicode>g und f a c positive Quintenaccorde (Dur-Dreiklänge), weil sie aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_interval {offset:0; length:5;} m_note {offset:12; length:8;} concept_mus {offset:23; length:9;} m_interval {offset:33; length:4;} concept_mus {offset:42; length:9;} m_interval {offset:52; length:6;}">
+                <Coords points="754,1540 1164,1655 1622,1535 4935,1599 4727,1391 754,1415"/>
+                <Baseline points="778,1534 984,1534 1191,1534 1397,1534 1604,1534 1811,1534 2017,1534 2224,1536 2430,1536 2637,1536 2844,1536 3050,1536 3257,1536 3463,1536 3670,1536 3877,1536 4083,1536 4290,1536 4496,1536 4703,1534 4910,1534"/>
+                <TextEquiv>
+                    <Unicode>Prime (oder Grundton), positiver Terz und positiver Quinte be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} m_interval {offset:16; length:5;} concept_mus {offset:23; length:9;} m_interval {offset:33; length:4;} concept_mus {offset:42; length:9;} m_interval {offset:52; length:6;}">
+                <Coords points="791,1804 4926,1766 4776,1600 4349,1574 791,1591"/>
+                <Baseline points="820,1730 1024,1731 1228,1732 1432,1734 1636,1734 1840,1734 2044,1736 2248,1736 2452,1736 2656,1736 2860,1735 3064,1734 3268,1734 3472,1734 3676,1734 3880,1732 4084,1732 4288,1732 4492,1732 4696,1730 4900,1730"/>
+                <TextEquiv>
+                    <Unicode>stehen; der aus Prime, negativer Terz und negativer Quinte be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} m_chord {offset:9; length:6;} m_chord {offset:16; length:5;} concept_mus {offset:30; length:9;} m_chord {offset:40; length:13;} m_chord {offset:55; length:10; continued:true;}">
+                <Coords points="800,1993 4752,2027 4929,2011 4929,1767 800,1795"/>
+                <Baseline points="824,1932 1027,1932 1231,1932 1435,1932 1639,1932 1843,1932 2047,1932 2251,1932 2455,1932 2659,1932 2863,1934 3066,1934 3270,1934 3474,1934 3678,1934 3882,1934 4086,1934 4290,1934 4494,1934 4698,1934 4902,1934"/>
+                <TextEquiv>
+                    <Unicode>stehende Accord d f a ist ein negativer Quintenaccord (Moll-Drei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} m_chord {offset:0; length:5; continued:true;} m_chord {offset:52; length:9;}">
+                <Coords points="768,2164 4908,2225 4908,2038 4648,1980 768,2003"/>
+                <Baseline points="792,2134 996,2134 1200,2134 1405,2134 1609,2134 1814,2134 2018,2132 2222,2132 2427,2132 2631,2132 2836,2132 3040,2132 3244,2134 3449,2134 3653,2134 3858,2134 4062,2136 4266,2136 4471,2136 4675,2138 4880,2138"/>
+                <TextEquiv>
+                    <Unicode>klang). Aber der außerdem hier noch zu betrachtende Dreiklang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} m_chord {offset:0; length:5;} concept_mus {offset:20; length:9;} concept_mus {offset:40; length:9;} m_chord {offset:50; length:13;}">
+                <Coords points="771,2378 3159,2335 3700,2455 4610,2410 4725,2233 772,2191"/>
+                <Baseline points="798,2330 993,2330 1188,2330 1383,2330 1578,2332 1773,2332 1968,2332 2163,2334 2358,2334 2553,2334 2748,2336 2943,2336 3138,2336 3333,2336 3528,2336 3723,2336 3918,2336 4113,2336 4308,2334 4503,2334 4698,2332"/>
+                <TextEquiv>
+                    <Unicode>e g b ist weder ein positiver, noch ein negativer Quintenaccord</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} m_chord {offset:10; length:4;} m_chord {offset:24; length:14;}">
+                <Coords points="767,2551 4699,2631 4933,2600 4934,2450 768,2379"/>
+                <Baseline points="792,2530 997,2528 1203,2528 1409,2528 1615,2528 1821,2530 2026,2530 2232,2532 2438,2532 2644,2534 2850,2534 3055,2536 3261,2536 3467,2538 3673,2538 3879,2538 4084,2538 4290,2538 4496,2538 4702,2538 4908,2536"/>
+                <TextEquiv>
+                    <Unicode>weder ein Dur- noch ein Moll-Dreiklang —, sondern ein soge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} m_chord {offset:8; length:22;}">
+                <Coords points="755,2754 4910,2867 4911,2639 4646,2586 755,2603"/>
+                <Baseline points="780,2726 985,2726 1190,2728 1395,2730 1600,2730 1806,2732 2011,2733 2216,2734 2421,2736 2626,2736 2832,2738 3037,2738 3242,2740 3447,2740 3652,2740 3858,2740 4063,2740 4268,2740 4473,2740 4678,2738 4884,2736"/>
+                <TextEquiv>
+                    <Unicode>nannter verminderter Dreiklang, dessen schon früher Erwähnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="782,3001 818,3005 875,2973 906,2993 1010,2991 1094,3015 1166,2987 1187,2997 1311,2948 1309,2854 1283,2855 1193,2779 1168,2800 1074,2781 1006,2809 975,2789 872,2843 778,2850"/>
+                <Baseline points="808,2946 833,2944 858,2942 883,2940 908,2937 933,2935 958,2933 984,2932 1009,2930 1034,2930 1059,2928 1084,2928 1109,2928 1135,2928 1160,2928 1185,2930 1210,2932 1235,2934 1260,2936 1286,2940"/>
+                <TextEquiv>
+                    <Unicode>geschah.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Von den hier abgegrenzten Dreiklängen sind die Accorde c e &#13;
+g und f a c positive Quintenaccorde (Dur-Dreiklänge), weil sie aus&#13;
+Prime (oder Grundton), positiver Terz und positiver Quinte be¬&#13;
+stehen; der aus Prime, negativer Terz und negativer Quinte be¬&#13;
+stehende Accord d f a ist ein negativer Quintenaccord (Moll-Drei¬&#13;
+klang). Aber der außerdem hier noch zu betrachtende Dreiklang&#13;
+e g b ist weder ein positiver, noch ein negativer Quintenaccord&#13;
+weder ein Dur- noch ein Moll-Dreiklang —, sondern ein soge¬&#13;
+nannter verminderter Dreiklang, dessen schon früher Erwähnung&#13;
+geschah.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1632843397299_3627" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="778,2990 4940,2990 4940,6776 778,6776"/>
+            <TextLine id="r1l12" custom="readingOrder {index:0;}">
+                <Coords points="1085,3160 4934,3184 4935,2851 4280,2865 3837,3046 2912,2909 2303,3058 1086,3014"/>
+                <Baseline points="1112,3124 1301,3126 1491,3128 1681,3128 1871,3130 2061,3132 2250,3132 2440,3133 2630,3134 2820,3134 3010,3134 3199,3136 3389,3136 3579,3136 3769,3136 3959,3136 4148,3134 4338,3134 4528,3134 4718,3134 4908,3132"/>
+                <TextEquiv>
+                    <Unicode>Nach den bisher aufgestellten Bestimmungen können wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:1;} m_chord {offset:15; length:6;} concept_mus {offset:51; length:12;}">
+                <Coords points="750,3373 4656,3420 4952,3390 4953,3223 750,3222"/>
+                <Baseline points="778,3324 985,3326 1192,3326 1400,3326 1607,3328 1815,3328 2022,3328 2229,3330 2437,3330 2644,3330 2852,3332 3059,3332 3266,3332 3474,3334 3681,3334 3889,3334 4096,3334 4303,3335 4511,3336 4718,3336 4926,3336"/>
+                <TextEquiv>
+                    <Unicode>diesen letzten Accord nicht anders, als einen rein harmonischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:2;} concept_mus {offset:31; length:13;}">
+                <Coords points="763,3545 4586,3609 4914,3553 4915,3418 764,3368"/>
+                <Baseline points="790,3528 995,3526 1200,3526 1405,3526 1610,3526 1815,3526 2020,3528 2225,3528 2430,3530 2635,3532 2840,3532 3045,3534 3250,3536 3455,3536 3660,3536 3865,3538 4070,3538 4275,3536 4480,3536 4685,3534 4890,3532"/>
+                <TextEquiv>
+                    <Unicode>bezeichnen, weil sämmtliche in Terzengestalt gruppirten Bestand¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:3;} concept_mus {offset:20; length:9;} m_chord {offset:30; length:14;}">
+                <Coords points="788,3815 4881,3798 4950,3570 789,3602"/>
+                <Baseline points="812,3730 1017,3728 1223,3728 1428,3726 1634,3726 1839,3726 2045,3726 2250,3726 2456,3728 2661,3728 2867,3728 3072,3730 3278,3730 3483,3732 3689,3732 3894,3734 4100,3736 4305,3737 4511,3738 4716,3740 4922,3742"/>
+                <TextEquiv>
+                    <Unicode>theile desselben im positiven Septimenaccord enthalten sind; aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:4;} m_chord {offset:10; length:11;}">
+                <Coords points="779,3988 4893,4016 4895,3813 780,3827"/>
+                <Baseline points="808,3926 1011,3926 1214,3926 1417,3926 1620,3926 1823,3926 2026,3926 2229,3926 2432,3928 2635,3928 2838,3930 3041,3932 3244,3932 3447,3934 3650,3936 3853,3938 4056,3938 4259,3941 4462,3944 4665,3945 4868,3948"/>
+                <TextEquiv>
+                    <Unicode>als einen Grundaccord können wir ihn, unserem Systeme zufolge,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:5;} m_interval {offset:49; length:6;}">
+                <Coords points="767,4236 4735,4202 4943,4177 4944,3990 767,3992"/>
+                <Baseline points="794,4126 1000,4126 1206,4128 1412,4128 1618,4128 1825,4129 2031,4130 2237,4130 2443,4130 2649,4130 2856,4132 3062,4132 3268,4132 3474,4132 3680,4134 3887,4134 4093,4136 4299,4136 4505,4138 4711,4140 4918,4142"/>
+                <TextEquiv>
+                    <Unicode>nicht aufstellen, weil seine Bestandtheile keine Quinte (sondern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:6;} m_interval {offset:20; length:18;}">
+                <Coords points="763,4372 4784,4424 4940,4388 4941,4180 764,4226"/>
+                <Baseline points="790,4324 996,4326 1202,4326 1408,4328 1615,4328 1821,4330 2027,4330 2234,4330 2440,4332 2646,4332 2853,4332 3059,4333 3265,4334 3471,4334 3678,4336 3884,4336 4090,4338 4297,4338 4503,4340 4709,4341 4916,4342"/>
+                <TextEquiv>
+                    <Unicode>nur eine sogenannte verminderte Quinte, mithin ein ganz anderes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:7;} m_interval {offset:0; length:9;} m_interval {offset:21; length:4;} m_interval {offset:55; length:6; continued:true;}">
+                <Coords points="755,4580 4968,4567 4968,4427 4719,4379 755,4372"/>
+                <Baseline points="780,4532 988,4532 1196,4530 1404,4530 1612,4530 1820,4530 2028,4531 2236,4532 2444,4532 2652,4532 2860,4534 3068,4534 3276,4536 3484,4536 3692,4538 3900,4538 4108,4540 4316,4540 4524,4542 4732,4542 4940,4542"/>
+                <TextEquiv>
+                    <Unicode>Intervall) und keine Terz (sondern nur eine sogenannte kleine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:8;} m_interval {offset:0; length:4; continued:true;} m_interval {offset:33; length:9;}">
+                <Coords points="760,4756 4957,4796 4957,4609 4802,4572 760,4580"/>
+                <Baseline points="788,4726 995,4728 1202,4728 1409,4730 1616,4730 1824,4732 2031,4732 2238,4732 2445,4734 2652,4734 2860,4734 3067,4734 3274,4736 3481,4736 3688,4736 3896,4738 4103,4738 4310,4738 4517,4740 4724,4740 4932,4742"/>
+                <TextEquiv>
+                    <Unicode>Terz, ebenfalls ein ganz anderes Intervall) begrenzen. Mangeln</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:9;} m_chord {offset:7; length:9;} m_chord {offset:49; length:13;}">
+                <Coords points="775,4985 4864,5018 4927,4821 776,4762"/>
+                <Baseline points="802,4924 1006,4926 1211,4927 1416,4928 1621,4930 1826,4930 2031,4930 2236,4930 2441,4932 2646,4932 2851,4932 3055,4932 3260,4932 3465,4932 3670,4932 3875,4934 4080,4934 4285,4936 4490,4938 4695,4940 4900,4942"/>
+                <TextEquiv>
+                    <Unicode>diesem Dreiklang demnach die Eigenschaften eines Grundaccordes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:10;} m_chord {offset:6; length:13;}">
+                <Coords points="802,5195 4869,5230 4933,4991 803,4987"/>
+                <Baseline points="828,5124 1031,5124 1235,5126 1439,5126 1643,5126 1847,5128 2050,5128 2254,5130 2458,5132 2662,5133 2866,5134 3069,5136 3273,5136 3477,5138 3681,5139 3885,5140 4088,5140 4292,5140 4496,5140 4700,5140 4904,5140"/>
+                <TextEquiv>
+                    <Unicode>(oder Stammaccordes, wie man auch sagt), so kann er nur als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:11;} m_chord {offset:34; length:11;} m_chord {offset:63; length:3; continued:true;}">
+                <Coords points="780,5372 4680,5411 4930,5392 4931,5220 781,5237"/>
+                <Baseline points="808,5322 1012,5324 1217,5324 1422,5326 1627,5326 1832,5328 2036,5328 2241,5328 2446,5330 2651,5330 2856,5332 3060,5332 3265,5334 3470,5336 3675,5336 3880,5338 4084,5340 4289,5342 4494,5344 4699,5346 4904,5350"/>
+                <TextEquiv>
+                    <Unicode>ein abgeleiteter, somit auf einen Grundaccord sich beziehender Zu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:12;} m_chord {offset:0; length:11; continued:true;}">
+                <Coords points="811,5571 4952,5546 4953,5379 813,5373"/>
+                <Baseline points="838,5520 1042,5520 1247,5518 1451,5518 1656,5520 1860,5520 2065,5522 2269,5522 2474,5524 2678,5526 2883,5528 3087,5530 3292,5532 3496,5534 3701,5536 3905,5536 4110,5538 4314,5538 4519,5540 4723,5540 4928,5540"/>
+                <TextEquiv>
+                    <Unicode>sammenklang betrachtet werden, der nicht anders als in Verbin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:13;} m_chord {offset:17; length:8;}">
+                <Coords points="775,5790 4895,5823 4938,5553 777,5582"/>
+                <Baseline points="804,5716 1009,5716 1214,5716 1420,5718 1625,5718 1831,5718 2036,5718 2241,5720 2447,5720 2652,5722 2858,5724 3063,5726 3268,5728 3474,5730 3679,5732 3885,5734 4090,5736 4295,5740 4501,5743 4706,5746 4912,5750"/>
+                <TextEquiv>
+                    <Unicode>dung mit anderen Accorden verständlich ist, dessen Ableitung sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:14;}">
+                <Coords points="794,5970 4071,6019 4877,5982 4951,5806 795,5793"/>
+                <Baseline points="822,5916 1027,5916 1232,5917 1437,5918 1642,5918 1847,5920 2052,5920 2257,5920 2462,5922 2667,5922 2873,5924 3078,5924 3283,5926 3488,5928 3693,5928 3898,5930 4103,5932 4308,5934 4513,5936 4718,5936 4924,5938"/>
+                <TextEquiv>
+                    <Unicode>deshalb auch lediglich aus der Verbindung, in welcher er mit dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:15;} m_chord {offset:10; length:7;}">
+                <Coords points="796,6178 4665,6224 4967,6204 4968,6043 797,5970"/>
+                <Baseline points="820,6118 1026,6118 1232,6118 1438,6118 1644,6120 1850,6120 2056,6120 2262,6122 2468,6122 2674,6124 2880,6126 3086,6126 3292,6128 3498,6128 3704,6130 3910,6132 4116,6132 4322,6134 4528,6134 4734,6136 4940,6136"/>
+                <TextEquiv>
+                    <Unicode>folgenden Accorde steht, begründen läßt. Zu dem unvollständigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:16;} m_chord {offset:0; length:7;} m_chord {offset:52; length:8;}">
+                <Coords points="768,6329 4944,6360 4914,6183 769,6194"/>
+                <Baseline points="794,6316 1000,6316 1206,6317 1412,6318 1619,6318 1825,6320 2031,6320 2238,6322 2444,6324 2650,6324 2857,6326 3063,6328 3269,6328 3475,6330 3682,6332 3888,6334 4094,6334 4301,6336 4507,6336 4713,6338 4920,6338"/>
+                <TextEquiv>
+                    <Unicode>Accorde selbst muß, wenn seine Beziehung zu anderen Accorden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:17;} m_note {offset:41; length:8;} m_interval {offset:51; length:4;}">
+                <Coords points="758,6559 4846,6600 4951,6403 759,6424"/>
+                <Baseline points="782,6516 989,6516 1196,6516 1403,6516 1610,6516 1817,6518 2024,6518 2231,6520 2438,6522 2645,6524 2852,6526 3059,6528 3266,6530 3473,6532 3680,6534 3887,6536 4094,6536 4301,6538 4508,6540 4715,6540 4922,6542"/>
+                <TextEquiv>
+                    <Unicode>erkannt werden soll, das Fehlende (d. i. Grundton, Terz und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:18;} m_interval {offset:0; length:6;}">
+                <Coords points="763,6764 2921,6785 3212,6739 3213,6640 2849,6540 2661,6623 763,6582"/>
+                <Baseline points="790,6724 909,6720 1029,6718 1149,6716 1269,6716 1389,6714 1508,6714 1628,6714 1748,6715 1868,6716 1988,6716 2107,6718 2227,6718 2347,6720 2467,6720 2587,6722 2706,6722 2826,6722 2946,6722 3066,6722 3186,6722"/>
+                <TextEquiv>
+                    <Unicode>Quinte) in Gedanken supplirt werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nach den bisher aufgestellten Bestimmungen können wir
+diesen letzten Accord nicht anders, als einen rein harmonischen
+bezeichnen, weil sämmtliche in Terzengestalt gruppirten Bestand¬
+theile desselben im positiven Septimenaccord enthalten sind; aber
+als einen Grundaccord können wir ihn, unserem Systeme zufolge,
+nicht aufstellen, weil seine Bestandtheile keine Quinte (sondern
+nur eine sogenannte verminderte Quinte, mithin ein ganz anderes
+Intervall) und keine Terz (sondern nur eine sogenannte kleine
+Terz, ebenfalls ein ganz anderes Intervall) begrenzen. Mangeln
+diesem Dreiklang demnach die Eigenschaften eines Grundaccordes
+(oder Stammaccordes, wie man auch sagt), so kann er nur als
+ein abgeleiteter, somit auf einen Grundaccord sich beziehender Zu¬
+sammenklang betrachtet werden, der nicht anders als in Verbin¬
+dung mit anderen Accorden verständlich ist, dessen Ableitung sich
+deshalb auch lediglich aus der Verbindung, in welcher er mit dem
+folgenden Accorde steht, begründen läßt. Zu dem unvollständigen
+Accorde selbst muß, wenn seine Beziehung zu anderen Accorden
+erkannt werden soll, das Fehlende (d. i. Grundton, Terz und
+Quinte) in Gedanken supplirt werden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1632843391904_3623" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
+            <Coords points="778,6776 4940,6776 4940,7987 778,7987"/>
+            <TextLine id="r1l31" custom="readingOrder {index:0;}">
+                <Coords points="1100,6940 4797,7008 4929,6743 1101,6747"/>
+                <Baseline points="1126,6912 1314,6914 1503,6914 1692,6916 1881,6918 2070,6920 2258,6920 2447,6922 2636,6924 2825,6924 3014,6926 3202,6926 3391,6928 3580,6928 3769,6930 3958,6930 4146,6932 4335,6932 4524,6932 4713,6932 4902,6932"/>
+                <TextEquiv>
+                    <Unicode>Wenn zu diesem Zwecke der Zusatz von drei neuen Bestand¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:1;} m_chord {offset:40; length:6;} m_chord {offset:51; length:10;}">
+                <Coords points="774,7193 4930,7169 4874,6997 4401,6957 776,6965"/>
+                <Baseline points="800,7114 1005,7114 1210,7114 1415,7114 1620,7116 1825,7116 2030,7116 2235,7118 2440,7120 2645,7120 2851,7122 3056,7124 3261,7124 3466,7126 3671,7128 3876,7130 4081,7132 4286,7134 4491,7136 4696,7138 4902,7140"/>
+                <TextEquiv>
+                    <Unicode>theilen erforderlich wäre, so würde der Accord ein Sechsklang und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:2;}">
+                <Coords points="768,7323 4907,7419 4909,7211 768,7209"/>
+                <Baseline points="792,7314 996,7314 1201,7314 1405,7315 1610,7316 1815,7316 2019,7316 2224,7318 2428,7318 2633,7320 2838,7322 3042,7322 3247,7324 3451,7326 3656,7328 3861,7330 4065,7332 4270,7334 4474,7336 4679,7338 4884,7342"/>
+                <TextEquiv>
+                    <Unicode>als solcher (nach einem früheren Ergebniß unserer Betrachtungen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:3;} concept_mus {offset:4; length:19;} m_chord {offset:24; length:6;}">
+                <Coords points="765,7543 4952,7548 4776,7380 767,7324"/>
+                <Baseline points="790,7512 996,7512 1203,7512 1410,7512 1616,7513 1823,7514 2030,7516 2236,7518 2443,7520 2650,7522 2857,7524 3063,7526 3270,7528 3477,7530 3683,7532 3890,7534 4097,7534 4303,7536 4510,7536 4717,7536 4924,7536"/>
+                <TextEquiv>
+                    <Unicode>ein unrein harmonischer Accord werden; jedoch bedarf es zur Er¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:4;} m_interval {offset:22; length:10;}">
+                <Coords points="781,7770 4832,7815 4953,7623 782,7567"/>
+                <Baseline points="806,7720 1012,7720 1218,7718 1424,7718 1630,7718 1836,7720 2042,7720 2248,7722 2454,7722 2660,7724 2866,7726 3072,7728 3278,7730 3484,7730 3690,7732 3896,7734 4102,7736 4308,7736 4514,7738 4720,7738 4926,7740"/>
+                <TextEquiv>
+                    <Unicode>gänzung der genannten Intervalle des Zusatzes eines einzigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:5;} m_note {offset:0; length:5;} m_note {offset:43; length:5;} m_note {offset:49; length:1;}">
+                <Coords points="770,8051 4837,8033 4927,7805 771,7765"/>
+                <Baseline points="794,7916 999,7918 1204,7918 1409,7920 1615,7922 1820,7924 2025,7924 2231,7926 2436,7928 2641,7928 2847,7930 3052,7932 3257,7932 3462,7934 3668,7936 3873,7936 4078,7936 4284,7938 4489,7938 4694,7938 4900,7938"/>
+                <TextEquiv>
+                    <Unicode>Tones (in dem vorliegenden Falle z. B. des Tones c), wie das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wenn zu diesem Zwecke der Zusatz von drei neuen Bestand¬
+theilen erforderlich wäre, so würde der Accord ein Sechsklang und
+als solcher (nach einem früheren Ergebniß unserer Betrachtungen)
+ein unrein harmonischer Accord werden; jedoch bedarf es zur Er¬
+gänzung der genannten Intervalle des Zusatzes eines einzigen
+Tones (in dem vorliegenden Falle z. B. des Tones c), wie das</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

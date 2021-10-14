@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-09-22T14:25:23.955+02:00</Created>
+        <LastChange>2021-10-13T13:55:55.232+02:00</LastChange>
+        <TranskribusMetadata docId="786648" pageId="29711138" pageNr="58" tsid="66442892" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=GUHQQLWAZNNXBQRHGGHXSYMW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DYBHPNGCFZKJSRTBYAQANFSI" imageId="23310636"/>
+    </Metadata>
+    <Page imageFilename="Kraushaar1852-0058.jpg" imageWidth="5704" imageHeight="9212" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1634213937508" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1632908446041_778"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1632908442893_773"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1632908446041_778" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="876,716 5060,716 5060,934 876,934"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2808,863 2864,876 2919,926 3028,926 3043,625 2991,622 2981,611 2950,620 2925,598 2820,604"/>
+                <Baseline points="2838,788 2866,787 2895,787 2924,788 2952,789 2981,793 3010,796"/>
+                <TextEquiv>
+                    <Unicode>53</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>53</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1632908505385_787" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="876,934 5060,934 5060,3475 876,3475"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1632908442893_773" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="876,3475 5060,3475 5060,4315 876,4315"/>
+            <TextLine id="r3l46" custom="readingOrder {index:0;}">
+                <Coords points="1170,3649 4536,3689 5086,3616 5086,3377 3948,3322 3133,3541 1606,3435 1170,3535"/>
+                <Baseline points="1198,3622 1391,3622 1584,3622 1777,3624 1970,3624 2163,3624 2356,3624 2549,3624 2742,3624 2935,3624 3128,3624 3321,3622 3514,3622 3707,3622 3900,3621 4093,3620 4286,3620 4479,3618 4672,3617 4865,3616 5058,3614"/>
+                <TextEquiv>
+                    <Unicode>Den zweiten Fall anlangend, so ist die Darstellung der in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l47" custom="readingOrder {index:1;} concept_mus {offset:15; length:16;} textStyle {offset:51; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:58; length:5; continued:true;}">
+                <Coords points="848,3847 5045,3881 5045,3668 848,3670"/>
+                <Baseline points="876,3824 1083,3824 1290,3822 1497,3822 1704,3822 1912,3822 2119,3822 2326,3822 2533,3820 2740,3820 2948,3820 3155,3820 3362,3820 3569,3820 3776,3820 3984,3818 4191,3818 4398,3818 4605,3816 4812,3816 5020,3814"/>
+                <TextEquiv>
+                    <Unicode>Rede stehenden Accordverbindung im Beispiel 16 bei a eine fünf¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l48" custom="readingOrder {index:2;} concept_mus {offset:0; length:8; continued:true;} textStyle {offset:14; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:21; length:13;} textStyle {offset:40; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:47; length:12;} textStyle {offset:65; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="882,4102 4860,4140 5089,4088 5088,3859 881,3874"/>
+                <Baseline points="906,4026 1113,4024 1321,4024 1529,4024 1736,4024 1944,4024 2152,4024 2359,4024 2567,4024 2775,4026 2983,4026 3190,4026 3398,4026 3606,4026 3813,4026 4021,4024 4229,4024 4436,4022 4644,4020 4852,4018 5060,4016"/>
+                <TextEquiv>
+                    <Unicode>stimmige, bei b eine sechsstimmige, bei c eine dreistimmige, bei d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l49" custom="readingOrder {index:3;} concept_mus {offset:5; length:12;}">
+                <Coords points="871,4316 990,4348 1411,4275 1572,4322 1650,4254 1816,4239 1920,4322 2102,4286 2102,4135 1832,4083 1645,4125 1556,4073 1364,4130 980,4083 871,4140"/>
+                <Baseline points="896,4222 954,4224 1013,4224 1072,4224 1131,4224 1190,4224 1249,4224 1308,4224 1367,4224 1426,4224 1485,4224 1543,4222 1602,4222 1661,4222 1720,4222 1779,4222 1838,4224 1897,4224 1956,4224 2015,4226 2074,4228"/>
+                <TextEquiv>
+                    <Unicode>eine zweistimmige:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Den zweiten Fall anlangend, so ist die Darstellung der in&#13;
+Rede stehenden Accordverbindung im Beispiel 16 bei a eine fünf¬&#13;
+stimmige, bei b eine sechsstimmige, bei c eine dreistimmige, bei d&#13;
+eine zweistimmige:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1632908515566_794" custom="readingOrder {index:3;} structure {type:floating-continued;}">
+            <Coords points="876,4315 5060,4315 5060,8003 876,8003"/>
+        </MusicRegion>
+    </Page>
+</PcGts>
