@@ -49,9 +49,9 @@ Year: 1905
         </style>
 </head>
 <body>
-    <pb-page endpoint="https://teipublisher.com/exist/apps/tei-publisher" emit="kant" class="embedded">
+    <pb-page endpoint="https://teipublisher.com/exist/apps/dddproject" emit="kant" class="embedded">
         <!-- Load document -->
-        <pb-document id="doc1" path="playground/die_natur_der_harmonik.xml" odd="melinda-dodis"></pb-document>
+        <pb-document id="doc1" path="CAP1905_tei_eXide.xml" odd="ddd"></pb-document>
         <!-- Navigate to next page // not in footer not to mess with site's footer, before pb-view to be on top // -->
         <pb-navigation direction="forward" keyboard="right">
             <paper-fab icon="icons:chevron-right"></paper-fab>
