@@ -1,3515 +1,3526 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
-  <key attr.name="weight" attr.type="int" for="edge" id="d2" />
-  <key attr.name="name" attr.type="string" for="node" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d3" />
+  <key attr.name="name" attr.type="string" for="node" id="d2" />
+  <key attr.name="order" attr.type="int" for="node" id="d1" />
   <key attr.name="type" attr.type="string" for="node" id="d0" />
   <graph edgedefault="undirected">
     <node id="CAP1905">
       <data key="d0">Source</data>
+      <data key="d1">10</data>
     </node>
     <node id="HAU1853">
       <data key="d0">Source</data>
+      <data key="d1">1</data>
     </node>
     <node id="HOS1879">
       <data key="d0">Source</data>
+      <data key="d1">8</data>
     </node>
     <node id="KUN1863">
       <data key="d0">Source</data>
+      <data key="d1">5</data>
     </node>
     <node id="NAU1858">
       <data key="d0">Source</data>
+      <data key="d1">2</data>
     </node>
     <node id="OET1866">
       <data key="d0">Source</data>
+      <data key="d1">6</data>
     </node>
     <node id="RIE1905">
       <data key="d0">Source</data>
+      <data key="d1">9</data>
     </node>
     <node id="THU1877">
       <data key="d0">Source</data>
+      <data key="d1">7</data>
     </node>
     <node id="WEI1860">
       <data key="d0">Source</data>
+      <data key="d1">3</data>
     </node>
     <node id="WEI1861">
       <data key="d0">Source</data>
+      <data key="d1">4</data>
     </node>
     <node id="P0001">
       <data key="d0">Person</data>
-      <data key="d1">Helmholtz, Hermann von</data>
+      <data key="d2">Helmholtz, Hermann von</data>
     </node>
     <node id="P0002">
       <data key="d0">Person</data>
-      <data key="d1">Tiersch, Otto</data>
+      <data key="d2">Tiersch, Otto</data>
     </node>
     <node id="P0003">
       <data key="d0">Person</data>
-      <data key="d1">HostinskÃ½, Otakar</data>
+      <data key="d2">HostinskÃ½, Otakar</data>
     </node>
     <node id="P0004">
       <data key="d0">Person</data>
-      <data key="d1">Polak, A. J.</data>
+      <data key="d2">Polak, A. J.</data>
     </node>
     <node id="P0005">
       <data key="d0">Person</data>
-      <data key="d1">Rameau, Jean-Philippe</data>
+      <data key="d2">Rameau, Jean-Philippe</data>
     </node>
     <node id="P0006">
       <data key="d0">Person</data>
-      <data key="d1">Capellen, Georg</data>
+      <data key="d2">Capellen, Georg</data>
     </node>
     <node id="P0007">
       <data key="d0">Person</data>
-      <data key="d1">Hauptmann, Moritz</data>
+      <data key="d2">Hauptmann, Moritz</data>
     </node>
     <node id="P0008">
       <data key="d0">Person</data>
-      <data key="d1">Haydn, Joseph</data>
+      <data key="d2">Haydn, Joseph</data>
     </node>
     <node id="P0009">
       <data key="d0">Person</data>
-      <data key="d1">Winterfeld, Carl von</data>
+      <data key="d2">Winterfeld, Carl von</data>
     </node>
     <node id="P0010">
       <data key="d0">Person</data>
-      <data key="d1">Zarlino, Gioseffo</data>
+      <data key="d2">Zarlino, Gioseffo</data>
     </node>
     <node id="P0011">
       <data key="d0">Person</data>
-      <data key="d1">dâ€™Alembert</data>
+      <data key="d2">dâ€™Alembert</data>
     </node>
     <node id="P0012">
       <data key="d0">Person</data>
-      <data key="d1">Kiesewetter</data>
+      <data key="d2">Kiesewetter</data>
     </node>
     <node id="P0013">
       <data key="d0">Person</data>
-      <data key="d1">Hegel</data>
+      <data key="d2">Hegel</data>
     </node>
     <node id="P0014">
       <data key="d0">Person</data>
-      <data key="d1">Weber, Gottfried</data>
+      <data key="d2">Weber, Gottfried</data>
     </node>
     <node id="P0015">
       <data key="d0">Person</data>
-      <data key="d1">Mozart, W. A.</data>
+      <data key="d2">Mozart, W. A.</data>
     </node>
     <node id="P0016">
       <data key="d0">Person</data>
-      <data key="d1">Beethoven</data>
+      <data key="d2">Beethoven</data>
     </node>
     <node id="P0017">
       <data key="d0">Person</data>
-      <data key="d1">Riemann, Hugo</data>
+      <data key="d2">Riemann, Hugo</data>
     </node>
     <node id="P0018">
       <data key="d0">Person</data>
-      <data key="d1">Oettingen, A. v.</data>
+      <data key="d2">Oettingen, A. v.</data>
     </node>
     <node id="P0019">
       <data key="d0">Person</data>
-      <data key="d1">Stumpf</data>
+      <data key="d2">Stumpf</data>
     </node>
     <node id="P0020">
       <data key="d0">Person</data>
-      <data key="d1">Salinas, Fr.</data>
+      <data key="d2">Salinas, Fr.</data>
     </node>
     <node id="P0021">
       <data key="d0">Person</data>
-      <data key="d1">Descartes</data>
+      <data key="d2">Descartes</data>
     </node>
     <node id="P0022">
       <data key="d0">Person</data>
-      <data key="d1">Mersenne</data>
+      <data key="d2">Mersenne</data>
     </node>
     <node id="P0023">
       <data key="d0">Person</data>
-      <data key="d1">Tartini</data>
+      <data key="d2">Tartini</data>
     </node>
     <node id="P0024">
       <data key="d0">Person</data>
-      <data key="d1">Levens</data>
+      <data key="d2">Levens</data>
     </node>
     <node id="P0025">
       <data key="d0">Person</data>
-      <data key="d1">Serre</data>
+      <data key="d2">Serre</data>
     </node>
     <node id="P0026">
       <data key="d0">Person</data>
-      <data key="d1">Blamville</data>
+      <data key="d2">Blamville</data>
     </node>
     <node id="P0027">
       <data key="d0">Person</data>
-      <data key="d1">Jamard</data>
+      <data key="d2">Jamard</data>
     </node>
     <node id="P0028">
       <data key="d0">Person</data>
-      <data key="d1">Vallotti</data>
+      <data key="d2">Vallotti</data>
     </node>
     <node id="P0029">
       <data key="d0">Person</data>
-      <data key="d1">Sabbatini</data>
+      <data key="d2">Sabbatini</data>
     </node>
     <node id="P0030">
       <data key="d0">Person</data>
-      <data key="d1">ThÃ¼rlings</data>
+      <data key="d2">ThÃ¼rlings</data>
     </node>
     <node id="P0031">
       <data key="d0">Person</data>
-      <data key="d1">Krisper, A.</data>
+      <data key="d2">Krisper, A.</data>
     </node>
     <node id="P0032">
       <data key="d0">Person</data>
-      <data key="d1">Sauveurs</data>
+      <data key="d2">Sauveurs</data>
     </node>
     <node id="P0033">
       <data key="d0">Person</data>
-      <data key="d1">Lotze, Hermann</data>
+      <data key="d2">Lotze, Hermann</data>
     </node>
     <node id="P0034">
       <data key="d0">Person</data>
-      <data key="d1">Goethe</data>
+      <data key="d2">Goethe</data>
     </node>
     <node id="P0035">
       <data key="d0">Person</data>
-      <data key="d1">Hiller, F.</data>
+      <data key="d2">Hiller, F.</data>
     </node>
     <node id="P0036">
       <data key="d0">Person</data>
-      <data key="d1">Kirnberger</data>
+      <data key="d2">Kirnberger</data>
     </node>
     <node id="P0037">
       <data key="d0">Person</data>
-      <data key="d1">Rebikoff, W.</data>
+      <data key="d2">Rebikoff, W.</data>
     </node>
     <node id="P0038">
       <data key="d0">Person</data>
-      <data key="d1">Debussy, Claude</data>
+      <data key="d2">Debussy, Claude</data>
     </node>
     <node id="P0039">
       <data key="d0">Person</data>
-      <data key="d1">Hutschenruyter, W. </data>
+      <data key="d2">Hutschenruyter, W. </data>
     </node>
     <node id="P0040">
       <data key="d0">Person</data>
-      <data key="d1">Belinfante, Ary</data>
+      <data key="d2">Belinfante, Ary</data>
     </node>
     <node id="P0041">
       <data key="d0">Person</data>
-      <data key="d1">Weitzmann, C. F.</data>
+      <data key="d2">Weitzmann, C. F.</data>
     </node>
     <node id="P0042">
       <data key="d0">Person</data>
-      <data key="d1">Brendel, Dr.</data>
+      <data key="d2">Brendel, Dr.</data>
     </node>
     <node id="P0043">
       <data key="d0">Person</data>
-      <data key="d1">Schumann, Robert</data>
+      <data key="d2">Schumann, Robert</data>
     </node>
     <node id="P0044">
       <data key="d0">Person</data>
-      <data key="d1">Berlioz, Hector</data>
+      <data key="d2">Berlioz, Hector</data>
     </node>
     <node id="P0045">
       <data key="d0">Person</data>
-      <data key="d1">Wagner, Richard</data>
+      <data key="d2">Wagner, Richard</data>
     </node>
     <node id="P0046">
       <data key="d0">Person</data>
-      <data key="d1">Liszt, Franz</data>
+      <data key="d2">Liszt, Franz</data>
     </node>
     <node id="P0047">
       <data key="d0">Person</data>
-      <data key="d1">Bagge, Selmar</data>
+      <data key="d2">Bagge, Selmar</data>
     </node>
     <node id="P0048">
       <data key="d0">Person</data>
-      <data key="d1">Kretschmann, C.</data>
+      <data key="d2">Kretschmann, C.</data>
     </node>
     <node id="P0049">
       <data key="d0">Person</data>
-      <data key="d1">Gluck</data>
+      <data key="d2">Gluck</data>
     </node>
     <node id="P0050">
       <data key="d0">Person</data>
-      <data key="d1">Weber, Carl Maria von</data>
+      <data key="d2">Weber, Carl Maria von</data>
     </node>
     <node id="P0051">
       <data key="d0">Person</data>
-      <data key="d1">Marpurg</data>
+      <data key="d2">Marpurg</data>
     </node>
     <node id="P0052">
       <data key="d0">Person</data>
-      <data key="d1">Monteverdi</data>
+      <data key="d2">Monteverdi</data>
     </node>
     <node id="P0053">
       <data key="d0">Person</data>
-      <data key="d1">FÃ©tis, S.</data>
+      <data key="d2">FÃ©tis, S.</data>
     </node>
     <node id="P0054">
       <data key="d0">Person</data>
-      <data key="d1">Bach, J. S.</data>
+      <data key="d2">Bach, J. S.</data>
     </node>
     <node id="P0055">
       <data key="d0">Person</data>
-      <data key="d1">KrÃ¼ger, Eduard</data>
+      <data key="d2">KrÃ¼ger, Eduard</data>
     </node>
     <node id="P0056">
       <data key="d0">Person</data>
-      <data key="d1">Vischer</data>
+      <data key="d2">Vischer</data>
     </node>
     <node id="P0057">
       <data key="d0">Person</data>
-      <data key="d1">Euler</data>
+      <data key="d2">Euler</data>
     </node>
     <node id="P0058">
       <data key="d0">Person</data>
-      <data key="d1">Zamminer</data>
+      <data key="d2">Zamminer</data>
     </node>
     <node id="P0059">
       <data key="d0">Person</data>
-      <data key="d1">PtolemÃ¤us</data>
+      <data key="d2">PtolemÃ¤us</data>
     </node>
     <node id="P0060">
       <data key="d0">Person</data>
-      <data key="d1">Fasch</data>
+      <data key="d2">Fasch</data>
     </node>
     <node id="P0061">
       <data key="d0">Person</data>
-      <data key="d1">Kinkel, Johanna</data>
+      <data key="d2">Kinkel, Johanna</data>
     </node>
     <node id="P0062">
       <data key="d0">Person</data>
-      <data key="d1">Aristoxenos</data>
+      <data key="d2">Aristoxenos</data>
     </node>
     <node id="P0063">
       <data key="d0">Person</data>
-      <data key="d1">Thimus, Freiherr A. v.</data>
+      <data key="d2">Thimus, Freiherr A. v.</data>
     </node>
     <node id="P0064">
       <data key="d0">Person</data>
-      <data key="d1">Hasenclever, Dr. Richard</data>
+      <data key="d2">Hasenclever, Dr. Richard</data>
     </node>
     <node id="P0065">
       <data key="d0">Person</data>
-      <data key="d1">Aristoteles</data>
+      <data key="d2">Aristoteles</data>
     </node>
     <node id="P0066">
       <data key="d0">Person</data>
-      <data key="d1">Schubring, G.</data>
+      <data key="d2">Schubring, G.</data>
     </node>
     <node id="P0067">
       <data key="d0">Person</data>
-      <data key="d1">VÃ¶lkel, Dr. A.</data>
+      <data key="d2">VÃ¶lkel, Dr. A.</data>
     </node>
     <node id="P0068">
       <data key="d0">Person</data>
-      <data key="d1">Heraklit</data>
+      <data key="d2">Heraklit</data>
     </node>
     <node id="P0069">
       <data key="d0">Person</data>
-      <data key="d1">Glarean, Heinrich</data>
+      <data key="d2">Glarean, Heinrich</data>
     </node>
     <node id="P0070">
       <data key="d0">Person</data>
-      <data key="d1">Chladini</data>
+      <data key="d2">Chladini</data>
     </node>
     <node id="P0071">
       <data key="d0">Person</data>
-      <data key="d1">SchrÃ¶der, Hermann</data>
+      <data key="d2">SchrÃ¶der, Hermann</data>
     </node>
     <node id="P0072">
       <data key="d0">Person</data>
-      <data key="d1">Billroth</data>
+      <data key="d2">Billroth</data>
     </node>
     <node id="P0073">
       <data key="d0">Person</data>
-      <data key="d1">Nithard</data>
+      <data key="d2">Nithard</data>
     </node>
     <node id="P0074">
       <data key="d0">Person</data>
-      <data key="d1">Riemann, Ludwig</data>
+      <data key="d2">Riemann, Ludwig</data>
     </node>
     <node id="P0075">
       <data key="d0">Person</data>
-      <data key="d1">Plato</data>
+      <data key="d2">Plato</data>
     </node>
     <node id="P0076">
       <data key="d0">Person</data>
-      <data key="d1">Euklid</data>
+      <data key="d2">Euklid</data>
     </node>
     <node id="P0077">
       <data key="d0">Person</data>
-      <data key="d1">Henning</data>
+      <data key="d2">Henning</data>
     </node>
     <node id="P0078">
       <data key="d0">Person</data>
-      <data key="d1">Marx, A. B.</data>
+      <data key="d2">Marx, A. B.</data>
     </node>
     <node id="P0079">
       <data key="d0">Person</data>
-      <data key="d1">Strauss, Johann</data>
+      <data key="d2">Strauss, Johann</data>
     </node>
     <node id="P0080">
       <data key="d0">Person</data>
-      <data key="d1">Richter, E. F.</data>
+      <data key="d2">Richter, E. F.</data>
     </node>
     <node id="P0081">
       <data key="d0">Person</data>
-      <data key="d1">Ziehn</data>
+      <data key="d2">Ziehn</data>
     </node>
     <node id="P0082">
       <data key="d0">Person</data>
-      <data key="d1">GrÃ¤dener</data>
+      <data key="d2">GrÃ¤dener</data>
     </node>
     <node id="P0083">
       <data key="d0">Person</data>
-      <data key="d1">Mayrberger</data>
+      <data key="d2">Mayrberger</data>
     </node>
     <node id="P0084">
       <data key="d0">Person</data>
-      <data key="d1">Rischbieter</data>
+      <data key="d2">Rischbieter</data>
     </node>
     <node id="P0085">
       <data key="d0">Person</data>
-      <data key="d1">Schubert, Franz</data>
+      <data key="d2">Schubert, Franz</data>
     </node>
     <node id="P0086">
       <data key="d0">Person</data>
-      <data key="d1">Wundt</data>
+      <data key="d2">Wundt</data>
     </node>
     <node id="P0087">
       <data key="d0">Person</data>
-      <data key="d1">RÃ¶ntgen</data>
+      <data key="d2">RÃ¶ntgen</data>
     </node>
     <node id="P0088">
       <data key="d0">Person</data>
-      <data key="d1">Rousseau, J. J.</data>
+      <data key="d2">Rousseau, J. J.</data>
     </node>
     <node id="P0089">
       <data key="d0">Person</data>
-      <data key="d1">Morambet, M. de</data>
+      <data key="d2">Morambet, M. de</data>
     </node>
     <node id="P0090">
       <data key="d0">Person</data>
-      <data key="d1">Naumann, Carl Ernst</data>
+      <data key="d2">Naumann, Carl Ernst</data>
     </node>
     <node id="P0091">
       <data key="d0">Person</data>
-      <data key="d1">Drobisch, M. W.</data>
+      <data key="d2">Drobisch, M. W.</data>
     </node>
     <node id="P0092">
       <data key="d0">Person</data>
-      <data key="d1">Opelt, F. W.</data>
+      <data key="d2">Opelt, F. W.</data>
     </node>
     <node id="P0093">
       <data key="d0">Person</data>
-      <data key="d1">Dehn, S. W.</data>
+      <data key="d2">Dehn, S. W.</data>
     </node>
     <node id="P0094">
       <data key="d0">Person</data>
-      <data key="d1">Poggendorf</data>
+      <data key="d2">Poggendorf</data>
     </node>
     <node id="P0095">
       <data key="d0">Person</data>
-      <data key="d1">MÃ¶hring, J. N.</data>
+      <data key="d2">MÃ¶hring, J. N.</data>
     </node>
     <node id="P0096">
       <data key="d0">Person</data>
-      <data key="d1">Ã‰rard, SÃ©bastien</data>
+      <data key="d2">Ã‰rard, SÃ©bastien</data>
     </node>
     <node id="P0097">
       <data key="d0">Person</data>
-      <data key="d1">Spohr, Louis</data>
+      <data key="d2">Spohr, Louis</data>
     </node>
     <node id="P0098">
       <data key="d0">Person</data>
-      <data key="d1">Pythagoras</data>
+      <data key="d2">Pythagoras</data>
     </node>
     <node id="P0099">
       <data key="d0">Person</data>
-      <data key="d1">Eximeno, D. Ant. </data>
+      <data key="d2">Eximeno, D. Ant. </data>
     </node>
     <node id="P0100">
       <data key="d0">Person</data>
-      <data key="d1">Drieberg, Fr. v.</data>
+      <data key="d2">Drieberg, Fr. v.</data>
     </node>
     <node id="P0101">
       <data key="d0">Person</data>
-      <data key="d1">Krieger, Joseph</data>
+      <data key="d2">Krieger, Joseph</data>
     </node>
     <node id="P0102">
       <data key="d0">Person</data>
-      <data key="d1">Herbart</data>
+      <data key="d2">Herbart</data>
     </node>
     <node id="P0103">
       <data key="d0">Person</data>
-      <data key="d1">Meyer</data>
+      <data key="d2">Meyer</data>
     </node>
     <node id="P0104">
       <data key="d0">Person</data>
-      <data key="d1">Delezenne</data>
+      <data key="d2">Delezenne</data>
     </node>
     <node id="P0105">
       <data key="d0">Person</data>
-      <data key="d1">Mach, E.</data>
+      <data key="d2">Mach, E.</data>
     </node>
     <node id="P0106">
       <data key="d0">Person</data>
-      <data key="d1">Blaserna, P.</data>
+      <data key="d2">Blaserna, P.</data>
     </node>
     <node id="P0107">
       <data key="d0">Person</data>
-      <data key="d1">Lully</data>
+      <data key="d2">Lully</data>
     </node>
     <node id="P0108">
       <data key="d0">Person</data>
-      <data key="d1">Scheibler</data>
+      <data key="d2">Scheibler</data>
     </node>
     <node id="P0109">
       <data key="d0">Person</data>
-      <data key="d1">Preyer</data>
+      <data key="d2">Preyer</data>
     </node>
     <node id="P0110">
       <data key="d0">Person</data>
-      <data key="d1">Despretz</data>
+      <data key="d2">Despretz</data>
     </node>
     <node id="P0111">
       <data key="d0">Person</data>
-      <data key="d1">Ellis, A.</data>
+      <data key="d2">Ellis, A.</data>
     </node>
     <node id="P0112">
       <data key="d0">Person</data>
-      <data key="d1">Joachim, [Joseph?]</data>
+      <data key="d2">Joachim, [Joseph?]</data>
     </node>
     <node id="P0113">
       <data key="d0">Person</data>
-      <data key="d1">Fourier</data>
+      <data key="d2">Fourier</data>
     </node>
     <node id="P0114">
       <data key="d0">Person</data>
-      <data key="d1">Ohm, G. S.</data>
+      <data key="d2">Ohm, G. S.</data>
     </node>
     <node id="P0115">
       <data key="d0">Person</data>
-      <data key="d1">Sorge</data>
+      <data key="d2">Sorge</data>
     </node>
     <node id="P0116">
       <data key="d0">Person</data>
-      <data key="d1">Bonnet</data>
+      <data key="d2">Bonnet</data>
     </node>
     <node id="P0117">
       <data key="d0">Person</data>
-      <data key="d1">Condillac</data>
+      <data key="d2">Condillac</data>
     </node>
     <node id="P0118">
       <data key="d0">Person</data>
-      <data key="d1">Volkmar, Ph. Dr. Vilhelm Volkmann Ritter von</data>
+      <data key="d2">Volkmar, Ph. Dr. Vilhelm Volkmann Ritter von</data>
     </node>
     <node id="P0119">
       <data key="d0">Person</data>
-      <data key="d1">Corti</data>
+      <data key="d2">Corti</data>
     </node>
     <node id="P0120">
       <data key="d0">Person</data>
-      <data key="d1">KÃ¶lliker</data>
+      <data key="d2">KÃ¶lliker</data>
     </node>
     <node id="P0121">
       <data key="d0">Person</data>
-      <data key="d1">Hensen</data>
+      <data key="d2">Hensen</data>
     </node>
     <node id="P0122">
       <data key="d0">Person</data>
-      <data key="d1">Zimmermann, R.</data>
+      <data key="d2">Zimmermann, R.</data>
     </node>
     <node id="P0123">
       <data key="d0">Person</data>
-      <data key="d1">Marquard, Paul</data>
+      <data key="d2">Marquard, Paul</data>
     </node>
     <node id="P0124">
       <data key="d0">Person</data>
-      <data key="d1">Zeisig</data>
+      <data key="d2">Zeisig</data>
     </node>
     <node id="P0125">
       <data key="d0">Person</data>
-      <data key="d1">Leibnitz</data>
+      <data key="d2">Leibnitz</data>
     </node>
     <node id="P0126">
       <data key="d0">Person</data>
-      <data key="d1">Lessing</data>
+      <data key="d2">Lessing</data>
     </node>
     <node id="P0127">
       <data key="d0">Person</data>
-      <data key="d1">Kant</data>
+      <data key="d2">Kant</data>
     </node>
     <node id="P0128">
       <data key="d0">Person</data>
-      <data key="d1">Tappert, W.</data>
+      <data key="d2">Tappert, W.</data>
     </node>
     <node id="P0129">
       <data key="d0">Person</data>
-      <data key="d1">Leibrock, Ad. J.</data>
+      <data key="d2">Leibrock, Ad. J.</data>
     </node>
     <node id="P0130">
       <data key="d0">Person</data>
-      <data key="d1">Laurencin, Graf</data>
+      <data key="d2">Laurencin, Graf</data>
     </node>
     <node id="P0131">
       <data key="d0">Person</data>
-      <data key="d1">Ambros, A. W.</data>
+      <data key="d2">Ambros, A. W.</data>
     </node>
     <node id="P0132">
       <data key="d0">Person</data>
-      <data key="d1">Marenzio, Luca</data>
+      <data key="d2">Marenzio, Luca</data>
     </node>
     <node id="P0133">
       <data key="d0">Person</data>
-      <data key="d1">Kraushaar, Otto</data>
+      <data key="d2">Kraushaar, Otto</data>
     </node>
     <node id="P0134">
       <data key="d0">Person</data>
-      <data key="d1">Kunkel, F. J.</data>
+      <data key="d2">Kunkel, F. J.</data>
     </node>
     <node id="P0135">
       <data key="d0">Person</data>
-      <data key="d1">Kretschmer, Andreas</data>
+      <data key="d2">Kretschmer, Andreas</data>
     </node>
     <node id="P0136">
       <data key="d0">Person</data>
-      <data key="d1">TÃ¼rk</data>
+      <data key="d2">TÃ¼rk</data>
     </node>
     <node id="P0137">
       <data key="d0">Person</data>
-      <data key="d1">Schneider, F.</data>
+      <data key="d2">Schneider, F.</data>
     </node>
     <node id="P0138">
       <data key="d0">Person</data>
-      <data key="d1">Hucbald</data>
+      <data key="d2">Hucbald</data>
     </node>
     <node id="P0139">
       <data key="d0">Person</data>
-      <data key="d1">Vogler</data>
+      <data key="d2">Vogler</data>
     </node>
     <node id="P0140">
       <data key="d0">Person</data>
-      <data key="d1">AndrÃ©, A.</data>
+      <data key="d2">AndrÃ©, A.</data>
     </node>
     <node id="P0141">
       <data key="d0">Person</data>
-      <data key="d1">Koch, H. Chr.</data>
+      <data key="d2">Koch, H. Chr.</data>
     </node>
     <node id="P0142">
       <data key="d0">Person</data>
-      <data key="d1">Fink, G. W.</data>
+      <data key="d2">Fink, G. W.</data>
     </node>
     <node id="P0143">
       <data key="d0">Person</data>
-      <data key="d1">Portmann</data>
+      <data key="d2">Portmann</data>
     </node>
     <node id="P0144">
       <data key="d0">Person</data>
-      <data key="d1">Lobe, J. C.</data>
+      <data key="d2">Lobe, J. C.</data>
     </node>
     <node id="P0145">
       <data key="d0">Person</data>
-      <data key="d1">SchÃ¼tze, F. W.</data>
+      <data key="d2">SchÃ¼tze, F. W.</data>
     </node>
     <node id="P0146">
       <data key="d0">Person</data>
-      <data key="d1">Albrechtsberger, Johann Georg</data>
+      <data key="d2">Albrechtsberger, Johann Georg</data>
     </node>
     <node id="P0147">
       <data key="d0">Person</data>
-      <data key="d1">Auber</data>
+      <data key="d2">Auber</data>
     </node>
     <node id="P0148">
       <data key="d0">Person</data>
-      <data key="d1">Zumsteeg</data>
+      <data key="d2">Zumsteeg</data>
     </node>
     <node id="P0149">
       <data key="d0">Person</data>
-      <data key="d1">Cherubini</data>
+      <data key="d2">Cherubini</data>
     </node>
     <node id="P0150">
       <data key="d0">Person</data>
-      <data key="d1">Hummel, J. N.</data>
+      <data key="d2">Hummel, J. N.</data>
     </node>
     <node id="P0151">
       <data key="d0">Person</data>
-      <data key="d1">Schilling</data>
+      <data key="d2">Schilling</data>
     </node>
     <node id="P0152">
       <data key="d0">Person</data>
-      <data key="d1">Schiller, Friedrich</data>
+      <data key="d2">Schiller, Friedrich</data>
     </node>
     <node id="P0153">
       <data key="d0">Person</data>
-      <data key="d1">Oulibicheff, Alexander</data>
+      <data key="d2">Oulibicheff, Alexander</data>
     </node>
     <node id="P0154">
       <data key="d0">Person</data>
-      <data key="d1">StÃ¶pel</data>
+      <data key="d2">StÃ¶pel</data>
     </node>
     <node id="P0155">
       <data key="d0">Person</data>
-      <data key="d1">Curwen, J.</data>
+      <data key="d2">Curwen, J.</data>
     </node>
     <node id="P0156">
       <data key="d0">Person</data>
-      <data key="d1">Merkel, C. L.</data>
+      <data key="d2">Merkel, C. L.</data>
     </node>
     <node id="P0157">
       <data key="d0">Person</data>
-      <data key="d1">Bellermann, F.</data>
+      <data key="d2">Bellermann, F.</data>
     </node>
     <node id="P0158">
       <data key="d0">Person</data>
-      <data key="d1">Sechter, Simon</data>
+      <data key="d2">Sechter, Simon</data>
     </node>
     <node id="P0159">
       <data key="d0">Person</data>
-      <data key="d1">Fortlage</data>
+      <data key="d2">Fortlage</data>
     </node>
     <node id="P0160">
       <data key="d0">Person</data>
-      <data key="d1">Boeckh</data>
+      <data key="d2">Boeckh</data>
     </node>
     <node id="P0161">
       <data key="d0">Person</data>
-      <data key="d1">Bona, Johannes</data>
+      <data key="d2">Bona, Johannes</data>
     </node>
     <node id="P0162">
       <data key="d0">Person</data>
-      <data key="d1">Plutarch</data>
+      <data key="d2">Plutarch</data>
     </node>
     <node id="P0163">
       <data key="d0">Person</data>
-      <data key="d1">Jones</data>
+      <data key="d2">Jones</data>
     </node>
     <node id="P0164">
       <data key="d0">Person</data>
-      <data key="d1">Olympos</data>
+      <data key="d2">Olympos</data>
     </node>
     <node id="P0165">
       <data key="d0">Person</data>
-      <data key="d1">Layriz, Fr.</data>
+      <data key="d2">Layriz, Fr.</data>
     </node>
     <node id="P0166">
       <data key="d0">Person</data>
-      <data key="d1">Brenner, F.</data>
+      <data key="d2">Brenner, F.</data>
     </node>
     <node id="P0167">
       <data key="d0">Person</data>
-      <data key="d1">Punschel, J. L. E.</data>
+      <data key="d2">Punschel, J. L. E.</data>
     </node>
     <node id="P0168">
       <data key="d0">Person</data>
-      <data key="d1">Wendemann</data>
+      <data key="d2">Wendemann</data>
     </node>
     <node id="P0169">
       <data key="d0">Person</data>
-      <data key="d1">Johann XXII</data>
+      <data key="d2">Johann XXII</data>
     </node>
     <node id="P0170">
       <data key="d0">Person</data>
-      <data key="d1">Palestrina</data>
+      <data key="d2">Palestrina</data>
     </node>
     <node id="P0171">
       <data key="d0">Person</data>
-      <data key="d1">Raff, Joachim</data>
+      <data key="d2">Raff, Joachim</data>
     </node>
     <node id="P0172">
       <data key="d0">Person</data>
-      <data key="d1">RÃ¶tscher, Ottfried</data>
+      <data key="d2">RÃ¶tscher, Ottfried</data>
     </node>
     <node id="P0173">
       <data key="d0">Person</data>
-      <data key="d1">Meyerbeer, G.</data>
+      <data key="d2">Meyerbeer, G.</data>
     </node>
     <node id="W0001">
       <data key="d0">Work</data>
-      <data key="d1">Die Lehre von den Tonempfindungen als physiologische Grundlage fÃ¼r die Theorie der Musik</data>
+      <data key="d2">Die Lehre von den Tonempfindungen als physiologische Grundlage fÃ¼r die Theorie der Musik</data>
     </node>
     <node id="W0002">
       <data key="d0">Work</data>
-      <data key="d1">Ãœber Zeiteinheit in Bezug auf Konsonanz, Harmonie und TonalitÃ¤t</data>
+      <data key="d2">Ãœber Zeiteinheit in Bezug auf Konsonanz, Harmonie und TonalitÃ¤t</data>
     </node>
     <node id="W0003">
       <data key="d0">Work</data>
-      <data key="d1">Ãœber Tonrhythmik und StimmenfÃ¼hrung</data>
+      <data key="d2">Ãœber Tonrhythmik und StimmenfÃ¼hrung</data>
     </node>
     <node id="W0004">
       <data key="d0">Work</data>
-      <data key="d1">DieÂ Natur der Harmonik und der Metrik: zur Theorie der Musik (Hauptmann)</data>
+      <data key="d2">DieÂ Natur der Harmonik und der Metrik: zur Theorie der Musik (Hauptmann)</data>
     </node>
     <node id="W0005">
       <data key="d0">Work</data>
-      <data key="d1">Johannes Gabrieli und sein Zeitalter (Winterfeldt)</data>
+      <data key="d2">Johannes Gabrieli und sein Zeitalter (Winterfeldt)</data>
     </node>
     <node id="W0006">
       <data key="d0">Work</data>
-      <data key="d1">Die Lehre von der Harmonik</data>
+      <data key="d2">Die Lehre von der Harmonik</data>
     </node>
     <node id="W0007">
       <data key="d0">Work</data>
-      <data key="d1">Quintett in g-moll (Mozart)</data>
+      <data key="d2">Quintett in g-moll (Mozart)</data>
     </node>
     <node id="W0008">
       <data key="d0">Work</data>
-      <data key="d1">erste Sinfonie (Beethoven)</data>
+      <data key="d2">erste Sinfonie (Beethoven)</data>
     </node>
     <node id="W0009">
       <data key="d0">Work</data>
-      <data key="d1">Das Problem des harmonischen Dualismus Ein Beitrag zur Ã„sthetik der Musik</data>
+      <data key="d2">Das Problem des harmonischen Dualismus Ein Beitrag zur Ã„sthetik der Musik</data>
     </node>
     <node id="W0010">
       <data key="d0">Work</data>
-      <data key="d1">Neue Zeitschrift fÃ¼r Musik</data>
+      <data key="d2">Neue Zeitschrift fÃ¼r Musik</data>
     </node>
     <node id="W0011">
       <data key="d0">Work</data>
-      <data key="d1">Geschichte der Musiktheorie im 9. - 19. Jahrhundert (Riemann)</data>
+      <data key="d2">Geschichte der Musiktheorie im 9. - 19. Jahrhundert (Riemann)</data>
     </node>
     <node id="W0012">
       <data key="d0">Work</data>
-      <data key="d1">Katechismus der Musikwissenschaft (Riemann)</data>
+      <data key="d2">Katechismus der Musikwissenschaft (Riemann)</data>
     </node>
     <node id="W0013">
       <data key="d0">Work</data>
-      <data key="d1">Elemente der musikalischen Ã„sthetik (Riemann)</data>
+      <data key="d2">Elemente der musikalischen Ã„sthetik (Riemann)</data>
     </node>
     <node id="W0014">
       <data key="d0">Work</data>
-      <data key="d1">Die musikalische Akustik als Grundlage... (Capellen) [TEIL 1]</data>
+      <data key="d2">Die musikalische Akustik als Grundlage... (Capellen) [TEIL 1]</data>
     </node>
     <node id="W0015">
       <data key="d0">Work</data>
-      <data key="d1">TraitÃ© de l'harmonie (Rameau)</data>
+      <data key="d2">TraitÃ© de l'harmonie (Rameau)</data>
     </node>
     <node id="W0016">
       <data key="d0">Work</data>
-      <data key="d1">Istituzioni harmoniche (Zarlino)</data>
+      <data key="d2">Istituzioni harmoniche (Zarlino)</data>
     </node>
     <node id="W0017">
       <data key="d0">Work</data>
-      <data key="d1">Harmoniesystem in Dualer Entwicklung (A. v. Oettingen 1866)</data>
+      <data key="d2">Harmoniesystem in Dualer Entwicklung (A. v. Oettingen 1866)</data>
     </node>
     <node id="W0018">
       <data key="d0">Work</data>
-      <data key="d1">O. Tiersch 1868</data>
+      <data key="d2">O. Tiersch 1868</data>
     </node>
     <node id="W0019">
       <data key="d0">Work</data>
-      <data key="d1">Musikalische Syntaxis (H. Riemann 1873)</data>
+      <data key="d2">Musikalische Syntaxis (H. Riemann 1873)</data>
     </node>
     <node id="W0020">
       <data key="d0">Work</data>
-      <data key="d1">Die beiden Tongeschlechter und die neuere Musikalische Theorie (ThÃ¼rlings 1877)</data>
+      <data key="d2">Die beiden Tongeschlechter und die neuere Musikalische Theorie (ThÃ¼rlings 1877)</data>
     </node>
     <node id="W0021">
       <data key="d0">Work</data>
-      <data key="d1">HostinskÃ½ 1879</data>
+      <data key="d2">HostinskÃ½ 1879</data>
     </node>
     <node id="W0022">
       <data key="d0">Work</data>
-      <data key="d1">A. Krisper 1882</data>
+      <data key="d2">A. Krisper 1882</data>
     </node>
     <node id="W0023">
       <data key="d0">Work</data>
-      <data key="d1">Zarlino, Opere I</data>
+      <data key="d2">Zarlino, Opere I</data>
     </node>
     <node id="W0024">
       <data key="d0">Work</data>
-      <data key="d1">Geschichte der Ã„sthetik in Deutschland (Lotze)</data>
+      <data key="d2">Geschichte der Ã„sthetik in Deutschland (Lotze)</data>
     </node>
     <node id="W0025">
       <data key="d0">Work</data>
-      <data key="d1">Goethes musikalisches Leben (F. Hiller)</data>
+      <data key="d2">Goethes musikalisches Leben (F. Hiller)</data>
     </node>
     <node id="W0026">
       <data key="d0">Work</data>
-      <data key="d1">Tonpsychologie (Stumpf)</data>
+      <data key="d2">Tonpsychologie (Stumpf)</data>
     </node>
     <node id="W0027">
       <data key="d0">Work</data>
-      <data key="d1">Musikerkalender 1898 (Riemann Article)</data>
+      <data key="d2">Musikerkalender 1898 (Riemann Article)</data>
     </node>
     <node id="W0028">
       <data key="d0">Work</data>
-      <data key="d1">Riemann's dissertation (1973)</data>
+      <data key="d2">Riemann's dissertation (1973)</data>
     </node>
     <node id="W0029">
       <data key="d0">Work</data>
-      <data key="d1">Skizze einer neuen Methode der Harmonielehre (Riemann)</data>
+      <data key="d2">Skizze einer neuen Methode der Harmonielehre (Riemann)</data>
     </node>
     <node id="W0030">
       <data key="d0">Work</data>
-      <data key="d1">Katechismus der Akustik</data>
+      <data key="d2">Katechismus der Akustik</data>
     </node>
     <node id="W0031">
       <data key="d0">Work</data>
-      <data key="d1">Die Freiheit oder Unfreiheit der TÃ¶ne und Intervalle [Capellen] ("Teil 2")</data>
+      <data key="d2">Die Freiheit oder Unfreiheit der TÃ¶ne und Intervalle [Capellen] ("Teil 2")</data>
     </node>
     <node id="W0032">
       <data key="d0">Work</data>
-      <data key="d1">Orgaan van de Vereeniging van Muziek-Onderwijzers</data>
+      <data key="d2">Orgaan van de Vereeniging van Muziek-Onderwijzers</data>
     </node>
     <node id="W0033">
       <data key="d0">Work</data>
-      <data key="d1">De leer der tonalen functien in conflict met die der polaire tegenstelling</data>
+      <data key="d2">De leer der tonalen functien in conflict met die der polaire tegenstelling</data>
     </node>
     <node id="W0034">
       <data key="d0">Work</data>
-      <data key="d1">Handbuch der Harmonielehre (Riemann)</data>
+      <data key="d2">Handbuch der Harmonielehre (Riemann)</data>
     </node>
     <node id="W0035">
       <data key="d0">Work</data>
-      <data key="d1">Katechismus des Generalbassspiels (Riemann)</data>
+      <data key="d2">Katechismus des Generalbassspiels (Riemann)</data>
     </node>
     <node id="W0036">
       <data key="d0">Work</data>
-      <data key="d1">kleine Kompositionslehre (Riemann)</data>
+      <data key="d2">kleine Kompositionslehre (Riemann)</data>
     </node>
     <node id="W0037">
       <data key="d0">Work</data>
-      <data key="d1">Die Neue Harmonielehre im Streit mit der alten (Weitzmann 61)</data>
+      <data key="d2">Die Neue Harmonielehre im Streit mit der alten (Weitzmann 61)</data>
     </node>
     <node id="W0038">
       <data key="d0">Work</data>
-      <data key="d1">Vorlesung Ã¼ber die Geschichte der Harmonie und ihrer Lehre (Weitzmann)</data>
+      <data key="d2">Vorlesung Ã¼ber die Geschichte der Harmonie und ihrer Lehre (Weitzmann)</data>
     </node>
     <node id="W0039">
       <data key="d0">Work</data>
-      <data key="d1">Harmoniesystem (Weitzmann 1860 Preisschrift)</data>
+      <data key="d2">Harmoniesystem (Weitzmann 1860 Preisschrift)</data>
     </node>
     <node id="W0040">
       <data key="d0">Work</data>
-      <data key="d1">[Selmar Bagge, Kritik in der] Deutschen Musikzeitung No. 30 und 31</data>
+      <data key="d2">[Selmar Bagge, Kritik in der] Deutschen Musikzeitung No. 30 und 31</data>
     </node>
     <node id="W0041">
       <data key="d0">Work</data>
-      <data key="d1">C dur-Quartetts (Mozart) "Dissonanz"</data>
+      <data key="d2">C dur-Quartetts (Mozart) "Dissonanz"</data>
     </node>
     <node id="W0042">
       <data key="d0">Work</data>
-      <data key="d1">Theorie der Tonsetzkunst (G. Weber)</data>
+      <data key="d2">Theorie der Tonsetzkunst (G. Weber)</data>
     </node>
     <node id="W0043">
       <data key="d0">Work</data>
-      <data key="d1">Prometheus-Ouverture (Liszt)</data>
+      <data key="d2">Prometheus-Ouverture (Liszt)</data>
     </node>
     <node id="W0044">
       <data key="d0">Work</data>
-      <data key="d1">Jupiter-Sinfonie (Mozart)</data>
+      <data key="d2">Jupiter-Sinfonie (Mozart)</data>
     </node>
     <node id="W0045">
       <data key="d0">Work</data>
-      <data key="d1">Eroica (Beethoven)</data>
+      <data key="d2">Eroica (Beethoven)</data>
     </node>
     <node id="W0046">
       <data key="d0">Work</data>
-      <data key="d1">Die temperirte Stimmung und die chromatische Tonleiter (Kretschmann)</data>
+      <data key="d2">Die temperirte Stimmung und die chromatische Tonleiter (Kretschmann)</data>
     </node>
     <node id="W0047">
       <data key="d0">Work</data>
-      <data key="d1">Figaro (Mozart)</data>
+      <data key="d2">Figaro (Mozart)</data>
     </node>
     <node id="W0048">
       <data key="d0">Work</data>
-      <data key="d1">Don Juan (Mozart)</data>
+      <data key="d2">Don Juan (Mozart)</data>
     </node>
     <node id="W0049">
       <data key="d0">Work</data>
-      <data key="d1">AlbumblÃ¤tter zur Emancipation der Quinten (Weitzmann)</data>
+      <data key="d2">AlbumblÃ¤tter zur Emancipation der Quinten (Weitzmann)</data>
     </node>
     <node id="W0050">
       <data key="d0">Work</data>
-      <data key="d1">Systematische Einleitung in die musikalische Setzkunst nach den LehrsÃ¤tzen des Herrn Rameau (d'Alembert, Ã¼bers. Marpurg)</data>
+      <data key="d2">Systematische Einleitung in die musikalische Setzkunst nach den LehrsÃ¤tzen des Herrn Rameau (d'Alembert, Ã¼bers. Marpurg)</data>
     </node>
     <node id="W0051">
       <data key="d0">Work</data>
-      <data key="d1">fÃ¼nfstimmigen Madrigale (Monteverdi)</data>
+      <data key="d2">fÃ¼nfstimmigen Madrigale (Monteverdi)</data>
     </node>
     <node id="W0052">
       <data key="d0">Work</data>
-      <data key="d1">Biogr. des Musiciens (FÃ©tis)</data>
+      <data key="d2">Biogr. des Musiciens (FÃ©tis)</data>
     </node>
     <node id="W0053">
       <data key="d0">Work</data>
-      <data key="d1">Uebungen zum Studium der Harmonie (F. Hiller)</data>
+      <data key="d2">Uebungen zum Studium der Harmonie (F. Hiller)</data>
     </node>
     <node id="W0054">
       <data key="d0">Work</data>
-      <data key="d1">13. Quartett in B dur (Beethoven)</data>
+      <data key="d2">13. Quartett in B dur (Beethoven)</data>
     </node>
     <node id="W0055">
       <data key="d0">Work</data>
-      <data key="d1">G Moll Sinfonie (Mozart)</data>
+      <data key="d2">G Moll Sinfonie (Mozart)</data>
     </node>
     <node id="W0056">
       <data key="d0">Work</data>
-      <data key="d1">Beethoven Sonate op. 26 (Trauermarsch)</data>
+      <data key="d2">Beethoven Sonate op. 26 (Trauermarsch)</data>
     </node>
     <node id="W0057">
       <data key="d0">Work</data>
-      <data key="d1">h-Moll Messe (Bach)</data>
+      <data key="d2">h-Moll Messe (Bach)</data>
     </node>
     <node id="W0058">
       <data key="d0">Work</data>
-      <data key="d1">5. Sinfonie (Beethoven)</data>
+      <data key="d2">5. Sinfonie (Beethoven)</data>
     </node>
     <node id="W0059">
       <data key="d0">Work</data>
-      <data key="d1">9. Sinfonie (Beethoven)</data>
+      <data key="d2">9. Sinfonie (Beethoven)</data>
     </node>
     <node id="W0060">
       <data key="d0">Work</data>
-      <data key="d1">Musikalische Briefe von Dr. Eduard KrÃ¼ger. MÃ¼nster, 1870</data>
+      <data key="d2">Musikalische Briefe von Dr. Eduard KrÃ¼ger. MÃ¼nster, 1870</data>
     </node>
     <node id="W0061">
       <data key="d0">Work</data>
-      <data key="d1">Ã„sthetik (Vischer)</data>
+      <data key="d2">Ã„sthetik (Vischer)</data>
     </node>
     <node id="W0062">
       <data key="d0">Work</data>
-      <data key="d1">â€žWider die feurigen Kapellmeisterâ€ Aufsatz in: â€žA. Allg. Ztg.â€œ Beilage Nro. 6 vom 6. Jan. 1875 (auch abgedruckt in der Allg. Mus. Ztg., 1875, Nro. 6 und 7)</data>
+      <data key="d2">â€žWider die feurigen Kapellmeisterâ€ Aufsatz in: â€žA. Allg. Ztg.â€œ Beilage Nro. 6 vom 6. Jan. 1875 (auch abgedruckt in der Allg. Mus. Ztg., 1875, Nro. 6 und 7)</data>
     </node>
     <node id="W0063">
       <data key="d0">Work</data>
-      <data key="d1">Komm, holder Lenz (Hadyn)</data>
+      <data key="d2">Komm, holder Lenz (Hadyn)</data>
     </node>
     <node id="W0064">
       <data key="d0">Work</data>
-      <data key="d1">â€žDie harmonikale Symbolik des Altertums, Erste Abteilung. Die esoterische Zalenlehre der Pythagoreer in ihrer Beziehung zu Ã¤lteren griechischen und morgenlÃ¤ndischen Quellen, insbesondere zur altsemitisch-hebrÃ¤ischen Ueberlieferungâ€. KÃ¶ln, 1868. (A. v. Thimus)</data>
+      <data key="d2">â€žDie harmonikale Symbolik des Altertums, Erste Abteilung. Die esoterische Zalenlehre der Pythagoreer in ihrer Beziehung zu Ã¤lteren griechischen und morgenlÃ¤ndischen Quellen, insbesondere zur altsemitisch-hebrÃ¤ischen Ueberlieferungâ€. KÃ¶ln, 1868. (A. v. Thimus)</data>
     </node>
     <node id="W0065">
       <data key="d0">Work</data>
-      <data key="d1">Die GrundzÃ¼ge der esoterischen Harmonik des Altertums, im Anschlusse an die Schrift des Freiherrn A. v. Thimus Ã¼ber die harmonikale Symbolik des Altertums (Dr. Richard Hasenclever)</data>
+      <data key="d2">Die GrundzÃ¼ge der esoterischen Harmonik des Altertums, im Anschlusse an die Schrift des Freiherrn A. v. Thimus Ã¼ber die harmonikale Symbolik des Altertums (Dr. Richard Hasenclever)</data>
     </node>
     <node id="W0066">
       <data key="d0">Work</data>
-      <data key="d1">Giebel's Zeitschr. f. d. ges. Naturwissenschaften, Bd. XXXII</data>
+      <data key="d2">Giebel's Zeitschr. f. d. ges. Naturwissenschaften, Bd. XXXII</data>
     </node>
     <node id="W0067">
       <data key="d0">Work</data>
-      <data key="d1">GÃ¤a (Zeitschrift, anscheinend)</data>
+      <data key="d2">GÃ¤a (Zeitschrift, anscheinend)</data>
     </node>
     <node id="W0068">
       <data key="d0">Work</data>
-      <data key="d1">Das heraklitische Prinzip und die heutige Naturforschung</data>
+      <data key="d2">Das heraklitische Prinzip und die heutige Naturforschung</data>
     </node>
     <node id="W0069">
       <data key="d0">Work</data>
-      <data key="d1">Die Zukunft der Musiktheorie (Dualismus oder â€žMonismusâ€?) und ihre Einwirkung auf die Praxis (Riemann)</data>
+      <data key="d2">Die Zukunft der Musiktheorie (Dualismus oder â€žMonismusâ€?) und ihre Einwirkung auf die Praxis (Riemann)</data>
     </node>
     <node id="W0070">
       <data key="d0">Work</data>
-      <data key="d1">GroÃŸe Kompositionslehre (Riemann 1902)</data>
+      <data key="d2">GroÃŸe Kompositionslehre (Riemann 1902)</data>
     </node>
     <node id="W0071">
       <data key="d0">Work</data>
-      <data key="d1">Die UnmÃ¶glichkeit und ÃœberflÃ¼ssigkeit der dualistischen Molltheorie Riemanns (Capellen)</data>
+      <data key="d2">Die UnmÃ¶glichkeit und ÃœberflÃ¼ssigkeit der dualistischen Molltheorie Riemanns (Capellen)</data>
     </node>
     <node id="W0072">
       <data key="d0">Work</data>
-      <data key="d1">Die AbhÃ¤ngigkeitsverhÃ¤ltnisse in der Musik (Capellen)</data>
+      <data key="d2">Die AbhÃ¤ngigkeitsverhÃ¤ltnisse in der Musik (Capellen)</data>
     </node>
     <node id="W0073">
       <data key="d0">Work</data>
-      <data key="d1">Studien zur Geschichte der Notenschrift (Riemann)</data>
+      <data key="d2">Studien zur Geschichte der Notenschrift (Riemann)</data>
     </node>
     <node id="W0074">
       <data key="d0">Work</data>
-      <data key="d1">Kurzgefasste Harmonielehre (Riemann)</data>
+      <data key="d2">Kurzgefasste Harmonielehre (Riemann)</data>
     </node>
     <node id="W0075">
       <data key="d0">Work</data>
-      <data key="d1">Modulationslehre (Riemann)</data>
+      <data key="d2">Modulationslehre (Riemann)</data>
     </node>
     <node id="W0076">
       <data key="d0">Work</data>
-      <data key="d1">Akustik (Chladini) [nach Cap.]</data>
+      <data key="d2">Akustik (Chladini) [nach Cap.]</data>
     </node>
     <node id="W0077">
       <data key="d0">Work</data>
-      <data key="d1">Versuch Ã¼ber die musikalische Temperatur (Marpurg)</data>
+      <data key="d2">Versuch Ã¼ber die musikalische Temperatur (Marpurg)</data>
     </node>
     <node id="W0079">
       <data key="d0">Work</data>
-      <data key="d1">ElÃ©ments de musique thÃ©orique et pratique (d'Alembert)</data>
+      <data key="d2">ElÃ©ments de musique thÃ©orique et pratique (d'Alembert)</data>
     </node>
     <node id="W0080">
       <data key="d0">Work</data>
-      <data key="d1">Wer ist Musikalisch (Billroth 1898)</data>
+      <data key="d2">Wer ist Musikalisch (Billroth 1898)</data>
     </node>
     <node id="W0081">
       <data key="d0">Work</data>
-      <data key="d1">Sumer is icomen in</data>
+      <data key="d2">Sumer is icomen in</data>
     </node>
     <node id="W0082">
       <data key="d0">Work</data>
-      <data key="d1">Ãœber eigentÃ¼mliche bei Natur- und orientalischen KulturvÃ¶lkern vorkommende Tonreihen (L. Riemann)</data>
+      <data key="d2">Ãœber eigentÃ¼mliche bei Natur- und orientalischen KulturvÃ¶lkern vorkommende Tonreihen (L. Riemann)</data>
     </node>
     <node id="W0083">
       <data key="d0">Work</data>
-      <data key="d1">Geschichte des Konsonanzbegriffs (Stumpf)</data>
+      <data key="d2">Geschichte des Konsonanzbegriffs (Stumpf)</data>
     </node>
     <node id="W0084">
       <data key="d0">Work</data>
-      <data key="d1">Charakteristik der Tonarten (Henning)</data>
+      <data key="d2">Charakteristik der Tonarten (Henning)</data>
     </node>
     <node id="W0085">
       <data key="d0">Work</data>
-      <data key="d1">Ich kann's nicht fassen, nicht glauben (Schumann, Lied)</data>
+      <data key="d2">Ich kann's nicht fassen, nicht glauben (Schumann, Lied)</data>
     </node>
     <node id="W0086">
       <data key="d0">Work</data>
-      <data key="d1">TannhÃ¤user / Venusberg (Wagner)</data>
+      <data key="d2">TannhÃ¤user / Venusberg (Wagner)</data>
     </node>
     <node id="W0087">
       <data key="d0">Work</data>
-      <data key="d1">Harmonie universelle (Mersenne 1638)</data>
+      <data key="d2">Harmonie universelle (Mersenne 1638)</data>
     </node>
     <node id="W0088">
       <data key="d0">Work</data>
-      <data key="d1">Die alte Musiklehre (Marx 1841)</data>
+      <data key="d2">Die alte Musiklehre (Marx 1841)</data>
     </node>
     <node id="W0089">
       <data key="d0">Work</data>
-      <data key="d1">Exotische Mollmusik (Capellen)</data>
+      <data key="d2">Exotische Mollmusik (Capellen)</data>
     </node>
     <node id="W0090">
       <data key="d0">Work</data>
-      <data key="d1">Shogaku shoka (Capellen)</data>
+      <data key="d2">Shogaku shoka (Capellen)</data>
     </node>
     <node id="W0091">
       <data key="d0">Work</data>
-      <data key="d1">Musiktaschenbuch (Riemann)</data>
+      <data key="d2">Musiktaschenbuch (Riemann)</data>
     </node>
     <node id="W0092">
       <data key="d0">Work</data>
-      <data key="d1">Lehrbuch der musikalischen Harmonik (Mayrberger)</data>
+      <data key="d2">Lehrbuch der musikalischen Harmonik (Mayrberger)</data>
     </node>
     <node id="W0093">
       <data key="d0">Work</data>
-      <data key="d1">Harmonielehre (E. F. Richter)</data>
+      <data key="d2">Harmonielehre (E. F. Richter)</data>
     </node>
     <node id="W0094">
       <data key="d0">Work</data>
-      <data key="d1">Neue Schule der Melodik (Riemann)</data>
+      <data key="d2">Neue Schule der Melodik (Riemann)</data>
     </node>
     <node id="W0095">
       <data key="d0">Work</data>
-      <data key="d1">Konsonanz und Dissonanz (Stumpf, Aufsatz)</data>
+      <data key="d2">Konsonanz und Dissonanz (Stumpf, Aufsatz)</data>
     </node>
     <node id="W0096">
       <data key="d0">Work</data>
-      <data key="d1">Abhandlung Ã¼ber Modulation (Rischbieter 1879)</data>
+      <data key="d2">Abhandlung Ã¼ber Modulation (Rischbieter 1879)</data>
     </node>
     <node id="W0097">
       <data key="d0">Work</data>
-      <data key="d1">Ein neuer exotischer Musikstil in Sicht? (Capellen)</data>
+      <data key="d2">Ein neuer exotischer Musikstil in Sicht? (Capellen)</data>
     </node>
     <node id="W0098">
       <data key="d0">Work</data>
-      <data key="d1">Die Symmetrische Umkehrung (H. SchrÃ¶der)</data>
+      <data key="d2">Die Symmetrische Umkehrung (H. SchrÃ¶der)</data>
     </node>
     <node id="W0099">
       <data key="d0">Work</data>
-      <data key="d1">Vorlesungen Ã¼ber die Menschen- und Tierseele (Wundt)</data>
+      <data key="d2">Vorlesungen Ã¼ber die Menschen- und Tierseele (Wundt)</data>
     </node>
     <node id="W0100">
       <data key="d0">Work</data>
-      <data key="d1">MatthÃ¤us Passion (Bach); Choral "O Haupt voll Blut und Wunden"</data>
+      <data key="d2">MatthÃ¤us Passion (Bach); Choral "O Haupt voll Blut und Wunden"</data>
     </node>
     <node id="W0101">
       <data key="d0">Work</data>
-      <data key="d1">Wohltemperiertes Klavier - Erstes PrÃ¤ludium (Bach)</data>
+      <data key="d2">Wohltemperiertes Klavier - Erstes PrÃ¤ludium (Bach)</data>
     </node>
     <node id="W0102">
       <data key="d0">Work</data>
-      <data key="d1">Dictionaire de Musique (Rousseau 1782)</data>
+      <data key="d2">Dictionaire de Musique (Rousseau 1782)</data>
     </node>
     <node id="W0103">
       <data key="d0">Work</data>
-      <data key="d1">Fidelio (Beethoven)</data>
+      <data key="d2">Fidelio (Beethoven)</data>
     </node>
     <node id="W0104">
       <data key="d0">Work</data>
-      <data key="d1">Beethoven Sonate op. 53 ("Waldstein")</data>
+      <data key="d2">Beethoven Sonate op. 53 ("Waldstein")</data>
     </node>
     <node id="W0105">
       <data key="d0">Work</data>
-      <data key="d1">Kreisleriana (Schumann)</data>
+      <data key="d2">Kreisleriana (Schumann)</data>
     </node>
     <node id="W0106">
       <data key="d0">Work</data>
-      <data key="d1">Huldigungs-Marsch (F. Liszt)</data>
+      <data key="d2">Huldigungs-Marsch (F. Liszt)</data>
     </node>
     <node id="W0107">
       <data key="d0">Work</data>
-      <data key="d1">H-Moll Sonate (Liszt)</data>
+      <data key="d2">H-Moll Sonate (Liszt)</data>
     </node>
     <node id="W0108">
       <data key="d0">Work</data>
-      <data key="d1">Sarabande der E moll-Suite, Exercices Op. I, Part. 6 (J.S. Bach)</data>
+      <data key="d2">Sarabande der E moll-Suite, Exercices Op. I, Part. 6 (J.S. Bach)</data>
     </node>
     <node id="W0109">
       <data key="d0">Work</data>
-      <data key="d1">Klaviersonate Nr. 8 in c-Moll op. 13 (Beethoven)</data>
+      <data key="d2">Klaviersonate Nr. 8 in c-Moll op. 13 (Beethoven)</data>
     </node>
     <node id="W0110">
       <data key="d0">Work</data>
-      <data key="d1">Naumann Dissertation "Ãœber die verschiedenen Bestimmungen der TonverhÃ¤ltnisse" etc.</data>
+      <data key="d2">Naumann Dissertation "Ãœber die verschiedenen Bestimmungen der TonverhÃ¤ltnisse" etc.</data>
     </node>
     <node id="W0111">
       <data key="d0">Work</data>
-      <data key="d1">Ãœber musikalische Tonbestimmungen und Temperatur (Drobisch 1852)</data>
+      <data key="d2">Ãœber musikalische Tonbestimmungen und Temperatur (Drobisch 1852)</data>
     </node>
     <node id="W0112">
       <data key="d0">Work</data>
-      <data key="d1">Allgemeine Theorie der Musik (1852) [Opelt]</data>
+      <data key="d2">Allgemeine Theorie der Musik (1852) [Opelt]</data>
     </node>
     <node id="W0113">
       <data key="d0">Work</data>
-      <data key="d1">die Musik und die musikalischen Instrumente in ihrer Beziehung zu den Gesetzen der Akustik (Zamminer)</data>
+      <data key="d2">die Musik und die musikalischen Instrumente in ihrer Beziehung zu den Gesetzen der Akustik (Zamminer)</data>
     </node>
     <node id="W0114">
       <data key="d0">Work</data>
-      <data key="d1">Versuch Ã¼ber die musikalische Temperatur (Marpurg 1776)</data>
+      <data key="d2">Versuch Ã¼ber die musikalische Temperatur (Marpurg 1776)</data>
     </node>
     <node id="W0115">
       <data key="d0">Work</data>
-      <data key="d1">theor.-prakt. Harmonielehre (S. W. Dehn - Berlin 1840)</data>
+      <data key="d2">theor.-prakt. Harmonielehre (S. W. Dehn - Berlin 1840)</data>
     </node>
     <node id="W0116">
       <data key="d0">Work</data>
-      <data key="d1">Ãœber wissenschaftliche Bestimmung der musikalischen Temperatur (Drobisch)</data>
+      <data key="d2">Ãœber wissenschaftliche Bestimmung der musikalischen Temperatur (Drobisch)</data>
     </node>
     <node id="W0117">
       <data key="d0">Work</data>
-      <data key="d1">Annalen der Physik (Poggendorf)</data>
+      <data key="d2">Annalen der Physik (Poggendorf)</data>
     </node>
     <node id="W0118">
       <data key="d0">Work</data>
-      <data key="d1">tentamen novae theoriae musicae (Euler)</data>
+      <data key="d2">tentamen novae theoriae musicae (Euler)</data>
     </node>
     <node id="W0119">
       <data key="d0">Work</data>
-      <data key="d1">zur Theorie der Musik (J. N. MÃ¶hring)</data>
+      <data key="d2">zur Theorie der Musik (J. N. MÃ¶hring)</data>
     </node>
     <node id="W0120">
       <data key="d0">Work</data>
-      <data key="d1">NachtrÃ¤ge zur Theorie der musikalischen TonverhÃ¤ltnisse (Drobisch)</data>
+      <data key="d2">NachtrÃ¤ge zur Theorie der musikalischen TonverhÃ¤ltnisse (Drobisch)</data>
     </node>
     <node id="W0121">
       <data key="d0">Work</data>
-      <data key="d1">Allgemeine Musiklehre (Marx)</data>
+      <data key="d2">Allgemeine Musiklehre (Marx)</data>
     </node>
     <node id="W0122">
       <data key="d0">Work</data>
-      <data key="d1">Compositionslehre / Die Lehre der Musikalischen Composition (Marx)</data>
+      <data key="d2">Compositionslehre / Die Lehre der Musikalischen Composition (Marx)</data>
     </node>
     <node id="W0123">
       <data key="d0">Work</data>
-      <data key="d1">Violinschule (Spohr)</data>
+      <data key="d2">Violinschule (Spohr)</data>
     </node>
     <node id="W0124">
       <data key="d0">Work</data>
-      <data key="d1">Dell' Origine e delle Regole della Musica (Eximeno)</data>
+      <data key="d2">Dell' Origine e delle Regole della Musica (Eximeno)</data>
     </node>
     <node id="W0125">
       <data key="d0">Work</data>
-      <data key="d1">Ãœber die Tonlehre (Herbart)</data>
+      <data key="d2">Ãœber die Tonlehre (Herbart)</data>
     </node>
     <node id="W0126">
       <data key="d0">Work</data>
-      <data key="d1">Ãœber die mathematische Bestimmung der musikalischen Intervalle (Drobisch)</data>
+      <data key="d2">Ãœber die mathematische Bestimmung der musikalischen Intervalle (Drobisch)</data>
     </node>
     <node id="W0127">
       <data key="d0">Work</data>
-      <data key="d1">historisch-kritische BeitrÃ¤ge Bd. V (Marpurg)</data>
+      <data key="d2">historisch-kritische BeitrÃ¤ge Bd. V (Marpurg)</data>
     </node>
     <node id="W0128">
       <data key="d0">Work</data>
-      <data key="d1">Leonore OuvertÃ¼re II (Beethoven)</data>
+      <data key="d2">Leonore OuvertÃ¼re II (Beethoven)</data>
     </node>
     <node id="W0129">
       <data key="d0">Work</data>
-      <data key="d1">Leonore Ouverture Nr. III (Beethoven)</data>
+      <data key="d2">Leonore Ouverture Nr. III (Beethoven)</data>
     </node>
     <node id="W0130">
       <data key="d0">Work</data>
-      <data key="d1">der neuen Aristoxener zerstreute AufsÃ¤tze Ã¼ber das Irrige der musikalischen Arithmetik und das Eitle ihrer Temperaturrechnungen (Sammelband hg. Von Kiesewetter)</data>
+      <data key="d2">der neuen Aristoxener zerstreute AufsÃ¤tze Ã¼ber das Irrige der musikalischen Arithmetik und das Eitle ihrer Temperaturrechnungen (Sammelband hg. Von Kiesewetter)</data>
     </node>
     <node id="W0131">
       <data key="d0">Work</data>
-      <data key="d1">Fr. Salinas 1577</data>
+      <data key="d2">Fr. Salinas 1577</data>
     </node>
     <node id="W0132">
       <data key="d0">Work</data>
-      <data key="d1">Descartes 1615</data>
+      <data key="d2">Descartes 1615</data>
     </node>
     <node id="W0133">
       <data key="d0">Work</data>
-      <data key="d1">Levens 1743</data>
+      <data key="d2">Levens 1743</data>
     </node>
     <node id="W0134">
       <data key="d0">Work</data>
-      <data key="d1">Serre 1753</data>
+      <data key="d2">Serre 1753</data>
     </node>
     <node id="W0135">
       <data key="d0">Work</data>
-      <data key="d1">Tartini 1754</data>
+      <data key="d2">Tartini 1754</data>
     </node>
     <node id="W0136">
       <data key="d0">Work</data>
-      <data key="d1">Blamville 1764</data>
+      <data key="d2">Blamville 1764</data>
     </node>
     <node id="W0137">
       <data key="d0">Work</data>
-      <data key="d1">Jamard 1769</data>
+      <data key="d2">Jamard 1769</data>
     </node>
     <node id="W0138">
       <data key="d0">Work</data>
-      <data key="d1">Vallotti 1779</data>
+      <data key="d2">Vallotti 1779</data>
     </node>
     <node id="W0139">
       <data key="d0">Work</data>
-      <data key="d1">Sabbatini 1799</data>
+      <data key="d2">Sabbatini 1799</data>
     </node>
     <node id="W0140">
       <data key="d0">Work</data>
-      <data key="d1">Timiaos (Plato)</data>
+      <data key="d2">Timiaos (Plato)</data>
     </node>
     <node id="W0141">
       <data key="d0">Work</data>
-      <data key="d1">Musikalische Logik (Riemann)</data>
+      <data key="d2">Musikalische Logik (Riemann)</data>
     </node>
     <node id="W0142">
       <data key="d0">Work</data>
-      <data key="d1">HÃ¼lfsmittel der Modulation (Riemann - Kassel, 1875)</data>
+      <data key="d2">HÃ¼lfsmittel der Modulation (Riemann - Kassel, 1875)</data>
     </node>
     <node id="W0143">
       <data key="d0">Work</data>
-      <data key="d1">Musikalische Grammatik (Riemann, only planned?)</data>
+      <data key="d2">Musikalische Grammatik (Riemann, only planned?)</data>
     </node>
     <node id="W0144">
       <data key="d0">Work</data>
-      <data key="d1">Einleitung in die Helmholtz'sche Musiktheorie (Mach)</data>
+      <data key="d2">Einleitung in die Helmholtz'sche Musiktheorie (Mach)</data>
     </node>
     <node id="W0145">
       <data key="d0">Work</data>
-      <data key="d1">Die Theorie des Schalls in Beziehung zur Musik (P. Blaserna)</data>
+      <data key="d2">Die Theorie des Schalls in Beziehung zur Musik (P. Blaserna)</data>
     </node>
     <node id="W0146">
       <data key="d0">Work</data>
-      <data key="d1">Ueber die Grenzen der Tonwahrnehmung (W. Preyer)</data>
+      <data key="d2">Ueber die Grenzen der Tonwahrnehmung (W. Preyer)</data>
     </node>
     <node id="W0147">
       <data key="d0">Work</data>
-      <data key="d1">Lehrbuch zur Psychologie (Hg. G. Hartenstein) 1850-52</data>
+      <data key="d2">Lehrbuch zur Psychologie (Hg. G. Hartenstein) 1850-52</data>
     </node>
     <node id="W0148">
       <data key="d0">Work</data>
-      <data key="d1">Lehrbuch der Psychologie (von Ph. Dr. Vilhelm Volkmann Ritter von Volkmar)</data>
+      <data key="d2">Lehrbuch der Psychologie (von Ph. Dr. Vilhelm Volkmann Ritter von Volkmar)</data>
     </node>
     <node id="W0149">
       <data key="d0">Work</data>
-      <data key="d1">Die objektive Existenz der UntertÃ¶ne in der Schallwelle (Riemann)</data>
+      <data key="d2">Die objektive Existenz der UntertÃ¶ne in der Schallwelle (Riemann)</data>
     </node>
     <node id="W0150">
       <data key="d0">Work</data>
-      <data key="d1">Psychologische Bemerkungen zur Tonlehre (Herbart)</data>
+      <data key="d2">Psychologische Bemerkungen zur Tonlehre (Herbart)</data>
     </node>
     <node id="W0151">
       <data key="d0">Work</data>
-      <data key="d1">Ueber den Einfluss der Tonlehre auf Herbart's Philosophie (R. Zimmermann) [1873]</data>
+      <data key="d2">Ueber den Einfluss der Tonlehre auf Herbart's Philosophie (R. Zimmermann) [1873]</data>
     </node>
     <node id="W0152">
       <data key="d0">Work</data>
-      <data key="d1">Harmonische Fragmente (Aristoxenos), hrsg. Und Ã¼bers. von Paul Marquard</data>
+      <data key="d2">Harmonische Fragmente (Aristoxenos), hrsg. Und Ã¼bers. von Paul Marquard</data>
     </node>
     <node id="W0153">
       <data key="d0">Work</data>
-      <data key="d1">Elementarbuch der musikalischen Harmonie- und Modulationslehre (Tiersch 1874)</data>
+      <data key="d2">Elementarbuch der musikalischen Harmonie- und Modulationslehre (Tiersch 1874)</data>
     </node>
     <node id="W0154">
       <data key="d0">Work</data>
-      <data key="d1">Laokoon (Lessing)</data>
+      <data key="d2">Laokoon (Lessing)</data>
     </node>
     <node id="W0155">
       <data key="d0">Work</data>
-      <data key="d1">Opuscula (Hauptmann 1874)</data>
+      <data key="d2">Opuscula (Hauptmann 1874)</data>
     </node>
     <node id="W0156">
       <data key="d0">Work</data>
-      <data key="d1">Lehrbuch der Harmonielehre (E. F. Richter)</data>
+      <data key="d2">Lehrbuch der Harmonielehre (E. F. Richter)</data>
     </node>
     <node id="W0157">
       <data key="d0">Work</data>
-      <data key="d1">Musikalische Studien (Tappert, W.)</data>
+      <data key="d2">Musikalische Studien (Tappert, W.)</data>
     </node>
     <node id="W0158">
       <data key="d0">Work</data>
-      <data key="d1">Musikalische Accordlehre (Ad. J. Leibrock)</data>
+      <data key="d2">Musikalische Accordlehre (Ad. J. Leibrock)</data>
     </node>
     <node id="W0159">
       <data key="d0">Work</data>
-      <data key="d1">Die Harmonik der Neuzeit erlÃ¤utert von Dr. F. P. Graf Laurencin.</data>
+      <data key="d2">Die Harmonik der Neuzeit erlÃ¤utert von Dr. F. P. Graf Laurencin.</data>
     </node>
     <node id="W0160">
       <data key="d0">Work</data>
-      <data key="d1">Lohengrin (Wagner)</data>
+      <data key="d2">Lohengrin (Wagner)</data>
     </node>
     <node id="W0161">
       <data key="d0">Work</data>
-      <data key="d1">Zur Lehre vom Quintenverbote (Ambros)</data>
+      <data key="d2">Zur Lehre vom Quintenverbote (Ambros)</data>
     </node>
     <node id="W0162">
       <data key="d0">Work</data>
-      <data key="d1">Das Verbot der Quinten-Parallelen (Tappert, W.) </data>
+      <data key="d2">Das Verbot der Quinten-Parallelen (Tappert, W.) </data>
     </node>
     <node id="W0163">
       <data key="d0">Work</data>
-      <data key="d1">Geschichte des Septimenaccordes (Weitzmann)</data>
+      <data key="d2">Geschichte des Septimenaccordes (Weitzmann)</data>
     </node>
     <node id="W0164">
       <data key="d0">Work</data>
-      <data key="d1">Der accordliche Gegensatz und die BegrÃ¼ndung der Skala (Kraushaar)</data>
+      <data key="d2">Der accordliche Gegensatz und die BegrÃ¼ndung der Skala (Kraushaar)</data>
     </node>
     <node id="W0165">
       <data key="d0">Work</data>
-      <data key="d1">Ach Gott und Herr (Choral)</data>
+      <data key="d2">Ach Gott und Herr (Choral)</data>
     </node>
     <node id="W0166">
       <data key="d0">Work</data>
-      <data key="d1">Kritische Beleuchtung (Kunkel)</data>
+      <data key="d2">Kritische Beleuchtung (Kunkel)</data>
     </node>
     <node id="W0167">
       <data key="d0">Work</data>
-      <data key="d1">Ideen zu einer Theorie der Musik (Kretzschmer)</data>
+      <data key="d2">Ideen zu einer Theorie der Musik (Kretzschmer)</data>
     </node>
     <node id="W0168">
       <data key="d0">Work</data>
-      <data key="d1">Anleitung zur Temperaturberechnung (TÃ¼rk)</data>
+      <data key="d2">Anleitung zur Temperaturberechnung (TÃ¼rk)</data>
     </node>
     <node id="W0169">
       <data key="d0">Work</data>
-      <data key="d1">Ãœbersicht der Schall- und Klanglehre (Chladini)</data>
+      <data key="d2">Ãœbersicht der Schall- und Klanglehre (Chladini)</data>
     </node>
     <node id="W0170">
       <data key="d0">Work</data>
-      <data key="d1">Elementarbuch der Harmonie (Schneider, F.)</data>
+      <data key="d2">Elementarbuch der Harmonie (Schneider, F.)</data>
     </node>
     <node id="W0171">
       <data key="d0">Work</data>
-      <data key="d1">Anweisung zum GeneralbaÃŸspielen (TÃ¼rk)</data>
+      <data key="d2">Anweisung zum GeneralbaÃŸspielen (TÃ¼rk)</data>
     </node>
     <node id="W0172">
       <data key="d0">Work</data>
-      <data key="d1">Harmonielehre (Vogler)</data>
+      <data key="d2">Harmonielehre (Vogler)</data>
     </node>
     <node id="W0173">
       <data key="d0">Work</data>
-      <data key="d1">Lehrbuch der Tonsetzkunst (AndrÃ©)</data>
+      <data key="d2">Lehrbuch der Tonsetzkunst (AndrÃ©)</data>
     </node>
     <node id="W0174">
       <data key="d0">Work</data>
-      <data key="d1">Musikalische Grammatik (Fink)</data>
+      <data key="d2">Musikalische Grammatik (Fink)</data>
     </node>
     <node id="W0175">
       <data key="d0">Work</data>
-      <data key="d1">Heidelberger JahrbÃ¼cher (G. Weber 1811)</data>
+      <data key="d2">Heidelberger JahrbÃ¼cher (G. Weber 1811)</data>
     </node>
     <node id="W0176">
       <data key="d0">Work</data>
-      <data key="d1">Die neusten und wichtigsten Entdeckungen (Portmann)</data>
+      <data key="d2">Die neusten und wichtigsten Entdeckungen (Portmann)</data>
     </node>
     <node id="W0177">
       <data key="d0">Work</data>
-      <data key="d1">Leichtes Lehrbuch der Harmonie (Portmann)</data>
+      <data key="d2">Leichtes Lehrbuch der Harmonie (Portmann)</data>
     </node>
     <node id="W0178">
       <data key="d0">Work</data>
-      <data key="d1">Lehrbuch der musikalischen Komposition (Lobe)</data>
+      <data key="d2">Lehrbuch der musikalischen Komposition (Lobe)</data>
     </node>
     <node id="W0179">
       <data key="d0">Work</data>
-      <data key="d1">FreischÃ¼tz (Weber)</data>
+      <data key="d2">FreischÃ¼tz (Weber)</data>
     </node>
     <node id="W0180">
       <data key="d0">Work</data>
-      <data key="d1">Compositionslehre (SchÃ¼tze, F. W.)</data>
+      <data key="d2">Compositionslehre (SchÃ¼tze, F. W.)</data>
     </node>
     <node id="W0181">
       <data key="d0">Work</data>
-      <data key="d1">Modulationslehre (Weber)</data>
+      <data key="d2">Modulationslehre (Weber)</data>
     </node>
     <node id="W0182">
       <data key="d0">Work</data>
-      <data key="d1">Die Stumme, von Portici - Ouverture (Auber)</data>
+      <data key="d2">Die Stumme, von Portici - Ouverture (Auber)</data>
     </node>
     <node id="W0183">
       <data key="d0">Work</data>
-      <data key="d1">Cosi fan Tutte (Mozart) - Ouverture</data>
+      <data key="d2">Cosi fan Tutte (Mozart) - Ouverture</data>
     </node>
     <node id="W0184">
       <data key="d0">Work</data>
-      <data key="d1">Colma (Zumsteeg)</data>
+      <data key="d2">Colma (Zumsteeg)</data>
     </node>
     <node id="W0185">
       <data key="d0">Work</data>
-      <data key="d1">Symphony Nr. ?? (Haydn)</data>
+      <data key="d2">Symphony Nr. ?? (Haydn)</data>
     </node>
     <node id="W0186">
       <data key="d0">Work</data>
-      <data key="d1">Sonata op. 7 (Beethoven) - Rondo</data>
+      <data key="d2">Sonata op. 7 (Beethoven) - Rondo</data>
     </node>
     <node id="W0187">
       <data key="d0">Work</data>
-      <data key="d1">Sonata op. 31, No. 3 (Beethoven)</data>
+      <data key="d2">Sonata op. 31, No. 3 (Beethoven)</data>
     </node>
     <node id="W0188">
       <data key="d0">Work</data>
-      <data key="d1">Theorie von der thematischen Arbeit (Lobe)</data>
+      <data key="d2">Theorie von der thematischen Arbeit (Lobe)</data>
     </node>
     <node id="W0189">
       <data key="d0">Work</data>
-      <data key="d1">Die GrundzÃ¼ge der musikalischen Formen (Richter)</data>
+      <data key="d2">Die GrundzÃ¼ge der musikalischen Formen (Richter)</data>
     </node>
     <node id="W0190">
       <data key="d0">Work</data>
-      <data key="d1">Versuch einer Anleitung zur Composition (Koch)</data>
+      <data key="d2">Versuch einer Anleitung zur Composition (Koch)</data>
     </node>
     <node id="W0191">
       <data key="d0">Work</data>
-      <data key="d1">Handbuch bei dem Studium der Harmonie (Koch 1811)</data>
+      <data key="d2">Handbuch bei dem Studium der Harmonie (Koch 1811)</data>
     </node>
     <node id="W0192">
       <data key="d0">Work</data>
-      <data key="d1">Klavier-Quintett in es-Moll, Allegro (Hummel)</data>
+      <data key="d2">Klavier-Quintett in es-Moll, Allegro (Hummel)</data>
     </node>
     <node id="W0193">
       <data key="d0">Work</data>
-      <data key="d1">Enharmonischer Tonwechsel (Art. in: Schilling EncyclopÃ¤die)</data>
+      <data key="d2">Enharmonischer Tonwechsel (Art. in: Schilling EncyclopÃ¤die)</data>
     </node>
     <node id="W0194">
       <data key="d0">Work</data>
-      <data key="d1">SÃ¼ddeutsche Musikzeitung</data>
+      <data key="d2">SÃ¼ddeutsche Musikzeitung</data>
     </node>
     <node id="W0195">
       <data key="d0">Work</data>
-      <data key="d1">Ueber Preisausschreiben fÃ¼r musikalische Compositionen</data>
+      <data key="d2">Ueber Preisausschreiben fÃ¼r musikalische Compositionen</data>
     </node>
     <node id="W0196">
       <data key="d0">Work</data>
-      <data key="d1">VorschlÃ¤ge zur Anregung fÃ¼r das Studium der Musiktheorie</data>
+      <data key="d2">VorschlÃ¤ge zur Anregung fÃ¼r das Studium der Musiktheorie</data>
     </node>
     <node id="W0197">
       <data key="d0">Work</data>
-      <data key="d1">Neues System der Harmonielehre (StÃ¶pel)</data>
+      <data key="d2">Neues System der Harmonielehre (StÃ¶pel)</data>
     </node>
     <node id="W0198">
       <data key="d0">Work</data>
-      <data key="d1">Abhandlung in der Leipziger AMZ 1825 (StÃ¶pel)</data>
+      <data key="d2">Abhandlung in der Leipziger AMZ 1825 (StÃ¶pel)</data>
     </node>
     <node id="W0199">
       <data key="d0">Work</data>
-      <data key="d1">AMZ</data>
+      <data key="d2">AMZ</data>
     </node>
     <node id="W0200">
       <data key="d0">Work</data>
-      <data key="d1">of Vocal Music sounded on the Tonic Solfa Method (Curwen, J.)</data>
+      <data key="d2">of Vocal Music sounded on the Tonic Solfa Method (Curwen, J.)</data>
     </node>
     <node id="W0201">
       <data key="d0">Work</data>
-      <data key="d1">The standard course of lessons on the Tonic Solfa Method (Curwen, J.)</data>
+      <data key="d2">The standard course of lessons on the Tonic Solfa Method (Curwen, J.)</data>
     </node>
     <node id="W0202">
       <data key="d0">Work</data>
-      <data key="d1">Physiologie der menschlichen Sprache (Merkel, C. L. 1866)</data>
+      <data key="d2">Physiologie der menschlichen Sprache (Merkel, C. L. 1866)</data>
     </node>
     <node id="W0203">
       <data key="d0">Work</data>
-      <data key="d1">Der Contrapunkt (Bellermann)</data>
+      <data key="d2">Der Contrapunkt (Bellermann)</data>
     </node>
     <node id="W0204">
       <data key="d0">Work</data>
-      <data key="d1">Das musikalische System der Griechen in seiner Urgestalt (Fortlage)</data>
+      <data key="d2">Das musikalische System der Griechen in seiner Urgestalt (Fortlage)</data>
     </node>
     <node id="W0205">
       <data key="d0">Work</data>
-      <data key="d1">De divina psalmodia (Bona)</data>
+      <data key="d2">De divina psalmodia (Bona)</data>
     </node>
     <node id="W0206">
       <data key="d0">Work</data>
-      <data key="d1">de musica (Plutarch)</data>
+      <data key="d2">de musica (Plutarch)</data>
     </node>
     <node id="W0207">
       <data key="d0">Work</data>
-      <data key="d1">Die Tonleitern und Musiknoten der Griechen (Bellermann)</data>
+      <data key="d2">Die Tonleitern und Musiknoten der Griechen (Bellermann)</data>
     </node>
     <node id="W0208">
       <data key="d0">Work</data>
-      <data key="d1">Geschichte der Musik (Ambros)</data>
+      <data key="d2">Geschichte der Musik (Ambros)</data>
     </node>
     <node id="W0209">
       <data key="d0">Work</data>
-      <data key="d1">Ueber die Musik der Indier (Jones) Ã¼bers. von Dalberg 1802</data>
+      <data key="d2">Ueber die Musik der Indier (Jones) Ã¼bers. von Dalberg 1802</data>
     </node>
     <node id="W0210">
       <data key="d0">Work</data>
-      <data key="d1">Egmont-Ouverture (Beethoven)</data>
+      <data key="d2">Egmont-Ouverture (Beethoven)</data>
     </node>
     <node id="W0211">
       <data key="d0">Work</data>
-      <data key="d1">Valitnita Suomalaisia Kansan-Lauluja</data>
+      <data key="d2">Valitnita Suomalaisia Kansan-Lauluja</data>
     </node>
     <node id="W0212">
       <data key="d0">Work</data>
-      <data key="d1">Schottische und Irische Liedbearbeitungen: "Mir trÃ¤umt, ich lag wo Blumen springen" (Beethoven) </data>
+      <data key="d2">Schottische und Irische Liedbearbeitungen: "Mir trÃ¤umt, ich lag wo Blumen springen" (Beethoven) </data>
     </node>
     <node id="W0213">
       <data key="d0">Work</data>
-      <data key="d1">O trÃ¶ste mich Harfe, mit TÃ¶nen von Sorgen (Beethoven)</data>
+      <data key="d2">O trÃ¶ste mich Harfe, mit TÃ¶nen von Sorgen (Beethoven)</data>
     </node>
     <node id="W0214">
       <data key="d0">Work</data>
-      <data key="d1">Heimkehr nach Ulster Volksliedbearbeitung (Beethoven)</data>
+      <data key="d2">Heimkehr nach Ulster Volksliedbearbeitung (Beethoven)</data>
     </node>
     <node id="W0215">
       <data key="d0">Work</data>
-      <data key="d1">Die Hochlands Wache Volksliedbearbeitung (Beethoven)</data>
+      <data key="d2">Die Hochlands Wache Volksliedbearbeitung (Beethoven)</data>
     </node>
     <node id="W0216">
       <data key="d0">Work</data>
-      <data key="d1">Der Abend Volksliedbearbeitung (Beethoven)</data>
+      <data key="d2">Der Abend Volksliedbearbeitung (Beethoven)</data>
     </node>
     <node id="W0217">
       <data key="d0">Work</data>
-      <data key="d1">TrÃ¼b, trÃ¼b ist mein Auge (Beethoven)</data>
+      <data key="d2">TrÃ¼b, trÃ¼b ist mein Auge (Beethoven)</data>
     </node>
     <node id="W0218">
       <data key="d0">Work</data>
-      <data key="d1">die holde Maid von Iverness (Beethoven)</data>
+      <data key="d2">die holde Maid von Iverness (Beethoven)</data>
     </node>
     <node id="W0219">
       <data key="d0">Work</data>
-      <data key="d1">Kern des deutschen Kirchengesanges (Layriz)</data>
+      <data key="d2">Kern des deutschen Kirchengesanges (Layriz)</data>
     </node>
     <node id="W0220">
       <data key="d0">Work</data>
-      <data key="d1">Choral: Wer nur den lieben Gott lÃ¤sst walten</data>
+      <data key="d2">Choral: Wer nur den lieben Gott lÃ¤sst walten</data>
     </node>
     <node id="W0221">
       <data key="d0">Work</data>
-      <data key="d1">Choral: HÃ¶chster Priester, der du dich</data>
+      <data key="d2">Choral: HÃ¶chster Priester, der du dich</data>
     </node>
     <node id="W0222">
       <data key="d0">Work</data>
-      <data key="d1">371 vierstimmige ChoralgesÃ¤nge (Bach)</data>
+      <data key="d2">371 vierstimmige ChoralgesÃ¤nge (Bach)</data>
     </node>
     <node id="W0223">
       <data key="d0">Work</data>
-      <data key="d1">Choralbuch fÃ¼r vier MÃ¤nnerstimmen (Brenner)</data>
+      <data key="d2">Choralbuch fÃ¼r vier MÃ¤nnerstimmen (Brenner)</data>
     </node>
     <node id="W0224">
       <data key="d0">Work</data>
-      <data key="d1">Evangelisches Choralbuch (Punschel)</data>
+      <data key="d2">Evangelisches Choralbuch (Punschel)</data>
     </node>
     <node id="W0225">
       <data key="d0">Work</data>
-      <data key="d1">Quartett in G-Moll (Mozart)</data>
+      <data key="d2">Quartett in G-Moll (Mozart)</data>
     </node>
     <node id="W0226">
       <data key="d0">Work</data>
-      <data key="d1">Sonate C-Dur op. 2 No. 3 (Beethoven)</data>
+      <data key="d2">Sonate C-Dur op. 2 No. 3 (Beethoven)</data>
     </node>
     <node id="W0227">
       <data key="d0">Work</data>
-      <data key="d1">C-dur Quartett Op. 59, No. 3 (Beethoven)</data>
+      <data key="d2">C-dur Quartett Op. 59, No. 3 (Beethoven)</data>
     </node>
     <node id="W0228">
       <data key="d0">Work</data>
-      <data key="d1">Stabat Mater (Palestrina)</data>
+      <data key="d2">Stabat Mater (Palestrina)</data>
     </node>
     <node id="W0229">
       <data key="d0">Work</data>
-      <data key="d1">A-Dur Sonate Op. 2, No. 2 (Beethoven) - Rondo Grazioso</data>
+      <data key="d2">A-Dur Sonate Op. 2, No. 2 (Beethoven) - Rondo Grazioso</data>
     </node>
     <node id="W0230">
       <data key="d0">Work</data>
-      <data key="d1">Am Meer (Schubert)</data>
+      <data key="d2">Am Meer (Schubert)</data>
     </node>
     <node id="W0231">
       <data key="d0">Work</data>
-      <data key="d1">Op. 74 No. 2 (Raff) - Scherzo</data>
+      <data key="d2">Op. 74 No. 2 (Raff) - Scherzo</data>
     </node>
     <node id="W0232">
       <data key="d0">Work</data>
-      <data key="d1">Struensee (Meyerbeer)</data>
+      <data key="d2">Struensee (Meyerbeer)</data>
     </node>
     <node id="W0233">
       <data key="d0">Work</data>
-      <data key="d1">As-Dur Fuge (Bach)</data>
+      <data key="d2">As-Dur Fuge (Bach)</data>
     </node>
     <edge source="CAP1905" target="W0061">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0096">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0076">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0082">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0003">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="W0002">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="CAP1905" target="P0065">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="P0054">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="P0040">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="CAP1905" target="P0072">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0006">
-      <data key="d2">8</data>
+      <data key="d3">8</data>
     </edge>
     <edge source="CAP1905" target="W0084">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0070">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0011">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0009">
-      <data key="d2">30</data>
+      <data key="d3">30</data>
     </edge>
     <edge source="CAP1905" target="W0102">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0072">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="W0088">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0031">
-      <data key="d2">15</data>
+      <data key="d3">15</data>
     </edge>
     <edge source="CAP1905" target="W0001">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="CAP1905" target="W0014">
-      <data key="d2">20</data>
+      <data key="d3">20</data>
     </edge>
     <edge source="CAP1905" target="W0098">
-      <data key="d2">25</data>
+      <data key="d3">25</data>
     </edge>
     <edge source="CAP1905" target="W0071">
-      <data key="d2">10</data>
+      <data key="d3">10</data>
     </edge>
     <edge source="CAP1905" target="W0069">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0004">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="CAP1905" target="W0097">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0079">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0013">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0076">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0057">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0089">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="P0060">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0011">
-      <data key="d2">8</data>
+      <data key="d3">8</data>
     </edge>
     <edge source="CAP1905" target="W0083">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="CAP1905" target="P0082">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="W0070">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="W0034">
-      <data key="d2">22</data>
+      <data key="d3">22</data>
     </edge>
     <edge source="CAP1905" target="W0087">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0093">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0017">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="CAP1905" target="P0007">
-      <data key="d2">15</data>
+      <data key="d3">15</data>
     </edge>
     <edge source="CAP1905" target="P0001">
-      <data key="d2">14</data>
+      <data key="d3">14</data>
     </edge>
     <edge source="CAP1905" target="P0077">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="CAP1905" target="P0003">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="CAP1905" target="W0085">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0036">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="CAP1905" target="W0095">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="W0074">
-      <data key="d2">11</data>
+      <data key="d3">11</data>
     </edge>
     <edge source="CAP1905" target="W0092">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0051">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0078">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0100">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="P0083">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0022">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0075">
-      <data key="d2">24</data>
+      <data key="d3">24</data>
     </edge>
     <edge source="CAP1905" target="P0089">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0019">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="W0091">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="W0094">
-      <data key="d2">16</data>
+      <data key="d3">16</data>
     </edge>
     <edge source="CAP1905" target="W0010">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="P0073">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0018">
-      <data key="d2">15</data>
+      <data key="d3">15</data>
     </edge>
     <edge source="CAP1905" target="P0075">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="CAP1905" target="P0004">
-      <data key="d2">11</data>
+      <data key="d3">11</data>
     </edge>
     <edge source="CAP1905" target="P0087">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0005">
-      <data key="d2">10</data>
+      <data key="d3">10</data>
     </edge>
     <edge source="CAP1905" target="P0080">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="CAP1905" target="P0017">
-      <data key="d2">207</data>
+      <data key="d3">207</data>
     </edge>
     <edge source="CAP1905" target="P0074">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0028">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0084">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0088">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0071">
-      <data key="d2">26</data>
+      <data key="d3">26</data>
     </edge>
     <edge source="CAP1905" target="P0085">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0043">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="W0090">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0029">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0079">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0073">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0019">
-      <data key="d2">26</data>
+      <data key="d3">26</data>
     </edge>
     <edge source="CAP1905" target="W0081">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0086">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="CAP1905" target="P0023">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="P0002">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="W0026">
-      <data key="d2">10</data>
+      <data key="d3">10</data>
     </edge>
     <edge source="CAP1905" target="W0077">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0056">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0099">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0045">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="CAP1905" target="P0014">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="CAP1905" target="W0080">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="W0101">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0086">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0010">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="CAP1905" target="P0081">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HAU1853" target="W0165">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HAU1853" target="P0054">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HAU1853" target="P0016">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HAU1853" target="W0164">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="HAU1853" target="W0004">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HAU1853" target="P0007">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HAU1853" target="P0133">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="HOS1879" target="P0131">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0125">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0062">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0054">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0016">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="P0106">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0116">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0117">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0119">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="W0162">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="P0110">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0020">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="W0159">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="W0001">
-      <data key="d2">36</data>
+      <data key="d3">36</data>
     </edge>
     <edge source="HOS1879" target="W0149">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0145">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0004">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="P0091">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0144">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0153">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0111">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0057">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0103">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0113">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="HOS1879" target="W0163">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0142">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="HOS1879" target="W0039">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="W0017">
-      <data key="d2">12</data>
+      <data key="d3">12</data>
     </edge>
     <edge source="HOS1879" target="W0152">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0007">
-      <data key="d2">9</data>
+      <data key="d3">9</data>
     </edge>
     <edge source="HOS1879" target="P0013">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0001">
-      <data key="d2">71</data>
+      <data key="d3">71</data>
     </edge>
     <edge source="HOS1879" target="P0121">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0102">
-      <data key="d2">13</data>
+      <data key="d3">13</data>
     </edge>
     <edge source="HOS1879" target="W0021">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0003">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="P0112">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0120">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0127">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0154">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0130">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="HOS1879" target="W0156">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0148">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0147">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0125">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0129">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0126">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0160">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0107">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="P0105">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0132">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0123">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0158">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0143">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0141">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="W0157">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0019">
-      <data key="d2">12</data>
+      <data key="d3">12</data>
     </edge>
     <edge source="HOS1879" target="P0018">
-      <data key="d2">47</data>
+      <data key="d3">47</data>
     </edge>
     <edge source="HOS1879" target="P0114">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="HOS1879" target="W0155">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="P0109">
-      <data key="d2">6</data>
+      <data key="d3">6</data>
     </edge>
     <edge source="HOS1879" target="W0150">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="P0098">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="HOS1879" target="P0080">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0017">
-      <data key="d2">22</data>
+      <data key="d3">22</data>
     </edge>
     <edge source="HOS1879" target="P0108">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="HOS1879" target="P0115">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0128">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="HOS1879" target="P0023">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0030">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="P0002">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="W0151">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0146">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="HOS1879" target="P0118">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0045">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="HOS1879" target="P0041">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="HOS1879" target="P0124">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="P0122">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="HOS1879" target="W0161">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0040">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="KUN1863" target="W0198">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0076">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0146">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0121">
-      <data key="d2">6</data>
+      <data key="d3">6</data>
     </edge>
     <edge source="KUN1863" target="W0199">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0140">
-      <data key="d2">9</data>
+      <data key="d3">9</data>
     </edge>
     <edge source="KUN1863" target="W0168">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0171">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="W0169">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="P0147">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0054">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="KUN1863" target="P0047">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="KUN1863" target="P0016">
-      <data key="d2">19</data>
+      <data key="d3">19</data>
     </edge>
     <edge source="KUN1863" target="W0056">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0044">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0042">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0041">
-      <data key="d2">6</data>
+      <data key="d3">6</data>
     </edge>
     <edge source="KUN1863" target="P0149">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0070">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="KUN1863" target="W0184">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0180">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0122">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="KUN1863" target="W0183">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0189">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0037">
-      <data key="d2">8</data>
+      <data key="d3">8</data>
     </edge>
     <edge source="KUN1863" target="W0176">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="KUN1863" target="W0182">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="W0004">
-      <data key="d2">15</data>
+      <data key="d3">15</data>
     </edge>
     <edge source="KUN1863" target="W0048">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="W0170">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0193">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0045">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="KUN1863" target="P0142">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="KUN1863" target="W0179">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="P0049">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0034">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="KUN1863" target="W0191">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0172">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0039">
-      <data key="d2">56</data>
+      <data key="d3">56</data>
     </edge>
     <edge source="KUN1863" target="P0007">
-      <data key="d2">33</data>
+      <data key="d3">33</data>
     </edge>
     <edge source="KUN1863" target="P0008">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="KUN1863" target="W0175">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0138">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="P0150">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0167">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="P0036">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="W0192">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0141">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="P0135">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="W0166">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="KUN1863" target="P0134">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="W0156">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="KUN1863" target="W0178">
-      <data key="d2">6</data>
+      <data key="d3">6</data>
     </edge>
     <edge source="KUN1863" target="W0173">
-      <data key="d2">7</data>
+      <data key="d3">7</data>
     </edge>
     <edge source="KUN1863" target="W0177">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="KUN1863" target="P0046">
-      <data key="d2">9</data>
+      <data key="d3">9</data>
     </edge>
     <edge source="KUN1863" target="P0144">
-      <data key="d2">7</data>
+      <data key="d3">7</data>
     </edge>
     <edge source="KUN1863" target="P0051">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="KUN1863" target="P0078">
-      <data key="d2">16</data>
+      <data key="d3">16</data>
     </edge>
     <edge source="KUN1863" target="W0181">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0015">
-      <data key="d2">25</data>
+      <data key="d3">25</data>
     </edge>
     <edge source="KUN1863" target="W0174">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="W0010">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0197">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0153">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0143">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="KUN1863" target="W0043">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="P0005">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="P0080">
-      <data key="d2">7</data>
+      <data key="d3">7</data>
     </edge>
     <edge source="KUN1863" target="W0194">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0145">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0152">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0151">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0137">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0043">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="KUN1863" target="W0187">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0186">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0097">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0154">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0185">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0136">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="KUN1863" target="W0042">
-      <data key="d2">22</data>
+      <data key="d3">22</data>
     </edge>
     <edge source="KUN1863" target="W0188">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0195">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0077">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0190">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0139">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="KUN1863" target="W0038">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="W0196">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="KUN1863" target="P0045">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="KUN1863" target="P0050">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="KUN1863" target="P0014">
-      <data key="d2">28</data>
+      <data key="d3">28</data>
     </edge>
     <edge source="KUN1863" target="P0041">
-      <data key="d2">164</data>
+      <data key="d3">164</data>
     </edge>
     <edge source="KUN1863" target="P0148">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="P0096">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="W0121">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="W0112">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="NAU1858" target="W0117">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="NAU1858" target="W0126">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="W0125">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="NAU1858" target="W0111">
-      <data key="d2">10</data>
+      <data key="d3">10</data>
     </edge>
     <edge source="NAU1858" target="W0116">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="NAU1858" target="P0062">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="P0016">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="P0070">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="W0122">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="P0093">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="P0104">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="W0124">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="W0130">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="W0113">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="NAU1858" target="W0004">
-      <data key="d2">10</data>
+      <data key="d3">10</data>
     </edge>
     <edge source="NAU1858" target="P0100">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="NAU1858" target="P0091">
-      <data key="d2">20</data>
+      <data key="d3">20</data>
     </edge>
     <edge source="NAU1858" target="P0057">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="P0099">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="NAU1858" target="P0007">
-      <data key="d2">16</data>
+      <data key="d3">16</data>
     </edge>
     <edge source="NAU1858" target="P0013">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="NAU1858" target="P0102">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="NAU1858" target="W0127">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="P0012">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="NAU1858" target="P0036">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="NAU1858" target="P0101">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="NAU1858" target="W0128">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="W0129">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="P0095">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="NAU1858" target="P0051">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="NAU1858" target="P0078">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="NAU1858" target="P0103">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="P0015">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="W0120">
-      <data key="d2">6</data>
+      <data key="d3">6</data>
     </edge>
     <edge source="NAU1858" target="W0110">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="P0090">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="P0092">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="NAU1858" target="P0094">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="NAU1858" target="P0098">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="NAU1858" target="W0007">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="P0097">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="W0118">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="W0115">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="W0114">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="NAU1858" target="W0123">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="NAU1858" target="P0058">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="NAU1858" target="P0010">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="NAU1858" target="W0119">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="W0222">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0229">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0230">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0131">
-      <data key="d2">8</data>
+      <data key="d3">8</data>
     </edge>
     <edge source="OET1866" target="W0117">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="P0065">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="P0062">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0233">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0054">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="OET1866" target="P0016">
-      <data key="d2">21</data>
+      <data key="d3">21</data>
     </edge>
     <edge source="OET1866" target="W0056">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="OET1866" target="P0157">
-      <data key="d2">12</data>
+      <data key="d3">12</data>
     </edge>
     <edge source="OET1866" target="W0052">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0160">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0161">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0166">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="OET1866" target="W0227">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0221">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="OET1866" target="W0220">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0223">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0122">
-      <data key="d2">15</data>
+      <data key="d3">15</data>
     </edge>
     <edge source="OET1866" target="P0155">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="P0011">
-      <data key="d2">21</data>
+      <data key="d3">21</data>
     </edge>
     <edge source="OET1866" target="W0204">
-      <data key="d2">11</data>
+      <data key="d3">11</data>
     </edge>
     <edge source="OET1866" target="W0205">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0206">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="W0216">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0164">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="OET1866" target="W0203">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="OET1866" target="W0215">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0218">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0001">
-      <data key="d2">52</data>
+      <data key="d3">52</data>
     </edge>
     <edge source="OET1866" target="W0037">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0207">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="OET1866" target="W0004">
-      <data key="d2">32</data>
+      <data key="d3">32</data>
     </edge>
     <edge source="OET1866" target="P0091">
-      <data key="d2">6</data>
+      <data key="d3">6</data>
     </edge>
     <edge source="OET1866" target="W0210">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="OET1866" target="W0079">
-      <data key="d2">8</data>
+      <data key="d3">8</data>
     </edge>
     <edge source="OET1866" target="W0170">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0111">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0057">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="OET1866" target="W0224">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0053">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="P0159">
-      <data key="d2">17</data>
+      <data key="d3">17</data>
     </edge>
     <edge source="OET1866" target="P0113">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="W0208">
-      <data key="d2">6</data>
+      <data key="d3">6</data>
     </edge>
     <edge source="OET1866" target="W0163">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="W0039">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="W0017">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="P0007">
-      <data key="d2">97</data>
+      <data key="d3">97</data>
     </edge>
     <edge source="OET1866" target="P0013">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="OET1866" target="W0214">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="P0001">
-      <data key="d2">132</data>
+      <data key="d3">132</data>
     </edge>
     <edge source="OET1866" target="P0169">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0005">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="P0163">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="OET1866" target="W0219">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0133">
-      <data key="d2">10</data>
+      <data key="d3">10</data>
     </edge>
     <edge source="OET1866" target="P0165">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="OET1866" target="W0178">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="P0046">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0144">
-      <data key="d2">7</data>
+      <data key="d3">7</data>
     </edge>
     <edge source="OET1866" target="P0095">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="OET1866" target="P0078">
-      <data key="d2">26</data>
+      <data key="d3">26</data>
     </edge>
     <edge source="OET1866" target="W0100">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0156">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="P0173">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0015">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="OET1866" target="W0110">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="OET1866" target="P0090">
-      <data key="d2">19</data>
+      <data key="d3">19</data>
     </edge>
     <edge source="OET1866" target="W0213">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0018">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="W0200">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0114">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="P0164">
-      <data key="d2">6</data>
+      <data key="d3">6</data>
     </edge>
     <edge source="OET1866" target="W0231">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0170">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="W0202">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0075">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0162">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="OET1866" target="W0043">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0167">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="OET1866" target="P0098">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0225">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0172">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="P0171">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0005">
-      <data key="d2">9</data>
+      <data key="d3">9</data>
     </edge>
     <edge source="OET1866" target="P0137">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0212">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="P0085">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0043">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0158">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0226">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0228">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0232">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0118">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0201">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="W0217">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="OET1866" target="W0209">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="OET1866" target="W0211">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0041">
-      <data key="d2">9</data>
+      <data key="d3">9</data>
     </edge>
     <edge source="OET1866" target="P0168">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="OET1866" target="P0009">
-      <data key="d2">6</data>
+      <data key="d3">6</data>
     </edge>
     <edge source="RIE1905" target="W0022">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0003">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0002">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0040">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="RIE1905" target="P0026">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0136">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0006">
-      <data key="d2">11</data>
+      <data key="d3">11</data>
     </edge>
     <edge source="RIE1905" target="W0009">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0033">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0038">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0021">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0132">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0020">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0031">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="RIE1905" target="W0001">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="RIE1905" target="W0014">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="RIE1905" target="W0004">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="RIE1905" target="W0013">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0131">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0024">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="RIE1905" target="W0011">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="RIE1905" target="P0034">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="RIE1905" target="W0025">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0034">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0087">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0017">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="RIE1905" target="P0007">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="RIE1905" target="P0001">
-      <data key="d2">13</data>
+      <data key="d3">13</data>
     </edge>
     <edge source="RIE1905" target="P0035">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0021">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0003">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="RIE1905" target="P0039">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0016">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0027">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0137">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0030">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0012">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0035">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0036">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0036">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0031">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0024">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0133">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0033">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="RIE1905" target="P0022">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0019">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="RIE1905" target="W0027">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0010">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0018">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0018">
-      <data key="d2">12</data>
+      <data key="d3">12</data>
     </edge>
     <edge source="RIE1905" target="W0032">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0004">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="RIE1905" target="P0005">
-      <data key="d2">12</data>
+      <data key="d3">12</data>
     </edge>
     <edge source="RIE1905" target="P0037">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0017">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="RIE1905" target="W0028">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="RIE1905" target="P0029">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0139">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0020">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0032">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="RIE1905" target="P0025">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0134">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0029">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0019">
-      <data key="d2">15</data>
+      <data key="d3">15</data>
     </edge>
     <edge source="RIE1905" target="P0023">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="RIE1905" target="W0135">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0030">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0002">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="RIE1905" target="W0026">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="RIE1905" target="W0015">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="RIE1905" target="P0028">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="W0138">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="RIE1905" target="P0010">
-      <data key="d2">7</data>
+      <data key="d3">7</data>
     </edge>
     <edge source="RIE1905" target="W0023">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="THU1877" target="W0058">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="W0059">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="W0061">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="W0064">
-      <data key="d2">6</data>
+      <data key="d3">6</data>
     </edge>
     <edge source="THU1877" target="W0062">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0065">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0062">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="THU1877" target="P0016">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0011">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="W0068">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="W0020">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="W0065">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="THU1877" target="W0001">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="THU1877" target="W0006">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="THU1877" target="W0004">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="THU1877" target="P0057">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0060">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="W0055">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="W0067">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="W0066">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0069">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="W0017">
-      <data key="d2">9</data>
+      <data key="d3">9</data>
     </edge>
     <edge source="THU1877" target="P0064">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0007">
-      <data key="d2">18</data>
+      <data key="d3">18</data>
     </edge>
     <edge source="THU1877" target="P0008">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="THU1877" target="P0013">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0001">
-      <data key="d2">25</data>
+      <data key="d3">25</data>
     </edge>
     <edge source="THU1877" target="P0068">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="THU1877" target="W0057">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="W0005">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0012">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0061">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0036">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="W0063">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0055">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0015">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="W0060">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="THU1877" target="P0018">
-      <data key="d2">17</data>
+      <data key="d3">17</data>
     </edge>
     <edge source="THU1877" target="P0075">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0059">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0098">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="THU1877" target="P0005">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="THU1877" target="P0066">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0030">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0063">
-      <data key="d2">15</data>
+      <data key="d3">15</data>
     </edge>
     <edge source="THU1877" target="W0140">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0067">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="THU1877" target="P0056">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0014">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0009">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="THU1877" target="P0058">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="THU1877" target="P0010">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="W0059">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="P0054">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="WEI1860" target="P0016">
-      <data key="d2">7</data>
+      <data key="d3">7</data>
     </edge>
     <edge source="WEI1860" target="W0104">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="W0008">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="W0103">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="W0039">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="P0007">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="P0008">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="W0107">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="W0106">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="W0109">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="W0105">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="P0046">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="WEI1860" target="P0015">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="W0108">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="P0043">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="WEI1860" target="P0041">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1860" target="P0010">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="W0040">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
     <edge source="WEI1861" target="W0054">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="W0049">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="P0054">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="P0047">
-      <data key="d2">53</data>
+      <data key="d3">53</data>
     </edge>
     <edge source="WEI1861" target="P0016">
-      <data key="d2">11</data>
+      <data key="d3">11</data>
     </edge>
     <edge source="WEI1861" target="W0056">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="WEI1861" target="P0044">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="W0052">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="P0042">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="W0041">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="WEI1861" target="P0011">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="W0006">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="W0037">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="W0046">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="W0004">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="WEI1861" target="W0048">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="W0045">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="WEI1861" target="P0053">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="W0051">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="W0047">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="WEI1861" target="W0055">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="P0049">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="W0039">
-      <data key="d2">34</data>
+      <data key="d3">34</data>
     </edge>
     <edge source="WEI1861" target="P0007">
-      <data key="d2">10</data>
+      <data key="d3">10</data>
     </edge>
     <edge source="WEI1861" target="P0035">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="WEI1861" target="W0044">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="P0048">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="P0046">
-      <data key="d2">5</data>
+      <data key="d3">5</data>
     </edge>
     <edge source="WEI1861" target="P0051">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="P0052">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="WEI1861" target="P0015">
-      <data key="d2">9</data>
+      <data key="d3">9</data>
     </edge>
     <edge source="WEI1861" target="W0010">
-      <data key="d2">3</data>
+      <data key="d3">3</data>
     </edge>
     <edge source="WEI1861" target="W0043">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="WEI1861" target="P0005">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="WEI1861" target="P0043">
-      <data key="d2">6</data>
+      <data key="d3">6</data>
     </edge>
     <edge source="WEI1861" target="W0050">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="WEI1861" target="W0042">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="W0053">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="W0038">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="WEI1861" target="P0045">
-      <data key="d2">2</data>
+      <data key="d3">2</data>
     </edge>
     <edge source="WEI1861" target="P0050">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="P0014">
-      <data key="d2">1</data>
+      <data key="d3">1</data>
     </edge>
     <edge source="WEI1861" target="P0041">
-      <data key="d2">4</data>
+      <data key="d3">4</data>
     </edge>
   </graph>
 </graphml>
