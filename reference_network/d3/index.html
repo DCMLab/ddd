@@ -24,9 +24,27 @@ const HEIGHT = 600;
 
 let container = d3.select("#container");
 
+
 let svg = container.append("svg")
     .attr("width", WIDTH)
     .attr("height", HEIGHT);
+
+let zoom = d3.zoom()
+  .on('zoom', handleZoom);
+  
+
+function handleZoom(e) {
+    d3.select("svg")
+        .attr('transform', e.transform);
+}
+
+
+function initZoom() {
+  d3.select('svg')
+    .call(zoom);
+}
+
+
 
 let node = null;
 let link = null;
@@ -99,7 +117,7 @@ function setup() {
     data.links.forEach(d => {
         linkedByIndex[`${d.source.index},${d.target.index}`] = true;
     });
-    
+    initZoom();
     update();
 }
 
@@ -115,7 +133,7 @@ function update() {
       .attr("cx", d => d.x)
       .attr("cy", d => d.y)
       .on('mouseover.fade', fade(0.1))
-      .on('mouseout.fade', fade(1));;
+      .on('mouseout.fade', fade(1));
     
     textElems
         .attr("x", d => d.x + 10)
