@@ -19,8 +19,8 @@
 // https://observablehq.com/@d3/force-directed-graph
 // https://www.d3indepth.com/force-layout/
 
-const WIDTH = 640;
-const HEIGHT = 480;
+const WIDTH = 800;
+const HEIGHT = 600;
 
 let container = d3.select("#container");
 
@@ -34,11 +34,20 @@ let link = null;
 let data = null;
 let simulation = null;
 
+
+
+
+
 d3.json("ref_network.json").then(d => {
     data = d;
     setup();
 });
 
+let myColor = d3.scaleOrdinal().domain(["Source", "Person", "Work"])
+    .range(["red", "blue", "green"])
+    
+
+    
 function setup() {
     console.log(data);
 
@@ -51,17 +60,18 @@ function setup() {
 
     link = svg.append("g")
         .attr("stroke", "#999")
+        .attr("stroke-opacity", 1)
         .selectAll("line")
         .data(data.links)
-        .join("line");
-        // TODO "stroke-width"
+        .join("line")
+        .attr("stroke-width", d => d.weight/20);
 
     node = svg.append("g")
-        .attr("fill", "#f00")
         .selectAll("circle")
         .data(data.nodes, n => n.id)
         .join("circle")
         .attr("r", 4)
+        .style("fill", d => myColor(d.type))
         .call(
             d3.drag()
             .on("start", dragStart)
@@ -69,6 +79,27 @@ function setup() {
             .on("end", dragEnd)
         );
 
+               
+    textElems = svg.append("g")
+        .selectAll("text")
+        .data(data.nodes)
+        .join("text")
+        .text(d => d.id)
+        .attr('font-size',12)
+        .attr('font-size',12)
+        .style("visibility", "hidden")
+        .call(
+            d3.drag()
+            .on("start", dragStart)
+            .on("drag", dragUpdate)
+            .on("end", dragEnd));
+
+        
+    linkedByIndex = {};
+    data.links.forEach(d => {
+        linkedByIndex[`${d.source.index},${d.target.index}`] = true;
+    });
+    
     update();
 }
 
@@ -82,7 +113,15 @@ function update() {
 
     node
       .attr("cx", d => d.x)
-      .attr("cy", d => d.y);
+      .attr("cy", d => d.y)
+      .on('mouseover.fade', fade(0.1))
+      .on('mouseout.fade', fade(1));;
+    
+    textElems
+        .attr("x", d => d.x + 10)
+        .attr("y", d => d.y)
+        .on('mouseover.fade', fade(0.1))
+        .on('mouseout.fade', fade(1));
 }
 
 function dragStart(event) {
@@ -104,6 +143,23 @@ function dragEnd(event) {
     event.subject.fy = null;
 }
 
+  
+function isConnected(a, b) {
+    return linkedByIndex[`${a.index},${b.index}`] || linkedByIndex[`${b.index},${a.index}`] || a.index === b.index;
+}
+
+function fade(opacity) {
+    return d => {
+      node.style('opacity', o => (isConnected(d, o) ? 1 : opacity ));
+      textElems.style('visibility', o => (isConnected(d, o) ? "visible" : "hidden"));
+      link.style('stroke-opacity', o => (o.source === d || o.target === d ? 1 : opacity));
+      if(opacity === 1){
+        node.style('opacity', 1)
+        textElems.style('visibility', 'hidden')
+        link.style('stroke-opacity', 1)
+      };
+    };
+}
 
 </script>
 
