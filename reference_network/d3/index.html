@@ -73,6 +73,7 @@ function setup() {
     simulation = d3
         .forceSimulation(data.nodes)
         .force("link", d3.forceLink(data.links).id(l => l.id))
+		.force("speciallink", d3.forceLink(data.speciallinks).id(l => l.id))
         .force("charge", d3.forceManyBody())
         .force("center", d3.forceCenter(WIDTH / 2, HEIGHT / 2))
         .on("tick", update);
@@ -84,6 +85,17 @@ function setup() {
         .data(data.links)
         .join("line")
         .attr("stroke-width", d => d.weight/20);
+		
+				
+	speciallink = root.append("g")
+		.attr("stroke", "#ffcc33")
+		.attr("stroke-opacity", 1)
+		.selectAll("line")
+		.data(data.speciallinks)
+		.join("line")
+		.style("stroke-dasharray", ("3, 3"))
+		.attr("stroke-width", 1);
+
 
     node = root.append("g")
         .selectAll("circle")
@@ -118,6 +130,10 @@ function setup() {
     data.links.forEach(d => {
         linkedByIndex[`${d.source.index},${d.target.index}`] = true;
     });
+	
+	data.speciallinks.forEach(d => {
+        linkedByIndex[`${d.source.index},${d.target.index}`] = true;
+    });
     
     initZoom();
     update();
@@ -131,6 +147,12 @@ function update() {
       .attr("y1", d => d.source.y)
       .attr("x2", d => d.target.x)
       .attr("y2", d => d.target.y);
+	  
+    speciallink
+      .attr("x1", d => d.source.x)
+      .attr("y1", d => d.source.y)
+      .attr("x2", d => d.target.x)
+      .attr("y2", d => d.target.y)	
 
     node
       .attr("cx", d => d.x)
@@ -174,10 +196,12 @@ function fade(opacity) {
       node.style('opacity', o => (isConnected(d, o) ? 1 : opacity ));
       textElems.style('visibility', o => (isConnected(d, o) ? "visible" : "hidden"));
       link.style('stroke-opacity', o => (o.source === d || o.target === d ? 1 : opacity));
+	  speciallink.style('stroke-opacity', o => (o.source === d || o.target === d ? 1 : opacity));
       if(opacity === 1){
         node.style('opacity', 1)
         textElems.style('visibility', 'hidden')
         link.style('stroke-opacity', 1)
+		speciallink.style('stroke-opacity',1)
       };
     };
 }
