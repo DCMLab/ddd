@@ -14,6 +14,14 @@
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 
+<p>
+
+  <label for="minref" 
+         style="display: inline-block; width: 240px; text-align: right">
+         min. references = <span id="minref-value">…</span>
+  </label>
+  <input type="range" min="1" max="200" id="minref"></p>
+
 <script>
 
 // https://observablehq.com/@d3/force-directed-graph
@@ -124,6 +132,7 @@ function setup() {
             .on("start", dragStart)
             .on("drag", dragUpdate)
             .on("end", dragEnd));
+			
 
         
     linkedByIndex = {};
@@ -137,6 +146,7 @@ function setup() {
     
     initZoom();
     update();
+	change(0);
 }
 
 //TODO : css pointer-event None (éviter que la souris réagisse au texte)
@@ -165,6 +175,20 @@ function update() {
         .attr("y", d => d.y)
         //.on('mouseover.fade', fade(0.1))
         //.on('mouseout.fade', fade(1));
+		
+	d3.select("#minref").on("input", function() {
+	change(+this.value);
+	});
+	
+
+	
+}
+
+function change(minref) {
+	d3.select("#minref-value").text(minref);
+	d3.select("#minref").property("value", minref);
+	
+	
 }
 
 function dragStart(event) {
