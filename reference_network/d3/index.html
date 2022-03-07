@@ -18,7 +18,7 @@
 
   <label for="minref" 
          style="display: inline-block; width: 240px; text-align: right">
-         min. references = <span id="minref-value">…</span>
+         min. references = <span id="minref-label">...</span>
   </label>
   <input type="range" min="1" max="200" id="minref"></p>
 
@@ -57,9 +57,15 @@ function initZoom() {
 
 let node = null;
 let link = null;
+let speciallink = null;
+let textElems = null;
+let minref = d3.select("#minref");
+let minrefLabel = d3.select("#minref-label");
 
 let data = null;
 let simulation = null;
+
+
 
 
 
@@ -132,8 +138,25 @@ function setup() {
             .on("start", dragStart)
             .on("drag", dragUpdate)
             .on("end", dragEnd));
+    
+    for (let i = 0; i < data.nodes.length; ++i) {
+        data.nodes[i].maxWeight = 0;
+    }
+    
+    let maxWeight = 0;
+    for (let i = 0; i < data.links.length; ++i) {
+        let value = data.links[i].weight;
+        if (value > maxWeight) 
+            maxWeight = value;
+        if (value > data.links[i].source.maxWeight) 
+            data.links[i].source.maxWeight = value;
+        if (value > data.links[i].target.maxWeight)
+            data.links[i].target.maxWeight = value;
+          
+    }
 			
-
+    minref.attr("max", maxWeight);
+    
         
     linkedByIndex = {};
     data.links.forEach(d => {
@@ -146,7 +169,7 @@ function setup() {
     
     initZoom();
     update();
-	change(0);
+    change(0);
 }
 
 //TODO : css pointer-event None (éviter que la souris réagisse au texte)
@@ -180,15 +203,17 @@ function update() {
 	change(+this.value);
 	});
 	
-
-	
 }
 
-function change(minref) {
-	d3.select("#minref-value").text(minref);
-	d3.select("#minref").property("value", minref);
+
+
+function change(value) {
+	minrefLabel.text(value);
+	minref.property("value", value);
 	
-	
+	link.style('visibility', d => d.weight >= value ? 'visible' : 'hidden');
+    node.style('visibility', d => d.maxWeight >= value ? 'visible' : 'hidden');
+    speciallink.style('visibility', d => d.source.maxWeight >= value && d.target.maxWeight >= value ? 'visible' : 'hidden');
 }
 
 function dragStart(event) {
