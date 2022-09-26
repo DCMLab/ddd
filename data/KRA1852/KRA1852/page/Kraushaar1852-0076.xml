@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-09-22T14:25:24.552+02:00</Created>
+        <LastChange>2021-10-14T13:39:35.067+02:00</LastChange>
+        <TranskribusMetadata docId="786648" pageId="29711360" pageNr="76" tsid="66501304" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=MXACLONTXUFHFQNLCWQOVMOJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YAEZVZNZFBCNAATKWICYVJYG" imageId="23310854"/>
+    </Metadata>
+    <Page imageFilename="Kraushaar1852-0076.jpg" imageWidth="5704" imageHeight="9387" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1634213945100" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1633031629302_778"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1633031627621_773"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1633031623262_765"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1633031629302_778" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="676,556 5033,556 5034,795 677,795"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2747,765 2859,779 2893,779 2906,767 2949,771 2951,569 2929,569 2869,525 2835,551 2800,537 2749,537"/>
+                <Baseline points="2768,714 2795,716 2822,714 2849,714 2876,712 2903,715 2930,720"/>
+                <TextEquiv>
+                    <Unicode>71</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>71</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1633031715234_803" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="677,795 5034,795 5039,1989 682,1989"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1633031627621_773" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
+            <Coords points="682,1989 5039,1989 5043,2620 686,2620"/>
+            <TextLine id="r2l11" custom="readingOrder {index:0;} concept_mus {offset:21; length:11;}">
+                <Coords points="1111,2198 1658,2133 2046,2228 2641,2142 3167,2215 3167,1931 2675,2026 2400,1939 1564,2017 1111,1961"/>
+                <Baseline points="1132,2144 1232,2142 1333,2140 1434,2138 1534,2138 1635,2138 1736,2137 1836,2136 1937,2138 2038,2138 2139,2138 2239,2138 2340,2138 2441,2140 2541,2140 2642,2140 2743,2140 2843,2140 2944,2140 3045,2140 3146,2138"/>
+                <TextEquiv>
+                    <Unicode>Hieraus entsteht die Accordfolge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:1;} m_chord {offset:0; length:2;} m_chord {offset:3; length:2;} m_chord {offset:6; length:2;} m_chord {offset:9; length:3;} m_chord {offset:13; length:3;} m_chord {offset:17; length:3;} textStyle {offset:19; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:21; length:3;} textStyle {offset:23; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:25; length:2;}">
+                <Coords points="1444,2376 4542,2374 4541,2158 2383,2266 1443,2169"/>
+                <Baseline points="1466,2324 1618,2328 1771,2330 1924,2332 2076,2332 2229,2332 2382,2332 2534,2332 2687,2330 2840,2330 2993,2328 3145,2328 3298,2326 3451,2324 3603,2324 3756,2324 3909,2324 4061,2324 4214,2326 4367,2328 4520,2332"/>
+                <TextEquiv>
+                    <Unicode>-c +c -c +es +as +g7 +c7 -c,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:2;}">
+                <Coords points="743,2589 4142,2613 4233,2406 742,2400"/>
+                <Baseline points="766,2540 938,2544 1110,2546 1282,2548 1455,2548 1627,2550 1799,2550 1972,2550 2144,2552 2316,2552 2489,2550 2661,2550 2833,2550 3005,2550 3178,2548 3350,2548 3522,2546 3695,2546 3867,2544 4039,2543 4212,2542"/>
+                <TextEquiv>
+                    <Unicode>deren Darstellung aus dem Beispiel 32 zu ersehen ist:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hieraus entsteht die Accordfolge&#13;
+-c +c -c +es +as +g7 +c7 -c,&#13;
+deren Darstellung aus dem Beispiel 32 zu ersehen ist:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1633031706758_796" custom="readingOrder {index:3;} structure {type:floating;}">
+            <Coords points="686,2620 5043,2620 5056,4939 699,4939"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1633031623262_765" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="699,4939 5056,4939 5060,5570 703,5570"/>
+            <TextLine id="r2l42" custom="readingOrder {index:0;} concept_mus {offset:24; length:8;}">
+                <Coords points="751,5099 1574,5106 2010,5273 2376,5091 2996,5184 2931,4917 2435,4905 2143,5005 1561,4912 1367,4973 1263,4908 751,4927"/>
+                <Baseline points="774,5096 884,5096 994,5098 1104,5098 1214,5098 1324,5100 1434,5100 1544,5102 1654,5102 1764,5102 1874,5102 1984,5102 2094,5102 2204,5102 2314,5100 2424,5100 2534,5098 2644,5094 2754,5092 2864,5088 2974,5084"/>
+                <TextEquiv>
+                    <Unicode>und deren Beziehung zur Tonreihe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l43" custom="readingOrder {index:1;} m_tonality {offset:0; length:16;}">
+                <Coords points="2304,5311 2490,5366 2735,5291 2847,5329 3084,5289 3278,5365 3394,5300 3506,5308 3505,5097 3320,5102 3273,5146 3169,5090 3070,5177 2872,5200 2803,5157 2739,5214 2678,5175 2403,5211 2303,5147"/>
+                <Baseline points="2324,5286 2382,5290 2440,5293 2498,5294 2556,5296 2614,5296 2672,5296 2730,5296 2788,5294 2846,5294 2904,5292 2962,5290 3020,5290 3078,5288 3136,5288 3194,5286 3252,5286 3310,5286 3368,5288 3426,5290 3484,5292"/>
+                <TextEquiv>
+                    <Unicode>f g as b e d e f</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l44" custom="readingOrder {index:2;}">
+                <Coords points="764,5522 1234,5517 1644,5676 1958,5568 2144,5662 3613,5620 3612,5306 3517,5280 3044,5380 764,5346"/>
+                <Baseline points="784,5506 924,5504 1064,5502 1204,5502 1345,5500 1485,5500 1625,5500 1766,5500 1906,5500 2046,5500 2187,5500 2327,5500 2467,5500 2607,5500 2748,5500 2888,5500 3028,5500 3169,5500 3309,5498 3449,5496 3590,5494"/>
+                <TextEquiv>
+                    <Unicode>insbesondere das Beispiel 33 erkennen läßt:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>und deren Beziehung zur Tonreihe&#13;
+f g as b e d e f&#13;
+insbesondere das Beispiel 33 erkennen läßt:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1633031695227_789" custom="readingOrder {index:5;} structure {type:floating;}">
+            <Coords points="703,5570 5060,5570 5074,8128 717,8128"/>
+        </MusicRegion>
+    </Page>
+</PcGts>

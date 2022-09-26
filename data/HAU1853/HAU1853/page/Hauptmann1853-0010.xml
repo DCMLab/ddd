@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:30.840+01:00</Created>
+        <LastChange>2021-08-30T19:30:14.219+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718870" pageNr="1" tsid="63790262" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HFBXYLWVIDNQGEVTNUTIYSHY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VGQPKBQELDBHONNNRYOCAKNE" imageId="22439375"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0010.jpg" imageWidth="1444" imageHeight="2597" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630597157450" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1613332063395_2887"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1613332067691_2892"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="other" id="TextRegion_1613332063395_2887" custom="readingOrder {index:0;} structure {type:other;}">
+            <Coords points="186,376 1247,376 1247,1718 186,1718"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;} work_text {offset:0; length:9; continued:true;ID:W0004;}">
+                <Coords points="483,451 943,442 943,394 920,379 483,384"/>
+                <Baseline points="489,433 515,434 541,434 568,435 594,435 620,436 647,436 673,436 699,436 726,436 752,436 778,435 805,435 831,435 857,435 884,435 910,435 937,434"/>
+                <TextEquiv>
+                    <Unicode>DIE NATUR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;} work_text {offset:0; length:3; continued:true;ID:W0004;}">
+                <Coords points="681,595 766,595 767,564 759,564 751,556 682,555"/>
+                <Baseline points="688,585 724,585 760,587"/>
+                <TextEquiv>
+                    <Unicode>DER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;} work_text {offset:0; length:24; continued:true;ID:W0004;}">
+                <Coords points="180,796 1254,795 1229,707 180,709"/>
+                <Baseline points="186,784 239,782 292,781 345,779 398,779 451,778 504,778 557,778 610,778 663,778 716,778 769,779 822,779 875,780 928,780 981,781 1034,782 1087,782 1140,783 1193,783 1247,784"/>
+                <TextEquiv>
+                    <Unicode>HARMONIK UND DER METRIK.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;} work_text {offset:0; length:21; continued:true;ID:W0004;}">
+                <Coords points="402,979 1034,976 1034,949 1004,932 402,931"/>
+                <Baseline points="409,970 441,972 474,972 506,973 539,973 571,973 604,973 637,973 669,973 702,973 734,973 767,972 799,972 832,972 865,972 897,972 930,972 962,973 995,974 1028,975"/>
+                <TextEquiv>
+                    <Unicode>ZUR THEORIE DER MUSIK.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612351836607_136" custom="readingOrder {index:4;}">
+                <Coords points="693,1155 743,1155 747,1151 754,1151 754,1115 747,1115 741,1122 735,1124 693,1123"/>
+                <Baseline points="699,1147 748,1147"/>
+                <TextEquiv>
+                    <Unicode>VON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:5;} person_author {offset:0; length:12;ID:P0007;}">
+                <Coords points="485,1332 942,1331 965,1323 964,1194 869,1270 485,1268"/>
+                <Baseline points="492,1320 517,1320 543,1320 569,1319 595,1319 621,1319 647,1319 673,1319 699,1319 725,1319 750,1319 776,1319 802,1319 828,1318 854,1318 880,1317 906,1317 932,1316 958,1315"/>
+                <TextEquiv>
+                    <Unicode>M. HAUPTMANN.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DIE NATUR&#13;
+DER&#13;
+HARMONIK UND DER METRIK.&#13;
+ZUR THEORIE DER MUSIK.&#13;
+VON&#13;
+M. HAUPTMANN.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="other" id="TextRegion_1613332067691_2892" custom="readingOrder {index:1;} structure {type:other;}">
+            <Coords points="186,1718 1247,1718 1247,2073 186,2073"/>
+            <TextLine id="r2l11" custom="readingOrder {index:0;} location {offset:0; length:7;}">
+                <Coords points="610,1851 783,1851 788,1845 813,1851 813,1803 792,1796 610,1802"/>
+                <Baseline points="617,1837 644,1838 671,1838 698,1838 725,1838 752,1838 779,1837 807,1837"/>
+                <TextEquiv>
+                    <Unicode>LEIPZIG,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:1;}">
+                <Coords points="320,1932 1107,1926 1081,1900 320,1908"/>
+                <Baseline points="327,1925 365,1925 404,1925 442,1925 481,1926 520,1926 558,1926 597,1926 636,1926 674,1926 713,1925 752,1925 790,1925 829,1925 868,1925 906,1925 945,1925 984,1925 1022,1926 1061,1926 1100,1926"/>
+                <TextEquiv>
+                    <Unicode>DRUCK UND VERLAG VON BREITKOPF UND HÄRTEL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:2;} time {offset:0; length:4;}">
+                <Coords points="659,2016 680,2020 766,2020 767,1989 760,1989 746,1978 728,1981 719,1971 707,1975 698,1971 686,1978 673,1972 666,1978 659,1978"/>
+                <Baseline points="666,2009 697,2009 728,2009 760,2011"/>
+                <TextEquiv>
+                    <Unicode>1853.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>LEIPZIG,&#13;
+DRUCK UND VERLAG VON BREITKOPF UND HÄRTEL.&#13;
+1853.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

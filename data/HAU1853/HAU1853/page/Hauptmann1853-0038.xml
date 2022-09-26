@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:32.067+01:00</Created>
+        <LastChange>2021-08-31T00:05:56.401+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718898" pageNr="29" tsid="63800593" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=CDOSGWAZCZQQOFVESHBARSCL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=URGFNEOLBJJHUOXYKAEOJFZC" imageId="22439403"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0038.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630597160182" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612360553724_3152"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612360553724_3151"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612360549459_3147"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1612360545139_3143"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1612360539455_3139"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1612360553724_3152" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="169,681 1226,681 1226,757 169,757"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} concept_mus {offset:0; length:5;}">
+                <Coords points="625,713 633,713 642,723 702,723 712,716 729,731 751,730 764,717 771,717 771,687 703,684 690,670 675,667 625,668"/>
+                <Baseline points="631,708 657,709 684,709 711,709 738,709 765,710"/>
+                <TextEquiv>
+                    <Unicode>Klang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Klang.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612360553724_3151" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="169,757 1226,757 1226,1376 169,1376"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:6; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:6; length:5;}">
+                <Coords points="266,843 1233,843 1206,796 266,797"/>
+                <Baseline points="272,827 319,827 367,828 415,828 462,829 510,829 558,829 605,829 653,829 701,829 749,829 796,829 844,829 892,829 939,829 987,829 1035,829 1082,829 1130,829 1178,830 1226,830"/>
+                <TextEquiv>
+                    <Unicode>1. Wo Klang entstehen soll, wird erfordert: ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_phy {offset:0; length:11;} concept_phy {offset:13; length:10;} concept_phy {offset:33; length:23;}">
+                <Coords points="168,891 1144,899 1227,889 1227,851 168,860"/>
+                <Baseline points="175,881 227,881 279,882 331,882 384,882 436,882 488,882 540,882 593,882 645,882 697,882 749,882 802,882 854,882 906,882 958,882 1011,883 1063,883 1115,883 1167,883 1220,884"/>
+                <TextEquiv>
+                    <Unicode>elastisches, gespanntes, in sich gleichförmiges Material, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_phy {offset:7; length:11;} concept_phy {offset:24; length:10;} concept_phy {offset:35; length:8;}">
+                <Coords points="172,947 1229,947 1230,913 173,905"/>
+                <Baseline points="179,934 231,934 283,934 335,935 387,935 440,935 492,935 544,936 596,936 648,936 701,936 753,936 805,936 857,936 909,936 962,936 1014,936 1066,937 1118,937 1170,937 1223,937"/>
+                <TextEquiv>
+                    <Unicode>dessen erzitternde oder vibrirende Bewegung. Die Theile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_phy {offset:4; length:8;}">
+                <Coords points="174,995 1229,992 1229,966 1059,955 442,980 174,956"/>
+                <Baseline points="181,987 233,987 285,988 337,988 389,989 441,989 493,989 545,989 597,990 649,990 701,990 753,990 805,990 857,990 909,990 961,989 1013,989 1065,989 1117,988 1169,988 1222,987"/>
+                <TextEquiv>
+                    <Unicode>des Bewegten sind dann abwechselnd in- und ausser¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_phy {offset:26; length:18;}">
+                <Coords points="174,1050 1227,1041 944,1004 174,1011"/>
+                <Baseline points="180,1041 232,1041 284,1042 336,1042 388,1042 440,1043 492,1043 544,1043 596,1043 648,1043 700,1043 752,1043 804,1043 856,1043 908,1043 960,1043 1012,1043 1064,1042 1116,1042 1168,1041 1220,1040"/>
+                <TextEquiv>
+                    <Unicode>halb ihres gleichmässigen Cohäsionszustandes. Der Augen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} textStyle {offset:10; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="174,1107 1224,1107 1224,1060 174,1060"/>
+                <Baseline points="181,1092 232,1094 284,1095 336,1096 388,1096 440,1097 492,1097 543,1097 595,1097 647,1097 699,1097 751,1097 803,1097 855,1096 906,1096 958,1096 1010,1095 1062,1095 1114,1095 1166,1095 1218,1095"/>
+                <TextEquiv>
+                    <Unicode>blick des Uebergehens in diesen Zustand der Gleichheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} textStyle {offset:13; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="174,1158 1224,1156 1224,1124 1182,1116 174,1123"/>
+                <Baseline points="180,1149 231,1149 283,1150 335,1150 387,1150 439,1150 491,1150 542,1150 594,1150 646,1150 698,1150 750,1150 802,1149 854,1149 905,1149 957,1149 1009,1149 1061,1149 1113,1149 1165,1149 1217,1149"/>
+                <TextEquiv>
+                    <Unicode>oder inneren Einheit, ist Das, was sich durch den Sinn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} concept_phy {offset:4; length:6;} textStyle {offset:15; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:15; length:5;} textStyle {offset:49; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="174,1211 1233,1202 1052,1163 894,1191 174,1166"/>
+                <Baseline points="181,1200 233,1201 285,1202 337,1202 390,1203 442,1203 494,1203 546,1203 599,1204 651,1204 703,1204 755,1204 808,1203 860,1203 912,1203 964,1202 1017,1202 1069,1202 1121,1201 1173,1201 1226,1200"/>
+                <TextEquiv>
+                    <Unicode>des Gehörs als Klang empfinden lässt. Es ist das Wer¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} textStyle {offset:0; length:3;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:48; length:11; continued:true;}">
+                <Coords points="169,1268 1229,1267 1229,1227 1176,1220 169,1227"/>
+                <Baseline points="175,1254 227,1254 279,1255 332,1256 384,1256 436,1257 489,1257 541,1257 593,1257 646,1257 698,1257 750,1256 803,1256 855,1256 907,1256 960,1256 1012,1256 1064,1256 1117,1256 1169,1256 1222,1256"/>
+                <TextEquiv>
+                    <Unicode>den des in der Ruhe absolut bestehenden, in der elastischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;} concept_phy {offset:0; length:8; continued:true;}">
+                <Coords points="165,1314 1222,1314 1149,1275 165,1280"/>
+                <Baseline points="171,1306 223,1307 275,1307 327,1308 379,1308 432,1309 484,1309 536,1309 588,1309 640,1309 693,1310 745,1310 797,1309 849,1309 901,1309 954,1309 1006,1309 1058,1309 1110,1309 1162,1309 1215,1309"/>
+                <TextEquiv>
+                    <Unicode>Bewegung abwechselnd aufgehobenen und sich wieder her¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;} textStyle {offset:11; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="166,1371 500,1370 500,1347 432,1332 317,1341 304,1328 256,1341 246,1331 215,1339 192,1331 166,1342"/>
+                <Baseline points="172,1361 198,1361 225,1362 252,1363 279,1363 306,1362 333,1362 359,1362 386,1362 413,1362 440,1362 467,1363 494,1363"/>
+                <TextEquiv>
+                    <Unicode>stellenden Seins.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1. Wo Klang entstehen soll, wird erfordert: ein
+elastisches, gespanntes, in sich gleichförmiges Material, und
+dessen erzitternde oder vibrirende Bewegung. Die Theile
+des Bewegten sind dann abwechselnd in- und ausser¬
+halb ihres gleichmässigen Cohäsionszustandes. Der Augen¬
+blick des Uebergehens in diesen Zustand der Gleichheit
+oder inneren Einheit, ist Das, was sich durch den Sinn
+des Gehörs als Klang empfinden lässt. Es ist das Wer¬
+den des in der Ruhe absolut bestehenden, in der elastischen
+Bewegung abwechselnd aufgehobenen und sich wieder her¬
+stellenden Seins.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612360549459_3147" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="169,1376 1226,1376 1226,1538 169,1538"/>
+            <TextLine id="r1l13" custom="readingOrder {index:0;} textStyle {offset:13; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="254,1427 1227,1427 1209,1379 254,1379"/>
+                <Baseline points="261,1414 309,1415 357,1415 405,1416 453,1416 501,1416 549,1416 597,1417 645,1417 693,1417 741,1417 789,1417 837,1417 885,1417 933,1416 981,1416 1029,1416 1077,1415 1125,1415 1173,1415 1221,1414"/>
+                <TextEquiv>
+                    <Unicode>2. Nicht das In-sich-sein oder todte Verharren in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:1;} textStyle {offset:24; length:16;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:48; length:3; continued:true;}">
+                <Coords points="165,1472 1209,1482 1184,1436 165,1448"/>
+                <Baseline points="172,1468 223,1469 275,1469 326,1469 378,1470 429,1470 481,1470 532,1470 584,1470 635,1470 687,1470 738,1470 790,1470 841,1470 893,1470 944,1469 996,1469 1047,1469 1099,1469 1150,1469 1202,1469"/>
+                <TextEquiv>
+                    <Unicode>der Ruhe, und nicht das Ausser-sich-sein in der Be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:2;} concept_phy {offset:0; length:6; continued:true;} textStyle {offset:33; length:14;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="176,1531 1188,1530 1167,1501 997,1491 176,1501"/>
+                <Baseline points="182,1518 234,1520 287,1522 339,1522 392,1523 444,1524 497,1524 550,1524 602,1524 655,1524 707,1523 760,1523 812,1523 865,1522 918,1522 970,1522 1023,1522 1075,1523 1128,1523 1181,1524"/>
+                <TextEquiv>
+                    <Unicode>wegung ist klingend, sondern das Zu-sich-kommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2. Nicht das In-sich-sein oder todte Verharren in&#13;
+der Ruhe, und nicht das Ausser-sich-sein in der Be¬&#13;
+wegung ist klingend, sondern das Zu-sich-kommen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612360545139_3143" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="169,1538 1226,1538 1226,1752 169,1752"/>
+            <TextLine id="r1l16" custom="readingOrder {index:0;} concept_mus {offset:7; length:5;}">
+                <Coords points="262,1588 1220,1587 1220,1549 1174,1541 262,1540"/>
+                <Baseline points="268,1576 315,1576 362,1576 409,1576 457,1576 504,1576 551,1576 599,1576 646,1576 693,1576 741,1576 788,1577 835,1577 882,1577 930,1577 977,1577 1024,1577 1072,1577 1119,1577 1166,1577 1214,1577"/>
+                <TextEquiv>
+                    <Unicode>3. Der Klang ist nur ein Durchgangsmoment aus dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:1;}">
+                <Coords points="168,1643 1222,1641 1206,1595 984,1620 917,1595 168,1597"/>
+                <Baseline points="175,1629 227,1629 279,1629 331,1629 383,1630 435,1630 487,1630 539,1630 591,1630 643,1630 695,1630 747,1630 799,1629 851,1629 903,1629 955,1629 1007,1629 1059,1629 1111,1629 1163,1629 1215,1630"/>
+                <TextEquiv>
+                    <Unicode>Entstehen in das Vergehen des Zustandes der Einheit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:2;}">
+                <Coords points="169,1691 1224,1691 1224,1661 1138,1649 169,1652"/>
+                <Baseline points="175,1681 227,1682 279,1682 331,1683 383,1683 435,1683 487,1683 540,1683 592,1683 644,1683 696,1683 748,1683 800,1683 852,1682 905,1682 957,1682 1009,1682 1061,1682 1113,1682 1165,1683 1218,1683"/>
+                <TextEquiv>
+                    <Unicode>Die schnell aufeinander folgenden Wiederholungen dieses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:3;} concept_mus {offset:20; length:5;}">
+                <Coords points="173,1747 1152,1746 1152,1722 1071,1700 173,1699"/>
+                <Baseline points="180,1735 228,1735 276,1735 324,1736 373,1736 421,1736 469,1736 518,1736 566,1736 614,1736 663,1736 711,1736 759,1736 807,1736 856,1736 904,1736 952,1736 1001,1736 1049,1736 1097,1736 1146,1735"/>
+                <TextEquiv>
+                    <Unicode>Momentes lassen den Klang als fortklingend erscheinen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3. Der Klang ist nur ein Durchgangsmoment aus dem
+Entstehen in das Vergehen des Zustandes der Einheit.
+Die schnell aufeinander folgenden Wiederholungen dieses
+Momentes lassen den Klang als fortklingend erscheinen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612360539455_3139" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
+            <Coords points="169,1752 1226,1752 1226,2125 169,2125"/>
+            <TextLine id="r1l20" custom="readingOrder {index:0;} concept_mus {offset:36; length:6;}">
+                <Coords points="264,1801 1230,1795 1230,1763 1156,1755 1081,1778 264,1756"/>
+                <Baseline points="271,1787 318,1788 366,1789 413,1789 461,1789 509,1790 556,1790 604,1790 651,1790 699,1789 747,1789 794,1789 842,1789 889,1789 937,1789 985,1788 1032,1788 1080,1788 1127,1789 1175,1789 1223,1789"/>
+                <TextEquiv>
+                    <Unicode>4. Wir unterscheiden hohe und tiefe Klänge, und es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:1;}">
+                <Coords points="168,1850 1233,1849 1232,1813 1134,1804 168,1814"/>
+                <Baseline points="174,1842 226,1842 279,1843 331,1843 384,1843 437,1843 489,1843 542,1843 594,1843 647,1843 700,1843 752,1842 805,1842 857,1842 910,1842 963,1842 1015,1842 1068,1841 1120,1841 1173,1841 1226,1842"/>
+                <TextEquiv>
+                    <Unicode>ist bekannt, dass der Unterschied von Höhe und Tiefe mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:2;} concept_phy {offset:4; length:13;} concept_phy {offset:22; length:11;}">
+                <Coords points="169,1908 1226,1906 1209,1860 169,1867"/>
+                <Baseline points="176,1896 228,1896 280,1896 332,1897 384,1897 436,1897 488,1897 541,1897 593,1896 645,1896 697,1896 749,1896 801,1896 853,1895 906,1895 958,1895 1010,1895 1062,1894 1114,1894 1166,1894 1219,1893"/>
+                <TextEquiv>
+                    <Unicode>der Schnelligkeit der Vibrationen in Verhältniss steht. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:3;} concept_phy {offset:9; length:13;} concept_phy {offset:53; length:6; continued:true;}">
+                <Coords points="162,1965 1206,1955 1220,1925 162,1927"/>
+                <Baseline points="169,1949 221,1949 273,1950 325,1950 378,1950 430,1950 482,1950 534,1950 587,1950 639,1950 691,1949 743,1949 796,1949 848,1949 900,1949 952,1948 1005,1948 1057,1948 1109,1947 1161,1947 1214,1947"/>
+                <TextEquiv>
+                    <Unicode>grössere Schnelligkeit, oder die grössere Anzahl der Vibra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:4;} concept_phy {offset:0; length:6; continued:true;}">
+                <Coords points="166,2008 1218,2011 1218,1972 1183,1964 845,1992 731,1964 166,1971"/>
+                <Baseline points="173,2002 224,2003 276,2003 328,2003 380,2003 432,2003 484,2003 536,2003 588,2003 640,2003 692,2003 743,2003 795,2003 847,2002 899,2002 951,2002 1003,2002 1055,2001 1107,2001 1159,2001 1211,2001"/>
+                <TextEquiv>
+                    <Unicode>tionen, welche in einer Zeit erfolgen, kann aber nicht den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:5;} concept_phy {offset:19; length:4;} concept_mus {offset:28; length:7;}">
+                <Coords points="169,2075 1127,2075 1228,2066 1228,2023 169,2032"/>
+                <Baseline points="176,2056 228,2057 280,2057 332,2057 385,2057 437,2057 489,2057 542,2057 594,2057 646,2056 699,2056 751,2056 803,2056 855,2056 908,2055 960,2055 1012,2055 1065,2054 1117,2054 1169,2054 1222,2054"/>
+                <TextEquiv>
+                    <Unicode>grösseren Grad der Höhe des Klanges bewirken, wenn, nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:6;} concept_mus {offset:16; length:5;}">
+                <Coords points="168,2124 1226,2106 1198,2075 168,2078"/>
+                <Baseline points="174,2110 226,2110 278,2110 330,2110 383,2110 435,2110 487,2110 540,2110 592,2110 644,2110 697,2110 749,2110 801,2109 853,2109 906,2108 958,2108 1010,2107 1063,2107 1115,2106 1167,2105 1220,2105"/>
+                <TextEquiv>
+                    <Unicode>dem Obigen, der Klang schon in einem Momente der einzel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4. Wir unterscheiden hohe und tiefe Klänge, und es
+ist bekannt, dass der Unterschied von Höhe und Tiefe mit
+der Schnelligkeit der Vibrationen in Verhältniss steht. Die
+grössere Schnelligkeit, oder die grössere Anzahl der Vibra¬
+tionen, welche in einer Zeit erfolgen, kann aber nicht den
+grösseren Grad der Höhe des Klanges bewirken, wenn, nach
+dem Obigen, der Klang schon in einem Momente der einzel¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:38.297+01:00</Created>
+        <LastChange>2021-09-02T17:00:04.150+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28719132" pageNr="226" tsid="64010697" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=YPKVTTNYQXDTLPIBFWNITBHS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HKINTWRJIYECKQPEZFUXFXIQ" imageId="22439637"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0235.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630597183013" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612643446577_7629"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612643446577_7628"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612643441815_7624"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612643446577_7629" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="174,201 1240,201 1240,259 174,259"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="668,235 746,234 747,196 669,195"/>
+                <Baseline points="674,227 706,227 739,228"/>
+                <TextEquiv>
+                    <Unicode>216</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>216</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612643446577_7628" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="174,259 1240,259 1240,1823 174,1823"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="168,330 1186,331 1228,293 167,298"/>
+                <Baseline points="174,324 226,323 278,323 331,323 383,322 436,322 488,322 540,322 593,321 645,321 698,321 750,321 802,321 855,321 907,321 960,321 1012,321 1064,321 1117,321 1169,320 1222,320"/>
+                <TextEquiv>
+                    <Unicode>noch fremd, wenigstens ungewöhnlich und selten vor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612643474050_7641" custom="readingOrder {index:1;} concept_mus {offset:19; length:16;}">
+                <Coords points="174,387 1172,382 1162,340 536,362 174,340"/>
+                <Baseline points="181,377 206,377 231,376 256,376 281,376 306,375 331,374 356,373 381,372 406,371 431,369 458,371 493,373 528,373 564,374 599,374 634,375 670,375 705,375 740,375 776,374 811,374 846,374 882,373 917,373 952,373 988,373 1023,373 1058,373 1094,373 1129,373 1165,374"/>
+                <TextEquiv>
+                    <Unicode>kommend; — wie die Septimenharmonie überhaupt —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;} concept_mus {offset:4; length:9;} concept_phy {offset:4; length:9;} concept_mus {offset:18; length:15;}">
+                <Coords points="178,443 1232,434 1200,389 1164,414 178,395"/>
+                <Baseline points="184,428 236,428 288,428 340,428 392,428 444,428 496,428 548,428 600,428 652,428 704,428 756,428 808,428 860,428 912,428 964,428 1016,428 1068,427 1120,427 1172,427 1225,427"/>
+                <TextEquiv>
+                    <Unicode>die Dissonanz des alten Tonsatzes ist regelmässig der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;} concept_mus {offset:0; length:7;} concept_mus {offset:22; length:6;} concept_mus {offset:33; length:20; continued:true;}">
+                <Coords points="168,483 1220,491 1200,444 168,452"/>
+                <Baseline points="175,480 226,480 278,480 330,480 382,480 434,480 486,480 538,480 590,480 642,480 694,480 745,480 797,480 849,480 901,480 953,480 1005,480 1057,480 1109,480 1161,479 1213,479"/>
+                <TextEquiv>
+                    <Unicode>Vorhalt. Wo die obere Stimme die Leittonsfortschreit¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;} concept_mus {offset:0; length:3; continued:true;} concept_mus {offset:22; length:12;} m_interval {offset:43; length:7; continued:true;}">
+                <Coords points="171,541 1223,538 1192,500 171,508"/>
+                <Baseline points="177,534 229,533 281,533 333,533 385,533 437,533 489,533 541,533 593,533 645,533 697,533 749,533 801,534 853,534 905,534 957,534 1009,533 1061,533 1113,533 1165,533 1217,532"/>
+                <TextEquiv>
+                    <Unicode>ung hat, da wird eine Mittelstimme aus der Oberdo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;} m_interval {offset:0; length:11; continued:true;} concept_mus {offset:26; length:9;} m_interval {offset:36; length:4;} concept_mus {offset:41; length:11; continued:true;}">
+                <Coords points="173,595 1211,595 1231,561 173,563"/>
+                <Baseline points="180,587 232,586 284,586 336,586 388,586 441,586 493,587 545,587 597,587 649,587 702,588 754,588 806,588 858,588 910,588 963,588 1015,587 1067,587 1119,586 1171,585 1224,584"/>
+                <TextEquiv>
+                    <Unicode>minantquint gern nach der tonischen Terz fortschrei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;} concept_mus {offset:0; length:3; continued:true;} concept_mus {offset:16; length:7;} concept_mus {offset:28; length:10;}">
+                <Coords points="182,651 1237,651 1237,612 182,613"/>
+                <Baseline points="188,640 240,639 292,639 344,639 396,639 448,639 500,639 553,639 605,639 657,639 709,639 761,640 813,640 865,640 918,640 970,640 1022,640 1074,640 1126,640 1178,640 1231,639"/>
+                <TextEquiv>
+                    <Unicode>ten. Bei dieser Melodie der Oberstimme fehlt auch im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;} concept_mus {offset:0; length:16;} m_interval {offset:21; length:4;} concept_mus {offset:42; length:5;}">
+                <Coords points="172,702 1194,700 1235,698 1235,659 172,667"/>
+                <Baseline points="179,693 231,693 284,692 336,692 389,692 441,692 494,692 546,692 599,692 651,693 704,693 756,693 809,693 861,693 914,693 966,693 1019,693 1071,692 1124,692 1176,692 1229,691"/>
+                <TextEquiv>
+                    <Unicode>alten Vocalsatze die Terz nicht, wenn der Tenor nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;} textStyle {offset:10; length:13;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:10; length:13;}">
+                <Coords points="170,755 1231,754 1231,720 1116,708 788,736 727,708 685,736 566,708 170,720"/>
+                <Baseline points="177,745 229,745 281,745 334,745 386,745 439,746 491,746 543,746 596,746 648,746 701,746 753,746 805,746 858,746 910,746 963,746 1015,746 1067,746 1120,745 1172,745 1225,745"/>
+                <TextEquiv>
+                    <Unicode>durch den Cantus firmus, den er in vielen Fällen zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;} m_note {offset:35; length:9;}">
+                <Coords points="176,811 1234,811 1234,770 176,764"/>
+                <Baseline points="183,799 235,799 287,799 339,799 391,799 444,799 496,799 548,799 600,799 652,799 705,799 757,799 809,799 861,799 913,799 966,799 1018,799 1070,799 1122,799 1174,799 1227,798"/>
+                <TextEquiv>
+                    <Unicode>führen hat, bestimmt wird, mit dem Grundtone zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;} m_tonality {offset:19; length:10;}">
+                <Coords points="175,866 1227,850 1163,820 175,825"/>
+                <Baseline points="181,851 233,851 285,851 337,851 389,851 441,851 493,852 545,852 597,852 649,852 701,852 753,852 805,852 857,852 909,852 961,852 1013,852 1065,851 1117,851 1169,850 1221,849"/>
+                <TextEquiv>
+                    <Unicode>schliessen. In der Molltonart tritt noch ein anderes Mo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;} concept_mus {offset:18; length:12;} m_interval {offset:45; length:4;}">
+                <Coords points="177,915 1230,915 1230,874 1182,868 177,874"/>
+                <Baseline points="184,904 238,904 293,904 348,905 402,905 457,905 512,905 566,905 621,905 676,905 730,905 785,905 840,905 894,905 949,905 1004,905 1058,905 1113,905 1168,904 1223,904"/>
+                <TextEquiv>
+                    <Unicode>tiv ein, auch die Mittelstimme nicht mit der Terz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;} concept_mus {offset:0; length:10;}">
+                <Coords points="174,971 1191,970 1230,932 174,934"/>
+                <Baseline points="180,958 232,958 284,958 336,958 388,958 440,958 492,958 545,959 597,959 649,959 701,959 753,959 805,959 857,959 910,959 962,958 1014,958 1066,958 1118,958 1170,957 1223,957"/>
+                <TextEquiv>
+                    <Unicode>schliessen zu lassen. Es besteht nämlich zwischen der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;} m_interval {offset:0; length:17;} concept_mus {offset:26; length:9;} m_interval {offset:36; length:8;} concept_mus {offset:49; length:5; continued:true;}">
+                <Coords points="177,1020 1225,1017 1205,980 177,980"/>
+                <Baseline points="184,1011 235,1011 287,1011 339,1011 390,1011 442,1011 494,1011 545,1011 597,1011 649,1012 701,1012 752,1012 804,1012 856,1012 907,1011 959,1011 1011,1011 1062,1011 1114,1011 1166,1010 1218,1010"/>
+                <TextEquiv>
+                    <Unicode>Oberdominantquint und der tonischen Mollterz ein Leit¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;} concept_mus {offset:0; length:15; continued:true;} m_tonality {offset:24; length:12;}">
+                <Coords points="178,1075 1241,1076 1241,1038 1143,1027 1023,1054 987,1027 953,1054 178,1035"/>
+                <Baseline points="185,1065 237,1065 289,1064 342,1064 394,1064 447,1064 499,1064 552,1065 604,1065 657,1065 709,1065 761,1065 814,1065 866,1065 919,1065 971,1065 1024,1065 1076,1064 1129,1064 1181,1063 1234,1062"/>
+                <TextEquiv>
+                    <Unicode>tonsverhältniss; in der C-Molltonart z. B. würde zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;} m_chord {offset:4; length:8;} textStyle {offset:13; length:1;italic:true; fontSize:0.0; kerning:0; bold:true;} m_chord {offset:13; length:1;} textStyle {offset:14; length:3;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:17; length:1;italic:true; fontSize:0.0; kerning:0; bold:true;} m_chord {offset:17; length:1;} concept_mus {offset:31; length:12;} concept_mus {offset:48; length:5; continued:true;}">
+                <Coords points="172,1129 1229,1116 1180,1083 172,1095"/>
+                <Baseline points="179,1117 231,1117 283,1117 335,1118 387,1118 439,1118 491,1118 544,1118 596,1118 648,1118 700,1118 752,1118 804,1118 856,1118 909,1118 961,1117 1013,1117 1065,1117 1117,1116 1169,1116 1222,1115"/>
+                <TextEquiv>
+                    <Unicode>den Accorden G...c eine solche Mittelstimme die Melo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;} concept_mus {offset:0; length:3; continued:true;} textStyle {offset:4; length:5;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:4; length:5;}">
+                <Coords points="174,1178 1237,1178 1237,1146 1162,1137 174,1141"/>
+                <Baseline points="180,1169 232,1170 285,1170 337,1170 390,1171 442,1171 495,1171 547,1171 600,1171 652,1171 705,1171 757,1171 810,1171 862,1171 915,1171 967,1170 1020,1170 1072,1170 1125,1170 1177,1170 1230,1169"/>
+                <TextEquiv>
+                    <Unicode>die D..es erhalten, die, an sich genommen, nicht einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;} concept_mus {offset:0; length:7;} m_tonality {offset:15; length:12;} m_tonality {offset:44; length:10; continued:true;}">
+                <Coords points="181,1235 1224,1233 1207,1196 1109,1187 726,1214 181,1187"/>
+                <Baseline points="187,1223 238,1223 290,1223 341,1223 393,1223 444,1223 496,1223 547,1224 599,1224 650,1224 702,1224 753,1224 805,1224 856,1224 908,1224 959,1223 1011,1223 1062,1223 1114,1222 1165,1222 1217,1221"/>
+                <TextEquiv>
+                    <Unicode>Schluss in der C-Molltonart, sondern in die Es-Durton¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;} m_tonality {offset:0; length:3; continued:true;} m_tonality {offset:12; length:6;} m_interval {offset:23; length:4;}">
+                <Coords points="178,1291 1236,1284 1236,1253 1092,1243 178,1252"/>
+                <Baseline points="185,1276 237,1276 289,1276 341,1276 393,1277 446,1277 498,1277 550,1277 602,1277 654,1277 707,1277 759,1277 811,1277 863,1276 915,1276 968,1276 1020,1276 1072,1276 1124,1276 1176,1276 1229,1276"/>
+                <TextEquiv>
+                    <Unicode>art, in die Tonart der Terz, ausdrückt. Um diesen zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;} concept_mus {offset:20; length:12;}">
+                <Coords points="175,1339 1234,1338 1234,1306 175,1307"/>
+                <Baseline points="181,1326 233,1327 285,1328 337,1328 390,1328 442,1329 494,1329 547,1329 599,1329 651,1329 704,1330 756,1330 808,1330 860,1330 913,1330 965,1330 1017,1330 1070,1330 1122,1330 1174,1330 1227,1330"/>
+                <TextEquiv>
+                    <Unicode>vermeiden, wird die Mittelstimme auch hier lieber in den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;} m_note {offset:0; length:8;} m_interval {offset:47; length:8;}">
+                <Coords points="181,1395 1243,1389 1243,1358 1166,1348 361,1372 181,1348"/>
+                <Baseline points="187,1382 239,1382 291,1381 344,1381 396,1381 449,1381 501,1381 554,1382 606,1382 659,1382 711,1382 763,1382 816,1383 868,1383 921,1383 973,1383 1026,1383 1078,1382 1131,1382 1183,1382 1236,1381"/>
+                <TextEquiv>
+                    <Unicode>Grundton treten; oder sie ergreift anstatt der Mollterz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612643488512_7668" custom="readingOrder {index:21;} concept_mus {offset:4; length:8;} m_interval {offset:13; length:7;} textStyle {offset:13; length:3;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:41; length:7;}">
+                <Coords points="176,1442 1231,1443 1231,1408 176,1411"/>
+                <Baseline points="182,1436 207,1435 232,1435 257,1435 282,1435 307,1435 332,1435 357,1435 382,1435 407,1435 433,1435 458,1435 483,1435 508,1435 533,1435 558,1434 583,1434 608,1433 633,1432 659,1431 669,1435 696,1435 724,1435 752,1436 780,1436 808,1436 835,1436 863,1436 891,1436 919,1436 947,1436 974,1436 1002,1436 1030,1435 1058,1435 1086,1435 1113,1435 1141,1435 1169,1435 1197,1436 1225,1436"/>
+                <TextEquiv>
+                    <Unicode>die tonische Durterz. — So sehen wir den Schluss in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:22;} concept_mus {offset:4; length:10;} concept_mus {offset:15; length:11;} textStyle {offset:42; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:47; length:4;}">
+                <Coords points="177,1499 1240,1497 1240,1465 1062,1452 709,1479 657,1452 177,1458"/>
+                <Baseline points="183,1488 235,1488 288,1488 340,1488 393,1488 445,1488 498,1488 550,1489 603,1489 655,1489 708,1489 760,1489 813,1490 865,1490 918,1490 970,1490 1023,1490 1075,1490 1128,1489 1180,1489 1233,1489"/>
+                <TextEquiv>
+                    <Unicode>den Mollsätzen alter Musik, wenn er nicht ohne Terz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:23;} m_chord {offset:25; length:13;}">
+                <Coords points="172,1561 1231,1555 1239,1515 172,1519"/>
+                <Baseline points="179,1541 231,1541 284,1541 337,1541 389,1541 442,1541 495,1541 547,1542 600,1542 653,1542 706,1542 758,1542 811,1542 864,1543 916,1543 969,1543 1022,1543 1074,1542 1127,1542 1180,1542 1233,1542"/>
+                <TextEquiv>
+                    <Unicode>geschieht, immer mit dem Durdreiklange geschehen. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:24;} m_chord {offset:47; length:5; continued:true;}">
+                <Coords points="183,1603 1225,1610 1214,1563 183,1563"/>
+                <Baseline points="189,1595 240,1595 291,1595 343,1594 394,1594 446,1595 497,1595 549,1595 600,1595 652,1595 703,1595 754,1595 806,1596 857,1596 909,1596 960,1596 1012,1596 1063,1595 1115,1595 1166,1595 1218,1594"/>
+                <TextEquiv>
+                    <Unicode>Grund ist aber nicht darin zu suchen, dass der Moll¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:25;} m_chord {offset:0; length:9; continued:true;} concept_mus {offset:19; length:9;} concept_phy {offset:19; length:9;} m_chord {offset:39; length:13;}">
+                <Coords points="183,1659 1220,1658 1220,1627 1159,1612 183,1611"/>
+                <Baseline points="190,1647 241,1647 292,1647 343,1647 394,1647 445,1648 496,1648 548,1648 599,1648 650,1648 701,1648 752,1648 803,1648 854,1648 906,1648 957,1649 1008,1649 1059,1649 1110,1649 1161,1649 1213,1649"/>
+                <TextEquiv>
+                    <Unicode>dreiklang zu wenig consonant für einen Schlussaccord ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:26;}">
+                <Coords points="178,1716 306,1693 1158,1723 1234,1715 1235,1675 178,1668"/>
+                <Baseline points="184,1699 236,1699 288,1699 340,1700 392,1700 445,1700 497,1700 549,1700 601,1701 653,1701 706,1701 758,1701 810,1701 862,1701 914,1701 967,1701 1019,1701 1071,1701 1123,1701 1175,1701 1228,1701"/>
+                <TextEquiv>
+                    <Unicode>halten worden sei; er wollte sich nur eben, wenn die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:27;} concept_mus {offset:0; length:26;} concept_mus {offset:31; length:6;}">
+                <Coords points="173,1763 1228,1770 1228,1724 173,1730"/>
+                <Baseline points="180,1753 232,1753 284,1754 336,1754 388,1754 440,1754 492,1754 544,1754 596,1754 648,1754 701,1754 753,1754 805,1754 857,1754 909,1754 961,1755 1013,1755 1065,1755 1117,1755 1169,1755 1222,1756"/>
+                <TextEquiv>
+                    <Unicode>melodische Selbständigkeit der Stimme gewahrt sein soll,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:28;}">
+                <Coords points="178,1819 839,1819 818,1780 755,1772 178,1780"/>
+                <Baseline points="185,1807 217,1807 249,1807 282,1807 314,1807 346,1807 379,1807 411,1807 443,1807 476,1807 508,1807 540,1807 573,1807 605,1807 637,1807 670,1807 702,1807 734,1807 767,1808 799,1808 832,1808"/>
+                <TextEquiv>
+                    <Unicode>auf natürliche Weise nicht einführen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>noch fremd, wenigstens ungewöhnlich und selten vor¬&#13;
+kommend; — wie die Septimenharmonie überhaupt —&#13;
+die Dissonanz des alten Tonsatzes ist regelmässig der&#13;
+Vorhalt. Wo die obere Stimme die Leittonsfortschreit¬&#13;
+ung hat, da wird eine Mittelstimme aus der Oberdo¬&#13;
+minantquint gern nach der tonischen Terz fortschrei¬&#13;
+ten. Bei dieser Melodie der Oberstimme fehlt auch im&#13;
+alten Vocalsatze die Terz nicht, wenn der Tenor nicht&#13;
+durch den Cantus firmus, den er in vielen Fällen zu&#13;
+führen hat, bestimmt wird, mit dem Grundtone zu&#13;
+schliessen. In der Molltonart tritt noch ein anderes Mo¬&#13;
+tiv ein, auch die Mittelstimme nicht mit der Terz&#13;
+schliessen zu lassen. Es besteht nämlich zwischen der&#13;
+Oberdominantquint und der tonischen Mollterz ein Leit¬&#13;
+tonsverhältniss; in der C-Molltonart z. B. würde zu&#13;
+den Accorden G...c eine solche Mittelstimme die Melo¬&#13;
+die D..es erhalten, die, an sich genommen, nicht einen&#13;
+Schluss in der C-Molltonart, sondern in die Es-Durton¬&#13;
+art, in die Tonart der Terz, ausdrückt. Um diesen zu&#13;
+vermeiden, wird die Mittelstimme auch hier lieber in den&#13;
+Grundton treten; oder sie ergreift anstatt der Mollterz&#13;
+die tonische Durterz. — So sehen wir den Schluss in&#13;
+den Mollsätzen alter Musik, wenn er nicht ohne Terz&#13;
+geschieht, immer mit dem Durdreiklange geschehen. Der&#13;
+Grund ist aber nicht darin zu suchen, dass der Moll¬&#13;
+dreiklang zu wenig consonant für einen Schlussaccord ge¬&#13;
+halten worden sei; er wollte sich nur eben, wenn die&#13;
+melodische Selbständigkeit der Stimme gewahrt sein soll,&#13;
+auf natürliche Weise nicht einführen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612643441815_7624" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
+            <Coords points="174,1823 1240,1823 1240,2109 174,2109"/>
+            <TextLine id="r1l33" custom="readingOrder {index:0;} concept_mus {offset:13; length:8;} m_interval {offset:26; length:17;}">
+                <Coords points="263,1868 1235,1871 1235,1836 1160,1828 263,1827"/>
+                <Baseline points="270,1859 317,1859 365,1859 413,1859 461,1859 509,1859 557,1859 605,1860 653,1860 701,1860 749,1861 796,1861 844,1861 892,1861 940,1862 988,1862 1036,1862 1084,1862 1132,1861 1180,1861 1228,1861"/>
+                <TextEquiv>
+                    <Unicode>318. Wenn im Dursatze die Oberdominantquint zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:1;} concept_mus {offset:0; length:11;} concept_mus {offset:12; length:17;} concept_mus {offset:39; length:9;} m_note {offset:49; length:6; continued:true;}">
+                <Coords points="179,1923 1215,1924 1231,1884 179,1891"/>
+                <Baseline points="186,1914 237,1914 289,1913 341,1913 393,1913 445,1913 497,1913 549,1913 601,1914 653,1914 705,1914 756,1914 808,1915 860,1915 912,1915 964,1915 1016,1915 1068,1915 1120,1914 1172,1914 1224,1913"/>
+                <TextEquiv>
+                    <Unicode>melodischer Schlussbestimmung nach dem tonischen Grund¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:2;} m_note {offset:0; length:4; continued:true;} concept_mus {offset:28; length:16;}">
+                <Coords points="174,1976 1240,1977 1240,1940 1192,1932 174,1941"/>
+                <Baseline points="180,1966 232,1966 285,1966 337,1966 390,1966 443,1966 495,1966 548,1966 601,1967 653,1967 706,1967 759,1967 811,1968 864,1968 917,1968 969,1968 1022,1968 1075,1968 1127,1968 1180,1967 1233,1967"/>
+                <TextEquiv>
+                    <Unicode>tone übergehen soll, in der Accordverbindung aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:3;} concept_mus {offset:9; length:9;} m_interval {offset:19; length:4;} concept_mus {offset:24; length:13;}">
+                <Coords points="168,2028 1023,2043 1238,2026 1238,1985 168,1995"/>
+                <Baseline points="175,2020 227,2019 280,2019 333,2018 386,2018 439,2018 492,2018 544,2018 597,2019 650,2019 703,2019 756,2020 809,2020 862,2020 914,2021 967,2021 1020,2021 1073,2021 1126,2020 1179,2020 1232,2019"/>
+                <TextEquiv>
+                    <Unicode>nach der tonischen Terz fortschreiten möchte, so kommt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:4;}">
+                <Coords points="177,2083 1247,2080 1213,2035 177,2045"/>
+                <Baseline points="183,2072 235,2072 288,2072 341,2072 394,2073 447,2073 500,2073 552,2073 605,2074 658,2074 711,2074 764,2074 817,2074 870,2074 922,2074 975,2074 1028,2074 1081,2074 1134,2074 1187,2074 1240,2073"/>
+                <TextEquiv>
+                    <Unicode>sie mit diesen beiden Forderungen in Zwiespalt. Sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>318. Wenn im Dursatze die Oberdominantquint zu&#13;
+melodischer Schlussbestimmung nach dem tonischen Grund¬&#13;
+tone übergehen soll, in der Accordverbindung aber&#13;
+nach der tonischen Terz fortschreiten möchte, so kommt&#13;
+sie mit diesen beiden Forderungen in Zwiespalt. Sie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

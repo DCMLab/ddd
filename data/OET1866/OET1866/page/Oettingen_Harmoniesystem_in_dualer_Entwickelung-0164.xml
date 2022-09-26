@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-18T14:22:12.872+01:00</Created>
+        <LastChange>2021-09-09T13:58:47.513+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121752" pageNr="155" tsid="64466034" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=UQOPUCKVHCOZICSWBJYOSTZE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UBAUQRFRERAPPUKJLWFQTTQO" imageId="21905122"/>
+    </Metadata>
+    <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0164.jpg" imageWidth="1502" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1631311003671" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1621253306794_1603"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1621253298665_1598"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1621253288849_1590"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1621253306794_1603" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="53,132 1306,132 1306,260 53,260"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="518,161 576,163 600,152 623,172 658,173 715,162 818,162 817,125 715,134 700,123 586,123 575,134 518,135"/>
+                <Baseline points="526,154 551,158 577,160 603,162 629,162 655,161 680,159 706,158 732,156 758,154 784,153 810,153"/>
+                <TextEquiv>
+                    <Unicode>147</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>147</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1621253370965_1619" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="53,260 1306,260 1306,725 53,725"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1621253298665_1598" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
+            <Coords points="53,725 1306,725 1306,912 53,912"/>
+            <TextLine id="r2l24" custom="readingOrder {index:0;} m_note {offset:8; length:3;} textStyle {offset:12; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:12; length:1;} concept_mus {offset:25; length:7;} concept_mus {offset:39; length:9;}">
+                <Coords points="144,787 1282,785 1270,738 144,741"/>
+                <Baseline points="152,775 208,775 264,775 320,775 376,775 432,775 488,775 544,775 600,775 656,775 713,775 769,775 825,775 881,775 937,775 993,775 1049,775 1105,775 1161,775 1217,775 1274,776"/>
+                <TextEquiv>
+                    <Unicode>Für den Ton c allein als Centrum eines tonischen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:1;} concept_mus {offset:6; length:10;} concept_mus {offset:17; length:8;}">
+                <Coords points="55,844 1285,835 1254,796 55,803"/>
+                <Baseline points="63,836 123,836 184,836 245,835 306,835 366,835 427,835 488,835 549,835 609,835 670,835 731,835 792,835 852,835 913,835 974,835 1035,835 1095,835 1156,836 1217,836 1278,836"/>
+                <TextEquiv>
+                    <Unicode>eines phonischen Systemes erhalten wir also erstens folgende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:2;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:13; length:10;}">
+                <Coords points="50,903 366,899 488,916 630,903 629,867 528,859 50,867"/>
+                <Baseline points="57,895 85,896 113,896 141,896 170,896 198,896 226,896 254,896 283,896 311,896 339,895 367,895 396,895 424,895 452,895 480,895 509,895 537,895 565,895 593,894 622,894"/>
+                <TextEquiv>
+                    <Unicode>unmittelbare Uebergänge:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Für den Ton c allein als Centrum eines tonischen und
+eines phonischen Systemes erhalten wir also erstens folgende
+unmittelbare Uebergänge:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1621253379468_1626" custom="readingOrder {index:3;} structure {type:floating;}">
+            <Coords points="53,912 1306,912 1306,1301 53,1301"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621253288849_1590" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="53,1301 1306,1301 1306,1557 53,1557"/>
+            <TextLine id="r2l53" custom="readingOrder {index:0;} m_tonality {offset:13; length:8;} textStyle {offset:47; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:47; length:1;}">
+                <Coords points="51,1361 752,1338 1151,1372 1277,1359 1277,1312 51,1317"/>
+                <Baseline points="59,1349 119,1349 180,1350 240,1350 301,1350 361,1350 422,1350 482,1350 543,1350 603,1350 664,1349 724,1349 785,1349 845,1349 906,1349 966,1349 1027,1349 1087,1349 1148,1349 1208,1350 1269,1350"/>
+                <TextEquiv>
+                    <Unicode>so dass acht Tonarten entweder unmittelbar von c, oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l54" custom="readingOrder {index:1;} concept_mus {offset:16; length:12;} concept_mus {offset:35; length:9;} concept_mus {offset:45; length:8;}">
+                <Coords points="53,1419 1267,1412 1267,1381 1161,1371 53,1371"/>
+                <Baseline points="61,1408 120,1408 180,1409 240,1409 300,1409 360,1409 420,1409 480,1409 540,1409 600,1409 660,1409 719,1409 779,1409 839,1409 899,1409 959,1409 1019,1409 1079,1409 1139,1409 1199,1408 1259,1408"/>
+                <TextEquiv>
+                    <Unicode>höchstens durch Vermittelung eines antinomen Wechsels er¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l55" custom="readingOrder {index:2;} concept_mus {offset:46; length:12;}">
+                <Coords points="45,1474 1276,1474 1221,1427 45,1436"/>
+                <Baseline points="53,1469 113,1468 174,1468 235,1468 296,1469 357,1469 417,1469 478,1469 539,1469 600,1469 661,1469 721,1470 782,1470 843,1470 904,1470 965,1470 1025,1470 1086,1470 1147,1469 1208,1469 1269,1469"/>
+                <TextEquiv>
+                    <Unicode>reicht werden können. Die durch den letzteren vermittelten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l56" custom="readingOrder {index:3;} concept_mus {offset:0; length:11;}">
+                <Coords points="51,1540 232,1547 290,1529 383,1540 395,1528 548,1540 549,1499 118,1500 51,1483"/>
+                <Baseline points="58,1526 83,1527 108,1528 134,1529 159,1529 185,1530 210,1530 235,1530 261,1530 286,1529 312,1529 337,1529 363,1529 388,1528 413,1528 439,1528 464,1528 490,1529 515,1529 541,1529"/>
+                <TextEquiv>
+                    <Unicode>Klangfolgen aber wären:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>so dass acht Tonarten entweder unmittelbar von c, oder
+höchstens durch Vermittelung eines antinomen Wechsels er¬
+reicht werden können. Die durch den letzteren vermittelten
+Klangfolgen aber wären:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1621253395005_1635" custom="readingOrder {index:5;} structure {type:floating;}">
+            <Coords points="53,1557 1306,1557 1306,2241 53,2241"/>
+        </MusicRegion>
+    </Page>
+</PcGts>

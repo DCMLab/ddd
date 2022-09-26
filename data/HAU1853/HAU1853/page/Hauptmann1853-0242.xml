@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:38.455+01:00</Created>
+        <LastChange>2021-03-18T16:38:43.470+01:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28719146" pageNr="233" tsid="63341800" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=UVTHUGMKQQRKWCCBUTLHZURA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DQCXSXWVTUQBCEXFJADSHUOY" imageId="22439651"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0242.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630597183564" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612644038631_8047"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612644038631_8046"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612644034849_8042"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1612644030154_8038"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1612644025644_8034"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1612644022881_8030"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1612644020525_8026"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1612644038631_8047" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="165,687 1223,687 1223,761 165,761"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="463,724 722,723 776,739 938,727 938,701 842,694 824,675 791,691 690,675 626,696 463,675"/>
+                <Baseline points="470,715 495,715 521,716 546,716 572,716 598,716 623,717 649,717 674,717 700,717 726,718 751,718 777,718 802,718 828,718 854,718 879,718 905,718 931,718"/>
+                <TextEquiv>
+                    <Unicode>Metrum und Rhythmus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Metrum und Rhythmus.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612644038631_8046" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="165,761 1223,761 1223,972 165,972"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:3; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="252,854 1214,867 1215,803 937,827 252,811"/>
+                <Baseline points="259,845 306,845 353,845 401,846 448,846 496,846 543,847 591,847 638,847 686,847 733,847 780,847 828,847 875,848 923,848 970,848 1018,848 1065,848 1113,848 1160,849 1208,849"/>
+                <TextEquiv>
+                    <Unicode>1. Metrum wollen wir das stetige Maass nennen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:34; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="168,908 1229,906 1212,868 168,876"/>
+                <Baseline points="175,898 227,898 279,898 332,899 384,899 437,899 489,900 541,900 594,900 646,900 699,901 751,901 803,901 856,901 908,901 961,901 1013,901 1065,901 1118,901 1170,901 1223,901"/>
+                <TextEquiv>
+                    <Unicode>wonach die Zeitmessung geschieht. Rhythmus, die Art</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="169,963 752,963 753,939 495,916 473,932 446,916 416,932 169,924"/>
+                <Baseline points="175,953 203,952 232,952 260,952 289,951 317,951 346,951 374,952 403,952 431,952 460,952 489,952 517,953 546,953 574,953 603,954 631,954 660,954 688,954 717,954 746,954"/>
+                <TextEquiv>
+                    <Unicode>der Bewegung in diesem Maasse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1. Metrum wollen wir das stetige Maass nennen,&#13;
+wonach die Zeitmessung geschieht. Rhythmus, die Art&#13;
+der Bewegung in diesem Maasse.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612644034849_8042" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="165,972 1223,972 1223,1344 165,1344"/>
+            <TextLine id="r1l5" custom="readingOrder {index:0;}">
+                <Coords points="245,1017 1222,1019 1207,972 245,973"/>
+                <Baseline points="251,1005 299,1006 347,1006 395,1006 443,1007 492,1007 540,1007 588,1007 636,1007 684,1007 733,1007 781,1007 829,1007 877,1007 925,1007 974,1007 1022,1007 1070,1007 1118,1007 1166,1007 1215,1007"/>
+                <TextEquiv>
+                    <Unicode>2. Das Maass wird sich seiner äusseren Beschaffenheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:1;} textStyle {offset:22; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:29; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:40; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="169,1066 687,1082 910,1056 1101,1082 1222,1058 1176,1028 169,1036"/>
+                <Baseline points="175,1059 227,1059 279,1059 331,1059 383,1059 435,1059 487,1059 539,1059 591,1059 643,1059 695,1060 747,1060 799,1060 851,1060 903,1059 955,1059 1007,1059 1059,1059 1111,1059 1163,1058 1215,1058"/>
+                <TextEquiv>
+                    <Unicode>nach ergeben als eine zwei-, drei- oder viertheilige Ein¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:2;}">
+                <Coords points="169,1123 1214,1123 1214,1084 1172,1075 858,1099 287,1076 264,1100 169,1076"/>
+                <Baseline points="175,1110 226,1111 278,1112 329,1112 381,1112 433,1113 484,1113 536,1113 588,1113 639,1113 691,1113 743,1113 794,1113 846,1113 898,1113 949,1113 1001,1113 1053,1112 1104,1112 1156,1112 1208,1112"/>
+                <TextEquiv>
+                    <Unicode>heit; die Bewegung in diesem Maasse, die von unendlicher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="164,1178 1220,1179 1220,1131 1121,1155 164,1132"/>
+                <Baseline points="170,1165 222,1166 274,1166 326,1166 378,1166 431,1167 483,1167 535,1167 587,1167 639,1167 692,1167 744,1167 796,1167 848,1166 900,1166 953,1166 1005,1166 1057,1166 1109,1165 1161,1165 1214,1165"/>
+                <TextEquiv>
+                    <Unicode>Mannigfaltigkeit der Gestaltung an sich sein kann, wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="162,1227 1223,1227 1223,1196 1176,1187 162,1195"/>
+                <Baseline points="168,1217 220,1218 272,1218 325,1219 377,1219 430,1219 482,1220 535,1220 587,1220 640,1220 692,1220 744,1220 797,1219 849,1219 902,1219 954,1219 1007,1219 1059,1219 1112,1218 1164,1218 1217,1218"/>
+                <TextEquiv>
+                    <Unicode>als gemessene doch auch nur in den Bestimmungen ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="171,1284 1222,1275 1158,1235 615,1261 171,1236"/>
+                <Baseline points="178,1269 229,1270 281,1271 333,1271 385,1272 437,1272 489,1273 541,1273 593,1273 645,1274 697,1274 748,1274 800,1274 852,1274 904,1274 956,1273 1008,1273 1060,1273 1112,1272 1164,1271 1216,1271"/>
+                <TextEquiv>
+                    <Unicode>Verständlichkeit finden, welche aus dem metrischen Be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="161,1346 262,1331 390,1347 495,1338 495,1310 423,1291 408,1299 281,1293 257,1302 247,1292 209,1291 161,1300"/>
+                <Baseline points="167,1322 193,1324 220,1325 247,1326 274,1326 301,1326 328,1326 354,1325 381,1325 408,1325 435,1326 462,1326 489,1328"/>
+                <TextEquiv>
+                    <Unicode>griffe hervorgehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2. Das Maass wird sich seiner äusseren Beschaffenheit&#13;
+nach ergeben als eine zwei-, drei- oder viertheilige Ein¬&#13;
+heit; die Bewegung in diesem Maasse, die von unendlicher&#13;
+Mannigfaltigkeit der Gestaltung an sich sein kann, wird&#13;
+als gemessene doch auch nur in den Bestimmungen ihre&#13;
+Verständlichkeit finden, welche aus dem metrischen Be¬&#13;
+griffe hervorgehen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612644030154_8038" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="165,1344 1223,1344 1223,1710 165,1710"/>
+            <TextLine id="r1l12" custom="readingOrder {index:0;}">
+                <Coords points="249,1388 1221,1386 1221,1355 1174,1348 249,1347"/>
+                <Baseline points="256,1375 303,1376 351,1377 399,1378 447,1378 495,1379 543,1379 591,1379 639,1379 687,1379 735,1379 782,1379 830,1379 878,1379 926,1379 974,1379 1022,1379 1070,1379 1118,1379 1166,1379 1214,1379"/>
+                <TextEquiv>
+                    <Unicode>3. Wir werden aber hier denselben Begriffsmomenten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:1;}">
+                <Coords points="164,1439 1217,1430 1047,1396 164,1405"/>
+                <Baseline points="170,1428 222,1429 274,1430 326,1431 378,1432 430,1433 482,1433 534,1433 586,1434 638,1434 690,1434 742,1434 794,1433 846,1433 898,1433 950,1432 1002,1432 1054,1431 1106,1431 1158,1430 1210,1430"/>
+                <TextEquiv>
+                    <Unicode>wieder begegnen, die uns das Wesen des Dreiklanges er¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:2;} textStyle {offset:29; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:40; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="158,1497 1220,1492 1220,1452 407,1476 159,1452"/>
+                <Baseline points="165,1484 217,1485 269,1485 322,1486 374,1486 427,1487 479,1487 531,1487 584,1487 636,1487 689,1487 741,1487 793,1487 846,1486 898,1486 951,1486 1003,1486 1055,1486 1108,1486 1160,1486 1213,1486"/>
+                <TextEquiv>
+                    <Unicode>klärt haben, nämlich dem der Octav, der Quint und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:3;} textStyle {offset:4; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="164,1546 1221,1555 1221,1517 1090,1500 164,1508"/>
+                <Baseline points="171,1537 223,1538 275,1538 327,1539 379,1539 432,1539 484,1539 536,1539 588,1539 640,1539 693,1539 745,1539 797,1538 849,1538 901,1538 954,1538 1006,1538 1058,1538 1110,1538 1162,1538 1215,1539"/>
+                <TextEquiv>
+                    <Unicode>der Terz, diese Intervalle in ihrer abstracten Bedeutung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:4;}">
+                <Coords points="165,1611 1221,1603 1221,1556 165,1566"/>
+                <Baseline points="172,1590 224,1591 276,1592 328,1592 380,1592 432,1593 484,1593 537,1593 589,1593 641,1593 693,1593 745,1593 797,1592 849,1592 902,1592 954,1592 1006,1592 1058,1592 1110,1592 1162,1592 1215,1592"/>
+                <TextEquiv>
+                    <Unicode>genommen, d. i. dem der Einheit, des Gegensatzes und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:5;}">
+                <Coords points="169,1651 227,1654 240,1667 278,1652 392,1649 442,1668 620,1659 620,1626 552,1612 235,1624 169,1611"/>
+                <Baseline points="175,1644 200,1644 226,1644 252,1644 278,1644 304,1644 329,1645 355,1645 381,1645 407,1646 433,1646 459,1647 484,1647 510,1647 536,1647 562,1647 588,1647 614,1646"/>
+                <TextEquiv>
+                    <Unicode>des geeinten Gegensatzes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3. Wir werden aber hier denselben Begriffsmomenten&#13;
+wieder begegnen, die uns das Wesen des Dreiklanges er¬&#13;
+klärt haben, nämlich dem der Octav, der Quint und&#13;
+der Terz, diese Intervalle in ihrer abstracten Bedeutung&#13;
+genommen, d. i. dem der Einheit, des Gegensatzes und&#13;
+des geeinten Gegensatzes.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1612644025644_8034" custom="readingOrder {index:4;} structure {type:heading;}">
+            <Coords points="165,1710 1223,1710 1223,1796 165,1796"/>
+            <TextLine id="r1l18" custom="readingOrder {index:0;}">
+                <Coords points="603,1780 699,1776 777,1780 777,1746 760,1739 688,1740 680,1732 665,1736 602,1732"/>
+                <Baseline points="609,1769 636,1770 663,1770 690,1769 717,1769 744,1769 771,1769"/>
+                <TextEquiv>
+                    <Unicode>Metrum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Metrum.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1612644022881_8030" custom="readingOrder {index:5;} structure {type:heading;}">
+            <Coords points="165,1796 1223,1796 1223,1881 165,1881"/>
+            <TextLine id="r1l19" custom="readingOrder {index:0;} textStyle {offset:0; length:25;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="480,1858 905,1865 905,1811 878,1821 768,1812 750,1830 701,1827 686,1812 535,1812 519,1828 480,1812"/>
+                <Baseline points="486,1849 511,1849 537,1849 563,1849 589,1849 614,1849 640,1849 666,1849 692,1849 717,1849 743,1849 769,1849 795,1849 820,1849 846,1849 872,1849 898,1849"/>
+                <TextEquiv>
+                    <Unicode>I. Zweizeitiges. (Octav.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>I. Zweizeitiges. (Octav.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612644020525_8026" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="165,1881 1223,1881 1223,2160 165,2160"/>
+            <TextLine id="r1l20" custom="readingOrder {index:0;}">
+                <Coords points="246,1937 1228,1939 1228,1906 1193,1899 246,1903"/>
+                <Baseline points="252,1931 300,1931 349,1932 397,1932 446,1933 494,1933 543,1933 591,1933 640,1933 688,1933 737,1933 785,1933 834,1933 882,1933 931,1932 979,1932 1028,1932 1076,1932 1125,1931 1173,1931 1222,1931"/>
+                <TextEquiv>
+                    <Unicode>4. Als Anfang der metrischen Bestimmung ist ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:1;}">
+                <Coords points="164,1995 1227,1995 1227,1948 164,1963"/>
+                <Baseline points="170,1985 222,1985 275,1985 327,1985 380,1985 432,1985 485,1985 537,1985 590,1985 642,1986 695,1986 748,1986 800,1986 853,1986 905,1986 958,1985 1010,1985 1063,1985 1115,1984 1168,1983 1221,1982"/>
+                <TextEquiv>
+                    <Unicode>zuvörderst noch ungetheiltes Zeitintervall zu setzen. Zwei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:2;}">
+                <Coords points="167,2050 1194,2051 1210,2005 167,2012"/>
+                <Baseline points="174,2036 225,2037 276,2037 328,2037 379,2038 431,2038 482,2038 534,2039 585,2039 637,2039 688,2039 739,2039 791,2039 842,2039 894,2039 945,2038 997,2038 1048,2038 1100,2037 1151,2036 1203,2036"/>
+                <TextEquiv>
+                    <Unicode>aufeinanderfolgende hörbare Schläge, die wir eine Zeit¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:3;}">
+                <Coords points="165,2099 1225,2099 1197,2052 1155,2081 165,2067"/>
+                <Baseline points="171,2090 223,2090 275,2091 328,2091 380,2092 432,2092 485,2092 537,2093 589,2093 642,2093 694,2093 746,2094 799,2094 851,2093 903,2093 956,2093 1008,2092 1060,2092 1113,2091 1165,2090 1218,2089"/>
+                <TextEquiv>
+                    <Unicode>secunde auseinander annehmen wollen, mögen uns ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:4;}">
+                <Coords points="162,2156 790,2148 710,2107 642,2123 614,2108 592,2123 512,2108 472,2123 383,2108 162,2118"/>
+                <Baseline points="169,2144 199,2144 230,2145 261,2145 292,2145 322,2145 353,2145 384,2145 415,2145 445,2145 476,2145 507,2145 538,2145 568,2145 599,2145 630,2145 661,2145 691,2146 722,2146 753,2147 784,2148"/>
+                <TextEquiv>
+                    <Unicode>solches Zeitintervall versinnlichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4. Als Anfang der metrischen Bestimmung ist ein&#13;
+zuvörderst noch ungetheiltes Zeitintervall zu setzen. Zwei&#13;
+aufeinanderfolgende hörbare Schläge, die wir eine Zeit¬&#13;
+secunde auseinander annehmen wollen, mögen uns ein&#13;
+solches Zeitintervall versinnlichen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

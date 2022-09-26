@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-03T13:14:50.221+01:00</Created>
+        <LastChange>2021-04-16T16:25:48.969+02:00</LastChange>
+        <TranskribusMetadata docId="747636" pageId="28294256" pageNr="89" tsid="62470295" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=QONDIVBPVDBPAQGLAMWYIRCA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QLZLUJGUPCZDDERSMLZZNQKM" imageId="22039185"/>
+    </Metadata>
+    <Page imageFilename="Capellen-89.jpg" imageWidth="721" imageHeight="1298" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630498508803" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614971330871_3370"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614971330871_3370" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="18,96 640,97 640,136 18,136"/>
+            <TextLine id="line_1614971330897_3373" custom="readingOrder {index:0;}">
+                <Coords points="312,97 346,101 346,136 312,136"/>
+                <Baseline points="312,127 346,131"/>
+                <TextEquiv>
+                    <Unicode>85</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>85</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614971351875_3382" custom="readingOrder {index:1;} structure {type:floating-continued;}">
+            <Coords points="18,136 640,136 640,1144 18,1143"/>
+        </MusicRegion>
+    </Page>
+</PcGts>

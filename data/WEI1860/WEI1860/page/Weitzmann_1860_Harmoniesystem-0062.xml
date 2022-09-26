@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-19T15:11:50.896+01:00</Created>
+        <LastChange>2021-08-17T12:01:18.617+02:00</LastChange>
+        <TranskribusMetadata docId="738834" pageId="28121572" pageNr="62" tsid="62685760" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=TIYCHQABCKXPKYFUJINBNNHU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IQNQQQJZNSZMCIMMEYNXYTIV" imageId="21904942"/>
+    </Metadata>
+    <Page imageFilename="Weitzmann_1860_Harmoniesystem-0062.jpg" imageWidth="1357" imageHeight="2169" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630573946897" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1617042074186_644"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1617042074186_643"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1614167165428_1613"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1614167157433_1605"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1614167154934_1601"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1617042074186_644" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="170,199 1169,199 1169,260 170,260"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="642,234 687,234 687,196 642,196"/>
+                <Baseline points="648,225 680,225"/>
+                <TextEquiv>
+                    <Unicode>47</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>47</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1617042074186_643" custom="readingOrder {index:1;} structure {type:missing;}">
+            <Coords points="170,260 1169,260 1169,585 170,585"/>
+            <TextEquiv>
+                <Unicode>47</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614167165428_1613" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="170,585 1169,585 1169,997 170,997"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;} textStyle {offset:0; length:30;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:4; length:26;}">
+                <Coords points="246,648 1159,650 1159,610 246,610"/>
+                <Baseline points="252,641 297,641 342,641 387,641 432,641 477,641 522,641 567,642 612,642 657,642 702,642 747,642 792,642 837,642 882,642 927,642 972,642 1017,642 1062,642 1107,642 1153,642"/>
+                <TextEquiv>
+                    <Unicode>Der verminderte Septimenaccord kann, indem nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;} concept_mus {offset:12; length:7;} m_interval {offset:42; length:7;}">
+                <Coords points="164,691 1155,695 1167,651 164,664"/>
+                <Baseline points="170,684 219,684 269,684 318,684 368,683 417,683 467,683 516,683 566,683 615,683 665,684 715,684 764,684 814,684 863,684 913,684 962,684 1012,684 1061,684 1111,684 1161,683"/>
+                <TextEquiv>
+                    <Unicode>eine seiner Stimmen sich bewegt und einen Halbton abwärts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;} m_note {offset:20; length:9;} m_chord {offset:36; length:24;}">
+                <Coords points="167,742 1163,739 1163,700 1120,693 167,697"/>
+                <Baseline points="173,727 222,727 271,727 320,727 369,727 419,727 468,726 517,726 566,726 615,726 665,726 714,726 763,726 812,726 861,726 911,727 960,727 1009,727 1058,727 1107,727 1157,727"/>
+                <TextEquiv>
+                    <Unicode>schreitet, dort zum Grundtone eines Dominantseptimenaccordes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;} concept_mus {offset:50; length:7;}">
+                <Coords points="164,778 1172,779 1160,740 1066,736 164,740"/>
+                <Baseline points="170,769 219,769 269,769 319,769 369,769 419,769 468,769 518,769 568,769 618,769 668,769 717,769 767,769 817,769 867,769 917,769 966,769 1016,770 1066,770 1116,770 1166,770"/>
+                <TextEquiv>
+                    <Unicode>werden, wie unten bei 1; oder es kann eine seiner Stimmen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;} m_note {offset:4; length:9;}">
+                <Coords points="174,829 1005,827 1166,817 1166,787 174,788"/>
+                <Baseline points="180,812 229,812 278,811 327,811 376,811 425,811 474,811 523,811 572,811 621,811 670,811 719,811 768,811 817,811 866,811 915,812 964,812 1013,812 1062,812 1111,812 1160,811"/>
+                <TextEquiv>
+                    <Unicode>zum Grundtone eines solchen werden, wenn sie auf ihrer Stelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;} m_interval {offset:41; length:7;}">
+                <Coords points="170,862 1165,867 1165,820 170,829"/>
+                <Baseline points="177,855 226,854 275,854 324,854 373,853 422,853 471,853 520,853 569,853 618,853 668,854 717,854 766,854 815,854 864,854 913,854 962,854 1011,854 1060,854 1109,854 1159,853"/>
+                <TextEquiv>
+                    <Unicode>verharrt, während die drei anderen einen Halbton aufwärts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;} m_interval {offset:59; length:5; continued:true;}">
+                <Coords points="173,911 1170,899 1131,862 173,862"/>
+                <Baseline points="179,897 228,897 277,897 326,896 376,896 425,896 474,896 523,896 573,896 622,897 671,897 720,897 770,897 819,897 868,897 917,897 967,897 1016,897 1065,897 1114,896 1164,896"/>
+                <TextEquiv>
+                    <Unicode>schreiten, wie bei 2; oder es kann eine Folge von je einen Halb¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;} m_interval {offset:0; length:3; continued:true;} m_chord {offset:30; length:29;}">
+                <Coords points="170,946 1166,947 1166,917 1120,909 170,911"/>
+                <Baseline points="176,940 225,939 274,939 323,939 372,939 422,939 471,939 520,939 569,939 618,939 668,939 717,939 766,939 815,939 864,939 914,939 963,939 1012,939 1061,940 1110,940 1160,940"/>
+                <TextEquiv>
+                    <Unicode>ton steigenden oder fallenden verminderten Septimenaccorden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="166,994 954,990 927,948 166,959"/>
+                <Baseline points="173,982 211,982 250,982 289,981 328,981 366,981 405,981 444,981 483,981 521,981 560,981 599,981 638,981 676,982 715,982 754,982 793,983 831,983 870,984 909,984 948,985"/>
+                <TextEquiv>
+                    <Unicode>ausgeführt werden, wie unten bei 3 u. 4, u. s. f.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der verminderte Septimenaccord kann, indem nur
+eine seiner Stimmen sich bewegt und einen Halbton abwärts
+schreitet, dort zum Grundtone eines Dominantseptimenaccordes
+werden, wie unten bei 1; oder es kann eine seiner Stimmen
+zum Grundtone eines solchen werden, wenn sie auf ihrer Stelle
+verharrt, während die drei anderen einen Halbton aufwärts
+schreiten, wie bei 2; oder es kann eine Folge von je einen Halb¬
+ton steigenden oder fallenden verminderten Septimenaccorden
+ausgeführt werden, wie unten bei 3 u. 4, u. s. f.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614167228409_1639" custom="readingOrder {index:3;} structure {type:floating;}">
+            <Coords points="170,997 1169,997 1169,1482 170,1482"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1614167157433_1605" custom="readingOrder {index:4;} structure {type:heading;}">
+            <Coords points="170,1482 1169,1482 1169,1594 170,1594"/>
+            <TextLine id="r1l55" custom="readingOrder {index:0;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; bold:true;} concept_mus {offset:0; length:10;}">
+                <Coords points="565,1579 615,1579 623,1586 645,1586 652,1579 670,1586 694,1579 773,1579 773,1539 760,1531 730,1541 687,1540 679,1532 655,1532 646,1539 615,1539 594,1530 565,1533"/>
+                <Baseline points="571,1569 599,1569 627,1569 655,1569 683,1569 711,1569 739,1569 767,1568"/>
+                <TextEquiv>
+                    <Unicode>Orgelpunct.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Orgelpunct.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614167154934_1601" custom="readingOrder {index:5;} structure {type:paragraph-continued;}">
+            <Coords points="170,1594 1169,1594 1169,1919 170,1919"/>
+            <TextLine id="r1l56" custom="readingOrder {index:0;}">
+                <Coords points="253,1639 1174,1642 1174,1611 1088,1596 683,1617 253,1597"/>
+                <Baseline points="259,1634 304,1634 349,1634 395,1633 440,1633 486,1633 531,1633 576,1633 622,1633 667,1633 713,1634 758,1634 803,1634 849,1634 894,1634 940,1634 985,1634 1030,1634 1076,1634 1121,1634 1167,1634"/>
+                <TextEquiv>
+                    <Unicode>Unser Ohr hat sich nicht allein schon an die anhaltende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l57" custom="readingOrder {index:1;} concept_mus {offset:0; length:8;} concept_mus {offset:15; length:5;} m_chord {offset:25; length:16;}">
+                <Coords points="173,1682 1169,1682 1110,1643 173,1644"/>
+                <Baseline points="179,1675 228,1675 277,1675 326,1676 375,1676 425,1676 474,1676 523,1676 572,1676 621,1676 671,1676 720,1676 769,1676 818,1676 867,1676 917,1675 966,1675 1015,1675 1064,1675 1113,1675 1163,1675"/>
+                <TextEquiv>
+                    <Unicode>Spannung einer Folge von Septimenaccorden gewöhnt, es er¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l58" custom="readingOrder {index:2;} concept_mus {offset:22; length:14;}">
+                <Coords points="176,1730 1174,1731 1142,1684 808,1710 758,1684 176,1692"/>
+                <Baseline points="182,1720 231,1719 280,1719 329,1719 379,1719 428,1719 477,1719 527,1719 576,1719 625,1719 675,1719 724,1719 773,1719 822,1719 872,1719 921,1719 970,1719 1020,1719 1069,1719 1118,1719 1168,1719"/>
+                <TextEquiv>
+                    <Unicode>trägt sogar auch eine Harmonienfolge, welcher als Basis ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l59" custom="readingOrder {index:3;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:0; length:8;} textStyle {offset:36; length:19;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="173,1776 1168,1762 1151,1732 1014,1724 173,1732"/>
+                <Baseline points="179,1763 228,1763 277,1762 326,1762 375,1761 424,1761 473,1761 523,1761 572,1761 621,1761 670,1761 719,1761 768,1762 817,1762 867,1762 916,1762 965,1761 1014,1761 1063,1761 1112,1761 1162,1760"/>
+                <TextEquiv>
+                    <Unicode>Halteton hinzugefügt wurde, der nur mit seinem Anfangs-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l60" custom="readingOrder {index:4;} textStyle {offset:0; length:49;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:37; length:12; continued:true;}">
+                <Coords points="168,1810 1095,1819 1175,1810 1175,1780 168,1781"/>
+                <Baseline points="175,1804 224,1804 274,1804 324,1803 373,1803 423,1803 473,1803 522,1803 572,1803 622,1803 672,1803 721,1803 771,1803 821,1803 870,1804 920,1804 970,1804 1019,1804 1069,1804 1119,1804 1169,1804"/>
+                <TextEquiv>
+                    <Unicode>und Ausgangspunkte in verständlicher harmonischer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l61" custom="readingOrder {index:5;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:9; continued:true;} textStyle {offset:19; length:31;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:45; length:5;}">
+                <Coords points="169,1851 1174,1858 1174,1819 1081,1812 170,1812"/>
+                <Baseline points="176,1846 225,1846 275,1847 324,1847 374,1847 424,1847 473,1846 523,1846 572,1846 622,1846 672,1846 721,1846 771,1846 820,1846 870,1846 920,1846 969,1846 1019,1847 1068,1847 1118,1848 1168,1849"/>
+                <TextEquiv>
+                    <Unicode>Beziehung zu jener in sich zusammenhängenden Folge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l62" custom="readingOrder {index:6;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:4; length:8;} textStyle {offset:33; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:33; length:10;}">
+                <Coords points="173,1899 1172,1898 1170,1860 1034,1854 173,1861"/>
+                <Baseline points="179,1889 228,1889 277,1889 327,1889 376,1889 425,1890 475,1890 524,1890 573,1890 623,1890 672,1890 721,1891 771,1891 820,1891 869,1891 919,1890 968,1890 1017,1890 1067,1890 1116,1889 1166,1889"/>
+                <TextEquiv>
+                    <Unicode>von Accorden steht. Ein solcher „Orgelpunct” kann nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Unser Ohr hat sich nicht allein schon an die anhaltende&#13;
+Spannung einer Folge von Septimenaccorden gewöhnt, es er¬&#13;
+trägt sogar auch eine Harmonienfolge, welcher als Basis ein&#13;
+Halteton hinzugefügt wurde, der nur mit seinem Anfangs-&#13;
+und Ausgangspunkte in verständlicher harmonischer&#13;
+Beziehung zu jener in sich zusammenhängenden Folge&#13;
+von Accorden steht. Ein solcher „Orgelpunct” kann nun</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

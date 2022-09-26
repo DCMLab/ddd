@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-25T18:51:16.983+01:00</Created>
+        <LastChange>2021-09-05T23:55:53.372+02:00</LastChange>
+        <TranskribusMetadata docId="764524" pageId="28718824" pageNr="33" tsid="64315566" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=APZOLZDVNLSQUWCKWFRASKYB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PGAQWDLLBYTDUWIUASTORLHX" imageId="22439329"/>
+    </Metadata>
+    <Page imageFilename="Kunkel1863-0033.jpg" imageWidth="1793" imageHeight="2941" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630948962054" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614529798570_1768"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1614529798570_1767"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614529731227_1747"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1614529728338_1743"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1614529721120_1739"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1614529715934_1735"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614529798570_1768" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="143,126 1700,126 1700,177 143,177"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1640,154 1701,156 1701,100 1640,98"/>
+                <Baseline points="1649,146 1691,146"/>
+                <TextEquiv>
+                    <Unicode>31</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>31</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614529798570_1767" custom="readingOrder {index:1;}">
+            <Coords points="143,177 1700,177 1700,617 143,617"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:30; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:30; length:12;} concept_mus {offset:45; length:14;}">
+                <Coords points="250,248 1708,251 1708,208 250,202"/>
+                <Baseline points="259,237 331,237 403,238 475,238 547,239 619,239 691,239 763,240 835,240 907,240 979,240 1051,240 1123,241 1195,241 1267,241 1339,241 1411,241 1483,241 1555,242 1627,242 1699,242"/>
+                <TextEquiv>
+                    <Unicode>In Betreff der Erklärung der „Vorausnahmen” (Anticipationen) wäre nichts Besonderes zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} person_author {offset:25; length:9;ID:P0041;}">
+                <Coords points="149,292 1708,297 1640,251 150,254"/>
+                <Baseline points="159,282 236,282 313,283 390,284 467,284 544,284 621,285 698,285 775,285 852,286 929,286 1006,286 1083,287 1160,287 1237,287 1314,288 1391,288 1468,288 1545,288 1622,289 1699,289"/>
+                <TextEquiv>
+                    <Unicode>entgegnen, wenn sich der Verfasser nicht wieder einmal in überschwänglicher Phraseologie ergangen: „. . . mehrere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:20; length:12;}">
+                <Coords points="155,341 1704,347 1704,305 1625,297 155,298"/>
+                <Baseline points="164,327 240,328 317,329 393,330 470,330 546,331 623,331 699,331 776,332 852,332 929,332 1005,333 1082,333 1158,333 1235,333 1311,333 1388,334 1464,334 1541,334 1617,335 1694,335"/>
+                <TextEquiv>
+                    <Unicode>der unten folgenden Vorausnahmen sind dem Ohre nicht mehr fremd, andere aber lassen sich nur durch eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="154,389 1708,392 1687,345 154,346"/>
+                <Baseline points="164,375 240,375 317,376 394,376 470,377 547,377 624,377 700,377 777,377 854,377 931,378 1007,378 1084,378 1161,378 1237,378 1314,378 1391,378 1467,378 1544,378 1621,379 1698,379"/>
+                <TextEquiv>
+                    <Unicode>zum Ausdruck zu bringende Stimmung rechtfertigen, in welcher die Leidenschaft dem Verstande vorauseilt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614530031632_1799" custom="readingOrder {index:4;}">
+                <Coords points="152,429 1708,430 1635,385 152,390"/>
+                <Baseline points="161,420 214,420 267,420 320,420 374,421 427,421 480,421 534,422 587,422 640,422 694,423 747,423 800,423 853,423 907,423 960,423 1013,423 1067,422 1120,422 1173,421 1227,420 1237,422 1262,422 1288,423 1314,423 1339,423 1365,423 1391,423 1416,423 1442,423 1468,423 1493,423 1519,423 1545,423 1570,423 1596,423 1622,423 1647,423 1673,424 1699,424"/>
+                <TextEquiv>
+                    <Unicode>oder der Eigensinn sich nicht der herkömmlichen Sitte fügen will.” — Von den dargebotenen dreizehn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;} concept_mus {offset:0; length:21;} textStyle {offset:39; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:45; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="151,474 1700,482 1700,442 1602,434 151,433"/>
+                <Baseline points="161,464 237,464 313,465 390,465 466,466 543,466 619,466 696,466 772,467 849,467 925,467 1001,467 1078,468 1154,468 1231,468 1307,468 1384,468 1460,468 1537,469 1613,469 1690,469"/>
+                <TextEquiv>
+                    <Unicode>Anticipations-Mustern lassen wir unter i und k in nachstehender Fig. 37 zwei folgen, die sich junge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;} concept_mus {offset:0; length:11;} concept_mus {offset:57; length:9;}">
+                <Coords points="153,518 1698,522 1698,483 153,475"/>
+                <Baseline points="163,509 239,509 315,510 391,510 468,511 544,511 620,511 697,512 773,512 849,512 926,512 1002,512 1078,513 1154,513 1231,513 1307,513 1383,513 1460,513 1536,513 1612,513 1689,512"/>
+                <TextEquiv>
+                    <Unicode>Componisten je nach Geschmack und Lust als Talismane zum tonischen Ausdruck ihrer dem Verstande voraus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="145,570 1706,564 1671,522 146,524"/>
+                <Baseline points="156,553 233,554 310,554 387,555 464,556 541,556 618,557 695,557 772,557 849,558 926,558 1003,558 1080,558 1157,558 1234,558 1311,558 1388,558 1465,558 1542,557 1619,557 1696,557"/>
+                <TextEquiv>
+                    <Unicode>geeilten Leidenschaft und des der herkömmlichen Sitte nicht gefügigen Eigensinnes mit zur Reise auf die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="153,615 533,614 533,573 510,569 153,568"/>
+                <Baseline points="162,599 187,600 213,600 239,600 265,600 290,599 316,599 342,599 368,599 394,599 419,600 445,600 471,600 497,601 523,602"/>
+                <TextEquiv>
+                    <Unicode>Kunstbahn nehmen mögen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In Betreff der Erklärung der „Vorausnahmen” (Anticipationen) wäre nichts Besonderes zu&#13;
+entgegnen, wenn sich der Verfasser nicht wieder einmal in überschwänglicher Phraseologie ergangen: „. . . mehrere&#13;
+der unten folgenden Vorausnahmen sind dem Ohre nicht mehr fremd, andere aber lassen sich nur durch eine&#13;
+zum Ausdruck zu bringende Stimmung rechtfertigen, in welcher die Leidenschaft dem Verstande vorauseilt,&#13;
+oder der Eigensinn sich nicht der herkömmlichen Sitte fügen will.” — Von den dargebotenen dreizehn&#13;
+Anticipations-Mustern lassen wir unter i und k in nachstehender Fig. 37 zwei folgen, die sich junge&#13;
+Componisten je nach Geschmack und Lust als Talismane zum tonischen Ausdruck ihrer dem Verstande voraus¬&#13;
+geeilten Leidenschaft und des der herkömmlichen Sitte nicht gefügigen Eigensinnes mit zur Reise auf die&#13;
+Kunstbahn nehmen mögen:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614529750899_1756" custom="readingOrder {index:2;} structure {type:floating;}">
+            <Coords points="143,617 1700,617 1700,871 143,871"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614529731227_1747" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="143,871 1700,871 1700,1055 143,1055"/>
+            <TextLine id="r1l31" custom="readingOrder {index:0;} textStyle {offset:6; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:6; length:7;} person_author {offset:23; length:9;ID:P0041;}">
+                <Coords points="251,914 1701,924 1701,875 251,874"/>
+                <Baseline points="261,905 332,906 404,907 475,908 547,909 618,910 690,910 761,911 833,911 904,911 976,911 1047,911 1119,911 1190,911 1262,911 1333,911 1405,911 1476,910 1548,910 1619,910 1691,910"/>
+                <TextEquiv>
+                    <Unicode>Statt Vorhalt, wie der Verfasser sich auch bereits dieses Ausdrucks schon bedient, lesen wir jetzt:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:1;} textStyle {offset:1; length:19;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:1; length:19;} concept_mus {offset:49; length:12;} concept_phy {offset:49; length:12;} concept_mus {offset:62; length:8;}">
+                <Coords points="146,964 1637,972 1699,965 1699,922 146,929"/>
+                <Baseline points="155,950 231,951 308,951 385,952 462,953 538,953 615,954 692,954 769,954 845,954 922,955 999,955 1076,955 1152,955 1229,955 1306,955 1383,955 1459,955 1536,955 1613,955 1690,955"/>
+                <TextEquiv>
+                    <Unicode>„Vorhaltsdissonanzen.” Daß es ausnahmsweise auch consonirende Vorhalte geben kann (siehe z. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:2;} person_author {offset:0; length:7;ID:P0140;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} work_text {offset:9; length:12;ID:W0173;} person_author {offset:50; length:9;ID:P0080;} textStyle {offset:50; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} work_text {offset:61; length:21;ID:W0156;}">
+                <Coords points="145,1005 1707,1017 1655,961 145,964"/>
+                <Baseline points="154,994 231,994 308,995 385,996 462,996 540,997 617,997 694,998 771,998 848,999 926,999 1003,1000 1080,1000 1157,1000 1234,1000 1312,1000 1389,1000 1466,1000 1543,1000 1620,1000 1698,1000"/>
+                <TextEquiv>
+                    <Unicode>André's „Tonsetzkunst”, Band 1, Seite 154; — auch Richter's „Lehrbuch der Harmonie”, Seite 87),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614530049004_1818" custom="readingOrder {index:3;}">
+                <Coords points="141,1051 224,1045 374,1061 419,1050 456,1061 585,1042 585,1023 550,1025 535,1009 454,1021 141,1010"/>
+                <Baseline points="151,1038 176,1039 202,1040 228,1040 253,1041 279,1041 305,1041 331,1041 356,1040 382,1040 408,1040 434,1040 459,1040 485,1041 511,1042 537,1042 565,1038 576,1038"/>
+                <TextEquiv>
+                    <Unicode>wäre demnach hier ignorirt. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Statt Vorhalt, wie der Verfasser sich auch bereits dieses Ausdrucks schon bedient, lesen wir jetzt:&#13;
+„Vorhaltsdissonanzen.” Daß es ausnahmsweise auch consonirende Vorhalte geben kann (siehe z. B.&#13;
+André's „Tonsetzkunst”, Band 1, Seite 154; — auch Richter's „Lehrbuch der Harmonie”, Seite 87),&#13;
+wäre demnach hier ignorirt. —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614529728338_1743" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="143,1055 1700,1055 1700,1779 143,1779"/>
+            <TextLine id="r1l36" custom="readingOrder {index:0;} concept_mus {offset:10; length:10;} m_note {offset:25; length:14;} concept_mus {offset:85; length:8; continued:true;}">
+                <Coords points="249,1109 1709,1100 1709,1067 249,1065"/>
+                <Baseline points="259,1093 331,1094 403,1095 475,1095 547,1096 619,1096 691,1096 763,1097 835,1097 907,1097 979,1097 1051,1097 1123,1097 1195,1097 1267,1097 1339,1097 1411,1097 1483,1097 1555,1097 1627,1097 1700,1097"/>
+                <TextEquiv>
+                    <Unicode>„Wenn die Vorschläge und Durchgangstöne ihrer Natur nach den minder hervortretenden, unaccen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:1;} concept_mus {offset:0; length:19; continued:true;}">
+                <Coords points="143,1149 1651,1156 1630,1105 143,1107"/>
+                <Baseline points="152,1138 226,1138 301,1139 375,1139 450,1140 524,1140 599,1141 673,1141 748,1141 822,1141 897,1141 971,1141 1046,1141 1120,1141 1195,1141 1269,1141 1344,1141 1418,1141 1493,1141 1567,1141 1642,1141"/>
+                <TextEquiv>
+                    <Unicode>tuirten Takttheilen angehören, und die Vorausnahmen nur als ganz besondere Abnormitäten [Ja wohl, —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:2;} textStyle {offset:18; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:24; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="148,1196 1706,1194 1685,1153 148,1153"/>
+                <Baseline points="157,1180 238,1181 319,1182 400,1183 481,1183 562,1184 643,1184 724,1184 805,1185 886,1185 967,1185 1048,1185 1129,1185 1210,1185 1291,1185 1372,1185 1453,1185 1534,1185 1615,1185 1696,1185"/>
+                <TextEquiv>
+                    <Unicode>wie z. B. die bei i und k in Fig. 37 mitgetheilten Exempeln!] betrachtet werden können, so treten die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:3;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:8;} concept_mus {offset:22; length:12;} concept_phy {offset:22; length:12;} m_note {offset:76; length:4;}">
+                <Coords points="142,1234 1698,1242 1698,1202 1546,1195 142,1196"/>
+                <Baseline points="151,1223 227,1224 304,1226 381,1227 458,1228 535,1228 612,1229 689,1229 766,1229 843,1229 920,1229 996,1229 1073,1229 1150,1229 1227,1229 1304,1229 1381,1229 1458,1229 1535,1229 1612,1229 1689,1230"/>
+                <TextEquiv>
+                    <Unicode>Vorhalte, welche ihre dissonirende Erscheinung durch die Verbindung mit dem Tone eines ihnen voran¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:4;} m_chord {offset:9; length:8;} concept_mus {offset:62; length:24;} textStyle {offset:62; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="145,1286 1702,1284 1702,1242 145,1240"/>
+                <Baseline points="156,1271 232,1271 309,1272 386,1272 463,1272 540,1273 617,1273 693,1273 770,1273 847,1273 924,1273 1001,1273 1078,1273 1155,1273 1231,1273 1308,1273 1385,1273 1462,1273 1539,1273 1616,1273 1693,1274"/>
+                <TextEquiv>
+                    <Unicode>gehenden Accordes vorbereiten, nunmehr fest und gewichtig auf accentuirten Tacttheilen auf, oder sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:5;} concept_mus {offset:13; length:9;}">
+                <Coords points="147,1331 1654,1340 1700,1284 147,1286"/>
+                <Baseline points="156,1314 232,1315 309,1317 386,1317 463,1318 539,1318 616,1318 693,1318 770,1318 846,1318 923,1318 1000,1317 1077,1317 1153,1317 1230,1317 1307,1317 1384,1317 1460,1318 1537,1318 1614,1319 1691,1320"/>
+                <TextEquiv>
+                    <Unicode>stempeln den Tacttheil, auf welchem sie erscheinen, durch ihr Gewicht zu einem schweren.” Der Satz enthält</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:6;} concept_mus {offset:61; length:10;} concept_mus {offset:76; length:10;} textStyle {offset:91; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:91; length:6; continued:true;}">
+                <Coords points="143,1371 1702,1369 1571,1330 143,1331"/>
+                <Baseline points="153,1358 234,1359 315,1361 396,1362 477,1362 558,1362 639,1363 720,1363 801,1363 882,1362 963,1362 1044,1362 1125,1362 1206,1361 1287,1361 1368,1361 1449,1362 1530,1362 1611,1363 1692,1364"/>
+                <TextEquiv>
+                    <Unicode>Widersprüche und Kanderwälsches! Es kommen ja denn doch auch Vorschläge und Durchgänge auf accen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:7;} concept_mus {offset:0; length:19; continued:true;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:52; length:41;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:61; length:9;ID:P0041;}">
+                <Coords points="141,1414 1700,1420 1700,1379 1512,1371 141,1377"/>
+                <Baseline points="151,1404 227,1405 304,1405 381,1406 458,1406 535,1407 612,1407 689,1407 766,1407 843,1407 920,1407 996,1407 1073,1407 1150,1407 1227,1407 1304,1407 1381,1407 1458,1407 1535,1407 1612,1407 1689,1408"/>
+                <TextEquiv>
+                    <Unicode>tuirten Tacttheilen vor, wie oben erklärt wurde und wozu der Verfasser selbst eine bedeutende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:8;} textStyle {offset:0; length:37;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="141,1460 1703,1469 1703,1420 1647,1418 141,1418"/>
+                <Baseline points="151,1447 228,1448 305,1449 382,1450 459,1451 536,1451 613,1451 691,1451 768,1451 845,1451 922,1451 999,1451 1076,1451 1153,1451 1231,1451 1308,1451 1385,1451 1462,1451 1539,1451 1616,1452 1694,1452"/>
+                <TextEquiv>
+                    <Unicode>Anzahl desfallsiger Beispiele brachte! Wer in aller Welt vermag ferner sich eine klare Vorstellung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:9;} concept_mus {offset:33; length:8;}">
+                <Coords points="145,1507 1700,1506 1700,1471 1540,1458 145,1466"/>
+                <Baseline points="155,1495 231,1495 308,1495 385,1495 462,1495 538,1495 615,1495 692,1495 769,1495 845,1496 922,1496 999,1496 1076,1496 1152,1496 1229,1496 1306,1496 1383,1496 1459,1496 1536,1496 1613,1496 1690,1496"/>
+                <TextEquiv>
+                    <Unicode>nach dieser Definition von einem Vorhalte zu verschaffen, selbst wenn er auch den mit „welche” beginnenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:10;} concept_mus {offset:30; length:8;} concept_mus {offset:53; length:12;} concept_phy {offset:53; length:12;}">
+                <Coords points="144,1557 1693,1540 1693,1507 144,1506"/>
+                <Baseline points="154,1539 230,1539 307,1539 383,1539 460,1539 536,1540 613,1540 689,1540 766,1540 842,1541 919,1541 995,1541 1072,1541 1148,1541 1225,1541 1301,1540 1378,1540 1454,1540 1531,1539 1607,1539 1684,1538"/>
+                <TextEquiv>
+                    <Unicode>Zwischensatz auflöst in: „Die Vorhalte bereiten ihre dissonirende Erscheinung durch die Verbindung 2c. vor?”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614530063960_1844" custom="readingOrder {index:11;} concept_mus {offset:24; length:8;}">
+                <Coords points="143,1590 1537,1603 1692,1596 1692,1555 143,1565"/>
+                <Baseline points="152,1580 174,1580 211,1583 284,1583 358,1584 431,1584 505,1584 578,1585 652,1585 725,1585 799,1585 872,1585 946,1585 1019,1585 1093,1585 1166,1585 1240,1585 1313,1585 1387,1585 1460,1585 1534,1585 1607,1585 1681,1584"/>
+                <TextEquiv>
+                    <Unicode>— Sehr interessant, die Vorhalte in solcher Activität zur Herstellung ihrer eigenen Existenz zu sehen! Und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l49" custom="readingOrder {index:12;} concept_mus {offset:4; length:8;} concept_mus {offset:44; length:9;} textStyle {offset:93; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="146,1642 1701,1636 1701,1598 1577,1592 146,1597"/>
+                <Baseline points="155,1627 231,1628 308,1628 385,1629 462,1629 539,1630 616,1630 692,1630 769,1630 846,1630 923,1630 1000,1630 1077,1630 1154,1629 1230,1629 1307,1629 1384,1629 1461,1629 1538,1629 1615,1629 1692,1630"/>
+                <TextEquiv>
+                    <Unicode>die Vorhalte sollen „durch ihr Gewicht” den Tacttheil, auf welchem sie erscheinen, zu einem „schweren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l50" custom="readingOrder {index:13;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:52; length:24;}">
+                <Coords points="142,1690 1697,1685 1662,1640 142,1641"/>
+                <Baseline points="151,1675 227,1674 304,1674 381,1674 458,1674 535,1674 611,1674 688,1674 765,1674 842,1673 919,1673 995,1673 1072,1673 1149,1673 1226,1673 1303,1673 1379,1672 1456,1672 1533,1672 1610,1672 1687,1671"/>
+                <TextEquiv>
+                    <Unicode>stempeln”, treten aber auch „fest und gewichtig auf accentuirten Tacttheilen auf!” — Was doch die Ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l51" custom="readingOrder {index:14;} concept_mus {offset:20; length:8;} concept_mus {offset:61; length:18;} concept_mus {offset:95; length:14;}">
+                <Coords points="143,1732 1686,1732 1700,1689 143,1690"/>
+                <Baseline points="153,1718 229,1718 306,1718 383,1718 460,1718 537,1718 614,1718 691,1718 768,1718 845,1718 922,1718 998,1718 1075,1718 1152,1718 1229,1718 1306,1718 1383,1718 1460,1718 1537,1718 1614,1717 1691,1717"/>
+                <TextEquiv>
+                    <Unicode>schäftigkeit dieser Vorhalte Alles zu bewirken vermag! Sogar schwere Tacttheile können sie auf leichte Zeiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l52" custom="readingOrder {index:15;}">
+                <Coords points="145,1779 160,1779 166,1773 199,1781 209,1773 313,1771 313,1730 278,1738 247,1730 226,1738 185,1738 145,1730"/>
+                <Baseline points="154,1764 179,1764 204,1764 229,1764 254,1764 279,1764 304,1764"/>
+                <TextEquiv>
+                    <Unicode>hinzaubern! —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>„Wenn die Vorschläge und Durchgangstöne ihrer Natur nach den minder hervortretenden, unaccen¬&#13;
+tuirten Takttheilen angehören, und die Vorausnahmen nur als ganz besondere Abnormitäten [Ja wohl, —&#13;
+wie z. B. die bei i und k in Fig. 37 mitgetheilten Exempeln!] betrachtet werden können, so treten die&#13;
+Vorhalte, welche ihre dissonirende Erscheinung durch die Verbindung mit dem Tone eines ihnen voran¬&#13;
+gehenden Accordes vorbereiten, nunmehr fest und gewichtig auf accentuirten Tacttheilen auf, oder sie&#13;
+stempeln den Tacttheil, auf welchem sie erscheinen, durch ihr Gewicht zu einem schweren.” Der Satz enthält&#13;
+Widersprüche und Kanderwälsches! Es kommen ja denn doch auch Vorschläge und Durchgänge auf accen¬&#13;
+tuirten Tacttheilen vor, wie oben erklärt wurde und wozu der Verfasser selbst eine bedeutende&#13;
+Anzahl desfallsiger Beispiele brachte! Wer in aller Welt vermag ferner sich eine klare Vorstellung&#13;
+nach dieser Definition von einem Vorhalte zu verschaffen, selbst wenn er auch den mit „welche” beginnenden&#13;
+Zwischensatz auflöst in: „Die Vorhalte bereiten ihre dissonirende Erscheinung durch die Verbindung 2c. vor?”&#13;
+— Sehr interessant, die Vorhalte in solcher Activität zur Herstellung ihrer eigenen Existenz zu sehen! Und&#13;
+die Vorhalte sollen „durch ihr Gewicht” den Tacttheil, auf welchem sie erscheinen, zu einem „schweren&#13;
+stempeln”, treten aber auch „fest und gewichtig auf accentuirten Tacttheilen auf!” — Was doch die Ge¬&#13;
+schäftigkeit dieser Vorhalte Alles zu bewirken vermag! Sogar schwere Tacttheile können sie auf leichte Zeiten&#13;
+hinzaubern! —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614529721120_1739" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="143,1779 1700,1779 1700,2181 143,2181"/>
+            <TextLine id="r1l53" custom="readingOrder {index:0;} concept_mus {offset:4; length:8;}">
+                <Coords points="249,1827 1642,1829 1696,1781 249,1786"/>
+                <Baseline points="258,1816 329,1816 400,1816 472,1816 543,1816 615,1816 686,1816 757,1816 829,1816 900,1816 972,1816 1043,1816 1114,1816 1186,1816 1257,1816 1329,1815 1400,1815 1471,1815 1543,1815 1614,1814 1686,1814"/>
+                <TextEquiv>
+                    <Unicode>Die Vorhalte richtig und verständlich zu erklären, ist ja doch wahrlich so schwer nicht, wenn man vor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l54" custom="readingOrder {index:1;}">
+                <Coords points="144,1877 1697,1875 1697,1824 144,1832"/>
+                <Baseline points="153,1861 229,1861 306,1861 383,1861 459,1861 536,1861 613,1861 689,1860 766,1860 843,1860 920,1860 996,1859 1073,1859 1150,1859 1226,1859 1303,1858 1380,1858 1456,1858 1533,1858 1610,1858 1687,1858"/>
+                <TextEquiv>
+                    <Unicode>zugsweise ihre Entstehung klar und bestimmt in's Auge faßt und bei der Erklärung selbst nicht absichtlich sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l55" custom="readingOrder {index:2;} m_note {offset:70; length:5;}">
+                <Coords points="138,1916 1697,1907 1527,1865 138,1875"/>
+                <Baseline points="148,1904 225,1903 302,1903 379,1903 456,1902 533,1902 610,1902 687,1902 764,1902 841,1902 918,1902 995,1902 1072,1902 1149,1901 1226,1901 1303,1901 1380,1901 1457,1901 1534,1901 1611,1901 1688,1900"/>
+                <TextEquiv>
+                    <Unicode>in geschraubtem Gerede gefällt. Die Zurückhaltung, Retardation, eines Tones aus dem unmittelbar voraus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l56" custom="readingOrder {index:3;} m_chord {offset:9; length:6;} m_note {offset:25; length:3;} concept_mus {offset:42; length:13;} concept_mus {offset:64; length:18;} concept_mus {offset:83; length:13;}">
+                <Coords points="138,1964 1695,1956 1694,1912 138,1921"/>
+                <Baseline points="148,1948 224,1947 301,1947 378,1946 455,1946 532,1946 609,1945 685,1945 762,1945 839,1945 916,1945 993,1945 1070,1945 1147,1945 1223,1944 1300,1944 1377,1944 1454,1944 1531,1944 1608,1943 1685,1943"/>
+                <TextEquiv>
+                    <Unicode>gehenden Accord, welcher Ton nunmehr beim Accordwechsel und auf schwerem Tacttheil harmoniefremd ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l57" custom="readingOrder {index:4;} concept_mus {offset:46; length:5;} m_note {offset:69; length:11;} concept_mus {offset:81; length:11;} concept_mus {offset:93; length:10;}">
+                <Coords points="135,2003 1691,2003 1691,1963 135,1964"/>
+                <Baseline points="145,1990 221,1990 298,1990 375,1990 452,1990 529,1990 606,1989 682,1989 759,1989 836,1989 913,1989 990,1989 1067,1989 1144,1989 1220,1989 1297,1989 1374,1989 1451,1989 1528,1989 1605,1989 1682,1989"/>
+                <TextEquiv>
+                    <Unicode>und sich in die, in der Regel noch unbesetzte Stufe des eigentlichen Accordtones stufenweise aufzulösen hat,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l58" custom="readingOrder {index:5;} concept_mus {offset:9; length:7;} concept_mus {offset:68; length:8;} concept_mus {offset:89; length:18;}">
+                <Coords points="137,2043 1696,2044 1653,2001 137,2003"/>
+                <Baseline points="147,2033 228,2033 309,2033 390,2033 471,2033 552,2033 633,2033 714,2033 795,2033 876,2033 957,2032 1038,2032 1119,2032 1200,2032 1281,2032 1362,2032 1443,2032 1524,2032 1605,2032 1686,2032"/>
+                <TextEquiv>
+                    <Unicode>läßt den Vorhalt entstehen. In solcher Weise auf die Entstehung der Vorhalte, auf dieses Fortklingen-lassen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l59" custom="readingOrder {index:6;}">
+                <Coords points="134,2089 1691,2091 1675,2043 134,2043"/>
+                <Baseline points="143,2077 219,2077 296,2077 373,2077 450,2077 527,2077 604,2077 681,2077 758,2077 835,2077 912,2076 988,2076 1065,2076 1142,2076 1219,2076 1296,2076 1373,2076 1450,2076 1527,2076 1604,2075 1681,2075"/>
+                <TextEquiv>
+                    <Unicode>die Aufmerksamkeit beim Unterrichten zu lenken, versäume man ja nicht, weil dieses Verfahren das Verständniß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l60" custom="readingOrder {index:7;} concept_mus {offset:8; length:18;} textStyle {offset:99; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:99; length:4; continued:true;}">
+                <Coords points="141,2134 1691,2124 1691,2091 1400,2083 141,2091"/>
+                <Baseline points="150,2121 226,2121 303,2121 379,2121 456,2121 533,2120 609,2120 686,2120 762,2120 839,2120 916,2120 992,2120 1069,2119 1145,2119 1222,2119 1299,2119 1375,2119 1452,2119 1528,2119 1605,2119 1682,2119"/>
+                <TextEquiv>
+                    <Unicode>solcher Accordgestaltungen besonders erleichtert, ohne dabei die Erörterung von den 3 Momenten der Vor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l61" custom="readingOrder {index:8;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:9; continued:true;} textStyle {offset:15; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:15; length:10;} textStyle {offset:34; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:34; length:9;}">
+                <Coords points="133,2172 1130,2171 1130,2148 1039,2131 133,2136"/>
+                <Baseline points="143,2164 191,2164 240,2164 289,2164 338,2164 387,2164 436,2164 484,2164 533,2164 582,2164 631,2164 680,2163 729,2163 778,2163 826,2163 875,2162 924,2162 973,2162 1022,2162 1071,2162 1120,2162"/>
+                <TextEquiv>
+                    <Unicode>bereitung, des Eintrittes und der Auflösung zu versäumen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Vorhalte richtig und verständlich zu erklären, ist ja doch wahrlich so schwer nicht, wenn man vor¬&#13;
+zugsweise ihre Entstehung klar und bestimmt in's Auge faßt und bei der Erklärung selbst nicht absichtlich sich&#13;
+in geschraubtem Gerede gefällt. Die Zurückhaltung, Retardation, eines Tones aus dem unmittelbar voraus¬&#13;
+gehenden Accord, welcher Ton nunmehr beim Accordwechsel und auf schwerem Tacttheil harmoniefremd ist&#13;
+und sich in die, in der Regel noch unbesetzte Stufe des eigentlichen Accordtones stufenweise aufzulösen hat,&#13;
+läßt den Vorhalt entstehen. In solcher Weise auf die Entstehung der Vorhalte, auf dieses Fortklingen-lassen,&#13;
+die Aufmerksamkeit beim Unterrichten zu lenken, versäume man ja nicht, weil dieses Verfahren das Verständniß&#13;
+solcher Accordgestaltungen besonders erleichtert, ohne dabei die Erörterung von den 3 Momenten der Vor¬&#13;
+bereitung, des Eintrittes und der Auflösung zu versäumen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614529715934_1735" custom="readingOrder {index:6;} structure {type:paragraph-continued;}">
+            <Coords points="143,2181 1700,2181 1700,2810 143,2810"/>
+            <TextLine id="r1l62" custom="readingOrder {index:0;} concept_mus {offset:4; length:14;} concept_mus {offset:84; length:13;}">
+                <Coords points="239,2228 1692,2228 1692,2183 239,2186"/>
+                <Baseline points="249,2215 320,2215 392,2216 463,2216 535,2216 607,2216 678,2216 750,2216 821,2215 893,2215 965,2215 1036,2215 1108,2215 1179,2214 1251,2214 1323,2214 1394,2214 1466,2214 1537,2214 1609,2214 1681,2214"/>
+                <TextEquiv>
+                    <Unicode>Die Notenbeispiele sind zum großen Theile gut, wie wir sie aber auch sonst in jeder Harmonielehre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l63" custom="readingOrder {index:1;} textStyle {offset:17; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:79; length:9;ID:P0041;}">
+                <Coords points="136,2277 1693,2267 1676,2227 136,2226"/>
+                <Baseline points="146,2260 222,2260 299,2260 376,2260 453,2260 530,2260 607,2260 683,2260 760,2260 837,2259 914,2259 991,2259 1068,2259 1145,2259 1221,2259 1298,2258 1375,2258 1452,2258 1529,2257 1606,2257 1683,2256"/>
+                <TextEquiv>
+                    <Unicode>jedoch in diesen alle Arten mehr umfassend, finden; nur einige, in welchen der Verfasser die Vorhalte wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l64" custom="readingOrder {index:2;} concept_mus {offset:74; length:17;}">
+                <Coords points="134,2315 1646,2324 1696,2271 134,2277"/>
+                <Baseline points="144,2304 221,2304 298,2304 375,2304 452,2304 529,2304 606,2304 683,2304 760,2304 837,2304 915,2304 992,2304 1069,2304 1146,2304 1223,2304 1300,2303 1377,2303 1454,2303 1531,2303 1608,2302 1686,2302"/>
+                <TextEquiv>
+                    <Unicode>an den Haaren aufwärts zieht, taugen nichts. Wenn er aber meint, nur die „neueren Tonsetzer” brächten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l65" custom="readingOrder {index:3;} textStyle {offset:66; length:18;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:86; length:8;}">
+                <Coords points="140,2364 1698,2356 1677,2313 140,2317"/>
+                <Baseline points="149,2349 226,2348 303,2348 380,2348 457,2348 534,2348 611,2348 688,2348 765,2348 842,2348 919,2348 996,2348 1073,2348 1150,2348 1227,2348 1304,2348 1381,2348 1458,2348 1535,2348 1612,2347 1689,2347"/>
+                <TextEquiv>
+                    <Unicode>„mit vollem Recht” (welches Recht aber gar nicht begründet wird) „aufwärts steigende” Vorhalte, so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l66" custom="readingOrder {index:4;} concept_mus {offset:64; length:8;}">
+                <Coords points="136,2404 1607,2411 1692,2405 1692,2360 136,2364"/>
+                <Baseline points="146,2392 222,2392 299,2392 376,2392 453,2392 530,2392 607,2392 683,2392 760,2392 837,2392 914,2392 991,2391 1068,2391 1145,2391 1221,2391 1298,2391 1375,2391 1452,2391 1529,2391 1606,2391 1683,2391"/>
+                <TextEquiv>
+                    <Unicode>ist dieses wieder einmal ein Irrthum. Treten nun allerdings die Vorhalte von unten viel seltener auf, als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l67" custom="readingOrder {index:5;} concept_mus {offset:63; length:13;}">
+                <Coords points="140,2453 1693,2452 1693,2410 1535,2402 140,2408"/>
+                <Baseline points="150,2436 226,2437 303,2437 380,2437 456,2437 533,2437 610,2437 686,2437 763,2437 840,2436 917,2436 993,2436 1070,2435 1147,2435 1223,2435 1300,2435 1377,2435 1453,2435 1530,2436 1607,2436 1684,2437"/>
+                <TextEquiv>
+                    <Unicode>jene von oben, so kommen sie doch auch schon längst in älteren Compositionen vor (— wir erinnern nur,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l68" custom="readingOrder {index:6;} concept_mus {offset:56; length:12;} m_chord {offset:94; length:10;}">
+                <Coords points="139,2491 1686,2491 1624,2450 139,2452"/>
+                <Baseline points="148,2480 224,2481 300,2481 377,2481 453,2481 530,2481 606,2481 682,2481 759,2481 835,2481 912,2481 988,2480 1064,2480 1141,2480 1217,2479 1294,2479 1370,2479 1446,2479 1523,2479 1599,2480 1676,2480"/>
+                <TextEquiv>
+                    <Unicode>vieler anderen Fälle nicht zu gedenken, an die bekannte Schlußformel mittelst des sogenannten Undecimen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614530286468_1903" custom="readingOrder {index:7;} m_chord {offset:5; length:20;} m_note {offset:46; length:7;} m_interval {offset:63; length:13;}">
+                <Coords points="134,2539 1689,2540 1689,2492 134,2501"/>
+                <Baseline points="144,2527 217,2526 291,2526 365,2526 439,2526 513,2526 586,2526 660,2525 734,2525 808,2525 882,2525 955,2525 1029,2525 1103,2525 1177,2525 1251,2525 1324,2525 1398,2524 1472,2524 1546,2523 1620,2522 1637,2520 1679,2532"/>
+                <TextEquiv>
+                    <Unicode>oder Terzdecimen-Accordes, in welchem die zum Baßtone stehende große Septime aufwärts schreitet —),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l71" custom="readingOrder {index:8;} concept_mus {offset:18; length:14;}">
+                <Coords points="137,2580 1696,2580 1641,2537 137,2543"/>
+                <Baseline points="146,2571 223,2571 300,2571 377,2571 454,2570 531,2570 608,2570 685,2570 762,2570 839,2570 916,2570 993,2570 1070,2570 1147,2569 1224,2569 1301,2569 1378,2569 1455,2569 1532,2569 1609,2569 1686,2569"/>
+                <TextEquiv>
+                    <Unicode>und in fast allen Musiktheorieen wird über deren Verwendbarkeit das Erforderliche gelehrt. Im Allgemeinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l72" custom="readingOrder {index:9;} textStyle {offset:20; length:63;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:78; length:5; continued:true;}">
+                <Coords points="138,2632 1691,2620 1625,2578 138,2588"/>
+                <Baseline points="148,2616 224,2616 301,2615 378,2615 454,2615 531,2615 608,2615 684,2614 761,2614 838,2614 915,2614 991,2614 1068,2614 1145,2613 1221,2613 1298,2613 1375,2613 1451,2612 1528,2612 1605,2612 1682,2611"/>
+                <TextEquiv>
+                    <Unicode>läßt sich annehmen, daß der obere Bestandtheil von manchen großen und von den über¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l73" custom="readingOrder {index:10;} textStyle {offset:0; length:83;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:0; length:19; continued:true;} m_chord {offset:27; length:8;}">
+                <Coords points="139,2671 1601,2675 1688,2667 1688,2629 139,2634"/>
+                <Baseline points="148,2660 224,2660 301,2660 377,2659 454,2659 530,2659 607,2659 683,2658 760,2658 836,2658 913,2658 989,2658 1066,2658 1142,2658 1219,2657 1295,2657 1372,2657 1448,2657 1525,2657 1601,2657 1678,2656"/>
+                <TextEquiv>
+                    <Unicode>mäßigen Intervallen in den Accorden aufwärts geführt zu werden strebt, und daß die¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l74" custom="readingOrder {index:11;} textStyle {offset:0; length:68;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:22; length:11;}">
+                <Coords points="138,2721 1690,2709 1640,2667 138,2674"/>
+                <Baseline points="147,2703 223,2704 300,2704 376,2704 453,2704 530,2704 606,2704 683,2704 760,2704 836,2703 913,2703 990,2703 1066,2703 1143,2702 1220,2702 1296,2702 1373,2702 1450,2701 1526,2701 1603,2701 1680,2701"/>
+                <TextEquiv>
+                    <Unicode>ses Streben durch die Retardation in der Regel nicht aufgehoben wird. Auch dieser letzte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l75" custom="readingOrder {index:12;} person_author {offset:70; length:9;ID:P0041;} concept_mus {offset:96; length:13;}">
+                <Coords points="136,2765 1692,2755 1600,2713 136,2721"/>
+                <Baseline points="145,2749 221,2749 298,2749 375,2750 452,2750 529,2749 606,2749 683,2749 760,2749 837,2748 914,2748 990,2747 1067,2747 1144,2747 1221,2746 1298,2746 1375,2745 1452,2745 1529,2745 1606,2745 1683,2745"/>
+                <TextEquiv>
+                    <Unicode>Umstand rechtfertigt zum Theile unsern ausgesprochenen Tadel, daß der Verfasser die sämmtlichen leitereigenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Notenbeispiele sind zum großen Theile gut, wie wir sie aber auch sonst in jeder Harmonielehre,&#13;
+jedoch in diesen alle Arten mehr umfassend, finden; nur einige, in welchen der Verfasser die Vorhalte wie&#13;
+an den Haaren aufwärts zieht, taugen nichts. Wenn er aber meint, nur die „neueren Tonsetzer” brächten&#13;
+„mit vollem Recht” (welches Recht aber gar nicht begründet wird) „aufwärts steigende” Vorhalte, so&#13;
+ist dieses wieder einmal ein Irrthum. Treten nun allerdings die Vorhalte von unten viel seltener auf, als&#13;
+jene von oben, so kommen sie doch auch schon längst in älteren Compositionen vor (— wir erinnern nur,&#13;
+vieler anderen Fälle nicht zu gedenken, an die bekannte Schlußformel mittelst des sogenannten Undecimen-&#13;
+oder Terzdecimen-Accordes, in welchem die zum Baßtone stehende große Septime aufwärts schreitet —),&#13;
+und in fast allen Musiktheorieen wird über deren Verwendbarkeit das Erforderliche gelehrt. Im Allgemeinen&#13;
+läßt sich annehmen, daß der obere Bestandtheil von manchen großen und von den über¬&#13;
+mäßigen Intervallen in den Accorden aufwärts geführt zu werden strebt, und daß die¬&#13;
+ses Streben durch die Retardation in der Regel nicht aufgehoben wird. Auch dieser letzte&#13;
+Umstand rechtfertigt zum Theile unsern ausgesprochenen Tadel, daß der Verfasser die sämmtlichen leitereigenen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-25T18:51:16.929+01:00</Created>
+        <LastChange>2021-09-05T13:02:07.609+02:00</LastChange>
+        <TranskribusMetadata docId="764524" pageId="28718822" pageNr="31" tsid="64307048" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ZIDEFBWVUTAXSCXUDJGTUEBF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MBGKOMXLEAGVXRGJYAKJRIIH" imageId="22439327"/>
+    </Metadata>
+    <Page imageFilename="Kunkel1863-0031.jpg" imageWidth="1793" imageHeight="2941" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630948961452" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614523674434_1248"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1614523674434_1247"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1614770017323_274"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614770017323_273"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1614523653858_1239"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1614523639394_1229"/>
+                <RegionRefIndexed index="7" regionRef="TextRegion_1614523635338_1225"/>
+                <RegionRefIndexed index="8" regionRef="TextRegion_1614523630003_1221"/>
+                <RegionRefIndexed index="9" regionRef="TextRegion_1614523621795_1217"/>
+                <RegionRefIndexed index="11" regionRef="TextRegion_1614523607748_1209"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614523674434_1248" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="159,112 1712,112 1712,164 159,164"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1632,150 1659,150 1671,146 1677,150 1696,148 1701,141 1711,140 1706,96 1654,100 1646,98 1639,105 1628,106"/>
+                <Baseline points="1642,142 1671,141 1700,136"/>
+                <TextEquiv>
+                    <Unicode>29</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>29</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614523674434_1247" custom="readingOrder {index:1;}">
+            <Coords points="159,164 1712,164 1712,712 159,712"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:41; length:26;} person_author {offset:81; length:9;ID:P0041;}">
+                <Coords points="263,253 1703,251 1656,203 263,202"/>
+                <Baseline points="273,238 344,238 415,238 486,239 557,239 628,239 699,239 770,239 841,239 912,239 983,238 1054,238 1125,238 1196,238 1267,238 1338,238 1409,238 1480,238 1551,237 1622,237 1693,237"/>
+                <TextEquiv>
+                    <Unicode>Aehnlich wie oben nach der Aufhebung des Quintenparallelen-Verbotes schränkt der Verfasser seinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="156,293 1598,298 1716,290 1716,251 156,266"/>
+                <Baseline points="165,283 242,283 319,282 396,282 473,282 550,282 627,282 704,282 781,283 858,283 936,283 1013,283 1090,283 1167,283 1244,284 1321,283 1398,283 1475,283 1552,282 1629,282 1707,281"/>
+                <TextEquiv>
+                    <Unicode>„mit Recht” aufgestellten Satz wieder ein, fällt aus seiner Fortschrittsrolle und bringt abermal antiquitirten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:14; length:16;} concept_mus {offset:90; length:14;}">
+                <Coords points="160,340 1714,346 1714,302 1629,290 160,293"/>
+                <Baseline points="169,327 245,327 322,327 399,327 476,327 552,327 629,327 706,328 783,328 859,328 936,328 1013,328 1090,328 1166,328 1243,328 1320,328 1397,328 1473,328 1550,327 1627,327 1704,327"/>
+                <TextEquiv>
+                    <Unicode>Quark aus der Zopfmusiktheorie: „Selbstverständlich gibt die oben angewandte natürlichste Stimmenführung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:22; length:9;} concept_mus {offset:45; length:11;} concept_mus {offset:61; length:12;} m_interval {offset:74; length:10;} concept_mus {offset:90; length:10;}">
+                <Coords points="162,378 1702,388 1702,345 1569,337 162,344"/>
+                <Baseline points="172,371 248,371 324,372 400,372 476,372 552,372 628,373 704,373 780,373 856,373 932,373 1008,373 1084,373 1160,373 1236,373 1312,373 1388,373 1464,373 1540,373 1616,373 1693,373"/>
+                <TextEquiv>
+                    <Unicode>und das Vermeiden der melodisch auftretenden übermäßigen und verminderten Intervalle, der offenbaren und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:0; length:10;} concept_mus {offset:11; length:8;} concept_mus {offset:24; length:17;} concept_mus {offset:56; length:14;} concept_mus {offset:71; length:10;} concept_mus {offset:94; length:11;}">
+                <Coords points="158,429 1705,435 1706,394 158,386"/>
+                <Baseline points="167,418 243,417 319,417 396,417 472,417 549,417 625,417 701,417 778,418 854,418 931,418 1007,418 1083,418 1160,419 1236,419 1313,419 1389,419 1465,419 1542,419 1618,418 1695,418"/>
+                <TextEquiv>
+                    <Unicode>verdeckten Quinten- und Octavenparallelen *), sowie der unharmonischen Querstände einer jeden Accordfolge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} textStyle {offset:12; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:78; length:7;}">
+                <Coords points="158,475 1710,477 1710,433 1625,429 158,432"/>
+                <Baseline points="168,461 244,462 321,462 397,462 474,463 551,463 627,463 704,463 780,464 857,464 934,464 1010,464 1087,464 1163,464 1240,463 1317,463 1393,463 1470,463 1546,462 1623,462 1700,462"/>
+                <TextEquiv>
+                    <Unicode>den meisten äußeren Zusammenhang, wie denn endlich auch wohl zu beachten ist, Accorde von entfernter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_mus {offset:0; length:14;}">
+                <Coords points="158,517 1715,513 1690,474 158,475"/>
+                <Baseline points="167,503 243,504 320,505 397,506 474,506 551,507 628,507 705,508 782,508 859,508 936,508 1012,508 1089,508 1166,507 1243,507 1320,507 1397,507 1474,506 1551,506 1628,506 1705,506"/>
+                <TextEquiv>
+                    <Unicode>Verwandtschaft nicht in zu rascher Bewegung unmittelbar auf einander folgen zu lassen, um dem Ohre Zeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} textStyle {offset:20; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:44; length:10;}">
+                <Coords points="153,563 1707,564 1707,522 1562,514 153,521"/>
+                <Baseline points="163,551 239,552 316,552 393,552 469,552 546,552 623,552 699,552 776,552 853,552 930,552 1006,551 1083,551 1160,551 1236,551 1313,551 1390,551 1466,551 1543,551 1620,551 1697,551"/>
+                <TextEquiv>
+                    <Unicode>zu gönnen, auch den innern Zusammenhang der Harmonieen zu erfassen.” Sollte man nicht meinen, man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614523775700_1299" custom="readingOrder {index:8;} person_author {offset:45; length:15;ID:P0146;}">
+                <Coords points="159,612 1284,594 1195,563 159,565"/>
+                <Baseline points="169,595 222,595 276,595 330,596 383,596 437,596 491,596 544,596 598,596 652,596 706,596 759,596 813,596 867,596 920,596 974,596 1028,596 1081,596 1135,595 1189,595 1243,595 1264,591 1274,588"/>
+                <TextEquiv>
+                    <Unicode>höre aus grauer Zeit herüber den ehrwürdigen Albrechtsberger unterrichten! —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Aehnlich wie oben nach der Aufhebung des Quintenparallelen-Verbotes schränkt der Verfasser seinen&#13;
+„mit Recht” aufgestellten Satz wieder ein, fällt aus seiner Fortschrittsrolle und bringt abermal antiquitirten&#13;
+Quark aus der Zopfmusiktheorie: „Selbstverständlich gibt die oben angewandte natürlichste Stimmenführung&#13;
+und das Vermeiden der melodisch auftretenden übermäßigen und verminderten Intervalle, der offenbaren und&#13;
+verdeckten Quinten- und Octavenparallelen *), sowie der unharmonischen Querstände einer jeden Accordfolge&#13;
+den meisten äußeren Zusammenhang, wie denn endlich auch wohl zu beachten ist, Accorde von entfernter&#13;
+Verwandtschaft nicht in zu rascher Bewegung unmittelbar auf einander folgen zu lassen, um dem Ohre Zeit&#13;
+zu gönnen, auch den innern Zusammenhang der Harmonieen zu erfassen.” Sollte man nicht meinen, man&#13;
+höre aus grauer Zeit herüber den ehrwürdigen Albrechtsberger unterrichten! —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1614770017323_274" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="159,712 1712,712 1712,827 159,827"/>
+            <TextLine id="r1l13" custom="readingOrder {index:0;} textStyle {offset:0; length:3;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="894,819 928,821 952,817 959,822 983,821 987,764 968,762 962,756 951,755 947,751 899,747"/>
+                <Baseline points="904,805 938,807 973,810"/>
+                <TextEquiv>
+                    <Unicode>VI.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VI.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614770017323_273" custom="readingOrder {index:3;}">
+            <Coords points="159,827 1712,827 1712,1065 159,1065"/>
+            <TextLine id="r1l14" custom="readingOrder {index:0;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:9;} concept_phy {offset:0; length:9;} person_author {offset:22; length:9;ID:P0041;} concept_mus {offset:54; length:11;} concept_phy {offset:54; length:11;} concept_mus {offset:85; length:9; continued:true;}">
+                <Coords points="260,884 1570,893 1702,883 1702,841 260,842"/>
+                <Baseline points="269,876 340,875 411,875 482,875 553,875 624,875 695,875 767,875 838,875 909,876 980,876 1051,876 1122,876 1193,876 1265,876 1336,876 1407,876 1478,876 1549,876 1620,875 1692,875"/>
+                <TextEquiv>
+                    <Unicode>Dissonanz, welche vom Verfasser in seiner Abtheilung „Consonanzen” für den Zweck des Harmonie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:1;} concept_mus {offset:0; length:7; continued:true;} textStyle {offset:59; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:59; length:10;} concept_mus {offset:70; length:11;} concept_mus {offset:88; length:9;} concept_phy {offset:88; length:9;}">
+                <Coords points="160,932 1708,931 1708,889 160,888"/>
+                <Baseline points="170,919 246,919 322,919 399,919 475,919 552,920 628,920 704,920 781,920 857,920 934,920 1010,920 1086,920 1163,920 1239,920 1316,920 1392,920 1468,920 1545,920 1621,920 1698,919"/>
+                <TextEquiv>
+                    <Unicode>systems schon hinreichend erklärt war, wird jetzt als die „melodische Verzögerung einer Consonanz” de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:2;} concept_mus {offset:54; length:11;} concept_phy {offset:54; length:11;} textStyle {offset:87; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:87; length:11;} concept_mus {offset:99; length:4; continued:true;}">
+                <Coords points="159,977 1708,977 1653,929 159,932"/>
+                <Baseline points="168,962 244,962 321,962 397,962 474,963 550,963 627,963 703,964 780,964 856,964 933,964 1009,964 1086,965 1162,965 1239,965 1315,965 1392,964 1468,964 1545,964 1621,964 1698,963"/>
+                <TextEquiv>
+                    <Unicode>finirt. Eben so könnte er dann auch beziehlich vieler Consonanzen sagen, sie seien die melodischen Auf¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:3;} concept_mus {offset:0; length:8; continued:true;} concept_mus {offset:13; length:11;} concept_phy {offset:13; length:11;}">
+                <Coords points="155,1019 1660,1029 1707,985 155,977"/>
+                <Baseline points="165,1007 241,1007 318,1007 394,1007 471,1008 547,1008 624,1008 700,1008 777,1008 853,1008 930,1009 1007,1009 1083,1009 1160,1009 1236,1009 1313,1009 1389,1009 1466,1009 1542,1009 1619,1009 1696,1009"/>
+                <TextEquiv>
+                    <Unicode>lösungen der Dissonanzen, was freilich in dem einen, wie in dem andern Falle das eigenthümliche Wesen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:4;} concept_mus {offset:10; length:4;} concept_phy {offset:10; length:4;} concept_mus {offset:25; length:11;} concept_phy {offset:25; length:11;}">
+                <Coords points="155,1058 1141,1067 1193,1061 1194,1023 155,1025"/>
+                <Baseline points="165,1050 218,1050 272,1051 325,1051 379,1051 433,1051 486,1052 540,1052 594,1052 647,1052 701,1053 754,1053 808,1053 862,1053 915,1053 969,1053 1023,1053 1076,1053 1130,1053 1184,1052"/>
+                <TextEquiv>
+                    <Unicode>weder der Con-, noch der Dissonanzen zum richtigen Verständniß führte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dissonanz, welche vom Verfasser in seiner Abtheilung „Consonanzen” für den Zweck des Harmonie¬&#13;
+systems schon hinreichend erklärt war, wird jetzt als die „melodische Verzögerung einer Consonanz” de¬&#13;
+finirt. Eben so könnte er dann auch beziehlich vieler Consonanzen sagen, sie seien die melodischen Auf¬&#13;
+lösungen der Dissonanzen, was freilich in dem einen, wie in dem andern Falle das eigenthümliche Wesen,&#13;
+weder der Con-, noch der Dissonanzen zum richtigen Verständniß führte.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614523653858_1239" custom="readingOrder {index:4;}">
+            <Coords points="159,1065 1712,1065 1712,1377 159,1377"/>
+            <TextLine id="r1l19" custom="readingOrder {index:0;} concept_mus {offset:72; length:26;}">
+                <Coords points="261,1104 1712,1107 1691,1064 261,1066"/>
+                <Baseline points="271,1095 342,1095 414,1096 485,1096 557,1096 628,1096 700,1096 771,1097 843,1097 914,1097 986,1097 1058,1097 1129,1098 1201,1098 1272,1098 1344,1098 1415,1098 1487,1098 1558,1097 1630,1097 1702,1097"/>
+                <TextEquiv>
+                    <Unicode>Mit der oben, Seite 10, erste Anmerk., von uns für die Bereicherung der musikalischen Terminologie als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:1;} textStyle {offset:22; length:18;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:22; length:18;} concept_mus {offset:47; length:9;} concept_phy {offset:47; length:9;} person_author {offset:71; length:9;ID:P0041;} textStyle {offset:95; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:95; length:4; continued:true;}">
+                <Coords points="160,1149 1643,1158 1708,1111 160,1112"/>
+                <Baseline points="170,1138 246,1139 322,1139 399,1140 475,1140 552,1140 628,1141 705,1141 781,1141 858,1142 934,1142 1010,1142 1087,1143 1163,1143 1240,1143 1316,1143 1393,1143 1469,1143 1546,1143 1622,1143 1699,1143"/>
+                <TextEquiv>
+                    <Unicode>werthlos bezeichneten Trugfortschreitung einer Dissonanz kommt nun der Verfasser jetzt bei der har¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:2;} textStyle {offset:0; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:9; continued:true;} concept_mus {offset:10; length:18;} m_interval {offset:83; length:7;}">
+                <Coords points="157,1193 1714,1196 1674,1155 157,1157"/>
+                <Baseline points="167,1184 243,1184 320,1184 397,1185 474,1185 551,1185 628,1185 704,1186 781,1186 858,1187 935,1187 1012,1187 1089,1188 1166,1188 1242,1188 1319,1188 1396,1188 1473,1188 1550,1188 1627,1188 1704,1187"/>
+                <TextEquiv>
+                    <Unicode>monischen Trugfortschreitung nicht selten geradezu in Zwiespalt. So kann z. B. die Septime in unten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:3;} concept_mus {offset:38; length:8;} textStyle {offset:48; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:72; length:6;}">
+                <Coords points="165,1245 1577,1251 1712,1244 1713,1203 165,1195"/>
+                <Baseline points="175,1230 251,1230 327,1229 404,1229 480,1229 556,1229 633,1230 709,1230 785,1230 862,1231 938,1231 1014,1232 1091,1232 1167,1232 1243,1232 1320,1233 1396,1233 1472,1233 1549,1232 1625,1232 1702,1231"/>
+                <TextEquiv>
+                    <Unicode>stehender Fig. 33 sich normal abwärts auflösen, i, oder die beziehliche Stimme schreitet gar nicht fort, sondern es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:4;} concept_mus {offset:23; length:12;} concept_phy {offset:23; length:12;} concept_mus {offset:45; length:13;} concept_mus {offset:71; length:7;} concept_mus {offset:86; length:19;} m_interval {offset:86; length:19;}">
+                <Coords points="165,1288 1707,1291 1719,1245 165,1247"/>
+                <Baseline points="174,1274 250,1273 327,1273 404,1273 481,1273 558,1273 634,1274 711,1274 788,1274 865,1275 942,1275 1018,1276 1095,1276 1172,1276 1249,1276 1326,1276 1402,1276 1479,1276 1556,1276 1633,1275 1710,1274"/>
+                <TextEquiv>
+                    <Unicode>geht der festgehaltene dissonirende Ton beim Fortschreiten der übrigen Stimmen in das Consonanzverhältniß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:5;} textStyle {offset:6; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:52; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:52; length:11;} concept_mus {offset:64; length:20;}">
+                <Coords points="157,1332 1710,1340 1683,1290 157,1288"/>
+                <Baseline points="167,1318 243,1318 320,1318 397,1318 473,1319 550,1319 627,1319 703,1320 780,1320 857,1320 934,1321 1010,1321 1087,1321 1164,1321 1240,1322 1317,1322 1394,1322 1470,1321 1547,1321 1624,1321 1701,1320"/>
+                <TextEquiv>
+                    <Unicode>über, k; und doch haben wir in allen solchen Fällen harmonische Trugfortschreitungen, und in Erwartung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:6;} concept_mus {offset:4; length:12;} textStyle {offset:17; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:17; length:12;}">
+                <Coords points="155,1373 682,1371 682,1338 155,1336"/>
+                <Baseline points="165,1362 190,1362 215,1363 241,1363 266,1363 291,1363 317,1363 342,1363 367,1363 393,1363 418,1363 443,1363 469,1363 494,1363 519,1363 545,1363 570,1364 595,1364 621,1364 646,1365 672,1365"/>
+                <TextEquiv>
+                    <Unicode>von Tonschlüssen Trugcadenzen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mit der oben, Seite 10, erste Anmerk., von uns für die Bereicherung der musikalischen Terminologie als
+werthlos bezeichneten Trugfortschreitung einer Dissonanz kommt nun der Verfasser jetzt bei der har¬
+monischen Trugfortschreitung nicht selten geradezu in Zwiespalt. So kann z. B. die Septime in unten
+stehender Fig. 33 sich normal abwärts auflösen, i, oder die beziehliche Stimme schreitet gar nicht fort, sondern es
+geht der festgehaltene dissonirende Ton beim Fortschreiten der übrigen Stimmen in das Consonanzverhältniß
+über, k; und doch haben wir in allen solchen Fällen harmonische Trugfortschreitungen, und in Erwartung
+von Tonschlüssen Trugcadenzen:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614523688955_1252" custom="readingOrder {index:5;} structure {type:floating;}">
+            <Coords points="159,1377 1712,1377 1712,1625 159,1625"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614523639394_1229" custom="readingOrder {index:6;}">
+            <Coords points="159,1625 1712,1625 1712,1799 159,1799"/>
+            <TextLine id="r1l42" custom="readingOrder {index:0;} concept_mus {offset:70; length:18;}">
+                <Coords points="254,1666 1707,1666 1707,1626 1565,1618 254,1618"/>
+                <Baseline points="263,1653 334,1653 406,1653 478,1653 549,1653 621,1654 693,1654 764,1654 836,1655 908,1655 980,1655 1051,1655 1123,1656 1195,1656 1266,1656 1338,1656 1410,1656 1481,1656 1553,1656 1625,1656 1697,1656"/>
+                <TextEquiv>
+                    <Unicode>Will man nun Mißverständnissen vorbeugen, so muß man die Bezeichnung „Trugfortschreitung” für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:1;} concept_mus {offset:18; length:9;} concept_phy {offset:18; length:9;} concept_mus {offset:43; length:9;} concept_phy {offset:43; length:9;} textStyle {offset:91; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:91; length:10;}">
+                <Coords points="153,1707 1709,1707 1649,1665 153,1666"/>
+                <Baseline points="163,1697 239,1697 316,1697 393,1697 470,1698 547,1698 623,1698 700,1699 777,1699 854,1699 931,1700 1007,1700 1084,1700 1161,1700 1238,1701 1315,1701 1391,1701 1468,1701 1545,1701 1622,1700 1699,1700"/>
+                <TextEquiv>
+                    <Unicode>die Führung einer Dissonanz in eine andere Dissonanz verwerfen, oder durch die Bezeichnung melodische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:2;} textStyle {offset:4; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:4; length:11;} concept_mus {offset:16; length:20;} textStyle {offset:42; length:14;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:42; length:14;} textStyle {offset:65; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:65; length:12;} textStyle {offset:83; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:83; length:4; continued:true;}">
+                <Coords points="149,1757 1706,1749 1641,1714 149,1710"/>
+                <Baseline points="159,1742 235,1742 312,1742 389,1742 466,1743 543,1743 620,1743 697,1743 774,1743 851,1743 928,1744 1004,1744 1081,1744 1158,1744 1235,1744 1312,1744 1389,1745 1466,1745 1543,1745 1620,1745 1697,1745"/>
+                <TextEquiv>
+                    <Unicode>und harmonische Trugfortschreitungen, die Stimmenführung von den Accordfolgen oder Har¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:3;} textStyle {offset:0; length:16;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:16; continued:true;}">
+                <Coords points="154,1798 674,1796 674,1757 155,1761"/>
+                <Baseline points="164,1785 189,1785 214,1785 239,1786 264,1786 289,1786 314,1786 339,1786 364,1786 389,1787 414,1787 439,1787 464,1787 489,1787 514,1787 539,1787 564,1787 589,1787 614,1787 639,1787 664,1787"/>
+                <TextEquiv>
+                    <Unicode>monieenschritten, unterscheiden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Will man nun Mißverständnissen vorbeugen, so muß man die Bezeichnung „Trugfortschreitung” für&#13;
+die Führung einer Dissonanz in eine andere Dissonanz verwerfen, oder durch die Bezeichnung melodische&#13;
+und harmonische Trugfortschreitungen, die Stimmenführung von den Accordfolgen oder Har¬&#13;
+monieenschritten, unterscheiden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614523635338_1225" custom="readingOrder {index:7;}">
+            <Coords points="159,1799 1712,1799 1712,1930 159,1930"/>
+            <TextLine id="r1l46" custom="readingOrder {index:0;} concept_mus {offset:31; length:11;} concept_phy {offset:31; length:11;} person_author {offset:52; length:9;ID:P0041;} concept_mus {offset:67; length:23;}">
+                <Coords points="257,1844 1639,1852 1712,1839 1712,1798 257,1801"/>
+                <Baseline points="267,1830 338,1831 410,1831 482,1831 554,1832 625,1832 697,1832 769,1832 841,1832 912,1833 984,1833 1056,1833 1128,1833 1199,1833 1271,1833 1343,1833 1415,1833 1486,1833 1558,1833 1630,1833 1702,1834"/>
+                <TextEquiv>
+                    <Unicode>In der weiteren Verfolgung der Dissonanzen verfährt Weitzmann, den älteren Harmonielehrern gegen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l47" custom="readingOrder {index:1;} textStyle {offset:30; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:30; length:10;} textStyle {offset:42; length:14;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:42; length:14;} textStyle {offset:58; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:58; length:12;} textStyle {offset:75; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:75; length:8;}">
+                <Coords points="154,1880 1714,1891 1714,1851 1600,1843 154,1842"/>
+                <Baseline points="163,1872 240,1872 317,1873 394,1874 471,1874 548,1875 625,1875 702,1875 779,1876 856,1876 933,1876 1010,1876 1087,1876 1164,1876 1241,1877 1318,1877 1395,1877 1472,1877 1549,1877 1626,1877 1703,1878"/>
+                <TextEquiv>
+                    <Unicode>über, umgekehrt, indem er die Vorschläge, Durchgangstöne, Vorausnahmen und Vorhalte vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l48" custom="readingOrder {index:2;} concept_mus {offset:18; length:13;} concept_phy {offset:18; length:13;} m_chord {offset:32; length:10;} m_chord {offset:51; length:15;}">
+                <Coords points="155,1923 1294,1933 1271,1883 155,1882"/>
+                <Baseline points="164,1913 220,1914 276,1915 332,1915 388,1916 444,1916 500,1917 556,1917 612,1917 668,1918 724,1918 780,1918 836,1918 892,1918 948,1918 1004,1918 1060,1918 1116,1918 1172,1918 1228,1918 1284,1918"/>
+                <TextEquiv>
+                    <Unicode>der Erklärung der dissonirenden Dreiklänge und der Septimenaccorde abhandelt. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In der weiteren Verfolgung der Dissonanzen verfährt Weitzmann, den älteren Harmonielehrern gegen¬&#13;
+über, umgekehrt, indem er die Vorschläge, Durchgangstöne, Vorausnahmen und Vorhalte vor&#13;
+der Erklärung der dissonirenden Dreiklänge und der Septimenaccorde abhandelt. —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614523630003_1221" custom="readingOrder {index:8;}">
+            <Coords points="159,1930 1712,1930 1712,2277 159,2277"/>
+            <TextLine id="r1l49" custom="readingOrder {index:0;} textStyle {offset:19; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:19; length:10;} concept_mus {offset:35; length:10;} concept_mus {offset:46; length:12;} m_note {offset:65; length:11;} textStyle {offset:83; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:83; length:6; continued:true;}">
+                <Coords points="254,1973 1717,1963 1688,1930 254,1931"/>
+                <Baseline points="263,1959 335,1959 407,1960 479,1960 551,1960 624,1960 696,1960 768,1961 840,1961 912,1961 985,1961 1057,1961 1129,1961 1201,1961 1273,1962 1346,1962 1418,1962 1490,1962 1562,1962 1634,1963 1707,1963"/>
+                <TextEquiv>
+                    <Unicode>Die Definitionen: „Vorschläge sind melodische Verzierungen eines Accordtones” und „Durch¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l50" custom="readingOrder {index:1;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:5; continued:true;} concept_mus {offset:18; length:21;} m_note {offset:47; length:4;} m_chord {offset:72; length:8;} concept_mus {offset:100; length:4; continued:true;} concept_phy {offset:100; length:4; continued:true;}">
+                <Coords points="153,2017 1674,2021 1709,1977 153,1977"/>
+                <Baseline points="162,2000 238,2000 315,2001 392,2002 469,2002 546,2003 623,2003 699,2004 776,2004 853,2004 930,2005 1007,2005 1084,2005 1161,2005 1237,2005 1314,2005 1391,2005 1468,2005 1545,2006 1622,2006 1699,2006"/>
+                <TextEquiv>
+                    <Unicode>gänge” bilden die melodische Verbindung zweier Töne eines und desselben Accordes oder verschiedener con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l51" custom="readingOrder {index:2;} concept_mus {offset:0; length:10; continued:true;} concept_phy {offset:0; length:10; continued:true;} concept_mus {offset:16; length:13;} concept_phy {offset:16; length:13;} m_chord {offset:30; length:7;} m_note {offset:86; length:9;}">
+                <Coords points="162,2052 1717,2059 1681,2018 162,2017"/>
+                <Baseline points="171,2044 247,2045 324,2045 401,2046 478,2046 555,2047 631,2047 708,2047 785,2048 862,2048 939,2048 1015,2048 1092,2048 1169,2048 1246,2048 1323,2048 1399,2048 1476,2048 1553,2048 1630,2048 1707,2048"/>
+                <TextEquiv>
+                    <Unicode>sonirender oder dissonirender Accorde”, bezeichnen wohl einigermaßen den Zweck dieser Nebentöne, aber nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l52" custom="readingOrder {index:3;} textStyle {offset:38; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:56; length:10;} textStyle {offset:67; length:20;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:73; length:14;} m_note {offset:88; length:4;}">
+                <Coords points="151,2100 1712,2108 1627,2057 151,2060"/>
+                <Baseline points="160,2085 237,2086 314,2088 391,2089 468,2090 545,2090 622,2091 699,2091 776,2091 853,2092 931,2092 1008,2092 1085,2092 1162,2092 1239,2092 1316,2092 1393,2092 1470,2092 1547,2092 1624,2093 1702,2093"/>
+                <TextEquiv>
+                    <Unicode>die Sache selbst. Die Vorschläge sind in der Regel, die Durchgänge immer harmoniefremde Töne,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l53" custom="readingOrder {index:4;} m_chord {offset:27; length:7;} textStyle {offset:51; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:51; length:11;} textStyle {offset:72; length:17;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:72; length:17;}">
+                <Coords points="155,2139 1717,2148 1676,2105 1495,2099 155,2098"/>
+                <Baseline points="165,2130 242,2130 319,2131 396,2132 473,2132 550,2133 627,2133 705,2134 782,2134 859,2135 936,2135 1013,2135 1090,2135 1167,2135 1245,2135 1322,2135 1399,2135 1476,2135 1553,2135 1630,2135 1708,2135"/>
+                <TextEquiv>
+                    <Unicode>liegen daher außerhalb der Accorde und müssen sich stufenweise, also in Secundenschritten, in ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l54" custom="readingOrder {index:5;} m_note {offset:13; length:9;} concept_mus {offset:49; length:14;} textStyle {offset:68; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:68; length:9;}">
+                <Coords points="160,2187 1708,2186 1694,2147 160,2141"/>
+                <Baseline points="169,2173 245,2174 322,2175 398,2176 475,2176 551,2177 628,2177 704,2177 781,2177 857,2177 934,2177 1010,2177 1087,2177 1163,2177 1240,2177 1316,2178 1393,2178 1469,2178 1546,2179 1622,2179 1699,2180"/>
+                <TextEquiv>
+                    <Unicode>beziehlichen Haupttöne auflösen, welche letztere Stimmenführung mit melodisch nicht identisch ist, da die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l55" custom="readingOrder {index:6;} concept_mus {offset:0; length:7;} concept_mus {offset:12; length:7;} concept_mus {offset:20; length:11;} concept_mus {offset:45; length:11;}">
+                <Coords points="154,2226 1715,2236 1669,2185 154,2185"/>
+                <Baseline points="163,2214 240,2216 317,2217 394,2218 471,2219 548,2220 625,2221 702,2221 779,2221 856,2222 934,2222 1011,2222 1088,2222 1165,2222 1242,2222 1319,2222 1396,2222 1473,2222 1550,2222 1627,2222 1705,2222"/>
+                <TextEquiv>
+                    <Unicode>Melodik die Stimmen stufenweise (gehend) und sprungweise (springend) zu führen lehrt, wie dann auch selbst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l56" custom="readingOrder {index:7;} concept_mus {offset:58; length:19;}">
+                <Coords points="151,2268 1421,2276 1421,2246 1325,2233 152,2226"/>
+                <Baseline points="161,2259 223,2260 286,2261 348,2262 411,2263 473,2264 536,2264 598,2265 661,2265 723,2265 786,2265 849,2265 911,2266 974,2266 1036,2266 1099,2266 1161,2266 1224,2266 1286,2266 1349,2266 1412,2266"/>
+                <TextEquiv>
+                    <Unicode>Vorschläge springend vorkommen, in welchen Fällen sie als Accordbestandtheile erscheinen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Definitionen: „Vorschläge sind melodische Verzierungen eines Accordtones” und „Durch¬&#13;
+gänge” bilden die melodische Verbindung zweier Töne eines und desselben Accordes oder verschiedener con¬&#13;
+sonirender oder dissonirender Accorde”, bezeichnen wohl einigermaßen den Zweck dieser Nebentöne, aber nicht&#13;
+die Sache selbst. Die Vorschläge sind in der Regel, die Durchgänge immer harmoniefremde Töne,&#13;
+liegen daher außerhalb der Accorde und müssen sich stufenweise, also in Secundenschritten, in ihre&#13;
+beziehlichen Haupttöne auflösen, welche letztere Stimmenführung mit melodisch nicht identisch ist, da die&#13;
+Melodik die Stimmen stufenweise (gehend) und sprungweise (springend) zu führen lehrt, wie dann auch selbst&#13;
+Vorschläge springend vorkommen, in welchen Fällen sie als Accordbestandtheile erscheinen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614523621795_1217" custom="readingOrder {index:9;} structure {type:paragraph;}">
+            <Coords points="159,2277 1712,2277 1712,2370 159,2370"/>
+            <TextLine id="r1l57" custom="readingOrder {index:0;} concept_mus {offset:46; length:15;} m_note {offset:62; length:4;}">
+                <Coords points="260,2325 1723,2315 1694,2274 260,2276"/>
+                <Baseline points="269,2306 341,2306 413,2307 485,2307 557,2308 629,2308 701,2309 774,2309 846,2309 918,2310 990,2310 1062,2311 1134,2311 1206,2311 1279,2311 1351,2311 1423,2311 1495,2311 1567,2311 1639,2311 1712,2311"/>
+                <TextEquiv>
+                    <Unicode>Unter mehreren vorgeführten Beispielen dieser harmoniefremden Töne, womit jedoch keineswegs die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614523808850_1381" custom="readingOrder {index:1;}">
+                <Coords points="153,2367 1609,2363 1580,2322 154,2321"/>
+                <Baseline points="164,2351 189,2351 214,2351 240,2352 265,2352 291,2352 316,2352 342,2352 367,2352 393,2352 418,2352 443,2352 469,2352 494,2352 520,2352 545,2352 571,2351 596,2351 622,2351 647,2350 673,2350 699,2354 744,2354 789,2355 834,2355 879,2356 924,2356 969,2356 1014,2356 1059,2356 1104,2357 1149,2357 1194,2357 1239,2357 1284,2357 1329,2357 1374,2357 1419,2357 1464,2357 1509,2357 1554,2357 1600,2357"/>
+                <TextEquiv>
+                    <Unicode>verschiedenen Arten derselben erschöpft werden, befindet sich auch das nachstehende Beispiel in Fig. 34:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Unter mehreren vorgeführten Beispielen dieser harmoniefremden Töne, womit jedoch keineswegs die
+verschiedenen Arten derselben erschöpft werden, befindet sich auch das nachstehende Beispiel in Fig. 34:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614523705101_1259" custom="readingOrder {index:10;} structure {type:floating;}">
+            <Coords points="159,2370 1712,2370 1712,2625 159,2625"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="footnote" id="TextRegion_1614523607748_1209" custom="readingOrder {index:11;} structure {type:footnote;}">
+            <Coords points="159,2625 1712,2625 1712,2762 159,2762"/>
+            <TextLine id="line_1614523819560_1398" custom="readingOrder {index:0;} person_author {offset:7; length:9;ID:P0041;} concept_mus {offset:40; length:8;} concept_mus {offset:53; length:18;}">
+                <Coords points="262,2721 1704,2725 1698,2682 262,2676"/>
+                <Baseline points="271,2702 301,2704 322,2711 348,2711 374,2712 400,2712 426,2712 452,2712 479,2711 505,2711 531,2711 557,2711 583,2711 609,2711 636,2712 662,2712 688,2712 714,2712 740,2713 766,2713 793,2714 812,2713 856,2713 900,2713 944,2713 988,2713 1032,2713 1076,2713 1120,2713 1164,2714 1208,2714 1253,2714 1297,2714 1341,2714 1385,2715 1429,2715 1473,2715 1517,2715 1561,2715 1605,2716 1649,2716 1694,2716"/>
+                <TextEquiv>
+                    <Unicode>*) Dem Verfasser scheinen denn doch die Quinten- und Octaven-Parallelen stark im Fleisch und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l93" custom="readingOrder {index:1;}">
+                <Coords points="306,2757 1570,2764 1534,2721 306,2716"/>
+                <Baseline points="315,2747 377,2748 439,2748 501,2749 564,2749 626,2749 688,2749 751,2749 813,2749 875,2749 938,2749 1000,2749 1062,2749 1124,2749 1187,2750 1249,2750 1311,2750 1374,2750 1436,2751 1498,2751 1561,2752"/>
+                <TextEquiv>
+                    <Unicode>Blut zu sitzen! Er kann sie trotz seiner Aufhebung des alten Gesetzes nicht los werden! —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>*) Dem Verfasser scheinen denn doch die Quinten- und Octaven-Parallelen stark im Fleisch und&#13;
+Blut zu sitzen! Er kann sie trotz seiner Aufhebung des alten Gesetzes nicht los werden! —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

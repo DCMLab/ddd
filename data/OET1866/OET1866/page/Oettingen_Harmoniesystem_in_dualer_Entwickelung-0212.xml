@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-18T14:22:14.566+01:00</Created>
+        <LastChange>2021-09-09T16:13:13.636+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121800" pageNr="203" tsid="64485222" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ZREDNQOUXQVORBFRMFAYSBCF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YZLMTRJQLWZFDZKPOJPHOEEL" imageId="21905170"/>
+    </Metadata>
+    <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0212.jpg" imageWidth="1502" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1631311008576" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1621263543365_4598"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1621263543365_4598" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="165,873 1161,873 1161,1311 165,1311"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} textStyle {offset:0; length:17;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="411,982 933,980 933,947 864,932 841,944 664,932 650,945 411,932"/>
+                <Baseline points="417,973 442,974 468,975 493,975 519,976 544,976 570,976 595,976 621,976 646,976 672,975 697,975 723,975 748,975 774,975 799,975 825,975 850,976 876,976 901,977 927,978"/>
+                <TextEquiv>
+                    <Unicode>Fünfter Abschnitt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} textStyle {offset:0; length:31;fontSize:0.0; kerning:0; bold:true;} m_tonality {offset:4; length:26;}">
+                <Coords points="159,1203 297,1226 641,1194 782,1227 1160,1210 1168,1148 159,1140"/>
+                <Baseline points="165,1198 214,1198 264,1198 314,1197 364,1197 414,1197 463,1197 513,1197 563,1198 613,1198 663,1198 712,1198 762,1199 812,1199 862,1199 912,1200 961,1200 1011,1200 1061,1200 1111,1200 1161,1200"/>
+                <TextEquiv>
+                    <Unicode>Die gemischten Tongeschlechter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fünfter Abschnitt.
+Die gemischten Tongeschlechter.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

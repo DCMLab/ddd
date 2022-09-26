@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-19T15:11:50.110+01:00</Created>
+        <LastChange>2021-08-17T10:25:11.501+02:00</LastChange>
+        <TranskribusMetadata docId="738834" pageId="28121550" pageNr="44" tsid="62683918" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=NUPEBPJXAPRWRODSMDFIKLMQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NMHJBUXJQMWFFVLMSIPCXNKV" imageId="21904920"/>
+    </Metadata>
+    <Page imageFilename="Weitzmann_1860_Harmoniesystem-0044.jpg" imageWidth="1363" imageHeight="2168" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630573944597" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614094282224_3210"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1614094279993_3205"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614094277402_3199"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1614094271783_3195"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1614094264791_3187"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614094282224_3210" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="172,215 1170,215 1170,261 172,261"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="633,237 642,238 647,243 656,241 689,243 701,239 711,240 712,215 705,214 695,204 635,205"/>
+                <Baseline points="640,235 672,236 704,239"/>
+                <TextEquiv>
+                    <Unicode>29</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>29</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614094300882_3214" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="172,261 1170,261 1170,550 172,550"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614094279993_3205" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="172,550 1170,550 1170,814 172,814"/>
+            <TextLine id="r1l9" custom="readingOrder {index:0;} m_chord {offset:43; length:18; continued:true;}">
+                <Coords points="173,603 1166,602 1166,566 1088,556 173,561"/>
+                <Baseline points="179,592 228,591 277,591 326,590 375,590 424,590 473,590 522,590 571,591 620,591 669,592 718,592 767,592 816,593 865,593 914,593 963,593 1012,593 1061,593 1110,592 1160,591"/>
+                <TextEquiv>
+                    <Unicode>Hierdurch nun wird bei 1 ein vollständiger Terzquintseptimen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:1;} m_chord {offset:0; length:6; continued:true;} concept_mus {offset:30; length:18;}">
+                <Coords points="171,643 996,651 1168,642 1168,604 171,605"/>
+                <Baseline points="177,633 226,633 275,633 324,633 373,633 423,633 472,633 521,634 570,634 619,634 669,635 718,635 767,635 816,635 865,635 915,635 964,635 1013,635 1062,634 1111,634 1161,633"/>
+                <TextEquiv>
+                    <Unicode>Accord, bei 2 derselbe in der Terzquartsext-Lage, bei 4 ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:2;} m_chord {offset:8; length:14;} concept_mus {offset:30; length:10;}">
+                <Coords points="177,683 1168,688 1168,652 1117,644 177,652"/>
+                <Baseline points="184,674 232,674 281,674 330,674 379,674 428,674 477,674 526,675 575,675 624,675 673,676 721,676 770,677 819,677 868,677 917,677 966,678 1015,678 1064,677 1113,677 1162,677"/>
+                <TextEquiv>
+                    <Unicode>anderer Septimenaccord in der Secundlage hervorgerufen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:3;}">
+                <Coords points="172,726 1168,738 1153,683 172,691"/>
+                <Baseline points="178,716 227,717 276,717 325,718 374,718 424,718 473,719 522,719 571,719 620,719 670,720 719,720 768,720 817,720 866,720 916,720 965,720 1014,720 1063,719 1112,719 1162,719"/>
+                <TextEquiv>
+                    <Unicode>und beide finden zugleich eine natürliche, wenn auch bisher noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:4;} concept_mus {offset:28; length:9;} concept_mus {offset:55; length:6; continued:true;} concept_phy {offset:55; length:6; continued:true;}">
+                <Coords points="180,771 1170,765 1134,725 180,732"/>
+                <Baseline points="186,759 234,759 283,760 332,760 381,760 430,761 479,761 527,761 576,761 625,762 674,762 723,762 772,762 821,762 869,762 918,762 967,762 1016,762 1065,761 1114,761 1163,761"/>
+                <TextEquiv>
+                    <Unicode>nicht beachtete regelmäßige Auflösung in den folgenden conso¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614094277434_3203" custom="readingOrder {index:5;} concept_mus {offset:0; length:8; continued:true;} concept_phy {offset:0; length:8; continued:true;} m_chord {offset:9; length:9;}">
+                <Coords points="174,810 487,807 487,779 438,780 427,771 396,770 384,780 331,771 315,783 270,772 215,780 201,769 174,779"/>
+                <Baseline points="181,802 206,802 231,803 256,803 281,803 306,802 331,802 356,802 381,802 406,802 431,803 456,804 481,806"/>
+                <TextEquiv>
+                    <Unicode>nirenden Dreiklang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hierdurch nun wird bei 1 ein vollständiger Terzquintseptimen-&#13;
+Accord, bei 2 derselbe in der Terzquartsext-Lage, bei 4 ein&#13;
+anderer Septimenaccord in der Secundlage hervorgerufen,&#13;
+und beide finden zugleich eine natürliche, wenn auch bisher noch&#13;
+nicht beachtete regelmäßige Auflösung in den folgenden conso¬&#13;
+nirenden Dreiklang.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614094277402_3199" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
+            <Coords points="172,814 1170,814 1170,1219 172,1219"/>
+            <TextLine id="r1l15" custom="readingOrder {index:0;} textStyle {offset:43; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="262,857 1174,860 1174,817 1128,812 262,812"/>
+                <Baseline points="269,845 313,845 358,845 403,846 448,846 493,846 538,846 583,846 628,846 673,846 718,846 762,847 807,847 852,847 897,846 942,846 987,846 1032,846 1077,846 1122,845 1167,845"/>
+                <TextEquiv>
+                    <Unicode>Haben wir in den vorhergehenden Beispielen einen der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:1;} m_note {offset:0; length:4;} m_chord {offset:11; length:11;} concept_mus {offset:48; length:8;} concept_mus {offset:57; length:4; continued:true;}">
+                <Coords points="174,896 1166,899 1166,860 1059,851 174,851"/>
+                <Baseline points="180,886 229,886 278,886 327,886 376,886 425,887 474,887 523,888 572,888 621,889 670,889 719,889 768,890 817,890 866,890 915,890 964,889 1013,889 1062,888 1111,887 1160,886"/>
+                <TextEquiv>
+                    <Unicode>Töne eines Dreiklanges durch zwei gleichzeitige Vorhalte ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:2;} concept_mus {offset:0; length:6; continued:true;} m_note {offset:41; length:8;}">
+                <Coords points="173,948 1071,946 1166,939 1166,906 173,908"/>
+                <Baseline points="180,931 229,931 278,931 327,930 376,930 425,930 474,930 523,931 572,931 621,931 670,931 719,931 768,931 817,931 866,931 915,932 964,932 1013,931 1062,931 1111,931 1160,931"/>
+                <TextEquiv>
+                    <Unicode>zögert, so können wir nun auch z. B. den Grundton durch einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:3;} concept_mus {offset:0; length:7;} m_interval {offset:23; length:5;}">
+                <Coords points="172,979 1172,980 1172,947 1126,940 172,947"/>
+                <Baseline points="179,970 228,971 277,971 327,972 376,972 425,973 475,973 524,973 573,974 623,974 672,974 721,974 771,974 820,974 869,974 919,973 968,973 1017,973 1067,973 1116,973 1166,973"/>
+                <TextEquiv>
+                    <Unicode>Vorhalt von unten, die Terze aber durch einen von oben, oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:4;} m_note {offset:22; length:4;}">
+                <Coords points="175,1025 1166,1027 1166,988 1125,979 175,989"/>
+                <Baseline points="181,1015 229,1015 278,1015 327,1015 376,1016 425,1016 474,1016 523,1016 572,1016 621,1016 670,1017 718,1017 767,1017 816,1017 865,1017 914,1016 963,1016 1012,1016 1061,1016 1110,1015 1159,1015"/>
+                <TextEquiv>
+                    <Unicode>umgekehrt, oder beide Töne gleichzeitig von unten und oben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:5;} concept_mus {offset:21; length:8;} m_interval {offset:53; length:5;}">
+                <Coords points="171,1061 1166,1074 1166,1029 1099,1019 441,1020 360,1051 171,1028"/>
+                <Baseline points="177,1057 226,1057 275,1057 324,1058 373,1058 422,1058 471,1058 521,1058 570,1058 619,1058 668,1058 717,1058 766,1058 815,1058 865,1058 914,1058 963,1058 1012,1058 1061,1058 1110,1058 1160,1058"/>
+                <TextEquiv>
+                    <Unicode>verzögern. Dieselben Vorhalte könnten ebenso bei der Terze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:6;} m_interval {offset:4; length:6;} m_note {offset:37; length:5;} m_chord {offset:47; length:8;}">
+                <Coords points="180,1107 1163,1107 1173,1075 180,1076"/>
+                <Baseline points="186,1099 235,1099 284,1100 333,1101 382,1101 431,1101 480,1101 529,1102 578,1102 627,1102 676,1101 725,1101 774,1101 823,1101 872,1101 921,1100 970,1100 1019,1100 1068,1099 1117,1099 1166,1099"/>
+                <TextEquiv>
+                    <Unicode>und Quinte, oder auch bei allen drei Tönen des Accordes in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:7;}">
+                <Coords points="167,1144 1172,1154 1172,1116 1095,1108 167,1108"/>
+                <Baseline points="173,1142 222,1143 272,1143 321,1143 371,1144 421,1144 470,1144 520,1144 569,1144 619,1144 669,1144 718,1144 768,1144 817,1143 867,1143 917,1143 966,1143 1016,1143 1065,1143 1115,1143 1165,1144"/>
+                <TextEquiv>
+                    <Unicode>Anwendung gebracht werden, wobei denn unter vielen anderen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:8;} concept_mus {offset:19; length:17;}">
+                <Coords points="168,1194 1072,1203 1174,1194 1174,1157 168,1163"/>
+                <Baseline points="174,1185 223,1186 273,1186 323,1186 372,1186 422,1186 472,1186 521,1186 571,1187 621,1187 671,1187 720,1187 770,1186 820,1186 869,1186 919,1186 969,1186 1018,1186 1068,1186 1118,1186 1168,1186"/>
+                <TextEquiv>
+                    <Unicode>auch die folgenden Vorhaltsbildungen ihre Entstehung finden:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Haben wir in den vorhergehenden Beispielen einen der&#13;
+Töne eines Dreiklanges durch zwei gleichzeitige Vorhalte ver¬&#13;
+zögert, so können wir nun auch z. B. den Grundton durch einen&#13;
+Vorhalt von unten, die Terze aber durch einen von oben, oder&#13;
+umgekehrt, oder beide Töne gleichzeitig von unten und oben&#13;
+verzögern. Dieselben Vorhalte könnten ebenso bei der Terze&#13;
+und Quinte, oder auch bei allen drei Tönen des Accordes in&#13;
+Anwendung gebracht werden, wobei denn unter vielen anderen&#13;
+auch die folgenden Vorhaltsbildungen ihre Entstehung finden:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="caption" id="TextRegion_1614094271783_3195" custom="readingOrder {index:4;} structure {type:caption;}">
+            <Coords points="172,1219 1170,1219 1170,1337 172,1337"/>
+            <TextLine id="r1l24" custom="readingOrder {index:0;} concept_mus {offset:0; length:15;} concept_mus {offset:22; length:8;}">
+                <Coords points="420,1327 920,1332 920,1299 887,1283 686,1284 653,1297 420,1288"/>
+                <Baseline points="426,1321 451,1321 477,1322 503,1322 528,1322 554,1322 580,1322 605,1322 631,1321 657,1321 682,1321 708,1321 734,1321 759,1321 785,1321 811,1321 836,1322 862,1322 888,1323 914,1323"/>
+                <TextEquiv>
+                    <Unicode>Accordbildungen durch Vorhalte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Accordbildungen durch Vorhalte.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614094326306_3224" custom="readingOrder {index:5;} structure {type:floating;}">
+            <Coords points="172,1337 1170,1337 1170,1684 172,1684"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614094264791_3187" custom="readingOrder {index:6;} structure {type:paragraph-continued;}">
+            <Coords points="172,1684 1170,1684 1170,1921 172,1921"/>
+            <TextLine id="r1l63" custom="readingOrder {index:0;} m_note {offset:17; length:8;} m_chord {offset:30; length:17;}">
+                <Coords points="169,1723 1176,1731 1176,1691 1135,1685 169,1685"/>
+                <Baseline points="175,1720 224,1720 274,1720 324,1720 374,1721 423,1721 473,1721 523,1721 573,1721 622,1721 672,1722 722,1722 772,1722 821,1721 871,1721 921,1721 971,1721 1020,1721 1070,1720 1120,1720 1170,1719"/>
+                <TextEquiv>
+                    <Unicode>Bei 1 erhält der Grundton des C dur-Dreiklanges von oben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l64" custom="readingOrder {index:1;} m_interval {offset:15; length:5;} m_interval {offset:38; length:6;}">
+                <Coords points="167,1768 1174,1771 1174,1730 167,1740"/>
+                <Baseline points="173,1763 222,1763 272,1763 322,1764 372,1764 421,1764 471,1764 521,1764 571,1764 620,1764 670,1764 720,1764 770,1764 819,1764 869,1764 919,1763 969,1763 1018,1763 1068,1763 1118,1763 1168,1763"/>
+                <TextEquiv>
+                    <Unicode>und unten, die Terze von oben und die Quinte von unten einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l65" custom="readingOrder {index:2;} concept_mus {offset:0; length:7;} concept_mus {offset:53; length:6; continued:true;} concept_phy {offset:53; length:6; continued:true;}">
+                <Coords points="175,1818 1166,1810 1143,1772 175,1771"/>
+                <Baseline points="181,1805 229,1805 278,1805 327,1806 376,1806 425,1806 474,1806 523,1806 572,1807 621,1807 670,1807 718,1807 767,1807 816,1807 865,1807 914,1806 963,1806 1012,1805 1061,1804 1110,1804 1159,1802"/>
+                <TextEquiv>
+                    <Unicode>Vorhalt, wodurch das Auftreten und Fortschreiten des disso¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l66" custom="readingOrder {index:3;} concept_mus {offset:0; length:8; continued:true;} concept_phy {offset:0; length:8; continued:true;} m_chord {offset:9; length:24;} textStyle {offset:22; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:41; length:12;}">
+                <Coords points="175,1857 1166,1859 1176,1813 175,1820"/>
+                <Baseline points="181,1847 230,1847 279,1847 329,1847 378,1848 428,1848 477,1848 527,1848 576,1848 626,1849 675,1849 724,1849 774,1849 823,1849 873,1849 922,1849 972,1849 1021,1849 1071,1848 1120,1848 1170,1847"/>
+                <TextEquiv>
+                    <Unicode>nirenden verminderten Dreiklanges in der C dur-Tonart</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l67" custom="readingOrder {index:4;}">
+                <Coords points="166,1905 1037,1907 1172,1898 1172,1858 166,1867"/>
+                <Baseline points="172,1892 221,1892 271,1892 321,1892 370,1892 420,1893 470,1893 519,1893 569,1893 619,1893 669,1893 718,1892 768,1892 818,1892 867,1892 917,1892 967,1892 1016,1891 1066,1891 1116,1891 1166,1890"/>
+                <TextEquiv>
+                    <Unicode>seine Rechtfertigung und Erklärung findet; bei 2 erscheint nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bei 1 erhält der Grundton des C dur-Dreiklanges von oben&#13;
+und unten, die Terze von oben und die Quinte von unten einen&#13;
+Vorhalt, wodurch das Auftreten und Fortschreiten des disso¬&#13;
+nirenden verminderten Dreiklanges in der C dur-Tonart&#13;
+seine Rechtfertigung und Erklärung findet; bei 2 erscheint nur</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:37.389+01:00</Created>
+        <LastChange>2021-09-02T14:34:42.494+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28719059" pageNr="189" tsid="63991313" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=KVLDOCPBHPIKMJQNWXPYUBGC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IHRLYUTJCTLUTKQYJCACMPLP" imageId="22439564"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0198.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630597178594" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612637426795_3840"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612637449477_3849"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612637449476_3848"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612637426795_3840" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="188,273 1245,273 1245,325 188,325"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="678,303 684,303 690,308 707,305 734,308 761,306 762,269 754,269 745,260 737,259 733,263 720,260 713,266 679,268"/>
+                <Baseline points="685,298 720,300 755,300"/>
+                <TextEquiv>
+                    <Unicode>179</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>179</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612637449477_3849" custom="readingOrder {index:1;}">
+            <Coords points="188,325 1245,325 1245,1136 188,1136"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:0; length:10;} m_tonality {offset:11; length:8;}">
+                <Coords points="196,403 1239,404 1239,348 196,360"/>
+                <Baseline points="202,387 253,388 305,389 356,389 408,389 459,390 511,390 562,390 614,390 665,390 717,390 768,390 820,390 871,390 923,390 974,390 1026,390 1077,390 1129,390 1180,390 1232,390"/>
+                <TextEquiv>
+                    <Unicode>verwandter Tonarten, welche zu der letzten geführt hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_note {offset:17; length:4;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:22; length:1;} textStyle {offset:25; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:25; length:1;} textStyle {offset:28; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:28; length:1;} m_tonality {offset:35; length:12;}">
+                <Coords points="186,451 1241,449 1217,411 186,412"/>
+                <Baseline points="192,441 244,441 296,442 348,442 400,442 452,442 504,443 556,443 608,443 660,443 713,443 765,443 817,442 869,442 921,442 973,442 1025,442 1077,442 1129,442 1181,442 1234,442"/>
+                <TextEquiv>
+                    <Unicode>Es sind aber die Töne c, g, d, der Es-Durtonart nicht mehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_tonality {offset:22; length:11;} textStyle {offset:35; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:35; length:1;} textStyle {offset:38; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:38; length:1;} textStyle {offset:41; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:41; length:1;}">
+                <Coords points="188,507 1242,516 1220,459 188,461"/>
+                <Baseline points="195,494 247,494 299,494 351,494 403,494 455,494 507,494 559,494 611,494 663,494 715,494 767,494 819,494 871,494 923,494 975,494 1027,494 1079,494 1131,494 1183,495 1236,495"/>
+                <TextEquiv>
+                    <Unicode>die gleichnamigen der C-Durtonart: C, G, D; ebensowenig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} m_tonality {offset:13; length:11;} textStyle {offset:25; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:25; length:1;} textStyle {offset:28; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:28; length:1;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:31; length:1;}">
+                <Coords points="184,555 1009,563 1251,555 1251,522 184,525"/>
+                <Baseline points="191,546 243,546 296,546 348,546 401,546 454,546 506,546 559,546 612,546 664,546 717,546 770,546 822,547 875,547 928,547 980,547 1033,547 1086,547 1138,547 1191,547 1244,546"/>
+                <TextEquiv>
+                    <Unicode>sind die der A-Durtonart A, E, H, entsprechend den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} textStyle {offset:21; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:21; length:1;} textStyle {offset:24; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:24; length:1;} textStyle {offset:27; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:27; length:1;} m_tonality {offset:42; length:3;} m_tonality {offset:50; length:6; continued:true;}">
+                <Coords points="188,619 1234,607 1234,575 1176,564 188,570"/>
+                <Baseline points="195,599 246,599 298,599 349,599 401,599 453,599 504,599 556,599 608,599 659,599 711,599 763,599 814,599 866,599 918,598 969,598 1021,598 1073,598 1124,598 1176,598 1228,598"/>
+                <TextEquiv>
+                    <Unicode>gleichnamigen jener: a, e, h. Dass in der Es- und C-Dur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} m_tonality {offset:0; length:6; continued:true;} m_note {offset:11; length:3;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:15; length:1;} m_interval {offset:22; length:17;}">
+                <Coords points="184,657 1246,659 1246,611 184,621"/>
+                <Baseline points="191,651 243,651 295,651 348,651 400,651 453,651 505,651 558,651 610,651 663,651 715,651 767,651 820,651 872,651 925,651 977,651 1030,651 1082,651 1135,651 1187,651 1240,651"/>
+                <TextEquiv>
+                    <Unicode>tonart der Ton F, als Oberdominantquint der ersteren und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} m_note {offset:0; length:21;}">
+                <Coords points="193,714 1231,713 1214,668 193,668"/>
+                <Baseline points="199,701 250,702 301,702 352,702 404,703 455,703 506,703 558,703 609,703 660,703 712,703 763,703 814,703 865,703 917,703 968,703 1019,703 1071,703 1122,703 1173,703 1225,703"/>
+                <TextEquiv>
+                    <Unicode>Unterdominantgrundton der letzteren, beiden gemeinschaft¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} m_note {offset:21; length:3;} textStyle {offset:25; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:25; length:1;} m_interval {offset:28; length:17;} m_tonality {offset:50; length:6; continued:true;}">
+                <Coords points="190,763 1236,758 1184,723 190,724"/>
+                <Baseline points="197,753 248,754 300,754 351,754 403,754 455,755 506,755 558,755 610,755 661,755 713,755 765,755 816,755 868,755 920,755 971,755 1023,755 1075,755 1126,755 1178,755 1230,755"/>
+                <TextEquiv>
+                    <Unicode>lich ist, ebenso der Ton D, Oberdominantquint der C-Dur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} m_tonality {offset:0; length:6; continued:true;} m_note {offset:12; length:21;} m_tonality {offset:38; length:11;}">
+                <Coords points="185,811 1245,818 1245,780 1206,772 185,779"/>
+                <Baseline points="192,805 244,806 296,806 348,806 401,806 453,806 505,806 558,807 610,807 662,807 715,807 767,807 819,807 871,807 924,807 976,807 1028,807 1081,808 1133,808 1185,808 1238,808"/>
+                <TextEquiv>
+                    <Unicode>tonart, als Unterdominantgrundton der A-Durtonart beiden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;} concept_mus {offset:37; length:20;}">
+                <Coords points="195,875 1249,870 1249,830 195,836"/>
+                <Baseline points="202,859 254,859 306,859 358,859 410,859 462,859 514,859 566,859 618,859 670,859 722,859 774,859 826,859 878,859 930,859 982,859 1034,860 1086,860 1138,860 1190,861 1242,861"/>
+                <TextEquiv>
+                    <Unicode>gemeinschaftlich angehört, kann eine Tonartverwandtschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;} m_tonality {offset:30; length:6;} concept_mus {offset:47; length:11; continued:true;}">
+                <Coords points="194,923 1238,914 1142,876 194,884"/>
+                <Baseline points="201,911 252,910 304,910 355,910 407,910 458,910 510,910 561,911 613,911 664,911 716,911 767,911 819,911 870,912 922,912 973,912 1025,912 1076,912 1128,912 1179,911 1231,911"/>
+                <TextEquiv>
+                    <Unicode>nicht begründen, denn für die Tonart, als eine Dreiklangs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;} concept_mus {offset:0; length:10; continued:true;} m_chord {offset:30; length:9;}">
+                <Coords points="194,970 961,980 1224,972 1238,947 194,940"/>
+                <Baseline points="201,958 252,959 304,960 355,961 407,962 458,963 510,963 561,963 613,964 664,964 716,964 767,963 819,963 870,963 922,963 973,963 1025,963 1076,963 1128,964 1179,964 1231,965"/>
+                <TextEquiv>
+                    <Unicode>verbindung, kann eben nur der Dreiklang, nicht der ein¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;} m_note {offset:6; length:3;} concept_mus {offset:26; length:21;}">
+                <Coords points="192,1027 1238,1026 1206,980 192,987"/>
+                <Baseline points="199,1014 250,1014 302,1014 353,1014 405,1014 457,1015 508,1015 560,1015 612,1015 663,1015 715,1015 767,1015 818,1015 870,1015 922,1015 973,1015 1025,1015 1077,1015 1128,1016 1180,1016 1232,1017"/>
+                <TextEquiv>
+                    <Unicode>zelne Ton ein organisches Verwandtschaftsmoment sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;} m_note {offset:13; length:3;} m_interval {offset:36; length:9;}">
+                <Coords points="192,1075 1239,1074 1208,1036 192,1035"/>
+                <Baseline points="198,1065 249,1066 301,1066 353,1066 405,1067 456,1067 508,1067 560,1067 612,1067 663,1067 715,1067 767,1067 819,1067 870,1067 922,1067 974,1067 1026,1067 1077,1067 1129,1068 1181,1068 1233,1068"/>
+                <TextEquiv>
+                    <Unicode>Der einzelne Ton ist es nur für das Intervall, wie es das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;} m_interval {offset:0; length:9;} m_chord {offset:18; length:6;}">
+                <Coords points="189,1131 682,1131 682,1094 640,1084 524,1095 504,1084 488,1100 446,1084 417,1099 375,1084 189,1085"/>
+                <Baseline points="196,1117 221,1118 246,1118 271,1118 296,1118 322,1119 347,1119 372,1119 397,1119 422,1119 448,1119 473,1119 498,1119 523,1119 548,1119 574,1119 599,1119 624,1119 649,1119 675,1120"/>
+                <TextEquiv>
+                    <Unicode>Intervall für den Accord ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>verwandter Tonarten, welche zu der letzten geführt hat.&#13;
+Es sind aber die Töne c, g, d, der Es-Durtonart nicht mehr&#13;
+die gleichnamigen der C-Durtonart: C, G, D; ebensowenig&#13;
+sind die der A-Durtonart A, E, H, entsprechend den&#13;
+gleichnamigen jener: a, e, h. Dass in der Es- und C-Dur¬&#13;
+tonart der Ton F, als Oberdominantquint der ersteren und&#13;
+Unterdominantgrundton der letzteren, beiden gemeinschaft¬&#13;
+lich ist, ebenso der Ton D, Oberdominantquint der C-Dur¬&#13;
+tonart, als Unterdominantgrundton der A-Durtonart beiden&#13;
+gemeinschaftlich angehört, kann eine Tonartverwandtschaft&#13;
+nicht begründen, denn für die Tonart, als eine Dreiklangs¬&#13;
+verbindung, kann eben nur der Dreiklang, nicht der ein¬&#13;
+zelne Ton ein organisches Verwandtschaftsmoment sein.&#13;
+Der einzelne Ton ist es nur für das Intervall, wie es das&#13;
+Intervall für den Accord ist.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612637449476_3848" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
+            <Coords points="188,1136 1245,1136 1245,2130 188,2130"/>
+            <TextLine id="r1l17" custom="readingOrder {index:0;} concept_mus {offset:35; length:14;}">
+                <Coords points="270,1179 1245,1179 1221,1140 270,1140"/>
+                <Baseline points="277,1170 325,1170 373,1171 421,1171 469,1171 517,1172 565,1172 613,1172 661,1172 709,1172 757,1171 805,1171 853,1171 901,1171 949,1171 997,1171 1045,1171 1093,1172 1141,1172 1189,1172 1238,1173"/>
+                <TextEquiv>
+                    <Unicode>268. Nach dieser Forderung innerer Verwandtschaft:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:1;} m_note {offset:23; length:4;}">
+                <Coords points="194,1235 1249,1235 1249,1204 1159,1188 194,1189"/>
+                <Baseline points="200,1222 252,1223 304,1223 356,1223 408,1223 460,1224 512,1224 564,1224 616,1224 668,1224 721,1224 773,1224 825,1224 877,1224 929,1224 981,1224 1033,1225 1085,1225 1137,1225 1189,1225 1242,1225"/>
+                <TextEquiv>
+                    <Unicode>dass die gleichnamigen Töne in den beiden verschiedenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:2;} m_tonality {offset:0; length:8;} concept_mus {offset:42; length:13; continued:true;}">
+                <Coords points="194,1284 1233,1287 1225,1244 194,1245"/>
+                <Baseline points="200,1275 251,1275 302,1275 353,1276 405,1276 456,1276 507,1276 559,1276 610,1276 661,1277 713,1277 764,1277 815,1277 866,1277 918,1277 969,1277 1020,1277 1072,1277 1123,1277 1174,1277 1226,1277"/>
+                <TextEquiv>
+                    <Unicode>Tonarten dieselben seien in umgewandelter Accordbedeut¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:3;} concept_mus {offset:0; length:3; continued:true;} concept_mus {offset:26; length:20;}">
+                <Coords points="195,1339 1056,1347 1244,1338 1244,1305 195,1307"/>
+                <Baseline points="202,1328 253,1328 305,1329 357,1329 409,1329 461,1329 512,1329 564,1329 616,1329 668,1329 720,1329 771,1329 823,1329 875,1329 927,1329 979,1329 1030,1329 1082,1329 1134,1329 1186,1330 1238,1330"/>
+                <TextEquiv>
+                    <Unicode>ung, würde aber durch die Dreiklangsverkettung nur in die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:4;} m_tonality {offset:15; length:6;}">
+                <Coords points="195,1396 1220,1396 1251,1354 195,1356"/>
+                <Baseline points="202,1380 254,1380 306,1380 358,1380 410,1381 462,1381 514,1381 566,1381 618,1381 670,1381 723,1381 775,1382 827,1382 879,1382 931,1382 983,1382 1035,1382 1087,1382 1139,1381 1191,1381 1244,1381"/>
+                <TextEquiv>
+                    <Unicode>nächstliegende Tonart zu gelangen sein, d. i. nach der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:5;} m_tonality {offset:0; length:6;} m_tonality {offset:11; length:18;}">
+                <Coords points="188,1441 1245,1441 1203,1396 188,1397"/>
+                <Baseline points="195,1429 247,1430 299,1431 351,1432 403,1432 455,1433 507,1433 560,1433 612,1433 664,1433 716,1433 768,1434 820,1434 872,1434 925,1434 977,1434 1029,1434 1081,1434 1133,1434 1185,1434 1238,1435"/>
+                <TextEquiv>
+                    <Unicode>Unter- und Oberdominanttonart. Wenn auch hier schon die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:6;} m_interval {offset:0; length:17;} textStyle {offset:19; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:19; length:1;} m_tonality {offset:26; length:18;}">
+                <Coords points="192,1493 1246,1497 1246,1460 1207,1452 192,1452"/>
+                <Baseline points="199,1483 251,1484 303,1484 355,1485 407,1485 459,1486 511,1486 563,1486 615,1486 667,1486 719,1486 771,1486 823,1486 875,1486 927,1486 979,1485 1031,1485 1083,1485 1135,1485 1187,1486 1239,1486"/>
+                <TextEquiv>
+                    <Unicode>Oberdominantquint (A) der Oberdominanttonart verschieden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:7;} m_interval {offset:8; length:17;} textStyle {offset:27; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:27; length:1;} m_tonality {offset:34; length:14;}">
+                <Coords points="190,1546 1242,1546 1242,1517 1152,1506 190,1514"/>
+                <Baseline points="197,1536 248,1537 300,1537 352,1537 404,1537 456,1538 508,1538 560,1538 612,1538 664,1538 716,1538 767,1538 819,1538 871,1538 923,1538 975,1538 1027,1538 1079,1538 1131,1538 1183,1538 1235,1539"/>
+                <TextEquiv>
+                    <Unicode>von der Unterdominantterz (a) der Ausgangstonart, ebenso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:8;} m_interval {offset:4; length:17;} textStyle {offset:23; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:23; length:1;} m_tonality {offset:30; length:19;}">
+                <Coords points="195,1604 1236,1596 1224,1563 1010,1555 195,1560"/>
+                <Baseline points="202,1588 253,1588 304,1589 356,1589 407,1589 458,1589 510,1590 561,1590 612,1590 664,1590 715,1590 766,1590 818,1590 869,1590 920,1590 972,1590 1023,1590 1074,1590 1126,1590 1177,1590 1229,1591"/>
+                <TextEquiv>
+                    <Unicode>die Unterdominantterz (d) der Unterdominanttonart, ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:9;} m_interval {offset:17; length:17;} textStyle {offset:36; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:36; length:1;} m_tonality {offset:43; length:14;}">
+                <Coords points="192,1651 1252,1651 1239,1613 999,1603 192,1618"/>
+                <Baseline points="198,1639 250,1640 302,1641 355,1641 407,1642 459,1642 512,1642 564,1642 616,1642 669,1642 721,1642 773,1641 826,1641 878,1641 930,1641 983,1641 1035,1642 1087,1642 1140,1643 1192,1644 1245,1645"/>
+                <TextEquiv>
+                    <Unicode>schieden von der Oberdominantquint (D) der Ausgangstonart</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:10;}">
+                <Coords points="193,1708 1235,1708 1243,1659 193,1668"/>
+                <Baseline points="200,1693 251,1693 303,1694 355,1694 407,1694 459,1694 511,1694 562,1694 614,1694 666,1694 718,1693 770,1693 822,1693 874,1693 925,1693 977,1693 1029,1694 1081,1694 1133,1695 1185,1696 1237,1697"/>
+                <TextEquiv>
+                    <Unicode>sich zeigt, so kann die Forderung der Identität sich auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:11;} m_note {offset:6; length:4;}">
+                <Coords points="192,1755 1245,1756 1245,1723 1102,1715 192,1714"/>
+                <Baseline points="199,1744 253,1745 308,1746 363,1746 417,1746 472,1747 527,1747 581,1747 636,1747 691,1746 745,1746 800,1746 855,1746 909,1746 964,1746 1019,1746 1073,1746 1128,1747 1183,1747 1238,1748"/>
+                <TextEquiv>
+                    <Unicode>diese Töne nicht erstrecken, da sie hier aus einer neu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:12;} concept_mus {offset:13; length:15;} m_note {offset:46; length:4;} textStyle {offset:51; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:51; length:1;}">
+                <Coords points="194,1810 1244,1811 1244,1772 1144,1764 194,1771"/>
+                <Baseline points="200,1796 251,1797 303,1798 355,1798 407,1799 459,1799 511,1799 562,1799 614,1799 666,1799 718,1798 770,1798 822,1798 874,1798 925,1798 977,1798 1029,1798 1081,1798 1133,1799 1185,1799 1237,1800"/>
+                <TextEquiv>
+                    <Unicode>eintretenden Quintbestimmung hervorgehen. Die Töne a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:13;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:4; length:1;} concept_mus {offset:9; length:7;} m_tonality {offset:21; length:11;}">
+                <Coords points="193,1859 1246,1859 1246,1827 193,1828"/>
+                <Baseline points="200,1848 254,1849 309,1850 364,1850 418,1851 473,1851 528,1851 582,1851 637,1851 692,1851 746,1851 801,1851 856,1850 910,1850 965,1850 1020,1850 1074,1850 1129,1851 1184,1851 1239,1852"/>
+                <TextEquiv>
+                    <Unicode>und D im Systeme der C-Durtonart stehen in keinem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:14;} concept_mus {offset:0; length:17;} m_interval {offset:37; length:5;} textStyle {offset:43; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:43; length:3;}">
+                <Coords points="197,1914 1249,1913 1214,1868 541,1893 197,1868"/>
+                <Baseline points="204,1900 255,1901 307,1902 359,1902 411,1903 463,1903 515,1903 567,1903 619,1903 671,1903 723,1903 774,1903 826,1903 878,1903 930,1903 982,1902 1034,1902 1086,1902 1138,1902 1190,1902 1242,1902"/>
+                <TextEquiv>
+                    <Unicode>Quintverhältnisse, es kann daher die Quint D—A der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:15;} m_tonality {offset:0; length:11;} m_interval {offset:22; length:17;} textStyle {offset:40; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:40; length:1;} m_tonality {offset:46; length:8; continued:true;}">
+                <Coords points="193,1963 1248,1954 1148,1923 193,1924"/>
+                <Baseline points="200,1951 252,1952 304,1953 356,1953 408,1954 460,1955 512,1955 564,1956 616,1956 668,1956 721,1956 773,1956 825,1956 877,1956 929,1956 981,1955 1033,1955 1085,1954 1137,1954 1189,1953 1242,1952"/>
+                <TextEquiv>
+                    <Unicode>G-Durtonart nicht die Unterdominantterz a des C-Dursy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:16;} m_tonality {offset:0; length:6; continued:true;} m_interval {offset:48; length:7; continued:true;}">
+                <Coords points="185,2012 1241,2011 1202,1971 185,1978"/>
+                <Baseline points="191,2003 243,2004 295,2005 347,2006 399,2006 451,2007 503,2007 556,2008 608,2008 660,2008 712,2008 764,2008 816,2008 868,2008 921,2008 973,2008 1025,2008 1077,2007 1129,2007 1181,2007 1234,2007"/>
+                <TextEquiv>
+                    <Unicode>stemes beibehalten wollen. Ebensowenig wird die Oberdo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:17;} m_interval {offset:0; length:11; continued:true;} textStyle {offset:12; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:12; length:1;} m_tonality {offset:18; length:11;} m_interval {offset:38; length:17;}">
+                <Coords points="183,2068 973,2076 1245,2066 1245,2036 183,2037"/>
+                <Baseline points="189,2056 241,2057 293,2057 346,2058 398,2059 451,2059 503,2060 556,2060 608,2060 661,2061 713,2061 765,2061 818,2061 870,2061 923,2061 975,2061 1028,2061 1080,2061 1133,2060 1185,2060 1238,2059"/>
+                <TextEquiv>
+                    <Unicode>minantquint D der C-Durtonart für die Unterdominantterz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:18;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:0; length:1;} m_tonality {offset:6; length:11;}">
+                <Coords points="181,2112 1244,2122 1214,2076 181,2085"/>
+                <Baseline points="188,2107 240,2108 293,2110 345,2111 398,2111 450,2112 503,2113 555,2113 608,2113 660,2113 713,2113 765,2113 818,2113 870,2113 923,2113 975,2113 1028,2113 1080,2112 1133,2112 1185,2112 1238,2112"/>
+                <TextEquiv>
+                    <Unicode>d der F-Durtonart gesetzt sein wollen, indem diese wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>268. Nach dieser Forderung innerer Verwandtschaft:&#13;
+dass die gleichnamigen Töne in den beiden verschiedenen&#13;
+Tonarten dieselben seien in umgewandelter Accordbedeut¬&#13;
+ung, würde aber durch die Dreiklangsverkettung nur in die&#13;
+nächstliegende Tonart zu gelangen sein, d. i. nach der&#13;
+Unter- und Oberdominanttonart. Wenn auch hier schon die&#13;
+Oberdominantquint (A) der Oberdominanttonart verschieden&#13;
+von der Unterdominantterz (a) der Ausgangstonart, ebenso&#13;
+die Unterdominantterz (d) der Unterdominanttonart, ver¬&#13;
+schieden von der Oberdominantquint (D) der Ausgangstonart&#13;
+sich zeigt, so kann die Forderung der Identität sich auf&#13;
+diese Töne nicht erstrecken, da sie hier aus einer neu&#13;
+eintretenden Quintbestimmung hervorgehen. Die Töne a&#13;
+und D im Systeme der C-Durtonart stehen in keinem&#13;
+Quintverhältnisse, es kann daher die Quint D—A der&#13;
+G-Durtonart nicht die Unterdominantterz a des C-Dursy¬&#13;
+stemes beibehalten wollen. Ebensowenig wird die Oberdo¬&#13;
+minantquint D der C-Durtonart für die Unterdominantterz&#13;
+d der F-Durtonart gesetzt sein wollen, indem diese wieder</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-19T15:11:49.031+01:00</Created>
+        <LastChange>2021-08-16T22:29:29.002+02:00</LastChange>
+        <TranskribusMetadata docId="738834" pageId="28121511" pageNr="23" tsid="62676243" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=CWLSCYWOWNOPQSMIBOBJNEMF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WSTWENTQEIEZPVAXPLCFOIVT" imageId="21904881"/>
+    </Metadata>
+    <Page imageFilename="Weitzmann_1860_Harmoniesystem-0023.jpg" imageWidth="1372" imageHeight="2174" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630573941327" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614089037198_1216"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1614089037198_1215"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614089026678_1207"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1614089022486_1203"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614089037198_1216" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="185,204 1190,204 1190,248 185,248"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="667,236 674,236 677,240 684,243 710,242 710,196 680,196 675,201 667,201"/>
+                <Baseline points="674,231 704,231"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614089037198_1215" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
+            <Coords points="185,248 1190,248 1190,515 185,515"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:6; length:8;} m_tonality {offset:19; length:6;}">
+                <Coords points="191,331 1189,330 1175,284 191,285"/>
+                <Baseline points="197,319 246,318 295,318 344,318 394,318 443,317 492,317 541,317 591,317 640,317 689,317 738,318 788,318 837,318 886,318 935,318 985,318 1034,318 1083,319 1132,319 1182,319"/>
+                <TextEquiv>
+                    <Unicode>jeder Harmonie der Tonart auftreten kann, würden hier die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_note {offset:0; length:4;} m_note {offset:5; length:2;} m_note {offset:12; length:1;} concept_mus {offset:42; length:9;}">
+                <Coords points="187,371 1196,362 1196,336 1042,325 187,332"/>
+                <Baseline points="193,360 242,360 292,359 342,359 392,359 442,359 492,359 541,360 591,360 641,360 691,360 741,361 791,361 841,361 890,361 940,361 990,361 1040,361 1090,360 1140,360 1190,359"/>
+                <TextEquiv>
+                    <Unicode>Töne as und h entweder zwei verschiedenen Harmonien ange¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_chord {offset:34; length:20;}">
+                <Coords points="186,410 1189,410 1189,380 1119,372 186,372"/>
+                <Baseline points="192,404 241,403 291,403 340,402 390,402 439,402 489,402 538,402 588,402 637,402 687,403 737,403 786,403 836,403 885,403 935,403 984,403 1034,403 1083,402 1133,402 1183,401"/>
+                <TextEquiv>
+                    <Unicode>hören (1), oder als Glieder eines gebrochenen Accordes be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="189,456 1191,458 1191,420 1156,412 424,412 383,437 189,413"/>
+                <Baseline points="195,446 244,446 294,445 343,445 393,445 442,445 492,445 541,445 591,445 640,446 690,446 739,446 789,446 838,446 888,446 937,446 987,446 1036,446 1086,446 1135,446 1185,446"/>
+                <TextEquiv>
+                    <Unicode>trachtet (2), oder endlich der eine oder der andere als freier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} m_note {offset:0; length:13;}">
+                <Coords points="189,499 1023,496 995,452 955,474 892,453 189,454"/>
+                <Baseline points="195,488 236,488 277,488 318,489 359,489 400,489 441,489 482,489 523,488 564,488 606,488 647,488 688,488 729,488 770,488 811,489 852,489 893,489 934,490 975,491 1017,492"/>
+                <TextEquiv>
+                    <Unicode>Durchgangston aufgefaßt werden müssen (3); z. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>jeder Harmonie der Tonart auftreten kann, würden hier die
+Töne as und h entweder zwei verschiedenen Harmonien ange¬
+hören (1), oder als Glieder eines gebrochenen Accordes be¬
+trachtet (2), oder endlich der eine oder der andere als freier
+Durchgangston aufgefaßt werden müssen (3); z. B.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614089062057_1227" custom="readingOrder {index:2;} structure {type:floating;}">
+            <Coords points="185,515 1190,515 1190,1470 185,1470"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614089026678_1207" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="185,1470 1190,1470 1190,1694 185,1694"/>
+            <TextLine id="r1l33" custom="readingOrder {index:0;} m_note {offset:52; length:6; continued:true;}">
+                <Coords points="181,1522 1187,1515 1167,1476 784,1499 751,1476 181,1476"/>
+                <Baseline points="187,1510 236,1510 286,1510 335,1511 385,1511 435,1511 484,1512 534,1512 584,1512 633,1513 683,1513 733,1513 782,1514 832,1514 882,1514 931,1513 981,1513 1031,1513 1080,1512 1130,1511 1180,1510"/>
+                <TextEquiv>
+                    <Unicode>Das Beispiel 4 aber ist unzulässig, weil die beiden Durch¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:1;} m_note {offset:0; length:9; continued:true;} m_note {offset:10; length:2;} m_note {offset:17; length:1;} concept_mus {offset:31; length:24;}">
+                <Coords points="185,1568 1168,1571 1183,1523 185,1531"/>
+                <Baseline points="191,1556 240,1555 289,1554 338,1554 388,1554 437,1554 486,1554 536,1554 585,1554 634,1555 684,1555 733,1556 782,1556 831,1556 881,1556 930,1556 979,1556 1029,1556 1078,1555 1127,1554 1177,1553"/>
+                <TextEquiv>
+                    <Unicode>gangstöne as und h hier keinen melodischen Zusammenhang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:2;} m_note {offset:33; length:2;} m_note {offset:37; length:1;} m_note {offset:40; length:1;} m_note {offset:46; length:1;}">
+                <Coords points="180,1607 1191,1603 1191,1571 1137,1564 180,1568"/>
+                <Baseline points="187,1597 236,1597 286,1597 336,1597 386,1597 436,1597 486,1597 535,1597 585,1597 635,1598 685,1598 735,1598 785,1598 835,1598 884,1598 934,1598 984,1597 1034,1597 1084,1596 1134,1596 1184,1595"/>
+                <TextEquiv>
+                    <Unicode>haben, wie z. B. vier derselben, as, a, b und h bei 5. Aehn¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:3;} concept_mus {offset:39; length:13;} m_note {offset:53; length:5;}">
+                <Coords points="181,1651 1190,1650 1190,1611 1122,1603 181,1608"/>
+                <Baseline points="187,1639 236,1639 286,1638 336,1639 386,1639 436,1639 486,1639 535,1639 585,1640 635,1640 685,1640 735,1640 785,1641 835,1641 884,1641 934,1641 984,1640 1034,1640 1084,1640 1134,1639 1184,1638"/>
+                <TextEquiv>
+                    <Unicode>lichen Bedingungen würde eine jede mit chromatischen Tönen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:4;} m_tonality {offset:38; length:9;}">
+                <Coords points="179,1690 1180,1691 1180,1652 1126,1646 179,1653"/>
+                <Baseline points="185,1681 234,1681 283,1681 333,1682 382,1682 432,1682 481,1682 531,1682 580,1682 630,1682 679,1682 728,1682 778,1682 827,1682 877,1682 926,1682 976,1682 1025,1682 1075,1682 1124,1681 1174,1681"/>
+                <TextEquiv>
+                    <Unicode>versehene hinauf- oder herabsteigende Tonleiter unterworfen sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Beispiel 4 aber ist unzulässig, weil die beiden Durch¬&#13;
+gangstöne as und h hier keinen melodischen Zusammenhang&#13;
+haben, wie z. B. vier derselben, as, a, b und h bei 5. Aehn¬&#13;
+lichen Bedingungen würde eine jede mit chromatischen Tönen&#13;
+versehene hinauf- oder herabsteigende Tonleiter unterworfen sein.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614089022486_1203" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
+            <Coords points="185,1694 1190,1694 1190,1928 185,1928"/>
+            <TextLine id="r1l38" custom="readingOrder {index:0;} concept_mus {offset:16; length:13;} m_note {offset:30; length:3;} m_tonality {offset:48; length:4; continued:true;}">
+                <Coords points="264,1732 1182,1731 1182,1701 1115,1691 264,1699"/>
+                <Baseline points="271,1723 316,1723 361,1724 406,1724 452,1724 497,1724 542,1725 587,1725 633,1725 678,1725 723,1725 768,1725 814,1725 859,1725 904,1725 949,1725 995,1725 1040,1724 1085,1724 1130,1723 1176,1722"/>
+                <TextEquiv>
+                    <Unicode>Nur durch einen chromatischen Ton können in der Ton¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:1;} m_tonality {offset:0; length:3; continued:true;} concept_mus {offset:4; length:10;} concept_mus {offset:19; length:11;} m_interval {offset:31; length:10;}">
+                <Coords points="185,1779 1184,1786 1184,1740 1100,1731 185,1739"/>
+                <Baseline points="191,1765 240,1766 289,1766 339,1766 388,1766 437,1766 487,1767 536,1767 585,1767 635,1767 684,1767 733,1768 783,1768 832,1768 881,1768 931,1767 980,1767 1029,1767 1079,1767 1128,1766 1178,1765"/>
+                <TextEquiv>
+                    <Unicode>art übermäßige und verminderte Intervalle zur Erscheinung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:2;} concept_mus {offset:54; length:6; continued:true;} concept_phy {offset:54; length:6; continued:true;}">
+                <Coords points="185,1826 1187,1811 1149,1774 185,1781"/>
+                <Baseline points="191,1809 240,1809 289,1809 339,1809 388,1809 438,1809 487,1809 537,1810 586,1810 636,1810 685,1810 734,1810 784,1810 833,1810 883,1810 932,1810 982,1810 1031,1809 1081,1809 1130,1808 1180,1807"/>
+                <TextEquiv>
+                    <Unicode>gebracht werden, welche, wie schon bemerkt, sämmtlich disso¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:3;} concept_mus {offset:0; length:6; continued:true;} concept_phy {offset:0; length:6; continued:true;} m_interval {offset:31; length:18;} m_interval {offset:50; length:4;}">
+                <Coords points="182,1859 1191,1857 1171,1819 182,1828"/>
+                <Baseline points="188,1849 237,1850 287,1851 337,1851 387,1852 437,1852 486,1853 536,1853 586,1853 636,1853 686,1853 735,1853 785,1853 835,1853 885,1852 935,1852 984,1852 1034,1851 1084,1851 1134,1851 1184,1850"/>
+                <TextEquiv>
+                    <Unicode>nirend sind; so hier z. B. die übermäßige Secunde as—h und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:4;} concept_mus {offset:6; length:9;} m_interval {offset:21; length:19;} m_interval {offset:41; length:4;}">
+                <Coords points="188,1906 1192,1905 1165,1860 499,1860 471,1884 188,1860"/>
+                <Baseline points="194,1892 243,1894 293,1894 342,1895 392,1896 442,1896 491,1896 541,1896 590,1896 640,1896 690,1896 739,1896 789,1896 838,1896 888,1895 938,1895 987,1895 1037,1895 1086,1895 1136,1896 1186,1896"/>
+                <TextEquiv>
+                    <Unicode>deren Umkehrung, die verminderte Septime h—as, ferner die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nur durch einen chromatischen Ton können in der Ton¬&#13;
+art übermäßige und verminderte Intervalle zur Erscheinung&#13;
+gebracht werden, welche, wie schon bemerkt, sämmtlich disso¬&#13;
+nirend sind; so hier z. B. die übermäßige Secunde as—h und&#13;
+deren Umkehrung, die verminderte Septime h—as, ferner die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

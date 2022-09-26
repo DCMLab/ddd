@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-03T13:14:49.508+01:00</Created>
+        <LastChange>2021-08-13T15:41:49.622+02:00</LastChange>
+        <TranskribusMetadata docId="747636" pageId="28294143" pageNr="54" tsid="62600882" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=SYDGXKWVOXJCXPKSMVJSHMUQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BTJVJQCOGULAXLTLACNENQRZ" imageId="22039072"/>
+    </Metadata>
+    <Page imageFilename="Capellen-54.jpg" imageWidth="721" imageHeight="1298" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630498504890" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614869246049_632"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1614869246049_631"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1614869243246_623"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614869238676_615"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1614869234605_611"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1614869232154_605"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1614869226441_597"/>
+                <RegionRefIndexed index="7" regionRef="TextRegion_1614869223345_589"/>
+                <RegionRefIndexed index="8" regionRef="TextRegion_1614869215670_581"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614869246049_632" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="95,123 686,123 686,150 95,150"/>
+            <TextLine id="line_1614869246080_635" custom="readingOrder {index:0;}">
+                <Coords points="370,152 379,152 386,159 391,159 396,155 399,156 402,153 412,153 412,121 370,121"/>
+                <Baseline points="375,143 407,143"/>
+                <TextEquiv>
+                    <Unicode>50</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>50</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614869246049_631" custom="readingOrder {index:1;}">
+            <Coords points="95,150 686,150 686,342 95,342"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_interval {offset:0; length:6;} concept_phy {offset:17; length:13;} concept_phy {offset:31; length:16;} person_author {offset:61; length:4; continued:true;ID:P0017;}">
+                <Coords points="90,191 684,194 684,166 316,157 90,173"/>
+                <Baseline points="95,186 124,186 153,186 182,186 211,186 241,186 270,186 299,186 328,186 357,186 387,186 416,186 445,186 474,186 503,186 533,186 562,186 591,186 620,186 649,186 679,186"/>
+                <TextEquiv>
+                    <Unicode>valles erzeugten Kombinations- (Differenz-)töne sind mit den Rie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} person_author {offset:0; length:9; continued:true;ID:P0017;} concept_mus {offset:10; length:10;} concept_phy {offset:10; length:10;}">
+                <Coords points="95,213 679,214 679,194 607,187 95,194"/>
+                <Baseline points="100,207 128,207 157,207 186,207 214,207 243,207 272,207 300,207 329,207 358,207 387,207 415,207 444,207 473,207 501,207 530,207 559,207 587,207 616,207 645,207 674,207"/>
+                <TextEquiv>
+                    <Unicode>mannschen Untertönen nicht zu verwechseln, da jene stets einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_interval {offset:10; length:9;} concept_phy {offset:33; length:12;} textStyle {offset:33; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:47; length:8;}">
+                <Coords points="95,234 683,238 683,215 632,209 95,213"/>
+                <Baseline points="100,228 128,228 157,229 186,229 215,229 244,229 273,229 302,229 331,228 360,228 389,228 417,228 446,228 475,228 504,228 533,229 562,229 591,229 620,229 649,229 678,229"/>
+                <TextEquiv>
+                    <Unicode>das betr. Intervall enthaltenden Obertonreihe (Durreihe) angehören,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} m_interval {offset:23; length:9;} concept_phy {offset:46; length:13;} textStyle {offset:46; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:61; length:5; continued:true;}">
+                <Coords points="91,258 685,253 660,233 91,236"/>
+                <Baseline points="96,251 125,250 154,250 183,250 212,250 242,250 271,250 300,250 329,250 358,250 388,250 417,250 446,251 475,251 504,251 534,251 563,251 592,251 621,250 650,250 680,250"/>
+                <TextEquiv>
+                    <Unicode>niemals aber einer das Intervall enthaltenden Untertonreihe (Moll¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:0; length:5; continued:true;} m_interval {offset:39; length:9;} m_interval {offset:49; length:5;}">
+                <Coords points="96,278 687,280 687,259 664,255 96,254"/>
+                <Baseline points="101,272 130,272 159,272 188,271 217,271 246,271 275,271 304,271 333,271 362,271 391,271 420,271 449,271 478,271 507,271 536,271 565,272 594,272 623,272 652,271 682,271"/>
+                <TextEquiv>
+                    <Unicode>reihe); mit anderen Worten: das zu dem Intervall a — e des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} concept_mus {offset:0; length:11;} textStyle {offset:0; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:28; length:4;} m_note {offset:49; length:1;} m_note {offset:55; length:6; continued:true;}">
+                <Coords points="91,298 685,298 674,277 611,273 91,276"/>
+                <Baseline points="96,293 125,293 154,293 183,293 212,293 242,293 271,293 300,293 329,293 358,293 388,293 417,293 446,293 475,293 504,293 534,293 563,293 592,293 621,293 650,293 680,293"/>
+                <TextEquiv>
+                    <Unicode>Mollklanges dem bewaffneten Ohre hörbare tiefere a ist Grund¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614869290860_663" custom="readingOrder {index:6;} m_note {offset:0; length:4; continued:true;} concept_mus {offset:9; length:10;} m_note {offset:21; length:1;} m_interval {offset:26; length:5;} m_note {offset:32; length:9;} concept_mus {offset:46; length:12;} m_note {offset:60; length:1;}">
+                <Coords points="101,320 685,323 685,301 582,296 101,300"/>
+                <Baseline points="106,315 131,315 156,314 182,314 207,314 233,314 258,314 283,314 309,315 334,315 360,316 381,315 408,315 435,315 462,315 489,315 516,315 544,315 571,315 598,315 625,316 652,316 680,315"/>
+                <TextEquiv>
+                    <Unicode>bass der A durreihe, f zu a — c Grundbass des F durklanges, c zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614869243277_627" custom="readingOrder {index:7;} m_interval {offset:0; length:5;} m_note {offset:6; length:9;} concept_mus {offset:20; length:12;}">
+                <Coords points="93,346 155,336 385,346 405,343 405,321 345,316 334,324 323,316 291,328 169,317 93,325"/>
+                <Baseline points="98,336 123,336 148,336 173,335 198,335 223,335 249,335 274,335 299,336 324,336 349,336 374,336 400,336"/>
+                <TextEquiv>
+                    <Unicode>c — e Grundbass des C durklanges.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>valles erzeugten Kombinations- (Differenz-)töne sind mit den Rie¬&#13;
+mannschen Untertönen nicht zu verwechseln, da jene stets einer&#13;
+das betr. Intervall enthaltenden Obertonreihe (Durreihe) angehören,&#13;
+niemals aber einer das Intervall enthaltenden Untertonreihe (Moll¬&#13;
+reihe); mit anderen Worten: das zu dem Intervall a — e des&#13;
+Mollklanges dem bewaffneten Ohre hörbare tiefere a ist Grund¬&#13;
+bass der A durreihe, f zu a — c Grundbass des F durklanges, c zu&#13;
+c — e Grundbass des C durklanges.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614869243246_623" custom="readingOrder {index:2;}">
+            <Coords points="95,342 686,342 686,558 95,558"/>
+            <TextLine id="line_1614869243278_628" custom="readingOrder {index:0;} concept_mus {offset:37; length:7;}">
+                <Coords points="145,364 687,362 687,340 609,336 231,350 145,338"/>
+                <Baseline points="150,356 176,356 203,357 229,357 256,357 283,357 309,357 336,357 362,357 389,358 416,358 442,358 469,358 495,358 522,358 549,358 575,358 602,358 628,358 655,357 682,357"/>
+                <TextEquiv>
+                    <Unicode>Wie kann unter diesen Umständen eine Theorie Geltung be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:1;} concept_phy {offset:26; length:12;}">
+                <Coords points="96,385 680,386 680,364 652,360 96,365"/>
+                <Baseline points="101,379 129,379 158,379 187,379 215,379 244,379 273,379 301,379 330,379 359,379 388,379 416,379 445,379 474,379 502,379 531,379 560,379 588,379 617,379 646,379 675,379"/>
+                <TextEquiv>
+                    <Unicode>anspruchen, die durch die Naturgesetze nicht zu begründen ist?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:2;} person_author {offset:36; length:7;ID:P0017;} concept_mus {offset:59; length:6;}">
+                <Coords points="103,407 680,407 680,387 630,384 103,384"/>
+                <Baseline points="108,401 136,401 164,400 193,400 221,400 249,401 278,401 306,401 334,401 363,401 391,401 419,401 448,401 476,401 504,401 533,401 561,401 589,401 618,401 646,401 675,400"/>
+                <TextEquiv>
+                    <Unicode>Und wie ist es möglich, dass gerade Riemann, der doch sein System</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:3;} concept_phy {offset:4; length:18;}">
+                <Coords points="101,427 683,426 660,405 101,407"/>
+                <Baseline points="106,421 134,421 163,421 191,421 220,421 249,421 277,421 306,421 334,421 363,421 392,422 420,422 449,422 477,422 506,422 535,422 563,422 592,422 620,421 649,421 678,421"/>
+                <TextEquiv>
+                    <Unicode>auf wissenschaftlicher Grundlage aufbauen will, trotz seines ein¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:4;} concept_phy {offset:27; length:17;}">
+                <Coords points="93,454 688,452 688,429 665,426 93,429"/>
+                <Baseline points="98,444 127,444 156,444 185,444 215,444 244,443 273,443 302,443 332,443 361,443 390,443 419,443 449,443 478,443 507,443 536,443 566,443 595,443 624,443 653,443 683,443"/>
+                <TextEquiv>
+                    <Unicode>gestandenen Irrtums an der Untertonhypothese festhält? Es gibt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:5;} concept_mus {offset:25; length:11;}">
+                <Coords points="94,472 686,472 686,455 613,445 94,454"/>
+                <Baseline points="99,466 128,465 157,465 186,465 215,465 244,465 273,465 302,465 331,465 360,465 390,465 419,465 448,465 477,465 506,465 535,465 564,465 593,465 622,465 651,465 681,465"/>
+                <TextEquiv>
+                    <Unicode>nur eine Antwort: Da das Mollproblem bis heute ungelöst ist, so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:6;} concept_mus {offset:54; length:5; continued:true;}">
+                <Coords points="94,491 662,496 680,470 94,473"/>
+                <Baseline points="99,487 127,487 156,486 185,486 214,486 243,486 271,486 300,486 329,486 358,486 387,486 415,486 444,486 473,486 502,486 531,486 559,486 588,486 617,486 646,486 675,486"/>
+                <TextEquiv>
+                    <Unicode>würde die Aufgabe der Hypothese die Rückkehr zu einer Moll¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:7;} concept_mus {offset:0; length:10; continued:true;} concept_mus {offset:60; length:4; continued:true;} concept_phy {offset:60; length:4; continued:true;}">
+                <Coords points="98,514 686,516 678,491 98,492"/>
+                <Baseline points="103,509 131,509 160,509 189,508 218,508 247,508 276,508 305,508 334,508 363,508 392,508 420,508 449,508 478,508 507,508 536,508 565,508 594,508 623,508 652,508 681,508"/>
+                <TextEquiv>
+                    <Unicode>auffassung bedeuten, welche die Verteidiger der unbedingten Kon¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:8;} concept_mus {offset:0; length:6; continued:true;} concept_phy {offset:0; length:6; continued:true;} m_chord {offset:11; length:12;} concept_mus {offset:34; length:9;}">
+                <Coords points="92,536 624,544 678,537 678,513 92,518"/>
+                <Baseline points="97,531 125,531 154,530 183,530 212,530 241,530 269,530 298,530 327,530 356,530 385,530 413,531 442,531 471,531 500,531 529,531 557,531 586,531 615,531 644,530 673,530"/>
+                <TextEquiv>
+                    <Unicode>sonanz des Mollakkordes, eben die Dualisten, gerade vermeiden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614869238706_619" custom="readingOrder {index:9;}">
+                <Coords points="95,562 164,561 164,541 135,538 131,534 127,536 120,534 113,538 95,538"/>
+                <Baseline points="100,552 129,552 159,552"/>
+                <TextEquiv>
+                    <Unicode>wollen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wie kann unter diesen Umständen eine Theorie Geltung be¬&#13;
+anspruchen, die durch die Naturgesetze nicht zu begründen ist?&#13;
+Und wie ist es möglich, dass gerade Riemann, der doch sein System&#13;
+auf wissenschaftlicher Grundlage aufbauen will, trotz seines ein¬&#13;
+gestandenen Irrtums an der Untertonhypothese festhält? Es gibt&#13;
+nur eine Antwort: Da das Mollproblem bis heute ungelöst ist, so&#13;
+würde die Aufgabe der Hypothese die Rückkehr zu einer Moll¬&#13;
+auffassung bedeuten, welche die Verteidiger der unbedingten Kon¬&#13;
+sonanz des Mollakkordes, eben die Dualisten, gerade vermeiden&#13;
+wollen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614869238676_615" custom="readingOrder {index:3;}">
+            <Coords points="95,558 686,558 686,681 95,681"/>
+            <TextLine id="line_1614869238706_620" custom="readingOrder {index:0;}">
+                <Coords points="174,578 685,578 685,556 573,545 512,558 174,556"/>
+                <Baseline points="179,572 204,572 229,572 254,572 279,572 304,573 329,573 354,573 379,573 404,573 429,573 454,573 479,573 504,573 529,573 554,573 579,572 604,572 629,572 654,573 680,573"/>
+                <TextEquiv>
+                    <Unicode>Wir wollen nunmehr sehen, ob — von der reellen Existenz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614869315921_723" custom="readingOrder {index:1;} concept_phy {offset:4; length:9;} person_author {offset:30; length:11;ID:P0017;} concept_mus {offset:42; length:11;}">
+                <Coords points="100,599 687,598 675,577 100,578"/>
+                <Baseline points="105,596 131,595 157,594 183,594 209,594 236,593 262,593 288,593 314,593 341,594 361,594 387,593 414,593 441,593 468,593 494,594 521,594 548,594 575,594 601,594 628,594 655,594 682,594"/>
+                <TextEquiv>
+                    <Unicode>der Untertöne abgesehen — die Riemannsche Molltheorie in ihrer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:2;} textStyle {offset:18; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:18; length:11;}">
+                <Coords points="94,623 680,627 674,599 94,601"/>
+                <Baseline points="99,616 127,616 156,616 185,616 214,616 243,616 271,616 300,616 329,616 358,616 387,616 415,616 444,616 473,616 502,616 531,616 559,616 588,616 617,616 646,615 675,615"/>
+                <TextEquiv>
+                    <Unicode>Anwendung auf die Musikpraxis so logisch und konsequent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:3;} concept_phy {offset:49; length:10;}">
+                <Coords points="95,642 687,642 687,626 660,621 95,622"/>
+                <Baseline points="100,639 129,638 158,638 187,638 216,637 245,637 274,637 303,637 332,637 361,637 391,637 420,637 449,637 478,637 507,637 536,637 565,637 594,637 623,637 652,637 682,637"/>
+                <TextEquiv>
+                    <Unicode>durchgeführt ist, dass wir über ihrem Werte ihre akustische An¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:4;}">
+                <Coords points="97,666 660,674 660,643 641,641 97,644"/>
+                <Baseline points="102,659 129,659 157,659 184,659 212,659 240,659 267,658 295,658 323,658 350,658 378,658 406,658 433,658 461,658 489,659 516,659 544,659 572,659 599,659 627,659 655,659"/>
+                <TextEquiv>
+                    <Unicode>fechtbarkeit vergessen und ihre Notwendigkeit begreifen können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wir wollen nunmehr sehen, ob — von der reellen Existenz
+der Untertöne abgesehen — die Riemannsche Molltheorie in ihrer
+Anwendung auf die Musikpraxis so logisch und konsequent
+durchgeführt ist, dass wir über ihrem Werte ihre akustische An¬
+fechtbarkeit vergessen und ihre Notwendigkeit begreifen können.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1614869234605_611" custom="readingOrder {index:4;} structure {type:heading;}">
+            <Coords points="95,681 686,681 686,769 95,769"/>
+            <TextLine id="r1l27" custom="readingOrder {index:0;}">
+                <Coords points="376,730 389,730 395,734 400,729 402,731 417,729 415,700 388,701 387,703 385,701 374,701"/>
+                <Baseline points="381,722 412,720"/>
+                <TextEquiv>
+                    <Unicode>§ 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:1;} textStyle {offset:0; length:38;fontSize:0.0; kerning:0; bold:true;} m_interval {offset:20; length:4;} m_note {offset:29; length:8;}">
+                <Coords points="201,761 594,762 594,746 549,729 447,741 201,732"/>
+                <Baseline points="206,754 231,754 257,754 282,753 308,753 333,753 359,753 384,754 410,754 435,754 461,754 486,754 512,754 537,754 563,754 589,754"/>
+                <TextEquiv>
+                    <Unicode>Verhältnis zwischen Prim und Grundton.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>§ 3.
+Verhältnis zwischen Prim und Grundton.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614869232154_605" custom="readingOrder {index:5;}">
+            <Coords points="95,769 686,769 686,990 95,990"/>
+            <TextLine id="line_1614869232184_608" custom="readingOrder {index:0;} m_tonality {offset:7; length:3;}">
+                <Coords points="150,794 691,796 691,773 649,765 280,775 150,761"/>
+                <Baseline points="155,787 181,787 208,787 234,787 261,787 287,787 314,787 340,787 367,788 393,788 420,788 447,788 473,788 500,788 526,788 553,788 579,788 606,788 632,788 659,788 686,788"/>
+                <TextEquiv>
+                    <Unicode>Wie in Dur, so müssten auch bei dem gegensätzlich gleichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:1;} m_tonality {offset:0; length:14;} m_interval {offset:26; length:4;} m_note {offset:35; length:8;}">
+                <Coords points="103,814 689,818 689,791 103,789"/>
+                <Baseline points="108,810 136,809 165,809 194,809 223,808 252,808 280,808 309,808 338,808 367,808 396,808 424,808 453,808 482,808 511,809 540,809 568,809 597,809 626,809 655,809 684,809"/>
+                <TextEquiv>
+                    <Unicode>Mollgeschlecht konsequent Prim und Grundton identisch sein. Und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:2;} person_author {offset:9; length:2;ID:P0017;} concept_mus {offset:40; length:9;}">
+                <Coords points="102,838 679,835 679,818 642,813 102,815"/>
+                <Baseline points="107,831 135,831 163,831 192,831 220,830 248,830 277,830 305,830 333,830 362,830 390,830 418,830 447,830 475,830 503,830 532,830 560,830 588,830 617,830 645,830 674,830"/>
+                <TextEquiv>
+                    <Unicode>doch hat R. ebensowenig wie die übrigen Dualisten die Schluss¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:3;} m_interval {offset:28; length:4;} m_note {offset:37; length:8;} m_tonality {offset:49; length:4;}">
+                <Coords points="103,861 685,863 685,841 644,835 103,840"/>
+                <Baseline points="108,854 136,853 165,853 193,853 222,853 251,852 279,852 308,852 336,852 365,852 394,852 422,852 451,852 479,852 508,853 537,853 565,853 594,853 622,853 651,852 680,852"/>
+                <TextEquiv>
+                    <Unicode>folgerung der Identität von Prim und Grundton in Moll zu ziehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:4;}">
+                <Coords points="99,883 683,883 683,859 99,861"/>
+                <Baseline points="104,876 132,875 161,875 190,874 218,874 247,874 276,873 304,873 333,873 362,873 391,873 419,873 448,873 477,873 505,874 534,874 563,874 591,874 620,874 649,874 678,874"/>
+                <TextEquiv>
+                    <Unicode>gewagt; vielmehr betont er wiederholt ausdrücklich, dass der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:5;} m_note {offset:0; length:8;} concept_mus {offset:13; length:11;} m_interval {offset:35; length:4;} m_interval {offset:57; length:6; continued:true;}">
+                <Coords points="107,904 680,901 680,883 599,875 107,880"/>
+                <Baseline points="112,896 140,896 168,896 196,895 224,895 252,895 280,895 309,895 337,895 365,895 393,895 421,896 449,896 477,896 506,896 534,896 562,896 590,895 618,895 646,895 675,895"/>
+                <TextEquiv>
+                    <Unicode>Grundton des Mollklanges nicht die Prim (I), sondern die Unter¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:6;} m_interval {offset:0; length:6; continued:true;} m_interval {offset:29; length:8;} m_interval {offset:42; length:4;}">
+                <Coords points="96,924 623,928 691,922 691,902 96,903"/>
+                <Baseline points="101,919 130,919 159,919 188,919 218,918 247,918 276,918 305,918 335,917 364,917 393,917 422,917 452,917 481,917 510,917 539,917 569,917 598,917 627,917 656,917 686,918"/>
+                <TextEquiv>
+                    <Unicode>quinte (V) sei, „weil nur im Quintton die Prim so stark als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:7;} concept_phy {offset:0; length:7;} concept_mus {offset:45; length:9;}">
+                <Coords points="100,945 639,949 689,946 689,923 100,925"/>
+                <Baseline points="105,939 135,939 165,939 196,939 226,939 257,939 287,938 318,938 348,938 379,938 409,938 440,938 470,938 501,938 531,938 562,938 592,938 623,939 653,939 684,939"/>
+                <TextEquiv>
+                    <Unicode>Oberton vertreten ist, dass er für diese als Fundament gelten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:8;} person_author {offset:29; length:2;ID:P0017;} concept_mus {offset:55; length:7; continued:true;}">
+                <Coords points="109,966 647,969 681,965 681,944 109,949"/>
+                <Baseline points="114,962 142,961 170,961 198,961 226,961 254,961 282,961 310,960 338,960 366,960 395,960 423,960 451,960 479,960 507,960 535,960 563,960 591,960 619,960 647,961 676,961"/>
+                <TextEquiv>
+                    <Unicode>ja sie sogar ersetzen kann.” R. warnt daher davor, den A moll¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614869226477_601" custom="readingOrder {index:9;} concept_mus {offset:0; length:5; continued:true;} m_chord {offset:7; length:2;} textStyle {offset:7; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:15; length:11;} work_text {offset:43; length:2;ID:W0034;}">
+                <Coords points="106,990 675,990 687,965 106,966"/>
+                <Baseline points="111,982 139,982 168,982 196,982 225,982 253,982 282,982 310,982 339,982 367,982 396,982 425,982 453,982 482,982 510,982 539,982 567,982 596,982 624,982 653,981 682,981"/>
+                <TextEquiv>
+                    <Unicode>klang (0e) als E mollklang abzulesen (vgl. H. S. 10, 19, 31, 66).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wie in Dur, so müssten auch bei dem gegensätzlich gleichen&#13;
+Mollgeschlecht konsequent Prim und Grundton identisch sein. Und&#13;
+doch hat R. ebensowenig wie die übrigen Dualisten die Schluss¬&#13;
+folgerung der Identität von Prim und Grundton in Moll zu ziehen&#13;
+gewagt; vielmehr betont er wiederholt ausdrücklich, dass der&#13;
+Grundton des Mollklanges nicht die Prim (I), sondern die Unter¬&#13;
+quinte (V) sei, „weil nur im Quintton die Prim so stark als&#13;
+Oberton vertreten ist, dass er für diese als Fundament gelten,&#13;
+ja sie sogar ersetzen kann.” R. warnt daher davor, den A moll¬&#13;
+klang (0e) als E mollklang abzulesen (vgl. H. S. 10, 19, 31, 66).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614869226441_597" custom="readingOrder {index:6;}">
+            <Coords points="95,990 686,990 686,1053 95,1053"/>
+            <TextLine id="line_1614869226477_602" custom="readingOrder {index:0;} person_author {offset:26; length:2;ID:P0017;} work_text {offset:30; length:2;ID:W0034;} m_note {offset:45; length:3;}">
+                <Coords points="142,1008 683,1009 683,991 651,985 142,987"/>
+                <Baseline points="147,1004 173,1003 200,1003 226,1003 253,1003 279,1003 306,1003 332,1003 359,1003 385,1003 412,1003 439,1003 465,1003 492,1003 518,1003 545,1003 571,1003 598,1003 624,1003 651,1003 678,1003"/>
+                <TextEquiv>
+                    <Unicode>Auslassen dürfen wir nach R. (H. 21, 67) den Ton, welchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:1;} concept_phy {offset:4; length:19;} concept_phy {offset:28; length:8;}">
+                <Coords points="105,1032 686,1033 686,1010 667,1007 105,1004"/>
+                <Baseline points="110,1026 138,1026 167,1026 195,1025 224,1025 252,1025 281,1025 309,1025 338,1025 366,1025 395,1025 424,1025 452,1025 481,1025 509,1025 538,1025 566,1025 595,1025 623,1025 652,1025 681,1025"/>
+                <TextEquiv>
+                    <Unicode>das natürliche Phänomen der Obertöne am stärksten ergänzt, d. h. im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614869223379_593" custom="readingOrder {index:2;} m_chord {offset:0; length:9;} m_interval {offset:14; length:5;} m_chord {offset:28; length:10;} m_interval {offset:43; length:4;}">
+                <Coords points="103,1058 589,1051 589,1033 531,1028 103,1031"/>
+                <Baseline points="108,1046 133,1046 158,1047 183,1047 208,1047 233,1047 258,1047 283,1047 308,1046 333,1046 358,1046 383,1046 408,1046 433,1046 458,1046 483,1046 508,1046 533,1046 558,1047 584,1047"/>
+                <TextEquiv>
+                    <Unicode>Durakkord die Quint (5), im Mollakkord die Prim (1).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Auslassen dürfen wir nach R. (H. 21, 67) den Ton, welchen&#13;
+das natürliche Phänomen der Obertöne am stärksten ergänzt, d. h. im&#13;
+Durakkord die Quint (5), im Mollakkord die Prim (1).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614869223345_589" custom="readingOrder {index:7;}">
+            <Coords points="95,1053 686,1053 686,1096 95,1096"/>
+            <TextLine id="line_1614869223380_594" custom="readingOrder {index:0;} m_note {offset:28; length:3;} concept_mus {offset:47; length:10;}">
+                <Coords points="141,1075 661,1081 685,1072 685,1053 141,1055"/>
+                <Baseline points="146,1069 172,1069 199,1068 226,1068 252,1068 279,1068 306,1068 332,1068 359,1068 386,1068 413,1068 439,1068 466,1068 493,1068 519,1068 546,1068 573,1068 599,1068 626,1068 653,1067 680,1067"/>
+                <TextEquiv>
+                    <Unicode>Als gewöhnlich verdoppelter Ton ergibt sich im Mollklange</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614869215714_585" custom="readingOrder {index:1;} person_author {offset:5; length:2;ID:P0017;} m_interval {offset:12; length:11;} textStyle {offset:17; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} work_text {offset:25; length:2;ID:W0034;}">
+                <Coords points="95,1094 137,1102 212,1089 276,1100 343,1090 411,1099 411,1069 379,1080 368,1072 195,1077 137,1069 95,1077"/>
+                <Baseline points="100,1092 125,1091 151,1090 176,1090 202,1089 227,1089 253,1089 278,1089 304,1089 329,1089 355,1089 380,1088 406,1088"/>
+                <TextEquiv>
+                    <Unicode>nach R. die Unterquinte (H. 20)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Als gewöhnlich verdoppelter Ton ergibt sich im Mollklange
+nach R. die Unterquinte (H. 20)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614869215670_581" custom="readingOrder {index:8;} structure {type:paragraph-continued;}">
+            <Coords points="95,1096 686,1096 686,1144 95,1144"/>
+            <TextLine id="line_1614869215715_586" custom="readingOrder {index:0;} person_author {offset:40; length:2;ID:P0017;}">
+                <Coords points="151,1117 625,1121 691,1113 691,1091 151,1095"/>
+                <Baseline points="156,1111 182,1111 209,1110 235,1110 262,1110 288,1110 315,1110 341,1110 368,1110 394,1110 421,1110 447,1110 474,1110 500,1110 527,1110 553,1110 580,1110 606,1110 633,1110 659,1110 686,1110"/>
+                <TextEquiv>
+                    <Unicode>Wo bleibt bei diesen Lehrsätzen die von R. behauptete Gegen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:1;} concept_mus {offset:17; length:11;} m_note {offset:38; length:8;} m_interval {offset:51; length:9;}">
+                <Coords points="100,1142 682,1144 682,1116 666,1115 100,1115"/>
+                <Baseline points="105,1134 133,1134 162,1133 190,1133 219,1133 248,1133 276,1133 305,1133 333,1133 362,1133 391,1133 419,1133 448,1133 476,1133 505,1133 534,1133 562,1133 591,1133 619,1133 648,1132 677,1132"/>
+                <TextEquiv>
+                    <Unicode>sätzlichkeit des Mollklanges, da doch Grundton und Oberquint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wo bleibt bei diesen Lehrsätzen die von R. behauptete Gegen¬&#13;
+sätzlichkeit des Mollklanges, da doch Grundton und Oberquint</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

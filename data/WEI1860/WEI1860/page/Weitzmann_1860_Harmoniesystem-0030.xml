@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-19T15:11:49.434+01:00</Created>
+        <LastChange>2021-08-16T22:59:00.015+02:00</LastChange>
+        <TranskribusMetadata docId="738834" pageId="28121524" pageNr="30" tsid="62676900" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=MWCNZIQAEWXPWSXLEEFGYAKI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UQAKYWGZSPOAEOIDBYKLGVDB" imageId="21904894"/>
+    </Metadata>
+    <Page imageFilename="Weitzmann_1860_Harmoniesystem-0030.jpg" imageWidth="1372" imageHeight="2170" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630573942377" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614090348389_2003"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1614090344965_1998"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614090337914_1994"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1614090333721_1990"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1614090326363_1986"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614090348389_2003" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="167,207 1176,207 1176,244 167,244"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="642,234 669,235 678,241 686,241 686,188 679,188 668,196 642,195"/>
+                <Baseline points="648,227 680,227"/>
+                <TextEquiv>
+                    <Unicode>15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614090405263_2014" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="167,244 1176,244 1176,544 167,544"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614090344965_1998" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="167,544 1176,544 1176,786 167,786"/>
+            <TextLine id="r1l12" custom="readingOrder {index:0;} concept_mus {offset:18; length:11;} m_note {offset:34; length:10;} m_chord {offset:49; length:10; continued:true;}">
+                <Coords points="161,586 1173,586 1173,561 1089,548 161,555"/>
+                <Baseline points="167,581 217,581 267,582 317,582 367,583 417,583 467,583 517,583 567,584 617,584 667,584 717,584 767,584 817,584 867,584 917,583 967,583 1017,583 1067,583 1117,583 1167,583"/>
+                <TextEquiv>
+                    <Unicode>Ebenso klingt die Verdopplung des Grundtones des verminder¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:1;} m_chord {offset:0; length:15; continued:true;} concept_mus {offset:40; length:8;} m_note {offset:40; length:8;}">
+                <Coords points="168,635 1167,634 1152,594 168,596"/>
+                <Baseline points="175,625 224,625 273,625 322,625 372,625 421,626 470,626 520,626 569,626 618,626 668,626 717,626 766,626 815,626 865,626 914,626 963,626 1013,626 1062,626 1111,626 1161,626"/>
+                <TextEquiv>
+                    <Unicode>ten Dreiklanges, auch wenn er nicht als Leiteton erscheint, wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:2;} m_interval {offset:50; length:5;}">
+                <Coords points="164,675 1174,674 1158,637 164,636"/>
+                <Baseline points="171,666 220,666 270,666 320,666 370,666 420,667 470,667 519,667 569,668 619,668 669,668 719,669 769,669 819,669 868,669 918,669 968,669 1018,669 1068,668 1118,668 1168,667"/>
+                <TextEquiv>
+                    <Unicode>hier im ersten Beispiele, schärfer als die seiner Terze und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:3;} m_interval {offset:0; length:6;} m_chord {offset:24; length:6;} concept_mus {offset:48; length:12;}">
+                <Coords points="164,715 1175,721 1175,686 1107,675 164,680"/>
+                <Baseline points="170,710 222,709 275,709 327,710 380,710 432,710 485,710 538,710 590,710 643,710 695,711 748,711 800,711 853,711 906,711 958,711 1011,711 1063,711 1116,711 1169,711"/>
+                <TextEquiv>
+                    <Unicode>Quinte, wie denn dieser Accord überhaupt in der Terzsextlage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:4;}">
+                <Coords points="174,763 554,763 554,727 526,719 500,729 313,716 174,724"/>
+                <Baseline points="181,753 207,752 233,752 259,752 285,751 311,751 337,751 364,751 390,751 416,751 442,751 468,751 494,752 520,752 547,753"/>
+                <TextEquiv>
+                    <Unicode>am wohlklingendsten ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ebenso klingt die Verdopplung des Grundtones des verminder¬
+ten Dreiklanges, auch wenn er nicht als Leiteton erscheint, wie
+hier im ersten Beispiele, schärfer als die seiner Terze und
+Quinte, wie denn dieser Accord überhaupt in der Terzsextlage
+am wohlklingendsten ist.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1614090337914_1994" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="167,786 1176,786 1176,869 167,869"/>
+            <TextLine id="r1l17" custom="readingOrder {index:0;} textStyle {offset:0; length:44;fontSize:0.0; kerning:0; bold:true;} concept_mus {offset:0; length:14;} m_chord {offset:19; length:7;} m_tonality {offset:35; length:8;}">
+                <Coords points="269,859 1068,859 1068,817 1016,812 269,812"/>
+                <Baseline points="275,846 314,846 353,846 392,847 432,847 471,847 510,847 550,847 589,847 628,848 668,848 707,848 746,848 785,848 825,848 864,848 903,848 943,848 982,848 1021,848 1061,848"/>
+                <TextEquiv>
+                    <Unicode>Verwandtschaft der Accorde und der Tonarten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Verwandtschaft der Accorde und der Tonarten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614090333721_1990" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="167,869 1176,869 1176,1522 167,1522"/>
+            <TextLine id="r1l18" custom="readingOrder {index:0;} concept_mus {offset:24; length:13;} concept_phy {offset:24; length:13;} m_chord {offset:38; length:7;}">
+                <Coords points="259,922 1178,923 1178,889 1096,884 259,876"/>
+                <Baseline points="265,913 310,913 355,913 401,913 446,913 491,913 537,913 582,913 627,913 673,914 718,914 763,914 809,914 854,914 899,914 945,914 990,913 1035,913 1081,913 1126,913 1172,913"/>
+                <TextEquiv>
+                    <Unicode>Die bisher betrachteten consonirenden Accorde und deren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:1;} concept_mus {offset:13; length:16;}">
+                <Coords points="166,963 1145,972 1170,928 166,933"/>
+                <Baseline points="172,955 221,955 271,955 320,955 370,955 420,955 469,955 519,955 568,956 618,956 668,956 717,956 767,956 816,957 866,957 916,957 965,957 1015,957 1064,957 1114,957 1164,956"/>
+                <TextEquiv>
+                    <Unicode>natürlichste Fortschreitungen gehören der classischen sowol wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:2;} concept_mus {offset:4; length:21;} concept_mus {offset:31; length:6;} concept_mus {offset:46; length:13; continued:true;}">
+                <Coords points="166,1011 1175,1003 1159,967 166,966"/>
+                <Baseline points="173,998 222,998 272,998 322,998 372,998 422,998 471,998 521,999 571,999 621,999 671,999 720,999 770,999 820,999 870,999 920,999 969,999 1019,999 1069,999 1119,999 1169,999"/>
+                <TextEquiv>
+                    <Unicode>der romantischen Tonkunst, der Vocal- und der Instrumental¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:3;} concept_mus {offset:0; length:5; continued:true;}">
+                <Coords points="168,1050 1171,1053 1153,1008 168,1013"/>
+                <Baseline points="175,1038 224,1039 274,1040 323,1040 373,1041 422,1041 472,1041 521,1042 571,1042 620,1042 670,1042 719,1042 769,1042 818,1042 868,1042 917,1042 967,1041 1016,1041 1066,1041 1115,1041 1165,1041"/>
+                <TextEquiv>
+                    <Unicode>musik an; unserer Aufgabe gemäß hatten wir deßhalb nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:4;}">
+                <Coords points="178,1090 1180,1090 1180,1060 1126,1052 178,1059"/>
+                <Baseline points="184,1081 233,1082 283,1083 332,1083 382,1083 431,1084 481,1084 530,1084 580,1084 629,1084 679,1084 728,1084 778,1084 827,1084 877,1084 926,1084 976,1083 1025,1083 1075,1084 1124,1084 1174,1084"/>
+                <TextEquiv>
+                    <Unicode>nöthig, eine ausführliche Begründung der dahin gehörenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:5;}">
+                <Coords points="174,1135 1172,1146 1172,1099 1111,1092 506,1092 479,1119 174,1092"/>
+                <Baseline points="180,1125 229,1125 278,1126 327,1126 377,1126 426,1126 475,1127 525,1127 574,1127 623,1127 673,1127 722,1127 771,1127 820,1127 870,1127 919,1126 968,1126 1018,1126 1067,1126 1116,1125 1166,1125"/>
+                <TextEquiv>
+                    <Unicode>Gesetze zu geben. Jetzt aber schreiten wir zur Beantwortung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:6;} concept_mus {offset:46; length:8;}">
+                <Coords points="176,1179 1178,1169 1097,1134 176,1141"/>
+                <Baseline points="182,1168 231,1168 281,1168 330,1168 380,1168 429,1168 479,1168 528,1168 578,1168 627,1169 677,1169 726,1169 776,1169 825,1169 875,1168 924,1168 974,1168 1023,1168 1073,1167 1122,1167 1172,1166"/>
+                <TextEquiv>
+                    <Unicode>der Frage: Mit welchem Rechte läßt die neuere Tonkunst zu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:7;} m_chord {offset:7; length:7;}">
+                <Coords points="177,1219 1171,1219 1161,1179 177,1181"/>
+                <Baseline points="184,1210 233,1210 282,1210 331,1211 380,1211 429,1211 478,1211 527,1211 576,1212 625,1212 674,1212 723,1212 772,1212 821,1212 870,1211 919,1211 968,1211 1017,1210 1066,1210 1115,1209 1164,1208"/>
+                <TextEquiv>
+                    <Unicode>weilen Accorde auf einander folgen, die nicht einer und dersel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:8;} m_tonality {offset:4; length:6;} concept_mus {offset:41; length:13;} m_tonality {offset:55; length:4; continued:true;}">
+                <Coords points="178,1266 1179,1259 1116,1220 178,1220"/>
+                <Baseline points="184,1254 233,1254 282,1253 332,1254 381,1254 431,1254 480,1254 529,1254 579,1254 628,1254 678,1254 727,1254 776,1254 826,1254 875,1254 925,1254 974,1253 1023,1253 1073,1253 1122,1253 1172,1252"/>
+                <TextEquiv>
+                    <Unicode>ben Tonart, sondern oft den von einander entferntesten Ton¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:9;} m_tonality {offset:0; length:5; continued:true;}">
+                <Coords points="177,1306 1173,1306 1173,1267 1134,1262 177,1267"/>
+                <Baseline points="183,1295 232,1295 281,1296 330,1296 379,1296 428,1296 477,1296 527,1296 576,1297 625,1297 674,1296 723,1296 772,1296 821,1296 871,1296 920,1296 969,1295 1018,1295 1067,1295 1116,1294 1166,1294"/>
+                <TextEquiv>
+                    <Unicode>arten angehören? Aus der folgenden Untersuchung wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:10;} m_chord {offset:37; length:7;}">
+                <Coords points="170,1346 1179,1346 1157,1304 380,1329 170,1308"/>
+                <Baseline points="177,1337 226,1337 276,1338 326,1338 376,1338 426,1339 475,1339 525,1339 575,1339 625,1339 675,1339 724,1339 774,1339 824,1339 874,1339 924,1339 973,1338 1023,1338 1073,1338 1123,1337 1173,1337"/>
+                <TextEquiv>
+                    <Unicode>hervorgehen, daß die Verzweigung der Accorde sowol wie die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:11;} m_tonality {offset:4; length:8;}">
+                <Coords points="171,1388 1171,1394 1171,1357 1136,1348 171,1349"/>
+                <Baseline points="177,1381 226,1381 275,1382 325,1382 374,1382 424,1382 473,1382 522,1382 572,1382 621,1382 671,1382 720,1382 769,1382 819,1382 868,1382 918,1382 967,1381 1016,1381 1066,1381 1115,1381 1165,1381"/>
+                <TextEquiv>
+                    <Unicode>der Tonarten einen so weiten Umfang einnimmt, daß zwischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:12;} concept_mus {offset:21; length:14;}">
+                <Coords points="172,1441 1180,1434 1180,1397 1068,1388 791,1413 692,1388 173,1396"/>
+                <Baseline points="179,1423 228,1423 278,1423 328,1423 378,1423 427,1423 477,1423 527,1423 577,1423 626,1424 676,1424 726,1424 776,1424 825,1424 875,1424 925,1423 975,1423 1024,1423 1074,1423 1124,1423 1174,1422"/>
+                <TextEquiv>
+                    <Unicode>zwei mit natürlicher Stimmenführung auf einander folgenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:13;} concept_mus {offset:0; length:13;} concept_phy {offset:0; length:13;} m_chord {offset:14; length:11;} concept_mus {offset:44; length:10;}">
+                <Coords points="173,1475 1089,1483 1182,1474 1182,1439 173,1443"/>
+                <Baseline points="179,1465 228,1465 278,1465 328,1465 378,1466 428,1466 478,1466 527,1466 577,1466 627,1466 677,1466 727,1466 777,1466 827,1466 876,1466 926,1466 976,1466 1026,1465 1076,1465 1126,1465 1176,1465"/>
+                <TextEquiv>
+                    <Unicode>consonirenden Dreiklängen stets eine innere Verbindung oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:14;} concept_mus {offset:0; length:14;}">
+                <Coords points="176,1521 807,1514 807,1493 754,1475 176,1476"/>
+                <Baseline points="183,1506 213,1506 244,1507 275,1507 306,1508 337,1508 368,1508 398,1509 429,1509 460,1509 491,1509 522,1509 553,1510 584,1510 614,1510 645,1510 676,1510 707,1509 738,1509 769,1509 800,1509"/>
+                <TextEquiv>
+                    <Unicode>Verwandtschaft nachzuweisen sein wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die bisher betrachteten consonirenden Accorde und deren&#13;
+natürlichste Fortschreitungen gehören der classischen sowol wie&#13;
+der romantischen Tonkunst, der Vocal- und der Instrumental¬&#13;
+musik an; unserer Aufgabe gemäß hatten wir deßhalb nicht&#13;
+nöthig, eine ausführliche Begründung der dahin gehörenden&#13;
+Gesetze zu geben. Jetzt aber schreiten wir zur Beantwortung&#13;
+der Frage: Mit welchem Rechte läßt die neuere Tonkunst zu¬&#13;
+weilen Accorde auf einander folgen, die nicht einer und dersel¬&#13;
+ben Tonart, sondern oft den von einander entferntesten Ton¬&#13;
+arten angehören? Aus der folgenden Untersuchung wird&#13;
+hervorgehen, daß die Verzweigung der Accorde sowol wie die&#13;
+der Tonarten einen so weiten Umfang einnimmt, daß zwischen&#13;
+zwei mit natürlicher Stimmenführung auf einander folgenden&#13;
+consonirenden Dreiklängen stets eine innere Verbindung oder&#13;
+Verwandtschaft nachzuweisen sein wird.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614090326363_1986" custom="readingOrder {index:5;} structure {type:paragraph-continued;}">
+            <Coords points="167,1522 1176,1522 1176,1917 167,1917"/>
+            <TextLine id="r1l33" custom="readingOrder {index:0;} concept_mus {offset:4; length:14;} m_tonality {offset:23; length:8;}">
+                <Coords points="262,1562 1176,1554 1144,1517 262,1521"/>
+                <Baseline points="269,1549 314,1550 359,1551 404,1551 449,1552 494,1552 539,1552 584,1552 629,1552 674,1552 719,1552 764,1552 809,1551 854,1551 899,1551 944,1550 989,1550 1034,1550 1079,1549 1124,1549 1170,1549"/>
+                <TextEquiv>
+                    <Unicode>Die Verwandtschaft der Tonarten nach Graden ist die¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:1;} textStyle {offset:54; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:54; length:6; continued:true;}">
+                <Coords points="173,1610 1174,1596 1150,1564 278,1581 173,1556"/>
+                <Baseline points="179,1593 228,1594 277,1594 327,1594 376,1594 426,1594 475,1594 525,1594 574,1594 624,1594 673,1594 722,1594 772,1594 821,1594 871,1594 920,1593 970,1593 1019,1593 1069,1592 1118,1592 1168,1591"/>
+                <TextEquiv>
+                    <Unicode>jenige, wo die größte Aehnlichkeit derselben in ihren Stamm¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:2;} textStyle {offset:0; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:0; length:5; continued:true;} m_tonality {offset:48; length:5;}">
+                <Coords points="173,1642 1173,1642 1172,1612 1011,1596 173,1611"/>
+                <Baseline points="179,1635 228,1636 277,1636 327,1637 376,1637 425,1638 475,1638 524,1638 573,1638 623,1637 672,1637 721,1637 771,1636 820,1636 869,1635 919,1635 968,1635 1017,1635 1067,1634 1116,1634 1166,1634"/>
+                <TextEquiv>
+                    <Unicode>tönen als maßgebend betrachtet wird. So ist die C dur- von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:3;} m_tonality {offset:4; length:12;}">
+                <Coords points="173,1685 1180,1684 1180,1651 1129,1644 876,1666 173,1644"/>
+                <Baseline points="179,1678 228,1678 278,1679 328,1679 378,1679 427,1679 477,1679 527,1679 577,1679 626,1679 676,1679 726,1679 776,1679 825,1679 875,1678 925,1678 975,1678 1024,1678 1074,1678 1124,1678 1174,1678"/>
+                <TextEquiv>
+                    <Unicode>der G dur-Tonart um einen Grad entfernt, weil in beiden der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:4;} m_note {offset:35; length:4;}">
+                <Coords points="172,1731 1174,1722 1161,1692 1014,1684 948,1711 883,1684 172,1686"/>
+                <Baseline points="179,1721 228,1721 277,1722 327,1722 376,1722 426,1722 475,1722 525,1722 574,1722 624,1722 673,1722 722,1722 772,1722 821,1722 871,1721 920,1721 970,1721 1019,1720 1069,1719 1118,1719 1168,1718"/>
+                <TextEquiv>
+                    <Unicode>Unterschied derselben nur in einem Tone besteht. Ebenso ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:5;} m_tonality {offset:14; length:5;} m_tonality {offset:25; length:12;} m_tonality {offset:50; length:6;}">
+                <Coords points="182,1776 1176,1771 1176,1739 1088,1731 182,1731"/>
+                <Baseline points="189,1764 238,1764 287,1764 336,1764 385,1764 434,1764 483,1765 532,1765 581,1765 630,1765 679,1765 728,1764 777,1764 826,1764 875,1764 924,1764 973,1763 1022,1763 1071,1762 1120,1761 1170,1760"/>
+                <TextEquiv>
+                    <Unicode>hält sich die C dur- zur F dur-Tonart, ferner die A moll- zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:6;} m_tonality {offset:0; length:7;} m_tonality {offset:16; length:13;} concept_mus {offset:51; length:6; continued:true;} m_note {offset:51; length:6; continued:true;}">
+                <Coords points="177,1818 1175,1811 1161,1781 1064,1771 177,1775"/>
+                <Baseline points="184,1805 233,1806 282,1806 331,1807 380,1807 430,1807 479,1807 528,1807 577,1808 626,1807 676,1807 725,1807 774,1807 823,1807 872,1806 922,1806 971,1806 1020,1805 1069,1805 1118,1804 1168,1804"/>
+                <TextEquiv>
+                    <Unicode>E moll- und zur D moll-Tonart, während die gleiche Stamm¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:7;} concept_mus {offset:0; length:4; continued:true;} m_note {offset:0; length:4; continued:true;} m_tonality {offset:15; length:16;} m_tonality {offset:37; length:5;} m_tonality {offset:47; length:6;}">
+                <Coords points="174,1858 1179,1853 1151,1815 174,1821"/>
+                <Baseline points="180,1848 229,1849 279,1849 328,1850 378,1850 428,1850 477,1850 527,1850 576,1850 626,1849 676,1849 725,1849 775,1849 824,1848 874,1848 924,1848 973,1848 1023,1848 1072,1848 1122,1848 1172,1849"/>
+                <TextEquiv>
+                    <Unicode>töne zeigenden Paralleltonarten, wie C dur und A moll, als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:8;} concept_mus {offset:56; length:4;}">
+                <Coords points="170,1898 1115,1907 1172,1898 1172,1868 169,1861"/>
+                <Baseline points="176,1893 225,1892 275,1892 324,1892 374,1892 423,1892 473,1892 522,1892 572,1892 621,1892 671,1892 720,1892 770,1892 819,1892 869,1892 918,1892 968,1891 1017,1891 1067,1890 1116,1889 1166,1889"/>
+                <TextEquiv>
+                    <Unicode>das männliche und weibliche Princip eines und desselben Ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Verwandtschaft der Tonarten nach Graden ist die¬&#13;
+jenige, wo die größte Aehnlichkeit derselben in ihren Stamm¬&#13;
+tönen als maßgebend betrachtet wird. So ist die C dur- von&#13;
+der G dur-Tonart um einen Grad entfernt, weil in beiden der&#13;
+Unterschied derselben nur in einem Tone besteht. Ebenso ver¬&#13;
+hält sich die C dur- zur F dur-Tonart, ferner die A moll- zur&#13;
+E moll- und zur D moll-Tonart, während die gleiche Stamm¬&#13;
+töne zeigenden Paralleltonarten, wie C dur und A moll, als&#13;
+das männliche und weibliche Princip eines und desselben Ver¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

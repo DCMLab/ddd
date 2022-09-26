@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-18T14:22:14.536+01:00</Created>
+        <LastChange>2021-09-09T16:13:01.351+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121799" pageNr="202" tsid="64485192" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=TLIIFVZZKLQCRVXBLWYVBYPO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SMTRBPMMBKPSPEYJPMXADLNB" imageId="21905169"/>
+    </Metadata>
+    <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0211.jpg" imageWidth="1502" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1631311008300" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1621263465280_4578"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1621263465280_4577"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1621263465280_4578" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="171,100 1410,100 1410,192 171,192"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="648,148 703,148 721,129 753,155 824,156 850,129 870,148 935,147 934,113 879,118 784,99 775,109 716,103 703,117 647,117"/>
+                <Baseline points="655,136 682,139 709,140 736,142 763,143 791,143 818,142 845,141 872,139 899,137 927,134"/>
+                <TextEquiv>
+                    <Unicode>192</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>192</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621263465280_4577" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="171,192 1410,192 1410,488 171,488"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:44; length:7; continued:true;}">
+                <Coords points="273,257 1413,254 1373,212 273,211"/>
+                <Baseline points="281,248 337,248 393,247 449,247 505,247 562,247 618,247 674,247 730,247 786,247 843,247 899,247 955,247 1011,248 1067,248 1124,248 1180,249 1236,249 1292,250 1348,250 1405,251"/>
+                <TextEquiv>
+                    <Unicode>Nun aber giebt es noch andere und direktere Modula¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:0; length:11; continued:true;} m_tonality {offset:22; length:6;}">
+                <Coords points="176,323 1418,319 1418,284 1278,267 176,269"/>
+                <Baseline points="183,307 244,307 305,307 367,307 428,307 489,307 551,307 612,307 673,307 735,307 796,307 857,307 919,307 980,307 1041,307 1103,308 1164,308 1225,309 1287,309 1348,310 1410,311"/>
+                <TextEquiv>
+                    <Unicode>tionsmittel aus einer Tonart in eine entlegene, und zwar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:28; length:21;}">
+                <Coords points="173,379 1413,371 1366,332 173,338"/>
+                <Baseline points="180,368 241,368 302,368 363,368 425,368 486,368 547,368 609,368 670,368 731,368 793,368 854,367 915,367 976,368 1038,368 1099,368 1160,368 1222,369 1283,369 1344,370 1406,371"/>
+                <TextEquiv>
+                    <Unicode>solche, die auf den Bau der gemischten Tonsysteme gegrün¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="163,431 1147,432 1076,386 163,399"/>
+                <Baseline points="171,429 219,429 267,429 316,430 364,430 413,430 461,430 509,430 558,430 606,430 655,430 703,429 751,429 800,429 848,429 897,429 945,429 993,429 1042,429 1090,430 1139,430"/>
+                <TextEquiv>
+                    <Unicode>det sind, zu denen wir jetzt übergehen wollen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nun aber giebt es noch andere und direktere Modula¬
+tionsmittel aus einer Tonart in eine entlegene, und zwar
+solche, die auf den Bau der gemischten Tonsysteme gegrün¬
+det sind, zu denen wir jetzt übergehen wollen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

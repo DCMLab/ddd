@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-18T14:22:10.436+01:00</Created>
+        <LastChange>2021-09-08T13:18:45.285+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121699" pageNr="102" tsid="64418617" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=GMDFDESATJNRMBMRKNHMHLKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KMOYEIPBJGXEUEHRDWPOUBLA" imageId="21905069"/>
+    </Metadata>
+    <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0111.jpg" imageWidth="1502" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1631310998248" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1621073080799_3747"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="TextRegion_1621073080799_3747" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="268,90 1330,90 1330,191 268,191"/>
+            <TextLine id="line_1621073113871_3760" custom="readingOrder {index:0;}">
+                <Coords points="770,175 789,175 800,186 818,183 822,186 849,186 862,174 874,174 874,153 865,153 847,133 833,132 828,137 800,133 776,155 770,155"/>
+                <Baseline points="775,170 869,173"/>
+                <TextEquiv>
+                    <Unicode>94</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>94</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1621073091764_3751" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="268,191 1330,191 1330,2326 268,2326"/>
+        </MusicRegion>
+    </Page>
+</PcGts>

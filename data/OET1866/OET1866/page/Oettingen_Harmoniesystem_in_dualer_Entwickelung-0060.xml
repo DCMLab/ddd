@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-18T14:22:07.488+01:00</Created>
+        <LastChange>2021-09-07T17:00:56.648+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121648" pageNr="51" tsid="64380089" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=AHVYPAKZMRYNLJMVDMWBCOFK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CVRAJPEISPYMZEYMNQDBDRZT" imageId="21905018"/>
+    </Metadata>
+    <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0060.jpg" imageWidth="1502" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1631310992824" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1616617217807_876"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1616617217807_875"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1616617214363_871"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1616617202367_867"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1616617196574_863"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1616617192887_859"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1616617176157_855"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1616617217807_876" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="67,128 1310,128 1310,197 67,197"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="588,168 707,173 727,164 804,164 805,94 727,102 588,101"/>
+                <Baseline points="595,157 620,159 645,160 670,162 696,162 721,162 746,161 771,159 797,157"/>
+                <TextEquiv>
+                    <Unicode>43</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>43</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1616617217807_875" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="67,197 1310,197 1310,796 67,796"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_chord {offset:17; length:10;} m_chord {offset:28; length:11;} textStyle {offset:28; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:32; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:38; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:47; length:8; continued:true;}">
+                <Coords points="63,271 1311,283 1311,240 1198,227 64,233"/>
+                <Baseline points="71,262 132,262 194,263 255,263 317,264 379,264 440,265 502,265 563,265 625,266 687,266 748,266 810,266 871,267 933,267 995,267 1056,268 1118,268 1179,269 1241,269 1303,270"/>
+                <TextEquiv>
+                    <Unicode>wir desshalb den Mollaccord c — es{ — g in der modernen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:0; length:5; continued:true;} textStyle {offset:25; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:25; length:1;} m_note {offset:36; length:8;} concept_mus {offset:50; length:6; continued:true;}">
+                <Coords points="60,339 1301,344 1259,298 531,291 495,323 60,291"/>
+                <Baseline points="68,328 129,329 190,331 251,331 313,332 374,333 435,333 496,334 558,334 619,335 680,335 741,335 803,335 864,335 925,335 986,336 1048,336 1109,336 1170,336 1231,337 1293,337"/>
+                <TextEquiv>
+                    <Unicode>Musik so gebraucht, dass c als sein Grundton oder Funda¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:0; length:10; continued:true;} m_chord {offset:33; length:6;}">
+                <Coords points="60,403 1266,411 1308,367 60,364"/>
+                <Baseline points="68,389 129,390 191,390 252,391 314,392 375,392 437,393 498,393 560,394 621,394 683,394 745,395 806,395 868,395 929,395 991,395 1052,395 1114,395 1175,395 1237,395 1299,394"/>
+                <TextEquiv>
+                    <Unicode>mentalbass behandelt ist und der Accord einen etwas verän¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:12; length:9;} concept_mus {offset:22; length:7;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:30; length:8;}">
+                <Coords points="66,460 1304,468 1304,425 1264,420 66,411"/>
+                <Baseline points="74,447 135,448 196,448 257,449 318,450 379,450 440,451 502,451 563,452 624,452 685,453 746,453 807,454 868,454 930,454 991,455 1052,455 1113,456 1174,456 1235,456 1297,457"/>
+                <TextEquiv>
+                    <Unicode>derten oder getrübten c-Klang vertritt, aber es kommt der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616617307198_941" custom="readingOrder {index:4;} m_chord {offset:0; length:6;} concept_mus {offset:14; length:4;} m_chord {offset:19; length:11;} textStyle {offset:19; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:25; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:1;italic:true; fontSize:0.0; kerning:0;} m_tonality {offset:43; length:12;} textStyle {offset:43; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="65,516 1317,524 1294,476 66,472"/>
+                <Baseline points="73,509 98,509 123,509 148,510 173,510 198,510 223,510 249,511 274,511 299,511 324,511 349,511 374,512 399,512 425,512 450,512 475,511 500,511 525,511 550,510 576,509 641,517 674,515 707,515 741,514 774,513 808,513 841,513 875,513 908,513 942,513 975,514 1008,514 1042,515 1075,515 1109,515 1142,516 1176,516 1209,516 1243,516 1276,515 1310,514"/>
+                <TextEquiv>
+                    <Unicode>Accord in der Lage es{ — g — c auch in der b{-Durtonart</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;} concept_mus {offset:9; length:9;} m_chord {offset:23; length:8;} concept_mus {offset:36; length:12;} m_note {offset:49; length:3;} textStyle {offset:49; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:54; length:3;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:54; length:3; continued:true;ID:P0005;}">
+                <Coords points="65,589 1300,592 1243,546 1189,574 920,539 65,548"/>
+                <Baseline points="73,575 134,576 195,577 256,578 317,578 378,579 439,580 500,580 561,581 622,581 683,581 744,582 805,582 866,583 927,583 988,583 1049,584 1110,584 1171,584 1232,585 1293,585"/>
+                <TextEquiv>
+                    <Unicode>vor, als Vertreter des Accordes der Subdominante es{. Ra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;} textStyle {offset:0; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:0; length:4; continued:true;ID:P0005;} m_chord {offset:24; length:6;} m_interval {offset:35; length:13;}">
+                <Coords points="62,652 1299,660 1314,614 62,616"/>
+                <Baseline points="70,642 131,644 193,645 255,646 317,647 379,648 440,648 502,649 564,649 626,649 688,649 749,649 811,649 873,649 935,649 997,650 1058,650 1120,650 1182,651 1244,651 1306,652"/>
+                <TextEquiv>
+                    <Unicode>meau nennt ihn dann den Accord der grossen Sexte und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;} concept_mus {offset:30; length:19;}">
+                <Coords points="60,714 1293,732 1303,689 60,667"/>
+                <Baseline points="67,703 128,704 189,705 251,706 312,706 374,707 435,707 496,708 558,708 619,708 681,708 742,709 803,709 865,709 926,710 988,710 1049,711 1110,711 1172,712 1233,713 1295,715"/>
+                <TextEquiv>
+                    <Unicode>betrachtet richtiger, als die neueren Theoretiker meist thun,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;} m_note {offset:0; length:3;} textStyle {offset:0; length:2;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:15; length:15;} textStyle {offset:32; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="64,772 662,780 710,763 757,788 757,732 63,738"/>
+                <Baseline points="71,764 104,764 138,765 172,765 206,765 240,766 274,767 308,767 342,768 376,768 410,769 443,769 477,769 511,769 545,769 579,768 613,767 647,765 681,763 715,760 749,757"/>
+                <TextEquiv>
+                    <Unicode>es{ als seinen Fundamentalbass” 1).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wir desshalb den Mollaccord c — es{ — g in der modernen&#13;
+Musik so gebraucht, dass c als sein Grundton oder Funda¬&#13;
+mentalbass behandelt ist und der Accord einen etwas verän¬&#13;
+derten oder getrübten c-Klang vertritt, aber es kommt der&#13;
+Accord in der Lage es{ — g — c auch in der b{-Durtonart&#13;
+vor, als Vertreter des Accordes der Subdominante es{. Ra¬&#13;
+meau nennt ihn dann den Accord der grossen Sexte und&#13;
+betrachtet richtiger, als die neueren Theoretiker meist thun,&#13;
+es{ als seinen Fundamentalbass” 1).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1616617214363_871" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="67,796 1310,796 1310,1180 67,1180"/>
+            <TextLine id="r1l12" custom="readingOrder {index:0;}">
+                <Coords points="161,843 1260,852 1304,808 162,795"/>
+                <Baseline points="169,834 225,834 281,834 338,834 394,834 450,835 507,835 563,836 619,836 676,837 732,838 788,838 845,839 901,839 957,840 1014,840 1070,840 1126,840 1183,840 1239,840 1296,839"/>
+                <TextEquiv>
+                    <Unicode>Fassen wir den Inhalt der hier citirten Abschnitte zu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:1;}">
+                <Coords points="67,907 1305,907 1280,859 67,867"/>
+                <Baseline points="74,893 135,893 196,894 257,894 318,894 379,894 440,895 502,895 563,896 624,896 685,897 746,897 807,897 868,898 930,898 991,898 1052,898 1113,898 1174,898 1235,898 1297,898"/>
+                <TextEquiv>
+                    <Unicode>sammen: 3 verschiedene Probleme werden erörtert: 1) die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:2;} concept_mus {offset:0; length:14;} m_chord {offset:19; length:11;} m_chord {offset:31; length:10;} textStyle {offset:31; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:35; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:40; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="62,972 1306,979 1252,924 1066,954 62,924"/>
+                <Baseline points="69,961 130,961 191,962 253,962 314,962 376,962 437,963 499,963 560,963 622,963 683,964 744,964 806,964 867,965 929,965 990,965 1052,966 1113,966 1175,967 1236,967 1298,968"/>
+                <TextEquiv>
+                    <Unicode>Klangbedeutung des Duraccordes c — e} — g. 2) die des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616617320937_973" custom="readingOrder {index:3;} m_chord {offset:0; length:15;} m_chord {offset:16; length:11;} textStyle {offset:16; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:20; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:26; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:40; length:13;}">
+                <Coords points="66,1036 1312,1034 1312,1001 1232,987 66,980"/>
+                <Baseline points="74,1021 102,1021 131,1022 159,1022 188,1022 216,1022 245,1022 273,1022 302,1022 330,1022 359,1022 387,1022 416,1022 444,1022 473,1022 501,1022 530,1022 558,1022 587,1022 615,1022 644,1022 656,1028 688,1027 720,1027 753,1027 785,1026 818,1026 850,1026 882,1026 915,1026 947,1026 980,1026 1012,1026 1044,1026 1077,1026 1109,1026 1142,1026 1174,1026 1206,1026 1239,1026 1271,1025 1304,1025"/>
+                <TextEquiv>
+                    <Unicode>Molldreiklanges c — es{ — g. 3) die des dreistimmigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616617327677_985" custom="readingOrder {index:4;} m_chord {offset:0; length:8;} m_chord {offset:9; length:12;} textStyle {offset:9; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:14; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:20; length:1;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:28; length:12;} textStyle {offset:28; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:34; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:38; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:41; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="62,1097 1015,1116 1295,1108 1308,1069 62,1062"/>
+                <Baseline points="69,1091 107,1090 146,1090 184,1090 223,1090 262,1090 300,1090 339,1090 378,1091 416,1091 455,1092 494,1092 532,1093 571,1093 610,1093 648,1094 687,1094 726,1094 764,1094 803,1093 842,1093 853,1093 879,1093 905,1092 931,1092 957,1092 984,1093 1010,1093 1036,1093 1062,1094 1089,1094 1115,1095 1141,1095 1167,1095 1194,1096 1220,1096 1246,1095 1272,1095 1299,1094"/>
+                <TextEquiv>
+                    <Unicode>Accordes c{ — es{ — g, oder es{ — g — c{ 2). Lassen wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:5;}">
+                <Coords points="64,1172 852,1171 852,1142 805,1123 64,1130"/>
+                <Baseline points="71,1159 109,1159 148,1159 186,1159 225,1159 264,1159 302,1160 341,1160 380,1160 418,1160 457,1160 496,1160 534,1160 573,1160 612,1161 650,1161 689,1161 728,1162 766,1162 805,1163 844,1163"/>
+                <TextEquiv>
+                    <Unicode>zunächst das dritte Gebilde bei Seite.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fassen wir den Inhalt der hier citirten Abschnitte zu¬&#13;
+sammen: 3 verschiedene Probleme werden erörtert: 1) die&#13;
+Klangbedeutung des Duraccordes c — e} — g. 2) die des&#13;
+Molldreiklanges c — es{ — g. 3) die des dreistimmigen&#13;
+Accordes c{ — es{ — g, oder es{ — g — c{ 2). Lassen wir&#13;
+zunächst das dritte Gebilde bei Seite.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1616617202367_867" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
+            <Coords points="67,1180 1310,1180 1310,1875 67,1875"/>
+            <TextLine id="r1l20" custom="readingOrder {index:0;} textStyle {offset:5; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:5; length:9;ID:P0001;} concept_mus {offset:42; length:7; continued:true;}">
+                <Coords points="172,1223 1303,1228 1279,1179 172,1180"/>
+                <Baseline points="179,1216 234,1216 290,1217 346,1218 402,1219 458,1219 513,1220 569,1220 625,1221 681,1221 737,1221 792,1222 848,1222 904,1222 960,1222 1016,1222 1071,1222 1127,1222 1183,1222 1239,1221 1295,1221"/>
+                <TextEquiv>
+                    <Unicode>Wenn Helmholtz streng bei dem Prinzip der Tonici¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:1;} concept_mus {offset:0; length:3; continued:true;}">
+                <Coords points="69,1291 1302,1292 1302,1251 1209,1242 69,1243"/>
+                <Baseline points="77,1277 137,1278 198,1278 259,1279 320,1279 381,1280 442,1280 502,1280 563,1281 624,1281 685,1282 746,1282 807,1282 868,1282 928,1282 989,1282 1050,1281 1111,1281 1172,1280 1233,1279 1294,1278"/>
+                <TextEquiv>
+                    <Unicode>tät, wie ich es genannt habe, geblieben wäre, so hätte er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:2;} m_note {offset:0; length:3;} textStyle {offset:0; length:2;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:8; length:15;} m_chord {offset:28; length:15;}">
+                <Coords points="64,1348 1306,1338 1065,1298 64,1308"/>
+                <Baseline points="71,1337 132,1338 193,1338 255,1339 316,1339 378,1340 439,1340 500,1340 562,1341 623,1341 685,1341 746,1341 807,1341 869,1341 930,1340 992,1340 1053,1339 1114,1339 1176,1338 1237,1337 1299,1336"/>
+                <TextEquiv>
+                    <Unicode>as{ als Fundamentalbass des Molldreiklanges bezeichnen müs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:3;}">
+                <Coords points="66,1419 801,1396 1199,1428 1301,1419 1301,1376 66,1379"/>
+                <Baseline points="74,1404 135,1405 196,1406 257,1407 318,1408 379,1408 440,1408 501,1409 562,1409 623,1409 684,1409 745,1409 806,1409 867,1409 928,1409 989,1409 1050,1408 1111,1408 1172,1409 1233,1409 1294,1409"/>
+                <TextEquiv>
+                    <Unicode>sen. Er geht indess hier von der Voraussetzung aus, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:4;} concept_mus {offset:0; length:9;} concept_mus {offset:40; length:7;}">
+                <Coords points="66,1475 1293,1469 1231,1427 710,1454 66,1427"/>
+                <Baseline points="73,1464 133,1465 194,1466 254,1466 315,1467 376,1467 436,1468 497,1468 557,1468 618,1468 679,1468 739,1468 800,1468 860,1468 921,1468 982,1468 1042,1468 1103,1467 1163,1467 1224,1467 1285,1467"/>
+                <TextEquiv>
+                    <Unicode>Grundbass müsse ein mit den angegebenen Klängen über¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:5;} m_note {offset:14; length:3;} m_note {offset:43; length:4;} m_chord {offset:52; length:7; continued:true;} textStyle {offset:52; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:55; length:2;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="64,1540 1308,1544 1285,1499 1160,1491 64,1500"/>
+                <Baseline points="72,1524 133,1525 194,1526 256,1527 317,1528 379,1528 440,1528 502,1528 563,1528 625,1528 686,1528 747,1528 809,1528 870,1528 932,1528 993,1528 1055,1528 1116,1528 1178,1528 1239,1528 1301,1528"/>
+                <TextEquiv>
+                    <Unicode>einstimmender Ton sein, daher keine andern Töne als c, es{,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:6;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:0; length:1; continued:true;} textStyle {offset:28; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:32; length:7;}">
+                <Coords points="67,1618 1117,1619 1277,1604 1298,1570 66,1567"/>
+                <Baseline points="75,1597 135,1597 196,1597 257,1597 318,1596 378,1596 439,1596 500,1595 561,1595 621,1595 682,1595 743,1594 804,1594 864,1594 925,1594 986,1594 1047,1594 1107,1594 1168,1594 1229,1594 1290,1595"/>
+                <TextEquiv>
+                    <Unicode>g selbst in Betracht kommen 3). Tonisch gedacht, ist als¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:7;} textStyle {offset:16; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:16; length:1;} textStyle {offset:33; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:33; length:10;} m_note {offset:44; length:3;}">
+                <Coords points="71,1667 1295,1659 1266,1618 71,1617"/>
+                <Baseline points="78,1654 138,1655 199,1655 259,1655 320,1655 380,1655 441,1655 501,1655 562,1656 622,1656 683,1656 743,1655 804,1655 864,1655 925,1655 985,1655 1046,1655 1106,1654 1167,1654 1227,1654 1288,1653"/>
+                <TextEquiv>
+                    <Unicode>dann allerdings g jedenfalls ein abhängiger Ton, wäh¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:8;} m_note {offset:5; length:3;} textStyle {offset:5; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:13; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:13; length:1;} m_note {offset:15; length:9;}">
+                <Coords points="69,1722 1308,1724 1308,1689 1240,1676 69,1684"/>
+                <Baseline points="76,1714 137,1714 198,1714 259,1715 320,1715 382,1715 443,1715 504,1715 565,1716 626,1716 688,1716 749,1716 810,1716 871,1715 932,1715 994,1715 1055,1715 1116,1714 1177,1714 1238,1714 1300,1713"/>
+                <TextEquiv>
+                    <Unicode>rend es{ und c Grundtöne sein können, aber der Art, dass</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:9;} m_note {offset:14; length:3;} textStyle {offset:22; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:44; length:9; continued:true;}">
+                <Coords points="61,1803 1300,1787 1280,1755 1104,1746 61,1746"/>
+                <Baseline points="68,1783 129,1783 190,1783 251,1783 312,1783 374,1784 435,1784 496,1784 557,1784 618,1784 680,1784 741,1784 802,1784 863,1784 924,1784 986,1784 1047,1783 1108,1782 1169,1782 1230,1781 1292,1780"/>
+                <TextEquiv>
+                    <Unicode>je der andere Ton als störendes Element des Zusammen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:10;} concept_mus {offset:0; length:7; continued:true;} textStyle {offset:34; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="70,1851 809,1837 894,1868 1038,1835 1287,1867 1304,1810 444,1802 405,1833 371,1802 69,1803"/>
+                <Baseline points="78,1842 138,1843 199,1844 260,1844 321,1844 382,1844 443,1844 504,1844 565,1844 626,1844 687,1844 747,1844 808,1843 869,1843 930,1843 991,1843 1052,1842 1113,1842 1174,1842 1235,1842 1296,1842"/>
+                <TextEquiv>
+                    <Unicode>klanges auftritt. Eine dieser Art negative Begründung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wenn Helmholtz streng bei dem Prinzip der Tonici¬&#13;
+tät, wie ich es genannt habe, geblieben wäre, so hätte er&#13;
+as{ als Fundamentalbass des Molldreiklanges bezeichnen müs¬&#13;
+sen. Er geht indess hier von der Voraussetzung aus, der&#13;
+Grundbass müsse ein mit den angegebenen Klängen über¬&#13;
+einstimmender Ton sein, daher keine andern Töne als c, es{,&#13;
+g selbst in Betracht kommen 3). Tonisch gedacht, ist als¬&#13;
+dann allerdings g jedenfalls ein abhängiger Ton, wäh¬&#13;
+rend es{ und c Grundtöne sein können, aber der Art, dass&#13;
+je der andere Ton als störendes Element des Zusammen¬&#13;
+klanges auftritt. Eine dieser Art negative Begründung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="footnote" id="TextRegion_1616617196574_863" custom="readingOrder {index:4;} structure {type:footnote;}">
+            <Coords points="67,1875 1310,1875 1310,1971 67,1971"/>
+            <TextLine id="r1l31" custom="readingOrder {index:0;} person_author {offset:2; length:10;ID:P0001;} textStyle {offset:3; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} work_text {offset:14; length:5;ID:W0001;}">
+                <Coords points="161,1966 669,1973 669,1945 641,1931 591,1946 161,1931"/>
+                <Baseline points="169,1958 194,1958 220,1959 246,1959 272,1959 298,1960 324,1960 350,1960 376,1961 402,1961 427,1961 453,1961 479,1961 505,1962 531,1962 557,1961 583,1961 609,1961 635,1961 661,1960"/>
+                <TextEquiv>
+                    <Unicode>1) Helmholtz, l. c. pag. 451.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1) Helmholtz, l. c. pag. 451.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="footnote" id="TextRegion_1616617192887_859" custom="readingOrder {index:5;} structure {type:footnote;}">
+            <Coords points="67,1971 1310,1971 1310,2154 67,2154"/>
+            <TextLine id="r1l32" custom="readingOrder {index:0;} textStyle {offset:3; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:3; length:9;ID:P0001;} m_tonality {offset:64; length:5; continued:true;} textStyle {offset:64; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="163,2013 1297,2012 1297,1978 1221,1970 163,1973"/>
+                <Baseline points="170,2002 226,2002 282,2003 338,2003 394,2003 450,2003 506,2004 562,2003 618,2003 674,2003 730,2003 786,2003 842,2003 898,2002 954,2002 1010,2002 1066,2002 1122,2002 1178,2002 1234,2002 1290,2002"/>
+                <TextEquiv>
+                    <Unicode>2) Helmholtz scheint es hier übersehen zu haben, dass zur gross B-dur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:1;} m_tonality {offset:0; length:6; continued:true;} m_interval {offset:38; length:7;} m_note {offset:46; length:7;} textStyle {offset:52; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:72; length:7;} textStyle {offset:78; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="66,2049 1295,2059 1295,2016 1240,2011 66,2012"/>
+                <Baseline points="74,2043 134,2044 195,2045 255,2045 316,2046 377,2046 437,2046 498,2046 559,2046 619,2046 680,2046 741,2046 801,2045 862,2045 923,2045 983,2045 1044,2045 1105,2044 1165,2044 1226,2045 1287,2045"/>
+                <TextEquiv>
+                    <Unicode>Tonart, nach seiner Schreibweise, die Secunde gross C gehört, und nicht klein c,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:2;} m_chord {offset:17; length:10;} textStyle {offset:17; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:26; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:41; length:13;} m_chord {offset:55; length:10;} textStyle {offset:55; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:60; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:64; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="69,2098 1087,2107 1275,2101 1304,2065 69,2067"/>
+                <Baseline points="77,2087 138,2087 199,2088 260,2088 321,2088 382,2088 443,2088 504,2088 565,2088 626,2088 687,2087 748,2087 809,2087 870,2087 931,2086 992,2086 1053,2086 1114,2086 1175,2086 1236,2086 1297,2086"/>
+                <TextEquiv>
+                    <Unicode>so dass der dort Es — g — c geschriebene Zusammenklang Es — g — C heissen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:3;} m_chord {offset:38; length:12;} textStyle {offset:38; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:44; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:48; length:1;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:56; length:11;} textStyle {offset:56; length:2;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:61; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:66; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="67,2146 1116,2148 1105,2115 881,2107 67,2115"/>
+                <Baseline points="74,2140 125,2140 177,2140 229,2140 281,2140 332,2140 384,2140 436,2140 488,2140 539,2140 591,2139 643,2139 695,2139 746,2138 798,2138 850,2138 902,2137 953,2137 1005,2136 1057,2136 1109,2136"/>
+                <TextEquiv>
+                    <Unicode>würde, d. h. nach meiner Schreibweise es{ — g — c{ oder es — g} — c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2) Helmholtz scheint es hier übersehen zu haben, dass zur gross B-dur&#13;
+Tonart, nach seiner Schreibweise, die Secunde gross C gehört, und nicht klein c,&#13;
+so dass der dort Es — g — c geschriebene Zusammenklang Es — g — C heissen&#13;
+würde, d. h. nach meiner Schreibweise es{ — g — c{ oder es — g} — c.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="footnote" id="TextRegion_1616617176157_855" custom="readingOrder {index:6;} structure {type:footnote;}">
+            <Coords points="67,2154 1310,2154 1310,2292 67,2292"/>
+            <TextLine id="r1l36" custom="readingOrder {index:0;} m_chord {offset:66; length:6; continued:true;}">
+                <Coords points="157,2203 1299,2188 1216,2156 157,2163"/>
+                <Baseline points="165,2189 221,2190 277,2190 334,2190 390,2191 446,2191 503,2191 559,2191 615,2191 672,2191 728,2191 784,2190 841,2190 897,2190 953,2190 1010,2189 1066,2189 1122,2188 1179,2188 1235,2187 1292,2187"/>
+                <TextEquiv>
+                    <Unicode>3) Uebrigens widerspricht dieser Voraussetzung die Behandlung des Accor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:1;} m_chord {offset:0; length:3; continued:true;} m_chord {offset:4; length:9;} textStyle {offset:4; length:1;italic:true; fontSize:0.0; kerning:0;} textStyle {offset:6; length:6;italic:true; fontSize:0.0; kerning:0;} work_text {offset:18; length:9;ID:W0001;}">
+                <Coords points="62,2246 161,2245 192,2260 252,2248 466,2252 475,2211 390,2220 152,2203 62,2219"/>
+                <Baseline points="70,2239 96,2241 122,2242 149,2243 175,2244 202,2244 228,2244 255,2244 281,2244 308,2244 334,2244 361,2244 387,2243 414,2243 440,2243 467,2244"/>
+                <TextEquiv>
+                    <Unicode>des h} d f a} auf Seite 527.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3) Uebrigens widerspricht dieser Voraussetzung die Behandlung des Accor¬&#13;
+des h} d f a} auf Seite 527.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

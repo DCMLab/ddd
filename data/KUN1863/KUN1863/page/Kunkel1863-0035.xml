@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-25T18:51:17.044+01:00</Created>
+        <LastChange>2021-09-06T00:21:34.079+02:00</LastChange>
+        <TranskribusMetadata docId="764524" pageId="28718826" pageNr="35" tsid="64315680" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=IPKVODMPOVQGPFVJAEHILRPT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GPJSXCINOHJLUJBLHITOWBWW" imageId="22439331"/>
+    </Metadata>
+    <Page imageFilename="Kunkel1863-0035.jpg" imageWidth="1793" imageHeight="2941" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630948962560" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614534714380_2301"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1614534714380_2300"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614534703919_2292"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1614534694767_2288"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1614534683865_2280"/>
+                <RegionRefIndexed index="7" regionRef="TextRegion_1614534675906_2276"/>
+                <RegionRefIndexed index="9" regionRef="TextRegion_1614534663194_2268"/>
+                <RegionRefIndexed index="10" regionRef="TextRegion_1614534658624_2264"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614534714380_2301" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="158,129 1712,129 1712,181 158,181"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1629,164 1651,166 1701,163 1699,109 1689,110 1685,106 1654,109 1646,106 1627,106"/>
+                <Baseline points="1639,151 1665,150 1691,149"/>
+                <TextEquiv>
+                    <Unicode>33</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>33</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614534714380_2300" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
+            <Coords points="158,181 1712,181 1712,365 158,365"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} person_composer {offset:15; length:6;ID:P0015;} concept_mus {offset:55; length:13;} m_chord {offset:69; length:10;}">
+                <Coords points="250,267 1700,257 1700,215 1621,209 250,211"/>
+                <Baseline points="260,248 331,248 403,248 474,247 546,247 617,247 689,247 760,247 832,248 903,248 975,248 1046,248 1118,248 1189,248 1261,248 1332,248 1404,248 1475,247 1547,247 1618,247 1690,246"/>
+                <TextEquiv>
+                    <Unicode>Freilich hätte Mozart den einen oder den andern dieser chromatischen Dreiklänge auch in anderer Weise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_chord {offset:45; length:18;} textStyle {offset:52; length:1;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:68; length:27;} m_note {offset:100; length:5;}">
+                <Coords points="151,308 1685,308 1712,263 151,265"/>
+                <Baseline points="160,294 237,293 314,293 391,293 468,293 545,293 622,293 699,293 776,293 853,293 931,293 1008,293 1085,293 1162,293 1239,293 1316,293 1393,293 1470,293 1547,293 1624,293 1702,293"/>
+                <TextEquiv>
+                    <Unicode>z. B. den letzten derselben anstatt nach dem großen C-Dreiklang mit enharmonischer Umschreibung des Tones</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614534857958_2348" custom="readingOrder {index:2;} m_note {offset:0; length:5;} textStyle {offset:0; length:3;italic:true; fontSize:0.0; kerning:0;} m_note {offset:9; length:4;} textStyle {offset:9; length:2;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:23; length:12;} textStyle {offset:23; length:2;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="150,364 869,364 869,325 847,323 433,338 317,332 286,305 236,326 150,306"/>
+                <Baseline points="160,351 186,351 212,352 238,352 264,353 290,353 316,353 342,353 368,353 394,353 420,353 446,353 472,353 498,353 524,353 550,353 576,353 602,353 629,354 665,352 692,352 720,353 748,353 776,353 804,354 832,354 860,353"/>
+                <TextEquiv>
+                    <Unicode>dis}} in es}} nach dem As-Dreiklang führen können:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Freilich hätte Mozart den einen oder den andern dieser chromatischen Dreiklänge auch in anderer Weise&#13;
+z. B. den letzten derselben anstatt nach dem großen C-Dreiklang mit enharmonischer Umschreibung des Tones&#13;
+dis}} in es}} nach dem As-Dreiklang führen können:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614534745727_2307" custom="readingOrder {index:2;} structure {type:floating;}">
+            <Coords points="158,365 1712,365 1712,672 158,672"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614534703919_2292" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="158,672 1712,672 1712,850 158,850"/>
+            <TextLine id="r1l40" custom="readingOrder {index:0;} m_chord {offset:31; length:23;} textStyle {offset:42; length:2;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:73; length:23;} textStyle {offset:85; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="151,716 1690,722 1708,670 151,674"/>
+                <Baseline points="160,703 241,704 322,704 403,704 484,704 565,705 646,705 727,705 808,705 889,705 970,705 1051,705 1132,705 1213,704 1294,704 1375,704 1456,704 1537,704 1618,704 1699,703"/>
+                <TextEquiv>
+                    <Unicode>Hier würde aber vom Gehöre der übermäßige Es-Dreiklang nicht als ein vom übermäßigen G-Dreiklang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:1;} textStyle {offset:27; length:40;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:44; length:6;}">
+                <Coords points="149,759 1707,764 1707,718 1616,714 149,718"/>
+                <Baseline points="159,747 240,748 321,748 402,749 483,749 564,749 645,749 726,750 807,750 888,750 969,750 1050,749 1131,749 1212,749 1293,749 1374,749 1455,749 1536,749 1617,750 1698,750"/>
+                <TextEquiv>
+                    <Unicode>verschiedener, sondern als ein und derselbe Accord empfunden werden, und erst durch den darauf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:2;} m_chord {offset:10; length:12;} textStyle {offset:10; length:2;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:28; length:12;} m_chord {offset:67; length:20;}">
+                <Coords points="155,804 1710,799 1689,762 155,761"/>
+                <Baseline points="165,791 241,791 318,792 395,792 472,793 549,793 625,793 702,793 779,793 856,794 933,794 1009,794 1086,794 1163,794 1240,794 1317,794 1393,794 1470,794 1547,794 1624,794 1701,794"/>
+                <TextEquiv>
+                    <Unicode>folgenden As-Dreiklang (als Sextenaccord) wäre der vorausgegangene übermäßige Dreiklang, gleichsam nach¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:3;} m_chord {offset:14; length:12;} textStyle {offset:14; length:2;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="149,847 704,852 705,807 149,808"/>
+                <Baseline points="159,836 185,836 212,836 239,836 266,836 292,836 319,836 346,836 373,836 399,836 426,836 453,837 480,837 506,837 533,837 560,837 587,838 613,838 640,838 667,838 694,839"/>
+                <TextEquiv>
+                    <Unicode>träglich, als Es-Dreiklang aufzufassen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hier würde aber vom Gehöre der übermäßige Es-Dreiklang nicht als ein vom übermäßigen G-Dreiklang&#13;
+verschiedener, sondern als ein und derselbe Accord empfunden werden, und erst durch den darauf&#13;
+folgenden As-Dreiklang (als Sextenaccord) wäre der vorausgegangene übermäßige Dreiklang, gleichsam nach¬&#13;
+träglich, als Es-Dreiklang aufzufassen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614534694767_2288" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="158,850 1712,850 1712,1082 158,1082"/>
+            <TextLine id="r1l44" custom="readingOrder {index:0;} concept_mus {offset:18; length:14;}">
+                <Coords points="257,901 1705,898 1705,858 257,858"/>
+                <Baseline points="266,887 337,888 408,889 480,889 551,890 623,890 694,891 766,891 837,891 909,891 980,891 1051,891 1123,891 1194,891 1266,891 1337,891 1409,891 1480,890 1552,890 1623,890 1695,889"/>
+                <TextEquiv>
+                    <Unicode>Die aufgestellten Notenbeispiele erscheinen auch hier, wie viele frühere, nicht durchgehends nachahmens¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:1;}">
+                <Coords points="152,943 1715,941 1715,904 152,904"/>
+                <Baseline points="161,932 238,933 315,934 392,934 469,935 547,935 624,935 701,935 778,936 855,936 933,936 1010,936 1087,936 1164,936 1241,936 1319,935 1396,935 1473,935 1550,935 1627,935 1705,935"/>
+                <TextEquiv>
+                    <Unicode>werth; neben guten, brauchbaren Beispielen, stehen immer wieder unschöne, vor deren Verwendung man den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614534872909_2373" custom="readingOrder {index:2;} concept_mus {offset:37; length:11;} concept_mus {offset:58; length:15;}">
+                <Coords points="150,986 1712,986 1658,945 150,947"/>
+                <Baseline points="160,977 216,978 273,978 330,978 386,978 443,978 500,979 556,979 613,979 670,980 727,980 783,980 840,980 897,980 953,980 1010,980 1067,980 1123,980 1180,980 1237,980 1294,980 1327,979 1352,979 1377,980 1402,980 1427,980 1452,980 1477,980 1502,980 1527,980 1552,980 1577,980 1602,980 1627,980 1652,980 1677,980 1703,979"/>
+                <TextEquiv>
+                    <Unicode>noch ungewandten oder mit geringerem Musiktalent begabten Harmonieschüler, dem solche unkünstlerischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614534878593_2379" custom="readingOrder {index:3;}">
+                <Coords points="157,1036 1715,1034 1715,992 1630,986 157,988"/>
+                <Baseline points="167,1022 223,1023 279,1023 335,1023 391,1023 447,1024 503,1024 560,1024 616,1024 672,1025 728,1025 784,1025 840,1025 896,1025 953,1025 1009,1025 1065,1024 1121,1024 1177,1024 1233,1024 1290,1023 1331,1024 1356,1024 1381,1024 1406,1024 1431,1024 1456,1024 1481,1024 1506,1024 1531,1024 1556,1023 1581,1023 1606,1023 1631,1023 1656,1024 1681,1024 1706,1025"/>
+                <TextEquiv>
+                    <Unicode>Gestaltungen in den Sinn kämen, zu warnen hätte. So können wir die unten stehenden für den Gebrauch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l50" custom="readingOrder {index:4;} m_chord {offset:4; length:22;}">
+                <Coords points="156,1077 1167,1075 1167,1042 1084,1034 156,1036"/>
+                <Baseline points="166,1067 215,1067 265,1067 314,1067 364,1067 414,1067 463,1067 513,1068 562,1068 612,1068 662,1068 711,1068 761,1068 810,1068 860,1068 910,1068 959,1068 1009,1069 1058,1069 1108,1069 1158,1069"/>
+                <TextEquiv>
+                    <Unicode>des übermäßigen Dreiklangs entnommenen Beispiele nicht schön finden:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die aufgestellten Notenbeispiele erscheinen auch hier, wie viele frühere, nicht durchgehends nachahmens¬
+werth; neben guten, brauchbaren Beispielen, stehen immer wieder unschöne, vor deren Verwendung man den
+noch ungewandten oder mit geringerem Musiktalent begabten Harmonieschüler, dem solche unkünstlerischen
+Gestaltungen in den Sinn kämen, zu warnen hätte. So können wir die unten stehenden für den Gebrauch
+des übermäßigen Dreiklangs entnommenen Beispiele nicht schön finden:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614534758722_2315" custom="readingOrder {index:5;} structure {type:floating;}">
+            <Coords points="158,1082 1712,1082 1712,1259 158,1259"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614534683865_2280" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="158,1259 1712,1259 1712,1567 158,1567"/>
+            <TextLine id="r1l86" custom="readingOrder {index:0;}">
+                <Coords points="253,1297 1709,1292 1654,1250 253,1253"/>
+                <Baseline points="263,1285 334,1286 406,1287 478,1287 550,1287 622,1288 693,1288 765,1288 837,1288 909,1288 981,1288 1052,1287 1124,1287 1196,1287 1268,1287 1340,1287 1411,1286 1483,1286 1555,1286 1627,1286 1699,1286"/>
+                <TextEquiv>
+                    <Unicode>Derartige Zusammenstellungen, theils schöner, theils unschöner Beispiele erinnern an das Verfahren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l87" custom="readingOrder {index:1;} concept_mus {offset:8; length:17;} textStyle {offset:52; length:44;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="152,1340 1711,1331 152,1301"/>
+                <Baseline points="161,1328 238,1329 315,1330 392,1330 469,1331 546,1331 623,1332 700,1332 777,1332 854,1332 931,1332 1008,1332 1085,1332 1162,1332 1239,1332 1316,1332 1393,1331 1470,1331 1547,1331 1624,1330 1701,1330"/>
+                <TextEquiv>
+                    <Unicode>mancher älteren Tonlehrer, die bei solchen Anlässen alle möglichst denkbare Gestaltungen der be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l88" custom="readingOrder {index:2;} textStyle {offset:0; length:39;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="153,1387 1628,1396 1717,1385 1718,1346 153,1344"/>
+                <Baseline points="163,1372 240,1373 317,1374 394,1375 471,1375 549,1376 626,1376 703,1377 780,1377 857,1377 935,1377 1012,1377 1089,1377 1166,1377 1243,1377 1321,1377 1398,1376 1475,1376 1552,1376 1629,1375 1707,1375"/>
+                <TextEquiv>
+                    <Unicode>ziehlichen Fälle erschöpfend vorführten, dabei aber nach vorgenommener sorgfältigen Prüfung und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614534890285_2399" custom="readingOrder {index:3;}">
+                <Coords points="151,1429 1708,1435 1658,1386 152,1387"/>
+                <Baseline points="162,1417 188,1417 215,1418 241,1418 268,1418 294,1418 321,1419 347,1419 374,1419 400,1419 427,1419 453,1420 480,1420 506,1420 533,1419 560,1419 582,1420 637,1420 693,1421 749,1421 805,1421 861,1422 917,1422 972,1422 1028,1422 1084,1421 1140,1421 1196,1421 1252,1421 1308,1421 1363,1420 1419,1420 1475,1420 1531,1420 1587,1420 1643,1419 1699,1419"/>
+                <TextEquiv>
+                    <Unicode>kunstvernünftigen Sonderung die verwendbaren Beispiele mit „bene”, die übrigen mit „male” bezeichneten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614534896251_2405" custom="readingOrder {index:4;} person_author {offset:8; length:9;ID:P0041;} textStyle {offset:28; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="149,1476 1715,1476 1694,1434 149,1433"/>
+                <Baseline points="159,1460 184,1461 210,1462 236,1462 262,1463 287,1463 313,1464 339,1464 365,1464 390,1464 416,1464 442,1463 468,1463 493,1463 519,1463 545,1464 571,1464 588,1465 643,1466 699,1466 755,1466 811,1467 867,1467 923,1467 979,1467 1035,1467 1091,1466 1147,1466 1202,1466 1258,1466 1314,1465 1370,1465 1426,1465 1482,1465 1538,1465 1594,1465 1650,1465 1706,1465"/>
+                <TextEquiv>
+                    <Unicode>während Weitzmann dieselben alle gleichsam wie Muster hinstellt, oder höchstens am Schlusse eines Kapitels,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l93" custom="readingOrder {index:5;} concept_mus {offset:43; length:15;} textStyle {offset:75; length:11;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="150,1516 1716,1524 1716,1475 150,1482"/>
+                <Baseline points="159,1506 236,1507 313,1508 391,1508 468,1509 545,1510 623,1510 700,1511 777,1511 855,1511 932,1512 1009,1512 1087,1512 1164,1512 1241,1512 1319,1512 1396,1511 1473,1511 1551,1510 1628,1510 1706,1509"/>
+                <TextEquiv>
+                    <Unicode>worin er mit den Errungenschaften für die „neuere Tonkunst” prahlt, nur im Allgemeinen den Gebrauch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614534903845_2416" custom="readingOrder {index:6;}">
+                <Coords points="148,1565 464,1571 591,1552 591,1531 551,1537 535,1521 504,1531 148,1522"/>
+                <Baseline points="158,1551 183,1551 209,1552 235,1552 261,1552 287,1552 312,1552 338,1552 364,1552 390,1552 416,1552 441,1552 467,1552 493,1553 519,1553 545,1554 556,1552 582,1549"/>
+                <TextEquiv>
+                    <Unicode>derselben wieder einschränkt. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Derartige Zusammenstellungen, theils schöner, theils unschöner Beispiele erinnern an das Verfahren&#13;
+mancher älteren Tonlehrer, die bei solchen Anlässen alle möglichst denkbare Gestaltungen der be¬&#13;
+ziehlichen Fälle erschöpfend vorführten, dabei aber nach vorgenommener sorgfältigen Prüfung und&#13;
+kunstvernünftigen Sonderung die verwendbaren Beispiele mit „bene”, die übrigen mit „male” bezeichneten,&#13;
+während Weitzmann dieselben alle gleichsam wie Muster hinstellt, oder höchstens am Schlusse eines Kapitels,&#13;
+worin er mit den Errungenschaften für die „neuere Tonkunst” prahlt, nur im Allgemeinen den Gebrauch&#13;
+derselben wieder einschränkt. —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614534675906_2276" custom="readingOrder {index:7;} structure {type:paragraph-continued;}">
+            <Coords points="158,1567 1712,1567 1712,1613 158,1613"/>
+            <TextLine id="r1l96" custom="readingOrder {index:0;}">
+                <Coords points="248,1614 573,1621 596,1610 662,1628 734,1614 734,1580 713,1570 329,1584 248,1570"/>
+                <Baseline points="257,1603 282,1603 308,1604 334,1605 360,1605 386,1606 412,1606 438,1606 464,1606 490,1606 516,1606 542,1605 568,1605 594,1605 620,1605 646,1606 672,1606 698,1607 724,1607"/>
+                <TextEquiv>
+                    <Unicode>Von dem nachstehenden Beispiel:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Von dem nachstehenden Beispiel:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614534801674_2328" custom="readingOrder {index:8;} structure {type:floating;}">
+            <Coords points="158,1613 1712,1613 1712,1782 158,1782"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614534663194_2268" custom="readingOrder {index:9;} structure {type:paragraph;}">
+            <Coords points="158,1782 1712,1782 1712,2099 158,2099"/>
+            <TextLine id="r1l109" custom="readingOrder {index:0;} person_author {offset:9; length:9;ID:P0041;} m_note {offset:35; length:3;} textStyle {offset:39; length:2;italic:true; fontSize:0.0; kerning:0;} m_note {offset:39; length:2;} textStyle {offset:51; length:3;italic:true; fontSize:0.0; kerning:0;} m_note {offset:51; length:3;} textStyle {offset:63; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:63; length:12;} concept_mus {offset:80; length:7;} textStyle {offset:97; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:97; length:1;}">
+                <Coords points="158,1834 1722,1829 1722,1790 158,1785"/>
+                <Baseline points="167,1820 244,1821 321,1823 398,1824 476,1825 553,1825 630,1826 707,1826 785,1827 862,1827 939,1827 1016,1827 1094,1827 1171,1827 1248,1826 1325,1826 1403,1826 1480,1825 1557,1825 1634,1824 1712,1824"/>
+                <TextEquiv>
+                    <Unicode>sagt der Verfasser, daß „nicht der Ton As, sondern Gis” einen „stufenweisen [!] Vorhalt” [?] vor A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l110" custom="readingOrder {index:1;} concept_mus {offset:54; length:26;} m_note {offset:96; length:3;}">
+                <Coords points="158,1876 1713,1875 1657,1832 158,1834"/>
+                <Baseline points="168,1863 244,1865 321,1866 398,1867 475,1868 551,1869 628,1869 705,1870 782,1870 858,1870 935,1870 1012,1870 1089,1870 1165,1869 1242,1869 1319,1869 1396,1868 1472,1868 1549,1868 1626,1868 1703,1868"/>
+                <TextEquiv>
+                    <Unicode>bilde und nur zur Erleichterung des Lesens werde eine enharmonische Umschreibung vermieden. Der Ton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l111" custom="readingOrder {index:2;} textStyle {offset:0; length:2;italic:true; fontSize:0.0; kerning:0;} m_note {offset:0; length:2;} textStyle {offset:33; length:3;italic:true; fontSize:0.0; kerning:0;} m_note {offset:33; length:3;} person_author {offset:66; length:11;ID:P0041;}">
+                <Coords points="158,1917 1707,1925 1707,1884 1552,1874 158,1880"/>
+                <Baseline points="168,1905 244,1906 321,1908 397,1909 474,1910 550,1911 627,1911 703,1912 780,1912 856,1912 933,1912 1009,1912 1086,1912 1162,1912 1239,1912 1315,1912 1392,1911 1468,1911 1545,1911 1621,1911 1698,1910"/>
+                <TextEquiv>
+                    <Unicode>As, in seiner zweiten Hälfte als Gis betrachtet, ist, selbst nach Weitzmann's aufgestellter Lehre nichts anderes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l112" custom="readingOrder {index:3;} m_interval {offset:8; length:6;} m_chord {offset:19; length:24;} m_interval {offset:52; length:6;} person_author {offset:78; length:9;ID:P0041;}">
+                <Coords points="151,1964 1707,1971 1707,1930 1626,1924 151,1921"/>
+                <Baseline points="160,1948 236,1950 313,1951 390,1952 467,1953 544,1954 621,1955 698,1955 775,1955 852,1956 929,1956 1005,1955 1082,1955 1159,1955 1236,1955 1313,1955 1390,1954 1467,1954 1544,1954 1621,1954 1698,1954"/>
+                <TextEquiv>
+                    <Unicode>als die Quinte des übermäßigen C-Dreiklangs, welche Quinte, wie ebenfalls vom Verfasser zur Bedingung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l113" custom="readingOrder {index:4;} m_note {offset:26; length:3;} textStyle {offset:30; length:2;italic:true; fontSize:0.0; kerning:0;} m_note {offset:30; length:2;} concept_mus {offset:33; length:11;} textStyle {offset:51; length:3;italic:true; fontSize:0.0; kerning:0;} m_note {offset:51; length:3;} concept_mus {offset:59; length:7;}">
+                <Coords points="162,2008 1715,2010 1682,1963 162,1966"/>
+                <Baseline points="172,1993 248,1994 325,1995 402,1996 478,1997 555,1998 632,1998 708,1999 785,1999 862,1999 939,1999 1015,1999 1092,1999 1169,1999 1245,1999 1322,1999 1399,1999 1475,1998 1552,1998 1629,1998 1706,1998"/>
+                <TextEquiv>
+                    <Unicode>gestellt wurde, durch den Ton As vorbereitet wird. Gis als Vorhalt stände ja auch nicht vorschriftsmäßig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l114" custom="readingOrder {index:5;} textStyle {offset:5; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:5; length:12;} concept_mus {offset:19; length:9;} concept_mus {offset:96; length:7;}">
+                <Coords points="149,2049 1715,2052 1683,2009 149,2010"/>
+                <Baseline points="159,2037 236,2038 313,2039 391,2040 468,2040 545,2041 623,2041 700,2041 777,2042 855,2042 932,2042 1009,2042 1087,2042 1164,2042 1241,2042 1319,2042 1396,2042 1473,2042 1551,2041 1628,2041 1706,2041"/>
+                <TextEquiv>
+                    <Unicode>auf „accentuirtem” Tacttheil! Oder soll dieses einer der besonderen Fälle sein, bei welchem der Vorhalt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l115" custom="readingOrder {index:6;} concept_mus {offset:4; length:16;} textStyle {offset:4; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:30; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:30; length:8;} textStyle {offset:40; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="160,2092 966,2100 949,2049 776,2052 755,2074 612,2050 160,2053"/>
+                <Baseline points="170,2081 209,2081 248,2081 287,2081 327,2081 366,2081 405,2082 445,2083 484,2084 523,2085 563,2086 602,2086 641,2087 680,2087 720,2087 759,2087 798,2086 838,2085 877,2083 916,2081 956,2078"/>
+                <TextEquiv>
+                    <Unicode>die leichte Tactzeit zu einer schweren „stempelt”? —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sagt der Verfasser, daß „nicht der Ton As, sondern Gis” einen „stufenweisen [!] Vorhalt” [?] vor A&#13;
+bilde und nur zur Erleichterung des Lesens werde eine enharmonische Umschreibung vermieden. Der Ton&#13;
+As, in seiner zweiten Hälfte als Gis betrachtet, ist, selbst nach Weitzmann's aufgestellter Lehre nichts anderes,&#13;
+als die Quinte des übermäßigen C-Dreiklangs, welche Quinte, wie ebenfalls vom Verfasser zur Bedingung&#13;
+gestellt wurde, durch den Ton As vorbereitet wird. Gis als Vorhalt stände ja auch nicht vorschriftsmäßig&#13;
+auf „accentuirtem” Tacttheil! Oder soll dieses einer der besonderen Fälle sein, bei welchem der Vorhalt&#13;
+die leichte Tactzeit zu einer schweren „stempelt”? —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614534658624_2264" custom="readingOrder {index:10;} structure {type:paragraph;}">
+            <Coords points="158,2099 1712,2099 1712,2735 158,2735"/>
+            <TextLine id="r1l116" custom="readingOrder {index:0;} work_text {offset:19; length:10;ID:W0039;}">
+                <Coords points="260,2148 1713,2140 1713,2107 260,2099"/>
+                <Baseline points="270,2132 341,2134 413,2135 484,2136 556,2136 628,2137 699,2137 771,2138 843,2138 914,2138 986,2138 1058,2138 1129,2138 1201,2138 1273,2137 1344,2137 1416,2137 1488,2137 1559,2137 1631,2136 1703,2136"/>
+                <TextEquiv>
+                    <Unicode>Am Schlusse dieser Abhandlung fehlt es dann auch wieder nicht an zugeeigneten Vorrechte oder Be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l117" custom="readingOrder {index:1;} concept_mus {offset:21; length:15;} concept_mus {offset:67; length:11;} concept_mus {offset:83; length:12;} concept_mus {offset:96; length:8;}">
+                <Coords points="152,2188 1712,2196 1647,2145 152,2146"/>
+                <Baseline points="161,2174 238,2176 315,2177 392,2178 469,2179 546,2180 623,2180 700,2181 777,2181 854,2181 931,2182 1008,2182 1085,2182 1162,2182 1239,2182 1316,2181 1393,2181 1470,2181 1547,2181 1624,2181 1702,2182"/>
+                <TextEquiv>
+                    <Unicode>vorzugungen für die „neuere Tonkunst.” Dieselbe „gebraucht demnach diatonische und chromatische Vorhalte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l118" custom="readingOrder {index:2;} concept_mus {offset:37; length:6;} m_chord {offset:48; length:8;} concept_mus {offset:72; length:12;} concept_mus {offset:98; length:3; continued:true;}">
+                <Coords points="154,2229 1711,2232 1614,2193 154,2190"/>
+                <Baseline points="164,2218 240,2220 317,2221 394,2222 471,2223 548,2224 625,2225 701,2225 778,2225 855,2226 932,2226 1009,2226 1086,2226 1163,2226 1239,2225 1316,2225 1393,2225 1470,2225 1547,2225 1624,2225 1701,2225"/>
+                <TextEquiv>
+                    <Unicode>und es ergeben sich dadurch zuweilen Folgen von Accorden, deren innerer Zusammenhang erst aus der en¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l119" custom="readingOrder {index:3;} concept_mus {offset:0; length:22; continued:true;} person_author {offset:73; length:9;ID:P0041;}">
+                <Coords points="162,2282 1707,2285 1707,2241 1605,2235 162,2233"/>
+                <Baseline points="172,2263 248,2264 324,2265 400,2266 477,2266 553,2267 629,2267 705,2268 782,2268 858,2269 934,2269 1010,2269 1087,2269 1163,2269 1239,2269 1315,2269 1392,2269 1468,2269 1544,2270 1620,2270 1697,2270"/>
+                <TextEquiv>
+                    <Unicode>harmonischen Bedeutung derselben hervorgeht.” — Auch hierbei scheint dem Verfasser unbekannt zu sein, was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l120" custom="readingOrder {index:4;} concept_mus {offset:4; length:16;} concept_mus {offset:47; length:12;} concept_mus {offset:105; length:3; continued:true;}">
+                <Coords points="155,2316 1714,2318 1679,2283 155,2277"/>
+                <Baseline points="164,2307 241,2308 318,2310 395,2311 472,2312 549,2312 626,2313 703,2313 780,2313 857,2314 934,2314 1011,2314 1088,2314 1165,2313 1242,2313 1319,2313 1396,2313 1473,2313 1550,2313 1627,2313 1704,2313"/>
+                <TextEquiv>
+                    <Unicode>der älteren Tonkunst eigenthümlich ist und die Musiktheorie, längst festgestellt, aufweist. Das Feld der En¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l121" custom="readingOrder {index:5;} concept_mus {offset:0; length:8; continued:true;}">
+                <Coords points="158,2365 1715,2372 1672,2322 158,2320"/>
+                <Baseline points="168,2351 244,2352 321,2353 398,2354 475,2355 552,2356 628,2357 705,2357 782,2357 859,2358 936,2358 1012,2358 1089,2358 1166,2358 1243,2358 1320,2358 1396,2358 1473,2358 1550,2358 1627,2358 1704,2357"/>
+                <TextEquiv>
+                    <Unicode>harmonik ist bereits bestens cultivirt, wovon unten, Abtheilung XII, ausführlicher die Rede sein wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l122" custom="readingOrder {index:6;} person_author {offset:28; length:8;ID:P0140;} textStyle {offset:31; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} work_text {offset:48; length:12;ID:W0173;} textStyle {offset:88; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:92; length:8; continued:true;}">
+                <Coords points="156,2407 1602,2418 1713,2376 156,2365"/>
+                <Baseline points="166,2392 242,2394 319,2396 396,2398 473,2399 550,2401 627,2402 703,2402 780,2403 857,2403 934,2403 1011,2403 1088,2403 1165,2403 1241,2403 1318,2403 1395,2402 1472,2402 1549,2402 1626,2402 1703,2402"/>
+                <TextEquiv>
+                    <Unicode>Besonders hat sich hierüber A. André in seiner „Tonsetzkunst” ausgesprochen; er widmet „der enharmo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l123" custom="readingOrder {index:7;} textStyle {offset:0; length:30;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:18; continued:true;} m_chord {offset:23; length:7;}">
+                <Coords points="157,2450 1716,2460 1716,2415 1548,2409 157,2417"/>
+                <Baseline points="166,2438 243,2440 320,2442 397,2444 474,2445 551,2446 628,2447 705,2447 782,2448 859,2448 936,2448 1013,2448 1090,2448 1167,2448 1244,2448 1321,2447 1398,2447 1475,2447 1552,2447 1629,2447 1707,2448"/>
+                <TextEquiv>
+                    <Unicode>nischen Behandlung der Accorde” ein eigenes, zwölf Seiten füllendes Kapitel, das 15. im ersten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l124" custom="readingOrder {index:8;} work_text {offset:10; length:19;ID:W0173;}">
+                <Coords points="155,2491 1721,2499 1669,2460 155,2448"/>
+                <Baseline points="164,2483 241,2485 318,2486 396,2488 473,2489 551,2490 628,2490 705,2491 783,2492 860,2492 938,2492 1015,2492 1092,2492 1170,2492 1247,2492 1325,2492 1402,2492 1479,2492 1557,2491 1634,2491 1712,2491"/>
+                <TextEquiv>
+                    <Unicode>Bande des genannten Lehrbuchs, und eine aufmerksame Durchsicht dieses Kapitels und der Abhandlungen von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l125" custom="readingOrder {index:9;} concept_mus {offset:4; length:10;}">
+                <Coords points="159,2539 1710,2550 1710,2506 1449,2497 159,2500"/>
+                <Baseline points="168,2526 244,2528 321,2530 397,2532 474,2533 551,2534 627,2535 704,2536 780,2536 857,2537 934,2537 1010,2537 1087,2537 1163,2537 1240,2537 1317,2537 1393,2537 1470,2536 1546,2536 1623,2535 1700,2535"/>
+                <TextEquiv>
+                    <Unicode>der Enharmonik in noch andern Werken dürfte Jedermann von großem Nutzen sein, den die Lust anwandelt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l126" custom="readingOrder {index:10;} concept_mus {offset:9; length:13;} concept_mus {offset:24; length:18;}">
+                <Coords points="164,2580 1712,2597 1713,2548 164,2545"/>
+                <Baseline points="174,2573 250,2575 326,2576 403,2577 479,2578 556,2579 632,2580 708,2580 785,2581 861,2581 938,2581 1014,2581 1090,2581 1167,2581 1243,2581 1320,2581 1396,2581 1472,2581 1549,2580 1625,2580 1702,2580"/>
+                <TextEquiv>
+                    <Unicode>für die „neue Tonkunst” Accordgestaltungen erfinden oder als nagelneu erklären zu wollen, die man doch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l127" custom="readingOrder {index:11;}">
+                <Coords points="153,2635 908,2636 883,2595 590,2609 521,2587 153,2589"/>
+                <Baseline points="162,2618 198,2619 235,2619 272,2620 309,2620 346,2621 382,2622 419,2622 456,2623 493,2623 530,2624 566,2624 603,2624 640,2625 677,2625 714,2625 750,2626 787,2626 824,2626 861,2626 898,2625"/>
+                <TextEquiv>
+                    <Unicode>schon seit vielen Jahren kennt, lehrt und verwendet. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Am Schlusse dieser Abhandlung fehlt es dann auch wieder nicht an zugeeigneten Vorrechte oder Be¬&#13;
+vorzugungen für die „neuere Tonkunst.” Dieselbe „gebraucht demnach diatonische und chromatische Vorhalte,&#13;
+und es ergeben sich dadurch zuweilen Folgen von Accorden, deren innerer Zusammenhang erst aus der en¬&#13;
+harmonischen Bedeutung derselben hervorgeht.” — Auch hierbei scheint dem Verfasser unbekannt zu sein, was&#13;
+der älteren Tonkunst eigenthümlich ist und die Musiktheorie, längst festgestellt, aufweist. Das Feld der En¬&#13;
+harmonik ist bereits bestens cultivirt, wovon unten, Abtheilung XII, ausführlicher die Rede sein wird.&#13;
+Besonders hat sich hierüber A. André in seiner „Tonsetzkunst” ausgesprochen; er widmet „der enharmo¬&#13;
+nischen Behandlung der Accorde” ein eigenes, zwölf Seiten füllendes Kapitel, das 15. im ersten&#13;
+Bande des genannten Lehrbuchs, und eine aufmerksame Durchsicht dieses Kapitels und der Abhandlungen von&#13;
+der Enharmonik in noch andern Werken dürfte Jedermann von großem Nutzen sein, den die Lust anwandelt,&#13;
+für die „neue Tonkunst” Accordgestaltungen erfinden oder als nagelneu erklären zu wollen, die man doch&#13;
+schon seit vielen Jahren kennt, lehrt und verwendet. —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

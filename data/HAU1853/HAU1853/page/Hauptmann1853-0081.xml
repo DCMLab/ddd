@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:33.871+01:00</Created>
+        <LastChange>2021-08-31T18:14:40.049+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718941" pageNr="72" tsid="63840746" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=DZBXGYMDECYAZHEVORUZJGXR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MJEXXTEABVDVPSXLXSZMHYKK" imageId="22439446"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0081.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630597165780" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612449454350_93"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612449465326_98"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612449482550_103"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1612449504023_112"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1612449504023_111"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1613335203521_3956"/>
+                <RegionRefIndexed index="7" regionRef="TextRegion_1613335198579_3951"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612449454350_93" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="239,255 1306,255 1306,309 239,309"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="737,290 790,291 792,246 769,244 759,251 739,251"/>
+                <Baseline points="744,281 784,282"/>
+                <TextEquiv>
+                    <Unicode>62</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>62</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612449465326_98" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="239,309 1306,309 1306,610 239,610"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_tonality {offset:0; length:13;} m_interval {offset:20; length:7;} m_chord {offset:32; length:24;}">
+                <Coords points="232,395 1287,402 1287,356 1183,348 232,348"/>
+                <Baseline points="239,384 291,384 343,383 395,383 447,383 499,382 551,382 603,382 655,382 707,381 760,381 812,381 864,381 916,381 968,381 1020,381 1072,381 1124,381 1176,382 1228,382 1281,382"/>
+                <TextEquiv>
+                    <Unicode>Molltonleiter nicht Durterz des Unterdominantdreiklanges,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_interval {offset:8; length:14;} m_interval {offset:46; length:8;}">
+                <Coords points="241,451 1301,442 1301,411 1214,395 1027,424 241,411"/>
+                <Baseline points="247,437 299,436 351,436 404,436 456,435 508,435 561,435 613,435 665,435 718,435 770,435 822,435 875,435 927,435 979,435 1032,435 1084,435 1136,435 1189,436 1241,436 1294,436"/>
+                <TextEquiv>
+                    <Unicode>und die kleine Septime der absteigenden nicht Mollterz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_chord {offset:4; length:20;}">
+                <Coords points="240,499 1296,499 1296,450 1208,477 1175,452 968,477 240,452"/>
+                <Baseline points="246,489 298,489 350,489 402,489 454,489 506,489 558,489 611,489 663,489 715,488 767,488 819,488 871,488 923,488 976,488 1028,488 1080,488 1132,488 1184,488 1236,488 1289,488"/>
+                <TextEquiv>
+                    <Unicode>des Oberdominantaccordes sein kann, denn beide sind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:18; length:8;}">
+                <Coords points="243,555 1222,563 1294,538 1294,514 1160,508 243,508"/>
+                <Baseline points="250,542 301,542 353,542 405,542 457,542 509,542 561,542 613,542 665,542 717,542 769,542 820,542 872,542 924,541 976,541 1028,541 1080,540 1132,540 1184,540 1236,539 1288,538"/>
+                <TextEquiv>
+                    <Unicode>im Organismus des Systemes nicht möglich; sie widerspre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="241,604 946,602 927,572 866,555 752,578 580,555 241,571"/>
+                <Baseline points="247,596 281,596 316,595 350,595 385,595 420,595 454,595 489,595 524,595 558,595 593,595 628,595 662,595 697,595 732,595 766,595 801,595 836,595 870,595 905,595 940,595"/>
+                <TextEquiv>
+                    <Unicode>chen den Grundbedingungen desselben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Molltonleiter nicht Durterz des Unterdominantdreiklanges,
+und die kleine Septime der absteigenden nicht Mollterz
+des Oberdominantaccordes sein kann, denn beide sind
+im Organismus des Systemes nicht möglich; sie widerspre¬
+chen den Grundbedingungen desselben.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612449482550_103" custom="readingOrder {index:2;}">
+            <Coords points="239,610 1306,610 1306,1274 239,1274"/>
+            <TextLine id="r1l7" custom="readingOrder {index:0;}">
+                <Coords points="330,659 1286,651 1271,620 1196,612 330,620"/>
+                <Baseline points="336,648 383,648 430,648 477,648 524,647 572,647 619,647 666,647 713,647 760,648 808,648 855,648 902,648 949,648 996,648 1044,648 1091,648 1138,647 1185,647 1232,647 1280,646"/>
+                <TextEquiv>
+                    <Unicode>81. Wie weitläufig diese soviel als möglich noch zu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:1;}">
+                <Coords points="234,714 1296,707 1271,668 234,675"/>
+                <Baseline points="240,704 292,703 345,702 397,702 450,701 502,701 555,701 607,701 660,700 712,700 765,700 817,700 870,700 922,700 975,700 1027,701 1080,701 1132,701 1185,701 1237,701 1290,701"/>
+                <TextEquiv>
+                    <Unicode>sammengedrängte Wortdarstellung der Construction für die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:2;} m_tonality {offset:0; length:13;} concept_mus {offset:36; length:6;}">
+                <Coords points="233,764 1290,761 1247,716 233,723"/>
+                <Baseline points="239,755 291,755 343,755 395,755 447,755 500,754 552,754 604,754 656,754 708,754 761,753 813,753 865,753 917,753 969,753 1022,753 1074,753 1126,753 1178,754 1230,754 1283,754"/>
+                <TextEquiv>
+                    <Unicode>Molltonleiter in ihren drei letzten Stufen hier ausfallen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="232,820 1144,827 1271,819 1289,786 232,787"/>
+                <Baseline points="239,807 291,807 343,807 395,807 447,807 499,807 551,807 604,807 656,807 708,807 760,808 812,808 864,808 916,808 969,808 1021,807 1073,807 1125,807 1177,807 1229,807 1282,807"/>
+                <TextEquiv>
+                    <Unicode>musste, so ist die Sache selbst doch nur in strenger Noth¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="233,870 1288,883 1288,836 1175,828 233,836"/>
+                <Baseline points="239,860 291,860 343,860 395,860 447,860 499,861 551,861 604,861 656,861 708,861 760,861 812,861 864,861 916,861 969,861 1021,861 1073,861 1125,861 1177,861 1229,861 1282,861"/>
+                <TextEquiv>
+                    <Unicode>wendigkeit gegeben, als der sich selbst bildende Stufengang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;} concept_mus {offset:19; length:11;} concept_mus {offset:54; length:3; continued:true;}">
+                <Coords points="233,923 1288,914 1175,876 233,884"/>
+                <Baseline points="240,915 292,915 344,914 396,914 448,914 500,914 552,914 604,914 656,914 708,914 761,914 813,914 865,914 917,914 969,914 1021,914 1073,914 1125,914 1177,913 1229,913 1282,913"/>
+                <TextEquiv>
+                    <Unicode>in nächstmöglicher Vermittlung, die, wenn sie für das Un¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;} concept_mus {offset:0; length:11; continued:true;} textStyle {offset:16; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:16; length:9;} concept_mus {offset:46; length:8;}">
+                <Coords points="242,979 1168,987 1297,979 1297,938 242,940"/>
+                <Baseline points="248,964 300,965 352,966 404,967 456,967 508,967 560,968 612,968 664,968 716,968 769,968 821,968 873,968 925,968 977,968 1029,967 1081,967 1133,967 1185,967 1237,967 1290,967"/>
+                <TextEquiv>
+                    <Unicode>vermittelte der Durtonart durch die Mitte des Systemes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;} textStyle {offset:30; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:30; length:10;}">
+                <Coords points="241,1035 1293,1019 1269,988 241,994"/>
+                <Baseline points="247,1019 301,1020 356,1020 411,1021 465,1021 520,1021 575,1021 629,1021 684,1022 739,1022 793,1022 848,1021 903,1021 957,1021 1012,1021 1067,1021 1121,1020 1176,1020 1231,1020 1286,1019"/>
+                <TextEquiv>
+                    <Unicode>sich bildet, für dasselbe der Molltonart durch seine bei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:8;} textStyle {offset:4; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="236,1082 1144,1091 1287,1082 1299,1044 236,1045"/>
+                <Baseline points="243,1073 295,1074 347,1074 400,1074 452,1075 505,1075 557,1075 610,1075 662,1075 715,1075 767,1075 819,1075 872,1074 924,1074 977,1074 1029,1074 1082,1074 1134,1074 1187,1073 1239,1073 1292,1073"/>
+                <TextEquiv>
+                    <Unicode>den Grenzen geschieht: und so muss auch hier, bei der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;} m_tonality {offset:41; length:10;}">
+                <Coords points="241,1139 1293,1139 1284,1099 584,1092 556,1118 241,1092"/>
+                <Baseline points="247,1126 301,1126 356,1127 411,1127 465,1127 520,1127 575,1128 629,1128 684,1128 739,1128 793,1128 848,1128 903,1128 957,1128 1012,1128 1067,1128 1121,1127 1176,1127 1231,1127 1286,1127"/>
+                <TextEquiv>
+                    <Unicode>Folgevermittlung, die Trennungsnatur der Molltonart zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:10;} m_tonality {offset:51; length:4; continued:true;}">
+                <Coords points="241,1188 1292,1186 1292,1157 1231,1148 241,1148"/>
+                <Baseline points="247,1181 298,1181 350,1180 402,1180 454,1180 506,1180 558,1180 610,1180 662,1181 714,1181 766,1181 817,1181 869,1181 921,1181 973,1181 1025,1181 1077,1181 1129,1180 1181,1180 1233,1179 1285,1179"/>
+                <TextEquiv>
+                    <Unicode>Aeusserung kommen, wie in der Folgevermittlung der Dur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:11;} m_tonality {offset:0; length:6; continued:true;}">
+                <Coords points="233,1243 1019,1242 1019,1210 984,1195 233,1205"/>
+                <Baseline points="240,1234 278,1234 317,1234 355,1233 394,1233 433,1233 471,1233 510,1233 548,1233 587,1233 626,1233 664,1233 703,1233 741,1233 780,1233 819,1233 857,1233 896,1233 934,1233 973,1234 1012,1234"/>
+                <TextEquiv>
+                    <Unicode>tonart die Natur der Einheit sich ausspricht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>81. Wie weitläufig diese soviel als möglich noch zu¬
+sammengedrängte Wortdarstellung der Construction für die
+Molltonleiter in ihren drei letzten Stufen hier ausfallen
+musste, so ist die Sache selbst doch nur in strenger Noth¬
+wendigkeit gegeben, als der sich selbst bildende Stufengang
+in nächstmöglicher Vermittlung, die, wenn sie für das Un¬
+vermittelte der Durtonart durch die Mitte des Systemes
+sich bildet, für dasselbe der Molltonart durch seine bei¬
+den Grenzen geschieht: und so muss auch hier, bei der
+Folgevermittlung, die Trennungsnatur der Molltonart zur
+Aeusserung kommen, wie in der Folgevermittlung der Dur¬
+tonart die Natur der Einheit sich ausspricht.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1612449504023_112" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="239,1274 1306,1274 1306,1394 239,1394"/>
+            <TextLine id="r1l19" custom="readingOrder {index:0;} m_tonality {offset:0; length:9;} m_tonality {offset:14; length:15;}">
+                <Coords points="462,1369 1073,1363 1073,1329 959,1315 913,1330 736,1315 710,1332 687,1317 529,1331 462,1317"/>
+                <Baseline points="468,1356 497,1356 527,1357 557,1357 587,1357 617,1357 647,1357 677,1357 707,1357 737,1357 767,1357 796,1357 826,1356 856,1356 886,1356 916,1356 946,1356 976,1357 1006,1357 1036,1358 1066,1358"/>
+                <TextEquiv>
+                    <Unicode>Tonleiter der Moll-Dur-Tonart.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tonleiter der Moll-Dur-Tonart.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612449504023_111" custom="readingOrder {index:4;}">
+            <Coords points="239,1394 1306,1394 1306,1895 239,1895"/>
+            <TextLine id="r1l20" custom="readingOrder {index:0;} m_tonality {offset:8; length:9;} m_tonality {offset:22; length:14;}">
+                <Coords points="322,1467 1290,1459 1272,1420 322,1419"/>
+                <Baseline points="329,1453 376,1453 424,1454 472,1454 519,1454 567,1454 615,1454 662,1454 710,1455 758,1455 806,1455 853,1455 901,1455 949,1455 996,1455 1044,1455 1092,1455 1139,1455 1187,1455 1235,1455 1283,1454"/>
+                <TextEquiv>
+                    <Unicode>82. Die Tonleiter der Moll-Durtonart wird im Aufstei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:1;} concept_mus {offset:19; length:8;} m_interval {offset:28; length:7;} m_interval {offset:47; length:5;}">
+                <Coords points="232,1523 1212,1531 1296,1514 1296,1484 232,1485"/>
+                <Baseline points="239,1505 291,1505 344,1505 396,1505 449,1505 501,1505 554,1506 606,1506 659,1507 711,1507 764,1508 816,1508 869,1509 921,1509 974,1509 1026,1510 1079,1510 1131,1510 1184,1509 1236,1509 1289,1508"/>
+                <TextEquiv>
+                    <Unicode>gen sich durch die tonische Durterz bis zu der Quint, gleich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:2;} m_tonality {offset:4; length:16;}">
+                <Coords points="245,1571 1285,1571 1248,1524 803,1550 245,1526"/>
+                <Baseline points="251,1559 302,1559 353,1559 405,1560 456,1560 508,1560 559,1561 610,1561 662,1561 713,1561 765,1562 816,1562 867,1562 919,1562 970,1562 1022,1562 1073,1562 1124,1562 1176,1562 1227,1562 1279,1562"/>
+                <TextEquiv>
+                    <Unicode>der Durtonart-Leiter, bewegen, den weiteren Fortgang aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:3;} m_tonality {offset:8; length:17;} m_interval {offset:47; length:10; continued:true;}">
+                <Coords points="240,1618 1290,1618 1258,1580 240,1588"/>
+                <Baseline points="247,1610 298,1611 350,1612 402,1613 454,1613 506,1614 557,1614 609,1615 661,1615 713,1615 765,1615 816,1615 868,1616 920,1616 972,1615 1024,1615 1075,1615 1127,1615 1179,1615 1231,1615 1283,1615"/>
+                <TextEquiv>
+                    <Unicode>wie die Molltonart-Leiter erhalten. Da ihr die Unterdomi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:4;} m_interval {offset:0; length:12; continued:true;} concept_mus {offset:49; length:6;}">
+                <Coords points="239,1674 1286,1667 1239,1636 239,1643"/>
+                <Baseline points="246,1666 297,1666 349,1666 401,1666 452,1666 504,1666 556,1667 607,1667 659,1667 711,1668 763,1668 814,1668 866,1669 918,1669 969,1669 1021,1669 1073,1669 1124,1669 1176,1668 1228,1668 1280,1667"/>
+                <TextEquiv>
+                    <Unicode>nant-Durterz fehlt, so bedarf sie in den letzten Stufen der¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:5;} concept_mus {offset:7; length:11;} m_interval {offset:29; length:17;}">
+                <Coords points="234,1731 1295,1730 1271,1690 235,1692"/>
+                <Baseline points="241,1717 293,1718 345,1718 398,1719 450,1719 502,1719 555,1720 607,1720 659,1720 712,1721 764,1721 816,1721 869,1721 921,1722 973,1722 1026,1722 1078,1722 1130,1722 1183,1722 1235,1721 1288,1721"/>
+                <TextEquiv>
+                    <Unicode>selben Vermittlung durch die Oberdominantquint, wie sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:6;} m_tonality {offset:21; length:13;}">
+                <Coords points="238,1780 1292,1785 1292,1747 1255,1740 238,1748"/>
+                <Baseline points="245,1771 297,1771 349,1772 401,1772 453,1773 505,1773 557,1773 609,1774 661,1774 713,1774 765,1775 817,1775 869,1775 921,1775 973,1775 1025,1775 1077,1775 1129,1775 1181,1775 1233,1774 1285,1774"/>
+                <TextEquiv>
+                    <Unicode>auch absteigend, der Molltonleiter gleich, nur durch den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:7;} m_note {offset:0; length:21;} concept_mus {offset:26; length:21;}">
+                <Coords points="236,1831 1298,1835 1298,1802 1248,1796 237,1787"/>
+                <Baseline points="243,1823 295,1824 347,1825 400,1825 452,1826 505,1826 557,1827 609,1827 662,1827 714,1827 767,1827 819,1827 871,1827 924,1827 976,1827 1029,1827 1081,1827 1133,1827 1186,1827 1238,1828 1291,1828"/>
+                <TextEquiv>
+                    <Unicode>Unterdominantgrundton die Uebergangsvermittlung erhalten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:8;}">
+                <Coords points="238,1890 343,1892 344,1861 334,1861 327,1853 264,1853 256,1845 239,1844"/>
+                <Baseline points="245,1878 275,1877 306,1878 337,1880"/>
+                <TextEquiv>
+                    <Unicode>kann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>82. Die Tonleiter der Moll-Durtonart wird im Aufstei¬
+gen sich durch die tonische Durterz bis zu der Quint, gleich
+der Durtonart-Leiter, bewegen, den weiteren Fortgang aber
+wie die Molltonart-Leiter erhalten. Da ihr die Unterdomi¬
+nant-Durterz fehlt, so bedarf sie in den letzten Stufen der¬
+selben Vermittlung durch die Oberdominantquint, wie sie
+auch absteigend, der Molltonleiter gleich, nur durch den
+Unterdominantgrundton die Uebergangsvermittlung erhalten
+kann.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1613335203521_3956" custom="readingOrder {index:5;} structure {type:paragraph-continued;}">
+            <Coords points="239,1895 1306,1895 1306,1954 239,1954"/>
+            <TextLine id="r1l29" custom="readingOrder {index:0;} m_tonality {offset:9; length:12;} concept_mus {offset:41; length:8;}">
+                <Coords points="320,1932 1220,1946 1220,1908 1146,1899 321,1899"/>
+                <Baseline points="327,1930 371,1930 415,1931 460,1932 504,1932 548,1933 593,1933 637,1934 681,1934 726,1934 770,1934 814,1935 859,1935 903,1935 947,1935 992,1935 1036,1935 1080,1935 1125,1935 1169,1935 1214,1935"/>
+                <TextEquiv>
+                    <Unicode>Wenn die Durtonleiter sich bildet in der Tonfolge:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wenn die Durtonleiter sich bildet in der Tonfolge:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1613335214379_3960" custom="readingOrder {index:6;} structure {type:floating;}">
+            <Coords points="239,1954 1306,1954 1306,2016 239,2016"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1613335198579_3951" custom="readingOrder {index:7;} structure {type:paragraph-continued;}">
+            <Coords points="239,2016 1306,2016 1306,2080 239,2080"/>
+            <TextLine id="r1l31" custom="readingOrder {index:0;} m_tonality {offset:14; length:17;}">
+                <Coords points="240,2066 777,2060 889,2083 984,2071 985,2044 421,2019 240,2035"/>
+                <Baseline points="246,2057 282,2058 319,2059 355,2059 392,2060 429,2060 465,2060 502,2061 538,2061 575,2061 612,2061 648,2061 685,2061 721,2061 758,2061 795,2061 831,2061 868,2061 904,2062 941,2062 978,2063"/>
+                <TextEquiv>
+                    <Unicode>so erhält die Moll-Durtonleiter dagegen in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>so erhält die Moll-Durtonleiter dagegen in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1613335223713_3967" custom="readingOrder {index:8;} structure {type:floating;}">
+            <Coords points="239,2080 1306,2080 1306,2162 239,2162"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

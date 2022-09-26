@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-18T14:22:11.425+01:00</Created>
+        <LastChange>2021-09-08T17:45:22.517+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121718" pageNr="121" tsid="64434149" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HQFZIQDCUETRUJSFZKFZQKPV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CNBZYRKABSFBLYGDGECBYYAJ" imageId="21905088"/>
+    </Metadata>
+    <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0130.jpg" imageWidth="1502" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1631311000190" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1621184351439_63"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1621184351439_62"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1621184342252_52"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1621184420989_79"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1621184420988_78"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1621184414452_74"/>
+                <RegionRefIndexed index="7" regionRef="TextRegion_1621184408441_70"/>
+                <RegionRefIndexed index="9" regionRef="TextRegion_1621184325070_38"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1621184351439_63" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="57,122 1293,122 1293,194 57,194"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="518,161 623,163 632,172 709,171 734,148 747,148 748,127 634,123 612,138 518,138"/>
+                <Baseline points="525,157 551,157 578,159 605,161 632,162 658,163 685,162 712,159 739,154"/>
+                <TextEquiv>
+                    <Unicode>113</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>113</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621184351439_62" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="57,194 1293,194 1293,464 57,464"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:15; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:15; length:10;} textStyle {offset:35; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:35; length:9;}">
+                <Coords points="156,276 1300,281 1300,242 1203,226 810,252 156,226"/>
+                <Baseline points="164,264 220,264 276,265 333,265 389,265 446,265 502,266 558,266 615,266 671,266 728,266 784,267 840,267 897,267 953,267 1010,268 1066,268 1122,269 1179,269 1235,270 1292,271"/>
+                <TextEquiv>
+                    <Unicode>Nicht blos die Harmonieen auch die Melodieen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621184529402_118" custom="readingOrder {index:1;} concept_mus {offset:41; length:6;} work_music {offset:49; length:3; continued:true;ID:W0220;}">
+                <Coords points="54,339 1298,327 1280,292 1049,283 787,316 749,283 54,290"/>
+                <Baseline points="61,320 96,322 132,323 168,324 204,325 240,325 276,326 312,326 348,326 384,326 420,326 455,326 491,326 527,326 563,326 599,326 635,326 671,327 707,327 743,328 779,328 829,325 854,326 880,326 905,326 931,327 957,327 982,328 1008,328 1033,328 1059,329 1085,329 1110,329 1136,329 1161,329 1187,329 1213,329 1238,328 1264,328 1290,327"/>
+                <TextEquiv>
+                    <Unicode>sind schwankend und veränderlich. In dem Choral „Wer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;} work_music {offset:0; length:32; continued:true;ID:W0220;}">
+                <Coords points="51,396 1297,395 1280,347 51,354"/>
+                <Baseline points="58,383 119,384 181,384 242,385 304,385 365,385 427,385 488,385 550,385 611,385 673,385 735,385 796,385 858,386 919,386 981,386 1042,387 1104,388 1165,389 1227,390 1289,391"/>
+                <TextEquiv>
+                    <Unicode>nur den lieben Gott lässt walten” sieht man noch jetzt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;} concept_mus {offset:27; length:5;}">
+                <Coords points="56,453 304,444 477,467 575,458 598,435 741,459 742,416 56,408"/>
+                <Baseline points="64,443 97,443 130,444 164,445 197,445 231,445 264,445 298,445 331,445 365,445 398,445 431,445 465,445 498,445 532,445 565,445 599,445 632,445 666,445 699,445 733,446"/>
+                <TextEquiv>
+                    <Unicode>vielfach die ursprüngliche Weise:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nicht blos die Harmonieen auch die Melodieen&#13;
+sind schwankend und veränderlich. In dem Choral „Wer&#13;
+nur den lieben Gott lässt walten” sieht man noch jetzt&#13;
+vielfach die ursprüngliche Weise:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1621184480697_94" custom="readingOrder {index:2;} structure {type:floating;}">
+            <Coords points="57,464 1293,464 1293,839 57,839"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621184342252_52" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="57,839 1293,839 1293,1409 57,1409"/>
+            <TextLine id="r1l23" custom="readingOrder {index:0;} concept_mus {offset:10; length:7;} concept_mus {offset:34; length:5;} textStyle {offset:57; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:57; length:1;}">
+                <Coords points="152,915 1288,920 1288,859 152,859"/>
+                <Baseline points="160,900 216,900 272,899 328,899 384,899 440,899 496,899 552,899 608,899 664,899 720,899 776,900 832,900 888,900 944,900 1000,900 1056,900 1112,900 1168,900 1224,899 1281,899"/>
+                <TextEquiv>
+                    <Unicode>In vielen Kirchen wird im vierten Takte noch richtig das f</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:1;}">
+                <Coords points="55,979 1293,972 1251,915 55,924"/>
+                <Baseline points="63,962 124,962 185,961 246,961 307,961 368,961 429,961 490,960 551,960 612,960 674,960 735,959 796,959 857,959 918,959 979,959 1040,959 1101,959 1162,959 1223,959 1285,960"/>
+                <TextEquiv>
+                    <Unicode>gesungen, im siebenten gewiss nicht mehr, wenn nicht vielleicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:2;} concept_mus {offset:47; length:7; continued:true;}">
+                <Coords points="55,1030 1290,1019 1262,979 962,978 930,1009 868,979 55,979"/>
+                <Baseline points="62,1021 123,1020 184,1020 245,1020 306,1019 367,1019 428,1019 489,1019 550,1019 611,1019 672,1019 733,1018 794,1018 855,1018 916,1018 977,1018 1038,1018 1099,1018 1160,1017 1221,1017 1282,1017"/>
+                <TextEquiv>
+                    <Unicode>doch bei weniger entwickelten Nationen. In den Choral¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:3;} concept_mus {offset:0; length:7; continued:true;} textStyle {offset:40; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} person_composer {offset:40; length:6;ID:P0165;}">
+                <Coords points="55,1092 1279,1092 1296,1045 54,1044"/>
+                <Baseline points="62,1081 123,1080 184,1080 245,1080 307,1080 368,1080 429,1080 491,1080 552,1080 613,1080 675,1079 736,1079 797,1079 858,1079 920,1079 981,1079 1042,1079 1104,1078 1165,1078 1226,1078 1288,1078"/>
+                <TextEquiv>
+                    <Unicode>büchern sind die Lesearten verschieden. Layriz schreibt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:4;} m_note {offset:0; length:4;} textStyle {offset:0; length:3;italic:true; fontSize:0.0; kerning:0;} concept_mus {offset:11; length:4;} person_composer {offset:24; length:4;ID:P0054;} textStyle {offset:29; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="59,1172 1297,1152 1248,1106 187,1137 59,1099"/>
+                <Baseline points="66,1149 127,1149 188,1148 249,1148 310,1148 372,1148 433,1148 494,1148 555,1148 616,1147 678,1147 739,1147 800,1147 861,1147 922,1146 984,1146 1045,1146 1106,1146 1167,1145 1228,1145 1290,1145"/>
+                <TextEquiv>
+                    <Unicode>fis} im 4. Takt, ebenso Bach 1) ohne Ausnahme. Ebenso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:5;} textStyle {offset:14; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:14; length:1;} textStyle {offset:34; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} person_composer {offset:34; length:7;ID:P0166;} textStyle {offset:42; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="55,1219 1278,1220 1301,1169 55,1179"/>
+                <Baseline points="62,1207 123,1207 185,1208 246,1208 308,1208 369,1208 431,1208 492,1207 554,1207 615,1207 677,1206 739,1206 800,1206 862,1205 923,1205 985,1204 1046,1204 1108,1203 1169,1203 1231,1203 1293,1203"/>
+                <TextEquiv>
+                    <Unicode>oft kommt das f vor. So z. B. bei Brenner 2) und bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:6;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} person_composer {offset:0; length:7;ID:P0167;} textStyle {offset:8; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:12; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} person_composer {offset:12; length:8;ID:P0168;} concept_mus {offset:38; length:6;}">
+                <Coords points="54,1275 1288,1273 1288,1227 54,1227"/>
+                <Baseline points="62,1266 122,1266 183,1266 244,1265 305,1265 366,1265 427,1265 488,1265 549,1265 610,1266 671,1266 731,1266 792,1266 853,1266 914,1266 975,1266 1036,1266 1097,1265 1158,1265 1219,1265 1280,1264"/>
+                <TextEquiv>
+                    <Unicode>Punchel 3). Wedemann bringt denselben Choral zweimal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:7;} textStyle {offset:9; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:16; length:3;} textStyle {offset:21; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="61,1341 432,1332 589,1347 607,1337 607,1293 60,1299"/>
+                <Baseline points="68,1328 94,1328 121,1329 147,1329 174,1329 201,1330 227,1330 254,1330 280,1330 307,1330 334,1330 360,1330 387,1329 413,1329 440,1328 467,1327 493,1326 520,1324 546,1323 573,1320 600,1318"/>
+                <TextEquiv>
+                    <Unicode>und zwar nur in Dur! 4)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In vielen Kirchen wird im vierten Takte noch richtig das f&#13;
+gesungen, im siebenten gewiss nicht mehr, wenn nicht vielleicht&#13;
+doch bei weniger entwickelten Nationen. In den Choral¬&#13;
+büchern sind die Lesearten verschieden. Layriz schreibt&#13;
+fis} im 4. Takt, ebenso Bach 1) ohne Ausnahme. Ebenso&#13;
+oft kommt das f vor. So z. B. bei Brenner 2) und bei&#13;
+Punchel 3). Wedemann bringt denselben Choral zweimal&#13;
+und zwar nur in Dur! 4)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="footnote" id="TextRegion_1621184420989_79" custom="readingOrder {index:4;}">
+            <Coords points="57,1409 1293,1409 1293,1534 57,1534"/>
+            <TextLine id="line_1621184553401_162" custom="readingOrder {index:0;} person_composer {offset:3; length:10;ID:P0054;} textStyle {offset:9; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} work_music {offset:15; length:30;ID:W0222;} location {offset:48; length:7;}">
+                <Coords points="158,1490 1298,1481 1298,1443 158,1443"/>
+                <Baseline points="166,1475 198,1475 222,1476 275,1477 328,1477 382,1477 435,1477 489,1477 542,1477 595,1477 649,1477 702,1476 756,1476 809,1475 862,1475 916,1475 969,1474 1023,1474 1076,1474 1129,1474 1183,1474 1236,1475 1290,1476"/>
+                <TextEquiv>
+                    <Unicode>1) J. S. Bach „371 vierstimmige Choralgesänge”. Leipzig bei Breitkopf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:1;}">
+                <Coords points="49,1530 111,1531 119,1523 142,1532 237,1530 238,1496 187,1491 175,1498 167,1490 136,1490 50,1499"/>
+                <Baseline points="57,1520 85,1519 114,1519 143,1520 171,1520 200,1521 229,1522"/>
+                <TextEquiv>
+                    <Unicode>und Härtel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1) J. S. Bach „371 vierstimmige Choralgesänge”. Leipzig bei Breitkopf&#13;
+und Härtel.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="footnote" id="TextRegion_1621184420988_78" custom="readingOrder {index:5;}">
+            <Coords points="57,1534 1293,1534 1293,1626 57,1626"/>
+            <TextLine id="r1l34" custom="readingOrder {index:0;} person_composer {offset:3; length:10;ID:P0166;} textStyle {offset:6; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} work_music {offset:15; length:33;ID:W0223;} location {offset:51; length:6;} time {offset:58; length:4;}">
+                <Coords points="150,1579 1143,1588 1285,1579 1285,1533 150,1542"/>
+                <Baseline points="157,1569 213,1570 269,1570 325,1571 381,1571 437,1571 493,1571 549,1571 605,1570 661,1570 717,1570 773,1569 829,1569 885,1568 941,1568 997,1567 1053,1567 1109,1567 1165,1567 1221,1567 1277,1567"/>
+                <TextEquiv>
+                    <Unicode>2) F. Brenner „Choralbuch für vier Männerstimmen”, Dorpat 1862.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:1;}">
+                <Coords points="60,1629 442,1626 442,1595 369,1592 354,1579 316,1590 296,1579 279,1596 252,1579 223,1596 60,1586"/>
+                <Baseline points="67,1612 93,1613 119,1613 145,1613 171,1614 198,1614 224,1614 250,1614 276,1614 302,1614 329,1614 355,1614 381,1614 407,1613 434,1613"/>
+                <TextEquiv>
+                    <Unicode>Verlag von E. J. Karow.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2) F. Brenner „Choralbuch für vier Männerstimmen”, Dorpat 1862.&#13;
+Verlag von E. J. Karow.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="footnote" id="TextRegion_1621184414452_74" custom="readingOrder {index:6;}">
+            <Coords points="57,1626 1293,1626 1293,1720 57,1720"/>
+            <TextLine id="r1l36" custom="readingOrder {index:0;} person_composer {offset:3; length:17;ID:P0167;} textStyle {offset:12; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} work_music {offset:22; length:24;ID:W0224;}">
+                <Coords points="154,1675 1280,1676 1289,1634 154,1636"/>
+                <Baseline points="161,1663 217,1664 273,1665 329,1665 385,1666 441,1666 497,1666 553,1666 609,1665 665,1665 721,1664 777,1664 833,1663 889,1663 945,1662 1001,1662 1057,1661 1113,1661 1169,1661 1225,1661 1282,1662"/>
+                <TextEquiv>
+                    <Unicode>3) J. L. E. Punschel „Evangelisches Choralbuch”. Sechste Auflage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:1;} location {offset:0; length:5;} time {offset:6; length:4;}">
+                <Coords points="56,1715 143,1716 149,1710 158,1716 241,1715 241,1677 191,1672 181,1680 150,1680 128,1674 121,1682 99,1684 88,1683 73,1667 56,1667"/>
+                <Baseline points="64,1708 92,1707 120,1707 148,1706 176,1706 204,1706 233,1707"/>
+                <TextEquiv>
+                    <Unicode>Reval 1862.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3) J. L. E. Punschel „Evangelisches Choralbuch”. Sechste Auflage.&#13;
+Reval 1862.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="footnote" id="TextRegion_1621184408441_70" custom="readingOrder {index:7;}">
+            <Coords points="57,1720 1293,1720 1293,1913 57,1913"/>
+            <TextLine id="line_1621184566070_181" custom="readingOrder {index:0;}">
+                <Coords points="154,1766 1294,1763 1278,1723 154,1737"/>
+                <Baseline points="161,1756 195,1758 227,1757 282,1758 338,1758 394,1758 449,1758 505,1758 561,1758 617,1758 672,1758 728,1758 784,1758 840,1757 895,1757 951,1757 1007,1756 1063,1756 1118,1755 1174,1754 1230,1754 1286,1753"/>
+                <TextEquiv>
+                    <Unicode>4) Einer esthnischen kirchlichen Gemeindeversammlung könnte man mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:1;} concept_mus {offset:14; length:9;} m_note {offset:28; length:4;} textStyle {offset:28; length:3;italic:true; fontSize:0.0; kerning:0;} m_note {offset:74; length:2;} textStyle {offset:74; length:1;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="55,1818 1153,1822 1281,1811 1281,1769 55,1778"/>
+                <Baseline points="63,1809 123,1809 184,1810 244,1810 305,1810 365,1810 426,1810 486,1809 547,1809 607,1809 668,1809 728,1809 789,1808 849,1808 910,1807 970,1807 1031,1806 1091,1806 1152,1805 1212,1804 1273,1803"/>
+                <TextEquiv>
+                    <Unicode>dem stärksten Orgelwerk das fis} spielen, es würde mit grosser Sicherheit f} intoni¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:2;} concept_mus {offset:9; length:6;} work_music {offset:17; length:30;ID:W0221;}">
+                <Coords points="55,1860 1283,1859 1247,1813 55,1826"/>
+                <Baseline points="63,1853 123,1853 184,1852 244,1852 305,1852 366,1852 426,1852 487,1852 547,1852 608,1851 669,1851 729,1851 790,1850 850,1850 911,1850 972,1849 1032,1848 1093,1848 1153,1847 1214,1846 1275,1845"/>
+                <TextEquiv>
+                    <Unicode>ren. Der Choral „Höchster Priester, der Du Dich” hat in dritter Strophe eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:3;}">
+                <Coords points="58,1908 117,1898 169,1915 307,1904 397,1916 535,1900 535,1875 498,1858 438,1860 423,1876 370,1859 310,1876 58,1866"/>
+                <Baseline points="65,1896 90,1895 116,1895 142,1895 167,1895 193,1894 219,1894 245,1894 270,1894 296,1894 322,1894 347,1894 373,1894 399,1894 425,1894 450,1894 476,1894 502,1893 528,1893"/>
+                <TextEquiv>
+                    <Unicode>der obigen ganz analoge Stelle:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4) Einer esthnischen kirchlichen Gemeindeversammlung könnte man mit&#13;
+dem stärksten Orgelwerk das fis} spielen, es würde mit grosser Sicherheit f} intoni¬&#13;
+ren. Der Choral „Höchster Priester, der Du Dich” hat in dritter Strophe eine&#13;
+der obigen ganz analoge Stelle:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1621184453292_84" custom="readingOrder {index:8;} structure {type:floating;}">
+            <Coords points="57,1913 1293,1913 1293,2108 57,2108"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="footnote" id="TextRegion_1621184325070_38" custom="readingOrder {index:9;} structure {type:footnote;}">
+            <Coords points="57,2108 1293,2108 1293,2285 57,2285"/>
+            <TextLine id="line_1621184325112_41" custom="readingOrder {index:0;} concept_mus {offset:37; length:6;} location {offset:56; length:21;}">
+                <Coords points="156,2147 1299,2136 1276,2099 156,2107"/>
+                <Baseline points="164,2139 220,2139 276,2140 333,2140 389,2140 446,2140 502,2141 558,2140 615,2140 671,2140 728,2140 784,2139 840,2139 897,2138 953,2138 1010,2137 1066,2136 1122,2135 1179,2134 1235,2133 1292,2132"/>
+                <TextEquiv>
+                    <Unicode>Bei einer Aufführung der esthnischen Sänger in hiesiger Dorpater Marienkirche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l49" custom="readingOrder {index:1;} work_music {offset:26; length:6;ID:W0221;} concept_mus {offset:45; length:10;} m_note {offset:75; length:5;} textStyle {offset:75; length:3;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="60,2203 1288,2202 1259,2139 671,2180 60,2163"/>
+                <Baseline points="68,2194 128,2194 189,2193 249,2193 310,2192 370,2192 431,2192 491,2192 552,2192 612,2192 673,2192 734,2192 794,2191 855,2191 915,2191 976,2190 1036,2189 1097,2188 1157,2187 1218,2185 1279,2183"/>
+                <TextEquiv>
+                    <Unicode>hörte ich kürzlich diesen Choral singen. Die Begleitung gab hell und laut: dis}};</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l50" custom="readingOrder {index:2;} concept_mus {offset:27; length:6;} textStyle {offset:34; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:34; length:1;}">
+                <Coords points="62,2251 530,2252 627,2244 627,2210 62,2211"/>
+                <Baseline points="70,2238 97,2237 124,2237 152,2237 179,2237 207,2237 234,2237 262,2237 289,2237 317,2237 344,2237 371,2237 399,2237 426,2237 454,2237 481,2237 509,2237 536,2236 564,2236 591,2236 619,2235"/>
+                <TextEquiv>
+                    <Unicode>aber eben so fest sang der Sopran d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bei einer Aufführung der esthnischen Sänger in hiesiger Dorpater Marienkirche&#13;
+hörte ich kürzlich diesen Choral singen. Die Begleitung gab hell und laut: dis}};&#13;
+aber eben so fest sang der Sopran d.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

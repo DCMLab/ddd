@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-18T14:22:03.710+01:00</Created>
+        <LastChange>2021-09-07T10:56:07.627+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121599" pageNr="2" tsid="64355997" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=MRJZFBPMAQLPKULPNUQNQRZT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LJEBATEJEGUYJDEQVHCFSESE" imageId="21904969"/>
+    </Metadata>
+    <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0011.jpg" imageWidth="1502" imageHeight="2450" type="other">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1631310987058" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="other" id="r1" custom="readingOrder {index:0;} structure {type:other;}">
+            <Coords points="158,638 158,2249 1323,2249 1323,638"/>
+            <TextLine id="r1l16" custom="readingOrder {index:0;}">
+                <Coords points="627,1050 871,1059 1005,1051 1013,1014 788,1016 768,1003 755,1016 725,1017 627,1004"/>
+                <Baseline points="633,1035 659,1036 686,1038 712,1038 739,1039 766,1039 792,1039 819,1039 846,1039 872,1039 899,1039 926,1039 952,1040 979,1040 1006,1041"/>
+                <TextEquiv>
+                    <Unicode>Von der Censur gestattet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:1;} location {offset:0; length:6;} time {offset:12; length:12;}">
+                <Coords points="303,1115 693,1107 693,1073 672,1067 534,1068 524,1078 511,1068 491,1078 430,1068 416,1081 396,1068 303,1068"/>
+                <Baseline points="309,1094 334,1096 359,1098 384,1098 409,1099 435,1099 460,1099 485,1099 510,1099 535,1098 561,1098 586,1098 611,1097 636,1097 661,1097 687,1098"/>
+                <TextEquiv>
+                    <Unicode>Dorpat, den 4. Juli 1866.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:2;} location {offset:51; length:6;} time {offset:59; length:4;}">
+                <Coords points="306,2252 1176,2251 1329,2240 1329,2195 306,2196"/>
+                <Baseline points="313,2237 363,2237 414,2237 464,2237 515,2237 565,2237 616,2236 666,2236 717,2236 767,2235 818,2235 868,2235 919,2234 969,2234 1020,2234 1070,2235 1121,2235 1171,2236 1222,2237 1272,2238 1323,2239"/>
+                <TextEquiv>
+                    <Unicode>Druck von E. J. Karow, Universitäts-Buchhändler in Dorpat. 1866.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Von der Censur gestattet.
+Dorpat, den 4. Juli 1866.
+Druck von E. J. Karow, Universitäts-Buchhändler in Dorpat. 1866.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

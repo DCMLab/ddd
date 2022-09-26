@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:31.367+01:00</Created>
+        <LastChange>2021-08-30T19:45:22.745+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718880" pageNr="11" tsid="63790646" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=YUUBOFDKWIYKXFGMAGYNIZBW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LTXOIFOYMXWJFWWGKOEERKHU" imageId="22439385"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0020.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630597158312" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612354525329_1310"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612354571852_1335"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612354571851_1334"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1612354564979_1330"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1612354561519_1326"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1612354550569_1318"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1612354525329_1310" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="170,710 1222,710 1222,785 170,785"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} textStyle {offset:0; length:11;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="521,748 876,747 876,719 844,700 521,699"/>
+                <Baseline points="528,737 554,738 580,738 606,739 632,739 659,739 685,738 711,738 737,738 764,738 790,738 816,738 842,739 869,740"/>
+                <TextEquiv>
+                    <Unicode>EINLEITUNG.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>EINLEITUNG.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612354571852_1335" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="170,785 1222,785 1222,1307 170,1307"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:47; length:3; continued:true;}">
+                <Coords points="232,931 1227,922 1177,884 753,902 311,890 232,860"/>
+                <Baseline points="239,920 288,919 337,919 386,918 435,918 484,918 533,918 582,918 631,918 680,919 730,919 779,919 828,920 877,920 926,920 975,920 1024,920 1073,920 1122,920 1171,919 1221,918"/>
+                <TextEquiv>
+                    <Unicode>Es war immer gebräuchlich, den Lehrbüchern des Ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:0; length:11; continued:true;} concept_mus {offset:20; length:11;} concept_phy {offset:36; length:19;}">
+                <Coords points="163,978 1158,995 1221,985 1221,939 163,949"/>
+                <Baseline points="170,973 222,973 274,972 326,972 379,972 431,972 483,972 535,972 588,972 640,972 692,972 744,972 797,972 849,972 901,973 953,973 1006,973 1058,973 1110,973 1162,973 1215,973"/>
+                <TextEquiv>
+                    <Unicode>neralbasses und der Composition ein akustisches Capitel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_phy {offset:43; length:12;}">
+                <Coords points="167,1034 1226,1034 1226,1003 1079,988 167,1003"/>
+                <Baseline points="173,1023 225,1024 277,1024 329,1025 382,1025 434,1025 486,1025 539,1025 591,1025 643,1025 696,1025 748,1025 800,1025 852,1025 905,1025 957,1025 1009,1025 1062,1025 1114,1025 1166,1026 1219,1026"/>
+                <TextEquiv>
+                    <Unicode>vorangehen zu lassen. In diesem werden die Verhältnisse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} m_interval {offset:4; length:10;} concept_phy {offset:39; length:15;}">
+                <Coords points="165,1088 692,1069 1135,1099 1223,1091 1223,1042 165,1055"/>
+                <Baseline points="171,1078 223,1078 275,1078 327,1077 380,1077 432,1077 484,1077 536,1077 589,1077 641,1077 693,1077 745,1077 798,1077 850,1077 902,1077 954,1077 1007,1077 1059,1078 1111,1078 1163,1079 1216,1079"/>
+                <TextEquiv>
+                    <Unicode>der Intervalle in bekannter Weise nach Schwingungszahl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:10; length:11;} m_interval {offset:53; length:5;}">
+                <Coords points="171,1138 1222,1139 1184,1100 171,1106"/>
+                <Baseline points="178,1131 229,1131 281,1131 333,1131 385,1131 437,1131 489,1131 541,1131 593,1131 645,1131 697,1131 748,1131 800,1131 852,1131 904,1130 956,1130 1008,1131 1060,1131 1112,1131 1164,1131 1216,1131"/>
+                <TextEquiv>
+                    <Unicode>oder nach Saitenlänge dargelegt: Das Verhältniss der Octav</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} m_interval {offset:13; length:5;} m_interval {offset:29; length:5;} m_interval {offset:45; length:7; continued:true;}">
+                <Coords points="174,1194 1228,1195 1228,1156 1031,1148 174,1155"/>
+                <Baseline points="180,1182 232,1183 284,1184 336,1185 388,1185 440,1185 492,1185 544,1185 596,1185 648,1185 701,1185 753,1184 805,1184 857,1184 909,1184 961,1183 1013,1183 1065,1183 1117,1184 1169,1184 1222,1185"/>
+                <TextEquiv>
+                    <Unicode>als 1:2; der Quint, 2:3; der Quart, 3:4; der grossen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} m_interval {offset:0; length:4; continued:true;} m_interval {offset:15; length:12;} m_interval {offset:38; length:14;}">
+                <Coords points="171,1251 718,1259 829,1226 938,1259 1217,1260 1208,1204 720,1228 171,1204"/>
+                <Baseline points="178,1234 229,1235 281,1236 332,1236 384,1237 436,1237 487,1237 539,1237 591,1237 642,1237 694,1237 746,1237 797,1236 849,1236 901,1236 952,1236 1004,1236 1056,1236 1107,1237 1159,1237 1211,1238"/>
+                <TextEquiv>
+                    <Unicode>Terz, 4:5; der kleinen Terz, 5:6; der grossen Secund,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} m_interval {offset:18; length:14;}">
+                <Coords points="168,1300 951,1299 951,1266 910,1252 168,1260"/>
+                <Baseline points="175,1289 213,1289 251,1289 290,1289 328,1289 367,1290 405,1290 444,1290 482,1290 521,1290 559,1290 597,1290 636,1290 674,1290 713,1290 751,1290 790,1290 828,1290 867,1290 905,1289 944,1289"/>
+                <TextEquiv>
+                    <Unicode>8:9 und 9:10; der kleinen Secund 15:16.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es war immer gebräuchlich, den Lehrbüchern des Ge¬&#13;
+neralbasses und der Composition ein akustisches Capitel&#13;
+vorangehen zu lassen. In diesem werden die Verhältnisse&#13;
+der Intervalle in bekannter Weise nach Schwingungszahl&#13;
+oder nach Saitenlänge dargelegt: Das Verhältniss der Octav&#13;
+als 1:2; der Quint, 2:3; der Quart, 3:4; der grossen&#13;
+Terz, 4:5; der kleinen Terz, 5:6; der grossen Secund,&#13;
+8:9 und 9:10; der kleinen Secund 15:16.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612354571851_1334" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="170,1307 1222,1307 1222,1466 170,1466"/>
+            <TextLine id="r1l10" custom="readingOrder {index:0;} concept_phy {offset:3; length:22;} concept_phy {offset:44; length:4;}">
+                <Coords points="249,1355 1226,1347 1226,1315 1173,1308 249,1308"/>
+                <Baseline points="256,1342 304,1342 352,1342 400,1343 448,1343 497,1343 545,1343 593,1343 641,1342 689,1342 738,1342 786,1342 834,1342 882,1342 930,1341 979,1341 1027,1341 1075,1341 1123,1341 1171,1341 1220,1342"/>
+                <TextEquiv>
+                    <Unicode>Im Schwingungsverhältniss wird die grössere Zahl dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:1;} m_note {offset:7; length:4;} m_interval {offset:16; length:11;} concept_phy {offset:41; length:11;}">
+                <Coords points="164,1400 1227,1402 1190,1356 164,1364"/>
+                <Baseline points="171,1395 223,1395 275,1395 328,1395 380,1395 433,1395 485,1395 538,1395 590,1395 643,1395 695,1395 747,1395 800,1395 852,1395 905,1395 957,1395 1010,1395 1062,1395 1115,1395 1167,1395 1220,1395"/>
+                <TextEquiv>
+                    <Unicode>höhern Tone des Intervalles zukommen, im Verhältniss der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:2;} concept_mus {offset:0; length:11;} concept_phy {offset:43; length:4;}">
+                <Coords points="173,1460 1223,1458 1206,1413 173,1412"/>
+                <Baseline points="180,1447 231,1447 283,1447 335,1447 387,1447 439,1448 490,1448 542,1448 594,1448 646,1448 698,1448 749,1448 801,1448 853,1448 905,1448 957,1448 1008,1448 1060,1448 1112,1447 1164,1447 1216,1446"/>
+                <TextEquiv>
+                    <Unicode>Saitenlänge wird dieser durch die kleinere Zahl bezeichnet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Im Schwingungsverhältniss wird die grössere Zahl dem
+höhern Tone des Intervalles zukommen, im Verhältniss der
+Saitenlänge wird dieser durch die kleinere Zahl bezeichnet.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612354564979_1330" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="170,1466 1222,1466 1222,1673 170,1673"/>
+            <TextLine id="r1l13" custom="readingOrder {index:0;} concept_mus {offset:12; length:11;} concept_phy {offset:45; length:6;}">
+                <Coords points="258,1512 1229,1506 1229,1476 1171,1467 258,1468"/>
+                <Baseline points="264,1499 311,1500 359,1500 407,1500 455,1501 503,1501 551,1501 599,1501 647,1502 695,1502 743,1502 790,1502 838,1502 886,1502 934,1502 982,1502 1030,1501 1078,1501 1126,1500 1174,1500 1222,1499"/>
+                <TextEquiv>
+                    <Unicode>Die meisten Theoretiker finden sodann in den Zahlen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:1;} concept_phy {offset:21; length:14;} concept_phy {offset:37; length:8;}">
+                <Coords points="175,1563 1224,1554 1191,1516 1022,1540 175,1524"/>
+                <Baseline points="182,1552 233,1552 285,1553 337,1553 389,1554 440,1554 492,1554 544,1555 596,1555 647,1555 699,1555 751,1555 803,1555 854,1555 906,1555 958,1554 1010,1554 1061,1554 1113,1553 1165,1552 1217,1552"/>
+                <TextEquiv>
+                    <Unicode>1, 3 und 5, in ihren Verdoppelungen, Potenzen und wech¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:2;} concept_phy {offset:12; length:9;} concept_mus {offset:43; length:12; continued:true;}">
+                <Coords points="171,1619 1222,1619 1222,1579 1176,1572 171,1579"/>
+                <Baseline points="178,1605 229,1605 281,1605 333,1605 385,1605 437,1606 489,1606 541,1607 593,1607 645,1608 697,1608 748,1608 800,1608 852,1608 904,1608 956,1608 1008,1608 1060,1607 1112,1607 1164,1606 1216,1605"/>
+                <TextEquiv>
+                    <Unicode>selseitigen Producten die Bestimmung aller harmonischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:3;} concept_mus {offset:0; length:15; continued:true;}">
+                <Coords points="172,1667 465,1666 465,1647 447,1636 407,1636 399,1628 368,1635 360,1627 306,1627 286,1637 243,1637 172,1627"/>
+                <Baseline points="178,1657 203,1658 228,1658 254,1658 279,1658 305,1658 330,1658 356,1658 381,1658 407,1658 432,1660 458,1661"/>
+                <TextEquiv>
+                    <Unicode>Tonverhältnisse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die meisten Theoretiker finden sodann in den Zahlen
+1, 3 und 5, in ihren Verdoppelungen, Potenzen und wech¬
+selseitigen Producten die Bestimmung aller harmonischen
+Tonverhältnisse.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612354561519_1326" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="170,1673 1222,1673 1222,1833 170,1833"/>
+            <TextLine id="r1l17" custom="readingOrder {index:0;} concept_phy {offset:44; length:11;}">
+                <Coords points="256,1724 1227,1723 1201,1676 256,1675"/>
+                <Baseline points="263,1709 310,1709 358,1710 406,1711 454,1711 502,1711 550,1712 598,1712 646,1712 694,1712 742,1712 789,1712 837,1712 885,1712 933,1712 981,1712 1029,1712 1077,1712 1125,1712 1173,1712 1221,1711"/>
+                <TextEquiv>
+                    <Unicode>Einige suchen dieselbe in der fortlaufenden Zahlenreihe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:1;} concept_phy {offset:43; length:5;} m_note {offset:53; length:4;}">
+                <Coords points="170,1771 1210,1771 1226,1739 170,1740"/>
+                <Baseline points="176,1762 228,1763 280,1763 332,1764 384,1764 437,1765 489,1765 541,1765 593,1765 645,1765 698,1765 750,1765 802,1765 854,1765 906,1765 959,1764 1011,1764 1063,1764 1115,1764 1167,1764 1220,1764"/>
+                <TextEquiv>
+                    <Unicode>von 1 bis 16 und legen den Gliedern dieser Reihe die Töne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:2;}">
+                <Coords points="169,1827 636,1828 636,1796 574,1788 376,1795 354,1779 304,1798 286,1779 223,1779 206,1797 169,1795"/>
+                <Baseline points="176,1818 201,1818 226,1818 251,1818 276,1818 302,1818 327,1818 352,1818 377,1818 403,1818 428,1817 453,1817 478,1817 503,1817 529,1817 554,1818 579,1818 604,1818 630,1818"/>
+                <TextEquiv>
+                    <Unicode>auf folgende Weise unter:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Einige suchen dieselbe in der fortlaufenden Zahlenreihe
+von 1 bis 16 und legen den Gliedern dieser Reihe die Töne
+auf folgende Weise unter:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TableRegion id="Table_1612354739939_1344" custom="readingOrder {index:5;} structure {type:floating;}">
+            <Coords points="170,1833 1222,1833 1222,1938 170,1938"/>
+            <TableCell row="0" col="0" id="TableCell_1612354740099_1345">
+                <Coords points="170,1833 170,1938 1222,1938 1222,1833"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+        </TableRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612354550569_1318" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="170,1938 1222,1938 1222,2097 170,2097"/>
+            <TextLine id="r1l23" custom="readingOrder {index:0;} concept_phy {offset:11; length:6;} m_note {offset:45; length:4;}">
+                <Coords points="257,1988 1224,1987 1224,1946 1185,1940 257,1939"/>
+                <Baseline points="263,1975 310,1975 358,1976 406,1976 454,1976 501,1977 549,1977 597,1977 645,1977 692,1977 740,1977 788,1976 836,1976 883,1976 931,1976 979,1975 1027,1975 1074,1974 1122,1974 1170,1974 1218,1973"/>
+                <TextEquiv>
+                    <Unicode>Die zu den Zahlen 7, 11, 13 und 14 gesetzten Töne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:1;} concept_mus {offset:22; length:17;}">
+                <Coords points="166,2027 1220,2043 1220,1997 1150,1989 166,2006"/>
+                <Baseline points="172,2027 224,2028 276,2028 328,2028 380,2028 432,2028 484,2029 536,2029 588,2029 640,2029 693,2029 745,2029 797,2029 849,2029 901,2029 953,2029 1005,2029 1057,2028 1109,2028 1161,2028 1214,2027"/>
+                <TextEquiv>
+                    <Unicode>wollen allerdings der reinen Intonation nicht entsprechen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:2;} textStyle {offset:0; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:0; length:1;} textStyle {offset:16; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:16; length:1;} textStyle {offset:27; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:27; length:1;}">
+                <Coords points="167,2090 1125,2090 1125,2057 1040,2044 167,2044"/>
+                <Baseline points="173,2080 220,2081 267,2081 314,2081 362,2081 409,2082 456,2082 503,2082 551,2082 598,2082 645,2082 692,2082 740,2082 787,2082 834,2082 881,2082 929,2082 976,2082 1023,2081 1070,2081 1118,2081"/>
+                <TextEquiv>
+                    <Unicode>b wird zu tief, f zu hoch, a wieder zu tief erscheinen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die zu den Zahlen 7, 11, 13 und 14 gesetzten Töne&#13;
+wollen allerdings der reinen Intonation nicht entsprechen;&#13;
+b wird zu tief, f zu hoch, a wieder zu tief erscheinen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

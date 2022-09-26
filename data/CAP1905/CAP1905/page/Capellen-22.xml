@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-03T13:14:48.793+01:00</Created>
+        <LastChange>2021-08-11T14:09:37.432+02:00</LastChange>
+        <TranskribusMetadata docId="747636" pageId="28294031" pageNr="22" tsid="62505319" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=FBLLWJSWVAKGTKPRCPCACRJJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YFIAUOTSGRCSXNZLFXCKNBBJ" imageId="22038960"/>
+    </Metadata>
+    <Page imageFilename="Capellen-22.jpg" imageWidth="721" imageHeight="1298" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630498500454" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614857447251_3058"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1614857447250_3057"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1614857441918_3049"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614857435421_3041"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614857447251_3058" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="98,96 692,96 692,124 98,124"/>
+            <TextLine id="line_1614857447282_3061" custom="readingOrder {index:0;}">
+                <Coords points="368,121 375,120 377,122 410,122 410,94 387,93 381,94 377,98 368,98"/>
+                <Baseline points="373,116 405,116"/>
+                <TextEquiv>
+                    <Unicode>18</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>18</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614857447250_3057" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="98,124 692,124 692,511 98,511"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:41; length:20;} textStyle {offset:41; length:9;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="93,165 679,167 679,148 631,132 93,141"/>
+                <Baseline points="98,161 126,161 155,161 184,161 213,161 242,161 270,161 299,161 328,161 357,161 386,161 414,161 443,161 472,161 501,161 530,161 558,161 587,161 616,161 645,160 674,160"/>
+                <TextEquiv>
+                    <Unicode>richtige Standpunkt ist der, anstatt der Intervallbeziehungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:4; length:14;} textStyle {offset:4; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="93,187 682,186 682,167 639,164 93,164"/>
+                <Baseline points="98,182 128,182 158,182 189,182 219,182 250,181 280,181 311,181 341,181 372,181 402,181 433,181 463,182 494,182 524,182 555,182 585,182 616,182 646,181 677,181"/>
+                <TextEquiv>
+                    <Unicode>die Tonbeziehungen ins Auge zu fassen, wie ja auch die Lehre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:8; length:19;} textStyle {offset:8; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:49; length:4; continued:true;} textStyle {offset:49; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="102,210 672,211 679,187 102,190"/>
+                <Baseline points="107,203 135,203 163,203 192,203 220,203 248,203 277,203 305,203 333,203 362,203 390,203 418,203 447,203 475,203 503,203 532,203 560,203 588,203 617,203 645,203 674,203"/>
+                <TextEquiv>
+                    <Unicode>von der Klangverwandtschaft in die Lehre von den Ton¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:0; length:11; continued:true;} concept_mus {offset:35; length:12;}">
+                <Coords points="95,231 680,230 680,211 626,205 95,210"/>
+                <Baseline points="100,225 128,225 157,224 186,224 215,224 243,224 272,224 301,224 330,224 358,224 387,224 416,224 445,224 473,224 502,224 531,224 560,224 588,225 617,225 646,225 675,225"/>
+                <TextEquiv>
+                    <Unicode>beziehungen sich auflöste. Für die Stimmführung nun gibt es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:32; length:14;}">
+                <Coords points="100,252 663,253 679,231 100,235"/>
+                <Baseline points="105,247 133,247 161,246 190,246 218,246 247,246 275,246 304,246 332,247 361,247 389,247 417,247 446,247 474,247 503,247 531,246 560,246 588,246 617,246 645,246 674,245"/>
+                <TextEquiv>
+                    <Unicode>keine anderen Möglichkeiten der Tonbeziehungen, als die bereits</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} m_note {offset:12; length:8;} concept_mus {offset:22; length:11;} concept_mus {offset:38; length:10;} m_note {offset:49; length:4;}">
+                <Coords points="93,274 642,277 681,274 681,250 93,257"/>
+                <Baseline points="98,269 126,269 155,268 184,268 213,268 242,268 271,268 300,268 329,268 358,268 387,268 415,268 444,268 473,268 502,268 531,268 560,268 589,268 618,268 647,268 676,268"/>
+                <TextEquiv>
+                    <Unicode>erörterten: Ruhetöne, zweiseitige und einseitige Töne, folglich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_mus {offset:36; length:14;} concept_phy {offset:36; length:14;}">
+                <Coords points="96,295 683,297 672,271 96,276"/>
+                <Baseline points="101,290 129,290 158,290 187,290 216,289 245,289 274,289 302,289 331,289 360,289 389,289 418,289 447,289 476,289 504,289 533,289 562,289 591,289 620,289 649,289 678,289"/>
+                <TextEquiv>
+                    <Unicode>regelt sich die ganze unübersehbare Dissonanzlehre nach §§ 1, 2, 3,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="94,316 672,317 678,295 94,298"/>
+                <Baseline points="99,311 127,311 156,311 185,311 213,311 242,311 271,311 299,311 328,311 357,311 386,311 414,311 443,311 472,311 500,311 529,311 558,311 586,311 615,311 644,311 673,310"/>
+                <TextEquiv>
+                    <Unicode>ein sehr erfreuliches Resultat; denn simplex sigillum veri”. Zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} concept_mus {offset:33; length:7;}">
+                <Coords points="93,338 679,339 679,316 640,313 93,315"/>
+                <Baseline points="98,333 126,332 155,332 184,332 213,331 242,331 270,331 299,332 328,332 357,332 386,332 414,332 443,333 472,333 501,333 530,333 558,333 587,332 616,332 645,331 674,331"/>
+                <TextEquiv>
+                    <Unicode>Nachweise der Richtigkeit dieser Theorie genügt es, hier auf die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="98,359 678,362 668,337 98,338"/>
+                <Baseline points="103,354 131,354 160,354 188,354 217,354 245,354 274,354 302,354 331,354 359,354 388,354 416,354 445,354 473,354 502,354 530,354 559,353 587,353 616,353 644,353 673,353"/>
+                <TextEquiv>
+                    <Unicode>Beispiele in Fig. 15, im übrigen aber auf Teil II zu verweisen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="94,382 680,383 680,363 629,358 94,360"/>
+                <Baseline points="99,376 127,376 156,376 185,376 214,376 243,376 271,376 300,376 329,376 358,376 387,376 415,376 444,376 473,376 502,376 531,376 559,376 588,376 617,376 646,375 675,375"/>
+                <TextEquiv>
+                    <Unicode>Der Leser ist nunmehr in der Lage, in Fig. 11 überall nach sicheren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;} concept_mus {offset:14; length:12;}">
+                <Coords points="97,402 686,405 686,385 612,379 97,382"/>
+                <Baseline points="102,396 132,396 162,397 193,397 223,397 254,397 284,397 315,397 345,397 376,397 406,397 437,397 467,397 498,396 528,396 559,396 589,397 620,397 650,397 681,397"/>
+                <TextEquiv>
+                    <Unicode>Kriterien die Stimmführung als regulär oder irregulär zu beurteilen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;} concept_mus {offset:28; length:6;} m_note {offset:39; length:1;} concept_mus {offset:52; length:6;} m_note {offset:64; length:1;}">
+                <Coords points="101,424 685,428 685,405 654,401 101,407"/>
+                <Baseline points="106,419 134,419 163,419 192,419 220,419 249,419 278,419 306,419 335,418 364,418 393,418 421,418 450,418 479,418 507,418 536,418 565,419 593,419 622,419 651,419 680,419"/>
+                <TextEquiv>
+                    <Unicode>z. B. ist in Fig. 11 b) der Sprung des e im zweiten Klange nach g</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;} concept_mus {offset:36; length:11;} textStyle {offset:48; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="98,451 686,443 671,423 98,426"/>
+                <Baseline points="103,441 131,441 160,441 189,441 218,441 247,441 276,441 305,441 334,441 363,441 392,441 420,441 449,441 478,441 507,441 536,441 565,441 594,441 623,441 652,441 681,441"/>
+                <TextEquiv>
+                    <Unicode>ebenso unregelmässig, wie er es vom C durklange allein aus sein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;} concept_mus {offset:20; length:7;} m_interval {offset:34; length:3;} m_interval {offset:43; length:3;}">
+                <Coords points="99,468 648,470 691,466 691,449 99,450"/>
+                <Baseline points="104,461 133,462 162,462 191,462 220,462 249,461 278,461 307,461 336,461 365,461 395,461 424,461 453,461 482,461 511,461 540,462 569,462 598,462 627,462 656,462 686,462"/>
+                <TextEquiv>
+                    <Unicode>würde. Die reguläre Führung würde e—d oder e—f sein, da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;} m_note {offset:4; length:1;} concept_mus {offset:34; length:6;} concept_mus {offset:41; length:16;}">
+                <Coords points="94,490 690,487 657,463 94,467"/>
+                <Baseline points="99,483 128,483 157,483 186,483 216,483 245,483 274,483 304,483 333,483 362,483 392,483 421,483 450,483 479,483 509,483 538,483 567,483 597,483 626,483 655,483 685,483"/>
+                <TextEquiv>
+                    <Unicode>das e im Verhältnis zum folgenden Klange zweiseitiger Ton ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614857441950_3053" custom="readingOrder {index:16;} concept_mus {offset:23; length:6;} m_note {offset:34; length:1;} m_note {offset:42; length:1;}">
+                <Coords points="94,514 674,513 684,487 94,490"/>
+                <Baseline points="99,506 128,505 157,505 186,505 215,504 244,504 273,504 302,504 331,504 360,504 389,504 418,504 447,505 476,505 505,505 534,505 563,505 592,505 621,505 650,504 679,504"/>
+                <TextEquiv>
+                    <Unicode>Irregulär ist auch der Sprung des h bezw. b in Fig. 6 c) und 7 c).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>richtige Standpunkt ist der, anstatt der Intervallbeziehungen&#13;
+die Tonbeziehungen ins Auge zu fassen, wie ja auch die Lehre&#13;
+von der Klangverwandtschaft in die Lehre von den Ton¬&#13;
+beziehungen sich auflöste. Für die Stimmführung nun gibt es&#13;
+keine anderen Möglichkeiten der Tonbeziehungen, als die bereits&#13;
+erörterten: Ruhetöne, zweiseitige und einseitige Töne, folglich&#13;
+regelt sich die ganze unübersehbare Dissonanzlehre nach §§ 1, 2, 3,&#13;
+ein sehr erfreuliches Resultat; denn simplex sigillum veri”. Zum&#13;
+Nachweise der Richtigkeit dieser Theorie genügt es, hier auf die&#13;
+Beispiele in Fig. 15, im übrigen aber auf Teil II zu verweisen.&#13;
+Der Leser ist nunmehr in der Lage, in Fig. 11 überall nach sicheren&#13;
+Kriterien die Stimmführung als regulär oder irregulär zu beurteilen;&#13;
+z. B. ist in Fig. 11 b) der Sprung des e im zweiten Klange nach g&#13;
+ebenso unregelmässig, wie er es vom C durklange allein aus sein&#13;
+würde. Die reguläre Führung würde e—d oder e—f sein, da&#13;
+das e im Verhältnis zum folgenden Klange zweiseitiger Ton ist.&#13;
+Irregulär ist auch der Sprung des h bezw. b in Fig. 6 c) und 7 c).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614857441918_3049" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="98,511 692,511 692,812 98,812"/>
+            <TextLine id="line_1614857441951_3054" custom="readingOrder {index:0;} concept_mus {offset:34; length:12;}">
+                <Coords points="143,533 691,530 691,511 657,508 143,509"/>
+                <Baseline points="148,526 174,526 201,526 228,526 255,526 282,526 309,526 336,526 363,526 390,527 417,527 443,527 470,527 497,527 524,527 551,526 578,526 605,526 632,526 659,526 686,526"/>
+                <TextEquiv>
+                    <Unicode>Weiter ist für die Behandlung der Doppelklänge von grosser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:1;} work_text {offset:28; length:7;ID:W0031;}">
+                <Coords points="96,554 691,554 691,532 670,531 96,532"/>
+                <Baseline points="101,549 130,548 159,548 188,548 218,548 247,548 276,548 305,548 335,548 364,548 393,548 422,548 452,548 481,548 510,548 539,548 569,548 598,548 627,548 656,548 686,548"/>
+                <TextEquiv>
+                    <Unicode>Bedeutung folgende These in Teil II § 6: „Überhaupt ist der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:2;} concept_mus {offset:18; length:7;} concept_mus {offset:55; length:9;}">
+                <Coords points="99,577 685,580 685,558 636,553 99,553"/>
+                <Baseline points="104,570 132,570 161,569 190,569 219,569 248,569 276,569 305,569 334,569 363,569 392,569 420,569 449,569 478,569 507,569 536,569 564,569 593,569 622,569 651,569 680,569"/>
+                <TextEquiv>
+                    <Unicode>Ausgangspunkt der Theorie ein ganz falscher: Nicht die Auflösung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:3;} concept_mus {offset:6; length:11;} concept_phy {offset:6; length:11;} m_interval {offset:18; length:11;} textStyle {offset:43; length:11;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:43; length:11;}">
+                <Coords points="107,599 684,598 684,579 654,573 107,575"/>
+                <Baseline points="112,592 140,591 168,591 197,591 225,591 253,591 282,591 310,591 338,591 367,591 395,591 423,591 452,591 480,592 508,592 537,592 565,592 593,592 622,592 650,591 679,591"/>
+                <TextEquiv>
+                    <Unicode>eines dissonanten Intervalles bestimmt die Akkordfolge, sondern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:4;} textStyle {offset:10; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:20; length:9;}">
+                <Coords points="102,617 686,618 668,596 102,600"/>
+                <Baseline points="107,613 135,613 164,613 193,613 221,613 250,613 279,613 307,613 336,613 365,613 394,613 422,613 451,613 480,613 508,613 537,613 566,613 594,613 623,613 652,613 681,613"/>
+                <TextEquiv>
+                    <Unicode>umgekehrt diese die Auflösung, d. h. anstatt der Behauptung:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:5;} m_interval {offset:4; length:7;} m_interval {offset:15; length:3;} m_note {offset:34; length:1;} m_chord {offset:59; length:7; continued:true;}">
+                <Coords points="99,640 685,640 685,620 99,617"/>
+                <Baseline points="104,635 132,634 161,634 190,634 219,634 248,634 276,634 305,634 334,634 363,634 392,634 420,634 449,634 478,634 507,634 536,634 564,634 593,634 622,634 651,634 680,633"/>
+                <TextEquiv>
+                    <Unicode>die Septime in g—f löst sich nach e auf, deswegen muss der G-sept¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:6;} m_chord {offset:0; length:5; continued:true;} m_chord {offset:10; length:7;} textStyle {offset:52; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="102,660 683,663 683,645 658,639 102,639"/>
+                <Baseline points="107,657 135,656 164,656 192,656 221,656 249,656 278,656 306,656 335,656 363,656 392,656 421,656 449,656 478,656 506,656 535,656 563,656 592,656 620,656 649,656 678,656"/>
+                <TextEquiv>
+                    <Unicode>klang den C-Klang zur Folge haben, muss es heissen: Wenn dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:7;} m_chord {offset:0; length:11;} m_chord {offset:16; length:7;} m_interval {offset:45; length:5;} m_note {offset:56; length:1;} m_note {offset:64; length:1;}">
+                <Coords points="101,685 666,688 687,685 687,660 101,661"/>
+                <Baseline points="106,677 134,677 163,677 192,677 221,677 250,677 278,677 307,677 336,677 365,677 394,677 422,677 451,677 480,677 509,677 538,677 566,678 595,678 624,678 653,678 682,679"/>
+                <TextEquiv>
+                    <Unicode>G-septklang der C-Klang folgt, löst sich die Septe nach e (oder g)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:8;} textStyle {offset:5; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:12; length:6;} textStyle {offset:35; length:7;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="98,706 691,707 691,685 641,682 98,685"/>
+                <Baseline points="103,699 132,699 161,699 190,699 219,699 248,699 277,699 307,698 336,698 365,698 394,698 423,699 452,699 481,699 511,699 540,699 569,699 598,699 627,699 656,700 686,700"/>
+                <TextEquiv>
+                    <Unicode>auf. Welche Klänge und mit welcher Wirkung sie sich mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:9;} concept_mus {offset:50; length:14;}">
+                <Coords points="99,727 689,729 689,709 660,703 99,707"/>
+                <Baseline points="104,720 133,721 162,721 191,721 220,721 249,721 278,721 307,721 336,721 365,721 394,721 423,721 452,721 481,721 510,721 539,721 568,721 597,721 626,721 655,721 684,721"/>
+                <TextEquiv>
+                    <Unicode>einander verbinden, darüber entscheidet nicht die Dissonanzlehre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:10;} concept_mus {offset:15; length:7;} textStyle {offset:50; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:50; length:9; continued:true;}">
+                <Coords points="99,749 637,753 685,746 685,728 99,729"/>
+                <Baseline points="104,743 132,742 161,742 190,742 219,742 248,742 276,742 305,742 334,742 363,742 392,742 420,742 449,742 478,742 507,742 536,742 564,742 593,742 622,742 651,742 680,742"/>
+                <TextEquiv>
+                    <Unicode>also nicht die Melodik, sondern die Lehre von der Klangver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:11;} textStyle {offset:0; length:25;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:11; continued:true;} m_tonality {offset:16; length:9;} concept_mus {offset:36; length:8;}">
+                <Coords points="106,770 690,770 690,751 566,743 106,749"/>
+                <Baseline points="111,765 139,764 168,764 197,764 225,764 254,764 283,764 311,764 340,764 369,764 398,764 426,764 455,764 484,764 512,764 541,764 570,764 598,764 627,764 656,764 685,764"/>
+                <TextEquiv>
+                    <Unicode>wandtschaft und Tonalität, also die Harmonik. Erst wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:12;} concept_mus {offset:9; length:11;}">
+                <Coords points="104,790 692,794 692,770 644,767 104,771"/>
+                <Baseline points="109,785 137,785 166,785 195,784 224,784 253,785 282,785 311,785 340,785 369,785 398,786 426,786 455,786 484,786 513,786 542,787 571,787 600,787 629,786 658,786 687,786"/>
+                <TextEquiv>
+                    <Unicode>über die Akkordfolge Entscheidung getroffen ist, tritt die Frage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614857435462_3045" custom="readingOrder {index:13;} concept_mus {offset:4; length:12;}">
+                <Coords points="110,818 338,805 407,817 460,810 460,791 110,795"/>
+                <Baseline points="115,806 141,806 167,806 193,806 219,806 245,806 271,806 298,806 324,806 350,806 376,807 402,807 428,807 455,807"/>
+                <TextEquiv>
+                    <Unicode>der Stimmführung in den Vordergrund.”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Weiter ist für die Behandlung der Doppelklänge von grosser&#13;
+Bedeutung folgende These in Teil II § 6: „Überhaupt ist der&#13;
+Ausgangspunkt der Theorie ein ganz falscher: Nicht die Auflösung&#13;
+eines dissonanten Intervalles bestimmt die Akkordfolge, sondern&#13;
+umgekehrt diese die Auflösung, d. h. anstatt der Behauptung:&#13;
+die Septime in g—f löst sich nach e auf, deswegen muss der G-sept¬&#13;
+klang den C-Klang zur Folge haben, muss es heissen: Wenn dem&#13;
+G-septklang der C-Klang folgt, löst sich die Septe nach e (oder g)&#13;
+auf. Welche Klänge und mit welcher Wirkung sie sich mit&#13;
+einander verbinden, darüber entscheidet nicht die Dissonanzlehre,&#13;
+also nicht die Melodik, sondern die Lehre von der Klangver¬&#13;
+wandtschaft und Tonalität, also die Harmonik. Erst wenn&#13;
+über die Akkordfolge Entscheidung getroffen ist, tritt die Frage&#13;
+der Stimmführung in den Vordergrund.”</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614857435421_3041" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
+            <Coords points="98,812 692,812 692,1120 98,1120"/>
+            <TextLine id="line_1614857435463_3046" custom="readingOrder {index:0;} work_text {offset:3; length:6;ID:W0014;} concept_mus {offset:55; length:9;}">
+                <Coords points="152,834 685,834 685,811 152,813"/>
+                <Baseline points="157,828 183,828 209,828 235,828 261,828 287,828 313,828 340,828 366,828 392,828 418,828 444,829 470,829 496,829 523,829 549,829 575,829 601,829 627,829 653,829 680,829"/>
+                <TextEquiv>
+                    <Unicode>In Teil I § 2 ist ausgeführt, dass die Prototypen der „tonischen”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:1;} concept_mus {offset:0; length:8;} concept_mus {offset:23; length:8;} textStyle {offset:35; length:3;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:57; length:3;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="105,856 691,855 685,831 105,829"/>
+                <Baseline points="110,850 138,850 167,850 196,849 225,849 254,849 282,849 311,849 340,849 369,849 398,849 426,850 455,850 484,850 513,850 542,850 570,850 599,849 628,849 657,849 686,849"/>
+                <TextEquiv>
+                    <Unicode>Harmonik die einfachen Kadenzen M R(7) M, M L M und M L R(7) M</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:2;} concept_mus {offset:34; length:12;}">
+                <Coords points="100,876 691,882 691,860 622,855 100,860"/>
+                <Baseline points="105,872 134,872 163,872 192,872 221,871 250,871 279,871 308,871 337,871 366,871 395,872 424,872 453,872 482,872 511,872 540,872 569,872 598,872 627,872 656,872 686,872"/>
+                <TextEquiv>
+                    <Unicode>sind. Daraus folgt: Wenn in einem Doppelklange der Fortgang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:3;} m_chord {offset:24; length:8;} concept_mus {offset:37; length:5;} textStyle {offset:46; length:3;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:52; length:3;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="107,898 689,901 675,876 107,876"/>
+                <Baseline points="112,893 140,893 169,893 197,893 226,893 255,893 283,893 312,893 340,893 369,893 398,893 426,893 455,893 483,893 512,893 541,893 569,894 598,894 626,894 655,894 684,894"/>
+                <TextEquiv>
+                    <Unicode>des unteren oder oberen Akkordes die Folge M R(7), R(7) M, M L,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:4;} textStyle {offset:12; length:3;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:39; length:8;} concept_mus {offset:59; length:7; continued:true;}">
+                <Coords points="99,920 685,919 676,897 99,897"/>
+                <Baseline points="104,915 132,915 161,914 190,914 219,914 248,914 276,914 305,914 334,914 363,914 392,914 420,914 449,915 478,915 507,915 536,915 564,915 593,915 622,915 651,915 680,914"/>
+                <TextEquiv>
+                    <Unicode>L M oder L R(7) darstellt, so muss der Fortgang des ganzen Doppel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:5;} concept_mus {offset:0; length:7; continued:true;}">
+                <Coords points="102,941 691,945 677,919 102,921"/>
+                <Baseline points="107,937 137,937 167,936 198,936 228,936 259,936 289,936 320,936 350,936 381,936 411,936 442,936 472,936 503,937 533,937 564,937 594,937 625,937 655,936 686,936"/>
+                <TextEquiv>
+                    <Unicode>klanges ein natürlicher sein, ohne Rücksicht zunächst auf die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:6;} concept_mus {offset:0; length:12;} concept_mus {offset:17; length:18;}">
+                <Coords points="103,963 692,963 678,941 103,941"/>
+                <Baseline points="108,957 138,957 168,957 199,957 229,957 260,957 290,957 321,957 351,958 382,958 412,958 443,958 473,958 504,958 534,958 565,958 595,958 626,958 656,958 687,958"/>
+                <TextEquiv>
+                    <Unicode>Stimmführung und Dissonanzauflösung. Das erste ist daher, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:7;} concept_phy {offset:8; length:26;} concept_mus {offset:39; length:13;}">
+                <Coords points="105,985 691,986 691,963 105,964"/>
+                <Baseline points="110,980 138,980 167,979 196,979 225,979 254,979 282,979 311,979 340,979 369,979 398,979 426,979 455,979 484,980 513,980 542,980 570,980 599,979 628,979 657,979 686,978"/>
+                <TextEquiv>
+                    <Unicode>latente akustische Zusammensetzung des Doppelklanges zu be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:8;} person_author {offset:9; length:12;ID:P0018;}">
+                <Coords points="111,1006 695,1005 695,986 629,983 111,985"/>
+                <Baseline points="116,1001 144,1001 173,1000 202,1000 230,1000 259,1000 288,1000 316,1000 345,1000 374,1000 403,1001 431,1001 460,1001 489,1001 517,1002 546,1002 575,1002 603,1002 632,1002 661,1001 690,1001"/>
+                <TextEquiv>
+                    <Unicode>stimmen. v. Oettingen ist bereits auf dem richtigen Wege, wenn er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:9;} work_text {offset:14; length:6;ID:W0017;} textStyle {offset:29; length:27;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:45; length:11;}">
+                <Coords points="105,1028 691,1028 691,1007 105,1006"/>
+                <Baseline points="110,1023 138,1023 167,1022 196,1022 225,1022 254,1022 282,1022 311,1021 340,1022 369,1022 398,1022 426,1022 455,1022 484,1022 513,1022 542,1022 570,1023 599,1023 628,1023 657,1023 686,1023"/>
+                <TextEquiv>
+                    <Unicode>S. 242 seines Werkes von der Einfachheit der Beziehungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:10;} concept_mus {offset:4; length:11;} concept_mus {offset:16; length:7;} concept_mus {offset:31; length:18;} concept_mus {offset:54; length:9;} concept_phy {offset:54; length:9;}">
+                <Coords points="104,1050 693,1050 683,1028 104,1027"/>
+                <Baseline points="109,1044 139,1044 169,1044 200,1044 230,1044 261,1044 291,1044 322,1044 352,1044 383,1044 413,1044 444,1044 474,1044 505,1044 535,1044 566,1044 596,1044 627,1044 657,1044 688,1045"/>
+                <TextEquiv>
+                    <Unicode>des auflösenden Klanges zu den Klangbestandteilen der Dissonanz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:11;} concept_mus {offset:4; length:22;} concept_mus {offset:31; length:9;} concept_mus {offset:45; length:11;} concept_phy {offset:45; length:11;}">
+                <Coords points="103,1074 693,1077 693,1052 675,1049 103,1050"/>
+                <Baseline points="108,1065 137,1065 166,1065 195,1065 224,1065 253,1064 282,1064 311,1064 340,1064 369,1065 398,1065 427,1065 456,1065 485,1065 514,1065 543,1066 572,1066 601,1066 630,1067 659,1067 688,1067"/>
+                <TextEquiv>
+                    <Unicode>die Leichtverständlichkeit der Auflösung der Dissonanzen abhängig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:12;}">
+                <Coords points="106,1093 697,1094 675,1071 106,1074"/>
+                <Baseline points="111,1087 140,1087 169,1087 198,1087 227,1086 256,1086 285,1086 314,1086 343,1086 372,1086 401,1086 430,1087 459,1087 488,1087 517,1087 546,1087 575,1087 604,1087 633,1087 662,1087 692,1087"/>
+                <TextEquiv>
+                    <Unicode>macht. In dieser Hinsicht wolle nunmehr der Leser nochmals die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:13;}">
+                <Coords points="107,1114 697,1121 682,1091 107,1094"/>
+                <Baseline points="112,1109 141,1109 170,1109 199,1109 228,1109 257,1109 286,1109 315,1109 344,1109 373,1109 402,1109 431,1109 460,1109 489,1109 518,1109 547,1110 576,1110 605,1110 634,1110 663,1110 692,1110"/>
+                <TextEquiv>
+                    <Unicode>bisher gebrachten Beispiele studieren, ferner die in Fig. 16—21,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In Teil I § 2 ist ausgeführt, dass die Prototypen der „tonischen”&#13;
+Harmonik die einfachen Kadenzen M R(7) M, M L M und M L R(7) M&#13;
+sind. Daraus folgt: Wenn in einem Doppelklange der Fortgang&#13;
+des unteren oder oberen Akkordes die Folge M R(7), R(7) M, M L,&#13;
+L M oder L R(7) darstellt, so muss der Fortgang des ganzen Doppel¬&#13;
+klanges ein natürlicher sein, ohne Rücksicht zunächst auf die&#13;
+Stimmführung und Dissonanzauflösung. Das erste ist daher, die&#13;
+latente akustische Zusammensetzung des Doppelklanges zu be¬&#13;
+stimmen. v. Oettingen ist bereits auf dem richtigen Wege, wenn er&#13;
+S. 242 seines Werkes von der Einfachheit der Beziehungen&#13;
+des auflösenden Klanges zu den Klangbestandteilen der Dissonanz&#13;
+die Leichtverständlichkeit der Auflösung der Dissonanzen abhängig&#13;
+macht. In dieser Hinsicht wolle nunmehr der Leser nochmals die&#13;
+bisher gebrachten Beispiele studieren, ferner die in Fig. 16—21,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

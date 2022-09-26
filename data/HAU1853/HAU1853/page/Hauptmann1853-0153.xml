@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:36.254+01:00</Created>
+        <LastChange>2021-09-01T23:30:06.609+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28719014" pageNr="144" tsid="63933974" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=OOCXFKNVPMRHRIOFWXHUQWYE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LIIIGHQYRWOJJEQEDNBUYDXB" imageId="22439519"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0153.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630597174096" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612565616696_2604"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612565631610_2621"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612565631609_2620"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1612565628285_2616"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1612565624970_2612"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612565616696_2604" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="195,227 1252,227 1252,279 195,279"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="689,260 702,260 705,263 708,260 721,259 729,264 734,259 768,257 768,230 762,230 752,220 739,222 721,219 689,220"/>
+                <Baseline points="696,253 729,253 762,253"/>
+                <TextEquiv>
+                    <Unicode>134</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>134</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612565631610_2621" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="195,279 1252,279 1252,791 195,791"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_chord {offset:8; length:7;} textStyle {offset:16; length:8;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:16; length:8;}">
+                <Coords points="194,354 1257,355 1257,322 1196,308 194,316"/>
+                <Baseline points="201,345 253,346 305,346 358,346 410,346 463,346 515,346 568,346 620,346 673,346 725,346 777,346 830,346 882,346 935,346 987,346 1040,346 1092,346 1145,346 1197,346 1250,347"/>
+                <TextEquiv>
+                    <Unicode>bei dem Accorde h-D|F-as wegfallen, ist schon gesprochen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="194,403 1243,413 1216,364 195,371"/>
+                <Baseline points="201,398 252,398 304,398 356,398 408,398 459,398 511,399 563,399 615,399 666,399 718,399 770,399 822,399 873,399 925,399 977,399 1029,400 1080,400 1132,400 1184,400 1236,400"/>
+                <TextEquiv>
+                    <Unicode>worden, und es wird nicht weiter zu erörtern nöthig sein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_chord {offset:10; length:14;} textStyle {offset:25; length:7;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:25; length:7;} concept_mus {offset:47; length:4;}">
+                <Coords points="196,458 1257,459 1257,427 1190,419 196,427"/>
+                <Baseline points="202,447 254,449 306,450 359,451 411,451 464,452 516,452 569,452 621,452 674,452 726,452 778,452 831,452 883,452 936,451 988,451 1041,451 1093,451 1146,452 1198,452 1251,452"/>
+                <TextEquiv>
+                    <Unicode>warum der Septimenaccord h-D|F-a nur aus einer Lage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:4; length:9;} m_chord {offset:14; length:11;} m_interval {offset:38; length:5;}">
+                <Coords points="196,515 1257,516 1257,484 1196,467 857,493 775,467 715,495 196,472"/>
+                <Baseline points="203,502 255,503 307,504 360,504 412,505 465,505 517,505 569,505 622,505 674,505 727,505 779,505 831,505 884,505 936,505 989,505 1041,505 1093,505 1146,505 1198,506 1251,506"/>
+                <TextEquiv>
+                    <Unicode>des tonischen Dreiklanges, welche die Quint desselben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:12; length:6;}">
+                <Coords points="197,571 1246,578 1246,532 1149,523 197,531"/>
+                <Baseline points="203,556 254,557 306,557 358,558 410,558 462,559 514,559 565,559 617,559 669,559 721,559 773,559 825,559 877,559 928,559 980,559 1032,559 1084,559 1136,559 1188,559 1240,559"/>
+                <TextEquiv>
+                    <Unicode>als oberste Stimme enthält, folgerichtig hervorgehen kann;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} m_chord {offset:14; length:14;} textStyle {offset:29; length:8;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:29; length:8;} concept_mus {offset:48; length:4;}">
+                <Coords points="197,617 1256,619 1256,586 1203,579 197,584"/>
+                <Baseline points="204,610 256,611 308,611 360,611 413,611 465,611 517,611 570,611 622,611 674,611 727,611 779,611 831,611 883,611 936,611 988,611 1040,611 1093,612 1145,612 1197,612 1250,613"/>
+                <TextEquiv>
+                    <Unicode>dass aber der Septimenaccord h-D|F-as aus jeder Lage des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_mus {offset:0; length:9;} m_chord {offset:10; length:11;} textStyle {offset:51; length:9;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:51; length:6;}">
+                <Coords points="192,675 1244,674 1206,628 192,635"/>
+                <Baseline points="199,663 250,663 302,664 354,664 406,664 458,664 510,664 562,664 614,664 666,664 718,664 769,664 821,664 873,664 925,664 977,664 1029,664 1081,664 1133,664 1185,665 1237,665"/>
+                <TextEquiv>
+                    <Unicode>tonischen Dreiklanges herzuleiten ist: so dass wir es-G-C...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} textStyle {offset:0; length:8;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:0; length:8;} textStyle {offset:10; length:17;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:10; length:6;} m_chord {offset:19; length:8;} textStyle {offset:40; length:15;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:40; length:5;} m_chord {offset:48; length:7;}">
+                <Coords points="195,724 1248,739 1249,693 195,688"/>
+                <Baseline points="202,714 254,715 306,716 358,716 410,717 462,717 514,717 566,717 618,717 670,717 722,717 774,717 826,717 878,717 930,717 982,717 1034,717 1086,717 1138,718 1190,718 1242,719"/>
+                <TextEquiv>
+                    <Unicode>D-F-as-h, G-C-es...as-h-D-F, nicht aber e-G-C...D-F-a-h,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} textStyle {offset:0; length:15;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:0; length:5;} m_chord {offset:8; length:7;}">
+                <Coords points="196,779 868,778 853,748 736,732 659,749 382,733 333,758 262,731 196,735"/>
+                <Baseline points="203,766 237,767 272,769 307,770 341,770 376,771 411,771 445,771 480,771 515,771 549,770 584,770 619,770 653,770 688,769 723,769 757,769 792,769 827,770 862,770"/>
+                <TextEquiv>
+                    <Unicode>G-C-e...a-h-D-F folgen lassen können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bei dem Accorde h-D|F-as wegfallen, ist schon gesprochen&#13;
+worden, und es wird nicht weiter zu erörtern nöthig sein,&#13;
+warum der Septimenaccord h-D|F-a nur aus einer Lage&#13;
+des tonischen Dreiklanges, welche die Quint desselben&#13;
+als oberste Stimme enthält, folgerichtig hervorgehen kann;&#13;
+dass aber der Septimenaccord h-D|F-as aus jeder Lage des&#13;
+tonischen Dreiklanges herzuleiten ist: so dass wir es-G-C...&#13;
+D-F-as-h, G-C-es...as-h-D-F, nicht aber e-G-C...D-F-a-h,&#13;
+G-C-e...a-h-D-F folgen lassen können.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1612565631609_2620" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="195,791 1252,791 1252,878 195,878"/>
+            <TextLine id="r1l11" custom="readingOrder {index:0;} textStyle {offset:0; length:48;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:5; length:14;} m_interval {offset:28; length:19;}">
+                <Coords points="277,868 1179,864 1179,838 1126,820 277,820"/>
+                <Baseline points="284,857 328,857 372,857 417,857 461,857 506,857 550,857 594,857 639,857 683,857 728,857 772,857 816,857 861,857 905,857 950,857 994,858 1038,858 1083,858 1127,858 1172,859"/>
+                <TextEquiv>
+                    <Unicode>III. Septimenaccord auf der Ober-Dominant-Quint.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>III. Septimenaccord auf der Ober-Dominant-Quint.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612565628285_2616" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="195,878 1252,878 1252,1577 195,1577"/>
+            <TextLine id="r1l12" custom="readingOrder {index:0;} m_chord {offset:13; length:14;} textStyle {offset:28; length:7;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:28; length:7;} m_tonality {offset:40; length:9;}">
+                <Coords points="285,939 1243,947 1227,899 285,892"/>
+                <Baseline points="291,929 338,929 385,929 432,929 480,929 527,929 574,929 622,929 669,929 716,929 764,929 811,929 858,929 905,929 953,929 1000,929 1047,929 1095,929 1142,929 1189,930 1237,930"/>
+                <TextEquiv>
+                    <Unicode>203. Für den Septimenaccord D|F-a-C der Durtonart,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:1;} m_tonality {offset:12; length:10;} m_chord {offset:27; length:6;} textStyle {offset:34; length:8;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:34; length:8;}">
+                <Coords points="197,995 1174,1003 1249,995 1249,954 197,955"/>
+                <Baseline points="204,982 258,982 313,982 368,982 422,982 477,982 532,982 586,982 641,982 696,982 750,982 805,982 860,982 914,982 969,982 1024,982 1078,983 1133,983 1188,983 1243,983"/>
+                <TextEquiv>
+                    <Unicode>enthält die Molltonart den Accord D|F-as-C. Wenn jener</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:2;} m_chord {offset:8; length:15;} textStyle {offset:24; length:7;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:24; length:7;}">
+                <Coords points="189,1040 1253,1051 1253,1017 1207,1003 189,1015"/>
+                <Baseline points="195,1034 247,1034 300,1035 352,1035 405,1035 457,1035 510,1035 562,1035 615,1035 667,1035 720,1035 773,1035 825,1035 878,1035 930,1035 983,1035 1035,1035 1088,1035 1140,1036 1193,1036 1246,1037"/>
+                <TextEquiv>
+                    <Unicode>mit dem Septimenaccorde d-F-a-C zu verwechseln ist,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:3;} m_interval {offset:4; length:19;} textStyle {offset:24; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:24; length:3;} textStyle {offset:32; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:32; length:3;}">
+                <Coords points="194,1100 1247,1098 1232,1052 194,1058"/>
+                <Baseline points="201,1087 253,1087 305,1088 357,1088 409,1088 461,1088 513,1088 565,1088 617,1088 669,1088 721,1088 773,1088 825,1088 877,1088 929,1088 981,1088 1033,1088 1085,1088 1137,1089 1189,1089 1241,1090"/>
+                <TextEquiv>
+                    <Unicode>die Dissonanzintervalle D|F und D—a auch wirklich in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:4;} concept_mus {offset:4; length:11;} concept_phy {offset:4; length:11;} textStyle {offset:16; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:16; length:3;} textStyle {offset:24; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:24; length:3;}">
+                <Coords points="201,1155 1246,1163 1247,1109 201,1107"/>
+                <Baseline points="208,1139 259,1140 311,1140 362,1141 414,1141 466,1141 517,1141 569,1141 620,1141 672,1141 724,1141 775,1141 827,1141 878,1141 930,1141 982,1141 1033,1142 1085,1142 1136,1142 1188,1142 1240,1143"/>
+                <TextEquiv>
+                    <Unicode>die consonanten d-F und d—a überzutreten geneigt sind,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:5;} m_chord {offset:10; length:15;} m_tonality {offset:49; length:5; continued:true;}">
+                <Coords points="192,1202 1248,1196 1229,1164 192,1171"/>
+                <Baseline points="199,1192 251,1193 303,1193 355,1194 407,1194 459,1194 511,1195 563,1195 615,1195 667,1195 720,1195 772,1195 824,1195 876,1195 928,1195 980,1195 1032,1195 1084,1195 1136,1195 1188,1195 1241,1195"/>
+                <TextEquiv>
+                    <Unicode>so ist im Septimenaccorde gleicher Stelle in der Moll¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:6;} m_tonality {offset:0; length:6; continued:true;} textStyle {offset:8; length:8;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:8; length:8;} concept_mus {offset:24; length:14;}">
+                <Coords points="194,1260 1245,1267 1245,1220 1191,1211 194,1219"/>
+                <Baseline points="201,1246 252,1246 304,1246 356,1246 408,1246 460,1246 512,1247 563,1247 615,1247 667,1247 719,1247 771,1247 823,1247 875,1247 926,1248 978,1248 1030,1248 1082,1248 1134,1249 1186,1249 1238,1249"/>
+                <TextEquiv>
+                    <Unicode>tonart, D|F-as-C, diese Zweideutigkeit nicht vorhanden;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:7;}">
+                <Coords points="199,1307 1255,1307 1255,1278 1197,1267 199,1269"/>
+                <Baseline points="206,1298 258,1299 310,1299 362,1299 414,1299 466,1299 518,1300 570,1300 622,1300 674,1300 727,1300 779,1300 831,1300 883,1300 935,1300 987,1300 1039,1300 1091,1300 1143,1300 1195,1300 1248,1300"/>
+                <TextEquiv>
+                    <Unicode>dagegen hat dieser eine äussere Aehnlichkeit mit dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:8;} m_chord {offset:0; length:15;} textStyle {offset:16; length:8;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:16; length:8;} m_tonality {offset:29; length:12;}">
+                <Coords points="197,1363 1240,1360 1224,1324 197,1318"/>
+                <Baseline points="204,1350 255,1350 307,1351 358,1351 410,1352 461,1352 513,1352 564,1353 616,1353 667,1353 719,1353 770,1353 822,1353 873,1353 925,1353 976,1353 1028,1353 1079,1353 1131,1353 1182,1353 1234,1353"/>
+                <TextEquiv>
+                    <Unicode>Septimenaccorde d-F|As-C der Es-Durtonart, entspre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:9;} m_chord {offset:10; length:7;} textStyle {offset:18; length:7;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:18; length:7;} m_chord {offset:30; length:11;}">
+                <Coords points="200,1419 1255,1418 1255,1371 201,1377"/>
+                <Baseline points="207,1406 259,1406 311,1405 363,1405 415,1405 467,1405 519,1405 571,1405 623,1405 675,1405 727,1405 779,1406 831,1406 883,1406 935,1406 987,1406 1039,1406 1091,1406 1143,1406 1195,1406 1248,1406"/>
+                <TextEquiv>
+                    <Unicode>chend dem Accorde h-D|F-a der C-Durtonart. Stellung und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:10;} concept_mus {offset:8; length:9;} concept_phy {offset:8; length:9;}">
+                <Coords points="194,1466 1251,1459 1208,1427 1054,1421 194,1433"/>
+                <Baseline points="200,1458 252,1458 304,1458 356,1458 408,1458 461,1459 513,1459 565,1459 617,1459 669,1459 722,1459 774,1459 826,1459 878,1459 930,1459 983,1459 1035,1458 1087,1458 1139,1457 1191,1457 1244,1456"/>
+                <TextEquiv>
+                    <Unicode>die der Dissonanz angemessene Behandlung werden den Un¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:11;} m_chord {offset:14; length:7;} textStyle {offset:22; length:8;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:22; length:8;} textStyle {offset:35; length:8;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:35; length:8;}">
+                <Coords points="196,1523 1241,1523 1251,1482 196,1484"/>
+                <Baseline points="203,1511 255,1511 307,1511 359,1511 411,1511 463,1511 515,1511 567,1511 619,1512 671,1512 723,1512 775,1512 827,1512 879,1512 931,1512 983,1512 1035,1512 1087,1512 1139,1511 1191,1511 1244,1510"/>
+                <TextEquiv>
+                    <Unicode>terschied der Accorde D|F-as-C und d-F|As-C, so wie den der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:12;} m_chord {offset:0; length:7;} textStyle {offset:8; length:7;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:8; length:7;} textStyle {offset:20; length:7;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:20; length:7;}">
+                <Coords points="196,1579 1253,1570 1253,1545 1144,1532 196,1534"/>
+                <Baseline points="203,1565 255,1565 307,1564 359,1564 411,1564 463,1564 515,1564 568,1564 620,1565 672,1565 724,1565 776,1565 828,1565 880,1565 933,1565 985,1565 1037,1565 1089,1565 1141,1565 1193,1564 1246,1564"/>
+                <TextEquiv>
+                    <Unicode>Accorde D|F-a-C und d-F-a-C immer leicht erkennen lassen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>203. Für den Septimenaccord D|F-a-C der Durtonart,&#13;
+enthält die Molltonart den Accord D|F-as-C. Wenn jener&#13;
+mit dem Septimenaccorde d-F-a-C zu verwechseln ist,&#13;
+die Dissonanzintervalle D|F und D—a auch wirklich in&#13;
+die consonanten d-F und d—a überzutreten geneigt sind,&#13;
+so ist im Septimenaccorde gleicher Stelle in der Moll¬&#13;
+tonart, D|F-as-C, diese Zweideutigkeit nicht vorhanden;&#13;
+dagegen hat dieser eine äussere Aehnlichkeit mit dem&#13;
+Septimenaccorde d-F|As-C der Es-Durtonart, entspre¬&#13;
+chend dem Accorde h-D|F-a der C-Durtonart. Stellung und&#13;
+die der Dissonanz angemessene Behandlung werden den Un¬&#13;
+terschied der Accorde D|F-as-C und d-F|As-C, so wie den der&#13;
+Accorde D|F-a-C und d-F-a-C immer leicht erkennen lassen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612565624970_2612" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
+            <Coords points="195,1577 1252,1577 1252,2128 195,2128"/>
+            <TextLine id="r1l25" custom="readingOrder {index:0;}">
+                <Coords points="279,1628 1237,1628 1251,1587 279,1588"/>
+                <Baseline points="285,1617 333,1617 381,1617 429,1617 477,1617 525,1617 573,1617 621,1617 669,1618 717,1618 765,1618 813,1618 861,1618 909,1618 957,1618 1005,1618 1053,1618 1101,1617 1149,1617 1197,1616 1245,1615"/>
+                <TextEquiv>
+                    <Unicode>204. — Es ist hauptsächlich die Beschaffenheit unserer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:1;} concept_mus {offset:0; length:18;} m_chord {offset:50; length:3; continued:true;}">
+                <Coords points="198,1683 1237,1683 1237,1644 1197,1636 594,1636 554,1662 198,1629"/>
+                <Baseline points="204,1670 255,1670 306,1670 357,1670 409,1670 460,1670 511,1671 563,1671 614,1671 665,1671 717,1671 768,1672 819,1672 870,1672 922,1671 973,1671 1024,1671 1076,1671 1127,1670 1178,1669 1230,1668"/>
+                <TextEquiv>
+                    <Unicode>Clavierinstrumente, die zu Verwechslungen solcher Ac¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:2;} m_chord {offset:0; length:5; continued:true;} concept_mus {offset:47; length:6; continued:true;}">
+                <Coords points="197,1732 1241,1728 1241,1701 1130,1692 197,1699"/>
+                <Baseline points="203,1723 254,1723 306,1723 357,1723 409,1724 460,1724 512,1724 563,1724 615,1724 666,1724 718,1724 770,1724 821,1724 873,1724 924,1724 976,1724 1027,1723 1079,1723 1130,1723 1182,1723 1234,1723"/>
+                <TextEquiv>
+                    <Unicode>corde führen, und überhaupt die Unklarheit des harmo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:3;} concept_mus {offset:0; length:17; continued:true;}">
+                <Coords points="197,1787 1192,1796 1250,1788 1250,1745 197,1755"/>
+                <Baseline points="203,1776 255,1776 307,1777 359,1777 411,1777 463,1777 515,1778 567,1778 619,1778 671,1778 723,1778 775,1778 827,1777 879,1777 931,1777 983,1777 1035,1777 1087,1776 1139,1776 1191,1776 1243,1776"/>
+                <TextEquiv>
+                    <Unicode>nischen Begriffes fortbestehen lassen kann; im Wesen der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:4;}">
+                <Coords points="193,1843 1258,1839 1258,1803 1201,1795 858,1819 193,1796"/>
+                <Baseline points="199,1829 251,1829 304,1829 356,1830 409,1830 462,1830 514,1831 567,1831 620,1831 672,1831 725,1831 778,1831 830,1831 883,1831 936,1831 988,1830 1041,1830 1094,1830 1146,1829 1199,1829 1252,1828"/>
+                <TextEquiv>
+                    <Unicode>Sache selbst ist mit dem Ganzen auch jedes Einzelne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:5;} concept_mus {offset:45; length:7;}">
+                <Coords points="189,1889 1236,1891 1257,1857 189,1860"/>
+                <Baseline points="195,1883 247,1883 300,1883 353,1883 406,1883 458,1883 511,1883 564,1883 617,1883 669,1884 722,1884 775,1884 828,1884 880,1884 933,1884 986,1883 1039,1883 1091,1883 1144,1883 1197,1882 1250,1882"/>
+                <TextEquiv>
+                    <Unicode>unzweideutig bestimmt. Wenn man aber für das Clavier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:6;} m_note {offset:4; length:5;} textStyle {offset:10; length:3;italic:true; fontSize:0.0; kerning:0;} m_note {offset:10; length:3;} textStyle {offset:15; length:3;italic:true; fontSize:0.0; kerning:0;} m_note {offset:15; length:3;} textStyle {offset:20; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:20; length:1;} concept_mus {offset:31; length:14;} concept_mus {offset:46; length:10;}">
+                <Coords points="197,1947 1253,1946 1253,1907 1169,1899 568,1900 542,1926 197,1902"/>
+                <Baseline points="204,1937 256,1937 308,1936 360,1937 412,1937 464,1937 516,1937 568,1937 620,1937 672,1937 725,1938 777,1938 829,1938 881,1938 933,1937 985,1937 1037,1937 1089,1936 1141,1935 1193,1934 1246,1933"/>
+                <TextEquiv>
+                    <Unicode>die Noten his, fes, G zu einem wohlklingenden Dreiklange</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:7;}">
+                <Coords points="192,2001 1117,2011 1229,1995 1244,1963 192,1964"/>
+                <Baseline points="199,1989 253,1989 308,1989 363,1989 417,1989 472,1989 527,1990 581,1990 636,1990 691,1990 745,1990 800,1990 855,1990 909,1990 964,1990 1019,1990 1073,1989 1128,1988 1183,1987 1238,1986"/>
+                <TextEquiv>
+                    <Unicode>zusammenschreiben kann, so ist eine natürliche systema¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:8;} concept_mus {offset:23; length:20;}">
+                <Coords points="190,2049 1254,2051 1216,2004 577,2034 190,2013"/>
+                <Baseline points="196,2042 248,2042 301,2042 353,2042 406,2042 458,2042 511,2042 563,2043 616,2043 668,2043 721,2043 774,2043 826,2043 879,2043 931,2043 984,2043 1036,2043 1089,2043 1141,2042 1194,2041 1247,2040"/>
+                <TextEquiv>
+                    <Unicode>tische Nachweisung der harmonischen Gesetze an der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:9;} concept_mus {offset:0; length:9;} textStyle {offset:39; length:13;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:39; length:13;}">
+                <Coords points="196,2107 1258,2104 1258,2067 1211,2059 616,2084 196,2059"/>
+                <Baseline points="202,2095 254,2095 307,2096 359,2096 412,2096 464,2096 517,2097 569,2097 622,2097 674,2098 727,2098 779,2098 832,2098 884,2098 937,2098 989,2097 1042,2097 1094,2096 1147,2095 1199,2094 1252,2093"/>
+                <TextEquiv>
+                    <Unicode>Claviatur wohl nicht zu suchen. Wo der enharmonische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>204. — Es ist hauptsächlich die Beschaffenheit unserer&#13;
+Clavierinstrumente, die zu Verwechslungen solcher Ac¬&#13;
+corde führen, und überhaupt die Unklarheit des harmo¬&#13;
+nischen Begriffes fortbestehen lassen kann; im Wesen der&#13;
+Sache selbst ist mit dem Ganzen auch jedes Einzelne&#13;
+unzweideutig bestimmt. Wenn man aber für das Clavier&#13;
+die Noten his, fes, G zu einem wohlklingenden Dreiklange&#13;
+zusammenschreiben kann, so ist eine natürliche systema¬&#13;
+tische Nachweisung der harmonischen Gesetze an der&#13;
+Claviatur wohl nicht zu suchen. Wo der enharmonische</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

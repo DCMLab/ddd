@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-18T14:22:15.502+01:00</Created>
+        <LastChange>2021-09-10T10:52:27.739+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121828" pageNr="231" tsid="64575299" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=QKDDFPUSSUHEUHNWESTLQBUK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QNSVPIEJCOWYGAIUJHHOCXZS" imageId="21905198"/>
+    </Metadata>
+    <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0240.jpg" imageWidth="1502" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1631311011600" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="heading" id="r1" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="274,860 274,1266 1097,1266 1097,860"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} textStyle {offset:0; length:18;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="416,964 950,965 950,940 876,917 695,917 675,937 416,917"/>
+                <Baseline points="421,960 447,961 473,962 499,963 525,963 552,964 578,964 604,964 630,963 656,963 683,963 709,963 735,962 761,962 787,962 814,962 840,962 866,963 892,963 918,965 945,966"/>
+                <TextEquiv>
+                    <Unicode>Sechster Abschnitt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} textStyle {offset:0; length:24;fontSize:0.0; kerning:0; bold:true;} concept_mus {offset:0; length:9;} concept_phy {offset:0; length:9;} concept_mus {offset:14; length:9;}">
+                <Coords points="268,1225 1059,1234 1102,1212 1070,1173 895,1156 600,1181 269,1157"/>
+                <Baseline points="274,1209 315,1210 356,1210 397,1211 438,1211 479,1211 520,1211 562,1212 603,1212 644,1212 685,1212 726,1212 767,1212 808,1212 850,1212 891,1212 932,1213 973,1213 1014,1214 1055,1215 1097,1216"/>
+                <TextEquiv>
+                    <Unicode>Dissonanz und Auflösung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sechster Abschnitt.
+Dissonanz und Auflösung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

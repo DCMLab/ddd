@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-18T14:22:11.128+01:00</Created>
+        <LastChange>2021-09-08T17:19:20.225+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121712" pageNr="115" tsid="64432890" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=YPJVAZHURAXIHLJTTUYDOYSY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OSXWVJWLTOQIISSCTJFAODSY" imageId="21905082"/>
+    </Metadata>
+    <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0124.jpg" imageWidth="1502" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1631310999703" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1621075722892_5229"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1621075722892_5228"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1621075716106_5218"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1621075711419_5214"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1621075722892_5229" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="63,136 1292,136 1292,188 63,188"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="520,164 575,172 590,158 609,158 630,179 702,179 712,169 812,172 826,165 826,130 723,135 712,123 596,122 585,134 520,134"/>
+                <Baseline points="527,156 553,160 580,163 606,164 633,166 659,166 686,165 712,165 739,163 765,162 792,160 819,158"/>
+                <TextEquiv>
+                    <Unicode>107</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>107</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1621075722892_5228" custom="readingOrder {index:1;} structure {type:missing;}">
+            <Coords points="63,188 1292,188 1292,436 63,436"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1621075740163_5234" custom="readingOrder {index:2;} structure {type:floating;}">
+            <Coords points="63,436 1292,436 1292,671 63,671"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1621075716106_5218" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="63,671 1292,671 1292,814 63,814"/>
+            <TextLine id="r1l11" custom="readingOrder {index:0;} m_tonality {offset:5; length:6;} concept_mus {offset:22; length:10;} textStyle {offset:33; length:3;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="143,732 841,748 1278,739 1299,709 143,683"/>
+                <Baseline points="150,722 207,723 264,724 321,724 378,724 435,724 492,724 549,724 606,723 663,723 721,723 778,722 835,722 892,722 949,722 1006,722 1063,723 1120,723 1177,724 1234,726 1292,727"/>
+                <TextEquiv>
+                    <Unicode>Nach a-moll kehrt die Begleitung nur mit Hülfe von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:1;} m_note {offset:0; length:5;} textStyle {offset:0; length:3;italic:true; fontSize:0.0; kerning:0;}">
+                <Coords points="56,803 1048,794 1048,754 948,747 399,763 359,740 282,774 56,732"/>
+                <Baseline points="63,782 111,783 160,784 209,785 258,786 307,786 356,786 404,786 453,786 502,786 551,786 600,785 649,785 698,785 746,784 795,784 844,784 893,784 942,784 991,785 1040,785"/>
+                <TextEquiv>
+                    <Unicode>gis}} zurück. Ich will die Schlusszeile hinsetzen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nach a-moll kehrt die Begleitung nur mit Hülfe von&#13;
+gis}} zurück. Ich will die Schlusszeile hinsetzen:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1621075711419_5214" custom="readingOrder {index:4;} structure {type:missing;}">
+            <Coords points="63,814 1292,814 1292,2307 63,2307"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

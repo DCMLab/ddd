@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-12-03T18:01:30.408+01:00</Created>
+        <LastChange>2021-08-24T16:33:12.773+02:00</LastChange>
+        <TranskribusMetadata docId="763762" pageId="28701736" pageNr="24" tsid="63280477" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ZIIIRUKRSRGJGJPFETMWRDKG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DXHOBSJUTNVVDTJYGOZWUPCJ" imageId="22424822"/>
+    </Metadata>
+    <Page imageFilename="Hostinský1879-0024.jpg" imageWidth="1407" imageHeight="2241" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630573571709" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1626093341789_831"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1626093341789_830"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1626093337173_822"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1626093334014_818"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1626093341789_831" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="106,71 1266,71 1266,125 106,125"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="659,110 681,106 704,107 713,98 716,100 745,95 743,78 719,81 708,71 698,67 655,68"/>
+                <Baseline points="666,102 701,99 737,95"/>
+                <TextEquiv>
+                    <Unicode>16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>16</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626093341789_830" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="106,125 1266,125 1266,300 106,300"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:4; length:13;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:4; length:13;}">
+                <Coords points="106,194 1267,196 1267,147 106,148"/>
+                <Baseline points="113,184 170,184 227,184 285,184 342,184 399,184 457,184 514,184 571,184 629,184 686,184 743,185 801,185 858,185 915,185 973,185 1030,185 1087,184 1145,184 1202,184 1260,183"/>
+                <TextEquiv>
+                    <Unicode>die Differenztöne der ersten, zweiten, dritten, vierten und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:36; length:8;} concept_mus {offset:46; length:7;} concept_mus {offset:55; length:6; continued:true;}">
+                <Coords points="98,235 1259,231 1220,195 98,200"/>
+                <Baseline points="106,228 163,227 220,227 277,227 335,227 392,227 449,227 506,227 564,227 621,227 678,227 735,227 793,227 850,227 907,227 964,227 1022,227 1079,226 1136,226 1193,226 1251,225"/>
+                <TextEquiv>
+                    <Unicode>fünften Ordnung angegeben und durch Viertel-, Achtel-, Sechs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:0; length:8; continued:true;} concept_mus {offset:10; length:20;} concept_mus {offset:35; length:23;}">
+                <Coords points="102,279 1260,274 1260,244 1148,228 102,243"/>
+                <Baseline points="110,270 167,270 224,269 281,269 338,269 395,269 452,269 510,269 567,269 624,269 681,269 738,269 795,270 852,270 910,269 967,269 1024,269 1081,269 1138,269 1195,268 1253,268"/>
+                <TextEquiv>
+                    <Unicode>zehntel-, Zweiunddreissigstel- und Vierundsechzigstelnoten bezeichnet:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die Differenztöne der ersten, zweiten, dritten, vierten und&#13;
+fünften Ordnung angegeben und durch Viertel-, Achtel-, Sechs¬&#13;
+zehntel-, Zweiunddreissigstel- und Vierundsechzigstelnoten bezeichnet:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1626093359476_842" custom="readingOrder {index:2;} structure {type:floating;}">
+            <Coords points="106,300 1266,300 1266,933 106,933"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1626093337173_822" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="106,933 1266,933 1266,1200 106,1200"/>
+            <TextLine id="r1l47" custom="readingOrder {index:0;} textStyle {offset:48; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:52; length:4; continued:true;}">
+                <Coords points="192,987 1232,988 1261,946 192,947"/>
+                <Baseline points="199,975 251,975 304,975 357,975 410,975 462,976 515,976 568,976 621,977 673,977 726,977 779,977 832,978 884,978 937,978 990,978 1043,977 1095,977 1148,977 1201,976 1254,975"/>
+                <TextEquiv>
+                    <Unicode>Interessant ist hier die Wahrnehmung, dass sich die Dif¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l48" custom="readingOrder {index:1;} textStyle {offset:0; length:50;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:0; length:10; continued:true;} concept_phy {offset:28; length:5;} concept_phy {offset:38; length:12; continued:true;}">
+                <Coords points="103,1024 1267,1026 1267,994 1140,988 103,988"/>
+                <Baseline points="110,1017 167,1018 225,1018 282,1018 340,1019 397,1019 455,1019 512,1019 570,1019 627,1020 685,1020 742,1020 800,1020 857,1020 915,1020 972,1020 1030,1020 1087,1020 1145,1020 1202,1019 1260,1019"/>
+                <TextEquiv>
+                    <Unicode>ferenztöne stets zur ganzen Reihe von harmonischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l49" custom="readingOrder {index:2;} textStyle {offset:0; length:21;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:0; length:12; continued:true;}">
+                <Coords points="107,1069 1268,1067 1268,1032 1223,1028 107,1028"/>
+                <Baseline points="114,1059 171,1060 228,1060 286,1060 343,1061 400,1061 458,1061 515,1061 572,1062 630,1062 687,1062 744,1062 802,1062 859,1062 916,1062 974,1062 1031,1062 1088,1062 1146,1062 1203,1062 1261,1062"/>
+                <TextEquiv>
+                    <Unicode>Partialtönen ergänzen, die hinauf bis zum höheren der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l50" custom="readingOrder {index:3;} m_note {offset:16; length:4;} concept_phy {offset:48; length:13;}">
+                <Coords points="112,1115 1271,1114 1271,1075 1105,1068 112,1069"/>
+                <Baseline points="119,1101 176,1101 233,1102 290,1103 348,1103 405,1103 462,1104 519,1104 577,1104 634,1104 691,1104 748,1104 806,1104 863,1104 920,1104 977,1104 1035,1104 1092,1104 1149,1104 1206,1104 1264,1104"/>
+                <TextEquiv>
+                    <Unicode>beiden primären Töne reicht. Natürlich sind die Differenztöne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l51" custom="readingOrder {index:4;}">
+                <Coords points="111,1155 1266,1155 1266,1122 1127,1115 112,1121"/>
+                <Baseline points="119,1142 176,1143 233,1144 290,1144 347,1144 404,1145 461,1145 518,1145 575,1146 632,1146 689,1146 746,1146 803,1146 860,1146 917,1146 974,1146 1031,1146 1088,1146 1145,1147 1202,1147 1259,1147"/>
+                <TextEquiv>
+                    <Unicode>erster Ordnung die stärksten; man meint in der Regel diese, wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l52" custom="readingOrder {index:5;} concept_phy {offset:16; length:17;}">
+                <Coords points="102,1194 792,1203 883,1196 883,1158 102,1164"/>
+                <Baseline points="109,1186 147,1186 185,1186 223,1186 262,1186 300,1186 338,1187 377,1187 415,1187 453,1187 492,1187 530,1187 568,1187 606,1187 645,1187 683,1187 721,1187 760,1187 798,1188 836,1188 875,1188"/>
+                <TextEquiv>
+                    <Unicode>man kurzweg von Combinationstönen spricht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Interessant ist hier die Wahrnehmung, dass sich die Dif¬
+ferenztöne stets zur ganzen Reihe von harmonischen
+Partialtönen ergänzen, die hinauf bis zum höheren der
+beiden primären Töne reicht. Natürlich sind die Differenztöne
+erster Ordnung die stärksten; man meint in der Regel diese, wenn
+man kurzweg von Combinationstönen spricht.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1626093334014_818" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
+            <Coords points="106,1200 1266,1200 1266,1337 106,1337"/>
+            <TextLine id="r1l53" custom="readingOrder {index:0;}">
+                <Coords points="191,1243 1264,1240 1238,1203 191,1206"/>
+                <Baseline points="198,1233 250,1233 303,1234 356,1234 409,1234 462,1234 515,1235 568,1235 621,1235 674,1235 727,1235 779,1236 832,1236 885,1236 938,1236 991,1236 1044,1236 1097,1236 1150,1236 1203,1236 1256,1235"/>
+                <TextEquiv>
+                    <Unicode>Um den Stoff nicht zu sehr auseinanderzureissen, fügen wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l54" custom="readingOrder {index:1;} textStyle {offset:30; length:28;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:30; length:13;}">
+                <Coords points="108,1283 1273,1289 1273,1250 1103,1243 108,1243"/>
+                <Baseline points="115,1274 172,1274 230,1275 287,1275 345,1276 402,1276 460,1276 517,1277 575,1277 632,1277 690,1277 748,1277 805,1277 863,1277 920,1277 978,1277 1035,1278 1093,1278 1150,1278 1208,1278 1266,1279"/>
+                <TextEquiv>
+                    <Unicode>hier noch eine Uebersicht der Differenztöne erster Ordnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l55" custom="readingOrder {index:2;} textStyle {offset:20; length:21;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:20; length:4;} m_chord {offset:29; length:12;}">
+                <Coords points="110,1331 1075,1331 1055,1283 110,1283"/>
+                <Baseline points="118,1318 165,1317 212,1317 260,1317 307,1317 355,1317 402,1317 450,1318 497,1318 545,1318 592,1318 639,1318 687,1319 734,1319 782,1319 829,1319 877,1319 924,1319 972,1319 1019,1319 1067,1319"/>
+                <TextEquiv>
+                    <Unicode>für eine Anzahl von Dur- und Mollaccorden bei:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Um den Stoff nicht zu sehr auseinanderzureissen, fügen wir
+hier noch eine Uebersicht der Differenztöne erster Ordnung
+für eine Anzahl von Dur- und Mollaccorden bei:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1626093380327_851" custom="readingOrder {index:5;} structure {type:floating;}">
+            <Coords points="106,1337 1266,1337 1266,2041 106,2041"/>
+        </MusicRegion>
+    </Page>
+</PcGts>

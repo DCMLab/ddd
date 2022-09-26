@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-09-22T14:25:22.660+02:00</Created>
+        <LastChange>2021-10-08T12:14:05.839+02:00</LastChange>
+        <TranskribusMetadata docId="786648" pageId="29710725" pageNr="23" tsid="66135834" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=NAQDONJMJREITSOHLZORSBKV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WLHEXFPPDZTVKNUAPBSJAVFF" imageId="23310227"/>
+    </Metadata>
+    <Page imageFilename="Kraushaar1852-0023.jpg" imageWidth="5704" imageHeight="9258" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1634213923060" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1632832769589_1384"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1632832766334_1379"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1632832769589_1384" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="828,671 5004,671 5004,866 828,866"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2861,773 2887,773 2919,805 2981,789 3033,805 3054,789 3133,784 3133,638 3070,643 2981,575 2887,632 2861,632"/>
+                <Baseline points="2888,768 2915,766 2943,766 2970,766 2998,766 3025,766 3053,766 3080,766 3108,768"/>
+                <TextEquiv>
+                    <Unicode>18</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>18</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1632832779740_1388" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="828,866 5004,866 5004,6030 828,6030"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1632832766334_1379" custom="readingOrder {index:2;} structure {type:paragraph-continued;}">
+            <Coords points="828,6030 5004,6030 5004,8039 828,8039"/>
+            <TextLine id="r2l29" custom="readingOrder {index:0;} concept_phy {offset:14; length:17;} m_note {offset:46; length:4;}">
+                <Coords points="1179,6199 5022,6187 4890,5978 4635,6078 1178,5969"/>
+                <Baseline points="1204,6162 1393,6164 1583,6164 1772,6166 1962,6166 2151,6166 2341,6166 2530,6166 2720,6164 2909,6164 3099,6162 3288,6161 3478,6160 3667,6158 3857,6158 4046,6156 4236,6156 4425,6156 4615,6156 4804,6156 4994,6158"/>
+                <TextEquiv>
+                    <Unicode>Je größer die Schwingungszahlen und höher die Töne, desto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:1;} m_interval {offset:19; length:10;} concept_mus {offset:47; length:15;}">
+                <Coords points="843,6389 4879,6430 5014,6226 842,6232"/>
+                <Baseline points="868,6356 1074,6360 1280,6364 1486,6366 1692,6368 1898,6370 2104,6370 2310,6370 2516,6368 2722,6368 2928,6366 3134,6364 3340,6364 3546,6362 3752,6360 3958,6358 4164,6356 4370,6356 4576,6356 4782,6356 4988,6356"/>
+                <TextEquiv>
+                    <Unicode>kleiner werden die Intervalle und geringer die Tonunterschiede.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:2;} concept_mus {offset:13; length:16;} m_interval {offset:30; length:6;} m_interval {offset:53; length:8; continued:true;}">
+                <Coords points="840,6623 4845,6648 5006,6621 5006,6402 839,6404"/>
+                <Baseline points="866,6550 1071,6558 1277,6563 1483,6566 1689,6570 1895,6570 2100,6572 2306,6572 2512,6572 2718,6570 2924,6568 3129,6566 3335,6564 3541,6562 3747,6560 3953,6558 4158,6556 4364,6554 4570,6554 4776,6554 4982,6554"/>
+                <TextEquiv>
+                    <Unicode>Schon in der dreigestrichenen Octave gelangen wir zu Viertel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:3;} m_interval {offset:0; length:5; continued:true;} concept_mus {offset:46; length:17;}">
+                <Coords points="835,6791 5018,6807 5017,6609 4766,6594 835,6640"/>
+                <Baseline points="862,6762 1068,6764 1275,6766 1481,6766 1688,6768 1894,6768 2101,6768 2307,6768 2514,6766 2720,6766 2927,6766 3133,6764 3340,6764 3546,6762 3753,6762 3959,6760 4166,6760 4372,6760 4579,6758 4785,6758 4992,6758"/>
+                <TextEquiv>
+                    <Unicode>tönen, von welchen wir bekanntlich in unserer praktischen Musik</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:4;} m_interval {offset:34; length:11;}">
+                <Coords points="822,7010 5025,6989 4910,6811 822,6817"/>
+                <Baseline points="846,6962 1053,6964 1261,6966 1469,6968 1676,6968 1884,6970 2092,6970 2299,6970 2507,6970 2715,6968 2923,6968 3130,6968 3338,6966 3546,6964 3753,6964 3961,6962 4169,6960 4376,6960 4584,6958 4792,6956 5000,6956"/>
+                <TextEquiv>
+                    <Unicode>keinen Gebrauch machen, indem die halben Töne die nächstliegen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:5;} concept_mus {offset:24; length:16;}">
+                <Coords points="832,7181 5020,7186 4857,7009 832,7035"/>
+                <Baseline points="856,7168 1063,7170 1270,7172 1477,7172 1684,7174 1891,7174 2098,7174 2305,7174 2512,7172 2719,7172 2926,7172 3133,7170 3340,7168 3547,7168 3754,7166 3961,7164 4168,7162 4375,7160 4582,7158 4789,7158 4996,7156"/>
+                <TextEquiv>
+                    <Unicode>den Bestandtheile einer Accordverbindung, mithin die nächstlie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:6;} m_note {offset:7; length:4;} concept_mus {offset:30; length:22;}">
+                <Coords points="852,7431 5013,7419 5013,7231 851,7254"/>
+                <Baseline points="878,7378 1083,7378 1289,7376 1494,7376 1700,7376 1905,7376 2111,7374 2316,7374 2522,7374 2727,7372 2933,7372 3138,7370 3344,7370 3549,7369 3755,7368 3960,7366 4166,7366 4371,7364 4577,7362 4782,7361 4988,7360"/>
+                <TextEquiv>
+                    <Unicode>genden Töne sind, welche eine musikalische Beziehung zu einander</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:7;}">
+                <Coords points="825,7594 5023,7597 5022,7446 4740,7395 824,7453"/>
+                <Baseline points="850,7578 1057,7578 1264,7578 1472,7580 1679,7580 1887,7580 2094,7578 2301,7578 2509,7578 2716,7576 2924,7576 3131,7574 3338,7574 3546,7572 3753,7572 3961,7570 4168,7568 4375,7566 4583,7566 4790,7564 4998,7562"/>
+                <TextEquiv>
+                    <Unicode>haben. Durch das Ergebniß der vorstehenden Tabelle, daß dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:8;} m_note {offset:0; length:3;} m_note {offset:4; length:1;} concept_mus {offset:10; length:16;} m_interval {offset:27; length:6;} concept_phy {offset:38; length:4;}">
+                <Coords points="804,7808 5033,7822 5032,7645 4881,7625 803,7636"/>
+                <Baseline points="828,7776 1036,7778 1245,7778 1454,7780 1663,7782 1872,7782 2080,7782 2289,7782 2498,7782 2707,7780 2916,7780 3124,7778 3333,7778 3542,7776 3751,7774 3960,7772 4168,7771 4377,7768 4586,7766 4795,7764 5004,7762"/>
+                <TextEquiv>
+                    <Unicode>Ton b der dreigestrichenen Octave die Zahl 29 nicht 28, als das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:9;} concept_phy {offset:0; length:9;} concept_mus {offset:42; length:8;}">
+                <Coords points="816,8053 5024,8001 5023,7840 4668,7810 815,7818"/>
+                <Baseline points="844,7992 1051,7990 1259,7990 1466,7990 1674,7990 1882,7990 2089,7990 2297,7988 2504,7988 2712,7988 2920,7988 3127,7988 3335,7986 3542,7986 3750,7984 3958,7982 4165,7980 4373,7978 4580,7974 4788,7970 4996,7966"/>
+                <TextEquiv>
+                    <Unicode>Vierfache von 7 zukommt, wie man nach der Tonreihe der einge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Je größer die Schwingungszahlen und höher die Töne, desto
+kleiner werden die Intervalle und geringer die Tonunterschiede.
+Schon in der dreigestrichenen Octave gelangen wir zu Viertel¬
+tönen, von welchen wir bekanntlich in unserer praktischen Musik
+keinen Gebrauch machen, indem die halben Töne die nächstliegen¬
+den Bestandtheile einer Accordverbindung, mithin die nächstlie¬
+genden Töne sind, welche eine musikalische Beziehung zu einander
+haben. Durch das Ergebniß der vorstehenden Tabelle, daß dem
+Ton b der dreigestrichenen Octave die Zahl 29 nicht 28, als das
+Vierfache von 7 zukommt, wie man nach der Tonreihe der einge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:41.200+01:00</Created>
+        <LastChange>2021-03-22T15:57:44.156+01:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28719284" pageNr="351" tsid="63342838" status="NEW" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=YYESLQHKTIDLMQTNNAONWFQW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DAYMTBGLKDLYWGTPPHFDSIVV" imageId="22439789"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0360.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630597196619" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612984670903_33"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612984665701_28"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612984670903_33" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="133,237 1212,237 1212,300 133,300"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="639,268 648,268 661,280 676,275 680,279 694,277 705,283 712,282 721,274 727,274 730,230 722,229 713,237 641,235"/>
+                <Baseline points="644,269 669,272 695,273 721,274"/>
+                <TextEquiv>
+                    <Unicode>341</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>341</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612984686947_37" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="133,300 1212,300 1212,806 133,806"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612984665701_28" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="133,806 1212,806 1212,944 133,944"/>
+            <TextLine id="r1l8" custom="readingOrder {index:0;} textStyle {offset:0; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="235,864 1218,879 1218,837 1105,829 235,820"/>
+                <Baseline points="241,855 289,856 338,857 386,858 435,858 483,859 532,860 580,860 629,861 677,861 726,862 775,863 823,863 872,864 920,864 969,865 1017,866 1066,867 1114,867 1163,869 1212,870"/>
+                <TextEquiv>
+                    <Unicode>Tripodisch geschieht die Combination auf $$MATH</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:1;}">
+                <Coords points="144,915 454,914 572,938 573,886 501,875 144,885"/>
+                <Baseline points="150,909 176,909 202,910 228,910 254,910 280,910 306,911 332,911 358,911 384,911 410,912 436,912 462,912 488,912 514,913 540,913 567,914"/>
+                <TextEquiv>
+                    <Unicode>fache Weise.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tripodisch geschieht die Combination auf $$MATH&#13;
+fache Weise.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612984715949_46" custom="readingOrder {index:3;} structure {type:floating-continued;}">
+            <Coords points="133,944 1212,944 1212,2175 133,2175"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-03T13:14:49.926+01:00</Created>
+        <LastChange>2021-08-13T18:50:40.053+02:00</LastChange>
+        <TranskribusMetadata docId="747636" pageId="28294214" pageNr="74" tsid="62605987" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=VYWECRIROLVHSLRPADRHQPAP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GROZQITHHJGNHHVJTQAVHILD" imageId="22039143"/>
+    </Metadata>
+    <Page imageFilename="Capellen-74.jpg" imageWidth="721" imageHeight="1298" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630498506867" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614968536415_1802"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1614968536415_1801"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614968526333_1793"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1614968522109_1787"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1614968519636_1781"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1614968515442_1777"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614968536415_1802" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="109,125 694,125 694,154 109,154"/>
+            <TextLine id="line_1614968536437_1805" custom="readingOrder {index:0;}">
+                <Coords points="375,161 413,158 417,153 430,151 429,123 415,126 409,125 405,121 374,122"/>
+                <Baseline points="380,146 425,145"/>
+                <TextEquiv>
+                    <Unicode>70</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>70</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614968536415_1801" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="109,154 694,154 694,202 109,202"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_tonality {offset:28; length:14;}">
+                <Coords points="151,195 508,204 558,187 631,200 631,172 600,165 559,179 497,164 151,172"/>
+                <Baseline points="156,189 182,189 208,189 234,189 260,189 286,189 312,189 338,190 364,190 391,190 417,190 443,190 469,190 495,190 521,190 547,191 573,191 599,191 626,191"/>
+                <TextEquiv>
+                    <Unicode>Und welches ist die normale Kleinmollskala? Diese:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Und welches ist die normale Kleinmollskala? Diese:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614968594373_1814" custom="readingOrder {index:2;} structure {type:floating;}">
+            <Coords points="109,202 694,202 694,337 109,337"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614968526333_1793" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="109,337 694,337 694,658 109,658"/>
+            <TextLine id="r1l7" custom="readingOrder {index:0;} m_tonality {offset:30; length:3;} m_tonality {offset:43; length:19;}">
+                <Coords points="153,373 693,380 693,357 653,349 153,349"/>
+                <Baseline points="158,369 184,369 211,370 237,370 264,370 290,370 317,370 343,370 370,371 396,371 423,371 449,371 476,371 502,370 529,370 555,370 582,370 608,370 635,370 661,370 688,370"/>
+                <TextEquiv>
+                    <Unicode>Damit ist die lange gesuchte, Dur analoge, reine Molltonleiter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:1;} m_tonality {offset:29; length:14;} concept_mus {offset:48; length:9;}">
+                <Coords points="105,394 694,395 694,378 611,373 105,374"/>
+                <Baseline points="110,391 140,391 170,391 201,391 231,391 262,391 292,391 323,391 353,391 384,391 414,391 445,391 475,392 506,392 536,392 567,391 597,391 628,391 658,391 689,391"/>
+                <TextEquiv>
+                    <Unicode>endlich gefunden! Es ist die C durtonleiter, im Mollsinne ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:2;} person_author {offset:35; length:6;ID:P0017;} m_tonality {offset:42; length:10;}">
+                <Coords points="106,417 566,424 699,418 699,394 106,398"/>
+                <Baseline points="111,413 140,413 169,413 198,413 227,413 256,413 285,413 315,413 344,413 373,413 402,413 431,413 460,413 489,413 519,413 548,413 577,413 606,413 635,413 664,413 694,413"/>
+                <TextEquiv>
+                    <Unicode>standen. Der Unterschied gegen das R.sche reine Moll ist deutlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;} textStyle {offset:13; length:32;fontSize:0.0; kerning:0; bold:true;} m_tonality {offset:42; length:3; continued:true;}">
+                <Coords points="111,439 679,443 697,420 111,421"/>
+                <Baseline points="116,435 144,435 173,435 202,435 231,435 260,435 288,435 317,435 346,435 375,435 404,435 432,435 461,435 490,435 519,435 548,435 576,435 605,434 634,434 663,434 692,433"/>
+                <TextEquiv>
+                    <Unicode>ersichtlich: Die Analogie zwischen beiden Ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;} textStyle {offset:0; length:43;fontSize:0.0; kerning:0; bold:true;} m_tonality {offset:0; length:11; continued:true;}">
+                <Coords points="106,460 695,458 695,442 645,437 106,442"/>
+                <Baseline points="111,456 141,456 171,456 202,456 232,456 263,456 293,456 324,456 354,456 385,456 415,456 446,456 476,456 507,456 537,456 568,456 598,456 629,456 659,455 690,455"/>
+                <TextEquiv>
+                    <Unicode>schlechtern besteht nicht in der gegensätz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;} textStyle {offset:0; length:45;fontSize:0.0; kerning:0; bold:true;} concept_phy {offset:40; length:5; continued:true;} concept_mus {offset:40; length:5; continued:true;}">
+                <Coords points="106,482 693,483 693,466 638,460 106,460"/>
+                <Baseline points="111,477 139,477 168,478 197,478 226,478 255,478 284,478 312,478 341,478 370,478 399,478 428,478 457,478 486,478 514,478 543,478 572,478 601,478 630,477 659,477 688,477"/>
+                <TextEquiv>
+                    <Unicode>lichen Gleichheit, vermittelt durch das Ober¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;} textStyle {offset:0; length:40;fontSize:0.0; kerning:0; bold:true;} concept_phy {offset:0; length:4; continued:true;} concept_mus {offset:0; length:4; continued:true;} concept_phy {offset:9; length:15;} concept_mus {offset:9; length:15;}">
+                <Coords points="115,503 693,506 693,483 660,481 115,482"/>
+                <Baseline points="120,499 148,499 176,500 205,500 233,500 262,500 290,500 318,500 347,500 375,500 404,500 432,500 460,500 489,500 517,500 546,499 574,499 602,499 631,499 659,499 688,499"/>
+                <TextEquiv>
+                    <Unicode>ton- und Untertonprinzip, sondern in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;} textStyle {offset:0; length:45;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="115,526 692,528 692,507 650,500 115,503"/>
+                <Baseline points="120,521 148,521 176,521 205,521 233,521 261,520 290,520 318,520 346,520 375,520 403,520 431,520 460,520 488,520 516,520 545,520 573,520 601,520 630,520 658,520 687,520"/>
+                <TextEquiv>
+                    <Unicode>grundsätzlichen Gleichheit, vermittelt allein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:8;} textStyle {offset:0; length:42;fontSize:0.0; kerning:0; bold:true;} concept_mus {offset:10; length:27;} concept_phy {offset:10; length:27;}">
+                <Coords points="112,547 693,548 693,528 655,523 112,525"/>
+                <Baseline points="117,543 145,543 174,543 202,543 231,543 259,542 288,542 316,543 345,543 373,543 402,543 431,543 459,543 488,543 516,543 545,543 573,543 602,543 630,543 659,543 688,543"/>
+                <TextEquiv>
+                    <Unicode>durch das Oberton-(Grundbass-)prinzip. Das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;} textStyle {offset:0; length:40;fontSize:0.0; kerning:0; bold:true;} m_tonality {offset:8; length:7;} m_tonality {offset:34; length:6; continued:true;}">
+                <Coords points="105,567 693,576 684,547 105,547"/>
+                <Baseline points="110,563 138,563 167,563 196,563 225,564 254,564 283,564 312,564 341,564 370,564 399,564 427,564 456,564 485,564 514,564 543,564 572,564 601,564 630,564 659,564 688,564"/>
+                <TextEquiv>
+                    <Unicode>übliche Durmoll ist nicht aus dem reinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:10;} textStyle {offset:0; length:46;fontSize:0.0; kerning:0; bold:true;} m_tonality {offset:0; length:4; continued:true;} m_tonality {offset:42; length:4; continued:true;}">
+                <Coords points="112,591 695,594 695,577 651,568 112,568"/>
+                <Baseline points="117,585 145,586 174,586 202,586 231,586 260,586 288,586 317,586 346,586 374,586 403,586 432,586 460,585 489,585 518,585 546,585 575,585 604,585 632,585 661,586 690,586"/>
+                <TextEquiv>
+                    <Unicode>Moll als Spezialtypus, sondern dieses aus Dur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:11;} textStyle {offset:0; length:43;fontSize:0.0; kerning:0; bold:true;} m_tonality {offset:0; length:4; continued:true;}">
+                <Coords points="115,612 693,613 693,594 639,589 115,591"/>
+                <Baseline points="120,607 148,607 176,608 205,608 233,608 262,608 290,608 318,608 347,608 375,608 404,608 432,607 460,607 489,607 517,607 546,607 574,607 602,607 631,607 659,607 688,607"/>
+                <TextEquiv>
+                    <Unicode>moll als allgemeinem Typus abgeleitet; denn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:12;} textStyle {offset:0; length:44;fontSize:0.0; kerning:0; bold:true;} m_tonality {offset:4; length:10;}">
+                <Coords points="113,633 692,642 686,611 113,611"/>
+                <Baseline points="118,628 146,628 174,628 203,628 231,629 260,629 288,629 317,629 345,629 374,629 402,629 430,629 459,629 487,629 516,629 544,629 573,629 601,629 630,629 658,629 687,629"/>
+                <TextEquiv>
+                    <Unicode>das reine Moll ist nur ein Bestandteil (eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614968522132_1791" custom="readingOrder {index:13;} textStyle {offset:0; length:20;fontSize:0.0; kerning:0; bold:true;}">
+                <Coords points="109,659 130,653 187,656 198,664 213,657 228,664 247,657 279,663 299,656 366,658 366,633 355,629 345,636 109,633"/>
+                <Baseline points="114,649 141,650 168,651 196,651 223,651 251,650 278,650 306,651 333,651 361,652"/>
+                <TextEquiv>
+                    <Unicode>Wurzel) desselben.*)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Damit ist die lange gesuchte, Dur analoge, reine Molltonleiter&#13;
+endlich gefunden! Es ist die C durtonleiter, im Mollsinne ver¬&#13;
+standen. Der Unterschied gegen das R.sche reine Moll ist deutlich&#13;
+ersichtlich: Die Analogie zwischen beiden Ge¬&#13;
+schlechtern besteht nicht in der gegensätz¬&#13;
+lichen Gleichheit, vermittelt durch das Ober¬&#13;
+ton- und Untertonprinzip, sondern in der&#13;
+grundsätzlichen Gleichheit, vermittelt allein&#13;
+durch das Oberton-(Grundbass-)prinzip. Das&#13;
+übliche Durmoll ist nicht aus dem reinen&#13;
+Moll als Spezialtypus, sondern dieses aus Dur¬&#13;
+moll als allgemeinem Typus abgeleitet; denn&#13;
+das reine Moll ist nur ein Bestandteil (eine&#13;
+Wurzel) desselben.*)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614968522109_1787" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="109,658 694,658 694,861 109,861"/>
+            <TextLine id="r1l21" custom="readingOrder {index:0;} concept_phy {offset:44; length:7;}">
+                <Coords points="148,684 693,688 693,665 563,653 471,666 148,657"/>
+                <Baseline points="153,678 179,679 206,679 233,679 260,679 286,680 313,680 340,680 367,680 393,680 420,680 447,680 474,680 500,680 527,680 554,680 581,680 607,680 634,680 661,680 688,681"/>
+                <TextEquiv>
+                    <Unicode>Dieses interessante Resultat stimmt mit der Akustik überein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:1;} textStyle {offset:17; length:24;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:46; length:6;}">
+                <Coords points="107,706 698,706 698,690 613,683 107,684"/>
+                <Baseline points="112,700 141,701 170,701 199,701 228,701 257,701 286,701 315,701 344,701 373,701 402,701 431,701 460,701 489,701 518,701 547,701 576,701 605,701 634,701 663,701 693,701"/>
+                <TextEquiv>
+                    <Unicode>scheint aber der historischen Entwicklung der Skalen, an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:2;} person_author {offset:7; length:2;ID:P0017;}">
+                <Coords points="115,729 688,729 688,711 641,706 115,709"/>
+                <Baseline points="120,722 148,723 176,723 204,723 232,723 260,723 288,723 317,723 345,723 373,723 401,723 429,723 457,723 485,723 514,723 542,723 570,723 598,723 626,723 654,723 683,723"/>
+                <TextEquiv>
+                    <Unicode>welche R. anknüpft, zu widersprechen. Bedenkt man indessen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:3;} concept_mus {offset:56; length:4; continued:true;}">
+                <Coords points="106,752 697,746 663,727 106,727"/>
+                <Baseline points="111,744 140,744 169,744 198,744 227,744 256,745 285,745 314,745 343,745 372,745 401,745 430,745 459,745 488,745 517,745 546,745 575,745 604,745 633,745 662,745 692,744"/>
+                <TextEquiv>
+                    <Unicode>dass die alten Griechen und ihre Nachahmer so wenig die har¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:4;} concept_mus {offset:0; length:16; continued:true;} m_tonality {offset:21; length:6;} concept_mus {offset:45; length:15;}">
+                <Coords points="107,770 689,774 689,753 656,749 107,753"/>
+                <Baseline points="112,765 140,765 169,765 197,766 226,766 255,766 283,766 312,766 340,766 369,766 398,766 426,766 455,766 483,766 512,766 541,766 569,766 598,766 626,766 655,767 684,767"/>
+                <TextEquiv>
+                    <Unicode>monische Geltung der Skalen (das Prinzip der Klangvertretung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:5;} m_note {offset:4; length:4;} m_note {offset:34; length:4;}">
+                <Coords points="104,791 697,797 697,776 666,770 104,772"/>
+                <Baseline points="109,787 138,787 167,787 196,787 225,788 254,788 283,788 313,788 342,788 371,788 400,788 429,788 458,788 487,788 517,788 546,788 575,788 604,788 633,788 662,788 692,788"/>
+                <TextEquiv>
+                    <Unicode>der Töne) wie die Beziehung aller Töne auf einen gemeinsamen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:6;} concept_mus {offset:0; length:11;} m_tonality {offset:29; length:9;}">
+                <Coords points="105,815 698,814 698,796 669,792 105,792"/>
+                <Baseline points="110,808 139,808 168,808 197,808 226,808 255,808 284,808 314,808 343,808 372,808 401,809 430,809 459,809 488,809 518,809 547,809 576,809 605,809 634,810 663,810 693,810"/>
+                <TextEquiv>
+                    <Unicode>Mittelpunkt (das Prinzip der Tonalität) kannten, so erscheint von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:7;} concept_mus {offset:52; length:8;}">
+                <Coords points="105,834 697,835 697,814 105,815"/>
+                <Baseline points="110,830 139,830 168,830 197,830 226,830 255,830 284,830 313,830 342,830 371,830 401,830 430,830 459,831 488,831 517,831 546,831 575,831 604,831 633,831 662,831 692,831"/>
+                <TextEquiv>
+                    <Unicode>vornherein eine Begründung und Bestätigung moderner Theorien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614968519669_1785" custom="readingOrder {index:8;} time {offset:22; length:16;} m_tonality {offset:39; length:6;}">
+                <Coords points="106,858 584,864 572,835 106,835"/>
+                <Baseline points="111,853 137,853 163,853 189,853 215,853 241,853 267,853 293,853 319,853 345,853 371,853 397,853 423,853 449,853 475,852 501,852 527,852 553,852 579,853"/>
+                <TextEquiv>
+                    <Unicode>durch griechische und mittelalterliche Skalen verfehlt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dieses interessante Resultat stimmt mit der Akustik überein,&#13;
+scheint aber der historischen Entwicklung der Skalen, an&#13;
+welche R. anknüpft, zu widersprechen. Bedenkt man indessen,&#13;
+dass die alten Griechen und ihre Nachahmer so wenig die har¬&#13;
+monische Geltung der Skalen (das Prinzip der Klangvertretung&#13;
+der Töne) wie die Beziehung aller Töne auf einen gemeinsamen&#13;
+Mittelpunkt (das Prinzip der Tonalität) kannten, so erscheint von&#13;
+vornherein eine Begründung und Bestätigung moderner Theorien&#13;
+durch griechische und mittelalterliche Skalen verfehlt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614968519636_1781" custom="readingOrder {index:5;} structure {type:paragraph-continued;}">
+            <Coords points="109,861 694,861 694,970 109,970"/>
+            <TextLine id="r1l30" custom="readingOrder {index:0;}">
+                <Coords points="188,891 698,890 698,873 665,865 188,860"/>
+                <Baseline points="193,881 218,882 243,882 268,882 293,882 318,882 343,883 368,883 393,882 418,882 443,882 468,882 493,882 518,882 543,882 568,882 593,882 618,883 643,883 668,883 693,883"/>
+                <TextEquiv>
+                    <Unicode>— So glaube ich denn wirklich, zutreffend bewiesen zu haben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:1;} concept_mus {offset:9; length:12;} concept_mus {offset:22; length:11;} person_author {offset:34; length:3;ID:P0017;} concept_phy {offset:38; length:9;} concept_mus {offset:52; length:9;}">
+                <Coords points="108,909 690,908 690,892 645,886 108,885"/>
+                <Baseline points="113,903 141,903 170,903 198,903 227,903 256,903 284,903 313,903 341,903 370,903 399,904 427,904 456,904 484,904 513,904 542,904 570,904 599,903 627,903 656,903 685,903"/>
+                <TextEquiv>
+                    <Unicode>dass die dualistische Molltheorie R.s akustisch und praktisch un¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:2;} concept_mus {offset:44; length:12;}">
+                <Coords points="111,930 692,931 686,908 111,908"/>
+                <Baseline points="116,925 144,925 173,925 201,925 230,926 258,926 287,926 315,926 344,926 372,926 401,926 430,926 458,925 487,925 515,925 544,925 572,925 601,925 629,925 658,925 687,925"/>
+                <TextEquiv>
+                    <Unicode>haltbar, auch ganz überflüssig ist, da alle harmonischen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:3;} concept_mus {offset:0; length:11;} m_tonality {offset:28; length:4;} concept_mus {offset:53; length:10;}">
+                <Coords points="105,956 692,958 692,934 649,928 105,932"/>
+                <Baseline points="110,946 138,946 167,946 196,946 225,946 254,947 283,947 311,947 340,947 369,947 398,948 427,948 456,948 485,948 513,948 542,948 571,947 600,947 629,946 658,946 687,945"/>
+                <TextEquiv>
+                    <Unicode>melodischen Vorkommnisse in Moll sich vollständig im Grundbass¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— So glaube ich denn wirklich, zutreffend bewiesen zu haben,&#13;
+dass die dualistische Molltheorie R.s akustisch und praktisch un¬&#13;
+haltbar, auch ganz überflüssig ist, da alle harmonischen und&#13;
+melodischen Vorkommnisse in Moll sich vollständig im Grundbass¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="footnote" id="TextRegion_1614968515442_1777" custom="readingOrder {index:6;} structure {type:footnote;}">
+            <Coords points="109,970 694,970 694,1147 109,1147"/>
+            <TextLine id="r1l34" custom="readingOrder {index:0;} textStyle {offset:36; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:43; length:6;} m_tonality {offset:50; length:6;}">
+                <Coords points="153,1023 696,1020 679,991 541,1005 505,989 463,1007 423,985 389,1001 153,988"/>
+                <Baseline points="158,1012 184,1013 211,1013 237,1013 264,1014 291,1014 317,1014 344,1014 371,1014 397,1014 424,1014 451,1014 477,1014 504,1014 531,1014 557,1014 584,1014 611,1014 637,1014 664,1014 691,1014"/>
+                <TextEquiv>
+                    <Unicode>*) Es ist wohl zu beachten, dass in diesem reinen A moll das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:1;} m_note {offset:0; length:1;} concept_mus {offset:6; length:11;} m_note {offset:31; length:14;} textStyle {offset:37; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:60; length:8; continued:true;} m_tonality {offset:60; length:8; continued:true;}">
+                <Coords points="111,1035 695,1032 665,1015 111,1014"/>
+                <Baseline points="116,1031 144,1031 173,1031 202,1031 230,1031 259,1031 288,1031 316,1031 345,1031 374,1031 403,1031 431,1031 460,1032 489,1032 517,1032 546,1031 575,1031 603,1031 632,1031 661,1031 690,1031"/>
+                <TextEquiv>
+                    <Unicode>c als Nebentonika und zwar als Neben-Grundton auftritt. Die Kopfton¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:2;} concept_mus {offset:0; length:6; continued:true;} m_tonality {offset:0; length:6; continued:true;} person_author {offset:7; length:8;ID:P0017;} m_interval {offset:20; length:3;} concept_mus {offset:63; length:6;}">
+                <Coords points="107,1053 697,1057 689,1033 107,1034"/>
+                <Baseline points="112,1048 141,1048 170,1049 199,1049 228,1049 257,1049 286,1049 315,1049 344,1049 373,1049 402,1049 431,1049 460,1049 489,1049 518,1049 547,1049 576,1049 605,1049 634,1049 663,1049 692,1049"/>
+                <TextEquiv>
+                    <Unicode>leiter Riemanns von e—e ist dagegen in Wahrheit nicht eine von Tonika</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:3;} concept_mus {offset:3; length:6;} textStyle {offset:28; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:28; length:5;} m_interval {offset:37; length:5;} m_tonality {offset:52; length:11;}">
+                <Coords points="107,1069 697,1074 697,1056 657,1051 107,1056"/>
+                <Baseline points="112,1066 141,1066 170,1066 199,1066 228,1066 257,1066 286,1066 315,1066 344,1066 373,1066 402,1066 431,1066 460,1066 489,1066 518,1066 547,1066 576,1066 605,1066 634,1066 663,1066 692,1066"/>
+                <TextEquiv>
+                    <Unicode>zu Tonika, sondern eine von Quint zu Quint laufende A mollskala.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:4;} m_tonality {offset:15; length:9;} concept_mus {offset:64; length:5;}">
+                <Coords points="106,1087 691,1088 680,1069 106,1069"/>
+                <Baseline points="111,1082 139,1082 168,1082 197,1082 226,1082 254,1082 283,1083 312,1083 341,1083 369,1083 398,1083 427,1083 456,1083 484,1083 513,1083 542,1083 571,1083 599,1083 628,1083 657,1083 686,1083"/>
+                <TextEquiv>
+                    <Unicode>Der Name jeder Tonleiter richtet sich nach ihrem Verhältnis zur Basis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:5;} m_note {offset:13; length:1;} textStyle {offset:35; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:35; length:9;} textStyle {offset:62; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:62; length:5; continued:true;}">
+                <Coords points="113,1106 693,1105 693,1089 609,1085 113,1087"/>
+                <Baseline points="118,1101 146,1100 175,1100 203,1100 232,1100 260,1100 289,1100 317,1100 346,1100 374,1100 403,1100 431,1101 460,1101 488,1101 517,1101 545,1100 574,1100 602,1100 631,1100 659,1100 688,1100"/>
+                <TextEquiv>
+                    <Unicode>Das ist hier a, wir haben also den äolischen Typus, nicht den phry¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:6;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:0; length:7; continued:true;} m_note {offset:35; length:1;} concept_mus {offset:46; length:6;} textStyle {offset:57; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:57; length:6; continued:true;}">
+                <Coords points="108,1126 664,1130 688,1123 688,1104 108,1106"/>
+                <Baseline points="113,1119 141,1118 170,1118 198,1118 227,1117 255,1117 284,1117 312,1117 341,1117 369,1117 398,1118 426,1118 455,1118 483,1118 512,1118 540,1118 569,1118 597,1118 626,1118 654,1117 683,1117"/>
+                <TextEquiv>
+                    <Unicode>gischen. Dieser läge nur vor, wenn e wirklich Tonika und Grund¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:7;} textStyle {offset:0; length:3;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:0; length:3; continued:true;}">
+                <Coords points="109,1147 536,1145 536,1123 109,1117"/>
+                <Baseline points="114,1135 140,1136 166,1136 192,1136 218,1136 244,1136 270,1136 296,1136 322,1136 348,1136 374,1135 400,1135 426,1136 452,1136 478,1136 504,1137 531,1137"/>
+                <TextEquiv>
+                    <Unicode>ton wäre (vgl. den Schluss des folgenden Aufsatzes).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>*) Es ist wohl zu beachten, dass in diesem reinen A moll das&#13;
+c als Nebentonika und zwar als Neben-Grundton auftritt. Die Kopfton¬&#13;
+leiter Riemanns von e—e ist dagegen in Wahrheit nicht eine von Tonika&#13;
+zu Tonika, sondern eine von Quint zu Quint laufende A mollskala.&#13;
+Der Name jeder Tonleiter richtet sich nach ihrem Verhältnis zur Basis.&#13;
+Das ist hier a, wir haben also den äolischen Typus, nicht den phry¬&#13;
+gischen. Dieser läge nur vor, wenn e wirklich Tonika und Grund¬&#13;
+ton wäre (vgl. den Schluss des folgenden Aufsatzes).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

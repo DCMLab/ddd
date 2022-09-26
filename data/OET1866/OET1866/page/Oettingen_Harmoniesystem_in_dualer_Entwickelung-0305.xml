@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-18T14:22:17.992+01:00</Created>
+        <LastChange>2021-09-10T18:36:23.224+02:00</LastChange>
+        <TranskribusMetadata docId="738836" pageId="28121895" pageNr="296" tsid="64595737" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HIYKVWEERLXNQCGVCYNGBWWB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FLVNZJKRKJOMSDUMGBUKDMGI" imageId="21905265"/>
+    </Metadata>
+    <Page imageFilename="Oettingen_Harmoniesystem_in_dualer_Entwickelung-0305.jpg" imageWidth="1502" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1631311018090" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1621437113311_5191"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1621437164777_5212"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1621437164777_5211"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="TextRegion_1621437113311_5191" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="198,92 1455,92 1455,188 198,188"/>
+            <TextLine id="line_1621437124107_5194" custom="readingOrder {index:0;}">
+                <Coords points="776,185 870,182 866,119 805,122 803,125 790,113 772,114"/>
+                <Baseline points="788,168 855,164"/>
+                <TextEquiv>
+                    <Unicode>286</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>286</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1621437147039_5204" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="198,188 877,188 877,2313 198,2313"/>
+        </MusicRegion>
+        <TextRegion type="paragraph" id="TextRegion_1621437164777_5212" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="877,188 1238,188 1238,2313 877,2313"/>
+            <TextLine id="line_1621437174642_5215" custom="readingOrder {index:0;} concept_mus {offset:22; length:7;} concept_mus {offset:34; length:14;} concept_mus {offset:63; length:9;} m_chord {offset:77; length:8; continued:true;}">
+                <Coords points="948,2128 966,662 950,248 892,222 897,2128"/>
+                <Baseline points="937,2115 934,235"/>
+                <TextEquiv>
+                    <Unicode>Ganz identisch in der Analyse der Klangbedeutung sind folgende Sequenzen von Nonenac¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621437185751_5220" custom="readingOrder {index:1;} m_chord {offset:0; length:6; continued:true;} m_interval {offset:12; length:4;} m_note {offset:49; length:7;} concept_mus {offset:77; length:9;}">
+                <Coords points="1013,2273 1009,228 959,360 967,2273"/>
+                <Baseline points="1001,2261 993,240"/>
+                <TextEquiv>
+                    <Unicode>corden. Die None fixirt durch den hinzutretenden Terzton die stets durch die Auflösung bestimmten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621437197195_5225" custom="readingOrder {index:2;} concept_mus {offset:0; length:21;} textStyle {offset:22; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:81; length:19; continued:true;}">
+                <Coords points="1070,2271 1060,226 1015,279 1017,2271"/>
+                <Baseline points="1060,2259 1053,240"/>
+                <TextEquiv>
+                    <Unicode>Dissonanzdoppelklänge 1). Es handelt sich hier selbstverständlich nicht um einen musikalisch-aesthe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621437205614_5230" custom="readingOrder {index:3;} concept_mus {offset:0; length:7; continued:true;} concept_mus {offset:8; length:4;} concept_mus {offset:56; length:9;} concept_mus {offset:80; length:12;}">
+                <Coords points="1132,2275 1122,230 1074,286 1082,2275"/>
+                <Baseline points="1115,2261 1112,243"/>
+                <TextEquiv>
+                    <Unicode>tischen Satz, sondern um ein Beispiel für die durch die Auflösung und durch die Klanganalyse be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621437212114_5235" custom="readingOrder {index:4;} m_note {offset:8; length:4;} m_chord {offset:17; length:13;}">
+                <Coords points="1188,2278 1205,2197 1179,2111 1188,1585 1145,1586 1138,1644 1135,1963 1153,1990 1138,2278"/>
+                <Baseline points="1179,2266 1174,1599"/>
+                <TextEquiv>
+                    <Unicode>dingten Töne des Nonenaccordes:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ganz identisch in der Analyse der Klangbedeutung sind folgende Sequenzen von Nonenac¬&#13;
+corden. Die None fixirt durch den hinzutretenden Terzton die stets durch die Auflösung bestimmten&#13;
+Dissonanzdoppelklänge 1). Es handelt sich hier selbstverständlich nicht um einen musikalisch-aesthe¬&#13;
+tischen Satz, sondern um ein Beispiel für die durch die Auflösung und durch die Klanganalyse be¬&#13;
+dingten Töne des Nonenaccordes:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="footnote" id="TextRegion_1621437164777_5211" custom="readingOrder {index:3;} structure {type:footnote;}">
+            <Coords points="1238,188 1455,188 1455,2313 1238,2313"/>
+            <TextLine id="line_1621437238405_5266" custom="readingOrder {index:0;} m_interval {offset:79; length:7;}">
+                <Coords points="1341,2122 1343,226 1295,302 1295,2122"/>
+                <Baseline points="1332,2110 1327,238"/>
+                <TextEquiv>
+                    <Unicode>1) Ich brauche wohl kaum zu bemerken, dass alle diese Beispiele, ein oder zwei Octaven höher gespielt, besser klingen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1621437249123_5271" custom="readingOrder {index:1;} concept_mus {offset:32; length:11;}">
+                <Coords points="1380,2277 1382,1503 1344,1503 1337,2276"/>
+                <Baseline points="1362,2263 1371,1517"/>
+                <TextEquiv>
+                    <Unicode>Es kam hier auf den umkehrbaren F-Schlüssel an.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1) Ich brauche wohl kaum zu bemerken, dass alle diese Beispiele, ein oder zwei Octaven höher gespielt, besser klingen.
+Es kam hier auf den umkehrbaren F-Schlüssel an.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

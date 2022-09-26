@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:35.534+01:00</Created>
+        <LastChange>2021-09-01T15:36:03.564+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718992" pageNr="122" tsid="63885460" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=NVEJSIUUODFPAIVOFMKDNRZB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PMLHYBKHGMGDSMGWDYREYBBX" imageId="22439497"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0131.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630597172035" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612561380959_125"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612561380958_124"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612561375191_120"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612561380959_125" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="235,227 1304,227 1304,280 235,280"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="724,256 731,256 737,263 749,258 759,264 769,262 773,266 791,266 798,259 805,260 807,223 793,222 791,219 772,222 764,219 726,219"/>
+                <Baseline points="731,253 764,254 798,256"/>
+                <TextEquiv>
+                    <Unicode>112</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>112</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612561380958_124" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="235,280 1304,280 1304,579 235,579"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:0; length:15;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:0; length:5;} m_chord {offset:8; length:7;}">
+                <Coords points="229,354 1291,353 1254,316 229,316"/>
+                <Baseline points="236,346 288,346 340,346 393,346 445,346 498,346 550,346 603,346 655,346 708,347 760,347 812,347 865,347 917,347 970,347 1022,347 1075,347 1127,347 1180,347 1232,347 1285,347"/>
+                <TextEquiv>
+                    <Unicode>C-e-a...h-D-e-G, vollkommen richtig erscheinen, weil hier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_chord {offset:4; length:7;} textStyle {offset:12; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:12; length:5;} textStyle {offset:22; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:22; length:5;}">
+                <Coords points="233,410 1285,419 1285,384 1217,364 233,371"/>
+                <Baseline points="239,400 293,400 348,400 403,400 457,400 512,400 567,399 621,399 676,399 731,399 785,399 840,400 895,400 949,400 1004,400 1059,400 1113,401 1168,401 1223,402 1278,402"/>
+                <TextEquiv>
+                    <Unicode>die Accorde C-e-a und h-D-G folgerecht zu einander stehen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_interval {offset:8; length:7;} textStyle {offset:16; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:16; length:1;} textStyle {offset:26; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:26; length:1;}">
+                <Coords points="229,466 1292,467 1292,427 1239,420 230,428"/>
+                <Baseline points="236,452 288,452 341,452 393,452 446,452 498,452 551,453 603,453 656,453 708,453 761,453 813,453 866,453 918,453 971,453 1023,454 1076,454 1128,454 1181,454 1233,454 1286,454"/>
+                <TextEquiv>
+                    <Unicode>und die Septime D aus dem e hervorgegangen ist. Eben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:18; length:14;} m_chord {offset:44; length:11;}">
+                <Coords points="232,516 1294,514 1294,484 1189,475 232,483"/>
+                <Baseline points="239,504 291,504 343,505 396,505 448,506 501,506 553,506 605,506 658,506 710,506 763,506 815,506 867,506 920,506 972,506 1025,506 1077,506 1129,506 1182,506 1234,507 1287,507"/>
+                <TextEquiv>
+                    <Unicode>so würde auch die Quart-sextlage des ersten Dreiklanges</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:15; length:14;}">
+                <Coords points="236,570 1056,571 1056,536 939,524 236,530"/>
+                <Baseline points="243,558 283,558 323,558 364,559 404,559 444,559 485,559 525,559 565,559 606,559 646,559 686,559 727,559 767,559 807,559 848,559 888,559 928,559 969,560 1009,560 1050,560"/>
+                <TextEquiv>
+                    <Unicode>eine zulässige Fortschreitung entstehen lassen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>C-e-a...h-D-e-G, vollkommen richtig erscheinen, weil hier&#13;
+die Accorde C-e-a und h-D-G folgerecht zu einander stehen,&#13;
+und die Septime D aus dem e hervorgegangen ist. Eben&#13;
+so würde auch die Quart-sextlage des ersten Dreiklanges&#13;
+eine zulässige Fortschreitung entstehen lassen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612561375191_120" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="235,579 1304,579 1304,2123 235,2123"/>
+            <TextLine id="r1l7" custom="readingOrder {index:0;} concept_mus {offset:14; length:5;} textStyle {offset:20; length:15;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:20; length:5;} m_chord {offset:28; length:7;}">
+                <Coords points="321,619 1288,620 1288,588 1239,580 321,580"/>
+                <Baseline points="327,610 374,611 422,611 470,611 517,612 565,612 613,612 660,612 708,611 756,611 804,611 851,611 899,611 947,611 994,611 1042,611 1090,612 1137,612 1185,613 1233,614 1281,615"/>
+                <TextEquiv>
+                    <Unicode>166. Wenn die Folge C-e-G...h-D-F-G sich aber dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:1;}">
+                <Coords points="235,675 1276,675 1292,631 801,654 755,627 236,629"/>
+                <Baseline points="242,663 294,664 346,665 398,665 450,665 502,665 554,665 607,665 659,666 711,666 763,666 815,666 867,666 919,666 972,666 1024,666 1076,666 1128,666 1180,667 1232,667 1285,668"/>
+                <TextEquiv>
+                    <Unicode>Gefühle als eine richtige ergibt, und sie doch nicht durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:2;} concept_mus {offset:4; length:5;} textStyle {offset:10; length:35;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:10; length:5;} m_chord {offset:18; length:7;} m_chord {offset:28; length:7;} m_chord {offset:38; length:7;} concept_mus {offset:46; length:10;}">
+                <Coords points="231,730 1294,732 1281,684 231,691"/>
+                <Baseline points="238,717 290,718 342,718 395,718 447,718 500,718 552,718 605,718 657,718 710,718 762,718 814,718 867,718 919,718 972,718 1024,718 1077,718 1129,719 1182,719 1234,719 1287,720"/>
+                <TextEquiv>
+                    <Unicode>die Reihe C-e-G...h-C-e-G...h-D-e-G...h-D-F-G vermittelt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;} concept_mus {offset:19; length:5;} textStyle {offset:25; length:15;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:25; length:5;} m_chord {offset:33; length:7;} concept_mus {offset:51; length:5;}">
+                <Coords points="232,779 1296,779 1263,740 232,747"/>
+                <Baseline points="239,771 291,771 344,771 396,771 449,771 501,771 554,771 606,771 659,771 711,771 764,771 816,771 869,771 921,771 974,771 1026,771 1079,771 1131,771 1184,771 1236,771 1289,772"/>
+                <TextEquiv>
+                    <Unicode>sein kann, wie die Folge C-e-G...C-D-F-a durch die Reihe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;} textStyle {offset:0; length:35;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:0; length:5;} m_chord {offset:8; length:7;} m_chord {offset:18; length:7;} m_chord {offset:28; length:7;} concept_mus {offset:36; length:10;}">
+                <Coords points="233,834 1172,843 1290,834 1290,794 233,795"/>
+                <Baseline points="239,824 291,824 343,824 395,824 448,824 500,824 552,824 604,824 657,824 709,824 761,824 813,824 866,824 918,824 970,824 1022,824 1075,824 1127,824 1179,825 1231,825 1284,825"/>
+                <TextEquiv>
+                    <Unicode>C-e-G...C-e-G-a...C-e-F-a...C-D-F-a vermittelt ist, wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;} concept_mus {offset:17; length:18;} concept_mus {offset:42; length:9;}">
+                <Coords points="228,883 1300,889 1300,852 1103,844 228,847"/>
+                <Baseline points="235,876 290,877 346,877 402,877 457,877 513,877 569,877 625,877 680,877 736,877 792,877 848,877 903,877 959,877 1015,877 1071,877 1126,878 1182,878 1238,878 1294,879"/>
+                <TextEquiv>
+                    <Unicode>ferner in dieser Unterdominantreihe jeder Uebergang zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;} concept_mus {offset:0; length:13;} m_chord {offset:14; length:10;} textStyle {offset:30; length:15;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:30; length:5;} m_chord {offset:38; length:7;} textStyle {offset:47; length:8;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:47; length:5;}">
+                <Coords points="232,938 1294,938 1240,892 1143,917 1074,892 232,908"/>
+                <Baseline points="239,929 291,930 343,930 396,930 448,930 501,930 553,930 606,930 658,930 711,930 763,929 815,929 868,929 920,929 973,929 1025,929 1078,929 1130,930 1183,930 1235,931 1288,932"/>
+                <TextEquiv>
+                    <Unicode>unverbundenem Dreiklange, wie D|F-a...D-e-G-h, e-G-h...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;} textStyle {offset:0; length:7;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:0; length:7;} textStyle {offset:9; length:15;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:9; length:5;} m_chord {offset:17; length:7;}">
+                <Coords points="235,995 1292,995 1302,953 235,962"/>
+                <Baseline points="242,980 294,981 347,982 399,982 452,983 505,983 557,983 610,983 663,983 715,983 768,983 821,982 873,982 926,982 979,982 1031,981 1084,981 1137,981 1189,982 1242,982 1295,983"/>
+                <TextEquiv>
+                    <Unicode>e-F-a-C, F-a-C...F-G-h-D in gleicher Weise wie der erste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:8;} concept_mus {offset:16; length:17;}">
+                <Coords points="236,1044 1189,1054 1299,1043 1299,1011 236,1012"/>
+                <Baseline points="243,1035 295,1036 348,1036 400,1037 453,1037 505,1037 558,1037 610,1037 663,1037 715,1036 768,1036 820,1036 873,1035 925,1035 978,1035 1030,1035 1083,1035 1135,1035 1188,1035 1240,1035 1293,1036"/>
+                <TextEquiv>
+                    <Unicode>richtig, in der Oberdominantreihe aber, ausser jenem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;} textStyle {offset:27; length:15;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:27; length:5;} m_chord {offset:35; length:7;} textStyle {offset:44; length:8;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:44; length:5;}">
+                <Coords points="235,1098 1294,1099 1238,1052 1140,1078 1072,1052 235,1068"/>
+                <Baseline points="242,1087 294,1088 346,1089 398,1090 451,1090 503,1090 555,1090 607,1090 660,1090 712,1089 764,1089 816,1089 869,1088 921,1088 973,1088 1025,1088 1078,1088 1130,1088 1182,1089 1234,1089 1287,1090"/>
+                <TextEquiv>
+                    <Unicode>ersten, jeder andere, wie: D|F-a...C-e-G-a, e-G-h...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:10;} textStyle {offset:0; length:7;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:0; length:7;} textStyle {offset:9; length:15;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:9; length:5;} m_chord {offset:17; length:7;}">
+                <Coords points="241,1148 1300,1148 1280,1108 241,1108"/>
+                <Baseline points="248,1137 300,1139 352,1140 404,1141 457,1141 509,1142 561,1142 613,1142 666,1142 718,1142 770,1142 822,1142 875,1142 927,1141 979,1141 1031,1141 1084,1141 1136,1141 1188,1141 1240,1141 1293,1142"/>
+                <TextEquiv>
+                    <Unicode>D-F-a-h, F-a-C...e-G-h-C, unrichtig erscheint, so wird die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:11;} concept_mus {offset:17; length:5;} textStyle {offset:23; length:15;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:23; length:5;} m_chord {offset:31; length:7;}">
+                <Coords points="233,1202 1302,1202 1302,1170 1224,1164 233,1165"/>
+                <Baseline points="240,1193 292,1193 345,1194 398,1194 451,1194 503,1194 556,1194 609,1194 662,1194 714,1194 767,1194 820,1194 873,1194 925,1194 978,1194 1031,1194 1084,1194 1136,1194 1189,1194 1242,1194 1295,1194"/>
+                <TextEquiv>
+                    <Unicode>Zulässigkeit der Folge C-e-G...h-D-F-G überhaupt in etwas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:12;} concept_mus {offset:31; length:11;}">
+                <Coords points="239,1259 1172,1266 1300,1259 1300,1212 239,1213"/>
+                <Baseline points="246,1247 298,1247 350,1247 403,1247 455,1247 508,1247 560,1247 612,1247 665,1247 717,1247 770,1247 822,1247 874,1247 927,1247 979,1247 1032,1247 1084,1247 1136,1248 1189,1248 1241,1248 1294,1248"/>
+                <TextEquiv>
+                    <Unicode>Anderem als dieser successiven Vermittlung ihren Grund</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:13;} concept_mus {offset:24; length:21;}">
+                <Coords points="240,1307 1291,1314 1291,1277 1238,1267 505,1290 241,1267"/>
+                <Baseline points="247,1298 298,1298 350,1299 402,1299 454,1299 506,1299 558,1300 610,1300 662,1300 714,1300 766,1300 817,1300 869,1300 921,1300 973,1300 1025,1300 1077,1300 1129,1300 1181,1300 1233,1300 1285,1300"/>
+                <TextEquiv>
+                    <Unicode>haben müssen. Durch die Dreiklangsvermittlung wird hier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:14;} concept_mus {offset:8; length:10;} m_chord {offset:23; length:12;} m_chord {offset:44; length:9; continued:true;}">
+                <Coords points="234,1364 1293,1354 1191,1316 234,1324"/>
+                <Baseline points="241,1351 293,1351 345,1352 397,1352 450,1352 502,1352 554,1353 606,1353 659,1353 711,1353 763,1354 815,1354 868,1354 920,1354 972,1354 1024,1354 1077,1353 1129,1353 1181,1352 1233,1352 1286,1351"/>
+                <TextEquiv>
+                    <Unicode>nur die Verbindung des Mollaccordes mit dem Dominant¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:15;} m_chord {offset:0; length:7; continued:true;} m_chord {offset:45; length:9; continued:true;}">
+                <Coords points="240,1418 1293,1411 1199,1372 240,1379"/>
+                <Baseline points="247,1404 299,1405 351,1405 403,1406 455,1406 507,1406 559,1407 611,1407 663,1407 715,1407 767,1407 819,1407 871,1406 923,1406 975,1406 1027,1406 1079,1405 1131,1405 1183,1405 1235,1404 1287,1404"/>
+                <TextEquiv>
+                    <Unicode>accorde erlangt. Von dem daraus entstandenen Septimen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:16;} m_chord {offset:0; length:7; continued:true;} textStyle {offset:8; length:7;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:8; length:7;} m_chord {offset:47; length:5; continued:true;}">
+                <Coords points="240,1467 1292,1461 1271,1428 240,1437"/>
+                <Baseline points="247,1457 301,1457 356,1457 411,1458 465,1458 520,1458 575,1458 629,1459 684,1459 739,1459 793,1459 848,1459 903,1459 957,1459 1012,1459 1067,1459 1121,1459 1176,1459 1231,1458 1286,1458"/>
+                <TextEquiv>
+                    <Unicode>accorde h-D-e-G ist aber zu der Verbindung des Domi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:17;} m_chord {offset:0; length:12; continued:true;} concept_mus {offset:21; length:12;} textStyle {offset:35; length:7;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:35; length:7;} concept_mus {offset:49; length:5; continued:true;}">
+                <Coords points="236,1522 1297,1513 1227,1476 236,1483"/>
+                <Baseline points="242,1510 294,1510 346,1511 399,1511 451,1511 504,1512 556,1512 608,1512 661,1512 713,1512 766,1512 818,1512 870,1512 923,1511 975,1511 1028,1511 1080,1511 1132,1511 1185,1511 1237,1511 1290,1511"/>
+                <TextEquiv>
+                    <Unicode>nantaccordes mit dem verminderten, h-D-F-G, eine Fort¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:18;} concept_mus {offset:0; length:10; continued:true;} textStyle {offset:15; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:15; length:1;} textStyle {offset:22; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:22; length:1;}">
+                <Coords points="238,1571 1298,1579 1279,1531 238,1540"/>
+                <Baseline points="244,1561 296,1562 348,1563 401,1563 453,1564 505,1564 558,1565 610,1565 662,1565 715,1565 767,1565 819,1565 872,1565 924,1565 976,1565 1029,1565 1081,1565 1133,1565 1186,1565 1238,1566 1291,1566"/>
+                <TextEquiv>
+                    <Unicode>schreitung des e nach F erforderlich, und diese lässt die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:19;} m_interval {offset:0; length:7;} m_note {offset:27; length:9;}">
+                <Coords points="243,1628 1303,1627 1295,1587 243,1580"/>
+                <Baseline points="249,1614 301,1615 353,1616 406,1617 458,1617 511,1618 563,1618 615,1618 668,1618 720,1618 773,1618 825,1618 877,1618 930,1618 982,1618 1035,1618 1087,1618 1139,1618 1192,1618 1244,1618 1297,1618"/>
+                <TextEquiv>
+                    <Unicode>Septime aufsteigend zu dem Grundtone treten. Dies ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:20;} concept_mus {offset:24; length:5;} textStyle {offset:30; length:15;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:30; length:5;} m_chord {offset:38; length:7;}">
+                <Coords points="241,1683 1288,1682 1264,1636 241,1646"/>
+                <Baseline points="248,1667 299,1668 351,1669 402,1670 454,1671 506,1671 557,1671 609,1672 661,1672 712,1672 764,1671 816,1671 867,1671 919,1671 971,1671 1022,1670 1074,1670 1126,1670 1177,1670 1229,1670 1281,1671"/>
+                <TextEquiv>
+                    <Unicode>es auch, was wir in der Folge C-e-G...h-D-F-G verneh¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:21;}">
+                <Coords points="236,1728 1294,1731 1278,1691 237,1700"/>
+                <Baseline points="243,1723 295,1723 347,1724 399,1724 451,1724 504,1724 556,1724 608,1724 660,1724 712,1724 765,1724 817,1724 869,1724 921,1724 973,1724 1026,1724 1078,1724 1130,1724 1182,1724 1234,1724 1287,1724"/>
+                <TextEquiv>
+                    <Unicode>men, und zwar ohne dass in diesem Falle der aufsteigende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:22;} m_interval {offset:13; length:7;}">
+                <Coords points="242,1788 1292,1788 1292,1740 242,1743"/>
+                <Baseline points="249,1774 300,1775 352,1775 404,1776 456,1776 508,1776 559,1777 611,1777 663,1777 715,1777 767,1777 818,1777 870,1777 922,1777 974,1777 1026,1777 1077,1777 1129,1777 1181,1777 1233,1776 1285,1776"/>
+                <TextEquiv>
+                    <Unicode>Eintritt der Septime etwas Folgewidriges für das Gefühl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:23;} textStyle {offset:42; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:42; length:9; continued:true;}">
+                <Coords points="244,1844 1300,1834 1166,1795 244,1804"/>
+                <Baseline points="251,1828 303,1828 355,1828 407,1828 459,1829 511,1829 563,1829 615,1829 667,1830 719,1830 772,1830 824,1830 876,1830 928,1830 980,1830 1032,1830 1084,1830 1136,1830 1188,1830 1240,1830 1293,1829"/>
+                <TextEquiv>
+                    <Unicode>enthält. Es beruht dies auf der Natur des Dominant¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:24;} textStyle {offset:0; length:16;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:0; length:16; continued:true;}">
+                <Coords points="244,1893 1083,1870 1305,1899 1305,1858 1231,1844 244,1859"/>
+                <Baseline points="250,1882 302,1882 354,1882 407,1882 459,1883 512,1883 564,1883 616,1883 669,1883 721,1883 774,1883 826,1883 878,1883 931,1883 983,1883 1036,1883 1088,1883 1140,1884 1193,1884 1245,1885 1298,1885"/>
+                <TextEquiv>
+                    <Unicode>septimenaccordes, welchen wir in der Verbindung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:25;} m_chord {offset:14; length:10;}">
+                <Coords points="244,1947 1310,1947 1311,1914 244,1902"/>
+                <Baseline points="251,1936 303,1936 356,1935 408,1935 461,1935 514,1935 566,1935 619,1935 672,1935 724,1935 777,1935 830,1935 882,1935 935,1936 988,1936 1040,1936 1093,1936 1146,1936 1198,1936 1251,1937 1304,1937"/>
+                <TextEquiv>
+                    <Unicode>dieser beiden Dreiklänge erhalten, und den wir als den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:26;} m_chord {offset:16; length:15;}">
+                <Coords points="238,2001 1303,2003 1303,1965 1181,1955 238,1963"/>
+                <Baseline points="245,1988 297,1987 350,1987 402,1987 455,1986 507,1986 560,1986 612,1987 665,1987 717,1987 770,1987 823,1988 875,1988 928,1988 980,1989 1033,1989 1085,1989 1138,1989 1190,1989 1243,1989 1296,1989"/>
+                <TextEquiv>
+                    <Unicode>ersten der drei Septimenaccorde, in welchen die Grenzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:27;} m_tonality {offset:4; length:14;}">
+                <Coords points="244,2051 1307,2051 1307,2019 1054,2003 244,2003"/>
+                <Baseline points="251,2041 303,2040 355,2040 408,2039 460,2039 513,2039 565,2039 618,2040 670,2040 723,2041 775,2041 827,2042 880,2042 932,2043 985,2043 1037,2044 1090,2044 1142,2044 1195,2044 1247,2044 1300,2043"/>
+                <TextEquiv>
+                    <Unicode>des Tonartsystemes verbunden erscheinen, jetzt näher zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:28;}">
+                <Coords points="238,2107 557,2100 557,2073 496,2060 431,2069 237,2062"/>
+                <Baseline points="244,2094 269,2094 295,2094 320,2094 346,2094 371,2094 397,2094 422,2093 448,2093 473,2093 499,2093 524,2094 550,2094"/>
+                <TextEquiv>
+                    <Unicode>betrachten haben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>166. Wenn die Folge C-e-G...h-D-F-G sich aber dem&#13;
+Gefühle als eine richtige ergibt, und sie doch nicht durch&#13;
+die Reihe C-e-G...h-C-e-G...h-D-e-G...h-D-F-G vermittelt&#13;
+sein kann, wie die Folge C-e-G...C-D-F-a durch die Reihe&#13;
+C-e-G...C-e-G-a...C-e-F-a...C-D-F-a vermittelt ist, wenn&#13;
+ferner in dieser Unterdominantreihe jeder Uebergang zu&#13;
+unverbundenem Dreiklange, wie D|F-a...D-e-G-h, e-G-h...&#13;
+e-F-a-C, F-a-C...F-G-h-D in gleicher Weise wie der erste&#13;
+richtig, in der Oberdominantreihe aber, ausser jenem&#13;
+ersten, jeder andere, wie: D|F-a...C-e-G-a, e-G-h...&#13;
+D-F-a-h, F-a-C...e-G-h-C, unrichtig erscheint, so wird die&#13;
+Zulässigkeit der Folge C-e-G...h-D-F-G überhaupt in etwas&#13;
+Anderem als dieser successiven Vermittlung ihren Grund&#13;
+haben müssen. Durch die Dreiklangsvermittlung wird hier&#13;
+nur die Verbindung des Mollaccordes mit dem Dominant¬&#13;
+accorde erlangt. Von dem daraus entstandenen Septimen¬&#13;
+accorde h-D-e-G ist aber zu der Verbindung des Domi¬&#13;
+nantaccordes mit dem verminderten, h-D-F-G, eine Fort¬&#13;
+schreitung des e nach F erforderlich, und diese lässt die&#13;
+Septime aufsteigend zu dem Grundtone treten. Dies ist&#13;
+es auch, was wir in der Folge C-e-G...h-D-F-G verneh¬&#13;
+men, und zwar ohne dass in diesem Falle der aufsteigende&#13;
+Eintritt der Septime etwas Folgewidriges für das Gefühl&#13;
+enthält. Es beruht dies auf der Natur des Dominant¬&#13;
+septimenaccordes, welchen wir in der Verbindung&#13;
+dieser beiden Dreiklänge erhalten, und den wir als den&#13;
+ersten der drei Septimenaccorde, in welchen die Grenzen&#13;
+des Tonartsystemes verbunden erscheinen, jetzt näher zu&#13;
+betrachten haben.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:36.610+01:00</Created>
+        <LastChange>2021-09-02T09:12:58.636+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28719027" pageNr="157" tsid="63948912" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=MJTYNEXYGDPYBMNDRKGAFPVF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RONHHDLAUUMOXPCVRMCNLFXL" imageId="22439532"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0166.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630597175345" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612631021884_519"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612631021884_518"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612631019804_514"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1612631013637_510"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1612631007630_502"/>
+                <RegionRefIndexed index="7" regionRef="TextRegion_1612631002636_494"/>
+                <RegionRefIndexed index="9" regionRef="TextRegion_1612630993952_486"/>
+                <RegionRefIndexed index="11" regionRef="TextRegion_1612630982075_476"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612631021884_519" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="199,231 1266,231 1266,292 199,292"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="699,267 707,267 715,275 723,272 736,276 767,275 777,264 784,264 783,224 735,229 710,228 706,233 698,233"/>
+                <Baseline points="705,264 741,265 777,262"/>
+                <TextEquiv>
+                    <Unicode>147</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>147</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612631021884_518" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="199,292 1266,292 1266,884 199,884"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_interval {offset:8; length:10;} textStyle {offset:19; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:19; length:3;} m_interval {offset:30; length:5;} textStyle {offset:36; length:3;italic:true; fontSize:0.0; kerning:0;} m_interval {offset:36; length:3;}">
+                <Coords points="207,369 1258,363 1205,323 207,332"/>
+                <Baseline points="213,358 264,356 316,355 368,355 420,354 472,354 524,354 576,354 628,355 680,355 732,356 783,356 835,357 887,357 939,358 991,358 1043,359 1095,359 1147,359 1199,359 1251,358"/>
+                <TextEquiv>
+                    <Unicode>aus dem Intervalle D—a in die Quint C—G enthält, unzuläs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:39; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:39; length:1;} textStyle {offset:45; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:45; length:1;}">
+                <Coords points="201,419 1255,427 1265,382 201,386"/>
+                <Baseline points="208,409 260,409 313,409 365,408 418,408 470,408 523,408 575,408 628,409 680,409 733,409 785,410 838,410 890,410 943,411 995,411 1048,412 1100,412 1153,412 1205,413 1258,413"/>
+                <TextEquiv>
+                    <Unicode>sig finden werden. Der Unterschied von a und A würde auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_note {offset:48; length:4;}">
+                <Coords points="200,476 1266,476 1266,443 1204,428 200,428"/>
+                <Baseline points="207,463 259,462 312,462 364,462 417,462 470,462 522,462 575,462 627,462 680,462 733,462 785,463 838,463 890,463 943,464 996,464 1048,464 1101,465 1153,465 1206,465 1259,466"/>
+                <TextEquiv>
+                    <Unicode>fühlbar werden müssen, wenn wir die ersten vier Töne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:4; length:8;} work_music {offset:14; length:17;ID:W0165;}">
+                <Coords points="200,530 1258,538 1258,500 1077,499 1040,470 987,505 200,492"/>
+                <Baseline points="206,519 258,520 310,520 362,521 415,521 467,522 519,522 571,522 624,522 676,522 728,521 780,521 833,521 885,521 937,522 989,522 1042,522 1094,523 1146,524 1198,525 1251,527"/>
+                <TextEquiv>
+                    <Unicode>des Chorales „Ach Gott und Herr:” $$GRAPHIC erst mit der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:0; length:13;} concept_mus {offset:44; length:8;}">
+                <Coords points="209,595 1262,595 1238,548 209,548"/>
+                <Baseline points="216,579 270,580 325,580 380,581 434,581 489,581 544,581 598,581 653,581 708,581 762,581 817,581 872,581 926,582 981,582 1036,582 1090,582 1145,583 1200,584 1255,584"/>
+                <TextEquiv>
+                    <Unicode>Grundharmonie $$GRAPHIC, und sodann mit der Harmonie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} concept_mus {offset:53; length:4; continued:true;}">
+                <Coords points="204,651 1257,643 1200,604 204,607"/>
+                <Baseline points="211,639 265,640 320,640 375,640 429,640 484,640 539,640 593,640 648,641 703,641 757,641 812,641 867,641 921,641 976,641 1031,641 1085,642 1140,642 1195,642 1250,643"/>
+                <TextEquiv>
+                    <Unicode>$$GRAPHIC begleiten wollten. In der letzten wird die Cho¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_mus {offset:0; length:10; continued:true;} m_note {offset:27; length:7;} textStyle {offset:35; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:35; length:1;} m_note {offset:44; length:8;} textStyle {offset:53; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:53; length:1;}">
+                <Coords points="197,705 1259,713 1259,667 960,689 590,646 509,687 466,659 197,675"/>
+                <Baseline points="203,698 255,699 307,700 360,700 412,700 465,701 517,701 570,701 622,701 675,701 727,700 779,700 832,700 884,700 937,700 989,700 1042,700 1094,701 1147,701 1199,702 1252,702"/>
+                <TextEquiv>
+                    <Unicode>ralmelodie $$GRAPHIC ihren Terzton a in den Quintton A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} concept_mus {offset:18; length:10;} concept_mus {offset:52; length:6;}">
+                <Coords points="204,758 1261,764 1261,732 1152,716 204,723"/>
+                <Baseline points="211,750 263,751 315,751 367,752 419,752 471,753 523,753 576,753 628,753 680,753 732,753 784,753 836,753 888,753 941,753 993,753 1045,753 1097,753 1149,753 1201,754 1254,755"/>
+                <TextEquiv>
+                    <Unicode>verändern und die Intonation desselben wird für den Sänger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} concept_mus {offset:44; length:14;}">
+                <Coords points="199,810 1273,818 1273,785 1213,772 199,780"/>
+                <Baseline points="205,804 258,804 311,804 364,805 417,805 470,805 523,805 576,805 629,805 682,805 735,805 788,805 841,806 894,806 947,806 1000,806 1053,807 1106,807 1159,807 1212,808 1266,809"/>
+                <TextEquiv>
+                    <Unicode>eine anders bestimmte, höhere sein, als die Terzintonation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;} m_note {offset:4; length:5;} textStyle {offset:10; length:1;italic:true; fontSize:0.0; kerning:0;} m_note {offset:10; length:1;} m_chord {offset:19; length:10;} textStyle {offset:30; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:30; length:5;}">
+                <Coords points="203,868 889,866 870,821 203,828"/>
+                <Baseline points="209,857 242,858 276,858 309,859 343,859 377,859 410,859 444,859 478,859 511,858 545,858 579,858 612,857 646,857 680,857 713,857 747,857 781,857 814,857 848,858 882,858"/>
+                <TextEquiv>
+                    <Unicode>des Tones a zu dem Dreiklange F-a-C.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>aus dem Intervalle D—a in die Quint C—G enthält, unzuläs¬&#13;
+sig finden werden. Der Unterschied von a und A würde auch&#13;
+fühlbar werden müssen, wenn wir die ersten vier Töne&#13;
+des Chorales „Ach Gott und Herr:” $$GRAPHIC erst mit der&#13;
+Grundharmonie $$GRAPHIC, und sodann mit der Harmonie&#13;
+$$GRAPHIC begleiten wollten. In der letzten wird die Cho¬&#13;
+ralmelodie $$GRAPHIC ihren Terzton a in den Quintton A&#13;
+verändern und die Intonation desselben wird für den Sänger&#13;
+eine anders bestimmte, höhere sein, als die Terzintonation&#13;
+des Tones a zu dem Dreiklange F-a-C.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1612631019804_514" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="199,884 1266,884 1266,1133 199,1133"/>
+            <TextLine id="r1l12" custom="readingOrder {index:0;} m_chord {offset:0; length:16;} concept_mus {offset:35; length:15;}">
+                <Coords points="203,995 1265,1002 1265,954 1182,948 203,948"/>
+                <Baseline points="210,983 262,984 314,984 367,984 419,984 472,984 524,984 577,984 629,984 682,984 734,983 786,983 839,983 891,983 944,983 996,984 1049,984 1101,984 1154,985 1206,986 1259,987"/>
+                <TextEquiv>
+                    <Unicode>Septimen-Accorde, welche durch die Grenzverbindung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:1;} m_tonality {offset:4; length:29;}">
+                <Coords points="210,1050 1246,1060 1264,1004 1168,1034 1078,1004 210,1010"/>
+                <Baseline points="216,1043 268,1043 320,1043 372,1043 424,1043 476,1043 528,1043 580,1042 632,1042 684,1042 736,1042 788,1042 840,1042 892,1042 944,1042 996,1043 1048,1043 1100,1044 1152,1044 1204,1045 1257,1046"/>
+                <TextEquiv>
+                    <Unicode>des übergreifenden Tonartsystemes entstehen, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:2;} m_chord {offset:0; length:16;} m_chord {offset:21; length:23;}">
+                <Coords points="239,1114 1214,1115 1214,1078 1104,1060 239,1070"/>
+                <Baseline points="245,1101 293,1102 341,1103 389,1103 437,1103 485,1103 533,1103 582,1103 630,1102 678,1102 726,1102 774,1101 822,1101 870,1101 919,1101 967,1101 1015,1101 1063,1102 1111,1102 1159,1103 1208,1104"/>
+                <TextEquiv>
+                    <Unicode>Septimen-Accorde mit übermässigem Dreiklange.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Septimen-Accorde, welche durch die Grenzverbindung
+des übergreifenden Tonartsystemes entstehen, und
+Septimen-Accorde mit übermässigem Dreiklange.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612631013637_510" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
+            <Coords points="199,1133 1266,1133 1266,1529 199,1529"/>
+            <TextLine id="r1l15" custom="readingOrder {index:0;}">
+                <Coords points="285,1203 1271,1202 1271,1164 1110,1156 285,1156"/>
+                <Baseline points="292,1189 340,1189 389,1190 437,1189 486,1189 535,1189 583,1189 632,1189 680,1189 729,1189 778,1188 826,1188 875,1188 923,1188 972,1188 1021,1189 1069,1189 1118,1189 1166,1190 1215,1191 1264,1191"/>
+                <TextEquiv>
+                    <Unicode>220. Wir haben früher von einem Uebertreten, von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:1;} m_tonality {offset:22; length:14;}">
+                <Coords points="198,1249 1256,1250 1223,1204 996,1231 198,1218"/>
+                <Baseline points="204,1241 256,1242 308,1242 360,1243 413,1243 465,1243 517,1243 570,1243 622,1242 674,1242 727,1242 779,1242 831,1241 883,1241 936,1241 988,1241 1040,1241 1093,1241 1145,1242 1197,1242 1250,1243"/>
+                <TextEquiv>
+                    <Unicode>einer Fortrückung des Tonartsystemes um ein Glied der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:2;} concept_mus {offset:0; length:11;}">
+                <Coords points="201,1307 1238,1307 1257,1267 201,1268"/>
+                <Baseline points="208,1296 260,1296 312,1296 364,1295 416,1295 468,1295 520,1295 572,1295 624,1295 676,1295 729,1295 781,1295 833,1295 885,1295 937,1295 989,1295 1041,1295 1093,1295 1145,1295 1197,1295 1250,1295"/>
+                <TextEquiv>
+                    <Unicode>Accordreihe gesprochen (54—62) und haben aus dersel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:3;} concept_mus {offset:13; length:17;} m_tonality {offset:38; length:9;}">
+                <Coords points="198,1352 1259,1371 1246,1315 198,1317"/>
+                <Baseline points="205,1348 257,1348 309,1349 362,1349 414,1349 466,1348 519,1348 571,1348 623,1348 676,1348 728,1348 780,1347 833,1347 885,1347 937,1347 990,1347 1042,1347 1094,1347 1147,1348 1199,1348 1252,1348"/>
+                <TextEquiv>
+                    <Unicode>ben nach der Oberdominantseite in der Durtonart sowohl,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:4;} m_tonality {offset:11; length:10;} m_chord {offset:37; length:21; continued:true;}">
+                <Coords points="202,1405 1264,1403 1238,1363 202,1379"/>
+                <Baseline points="209,1401 261,1401 313,1401 366,1402 418,1402 471,1402 523,1402 575,1402 628,1402 680,1402 733,1402 785,1402 837,1401 890,1401 942,1401 995,1401 1047,1400 1099,1400 1152,1400 1204,1399 1257,1399"/>
+                <TextEquiv>
+                    <Unicode>wie in der Molltonart, verständliche Grenzverbindungsdrei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:5;} m_chord {offset:0; length:6; continued:true;}">
+                <Coords points="196,1463 1259,1466 1259,1426 1222,1421 196,1423"/>
+                <Baseline points="203,1453 255,1453 307,1454 360,1454 412,1454 465,1455 517,1455 570,1455 622,1455 675,1455 727,1455 779,1455 832,1455 884,1455 937,1455 989,1455 1042,1454 1094,1454 1147,1454 1199,1454 1252,1454"/>
+                <TextEquiv>
+                    <Unicode>klänge hervorgehen sehen. Es veränderte sich dadurch das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:6;} concept_mus {offset:0; length:6;} m_tonality {offset:11; length:11;}">
+                <Coords points="193,1510 236,1526 337,1512 442,1523 658,1514 658,1482 630,1476 193,1483"/>
+                <Baseline points="200,1505 225,1506 250,1507 275,1507 300,1507 325,1508 350,1508 375,1508 400,1508 425,1508 450,1508 475,1508 500,1507 525,1507 550,1507 575,1507 600,1507 625,1507 651,1508"/>
+                <TextEquiv>
+                    <Unicode>System der C-Durtonart:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>220. Wir haben früher von einem Uebertreten, von
+einer Fortrückung des Tonartsystemes um ein Glied der
+Accordreihe gesprochen (54—62) und haben aus dersel¬
+ben nach der Oberdominantseite in der Durtonart sowohl,
+wie in der Molltonart, verständliche Grenzverbindungsdrei¬
+klänge hervorgehen sehen. Es veränderte sich dadurch das
+System der C-Durtonart:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612631099188_534" custom="readingOrder {index:4;} structure {type:floating;}">
+            <Coords points="199,1529 1266,1529 1266,1615 199,1615"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612631007630_502" custom="readingOrder {index:5;} structure {type:paragraph-continued;}">
+            <Coords points="199,1615 1266,1615 1266,1672 199,1672"/>
+            <TextLine id="r1l23" custom="readingOrder {index:0;}">
+                <Coords points="201,1667 512,1667 512,1625 263,1619 241,1630 201,1619"/>
+                <Baseline points="207,1655 234,1655 261,1655 288,1655 315,1655 342,1655 369,1655 396,1655 423,1655 450,1656 477,1656 505,1657"/>
+                <TextEquiv>
+                    <Unicode>in die Formation:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in die Formation:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612631109516_541" custom="readingOrder {index:6;} structure {type:floating;}">
+            <Coords points="199,1672 1266,1672 1266,1755 199,1755"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612631002636_494" custom="readingOrder {index:7;} structure {type:paragraph-continued;}">
+            <Coords points="199,1755 1266,1755 1266,1821 199,1821"/>
+            <TextLine id="r1l25" custom="readingOrder {index:0;} concept_mus {offset:12; length:7;} m_tonality {offset:24; length:12;}">
+                <Coords points="204,1812 897,1811 919,1803 919,1771 204,1780"/>
+                <Baseline points="210,1802 245,1802 280,1802 315,1802 350,1802 385,1802 420,1802 456,1802 491,1802 526,1801 561,1801 596,1801 631,1801 666,1800 702,1800 737,1799 772,1799 807,1799 842,1798 877,1798 913,1797"/>
+                <TextEquiv>
+                    <Unicode>und aus dem Systeme der C-Molltonart:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>und aus dem Systeme der C-Molltonart:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612631123557_548" custom="readingOrder {index:8;} structure {type:floating;}">
+            <Coords points="199,1821 1266,1821 1266,1890 199,1890"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612630993952_486" custom="readingOrder {index:9;} structure {type:paragraph;}">
+            <Coords points="199,1890 1266,1890 1266,1931 199,1931"/>
+            <TextLine id="line_1612630986852_484" custom="readingOrder {index:0;}">
+                <Coords points="199,1932 377,1932 377,1893 360,1884 342,1884 331,1896 311,1900 301,1892 199,1897"/>
+                <Baseline points="206,1922 233,1922 260,1922 288,1922 315,1922 342,1922 370,1922"/>
+                <TextEquiv>
+                    <Unicode>entstand:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>entstand:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612631133011_555" custom="readingOrder {index:10;} structure {type:floating;}">
+            <Coords points="199,1931 1266,1931 1266,2001 199,2001"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612630982075_476" custom="readingOrder {index:11;} structure {type:paragraph-continued;}">
+            <Coords points="199,2001 1266,2001 1266,2116 199,2116"/>
+            <TextLine id="r1l29" custom="readingOrder {index:0;} concept_mus {offset:29; length:17;} concept_mus {offset:47; length:5; continued:true;}">
+                <Coords points="288,2059 1261,2042 1177,2011 288,2021"/>
+                <Baseline points="295,2051 345,2050 395,2050 446,2050 496,2050 547,2049 597,2049 648,2049 698,2049 749,2049 799,2048 850,2048 900,2047 951,2047 1001,2046 1052,2045 1102,2045 1153,2044 1203,2043 1254,2041"/>
+                <TextEquiv>
+                    <Unicode>221. Die aus diesem nach der Oberdominantseite über¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:1;} concept_mus {offset:0; length:18; continued:true;} m_chord {offset:34; length:21;}">
+                <Coords points="192,2114 1132,2116 1248,2107 1262,2076 286,2068 192,2095"/>
+                <Baseline points="199,2107 251,2106 304,2106 357,2105 410,2104 463,2104 515,2103 568,2103 621,2102 674,2102 727,2102 779,2101 832,2101 885,2100 938,2100 991,2099 1043,2099 1096,2099 1149,2098 1202,2098 1255,2097"/>
+                <TextEquiv>
+                    <Unicode>greifenden Systeme hervorgehenden Grenzverbindungsdrei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>221. Die aus diesem nach der Oberdominantseite über¬
+greifenden Systeme hervorgehenden Grenzverbindungsdrei¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

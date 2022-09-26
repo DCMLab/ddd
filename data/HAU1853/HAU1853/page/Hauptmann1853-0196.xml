@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:37.343+01:00</Created>
+        <LastChange>2021-09-02T14:28:36.182+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28719057" pageNr="187" tsid="63990186" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=VDGFRVJMXGMTCQLQUUVPSTDD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RQFFVQCOWIFPQJKSDJNVEJLW" imageId="22439562"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0196.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630597178379" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612637148849_3694"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612637148849_3693"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1612637126888_3685"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612637148849_3694" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="157,297 1218,297 1218,350 157,350"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="649,331 671,332 674,329 688,332 712,330 716,326 723,326 724,285 679,286 673,291 650,290"/>
+                <Baseline points="656,323 686,324 716,324"/>
+                <TextEquiv>
+                    <Unicode>177</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>177</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612637148849_3693" custom="readingOrder {index:1;} structure {type:paragraph-continued;}">
+            <Coords points="157,350 1218,350 1218,1051 157,1051"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_chord {offset:26; length:23;}">
+                <Coords points="155,426 1093,435 1222,426 1222,382 155,384"/>
+                <Baseline points="161,416 213,416 266,415 319,415 372,415 424,415 477,415 530,415 583,415 635,415 688,415 741,415 794,415 846,415 899,415 952,415 1005,415 1057,415 1110,415 1163,415 1216,415"/>
+                <TextEquiv>
+                    <Unicode>der in der Verbindung des Oberdominantdreiklanges mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_chord {offset:4; length:23;} m_interval {offset:32; length:16;}">
+                <Coords points="156,480 1212,467 1160,435 156,445"/>
+                <Baseline points="162,468 214,468 266,467 318,467 370,467 423,467 475,467 527,467 579,467 631,467 684,467 736,467 788,467 840,467 892,467 945,467 997,467 1049,467 1101,467 1153,467 1206,467"/>
+                <TextEquiv>
+                    <Unicode>dem verminderten Dreiklange der Oberdominantterz be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:22; length:9;}">
+                <Coords points="153,532 1209,531 1209,493 153,500"/>
+                <Baseline points="160,519 212,519 264,519 316,519 368,519 420,519 472,519 525,519 577,519 629,519 681,519 733,519 785,519 837,519 890,519 942,519 994,519 1046,519 1098,519 1150,519 1203,520"/>
+                <TextEquiv>
+                    <Unicode>steht, ebensowohl vom tonischen, wie von den beiden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} m_chord {offset:0; length:19;} concept_mus {offset:30; length:10;}">
+                <Coords points="150,580 1216,579 1176,540 150,540"/>
+                <Baseline points="157,571 209,571 262,571 314,571 367,571 420,571 472,571 525,571 578,571 630,571 683,571 736,571 788,571 841,571 894,571 946,571 999,572 1052,572 1104,572 1157,572 1210,572"/>
+                <TextEquiv>
+                    <Unicode>Dominantdreiklängen ausgehend vermittelt zu ergreifen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:34; length:9;} m_chord {offset:44; length:10;}">
+                <Coords points="158,635 1214,635 1214,595 1134,587 158,588"/>
+                <Baseline points="165,622 217,622 269,622 321,622 373,623 425,623 477,623 530,623 582,624 634,624 686,624 738,624 790,624 842,624 895,624 947,624 999,624 1051,624 1103,624 1155,624 1208,624"/>
+                <TextEquiv>
+                    <Unicode>ist (181). Wir werden demnach dem tonischen Dreiklange</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} textStyle {offset:0; length:5;italic:true; fontSize:0.0; kerning:0;} m_chord {offset:0; length:5;} m_chord {offset:15; length:22;} m_tonality {offset:42; length:11;}">
+                <Coords points="158,681 1208,693 1200,644 158,644"/>
+                <Baseline points="164,673 215,674 267,675 319,675 371,676 423,676 475,676 527,676 579,676 631,676 683,676 734,676 786,676 838,676 890,675 942,675 994,676 1046,676 1098,676 1150,676 1202,677"/>
+                <TextEquiv>
+                    <Unicode>C-e-G, ihn als Unterdominantdreiklang der G-Durtonart,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} m_chord {offset:9; length:21;} m_tonality {offset:35; length:11;}">
+                <Coords points="166,739 1207,747 1207,681 1059,713 166,700"/>
+                <Baseline points="172,726 223,727 274,727 326,728 377,728 429,728 480,729 531,729 583,728 634,728 686,728 737,728 788,728 840,728 891,728 943,728 994,728 1045,728 1097,728 1148,729 1200,729"/>
+                <TextEquiv>
+                    <Unicode>oder als Oberdominantdreiklang der F-Durtonart setzend,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} m_chord {offset:16; length:22;}">
+                <Coords points="162,787 694,803 1207,787 1207,755 162,757"/>
+                <Baseline points="168,778 219,779 271,779 322,779 374,780 426,780 477,780 529,780 581,781 632,781 684,781 736,781 787,781 839,781 891,781 942,781 994,781 1046,781 1097,781 1149,781 1201,780"/>
+                <TextEquiv>
+                    <Unicode>unmittelbar den Dominantseptimenaccord der einen oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} m_tonality {offset:8; length:6;}">
+                <Coords points="164,844 1210,842 1174,796 164,804"/>
+                <Baseline points="171,830 222,831 274,831 325,831 377,832 429,832 480,832 532,832 583,832 635,833 687,833 738,833 790,833 841,833 893,833 945,833 996,833 1048,833 1099,833 1151,833 1203,833"/>
+                <TextEquiv>
+                    <Unicode>anderen Tonart folgen lassen können, wodurch nach der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;} concept_mus {offset:0; length:9;} m_chord {offset:17; length:8;} m_tonality {offset:35; length:6;}">
+                <Coords points="160,891 1211,891 1211,862 1123,851 161,856"/>
+                <Baseline points="167,883 218,883 270,883 322,883 374,883 426,883 478,884 529,884 581,884 633,885 685,885 737,885 789,885 841,886 892,886 944,886 996,885 1048,885 1100,884 1152,884 1204,883"/>
+                <TextEquiv>
+                    <Unicode>Auflösung dieses Accordes die neue Tonart nicht nur einge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="157,947 1205,940 1183,909 439,900 349,925 157,901"/>
+                <Baseline points="164,935 215,935 267,935 319,935 371,936 422,936 474,936 526,937 578,937 629,937 681,937 733,937 785,938 836,938 888,938 940,938 992,938 1043,937 1095,937 1147,937 1199,936"/>
+                <TextEquiv>
+                    <Unicode>leitet sein, sondern sogleich in ihrem Umfange zusammen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;} concept_mus {offset:46; length:5;}">
+                <Coords points="156,1010 1071,1011 1220,994 1221,960 157,963"/>
+                <Baseline points="163,986 215,986 268,987 320,987 373,988 425,988 478,988 530,989 583,989 635,989 688,989 741,989 793,990 846,990 898,990 951,990 1003,990 1056,990 1108,989 1161,989 1214,989"/>
+                <TextEquiv>
+                    <Unicode>gefasst und festgestellt erscheinen wird. Die Folge bildet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="154,1050 649,1051 649,1018 615,1004 594,1018 519,1005 504,1019 444,1019 425,1003 385,1018 259,1003 240,1018 218,1003 154,1016"/>
+                <Baseline points="161,1040 186,1040 211,1040 237,1039 262,1039 287,1039 313,1039 338,1039 363,1039 389,1040 414,1040 440,1040 465,1040 490,1040 516,1040 541,1041 566,1041 592,1041 617,1042 643,1043"/>
+                <TextEquiv>
+                    <Unicode>sich dann in dieser Gestalt:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der in der Verbindung des Oberdominantdreiklanges mit
+dem verminderten Dreiklange der Oberdominantterz be¬
+steht, ebensowohl vom tonischen, wie von den beiden
+Dominantdreiklängen ausgehend vermittelt zu ergreifen
+ist (181). Wir werden demnach dem tonischen Dreiklange
+C-e-G, ihn als Unterdominantdreiklang der G-Durtonart,
+oder als Oberdominantdreiklang der F-Durtonart setzend,
+unmittelbar den Dominantseptimenaccord der einen oder
+anderen Tonart folgen lassen können, wodurch nach der
+Auflösung dieses Accordes die neue Tonart nicht nur einge¬
+leitet sein, sondern sogleich in ihrem Umfange zusammen¬
+gefasst und festgestellt erscheinen wird. Die Folge bildet
+sich dann in dieser Gestalt:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612637194810_3707" custom="readingOrder {index:2;} structure {type:floating;}">
+            <Coords points="157,1051 1218,1051 1218,1456 157,1456"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612637126888_3685" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="157,1456 1218,1456 1218,1717 157,1717"/>
+            <TextLine id="r1l26" custom="readingOrder {index:0;} concept_mus {offset:14; length:8;} m_chord {offset:23; length:9;} m_tonality {offset:43; length:6;}">
+                <Coords points="154,1506 1219,1494 1219,1465 1171,1459 154,1460"/>
+                <Baseline points="161,1491 213,1491 266,1492 318,1492 371,1492 424,1492 476,1493 529,1493 581,1493 634,1493 687,1493 739,1493 792,1493 844,1493 897,1493 950,1493 1002,1492 1055,1492 1107,1492 1160,1491 1213,1491"/>
+                <TextEquiv>
+                    <Unicode>Der gewonnene tonische Dreiklang der neuen Tonart wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:1;} concept_mus {offset:24; length:17;}">
+                <Coords points="160,1555 1215,1555 1215,1515 1135,1508 1106,1533 160,1508"/>
+                <Baseline points="167,1543 219,1543 271,1544 323,1544 375,1544 427,1544 479,1544 531,1544 583,1544 635,1544 687,1544 739,1544 791,1544 843,1544 895,1544 947,1544 999,1544 1051,1544 1103,1544 1155,1544 1208,1544"/>
+                <TextEquiv>
+                    <Unicode>in die eine oder andere Dominantbedeutung versetzt, kann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:2;} m_tonality {offset:46; length:6;}">
+                <Coords points="161,1604 1054,1611 1215,1602 1215,1565 161,1571"/>
+                <Baseline points="168,1595 220,1596 272,1596 324,1596 376,1597 428,1597 480,1597 532,1597 584,1596 636,1596 688,1596 740,1596 792,1595 844,1595 896,1595 948,1595 1000,1595 1052,1595 1104,1595 1156,1595 1208,1595"/>
+                <TextEquiv>
+                    <Unicode>sodann nach demselben Verfahren in die vorige Tonart</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:3;} concept_mus {offset:46; length:10;}">
+                <Coords points="165,1658 1225,1657 1176,1612 165,1627"/>
+                <Baseline points="172,1647 224,1647 276,1648 328,1648 381,1648 433,1648 485,1648 538,1648 590,1648 642,1648 695,1648 747,1648 799,1648 851,1648 904,1647 956,1647 1008,1647 1061,1647 1113,1647 1165,1647 1218,1647"/>
+                <TextEquiv>
+                    <Unicode>zurück-, oder in der angebahnten Richtung der Modulation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:4;} concept_mus {offset:9; length:10;}">
+                <Coords points="157,1707 439,1707 467,1723 542,1699 785,1706 767,1676 696,1668 157,1675"/>
+                <Baseline points="164,1700 194,1700 225,1700 256,1699 287,1699 317,1699 348,1699 379,1700 410,1700 440,1700 471,1700 502,1700 533,1700 563,1700 594,1700 625,1700 656,1700 686,1700 717,1700 748,1700 779,1699"/>
+                <TextEquiv>
+                    <Unicode>um einen Tonartgrad weiterführen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der gewonnene tonische Dreiklang der neuen Tonart wieder&#13;
+in die eine oder andere Dominantbedeutung versetzt, kann&#13;
+sodann nach demselben Verfahren in die vorige Tonart&#13;
+zurück-, oder in der angebahnten Richtung der Modulation&#13;
+um einen Tonartgrad weiterführen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612637177667_3700" custom="readingOrder {index:4;} structure {type:floating-continued;}">
+            <Coords points="157,1717 1218,1717 1218,2152 157,2152"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:35.451+01:00</Created>
+        <LastChange>2021-09-01T15:28:24.495+02:00</LastChange>
+        <TranskribusMetadata docId="764523" pageId="28718989" pageNr="119" tsid="63885006" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=HFSTKHRGREZQKIBONNLWXVLK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BQVFGGWPBWKXYLAKVQRQQYNE" imageId="22439494"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0128.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630597171742" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612548178051_802"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612548178051_801"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1612548171450_793"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1612548163941_785"/>
+                <RegionRefIndexed index="7" regionRef="TextRegion_1612548155632_777"/>
+                <RegionRefIndexed index="8" regionRef="TextRegion_1612548149739_773"/>
+                <RegionRefIndexed index="9" regionRef="TextRegion_1612548146144_769"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612548178051_802" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="142,234 1203,234 1203,289 142,289"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="633,258 640,258 648,266 719,266 719,226 633,229"/>
+                <Baseline points="640,260 676,260 712,260"/>
+                <TextEquiv>
+                    <Unicode>109</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>109</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612548178051_801" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="142,289 1203,289 1203,479 142,479"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} textStyle {offset:16; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:22; length:5;} concept_mus {offset:28; length:11;} concept_mus {offset:40; length:9; continued:true;}">
+                <Coords points="227,359 1207,355 1207,330 1111,316 227,316"/>
+                <Baseline points="234,351 282,351 330,351 378,351 427,351 475,351 523,352 572,352 620,352 668,352 717,353 765,353 813,353 861,353 910,353 958,353 1006,353 1055,353 1103,353 1151,352 1200,352"/>
+                <TextEquiv>
+                    <Unicode>160. Es ist die erste Reihe verbundener Septimen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} concept_mus {offset:0; length:8; continued:true;} concept_mus {offset:19; length:18;} textStyle {offset:19; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:41; length:9; continued:true;} textStyle {offset:41; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="149,419 1206,410 1184,379 1022,371 149,372"/>
+                <Baseline points="156,407 208,406 260,406 312,405 364,405 417,405 469,405 521,405 573,405 625,406 678,406 730,406 782,406 834,407 886,407 939,407 991,407 1043,406 1095,406 1147,405 1200,404"/>
+                <TextEquiv>
+                    <Unicode>harmonie, nach der Unterdominantseite in Terz-ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:0; length:7; continued:true;} m_chord {offset:8; length:11;}">
+                <Coords points="147,467 456,466 473,483 497,466 799,467 775,419 751,436 568,436 548,419 527,436 263,436 247,420 147,435"/>
+                <Baseline points="153,458 186,458 220,458 253,458 287,458 321,458 354,458 388,458 422,458 455,458 489,458 522,458 556,458 590,458 623,458 657,458 691,459 724,459 758,459 792,459"/>
+                <TextEquiv>
+                    <Unicode>wandten Dreiklängen fortschreitend:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>160. Es ist die erste Reihe verbundener Septimen-
+harmonie, nach der Unterdominantseite in Terz-ver¬
+wandten Dreiklängen fortschreitend:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612548194191_807" custom="readingOrder {index:2;} structure {type:floating;}">
+            <Coords points="142,479 1203,479 1203,788 142,788"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612548171450_793" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="142,788 1203,788 1203,919 142,919"/>
+            <TextLine id="r1l22" custom="readingOrder {index:0;} textStyle {offset:4; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:15; length:16;} textStyle {offset:15; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:32; length:11;}">
+                <Coords points="228,859 1200,851 1200,825 1133,811 228,813"/>
+                <Baseline points="235,847 285,848 335,849 386,849 436,850 487,850 537,850 588,850 638,850 689,850 739,850 790,850 840,850 891,850 941,850 992,850 1042,850 1093,850 1143,850 1194,850"/>
+                <TextEquiv>
+                    <Unicode>Die zweite, in Quint-verwandten Dreiklängen fort¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:1;}">
+                <Coords points="139,908 350,913 351,875 314,868 272,876 264,868 243,868 207,876 185,867 177,875 140,880"/>
+                <Baseline points="146,901 174,900 202,900 230,900 259,900 287,901 315,902 344,903"/>
+                <TextEquiv>
+                    <Unicode>schreitend:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die zweite, in Quint-verwandten Dreiklängen fort¬
+schreitend:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612548222946_815" custom="readingOrder {index:4;} structure {type:floating;}">
+            <Coords points="142,919 1203,919 1203,1236 142,1236"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1612548163941_785" custom="readingOrder {index:5;} structure {type:paragraph-continued;}">
+            <Coords points="142,1236 1203,1236 1203,1361 142,1361"/>
+            <TextLine id="line_1612548330095_858" custom="readingOrder {index:0;} textStyle {offset:4; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:15; length:11;} concept_mus {offset:40; length:9; continued:true;}">
+                <Coords points="224,1299 1196,1293 1174,1259 224,1260"/>
+                <Baseline points="231,1290 256,1290 281,1290 306,1291 331,1292 356,1292 381,1292 406,1293 431,1293 457,1292 486,1292 521,1293 556,1293 591,1293 626,1294 662,1294 697,1294 732,1294 767,1293 802,1293 838,1293 873,1293 908,1293 943,1293 978,1292 1014,1292 1049,1292 1084,1292 1119,1292 1154,1292 1190,1293"/>
+                <TextEquiv>
+                    <Unicode>Die dritte, in Dreiklängen ohne directe Verwandt¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:1;} concept_mus {offset:0; length:6; continued:true;}">
+                <Coords points="138,1355 521,1355 522,1318 487,1309 474,1322 445,1322 413,1308 379,1321 350,1308 293,1322 279,1308 253,1317 183,1308 138,1321"/>
+                <Baseline points="144,1345 170,1345 197,1345 223,1345 250,1345 276,1345 303,1345 329,1345 356,1345 382,1345 409,1346 435,1346 462,1346 488,1346 515,1346"/>
+                <TextEquiv>
+                    <Unicode>schaft fortschreitend:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die dritte, in Dreiklängen ohne directe Verwandt¬
+schaft fortschreitend:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612548253522_823" custom="readingOrder {index:6;} structure {type:floating;}">
+            <Coords points="142,1361 1203,1361 1203,1671 142,1671"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612548155632_777" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="142,1671 1203,1671 1203,1793 142,1793"/>
+            <TextLine id="r1l62" custom="readingOrder {index:0;} concept_mus {offset:16; length:5;} concept_mus {offset:44; length:11; continued:true;}">
+                <Coords points="139,1730 1198,1730 1184,1700 815,1701 790,1676 751,1707 139,1692"/>
+                <Baseline points="145,1725 197,1726 249,1726 301,1726 354,1726 406,1726 458,1726 511,1726 563,1726 615,1726 668,1725 720,1725 772,1725 824,1725 877,1725 929,1724 981,1724 1034,1724 1086,1724 1138,1724 1191,1724"/>
+                <TextEquiv>
+                    <Unicode>letztere in der Folge 4—5 und 5—6 gegen die Dreiklangs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l63" custom="readingOrder {index:1;} concept_mus {offset:0; length:11; continued:true;}">
+                <Coords points="140,1783 321,1789 338,1803 396,1786 636,1787 636,1753 622,1747 140,1756"/>
+                <Baseline points="147,1776 172,1777 197,1778 223,1778 248,1779 273,1779 299,1779 324,1779 349,1779 375,1779 400,1779 426,1779 451,1778 476,1778 502,1778 527,1778 552,1778 578,1779 603,1779 629,1780"/>
+                <TextEquiv>
+                    <Unicode>vermittlung sich erweisend.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>letztere in der Folge 4—5 und 5—6 gegen die Dreiklangs¬&#13;
+vermittlung sich erweisend.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612548149739_773" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="142,1793 1203,1793 1203,2001 142,2001"/>
+            <TextLine id="r1l64" custom="readingOrder {index:0;}">
+                <Coords points="227,1838 1210,1837 1181,1796 227,1800"/>
+                <Baseline points="234,1832 282,1831 330,1831 379,1831 427,1831 476,1831 524,1831 573,1831 621,1831 670,1831 718,1831 766,1830 815,1830 863,1830 912,1830 960,1830 1009,1830 1057,1830 1106,1829 1154,1829 1203,1829"/>
+                <TextEquiv>
+                    <Unicode>161. Zu übersichtlicher Anschauung mögen auch die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l65" custom="readingOrder {index:1;} concept_mus {offset:15; length:6;} concept_mus {offset:22; length:11;} concept_mus {offset:34; length:18;}">
+                <Coords points="140,1891 1030,1899 1195,1891 1203,1858 140,1860"/>
+                <Baseline points="147,1882 199,1883 251,1884 304,1885 356,1885 409,1886 461,1886 514,1886 566,1885 619,1885 671,1885 723,1884 776,1884 828,1883 881,1883 933,1882 986,1882 1038,1882 1091,1881 1143,1881 1196,1881"/>
+                <TextEquiv>
+                    <Unicode>entsprechenden Reihen verbundener Septimenharmonieen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l66" custom="readingOrder {index:2;} concept_mus {offset:9; length:17;} textStyle {offset:9; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="139,1947 1207,1933 1144,1900 139,1914"/>
+                <Baseline points="146,1938 198,1938 251,1937 304,1937 356,1937 409,1937 462,1938 514,1938 567,1938 620,1938 673,1938 725,1938 778,1938 831,1937 883,1937 936,1937 989,1936 1041,1935 1094,1934 1147,1933 1200,1931"/>
+                <TextEquiv>
+                    <Unicode>nach der Oberdominantseite hier Platz finden; die Folge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l67" custom="readingOrder {index:3;}">
+                <Coords points="146,2002 907,1997 907,1967 832,1956 146,1963"/>
+                <Baseline points="153,1988 190,1990 227,1990 265,1991 302,1991 340,1991 377,1991 414,1991 452,1991 489,1991 527,1991 564,1990 601,1990 639,1990 676,1989 714,1989 751,1989 788,1989 826,1989 863,1989 901,1989"/>
+                <TextEquiv>
+                    <Unicode>widrigkeit derselben ist schon besprochen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>161. Zu übersichtlicher Anschauung mögen auch die&#13;
+entsprechenden Reihen verbundener Septimenharmonieen&#13;
+nach der Oberdominantseite hier Platz finden; die Folge¬&#13;
+widrigkeit derselben ist schon besprochen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612548146144_769" custom="readingOrder {index:9;} structure {type:paragraph;}">
+            <Coords points="142,2001 1203,2001 1203,2111 142,2111"/>
+            <TextLine id="r1l68" custom="readingOrder {index:0;} textStyle {offset:11; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:21; length:15;} textStyle {offset:21; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:37; length:11;}">
+                <Coords points="228,2051 1202,2051 1201,2014 1085,2004 557,2033 228,2013"/>
+                <Baseline points="235,2042 283,2043 331,2044 379,2044 427,2044 475,2044 523,2044 571,2044 619,2044 667,2043 715,2043 763,2043 811,2042 859,2042 907,2042 955,2041 1003,2041 1051,2041 1099,2041 1147,2042 1195,2042"/>
+                <TextEquiv>
+                    <Unicode>Es ist die erste, in Terz-verwandten Dreiklängen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l69" custom="readingOrder {index:1;}">
+                <Coords points="146,2107 406,2108 406,2075 382,2060 356,2076 331,2076 304,2059 280,2074 245,2059 229,2070 146,2060"/>
+                <Baseline points="152,2095 179,2096 206,2097 234,2097 261,2097 289,2098 316,2098 344,2097 371,2097 399,2098"/>
+                <TextEquiv>
+                    <Unicode>fortschreitend:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es ist die erste, in Terz-verwandten Dreiklängen
+fortschreitend:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

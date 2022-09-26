@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-19T15:11:50.068+01:00</Created>
+        <LastChange>2021-08-17T10:22:37.693+02:00</LastChange>
+        <TranskribusMetadata docId="738834" pageId="28121548" pageNr="43" tsid="62683858" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=BOISHDFWUJWGRHAXSMJSNZAO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XGQCWQVLCMYGWJJGOENYBLRZ" imageId="21904918"/>
+    </Metadata>
+    <Page imageFilename="Weitzmann_1860_Harmoniesystem-0043.jpg" imageWidth="1372" imageHeight="2169" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630573944442" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614094086370_3054"/>
+                <RegionRefIndexed index="1" regionRef="region_1617041642013_551"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614094108258_3059"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1614094108258_3058"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1614094070464_3041"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614094086370_3054" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="187,205 1186,205 1186,268 187,268"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="653,234 671,234 683,244 693,236 719,232 718,195 710,197 707,195 665,196 658,204 652,204"/>
+                <Baseline points="659,231 686,229 713,229"/>
+                <TextEquiv>
+                    <Unicode>28</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>28</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617041642013_551" custom="readingOrder {index:1;} structure {type:missing;}">
+            <Coords points="1182,291 169,291 169,434 1182,434"/>
+        </TextRegion>
+        <MusicRegion id="Music_1614094139333_3074" custom="readingOrder {index:2;} structure {type:floating;}">
+            <Coords points="187,450 1186,450 1186,735 187,735"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614094108258_3059" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="187,735 1186,735 1186,1266 187,1266"/>
+            <TextLine id="r1l9" custom="readingOrder {index:0;} concept_mus {offset:36; length:8;} concept_mus {offset:52; length:5; continued:true;}">
+                <Coords points="276,794 1188,795 1168,756 276,755"/>
+                <Baseline points="282,787 327,787 372,787 417,787 462,787 507,787 552,787 597,787 642,788 687,788 732,788 777,788 822,788 867,788 912,788 957,788 1002,788 1047,789 1092,789 1137,789 1182,789"/>
+                <TextEquiv>
+                    <Unicode>Durch die Aufnahme dieser letzteren Vorhalte in die prak¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:1;} concept_mus {offset:0; length:20; continued:true;}">
+                <Coords points="180,829 1177,850 1177,796 180,800"/>
+                <Baseline points="187,830 236,830 285,830 334,830 383,830 433,831 482,831 531,831 580,831 629,831 679,831 728,831 777,831 826,831 875,832 925,832 974,832 1023,832 1072,832 1121,832 1171,832"/>
+                <TextEquiv>
+                    <Unicode>tische Harmonielehre, die unbedenklich geschehen kann, da auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:2;} concept_mus {offset:20; length:18;}">
+                <Coords points="195,883 1188,875 1115,836 846,861 195,839"/>
+                <Baseline points="201,871 250,871 299,872 348,872 397,872 446,872 495,873 544,873 593,873 642,873 691,873 740,873 789,873 838,873 887,873 936,873 985,873 1034,873 1083,873 1132,872 1182,872"/>
+                <TextEquiv>
+                    <Unicode>sie als regelmäßige Dissonanzbildungen auftreten und fort¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:3;}">
+                <Coords points="188,926 1181,923 1166,884 338,904 188,882"/>
+                <Baseline points="195,914 244,914 293,914 342,915 391,915 440,915 489,915 538,915 587,915 636,916 685,916 734,916 783,916 832,916 881,916 930,916 979,916 1028,916 1077,915 1126,915 1175,914"/>
+                <TextEquiv>
+                    <Unicode>schreiten, gewinnt dieselbe an Klarheit, Faßlichkeit und Frei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:4;}">
+                <Coords points="193,975 1179,972 1179,930 1126,923 193,926"/>
+                <Baseline points="199,956 247,956 296,956 344,956 393,957 442,957 490,957 539,957 588,957 636,957 685,958 734,958 782,958 831,958 880,958 928,959 977,959 1026,959 1074,959 1123,960 1172,960"/>
+                <TextEquiv>
+                    <Unicode>heit, denn es finden dadurch, wie wir sogleich sehen werden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:5;}">
+                <Coords points="189,1010 1135,1014 1184,1011 1184,970 189,976"/>
+                <Baseline points="195,999 244,999 293,999 342,999 391,999 440,999 489,999 539,999 588,999 637,999 686,1000 735,1000 784,1000 833,1000 883,1000 932,1001 981,1001 1030,1001 1079,1001 1128,1001 1178,1001"/>
+                <TextEquiv>
+                    <Unicode>nicht allein alle bisher benutzten, sondern auch die auffallendsten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:6;} concept_mus {offset:0; length:14;} concept_mus {offset:19; length:12;} concept_mus {offset:36; length:13;}">
+                <Coords points="195,1053 1179,1051 1179,1019 1144,1012 195,1010"/>
+                <Baseline points="201,1042 249,1042 298,1042 346,1042 395,1042 444,1042 492,1042 541,1042 589,1042 638,1042 687,1042 735,1043 784,1043 832,1043 881,1043 930,1043 978,1043 1027,1043 1075,1044 1124,1044 1173,1044"/>
+                <TextEquiv>
+                    <Unicode>Zusammenklänge und Accordfolgen der neueren Musik ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:7;} concept_mus {offset:34; length:9;}">
+                <Coords points="189,1095 1184,1099 1184,1060 1131,1051 189,1055"/>
+                <Baseline points="195,1083 244,1084 293,1084 342,1084 391,1084 440,1084 489,1084 539,1084 588,1084 637,1084 686,1084 735,1085 784,1085 833,1085 883,1085 932,1085 981,1085 1030,1086 1079,1086 1128,1087 1178,1087"/>
+                <TextEquiv>
+                    <Unicode>Rechtfertigung und Erklärung, der Tonsetzer eine bei Weitem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:8;} concept_mus {offset:57; length:4; continued:true;}">
+                <Coords points="186,1138 1182,1130 1117,1092 186,1100"/>
+                <Baseline points="192,1125 241,1126 290,1126 339,1127 388,1127 437,1127 486,1127 536,1127 585,1128 634,1128 683,1128 732,1128 781,1128 830,1128 880,1128 929,1128 978,1128 1027,1128 1076,1129 1125,1129 1175,1129"/>
+                <TextEquiv>
+                    <Unicode>noch nicht erschöpfte Fundgrube neuer und kunstgerechter Har¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:9;} concept_mus {offset:0; length:6; continued:true;} concept_mus {offset:17; length:6;} concept_mus {offset:48; length:11;}">
+                <Coords points="191,1179 1186,1186 1186,1140 1153,1136 622,1162 512,1133 191,1140"/>
+                <Baseline points="198,1169 247,1169 296,1169 345,1169 394,1169 443,1169 492,1170 541,1170 590,1170 639,1170 688,1170 737,1170 786,1170 835,1171 884,1171 933,1171 982,1171 1031,1171 1080,1171 1129,1171 1179,1172"/>
+                <TextEquiv>
+                    <Unicode>monien und deren Folgen, und endlich die Anzahl theoretisch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:10;} concept_mus {offset:34; length:11;} concept_phy {offset:34; length:11;}">
+                <Coords points="187,1229 1185,1225 1185,1188 1140,1180 187,1188"/>
+                <Baseline points="193,1212 242,1212 291,1212 340,1212 390,1212 439,1212 488,1212 538,1212 587,1212 636,1213 686,1213 735,1213 784,1213 833,1213 883,1214 932,1214 981,1214 1031,1214 1080,1213 1129,1213 1179,1213"/>
+                <TextEquiv>
+                    <Unicode>zu erklärender und zu billigender Dissonanzen zugleich ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:11;}">
+                <Coords points="183,1267 522,1266 522,1232 503,1228 234,1219 184,1231"/>
+                <Baseline points="190,1253 215,1254 240,1254 265,1254 290,1254 315,1254 340,1254 365,1253 390,1253 415,1254 440,1254 465,1254 490,1255 515,1256"/>
+                <TextEquiv>
+                    <Unicode>natürlichen Grenzen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Durch die Aufnahme dieser letzteren Vorhalte in die prak¬
+tische Harmonielehre, die unbedenklich geschehen kann, da auch
+sie als regelmäßige Dissonanzbildungen auftreten und fort¬
+schreiten, gewinnt dieselbe an Klarheit, Faßlichkeit und Frei¬
+heit, denn es finden dadurch, wie wir sogleich sehen werden,
+nicht allein alle bisher benutzten, sondern auch die auffallendsten
+Zusammenklänge und Accordfolgen der neueren Musik ihre
+Rechtfertigung und Erklärung, der Tonsetzer eine bei Weitem
+noch nicht erschöpfte Fundgrube neuer und kunstgerechter Har¬
+monien und deren Folgen, und endlich die Anzahl theoretisch
+zu erklärender und zu billigender Dissonanzen zugleich ihre
+natürlichen Grenzen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614094108258_3058" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
+            <Coords points="187,1266 1186,1266 1186,1513 187,1513"/>
+            <TextLine id="r1l21" custom="readingOrder {index:0;} m_note {offset:27; length:4;} m_chord {offset:38; length:11;}">
+                <Coords points="266,1307 1188,1315 1176,1260 267,1267"/>
+                <Baseline points="273,1297 318,1297 363,1297 409,1296 454,1296 500,1296 545,1296 591,1297 636,1297 682,1297 727,1297 772,1297 818,1297 863,1298 909,1298 954,1298 1000,1298 1045,1298 1091,1298 1136,1298 1182,1298"/>
+                <TextEquiv>
+                    <Unicode>Wie wir bisher nämlich die Töne eines Dreiklanges durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:1;} concept_mus {offset:0; length:8;} textStyle {offset:19; length:4;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:33; length:11;}">
+                <Coords points="182,1345 1192,1345 1164,1308 183,1300"/>
+                <Baseline points="189,1338 238,1338 288,1339 338,1339 388,1339 438,1339 488,1339 537,1340 587,1340 637,1340 687,1340 737,1340 787,1340 837,1340 886,1340 936,1340 986,1340 1036,1340 1086,1340 1136,1340 1186,1339"/>
+                <TextEquiv>
+                    <Unicode>Vorhalte von unten oder von oben verzögerten, so können wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:2;} concept_mus {offset:52; length:8;}">
+                <Coords points="188,1395 1054,1403 1190,1394 1190,1354 188,1357"/>
+                <Baseline points="195,1382 244,1382 293,1382 343,1382 392,1382 442,1382 491,1382 541,1383 590,1383 640,1383 689,1384 738,1384 788,1384 837,1385 887,1385 936,1385 986,1385 1035,1384 1085,1384 1134,1383 1184,1382"/>
+                <TextEquiv>
+                    <Unicode>einen jeden derselben auch durch zwei gleichzeitige Vorhalte von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:3;} textStyle {offset:6; length:3;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:19; length:9;}">
+                <Coords points="186,1435 698,1434 698,1402 607,1388 589,1402 186,1396"/>
+                <Baseline points="193,1426 219,1425 245,1425 271,1425 298,1425 324,1425 350,1424 376,1424 403,1424 429,1424 455,1424 481,1425 508,1425 534,1425 560,1425 586,1425 613,1425 639,1426 665,1426 692,1426"/>
+                <TextEquiv>
+                    <Unicode>unten und von oben verzögern:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wie wir bisher nämlich die Töne eines Dreiklanges durch
+Vorhalte von unten oder von oben verzögerten, so können wir
+einen jeden derselben auch durch zwei gleichzeitige Vorhalte von
+unten und von oben verzögern:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="caption" id="TextRegion_1614094070464_3041" custom="readingOrder {index:5;} structure {type:caption;}">
+            <Coords points="187,1513 1186,1513 1186,1616 187,1616"/>
+            <TextLine id="r1l25" custom="readingOrder {index:0;} concept_mus {offset:13; length:9;} concept_mus {offset:52; length:8;}">
+                <Coords points="225,1586 1141,1595 1107,1548 225,1562"/>
+                <Baseline points="231,1586 276,1586 321,1586 366,1586 411,1586 456,1586 501,1586 547,1586 592,1586 637,1586 682,1586 727,1586 772,1587 817,1587 863,1587 908,1587 953,1587 998,1587 1043,1587 1088,1588 1134,1588"/>
+                <TextEquiv>
+                    <Unicode>Gleichzeitig melodisch auf- und abwärts schreitende Vorhalte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gleichzeitig melodisch auf- und abwärts schreitende Vorhalte.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614094127415_3064" custom="readingOrder {index:6;} structure {type:floating-continued;}">
+            <Coords points="187,1616 1186,1616 1186,1939 187,1939"/>
+        </MusicRegion>
+    </Page>
+</PcGts>

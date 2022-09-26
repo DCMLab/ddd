@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-03T13:14:49.245+01:00</Created>
+        <LastChange>2021-08-12T14:16:25.533+02:00</LastChange>
+        <TranskribusMetadata docId="747636" pageId="28294095" pageNr="42" tsid="62553862" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=ZJMPYGLHOMUKYOLVAYBTGWWO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LGIODDWTJVEIHILLWMDXGECP" imageId="22039024"/>
+    </Metadata>
+    <Page imageFilename="Capellen-42.jpg" imageWidth="721" imageHeight="1298" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630498503776" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614860717416_5727"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1614860717416_5726"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1614860712529_5718"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614860707391_5710"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614860717416_5727" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="105,125 692,125 692,154 105,154"/>
+            <TextLine id="line_1614860717441_5730" custom="readingOrder {index:0;}">
+                <Coords points="382,162 389,162 394,158 413,158 416,154 423,153 422,122 412,122 410,125 407,124 405,126 401,126 399,124 380,125"/>
+                <Baseline points="386,146 418,145"/>
+                <TextEquiv>
+                    <Unicode>38</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>38</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614860717416_5726" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="105,154 692,154 692,624 105,624"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:8; length:13;} concept_mus {offset:22; length:9;} work_text {offset:58; length:6;ID:W0014;}">
+                <Coords points="105,193 661,199 695,194 695,163 105,165"/>
+                <Baseline points="110,188 139,188 168,187 197,187 226,187 255,188 284,188 313,188 342,188 371,188 400,188 429,188 458,188 487,188 516,188 545,188 574,188 603,188 632,188 661,188 690,188"/>
+                <TextEquiv>
+                    <Unicode>dieses „chromatischen Nonenmoll” findet der Leser mehr in Teil I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} work_text {offset:18; length:7;ID:W0031;} textStyle {offset:42; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:48; length:14;}">
+                <Coords points="101,214 685,219 686,195 102,191"/>
+                <Baseline points="106,209 134,209 163,209 192,209 220,209 249,209 278,209 306,209 335,209 364,209 393,209 421,209 450,210 479,210 507,210 536,210 565,210 593,210 622,210 651,210 680,210"/>
+                <TextEquiv>
+                    <Unicode>S. 127—131 und in Teil II S. 57, 60. Dass diese Mollauffassung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} concept_mus {offset:14; length:20;}">
+                <Coords points="103,238 695,235 695,219 646,214 103,214"/>
+                <Baseline points="108,230 137,230 166,230 195,230 224,230 253,230 282,230 311,230 340,230 369,230 399,230 428,230 457,230 486,230 515,230 544,230 573,231 602,231 631,231 660,231 690,231"/>
+                <TextEquiv>
+                    <Unicode>nur durch den tonalen Zusammenhang nahegelegt wird, ohne diesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} m_chord {offset:11; length:9;} concept_mus {offset:49; length:10;}">
+                <Coords points="106,258 695,258 671,236 106,236"/>
+                <Baseline points="111,252 141,252 171,252 202,252 232,252 263,253 293,253 324,253 354,253 385,253 415,253 446,253 476,253 507,253 537,253 568,252 598,252 629,252 659,252 690,252"/>
+                <TextEquiv>
+                    <Unicode>aber gegen A C e (g) zurücktritt, beruht auf der Quintnatur des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} m_note {offset:0; length:1;} m_chord {offset:5; length:2;} textStyle {offset:6; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:17; length:9;} m_note {offset:31; length:1;} m_note {offset:37; length:8;} concept_mus {offset:47; length:9;}">
+                <Coords points="105,279 691,283 679,257 105,261"/>
+                <Baseline points="110,274 138,274 167,274 196,274 225,274 254,274 282,274 311,274 340,274 369,274 398,274 426,274 455,275 484,275 513,275 542,275 570,275 599,274 628,274 657,274 686,274"/>
+                <TextEquiv>
+                    <Unicode>a in D9, während A C e (g) das a als Grundton (Fundament) ent¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} m_chord {offset:32; length:13;} concept_mus {offset:56; length:5; continued:true;}">
+                <Coords points="100,304 619,305 684,301 685,280 101,277"/>
+                <Baseline points="105,295 133,295 162,295 191,295 219,295 248,295 277,295 305,295 334,296 363,296 392,296 420,296 449,296 478,296 506,296 535,296 564,296 592,296 621,296 650,295 679,295"/>
+                <TextEquiv>
+                    <Unicode>hält. Dasselbe ist von der Form (F) a C e (g) wegen der Terz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_mus {offset:0; length:5; continued:true;} m_note {offset:10; length:1;} concept_mus {offset:29; length:11;} m_interval {offset:55; length:7; continued:true;}">
+                <Coords points="101,320 688,323 688,303 600,299 101,305"/>
+                <Baseline points="106,316 134,316 163,317 192,317 221,317 250,317 279,317 307,317 336,317 365,317 394,317 423,317 452,317 481,317 509,317 538,317 567,317 596,317 625,317 654,317 683,316"/>
+                <TextEquiv>
+                    <Unicode>natur des a zu sagen; dieser Doppelklang ist wegen der grossen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} m_interval {offset:0; length:7; continued:true;} m_interval {offset:8; length:3;} concept_mus {offset:12; length:9;} concept_phy {offset:12; length:9;} m_chord {offset:40; length:13;}">
+                <Coords points="102,341 697,343 697,324 655,321 102,321"/>
+                <Baseline points="107,337 136,338 165,338 194,338 224,338 253,339 282,339 311,339 341,339 370,339 399,339 428,339 458,339 487,339 516,338 545,338 575,338 604,338 633,337 662,337 692,337"/>
+                <TextEquiv>
+                    <Unicode>Septime f—e dissonant, so dass auch dem Molldreiklang in dieser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} concept_mus {offset:11; length:11;} concept_phy {offset:11; length:11;} concept_mus {offset:33; length:9;} concept_phy {offset:33; length:9;} concept_mus {offset:56; length:5; continued:true;}">
+                <Coords points="105,363 685,365 685,342 105,343"/>
+                <Baseline points="110,360 138,359 167,359 195,359 224,359 252,360 281,360 309,360 338,360 366,360 395,360 423,360 452,360 480,360 509,360 537,360 566,360 594,360 623,360 651,360 680,359"/>
+                <TextEquiv>
+                    <Unicode>Form etwas Dissonantes anhaftet. Dissonant ist auch der Moll¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;} concept_mus {offset:0; length:5; continued:true;} m_chord {offset:22; length:12;} m_chord {offset:37; length:8;}">
+                <Coords points="102,386 686,386 686,365 102,364"/>
+                <Baseline points="107,382 135,382 164,382 193,382 221,382 250,382 279,382 307,382 336,382 365,382 394,382 422,382 451,382 480,382 508,382 537,382 566,382 594,382 623,382 652,381 681,381"/>
+                <TextEquiv>
+                    <Unicode>klang als „getrübter” Durdreiklang = A ♮cis e, wegen des durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;} concept_mus {offset:4; length:15;} concept_mus {offset:33; length:11;} concept_phy {offset:33; length:11;} m_interval {offset:45; length:11;} m_interval {offset:57; length:5;}">
+                <Coords points="105,408 686,407 680,385 105,385"/>
+                <Baseline points="110,402 138,402 167,402 195,402 224,402 252,402 281,402 309,402 338,402 366,402 395,402 424,402 452,402 481,402 509,402 538,402 566,402 595,402 623,402 652,402 681,402"/>
+                <TextEquiv>
+                    <Unicode>die Terzenkollision entstehenden dissonanten Intervalles c—cis. Mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;} person_author {offset:23; length:7;ID:P0017;} person_author {offset:37; length:9;ID:P0001;}">
+                <Coords points="101,429 686,428 673,406 101,406"/>
+                <Baseline points="106,423 134,424 163,424 192,424 221,424 249,424 278,425 307,425 336,425 364,425 393,425 422,425 451,425 479,425 508,425 537,424 566,424 594,424 623,424 652,424 681,424"/>
+                <TextEquiv>
+                    <Unicode>Recht wendet sich hier Riemann gegen Helmholtz, der durch die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;} concept_mus {offset:0; length:12;} m_interval {offset:17; length:4;} concept_mus {offset:40; length:9;} concept_phy {offset:40; length:9;} m_chord {offset:54; length:11;}">
+                <Coords points="105,454 686,451 671,429 105,429"/>
+                <Baseline points="110,446 138,446 167,446 195,446 224,446 252,447 281,447 309,447 338,447 366,447 395,447 424,447 452,447 481,446 509,446 538,446 566,446 595,446 623,446 652,446 681,446"/>
+                <TextEquiv>
+                    <Unicode>Erniedrigung der Terz um $$MATH Ton die Konsonanz des Durakkordes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;} work_text {offset:48; length:14;ID:W0009;}">
+                <Coords points="110,473 688,478 688,451 664,449 110,453"/>
+                <Baseline points="115,467 143,467 171,467 200,467 228,467 257,467 285,467 313,467 342,467 370,467 399,467 427,467 455,467 484,467 512,467 541,467 569,467 597,467 626,467 654,467 683,467"/>
+                <TextEquiv>
+                    <Unicode>nur getrübt, aber nicht aufgehoben wissen will (Problemschrift S. 5).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;} concept_mus {offset:34; length:8;} person_author {offset:44; length:9;ID:P0001;}">
+                <Coords points="102,492 687,498 687,477 660,472 102,472"/>
+                <Baseline points="107,489 135,489 164,489 193,489 222,489 250,489 279,490 308,490 337,490 365,490 394,490 423,489 452,489 480,489 509,489 538,489 567,489 595,489 624,489 653,490 682,490"/>
+                <TextEquiv>
+                    <Unicode>Der grosse Fortschritt gegen den „Monisten” Helmholtz ist, dass</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;} m_chord {offset:25; length:10;} m_chord {offset:36; length:6;} textStyle {offset:43; length:8;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="109,515 693,515 693,497 659,493 109,493"/>
+                <Baseline points="114,509 142,509 171,509 200,510 228,510 257,510 286,510 314,510 343,510 372,511 401,511 429,511 458,511 487,511 515,511 544,511 573,511 601,510 630,510 659,510 688,509"/>
+                <TextEquiv>
+                    <Unicode>ich nicht wie dieser den Mollakkord c es g entweder als einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;} concept_mus {offset:0; length:7;} m_note {offset:34; length:3;} m_note {offset:38; length:2;} textStyle {offset:58; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="105,536 691,538 691,515 105,515"/>
+                <Baseline points="110,531 138,531 167,532 196,532 225,532 254,532 282,532 311,532 340,532 369,532 398,532 426,532 455,532 484,532 513,532 542,532 570,532 599,532 628,532 657,532 686,532"/>
+                <TextEquiv>
+                    <Unicode>C-Klang betrachte, dem der fremde Ton es hinzugefügt ist, oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;} concept_mus {offset:10; length:8;} m_note {offset:35; length:4;} m_note {offset:40; length:1;}">
+                <Coords points="102,559 647,564 697,557 697,536 102,539"/>
+                <Baseline points="107,553 136,553 165,553 194,553 224,553 253,554 282,554 311,554 341,554 370,554 399,555 428,555 458,555 487,555 516,555 545,555 575,554 604,554 633,554 662,553 692,552"/>
+                <TextEquiv>
+                    <Unicode>als einen Es-Klang mit dem fremden Tone c, sondern dass ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;} concept_mus {offset:4; length:9;} textStyle {offset:24; length:29;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="103,580 691,579 691,561 663,555 103,558"/>
+                <Baseline points="108,574 136,574 165,575 194,575 223,575 252,575 281,575 310,575 339,575 368,575 397,575 425,575 454,575 483,575 512,575 541,575 570,575 599,575 628,575 657,575 686,575"/>
+                <TextEquiv>
+                    <Unicode>den Mollklang durch das friedliche Zusammenwirken der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;} textStyle {offset:0; length:16;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:7; length:9;} concept_phy {offset:38; length:13;}">
+                <Coords points="103,602 690,602 690,584 659,579 103,580"/>
+                <Baseline points="108,596 136,596 165,597 194,597 223,597 252,597 281,597 309,597 338,597 367,597 396,597 425,597 454,597 483,597 511,597 540,597 569,597 598,597 627,597 656,597 685,597"/>
+                <TextEquiv>
+                    <Unicode>beiden Grundtöne (zufolge der innigen Verschmelzung ihrer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614860712555_5722" custom="readingOrder {index:20;} m_chord {offset:0; length:7;} concept_phy {offset:37; length:9;} concept_mus {offset:37; length:9;}">
+                <Coords points="106,624 633,625 633,605 611,601 106,601"/>
+                <Baseline points="111,617 136,617 162,618 188,618 214,618 240,618 266,618 291,618 317,618 343,618 369,618 395,618 421,618 447,618 472,618 498,618 524,618 550,618 576,618 602,618 628,619"/>
+                <TextEquiv>
+                    <Unicode>Akkorde) erkläre und so zugleich die Konsonanz begründe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dieses „chromatischen Nonenmoll” findet der Leser mehr in Teil I&#13;
+S. 127—131 und in Teil II S. 57, 60. Dass diese Mollauffassung&#13;
+nur durch den tonalen Zusammenhang nahegelegt wird, ohne diesen&#13;
+aber gegen A C e (g) zurücktritt, beruht auf der Quintnatur des&#13;
+a in D9, während A C e (g) das a als Grundton (Fundament) ent¬&#13;
+hält. Dasselbe ist von der Form (F) a C e (g) wegen der Terz¬&#13;
+natur des a zu sagen; dieser Doppelklang ist wegen der grossen&#13;
+Septime f—e dissonant, so dass auch dem Molldreiklang in dieser&#13;
+Form etwas Dissonantes anhaftet. Dissonant ist auch der Moll¬&#13;
+klang als „getrübter” Durdreiklang = A ♮cis e, wegen des durch&#13;
+die Terzenkollision entstehenden dissonanten Intervalles c—cis. Mit&#13;
+Recht wendet sich hier Riemann gegen Helmholtz, der durch die&#13;
+Erniedrigung der Terz um $$MATH Ton die Konsonanz des Durakkordes&#13;
+nur getrübt, aber nicht aufgehoben wissen will (Problemschrift S. 5).&#13;
+Der grosse Fortschritt gegen den „Monisten” Helmholtz ist, dass&#13;
+ich nicht wie dieser den Mollakkord c es g entweder als einen&#13;
+C-Klang betrachte, dem der fremde Ton es hinzugefügt ist, oder&#13;
+als einen Es-Klang mit dem fremden Tone c, sondern dass ich&#13;
+den Mollklang durch das friedliche Zusammenwirken der&#13;
+beiden Grundtöne (zufolge der innigen Verschmelzung ihrer&#13;
+Akkorde) erkläre und so zugleich die Konsonanz begründe.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614860712529_5718" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="105,624 692,624 692,1099 105,1099"/>
+            <TextLine id="line_1614860712556_5723" custom="readingOrder {index:0;}">
+                <Coords points="148,644 695,649 695,628 650,618 148,622"/>
+                <Baseline points="153,639 179,639 206,640 233,640 260,640 287,640 314,640 340,640 367,640 394,639 421,639 448,639 475,639 502,639 528,639 555,639 582,640 609,640 636,640 663,640 690,640"/>
+                <TextEquiv>
+                    <Unicode>Im Laufe der Zeit hat sich ein merkwürdiger Umschwung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:1;} m_chord {offset:22; length:15;} person_composer {offset:58; length:4;ID:P0054;}">
+                <Coords points="108,666 688,666 688,647 658,644 108,645"/>
+                <Baseline points="113,662 141,662 170,661 198,661 227,661 255,661 284,661 312,661 341,662 369,662 398,662 426,662 455,662 483,662 512,662 540,662 569,662 597,662 626,662 654,662 683,661"/>
+                <TextEquiv>
+                    <Unicode>in der Auffassung des Molldreiklanges vollzogen. Noch bei Bach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:2;} concept_mus {offset:11; length:10;} m_chord {offset:37; length:9;} concept_mus {offset:37; length:9;} concept_mus {offset:51; length:6;}">
+                <Coords points="102,690 692,686 673,665 102,665"/>
+                <Baseline points="107,682 136,682 165,682 194,682 223,682 252,682 281,683 310,683 339,683 368,683 397,683 426,683 455,683 484,682 513,682 542,682 571,682 600,682 629,682 658,682 687,683"/>
+                <TextEquiv>
+                    <Unicode>finden wir Mollstücke häufig mit dem Durklange der Tonika</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:3;}">
+                <Coords points="105,708 688,709 688,691 631,684 105,692"/>
+                <Baseline points="110,704 138,704 167,704 195,704 224,704 253,704 281,704 310,704 339,705 367,705 396,705 425,705 453,705 482,705 511,704 539,704 568,704 597,704 625,704 654,704 683,704"/>
+                <TextEquiv>
+                    <Unicode>schliessen, vor ihm geschah dieses sogar durchweg, ein Beweis,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:4;} concept_mus {offset:21; length:22;} concept_mus {offset:49; length:12;} m_chord {offset:49; length:12;}">
+                <Coords points="102,730 687,734 687,712 664,709 102,709"/>
+                <Baseline points="107,725 135,726 164,726 193,726 222,726 250,726 279,726 308,726 337,726 365,726 394,726 423,726 452,726 480,726 509,726 538,726 567,726 595,726 624,727 653,727 682,727"/>
+                <TextEquiv>
+                    <Unicode>dass in dem üblichen authentischen Schlusse (mit Durdominante)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:5;} m_chord {offset:4; length:9;} concept_mus {offset:4; length:9;} concept_mus {offset:18; length:9;} concept_mus {offset:40; length:9;} concept_phy {offset:40; length:9;}">
+                <Coords points="104,751 689,753 676,730 104,730"/>
+                <Baseline points="109,747 137,747 166,747 195,747 224,747 252,747 281,747 310,748 339,748 367,748 396,748 425,747 454,747 482,747 511,747 540,747 569,747 597,747 626,747 655,747 684,747"/>
+                <TextEquiv>
+                    <Unicode>der Mollklang als alteriert, mithin als dissonant gehört wurde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:6;} concept_mus {offset:32; length:13;} concept_mus {offset:46; length:11;}">
+                <Coords points="109,773 694,774 686,752 109,753"/>
+                <Baseline points="114,768 142,768 171,769 200,769 229,769 257,769 286,769 315,770 344,769 372,769 401,769 430,769 459,769 487,769 516,769 545,769 574,769 602,769 631,769 660,769 689,770"/>
+                <TextEquiv>
+                    <Unicode>Dieses instinktive Ablehnen des schliessenden Mollklanges stellt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:7;}">
+                <Coords points="105,795 666,799 692,795 692,773 105,774"/>
+                <Baseline points="110,789 138,790 167,790 196,790 225,790 254,790 283,790 311,790 340,790 369,790 398,790 427,790 456,790 485,790 513,790 542,790 571,790 600,790 629,790 658,790 687,790"/>
+                <TextEquiv>
+                    <Unicode>der Feinfühligkeit unserer Vorfahren das beste Zeugnis aus und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:8;} m_chord {offset:30; length:12;} m_tonality {offset:46; length:4;}">
+                <Coords points="102,818 695,816 695,798 631,794 102,796"/>
+                <Baseline points="107,812 136,812 165,812 194,812 223,812 252,812 281,812 311,812 340,812 369,812 398,812 427,812 456,812 485,812 515,812 544,812 573,812 602,812 631,812 660,812 690,812"/>
+                <TextEquiv>
+                    <Unicode>war wohl berechtigt; denn die Durdominante in Moll wies von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:9;} m_tonality {offset:34; length:12;} m_tonality {offset:47; length:8;}">
+                <Coords points="101,838 691,840 691,817 101,821"/>
+                <Baseline points="106,833 135,833 164,833 193,834 222,834 251,834 280,834 309,834 338,834 367,833 396,833 425,833 454,833 483,833 512,833 541,833 570,833 599,833 628,833 657,833 686,833"/>
+                <TextEquiv>
+                    <Unicode>selbst die Aufmerksamkeit auf die Wurzeltonart Basisdur und die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:10;} concept_phy {offset:0; length:11;} m_interval {offset:16; length:7;} m_interval {offset:34; length:8;}">
+                <Coords points="110,861 693,859 676,837 110,839"/>
+                <Baseline points="115,854 143,855 172,855 200,855 229,855 258,855 286,855 315,855 344,855 372,855 401,855 430,855 458,855 487,855 516,855 544,855 573,855 602,855 630,855 659,855 688,855"/>
+                <TextEquiv>
+                    <Unicode>Schwebungen der Durterz gegen die Mollterz hin. Später jedoch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:11;} m_chord {offset:39; length:15;}">
+                <Coords points="107,882 692,882 679,859 107,861"/>
+                <Baseline points="112,876 140,877 169,877 198,877 227,877 255,877 284,877 313,877 342,877 370,877 399,877 428,877 457,877 485,877 514,877 543,877 572,877 600,877 629,877 658,876 687,876"/>
+                <TextEquiv>
+                    <Unicode>hat sich immer mehr die Auffassung des Molldreiklanges als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:12;} concept_mus {offset:0; length:13;} concept_mus {offset:18; length:5;} m_chord {offset:24; length:9;}">
+                <Coords points="103,903 691,906 691,881 661,878 103,881"/>
+                <Baseline points="108,897 136,897 165,898 194,898 223,899 252,899 281,899 310,899 339,899 368,899 397,899 425,899 454,899 483,899 512,898 541,898 570,898 599,898 628,898 657,897 686,897"/>
+                <TextEquiv>
+                    <Unicode>Doppelklanges vom Typus A C e (g) befestigt, indem durch die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:13;} m_note {offset:24; length:1;} m_note {offset:30; length:8;}">
+                <Coords points="108,923 688,930 688,906 663,900 108,906"/>
+                <Baseline points="113,919 141,919 170,920 198,920 227,920 255,920 284,920 312,920 341,920 369,920 398,920 426,920 455,920 483,920 512,920 540,920 569,920 597,920 626,920 654,920 683,920"/>
+                <TextEquiv>
+                    <Unicode>unbewusste Erhebung des c zum Grundton ein Gegengewicht gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:14;} concept_mus {offset:22; length:5;} concept_phy {offset:58; length:11;}">
+                <Coords points="100,945 689,945 689,928 631,924 100,924"/>
+                <Baseline points="105,940 135,941 165,941 196,941 226,942 257,942 287,942 318,942 348,942 379,942 409,942 440,941 470,941 501,941 531,941 562,941 592,941 623,941 653,941 684,941"/>
+                <TextEquiv>
+                    <Unicode>die Vorherrschaft der Basis geschaffen wurde, so dass die Schwebungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:15;}">
+                <Coords points="103,970 680,971 692,947 103,950"/>
+                <Baseline points="108,962 138,962 168,963 199,963 229,963 260,963 290,963 321,963 351,963 382,963 412,963 443,963 473,963 504,963 534,963 565,963 595,962 626,962 656,962 687,962"/>
+                <TextEquiv>
+                    <Unicode>ohne besonders darauf gerichtete Aufmerksamkeit und Übung nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:16;}">
+                <Coords points="105,988 695,993 695,975 661,969 105,971"/>
+                <Baseline points="110,984 139,984 168,984 197,985 226,985 255,985 284,985 313,985 342,985 371,985 400,985 429,985 458,985 487,985 516,985 545,985 574,985 603,985 632,985 661,985 690,985"/>
+                <TextEquiv>
+                    <Unicode>mehr gehört werden. Wir haben also allen Grund zu glauben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:17;} textStyle {offset:9; length:16;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:30; length:9;} textStyle {offset:43; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="103,1010 695,1011 695,993 667,989 103,989"/>
+                <Baseline points="108,1005 137,1005 166,1005 195,1005 224,1005 253,1005 282,1006 311,1006 340,1006 369,1006 399,1006 428,1006 457,1006 486,1006 515,1006 544,1006 573,1006 602,1006 631,1005 660,1005 690,1005"/>
+                <TextEquiv>
+                    <Unicode>dass wir heute im Zweifel den Mollklang in dieser Form</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:18;} m_chord {offset:1; length:9;} concept_mus {offset:43; length:9;} concept_phy {offset:43; length:9;}">
+                <Coords points="102,1034 685,1032 685,1014 641,1008 102,1013"/>
+                <Baseline points="107,1028 135,1028 164,1028 192,1028 221,1028 250,1028 278,1027 307,1027 336,1027 364,1027 393,1027 422,1027 450,1027 479,1027 508,1027 536,1027 565,1027 594,1027 622,1027 651,1027 680,1026"/>
+                <TextEquiv>
+                    <Unicode>(A C e (g)), die der beste Ausdruck seiner Konsonanz ist und ihn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:19;} m_note {offset:13; length:3;} m_note {offset:21; length:8;} textStyle {offset:48; length:5;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="102,1057 697,1054 697,1036 663,1031 102,1034"/>
+                <Baseline points="107,1049 136,1049 165,1049 194,1049 224,1049 253,1050 282,1050 311,1050 341,1050 370,1050 399,1050 428,1050 458,1050 487,1050 516,1049 545,1049 575,1049 604,1049 633,1049 662,1049 692,1049"/>
+                <TextEquiv>
+                    <Unicode>den tiefsten Ton als Grundton lässt, vernehmen, sogar in dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:20;} concept_mus {offset:15; length:22;} concept_mus {offset:60; length:5; continued:true;}">
+                <Coords points="105,1078 646,1082 692,1074 692,1054 105,1057"/>
+                <Baseline points="110,1070 138,1070 167,1070 196,1070 225,1070 254,1070 283,1070 311,1070 340,1070 369,1070 398,1070 427,1070 456,1070 485,1070 513,1070 542,1070 571,1070 600,1070 629,1070 658,1069 687,1069"/>
+                <TextEquiv>
+                    <Unicode>gebräuchlichen authentischen Schlusse. Der wahre Effekt des Moll¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614860707477_5714" custom="readingOrder {index:21;} concept_mus {offset:0; length:7; continued:true;}">
+                <Coords points="106,1099 499,1092 582,1105 596,1078 106,1079"/>
+                <Baseline points="111,1091 136,1092 161,1092 186,1092 212,1092 237,1092 262,1092 287,1092 313,1092 338,1092 363,1092 388,1092 414,1092 439,1092 464,1092 489,1092 515,1092 540,1092 565,1092 591,1093"/>
+                <TextEquiv>
+                    <Unicode>klanges, krass dargestellt, ist also so wie in Fig. 44 (!).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Im Laufe der Zeit hat sich ein merkwürdiger Umschwung&#13;
+in der Auffassung des Molldreiklanges vollzogen. Noch bei Bach&#13;
+finden wir Mollstücke häufig mit dem Durklange der Tonika&#13;
+schliessen, vor ihm geschah dieses sogar durchweg, ein Beweis,&#13;
+dass in dem üblichen authentischen Schlusse (mit Durdominante)&#13;
+der Mollklang als alteriert, mithin als dissonant gehört wurde.&#13;
+Dieses instinktive Ablehnen des schliessenden Mollklanges stellt&#13;
+der Feinfühligkeit unserer Vorfahren das beste Zeugnis aus und&#13;
+war wohl berechtigt; denn die Durdominante in Moll wies von&#13;
+selbst die Aufmerksamkeit auf die Wurzeltonart Basisdur und die&#13;
+Schwebungen der Durterz gegen die Mollterz hin. Später jedoch&#13;
+hat sich immer mehr die Auffassung des Molldreiklanges als&#13;
+Doppelklanges vom Typus A C e (g) befestigt, indem durch die&#13;
+unbewusste Erhebung des c zum Grundton ein Gegengewicht gegen&#13;
+die Vorherrschaft der Basis geschaffen wurde, so dass die Schwebungen&#13;
+ohne besonders darauf gerichtete Aufmerksamkeit und Übung nicht&#13;
+mehr gehört werden. Wir haben also allen Grund zu glauben,&#13;
+dass wir heute im Zweifel den Mollklang in dieser Form&#13;
+(A C e (g)), die der beste Ausdruck seiner Konsonanz ist und ihn&#13;
+den tiefsten Ton als Grundton lässt, vernehmen, sogar in dem&#13;
+gebräuchlichen authentischen Schlusse. Der wahre Effekt des Moll¬&#13;
+klanges, krass dargestellt, ist also so wie in Fig. 44 (!).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614860707391_5710" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
+            <Coords points="105,1099 692,1099 692,1145 105,1145"/>
+            <TextLine id="line_1614860707477_5715" custom="readingOrder {index:0;} textStyle {offset:53; length:6;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="154,1122 677,1121 691,1100 153,1098"/>
+                <Baseline points="159,1113 185,1113 211,1113 238,1113 264,1113 290,1113 317,1113 343,1113 369,1113 396,1113 422,1113 448,1113 475,1113 501,1113 527,1113 554,1112 580,1112 606,1112 633,1112 659,1112 686,1112"/>
+                <TextEquiv>
+                    <Unicode>Damit haben wir alles Rüstzeug für die Erklärung des ästhe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:1;} textStyle {offset:0; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:22; length:11;}">
+                <Coords points="106,1146 696,1141 696,1122 665,1117 106,1117"/>
+                <Baseline points="111,1135 140,1135 169,1135 198,1135 227,1135 256,1135 285,1135 314,1135 343,1135 372,1135 401,1135 430,1135 459,1135 488,1135 517,1135 546,1135 575,1135 604,1135 633,1135 662,1134 691,1134"/>
+                <TextEquiv>
+                    <Unicode>tischen Eindrucks des Mollklanges zusammen. Sein mystischer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Damit haben wir alles Rüstzeug für die Erklärung des ästhe¬
+tischen Eindrucks des Mollklanges zusammen. Sein mystischer</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-03T13:14:48.837+01:00</Created>
+        <LastChange>2021-08-23T19:03:15.244+02:00</LastChange>
+        <TranskribusMetadata docId="747636" pageId="28294036" pageNr="24" tsid="63158455" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=TOVQLXWSTQBELYTFNEPFRLGI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IVPBSXYIHPBJAAAIJPIIJYOV" imageId="22038965"/>
+    </Metadata>
+    <Page imageFilename="Capellen-24.jpg" imageWidth="721" imageHeight="1298" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630498500642" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614857749785_3426"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1614857765199_3433"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1614857765199_3432"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614857727575_3419"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1614857719395_3411"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614857749785_3426" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="101,113 690,113 690,142 101,142"/>
+            <TextLine id="line_1614857749810_3429" custom="readingOrder {index:0;}">
+                <Coords points="373,140 383,139 386,142 391,143 406,142 413,134 424,134 424,121 414,121 409,117 404,117 397,110 395,111 392,108 385,108 379,114 372,114"/>
+                <Baseline points="378,134 419,133"/>
+                <TextEquiv>
+                    <Unicode>20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>20</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614857765199_3433" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="101,142 690,142 690,487 101,487"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} concept_mus {offset:0; length:11;} work_text {offset:57; length:3; continued:true;ID:W0011;}">
+                <Coords points="106,184 661,185 688,179 688,153 106,156"/>
+                <Baseline points="111,175 139,175 168,175 196,175 225,175 254,175 282,175 311,175 339,175 368,175 397,175 425,175 454,176 482,176 511,176 540,176 568,176 597,176 625,176 654,176 683,176"/>
+                <TextEquiv>
+                    <Unicode>musikalisch verstanden werden kann, und ebenso in seiner Ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} work_text {offset:0; length:25; continued:true;ID:W0011;}">
+                <Coords points="106,201 687,203 668,181 106,184"/>
+                <Baseline points="111,198 139,198 168,197 196,197 225,197 253,197 282,197 310,197 339,197 367,197 396,197 425,197 453,197 482,197 510,198 539,198 567,198 596,198 624,198 653,198 682,198"/>
+                <TextEquiv>
+                    <Unicode>schichte der Musiktheorie S. 472 bemerkt, dass die Versuche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} person_author {offset:0; length:8;ID:P0023;} m_interval {offset:14; length:18;}">
+                <Coords points="102,224 686,226 686,204 666,202 102,201"/>
+                <Baseline points="107,218 135,218 164,218 193,218 221,218 250,218 279,218 307,218 336,218 365,218 394,218 422,218 451,218 480,218 508,218 537,219 566,219 594,219 623,220 652,220 681,221"/>
+                <TextEquiv>
+                    <Unicode>Tartinis, die natürliche Septime als selbständiges Element in die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} concept_mus {offset:0; length:5;}">
+                <Coords points="101,244 691,251 691,230 652,221 102,224"/>
+                <Baseline points="106,239 135,239 164,240 193,240 222,240 251,240 280,240 309,240 338,240 367,240 396,240 425,240 454,240 483,240 512,240 541,240 570,240 599,241 628,241 657,241 686,241"/>
+                <TextEquiv>
+                    <Unicode>Musik einzuführen, höchst beachtenswert seien, da die Möglichkeit,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} m_interval {offset:4; length:18;} textStyle {offset:27; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:48; length:10;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="99,266 683,271 677,247 99,245"/>
+                <Baseline points="104,260 132,261 161,261 190,261 218,261 247,261 276,261 304,262 333,262 362,262 391,262 419,262 448,262 477,262 505,263 534,263 563,263 591,263 620,263 649,263 678,263"/>
+                <TextEquiv>
+                    <Unicode>die natürliche Septime als solche zu verstehen, keineswegs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} person_author {offset:28; length:7;ID:P0017;}">
+                <Coords points="106,290 691,287 651,265 106,268"/>
+                <Baseline points="111,283 139,283 168,283 197,283 226,283 254,283 283,283 312,283 341,283 369,283 398,283 427,283 456,283 484,283 513,283 542,283 571,283 599,283 628,283 657,283 686,283"/>
+                <TextEquiv>
+                    <Unicode>von der Hand zu weisen sei. Riemann führt selbst als Gewährs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} person_author {offset:7; length:9;ID:P0001;} work_text {offset:18; length:15;ID:W0001;} person_author {offset:52; length:7;ID:P0070;}">
+                <Coords points="98,308 683,316 683,288 98,293"/>
+                <Baseline points="103,305 131,305 160,305 189,305 218,305 246,305 275,305 304,305 333,305 361,305 390,305 419,305 448,305 476,305 505,305 534,305 563,305 591,305 620,305 649,305 678,305"/>
+                <TextEquiv>
+                    <Unicode>männer Helmholtz (Tonempfindungen 4. Aufl. S. 555), Chladni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} work_text {offset:1; length:7;ID:W0076;} person_author {offset:16; length:7;ID:P0051;} work_text {offset:25; length:40;ID:W0077;}">
+                <Coords points="99,332 682,332 664,310 99,310"/>
+                <Baseline points="104,326 132,326 161,326 189,326 218,326 247,326 275,326 304,326 333,326 361,326 390,326 419,326 447,326 476,326 505,326 533,326 562,326 591,326 619,326 648,327 677,327"/>
+                <TextEquiv>
+                    <Unicode>(Akustik S. 28) Marpurg (Versuch über die musikalische Temperatur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} person_author {offset:15; length:10;ID:P0036;} work_text {offset:60; length:8; continued:true;ID:W0009;}">
+                <Coords points="99,356 685,354 685,332 643,330 99,332"/>
+                <Baseline points="104,348 132,348 161,348 190,348 219,347 248,347 276,348 305,348 334,348 363,348 392,348 420,348 449,348 478,348 507,348 536,348 564,348 593,348 622,348 651,348 680,347"/>
+                <TextEquiv>
+                    <Unicode>S. 52 ff.) und Kirnberger an. Auf der gleichen Seite seiner Problem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;} work_text {offset:0; length:7; continued:true;ID:W0009;} person_author {offset:16; length:7;ID:P0017;} m_note {offset:36; length:1;} m_chord {offset:41; length:7;}">
+                <Coords points="99,375 691,377 691,358 644,352 99,356"/>
+                <Baseline points="104,370 133,370 162,370 191,370 220,370 249,369 278,370 307,370 336,370 365,370 395,370 424,370 453,370 482,370 511,370 540,370 569,370 598,370 627,370 656,370 686,370"/>
+                <TextEquiv>
+                    <Unicode>schrift erklärt Riemann dagegen das b in c e g b als „tatsächlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;} textStyle {offset:3; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_phy {offset:3; length:8;} m_note {offset:16; length:1;} m_note {offset:44; length:1;}">
+                <Coords points="99,394 691,396 660,373 99,375"/>
+                <Baseline points="104,390 133,391 162,391 191,391 220,391 249,391 278,391 307,391 336,391 365,391 395,391 424,391 453,391 482,391 511,391 540,391 569,391 598,391 627,391 656,391 686,391"/>
+                <TextEquiv>
+                    <Unicode>9. Unterton von c oder einfacher als 3. von f, dem eigentlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;} m_note {offset:0; length:11;} work_text {offset:54; length:9; continued:true;ID:W0034;}">
+                <Coords points="96,416 685,420 668,395 96,396"/>
+                <Baseline points="101,412 131,412 161,412 192,412 222,412 253,412 283,412 314,412 344,412 375,412 405,412 436,412 466,412 497,412 527,412 558,412 588,412 619,412 649,413 680,413"/>
+                <TextEquiv>
+                    <Unicode>Zentraltone”, und entsprechend heisst es S. 65 seiner Harmonie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;} work_text {offset:0; length:5; continued:true;ID:W0034;} m_chord {offset:10; length:7;} m_chord {offset:18; length:7;} concept_mus {offset:43; length:11;} m_tonality {offset:59; length:4; continued:true;}">
+                <Coords points="98,439 691,442 691,425 657,417 98,417"/>
+                <Baseline points="103,433 132,433 161,434 190,434 219,434 248,434 277,434 307,434 336,434 365,434 394,434 423,434 452,434 481,434 511,434 540,434 569,434 598,434 627,434 656,435 686,435"/>
+                <TextEquiv>
+                    <Unicode>lehre vom Akkorde g h d f: „Im Sinne der 3 Hauptklänge der Ton¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;} m_tonality {offset:0; length:3; continued:true;} concept_mus {offset:27; length:13;} concept_mus {offset:56; length:6; continued:true;}">
+                <Coords points="99,460 684,464 684,442 646,437 99,440"/>
+                <Baseline points="104,455 132,455 161,455 190,455 219,455 247,455 276,455 305,455 334,455 362,455 391,455 420,455 449,455 477,455 506,455 535,455 564,456 592,456 621,456 650,456 679,456"/>
+                <TextEquiv>
+                    <Unicode>art aufgefasst, ist er der Zusammenklang des schlichten Quint¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;} concept_mus {offset:0; length:7; continued:true;} concept_mus {offset:19; length:9;} concept_mus {offset:38; length:10;} m_note {offset:50; length:1;}">
+                <Coords points="106,490 580,485 568,460 106,460"/>
+                <Baseline points="111,477 136,477 162,478 188,478 214,478 239,478 265,478 291,477 317,477 343,477 368,477 394,477 420,477 446,478 471,478 497,478 523,478 549,478 575,478"/>
+                <TextEquiv>
+                    <Unicode>klanges (d. i. der Dominante) mit der Gegenquint (f):</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>musikalisch verstanden werden kann, und ebenso in seiner Ge¬&#13;
+schichte der Musiktheorie S. 472 bemerkt, dass die Versuche&#13;
+Tartinis, die natürliche Septime als selbständiges Element in die&#13;
+Musik einzuführen, höchst beachtenswert seien, da die Möglichkeit,&#13;
+die natürliche Septime als solche zu verstehen, keineswegs&#13;
+von der Hand zu weisen sei. Riemann führt selbst als Gewährs¬&#13;
+männer Helmholtz (Tonempfindungen 4. Aufl. S. 555), Chladni&#13;
+(Akustik S. 28) Marpurg (Versuch über die musikalische Temperatur&#13;
+S. 52 ff.) und Kirnberger an. Auf der gleichen Seite seiner Problem¬&#13;
+schrift erklärt Riemann dagegen das b in c e g b als „tatsächlichen&#13;
+9. Unterton von c oder einfacher als 3. von f, dem eigentlichen&#13;
+Zentraltone”, und entsprechend heisst es S. 65 seiner Harmonie¬&#13;
+lehre vom Akkorde g h d f: „Im Sinne der 3 Hauptklänge der Ton¬&#13;
+art aufgefasst, ist er der Zusammenklang des schlichten Quint¬&#13;
+klanges (d. i. der Dominante) mit der Gegenquint (f):</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614857765199_3432" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="101,487 690,487 690,586 101,586"/>
+            <TextLine id="line_1614857830961_3492" custom="readingOrder {index:0;} m_chord {offset:16; length:11;} m_chord {offset:28; length:9;}">
+                <Coords points="145,523 669,528 683,525 683,491 583,508 462,494 145,501"/>
+                <Baseline points="150,520 174,519 185,519 195,519 205,520 233,517 275,522 324,521 336,523 363,521 390,521 417,520 443,520 469,520 495,520 521,520 547,521 573,521 599,521 625,521 651,521 678,520"/>
+                <TextEquiv>
+                    <Unicode>$$GRAPHIC.” Der Nonenakkord g h d f a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:1;} person_author {offset:10; length:7;ID:P0017;} work_text {offset:19; length:13;ID:W0034;} concept_mus {offset:41; length:13;} m_chord {offset:59; length:4; continued:true;}">
+                <Coords points="99,550 691,546 677,525 99,524"/>
+                <Baseline points="104,542 133,542 162,542 191,542 220,542 249,542 278,542 307,542 336,542 365,542 395,542 424,542 453,542 482,543 511,543 540,543 569,543 598,543 627,542 656,542 686,542"/>
+                <TextEquiv>
+                    <Unicode>soll nach Riemann (Harmonielehre S. 78) „Zusammenklang des Dur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:2;} m_chord {offset:0; length:15; continued:true;} m_chord {offset:16; length:9;} m_chord {offset:34; length:20;} m_chord {offset:55; length:9;}">
+                <Coords points="101,578 693,570 693,548 101,552"/>
+                <Baseline points="106,563 135,563 164,563 193,563 222,563 251,563 280,563 309,563 338,563 367,563 397,563 426,563 455,563 484,563 513,563 542,563 571,564 600,564 629,564 658,564 688,564"/>
+                <TextEquiv>
+                    <Unicode>septimenakkords $$GRAPHIC und des Mollseptimenakkordes $$GRAPHIC” sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>$$GRAPHIC.” Der Nonenakkord g h d f a&#13;
+soll nach Riemann (Harmonielehre S. 78) „Zusammenklang des Dur¬&#13;
+septimenakkords $$GRAPHIC und des Mollseptimenakkordes $$GRAPHIC” sein.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614857727575_3419" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="101,586 690,586 690,826 101,826"/>
+            <TextLine id="line_1614857727601_3422" custom="readingOrder {index:0;}">
+                <Coords points="144,605 686,612 686,585 668,581 144,582"/>
+                <Baseline points="149,600 175,601 202,601 228,601 255,601 282,601 308,602 335,602 361,602 388,602 415,602 441,602 468,602 494,602 521,602 548,602 574,602 601,602 627,602 654,603 681,603"/>
+                <TextEquiv>
+                    <Unicode>Wer wird diese gezwungenen Deutungen ohne Staunen hin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:1;} m_interval {offset:24; length:7;} m_interval {offset:36; length:4;} concept_mus {offset:45; length:10;}">
+                <Coords points="101,629 692,634 692,611 633,606 101,610"/>
+                <Baseline points="106,623 135,623 164,623 193,623 222,623 251,623 280,623 309,623 338,623 367,623 396,623 425,623 454,623 483,623 512,623 541,623 570,623 599,624 628,624 657,624 687,624"/>
+                <TextEquiv>
+                    <Unicode>nehmen? Ich frage: Wenn Septime und None des Durklanges</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:2;} textStyle {offset:4; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:12; length:10;} concept_mus {offset:27; length:9;}">
+                <Coords points="98,651 646,654 684,650 684,630 98,634"/>
+                <Baseline points="103,645 131,645 160,645 189,645 218,645 247,645 275,645 304,645 333,645 362,645 391,645 419,645 448,645 477,645 506,645 535,645 563,645 592,645 621,645 650,645 679,645"/>
+                <TextEquiv>
+                    <Unicode>als direkte Bezugstöne der Dominante gehört werden (was un¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:3;} m_interval {offset:53; length:7;}">
+                <Coords points="99,670 685,675 685,650 99,649"/>
+                <Baseline points="104,666 132,666 161,666 190,666 219,666 248,667 276,667 305,667 334,667 363,667 392,667 420,667 449,667 478,667 507,667 536,667 564,667 593,668 622,668 651,668 680,668"/>
+                <TextEquiv>
+                    <Unicode>bestreitbar ist), wie könnte das der Fall sein, wenn Septime und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:4;} m_interval {offset:0; length:4;} textStyle {offset:32; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:32; length:10;}">
+                <Coords points="100,693 691,692 691,674 662,671 100,671"/>
+                <Baseline points="105,688 134,688 163,688 192,688 221,688 250,688 279,688 308,688 337,688 366,688 395,688 424,688 453,688 482,688 511,689 540,689 569,689 598,689 627,689 656,688 686,688"/>
+                <TextEquiv>
+                    <Unicode>None bloss anderweit hergeholte Zusatztöne sind, die mit der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:5;} concept_mus {offset:0; length:9;} concept_mus {offset:36; length:12;}">
+                <Coords points="101,714 688,715 678,693 101,693"/>
+                <Baseline points="106,709 134,710 163,710 192,710 221,710 250,710 279,710 307,710 336,710 365,710 394,710 423,710 452,710 481,710 509,710 538,710 567,710 596,710 625,710 654,711 683,711"/>
+                <TextEquiv>
+                    <Unicode>Dominante in gar keinem organischen Zusammenhang stehen?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:6;} m_chord {offset:22; length:9;} m_chord {offset:41; length:7;} textStyle {offset:50; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="101,738 691,737 691,718 670,715 101,714"/>
+                <Baseline points="106,731 135,731 164,731 193,731 222,731 251,731 280,731 309,731 338,731 367,731 396,731 425,732 454,732 483,732 512,732 541,732 570,732 599,732 628,732 657,732 686,732"/>
+                <TextEquiv>
+                    <Unicode>Ganz gewiss ist nicht g h d | f, sondern G h d f (ohne Trennungs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:7;} m_chord {offset:43; length:22;}">
+                <Coords points="100,757 675,761 684,737 100,741"/>
+                <Baseline points="105,753 133,753 162,753 191,753 219,753 248,753 277,753 305,753 334,753 363,753 392,753 420,753 449,753 478,753 506,753 535,753 564,753 592,753 621,753 650,754 679,754"/>
+                <TextEquiv>
+                    <Unicode>strich!) die richtige Schreibweise für den Dominantseptimenakkord.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:8;} person_author {offset:16; length:9;ID:P0007;} person_author {offset:34; length:12;ID:P0018;} m_note {offset:52; length:1;}">
+                <Coords points="106,779 684,779 684,760 652,758 106,758"/>
+                <Baseline points="111,774 139,775 167,775 196,775 224,775 253,775 281,775 309,775 338,775 366,775 395,775 423,775 451,775 480,775 508,775 537,775 565,775 593,775 622,775 650,776 679,776"/>
+                <TextEquiv>
+                    <Unicode>Die Annahme von Hauptmann und von v. Oettingen, das f sei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:9;} m_note {offset:0; length:8;} m_chord {offset:21; length:12;} textStyle {offset:21; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} textStyle {offset:50; length:5;fontSize:0.0; kerning:0; letterSpaced:true;} m_note {offset:56; length:1;} m_note {offset:58; length:5; continued:true;}">
+                <Coords points="107,802 685,800 685,784 641,776 107,779"/>
+                <Baseline points="112,796 140,796 168,796 197,796 225,796 254,796 282,796 310,796 339,796 367,796 396,796 424,796 452,796 481,796 509,796 538,796 566,796 594,796 623,796 651,796 680,796"/>
+                <TextEquiv>
+                    <Unicode>Grundton, ist nur im Nonenakkorde gerechtfertigt, falls f Bass¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614857719431_3415" custom="readingOrder {index:10;} m_note {offset:0; length:3; continued:true;} concept_mus {offset:16; length:7;} m_chord {offset:24; length:17;}">
+                <Coords points="105,826 640,832 688,827 688,798 105,807"/>
+                <Baseline points="110,818 138,818 167,818 195,818 224,817 253,818 281,818 310,818 339,818 367,818 396,818 425,818 453,818 482,818 511,818 539,818 568,818 597,818 625,818 654,818 683,818"/>
+                <TextEquiv>
+                    <Unicode>ton ist und die Analyse G h d F (♭) a (c) nahegelegt wird (Fig. 22).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wer wird diese gezwungenen Deutungen ohne Staunen hin¬&#13;
+nehmen? Ich frage: Wenn Septime und None des Durklanges&#13;
+als direkte Bezugstöne der Dominante gehört werden (was un¬&#13;
+bestreitbar ist), wie könnte das der Fall sein, wenn Septime und&#13;
+None bloss anderweit hergeholte Zusatztöne sind, die mit der&#13;
+Dominante in gar keinem organischen Zusammenhang stehen?&#13;
+Ganz gewiss ist nicht g h d | f, sondern G h d f (ohne Trennungs¬&#13;
+strich!) die richtige Schreibweise für den Dominantseptimenakkord.&#13;
+Die Annahme von Hauptmann und von v. Oettingen, das f sei&#13;
+Grundton, ist nur im Nonenakkorde gerechtfertigt, falls f Bass¬&#13;
+ton ist und die Analyse G h d F (♭) a (c) nahegelegt wird (Fig. 22).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614857719395_3411" custom="readingOrder {index:4;} structure {type:paragraph-continued;}">
+            <Coords points="101,826 690,826 690,1134 101,1134"/>
+            <TextLine id="line_1614857719431_3416" custom="readingOrder {index:0;} person_author {offset:36; length:7;ID:P0017;} person_author {offset:48; length:6;ID:P0005;}">
+                <Coords points="152,849 690,850 690,832 625,826 152,825"/>
+                <Baseline points="157,843 183,843 209,843 236,843 262,843 289,843 315,843 341,843 368,843 394,843 421,843 447,843 473,843 500,843 526,843 553,843 579,843 605,843 632,843 658,844 685,844"/>
+                <TextEquiv>
+                    <Unicode>Nicht weniger verkehrt ist es, wenn Riemann mit Rameau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:1;} person_author {offset:4; length:9;ID:P0007;} textStyle {offset:20; length:32;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:20; length:8;} m_interval {offset:47; length:5;}">
+                <Coords points="106,872 692,875 692,851 635,848 106,850"/>
+                <Baseline points="111,866 139,865 168,865 197,865 226,865 255,865 283,865 312,865 341,865 370,865 399,865 427,866 456,866 485,866 514,866 543,866 571,866 600,866 629,866 658,866 687,866"/>
+                <TextEquiv>
+                    <Unicode>und Hauptmann einen Durklang mit hinzugefügter Sexte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:2;} concept_mus {offset:1; length:13;} m_interval {offset:53; length:5;} concept_mus {offset:59; length:3; continued:true;}">
+                <Coords points="105,895 688,892 688,873 659,870 105,871"/>
+                <Baseline points="110,888 138,888 167,887 195,887 224,887 253,887 281,887 310,887 339,887 367,887 396,887 425,887 453,887 482,887 511,887 539,887 568,887 597,886 625,886 654,886 683,885"/>
+                <TextEquiv>
+                    <Unicode>(sixte ajoutée) in der Weise konstruiert, dass diese Sexte be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:3;} concept_mus {offset:0; length:13; continued:true;} m_note {offset:14; length:9;} m_chord {offset:28; length:10;}">
+                <Coords points="105,914 670,917 689,915 689,892 105,895"/>
+                <Baseline points="110,909 138,908 167,908 196,908 224,908 253,908 282,908 310,908 339,908 368,908 397,908 425,908 454,908 483,908 511,908 540,908 569,908 597,908 626,908 655,908 684,908"/>
+                <TextEquiv>
+                    <Unicode>ziehungsloser Zusatzton zum Dreiklange, also gewissermassen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:4;} person_author {offset:21; length:6;ID:P0005;} person_author {offset:32; length:9;ID:P0007;}">
+                <Coords points="109,938 686,936 686,917 659,913 109,916"/>
+                <Baseline points="114,931 142,931 170,930 199,930 227,930 255,930 284,930 312,930 340,930 369,930 397,931 425,931 454,931 482,931 510,931 539,931 567,931 595,930 624,930 652,930 681,930"/>
+                <TextEquiv>
+                    <Unicode>angeklebt sein soll. Rameau und Hauptmann haben richtig er¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:5;} m_chord {offset:15; length:7;} m_tonality {offset:26; length:5;} concept_mus {offset:38; length:10;} textStyle {offset:49; length:12;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="100,957 692,958 692,936 671,934 100,934"/>
+                <Baseline points="105,951 134,951 163,951 192,951 221,951 250,951 279,951 308,951 337,951 366,951 396,951 425,951 454,951 483,951 512,951 541,951 570,952 599,952 628,952 657,952 687,952"/>
+                <TextEquiv>
+                    <Unicode>kannt, dass in f a c d in C dur beide Dominanten gleichzeitig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:6;} concept_mus {offset:0; length:9;} m_chord {offset:55; length:6;}">
+                <Coords points="104,978 627,981 691,978 691,958 104,959"/>
+                <Baseline points="109,972 137,972 166,973 195,973 224,973 253,973 282,973 310,973 339,973 368,973 397,973 426,973 455,973 484,973 512,973 541,973 570,972 599,972 628,972 657,972 686,973"/>
+                <TextEquiv>
+                    <Unicode>vertreten sind. Nun wohl, so ist also der vollständige Akkord</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:7;} concept_mus {offset:4; length:11;} m_chord {offset:16; length:13;} m_note {offset:56; length:3;} m_note {offset:60; length:1;}">
+                <Coords points="106,1003 693,1000 679,976 106,978"/>
+                <Baseline points="111,994 139,995 168,995 197,995 226,995 255,995 284,995 312,995 341,994 370,994 399,994 428,994 457,994 486,994 514,994 543,994 572,994 601,994 630,995 659,995 688,996"/>
+                <TextEquiv>
+                    <Unicode>der Doppelklang (G h) d F a c, in welchem nicht nur der Ton d,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:8;} concept_mus {offset:17; length:9;} m_chord {offset:27; length:5;} concept_mus {offset:37; length:9;}">
+                <Coords points="110,1021 598,1029 686,1022 695,1002 110,1005"/>
+                <Baseline points="115,1017 143,1016 172,1016 201,1016 230,1016 258,1016 287,1016 316,1016 345,1016 373,1016 402,1016 431,1016 460,1016 488,1016 517,1016 546,1016 575,1016 603,1016 632,1016 661,1016 690,1016"/>
+                <TextEquiv>
+                    <Unicode>sondern auch der Teilklang d f a die Dominante vertritt, vgl. Fig. 23!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:9;} person_author {offset:22; length:10;ID:P0005;} m_chord {offset:33; length:10;} textStyle {offset:52; length:7;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:52; length:7; continued:true;}">
+                <Coords points="102,1043 685,1042 685,1028 616,1020 102,1021"/>
+                <Baseline points="107,1038 135,1038 164,1038 192,1038 221,1038 250,1038 278,1038 307,1038 336,1038 364,1038 393,1038 422,1038 450,1038 479,1038 508,1038 536,1038 565,1038 594,1038 622,1038 651,1038 680,1038"/>
+                <TextEquiv>
+                    <Unicode>Folglich ist auch der Rameausche Sextakkord auf den Terzen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:10;} textStyle {offset:0; length:3;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:3; continued:true;} concept_phy {offset:8; length:11;} person_author {offset:50; length:7;ID:P0017;}">
+                <Coords points="102,1066 688,1066 673,1042 102,1043"/>
+                <Baseline points="107,1059 135,1058 164,1058 193,1058 222,1058 251,1059 279,1059 308,1059 337,1059 366,1059 395,1059 423,1059 452,1059 481,1059 510,1059 539,1059 567,1059 596,1059 625,1059 654,1058 683,1058"/>
+                <TextEquiv>
+                    <Unicode>bau der Naturklänge zurückzuführen (!). Dass auch Riemann die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l47" custom="readingOrder {index:11;} m_note {offset:16; length:1;} work_text {offset:60; length:5; continued:true;ID:W0074;}">
+                <Coords points="102,1087 649,1090 686,1085 686,1066 102,1067"/>
+                <Baseline points="107,1080 135,1080 164,1081 193,1081 221,1081 250,1081 279,1081 307,1080 336,1080 365,1080 394,1080 422,1080 451,1080 480,1080 508,1080 537,1080 566,1080 594,1081 623,1081 652,1081 681,1081"/>
+                <TextEquiv>
+                    <Unicode>wahre Natur des d ahnt, erhellt aus seiner Äusserung in der kurz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l48" custom="readingOrder {index:12;} work_text {offset:0; length:23; continued:true;ID:W0074;} concept_mus {offset:36; length:12;} textStyle {offset:53; length:9;fontSize:0.0; kerning:0; letterSpaced:true;} m_interval {offset:53; length:5;}">
+                <Coords points="102,1109 648,1112 693,1106 693,1090 102,1092"/>
+                <Baseline points="107,1103 136,1103 165,1103 194,1103 223,1103 252,1103 281,1103 310,1103 339,1103 368,1103 397,1103 426,1103 455,1103 484,1103 513,1103 542,1103 571,1103 600,1103 629,1103 658,1103 688,1103"/>
+                <TextEquiv>
+                    <Unicode>gefassten Harmonielehre (X): „Durch Anticipation der Quint der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l49" custom="readingOrder {index:13;} textStyle {offset:0; length:13;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:13;} concept_mus {offset:18; length:14;} m_tonality {offset:45; length:5;}">
+                <Coords points="103,1132 685,1135 685,1110 668,1107 103,1109"/>
+                <Baseline points="108,1124 136,1124 165,1124 193,1124 222,1124 251,1124 279,1124 308,1124 336,1124 365,1124 394,1124 422,1124 451,1124 479,1124 508,1124 537,1124 565,1124 594,1124 622,1124 651,1124 680,1124"/>
+                <TextEquiv>
+                    <Unicode>Oberdominante zur Unterdominante entsteht in C dur der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nicht weniger verkehrt ist es, wenn Riemann mit Rameau&#13;
+und Hauptmann einen Durklang mit hinzugefügter Sexte&#13;
+(sixte ajoutée) in der Weise konstruiert, dass diese Sexte be¬&#13;
+ziehungsloser Zusatzton zum Dreiklange, also gewissermassen&#13;
+angeklebt sein soll. Rameau und Hauptmann haben richtig er¬&#13;
+kannt, dass in f a c d in C dur beide Dominanten gleichzeitig&#13;
+vertreten sind. Nun wohl, so ist also der vollständige Akkord&#13;
+der Doppelklang (G h) d F a c, in welchem nicht nur der Ton d,&#13;
+sondern auch der Teilklang d f a die Dominante vertritt, vgl. Fig. 23!&#13;
+Folglich ist auch der Rameausche Sextakkord auf den Terzen¬&#13;
+bau der Naturklänge zurückzuführen (!). Dass auch Riemann die&#13;
+wahre Natur des d ahnt, erhellt aus seiner Äusserung in der kurz¬&#13;
+gefassten Harmonielehre (X): „Durch Anticipation der Quint der&#13;
+Oberdominante zur Unterdominante entsteht in C dur der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

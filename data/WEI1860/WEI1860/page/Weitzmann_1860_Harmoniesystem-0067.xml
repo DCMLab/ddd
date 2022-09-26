@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-19T15:11:51.093+01:00</Created>
+        <LastChange>2021-08-17T12:19:15.604+02:00</LastChange>
+        <TranskribusMetadata docId="738834" pageId="28121577" pageNr="67" tsid="62686067" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=YDRVHZECXNHJPAHKDGVHJLYH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FNUPPBVZWBGXUZCNVBMDBOPI" imageId="21904947"/>
+    </Metadata>
+    <Page imageFilename="Weitzmann_1860_Harmoniesystem-0067.jpg" imageWidth="1359" imageHeight="2170" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630573947522" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614168838283_2170"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1614168835308_2165"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614168825923_2159"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614168838283_2170" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="188,200 1203,200 1203,244 188,244"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="663,235 726,234 727,199 721,198 713,189 684,188 679,189 671,196 665,196"/>
+                <Baseline points="670,222 695,225 720,224"/>
+                <TextEquiv>
+                    <Unicode>52</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>52</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614168889207_2186" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="188,244 1203,244 1203,501 188,501"/>
+        </MusicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614168835308_2165" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="188,501 1203,501 1203,715 188,715"/>
+            <TextLine id="r1l15" custom="readingOrder {index:0;} concept_mus {offset:16; length:5;} textStyle {offset:34; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:34; length:10;}">
+                <Coords points="203,550 1203,546 1203,510 1152,501 203,500"/>
+                <Baseline points="209,534 258,535 307,535 357,535 406,535 456,535 505,535 554,535 604,536 653,536 703,536 752,536 801,536 851,536 900,536 950,537 999,537 1048,537 1098,538 1147,538 1197,539"/>
+                <TextEquiv>
+                    <Unicode>so bildet diese Folge zwar keinen Schlußfall, wol aber einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:1;} textStyle {offset:0; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:10;} concept_mus {offset:12; length:13;} m_chord {offset:26; length:10;} m_chord {offset:51; length:7;}">
+                <Coords points="205,587 1207,586 1185,548 205,549"/>
+                <Baseline points="211,577 260,577 310,577 359,577 409,577 458,577 508,577 557,577 607,578 656,578 706,578 755,578 805,579 854,579 904,579 953,579 1003,579 1052,579 1102,579 1151,579 1201,578"/>
+                <TextEquiv>
+                    <Unicode>Einschnitt. Terzverwandte Dreiklänge aber, wie der A moll-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:2;} m_chord {offset:4; length:6;} m_chord {offset:21; length:7;} m_chord {offset:33; length:15;}">
+                <Coords points="204,628 1204,631 1173,588 204,595"/>
+                <Baseline points="210,618 259,618 308,618 358,618 407,618 457,618 506,618 555,618 605,618 654,619 704,619 753,619 802,620 852,620 901,620 951,621 1000,621 1049,622 1099,622 1148,623 1198,623"/>
+                <TextEquiv>
+                    <Unicode>und C dur-, oder der E moll- und C dur-Dreiklang, erweisen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:3;} concept_mus {offset:16; length:10;} m_chord {offset:27; length:7;} concept_mus {offset:45; length:5;}">
+                <Coords points="208,674 1062,683 1202,674 1203,631 208,628"/>
+                <Baseline points="214,661 263,661 312,661 361,661 410,661 459,661 508,661 557,662 606,662 655,662 705,662 754,662 803,663 852,663 901,663 950,663 999,663 1048,664 1097,664 1146,664 1196,664"/>
+                <TextEquiv>
+                    <Unicode>sich als so eng verbundene Accorde, daß ihre Folge nicht einmal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614168828330_2162" custom="readingOrder {index:4;} concept_mus {offset:19; length:5;}">
+                <Coords points="199,715 836,715 836,685 767,668 199,676"/>
+                <Baseline points="205,704 236,704 267,704 298,703 330,703 361,703 392,703 423,703 455,704 486,704 517,704 548,704 580,704 611,705 642,705 673,705 705,705 736,704 767,704 798,704 830,703"/>
+                <TextEquiv>
+                    <Unicode>den Eindruck einer Cäsur hervorbringt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>so bildet diese Folge zwar keinen Schlußfall, wol aber einen&#13;
+Einschnitt. Terzverwandte Dreiklänge aber, wie der A moll-&#13;
+und C dur-, oder der E moll- und C dur-Dreiklang, erweisen&#13;
+sich als so eng verbundene Accorde, daß ihre Folge nicht einmal&#13;
+den Eindruck einer Cäsur hervorbringt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614168825923_2159" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
+            <Coords points="188,715 1203,715 1203,1183 188,1183"/>
+            <TextLine id="r1l20" custom="readingOrder {index:0;} concept_mus {offset:8; length:8;} m_chord {offset:17; length:9;} concept_mus {offset:34; length:9;}">
+                <Coords points="289,755 1187,763 1208,716 289,710"/>
+                <Baseline points="295,746 340,746 385,746 430,746 476,746 521,746 566,746 612,746 657,746 702,746 748,746 793,747 838,747 883,747 929,747 974,747 1019,748 1065,748 1110,748 1155,749 1201,749"/>
+                <TextEquiv>
+                    <Unicode>Nur der tonische Dreiklang in der Grundlage kann als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:1;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} m_chord {offset:0; length:12;} textStyle {offset:21; length:23;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:21; length:12;} concept_mus {offset:34; length:10;}">
+                <Coords points="199,795 1200,799 1200,765 1164,757 199,757"/>
+                <Baseline points="205,787 254,788 303,788 353,789 402,789 452,789 501,789 550,790 600,790 649,790 699,790 748,790 797,790 847,790 896,790 946,790 995,790 1044,790 1094,790 1143,789 1193,789"/>
+                <TextEquiv>
+                    <Unicode>Schlußaccord und auf accentuirtem Tacttheile das be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:2;} concept_mus {offset:23; length:10;}">
+                <Coords points="203,851 1199,843 1169,798 203,796"/>
+                <Baseline points="209,831 258,830 307,830 356,830 405,830 455,830 504,831 553,831 602,831 651,831 701,831 750,831 799,831 848,831 897,831 947,831 996,831 1045,831 1094,831 1143,831 1193,831"/>
+                <TextEquiv>
+                    <Unicode>friedigende Ende eines Tonstückes herbeiführen. Die oben mit¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:3;} concept_mus {offset:11; length:8;}">
+                <Coords points="200,891 1183,891 1205,851 200,852"/>
+                <Baseline points="207,875 256,874 306,873 355,873 405,872 455,872 504,872 554,872 603,872 653,872 703,872 752,873 802,873 851,873 901,873 951,873 1000,874 1050,874 1099,874 1149,874 1199,874"/>
+                <TextEquiv>
+                    <Unicode>getheilten Cadenzen aber können auf die mannigfaltigste Weise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:4;}">
+                <Coords points="204,922 1208,918 1166,884 204,892"/>
+                <Baseline points="210,916 259,915 309,915 358,914 408,914 458,914 507,914 557,914 606,914 656,914 706,915 755,915 805,915 854,915 904,916 954,916 1003,915 1053,915 1102,915 1152,914 1202,913"/>
+                <TextEquiv>
+                    <Unicode>ausgeschmückt und erweitert werden. Eine besondere Kraft be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:5;} concept_mus {offset:23; length:17;}">
+                <Coords points="201,967 1209,967 1209,935 1156,925 201,923"/>
+                <Baseline points="208,958 257,958 307,958 357,958 407,958 456,958 506,958 556,958 606,958 655,958 705,958 755,958 805,958 854,958 904,958 954,958 1004,958 1053,958 1103,958 1153,958 1203,958"/>
+                <TextEquiv>
+                    <Unicode>kommen dieselben, wenn Septimenharmonien sowol auf der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:6;} concept_mus {offset:0; length:6;} concept_mus {offset:19; length:13;}">
+                <Coords points="195,1011 1207,1011 1199,972 195,965"/>
+                <Baseline points="201,1000 251,999 301,999 351,999 401,999 451,1000 501,1000 551,1000 601,1000 651,1000 701,1000 751,1000 801,1000 851,1000 901,1000 951,1000 1001,1000 1051,1001 1101,1001 1151,1001 1201,1001"/>
+                <TextEquiv>
+                    <Unicode>Unter- wie auf der Oberdominante Theil daran nehmen, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:7;} m_chord {offset:30; length:22;}">
+                <Coords points="200,1051 1206,1051 1206,1019 1167,1012 200,1019"/>
+                <Baseline points="207,1043 256,1043 306,1042 355,1042 405,1042 455,1041 504,1041 554,1041 604,1041 653,1042 703,1042 753,1042 802,1042 852,1042 902,1042 951,1043 1001,1043 1051,1043 1100,1043 1150,1043 1200,1043"/>
+                <TextEquiv>
+                    <Unicode>namentlich charakterisirt der Dominantseptimenaccord eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:8;} m_tonality {offset:0; length:6;} concept_mus {offset:42; length:10;}">
+                <Coords points="198,1092 1199,1090 1140,1052 198,1052"/>
+                <Baseline points="204,1085 253,1085 302,1084 352,1084 401,1083 451,1083 500,1083 549,1084 599,1084 648,1084 698,1084 747,1085 796,1085 846,1085 895,1085 945,1086 994,1086 1043,1086 1093,1086 1142,1085 1192,1085"/>
+                <TextEquiv>
+                    <Unicode>Tonart sehr bestimmt, indem er die beiden Dominanten der¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:9;} concept_mus {offset:22; length:11;} concept_phy {offset:22; length:11;} concept_mus {offset:38; length:6;} m_note {offset:50; length:9;}">
+                <Coords points="200,1146 1209,1137 1209,1102 1099,1092 971,1114 200,1093"/>
+                <Baseline points="207,1127 256,1127 306,1127 356,1127 406,1127 456,1127 505,1127 555,1127 605,1127 655,1127 705,1127 754,1127 804,1127 854,1127 904,1127 954,1127 1003,1127 1053,1128 1103,1128 1153,1128 1203,1128"/>
+                <TextEquiv>
+                    <Unicode>selben mit den beiden Dissonanzen der Tonica, dem Leitetone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:10;} m_interval {offset:8; length:7;}">
+                <Coords points="202,1179 821,1187 851,1178 851,1143 202,1145"/>
+                <Baseline points="208,1168 239,1169 271,1169 303,1169 335,1169 367,1169 399,1169 430,1169 462,1169 494,1169 526,1169 558,1169 590,1169 622,1169 653,1169 685,1169 717,1169 749,1169 781,1169 813,1170 845,1170"/>
+                <TextEquiv>
+                    <Unicode>und der Secunde, gleichzeitig hören läßt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nur der tonische Dreiklang in der Grundlage kann als&#13;
+Schlußaccord und auf accentuirtem Tacttheile das be¬&#13;
+friedigende Ende eines Tonstückes herbeiführen. Die oben mit¬&#13;
+getheilten Cadenzen aber können auf die mannigfaltigste Weise&#13;
+ausgeschmückt und erweitert werden. Eine besondere Kraft be¬&#13;
+kommen dieselben, wenn Septimenharmonien sowol auf der&#13;
+Unter- wie auf der Oberdominante Theil daran nehmen, und&#13;
+namentlich charakterisirt der Dominantseptimenaccord eine&#13;
+Tonart sehr bestimmt, indem er die beiden Dominanten der¬&#13;
+selben mit den beiden Dissonanzen der Tonica, dem Leitetone&#13;
+und der Secunde, gleichzeitig hören läßt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <MusicRegion id="Music_1614168867048_2176" custom="readingOrder {index:4;} structure {type:floating-continued;}">
+            <Coords points="188,1183 1203,1183 1203,1912 188,1912"/>
+        </MusicRegion>
+    </Page>
+</PcGts>

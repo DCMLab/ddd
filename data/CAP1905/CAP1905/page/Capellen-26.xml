@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-03T13:14:48.878+01:00</Created>
+        <LastChange>2021-08-11T14:53:15.512+02:00</LastChange>
+        <TranskribusMetadata docId="747636" pageId="28294043" pageNr="26" tsid="62507240" status="DONE" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=FGWLVQLEXPUPCRMMTSGUPEYS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HPIOQOGRAXSRZIUPTBUHVJKR" imageId="22038972"/>
+    </Metadata>
+    <Page imageFilename="Capellen-26.jpg" imageWidth="721" imageHeight="1298" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1630498500814" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1614858054969_3662"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1614858054969_3661"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1614858049636_3653"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1614858039800_3645"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1614858054969_3662" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="96,111 686,111 686,140 96,140"/>
+            <TextLine id="line_1614858054998_3665" custom="readingOrder {index:0;}">
+                <Coords points="375,143 383,144 385,142 406,142 406,101 391,101 384,102 381,105 375,105"/>
+                <Baseline points="380,131 401,131"/>
+                <TextEquiv>
+                    <Unicode>22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614858054969_3661" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="86,139 686,140 686,809 86,808"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} m_tonality {offset:6; length:11;} textStyle {offset:6; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:31; length:14;}">
+                <Coords points="96,179 678,182 678,147 96,157"/>
+                <Baseline points="101,174 129,173 158,173 186,173 215,173 244,174 272,174 301,174 329,174 358,174 387,174 415,174 444,174 472,174 501,174 530,174 558,174 587,174 615,174 644,174 673,174"/>
+                <TextEquiv>
+                    <Unicode>neuen reinen Moll im Sinne der Paralleltonart, s. Fig. 34! Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} m_chord {offset:12; length:2;} textStyle {offset:13; length:1;fontSize:0.0; kerning:0; superscript:true;} m_chord {offset:20; length:2;} textStyle {offset:21; length:1;fontSize:0.0; kerning:0; superscript:true;} concept_mus {offset:37; length:15;} m_tonality {offset:57; length:6; continued:true;}">
+                <Coords points="91,200 686,205 678,179 91,179"/>
+                <Baseline points="96,195 125,195 154,195 183,195 213,195 242,195 271,195 300,195 330,195 359,195 388,195 417,195 447,195 476,195 505,195 534,195 564,195 593,195 622,196 651,196 681,196"/>
+                <TextEquiv>
+                    <Unicode>Schluss mit G7 oder G9 ist der wahre Dominantschluss des reinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} m_tonality {offset:0; length:11; continued:true;} m_chord {offset:22; length:7;} textStyle {offset:34; length:21;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:34; length:9;} m_tonality {offset:48; length:7; continued:true;}">
+                <Coords points="103,223 680,221 668,201 588,197 103,201"/>
+                <Baseline points="108,217 136,217 164,217 193,217 221,217 249,217 278,217 306,217 334,217 363,217 391,217 419,217 448,217 476,217 504,217 533,217 561,217 589,217 618,217 646,217 675,217"/>
+                <TextEquiv>
+                    <Unicode>„Kleinmoll”, da diese Akkorde der Dominante der Wurzel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:0; length:6;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:0; length:6; continued:true;} m_tonality {offset:7; length:5;} m_tonality {offset:15; length:8;} person_author {offset:53; length:7;ID:P0017;}">
+                <Coords points="91,243 673,247 681,220 91,223"/>
+                <Baseline points="96,238 125,238 154,238 183,239 212,239 241,239 270,239 299,239 328,239 357,239 386,239 415,239 444,239 473,239 502,239 531,239 560,239 589,239 618,239 647,239 676,239"/>
+                <TextEquiv>
+                    <Unicode>tonart C dur („Kleindur”) angehören, wogegen der von Riemann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} concept_mus {offset:19; length:11;} m_chord {offset:35; length:7;}">
+                <Coords points="98,263 681,268 681,244 663,243 98,248"/>
+                <Baseline points="103,260 131,260 160,260 188,260 217,260 246,260 274,259 303,259 332,260 360,259 389,259 418,260 446,260 475,260 504,260 532,260 561,260 590,260 618,259 647,260 676,259"/>
+                <TextEquiv>
+                    <Unicode>aufgestellte reine Mollschluss mit h d f a, trotzdem er von der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} concept_mus {offset:0; length:36;}">
+                <Coords points="98,287 680,290 669,265 98,263"/>
+                <Baseline points="103,282 131,281 160,281 188,281 217,281 246,281 274,281 303,281 331,281 360,281 389,281 417,281 446,281 474,281 503,281 532,281 560,281 589,282 617,282 646,282 675,282"/>
+                <TextEquiv>
+                    <Unicode>Unterton-(kopfstellungs-)perspektive aus dem Auge ebenfalls als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} concept_mus {offset:0; length:13;} concept_mus {offset:15; length:11;} textStyle {offset:43; length:4;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="100,306 680,308 680,285 100,287"/>
+                <Baseline points="105,303 133,303 162,304 190,304 219,304 247,304 276,304 304,304 333,304 361,304 390,304 418,304 447,303 475,303 504,303 532,304 561,304 589,304 618,304 646,304 675,304"/>
+                <TextEquiv>
+                    <Unicode>Dominantklang (Rechtsklang) erscheint, vom Ohre dennoch als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} textStyle {offset:0; length:12;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:12;} textStyle {offset:14; length:10;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:14; length:10;} textStyle {offset:26; length:14;fontSize:0.0; kerning:0; letterSpaced:true;} m_tonality {offset:30; length:10;}">
+                <Coords points="93,329 680,331 672,307 93,307"/>
+                <Baseline points="98,324 126,324 155,325 184,325 213,325 242,325 271,325 299,325 328,325 357,325 386,325 415,325 444,324 473,324 501,324 530,325 559,325 588,325 617,325 646,325 675,325"/>
+                <TextEquiv>
+                    <Unicode>Subdominante (Linksklang) der Fusstonart gehört wird,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} textStyle {offset:0; length:38;fontSize:0.0; kerning:0; letterSpaced:true;} person_author {offset:4; length:7;ID:P0017;}">
+                <Coords points="98,350 686,353 661,329 98,332"/>
+                <Baseline points="103,346 131,346 160,346 189,346 218,346 247,346 276,347 305,347 334,347 363,347 392,347 420,347 449,347 478,347 507,347 536,347 565,347 594,347 623,347 652,347 681,347"/>
+                <TextEquiv>
+                    <Unicode>was Riemann sogar selbst zugegeben hat (s. meine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;} work_text {offset:0; length:11;ID:W0071;} person_author {offset:42; length:8;ID:P0017;}">
+                <Coords points="96,371 678,375 678,354 652,351 96,351"/>
+                <Baseline points="101,367 129,367 158,367 186,367 215,367 244,367 272,367 301,367 329,367 358,367 387,367 415,367 444,367 472,367 501,367 530,367 558,367 587,367 615,367 644,367 673,367"/>
+                <TextEquiv>
+                    <Unicode>Monographie § 8 am Schlusse!) Der Ausfall Riemanns S. 69 seiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;} work_text {offset:0; length:14;ID:W0009;} person_author {offset:21; length:14;ID:P0040;}">
+                <Coords points="99,393 680,396 680,379 646,372 99,371"/>
+                <Baseline points="104,389 132,389 161,389 189,389 218,389 246,389 275,389 303,389 332,389 360,389 389,389 418,389 446,389 475,389 503,389 532,389 560,389 589,389 617,389 646,389 675,389"/>
+                <TextEquiv>
+                    <Unicode>Problemschrift gegen Ary Belinfante, dem er eine „schwächliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;} concept_mus {offset:49; length:10; continued:true;}">
+                <Coords points="98,415 680,421 680,396 600,392 98,392"/>
+                <Baseline points="103,412 131,411 160,411 188,411 217,410 246,410 274,410 303,410 331,410 360,410 389,411 417,411 446,411 474,411 503,411 532,411 560,411 589,411 617,411 646,411 675,410"/>
+                <TextEquiv>
+                    <Unicode>Logik, mit der er einen Widerspruch zwischen der Funktions¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;} concept_mus {offset:0; length:11; continued:true;} concept_mus {offset:13; length:6;} concept_mus {offset:21; length:9;} concept_mus {offset:32; length:12;} concept_mus {offset:54; length:6;}">
+                <Coords points="94,436 683,439 683,417 659,415 94,415"/>
+                <Baseline points="99,432 129,432 159,432 190,432 220,432 251,432 281,432 312,432 342,432 373,432 403,432 434,432 464,432 495,432 525,432 556,432 586,432 617,432 647,432 678,432"/>
+                <TextEquiv>
+                    <Unicode>bezeichnung (Tonika, Dominante, Subdominante) und der dualen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;} concept_mus {offset:15; length:8;}">
+                <Coords points="93,458 678,462 662,437 93,435"/>
+                <Baseline points="98,454 126,454 155,454 184,454 213,454 241,454 270,454 299,454 328,454 356,454 385,454 414,454 443,454 471,454 500,454 529,454 558,454 586,454 615,453 644,453 673,453"/>
+                <TextEquiv>
+                    <Unicode>Begründung der Harmonie entdeckt zu haben glaube” vorwirft, ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;} person_author {offset:57; length:10;ID:P0040;}">
+                <Coords points="94,483 685,484 685,463 625,458 94,459"/>
+                <Baseline points="99,474 128,474 157,475 186,475 215,475 244,475 273,475 302,475 331,475 360,475 389,475 418,475 447,475 476,475 505,475 534,475 563,475 592,475 621,475 650,475 680,476"/>
+                <TextEquiv>
+                    <Unicode>hiernach durchaus unberechtigt. Der Vorwurf trifft nicht Belinfante,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;} person_author {offset:8; length:7;ID:P0017;} work_text {offset:39; length:11;ID:W0071;}">
+                <Coords points="100,502 683,498 607,478 100,484"/>
+                <Baseline points="105,497 133,497 162,497 190,496 219,496 248,496 276,497 305,497 334,497 362,497 391,497 420,497 448,497 477,497 506,497 534,497 563,497 592,497 620,497 649,497 678,496"/>
+                <TextEquiv>
+                    <Unicode>sondern Riemann selbst, der, wie meine Monographie und die vor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="96,524 681,524 681,505 653,502 96,502"/>
+                <Baseline points="101,519 129,519 158,519 187,519 216,519 244,519 273,519 302,519 331,519 359,519 388,519 417,519 446,519 474,519 503,519 532,519 561,519 589,519 618,519 647,518 676,518"/>
+                <TextEquiv>
+                    <Unicode>liegenden Ausführungen handgreiflich beweisen, beim Aufbau seines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;} concept_mus {offset:0; length:11;}">
+                <Coords points="95,546 683,546 683,525 659,523 95,524"/>
+                <Baseline points="100,540 128,540 157,539 186,539 215,539 244,539 273,539 302,539 331,539 360,540 389,540 417,540 446,540 475,540 504,540 533,540 562,539 591,539 620,539 649,539 678,539"/>
+                <TextEquiv>
+                    <Unicode>Mollsystems so krasse Absurditäten und Inkonsequenzen zu Tage be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;} concept_mus {offset:18; length:9;} person_author {offset:66; length:6; continued:true;ID:P0040;}">
+                <Coords points="94,565 687,570 687,547 652,543 94,545"/>
+                <Baseline points="99,562 128,561 157,561 186,561 215,561 244,561 273,561 303,561 332,561 361,561 390,561 419,561 448,562 477,562 507,562 536,562 565,562 594,561 623,561 652,561 682,561"/>
+                <TextEquiv>
+                    <Unicode>fördert, dass der Dualismus definitiv gerichtet erscheint und mit Belin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;} person_author {offset:0; length:5; continued:true;ID:P0040;} person_author {offset:38; length:7;ID:P0017;}">
+                <Coords points="99,587 681,588 681,567 654,565 99,567"/>
+                <Baseline points="104,584 132,584 161,584 189,584 218,584 247,584 275,584 304,584 332,584 361,584 390,584 418,584 447,584 475,584 504,584 533,584 561,584 590,584 618,584 647,584 676,584"/>
+                <TextEquiv>
+                    <Unicode>fante wirklich zu bedauern ist, dass „Riemann zu einem ehrlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="94,610 680,609 661,587 94,588"/>
+                <Baseline points="99,603 127,604 156,604 185,604 214,604 243,605 271,605 300,605 329,605 358,604 387,604 415,604 444,604 473,604 502,604 531,604 559,604 588,604 617,604 646,604 675,605"/>
+                <TextEquiv>
+                    <Unicode>Widerruf nicht die Kraft besessen hat.” Interessierte Leser wollen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;} concept_mus {offset:33; length:22;}">
+                <Coords points="95,631 633,637 687,633 687,609 95,613"/>
+                <Baseline points="100,626 129,626 158,626 187,626 216,626 245,626 274,626 303,626 332,626 361,626 391,626 420,626 449,626 478,626 507,626 536,626 565,626 594,626 623,626 652,626 682,626"/>
+                <TextEquiv>
+                    <Unicode>auch in meinem Teil III § 9 (die symmetrische Umkehrung) und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="94,651 681,658 681,635 619,631 94,632"/>
+                <Baseline points="99,647 127,647 156,647 185,647 214,647 243,647 272,647 300,647 329,647 358,647 387,647 416,647 445,647 474,647 502,647 531,647 560,647 589,647 618,647 647,647 676,648"/>
+                <TextEquiv>
+                    <Unicode>den ebenfalls davon handelnden, unten abgedruckten Aufsatz gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;} person_author {offset:6; length:11;ID:P0071;} concept_mus {offset:47; length:16;}">
+                <Coords points="95,674 688,674 688,658 631,651 95,651"/>
+                <Baseline points="100,669 129,669 158,670 187,670 216,670 245,670 274,670 304,670 333,669 362,669 391,669 420,669 449,669 478,669 508,669 537,669 566,669 595,669 624,669 653,669 683,670"/>
+                <TextEquiv>
+                    <Unicode>Prof. H. Schröder vergleichen und betreffs der reinen Molltypen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;} work_text {offset:3; length:6;ID:W0014;} work_text {offset:47; length:7;ID:W0031;}">
+                <Coords points="96,696 632,699 686,696 686,674 96,675"/>
+                <Baseline points="101,691 130,692 159,692 188,692 217,692 246,692 275,692 304,691 333,691 362,691 391,691 420,691 449,691 478,690 507,690 536,690 565,690 594,690 623,690 652,690 681,690"/>
+                <TextEquiv>
+                    <Unicode>in Teil I den Anhang (Zukunftsmusik?) sowie in Teil II S. 57—63</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;} concept_mus {offset:56; length:8;}">
+                <Coords points="98,716 679,723 673,694 98,695"/>
+                <Baseline points="103,712 131,712 160,712 188,712 217,712 245,712 274,712 302,712 331,712 359,712 388,712 417,712 445,712 474,712 502,712 531,712 559,712 588,712 616,712 645,712 674,711"/>
+                <TextEquiv>
+                    <Unicode>durchlesen, wo entwickelt ist, dass eine neue Kunst der Harmonik</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;} concept_mus {offset:4; length:7;} textStyle {offset:38; length:20;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:42; length:16;}">
+                <Coords points="103,740 633,742 685,738 685,716 103,722"/>
+                <Baseline points="108,734 136,734 165,734 193,734 222,734 251,734 279,734 308,734 336,734 365,734 394,734 422,734 451,734 479,734 508,734 537,734 565,734 594,734 622,734 651,734 680,734"/>
+                <TextEquiv>
+                    <Unicode>und Melodik geboren werden wird, wenn die vierfache Wurzel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;} textStyle {offset:0; length:37;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:4; length:11;} m_tonality {offset:24; length:13;}">
+                <Coords points="97,763 671,764 678,737 97,739"/>
+                <Baseline points="102,757 130,757 159,757 187,757 216,757 244,757 273,757 301,756 330,756 358,756 387,756 416,756 444,756 473,756 501,756 530,756 558,755 587,755 615,755 644,755 673,754"/>
+                <TextEquiv>
+                    <Unicode>des Mollklanges und der Molltonalität als wahre Tat¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;} concept_mus {offset:51; length:11;}">
+                <Coords points="101,784 686,790 686,765 648,760 101,764"/>
+                <Baseline points="106,777 134,777 163,777 192,777 221,777 249,777 278,777 307,777 336,777 364,777 393,777 422,777 451,777 479,777 508,777 537,777 566,777 594,777 623,777 652,777 681,777"/>
+                <TextEquiv>
+                    <Unicode>sache anerkannt wird und dann in der Phantasie des Komponisten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614858049666_3657" custom="readingOrder {index:29;}">
+                <Coords points="101,804 215,804 215,783 207,781 202,784 163,783 160,786 101,782"/>
+                <Baseline points="106,799 132,800 158,800 184,800 210,800"/>
+                <TextEquiv>
+                    <Unicode>Blüten treibt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>neuen reinen Moll im Sinne der Paralleltonart, s. Fig. 34! Der&#13;
+Schluss mit G7 oder G9 ist der wahre Dominantschluss des reinen&#13;
+„Kleinmoll”, da diese Akkorde der Dominante der Wurzel¬&#13;
+tonart C dur („Kleindur”) angehören, wogegen der von Riemann&#13;
+aufgestellte reine Mollschluss mit h d f a, trotzdem er von der&#13;
+Unterton-(kopfstellungs-)perspektive aus dem Auge ebenfalls als&#13;
+Dominantklang (Rechtsklang) erscheint, vom Ohre dennoch als&#13;
+Subdominante (Linksklang) der Fusstonart gehört wird,&#13;
+was Riemann sogar selbst zugegeben hat (s. meine&#13;
+Monographie § 8 am Schlusse!) Der Ausfall Riemanns S. 69 seiner&#13;
+Problemschrift gegen Ary Belinfante, dem er eine „schwächliche&#13;
+Logik, mit der er einen Widerspruch zwischen der Funktions¬&#13;
+bezeichnung (Tonika, Dominante, Subdominante) und der dualen&#13;
+Begründung der Harmonie entdeckt zu haben glaube” vorwirft, ist&#13;
+hiernach durchaus unberechtigt. Der Vorwurf trifft nicht Belinfante,&#13;
+sondern Riemann selbst, der, wie meine Monographie und die vor¬&#13;
+liegenden Ausführungen handgreiflich beweisen, beim Aufbau seines&#13;
+Mollsystems so krasse Absurditäten und Inkonsequenzen zu Tage be¬&#13;
+fördert, dass der Dualismus definitiv gerichtet erscheint und mit Belin¬&#13;
+fante wirklich zu bedauern ist, dass „Riemann zu einem ehrlichen&#13;
+Widerruf nicht die Kraft besessen hat.” Interessierte Leser wollen&#13;
+auch in meinem Teil III § 9 (die symmetrische Umkehrung) und&#13;
+den ebenfalls davon handelnden, unten abgedruckten Aufsatz gegen&#13;
+Prof. H. Schröder vergleichen und betreffs der reinen Molltypen&#13;
+in Teil I den Anhang (Zukunftsmusik?) sowie in Teil II S. 57—63&#13;
+durchlesen, wo entwickelt ist, dass eine neue Kunst der Harmonik&#13;
+und Melodik geboren werden wird, wenn die vierfache Wurzel&#13;
+des Mollklanges und der Molltonalität als wahre Tat¬&#13;
+sache anerkannt wird und dann in der Phantasie des Komponisten&#13;
+Blüten treibt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1614858049636_3653" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="96,809 686,809 686,980 96,980"/>
+            <TextLine id="line_1614858138724_3721" custom="readingOrder {index:0;} person_author {offset:25; length:10;ID:P0017;} work_text {offset:46; length:8; continued:true;ID:W0009;}">
+                <Coords points="145,849 685,848 685,827 631,809 528,830 145,815"/>
+                <Baseline points="150,842 176,842 202,842 228,842 254,842 280,842 306,843 333,845 349,843 374,842 399,842 425,842 450,842 476,842 501,842 527,843 552,843 578,843 603,843 629,842 654,842 680,842"/>
+                <TextEquiv>
+                    <Unicode>Die Geringschätzung, die H. Riemann in seiner Problem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:1;} work_text {offset:0; length:7; continued:true;ID:W0009;} textStyle {offset:20; length:22;fontSize:0.0; kerning:0; bold:true;} concept_phy {offset:20; length:11;} concept_mus {offset:35; length:7;} work_text {offset:46; length:6;ID:W0014;}">
+                <Coords points="95,869 686,872 686,849 649,847 95,851"/>
+                <Baseline points="100,865 129,865 158,865 187,865 216,865 245,865 274,865 303,865 332,865 361,865 390,865 419,865 448,865 477,865 506,865 535,865 564,865 593,865 622,865 651,865 681,865"/>
+                <TextEquiv>
+                    <Unicode>schrift gegen meine Experimente am Klavier in Teil I äussert,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:2;}">
+                <Coords points="105,892 688,893 671,870 105,876"/>
+                <Baseline points="110,886 138,886 167,886 195,886 224,887 253,887 281,887 310,887 339,887 367,887 396,887 425,887 453,887 482,887 511,886 539,886 568,886 597,886 625,886 654,886 683,885"/>
+                <TextEquiv>
+                    <Unicode>veranlasst mich, der auch von andern gestellten Frage näher zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:3;} textStyle {offset:20; length:31;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:20; length:7;} concept_mus {offset:39; length:12; continued:true;}">
+                <Coords points="98,912 685,913 685,895 661,892 98,894"/>
+                <Baseline points="103,908 131,908 160,908 189,908 218,907 247,907 276,907 304,907 333,907 362,907 391,907 420,907 449,908 478,908 506,908 535,908 564,908 593,908 622,908 651,908 680,908"/>
+                <TextEquiv>
+                    <Unicode>treten, ob denn das Klavier mit seiner temperierten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:4;} textStyle {offset:0; length:8;fontSize:0.0; kerning:0; letterSpaced:true;} concept_mus {offset:0; length:8; continued:true;} concept_mus {offset:23; length:10;}">
+                <Coords points="98,934 685,935 685,913 650,911 98,913"/>
+                <Baseline points="103,930 131,930 160,930 189,930 218,930 247,930 276,930 304,930 333,930 362,930 391,930 420,930 449,930 478,930 506,929 535,929 564,929 593,929 622,929 651,929 680,928"/>
+                <TextEquiv>
+                    <Unicode>Stimmung das geeignete Instrument für Experimente ist, ob diese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:5;} concept_mus {offset:0; length:20;} concept_mus {offset:49; length:13;}">
+                <Coords points="96,957 691,952 638,932 96,937"/>
+                <Baseline points="101,951 130,951 159,951 188,951 218,951 247,951 276,951 305,951 335,951 364,951 393,951 422,951 452,951 481,950 510,950 539,950 569,950 598,950 627,950 656,950 686,950"/>
+                <TextEquiv>
+                    <Unicode>temperierte Stimmung überhaupt die Grundlage der musikalischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614858039841_3649" custom="readingOrder {index:6;} concept_phy {offset:0; length:7;}">
+                <Coords points="94,978 669,981 688,955 94,962"/>
+                <Baseline points="99,973 128,973 157,973 186,973 215,973 245,973 274,973 303,973 332,973 361,973 391,973 420,973 449,973 478,973 507,973 537,972 566,972 595,972 624,972 653,972 683,972"/>
+                <TextEquiv>
+                    <Unicode>Akustik sein kann? Ich bejahe diese Fragen aus folgenden Gründen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Geringschätzung, die H. Riemann in seiner Problem¬&#13;
+schrift gegen meine Experimente am Klavier in Teil I äussert,&#13;
+veranlasst mich, der auch von andern gestellten Frage näher zu&#13;
+treten, ob denn das Klavier mit seiner temperierten&#13;
+Stimmung das geeignete Instrument für Experimente ist, ob diese&#13;
+temperierte Stimmung überhaupt die Grundlage der musikalischen&#13;
+Akustik sein kann? Ich bejahe diese Fragen aus folgenden Gründen:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1614858039800_3645" custom="readingOrder {index:3;} structure {type:paragraph-continued;}">
+            <Coords points="96,980 686,980 686,1135 96,1135"/>
+            <TextLine id="line_1614858039842_3650" custom="readingOrder {index:0;} concept_mus {offset:6; length:7;} concept_phy {offset:25; length:21;} concept_phy {offset:48; length:8;}">
+                <Coords points="140,1001 691,1001 691,986 654,977 140,978"/>
+                <Baseline points="145,993 201,993 227,994 252,994 278,993 303,993 329,993 354,993 380,993 405,993 431,993 456,993 482,993 507,993 533,993 558,993 584,993 609,994 635,994 660,994 686,994"/>
+                <TextEquiv>
+                    <Unicode>1. Am Klavier treten die akustischen Phänomene, Obertöne,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:1;} concept_phy {offset:0; length:16;} concept_phy {offset:21; length:11;}">
+                <Coords points="99,1020 681,1021 668,998 99,997"/>
+                <Baseline points="104,1016 132,1016 161,1015 189,1015 218,1015 247,1015 275,1015 304,1015 332,1015 361,1015 390,1015 418,1015 447,1015 475,1016 504,1016 533,1015 561,1015 590,1015 618,1015 647,1015 676,1015"/>
+                <TextEquiv>
+                    <Unicode>Kombinationstöne und Schwebungen deutlich genug hervor; daher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:2;} person_author {offset:11; length:9;ID:P0001;} person_author {offset:25; length:6;ID:P0019;} concept_mus {offset:57; length:7;}">
+                <Coords points="97,1043 682,1042 667,1019 97,1022"/>
+                <Baseline points="102,1038 130,1038 159,1038 188,1038 217,1038 245,1038 274,1037 303,1037 332,1038 360,1038 389,1038 418,1037 447,1037 475,1037 504,1037 533,1037 562,1037 590,1037 619,1037 648,1037 677,1037"/>
+                <TextEquiv>
+                    <Unicode>haben sich Helmholtz und Stumpf nicht gescheut, auch das Klavier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:3;} concept_phy {offset:3; length:11;} concept_phy {offset:15; length:12;} person_author {offset:41; length:9;ID:P0001;}">
+                <Coords points="98,1064 691,1062 674,1041 98,1045"/>
+                <Baseline points="103,1059 132,1059 161,1059 190,1059 219,1059 248,1059 277,1059 307,1058 336,1058 365,1058 394,1058 423,1058 452,1058 481,1058 511,1058 540,1058 569,1058 598,1058 627,1058 656,1058 686,1058"/>
+                <TextEquiv>
+                    <Unicode>zu akustischen Experimenten zu benutzen. Helmholtz will die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:4;} concept_phy {offset:0; length:11;} concept_phy {offset:16; length:8;}">
+                <Coords points="106,1085 683,1085 683,1068 629,1062 106,1065"/>
+                <Baseline points="111,1081 139,1080 167,1080 196,1080 224,1080 252,1080 281,1080 309,1080 337,1080 366,1080 394,1080 422,1080 451,1080 479,1080 507,1080 536,1080 564,1080 592,1080 621,1080 649,1080 678,1080"/>
+                <TextEquiv>
+                    <Unicode>Wahrnehmung der Obertöne dadurch erleichtern, dass er die Tasten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:5;} m_note {offset:4; length:4;} m_chord {offset:9; length:8;}">
+                <Coords points="104,1108 687,1111 687,1090 666,1085 104,1085"/>
+                <Baseline points="109,1102 137,1103 166,1103 194,1103 223,1103 252,1103 280,1103 309,1103 338,1103 366,1103 395,1103 424,1102 452,1102 481,1102 510,1102 538,1102 567,1102 596,1102 624,1101 653,1101 682,1101"/>
+                <TextEquiv>
+                    <Unicode>der Töne c′ e′ g′ stumm niederdrückt, also partiell die Dämpfung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l47" custom="readingOrder {index:6;} m_note {offset:36; length:9;} concept_phy {offset:47; length:15;}">
+                <Coords points="97,1136 691,1137 691,1115 657,1106 97,1107"/>
+                <Baseline points="102,1123 131,1123 160,1124 189,1124 218,1124 248,1124 277,1124 306,1124 335,1123 364,1123 394,1123 423,1123 452,1123 481,1123 510,1123 540,1123 569,1123 598,1123 627,1124 656,1124 686,1125"/>
+                <TextEquiv>
+                    <Unicode>beseitigt, und dann den zugehörigen Grundbass (Kombinationston),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1. Am Klavier treten die akustischen Phänomene, Obertöne,&#13;
+Kombinationstöne und Schwebungen deutlich genug hervor; daher&#13;
+haben sich Helmholtz und Stumpf nicht gescheut, auch das Klavier&#13;
+zu akustischen Experimenten zu benutzen. Helmholtz will die&#13;
+Wahrnehmung der Obertöne dadurch erleichtern, dass er die Tasten&#13;
+der Töne c′ e′ g′ stumm niederdrückt, also partiell die Dämpfung&#13;
+beseitigt, und dann den zugehörigen Grundbass (Kombinationston),</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
